@@ -9,6 +9,8 @@ import {
     sendPasswordResetEmail,
     signInWithPopup,
 } from "firebase/auth";
+import { db } from "./firebaseConfig.js";
+import { doc, setDoc } from "firebase/firestore";
 
 let userPromiseResolve = null;
 const userPromise = new Promise((resolve, _reject) => {
@@ -19,6 +21,7 @@ const store = createStore({
     state: {
         user: null,
         userPromise,
+        headerLinks: [],
     },
     getters: {
         user(state) {
@@ -30,11 +33,17 @@ const store = createStore({
         userPromise(state) {
             return state.userPromise;
         },
+        headerLinks(state) {
+            return state.headerLinks;
+        },
     },
     mutations: {
         SET_USER(state, user) {
             state.user = user;
             userPromiseResolve(user);
+        },
+        SET_HEADER_LINKS(state, links) {
+            state.headerLinks = links;
         },
     },
     actions: {
@@ -50,6 +59,11 @@ const store = createStore({
             if (response) {
                 context.commit("SET_USER", response.user);
             }
+            await setDoc(doc(db, "users", response.user.uid), {
+                displayName: name,
+                userProfile: null,
+                trips: [],
+            }, { merge: true });
             try {
                 await updateProfile(response.user, { displayName: name });
             } catch (error) {
@@ -85,7 +99,16 @@ const store = createStore({
             if (response) {
                 context.commit("SET_USER", response.user);
             }
-        }
+            await setDoc(doc(db, "users", response.user.uid), {
+                displayName: response.user.displayName,
+                userProfile: response.user.photoURL,
+                trips: [],
+            }, { merge: true });
+        },
+        
+        setHeaderLinks(context, links) {
+            context.commit("SET_HEADER_LINKS", links);
+        },
     },
 });
 

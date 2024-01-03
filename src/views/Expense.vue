@@ -1,11 +1,12 @@
-<script setup>
-</script>
-
 <template>
     <div>
-        <h1>Expense</h1>
+        <p>Expense for {{ $route.params.groupId }}</p>
     </div>
 </template>
+
+<script setup>
+import { useRoute } from 'vue-router'
+</script>
 
 <style scoped>
 </style>

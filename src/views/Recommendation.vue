@@ -1,11 +1,12 @@
-<script setup>
-</script>
-
 <template>
     <div>
-        <h1>Recommendation</h1>
+        <p>Recommendation for {{ $route.params.groupId }}</p>
     </div>
 </template>
+
+<script setup>
+import { useRoute } from 'vue-router'
+</script>
 
 <style scoped>
 </style>

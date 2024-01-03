@@ -4,7 +4,7 @@
             <p>Forgot your account's password? Enter your email address and we'll send you a recovery link.</p>
             <form @submit.prevent="sendRecoveryEmail">
                 <Input labelId="email" labelText="Email" inputType="email" v-model="email" style="width:435px;"/>
-                <Button @click="sendRecoveryEmail" @keyup.enter="sendRecoveryEmail" btnText="Send recovery email" />
+                <Button @click="sendRecoveryEmail" @keyup.enter="sendRecoveryEmail" btnText="Send recovery email" class="btn-primary"/>
             </form>
             <p class="form-error">{{ errorMessage }}</p>
         </div>
