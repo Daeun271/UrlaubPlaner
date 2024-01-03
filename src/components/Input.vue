@@ -1,6 +1,6 @@
 <template>
     <div>
-        <label :for="labelId" style="font-weight: 700;">{{ labelText }}</label>
+        <label :for="labelId" style="font-weight: 700;">{{ labelText }}</label><span v-if="isImportant" style="color: red !important; display: inline; float: none; margin:3px;">*</span>
         <br/>
         <input :id="labelId" :type="inputType" class="form-input" :value="modelValue" @input="$emit('update:modelValue', $event.target.value)"/>
     </div>
@@ -12,6 +12,7 @@ export default{
     props: {
         labelId: String,
         labelText: String,
+        isImportant: Boolean,
         inputType: String,
         modelValue: String,
     },

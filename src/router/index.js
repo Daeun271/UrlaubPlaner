@@ -9,6 +9,8 @@ import SignIn from "../views/SignIn.vue";
 import SignUp from "../views/SignUp.vue";
 import SignOut from "../views/SignOut.vue";
 import PasswordReset from "../views/PasswordReset.vue";
+import CreatePlan from "../views/CreatePlan.vue";
+import Group from "../views/Group.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -24,45 +26,56 @@ const router = createRouter({
       component: User,
     },
     {
-      path: "/plan",
-      name: "plan",
-      component: Plan,
-    },
-    {
-      path: "/expense",
-      name: "expense",
-      component: Expense,
-    },
-    {
-      path: "/recommendation",
-      name: "recommendation",
-      component: Recommendation,
-    },
-    {
       path: "/signin",
-      name: "signin",
+      name: "sign-in",
       component: SignIn,
     },
     {
       path: "/signup",
-      name: "signup",
+      name: "sign-up",
       component: SignUp,
     },
     {
       path: "/signout",
-      name: "signout",
+      name: "sign-out",
       component: SignOut,
     },
     {
       path: "/reset",
       name: "reset",
       component: PasswordReset,
-    }
+    },
+    {
+      path: "/create-plan",
+      name: "create-plan",
+      component: CreatePlan,
+    },
+    {
+      path: "/trip/:groupId/group",
+      name: "group",
+      component: Group,
+    },
+    {
+      path: "/trip/:groupId/plan",
+      name: "plan",
+      component: Plan,
+    },
+    {
+      path: "/trip/:groupId/expense",
+      name: "expense",
+      component: Expense,
+    },
+    {
+      path: "/trip/:groupId/recommendation",
+      name: "recommendation",
+      component: Recommendation,
+    },
   ],
 });
 
 router.beforeResolve(async (to, from, next) => {
   const store = useStore();
+  store.dispatch("setHeaderLinks", []);
   await store.getters.userPromise;
 
   if (to.path === "/user") {
@@ -90,7 +103,20 @@ router.beforeResolve(async (to, from, next) => {
     return;
   }
 
+  if (to.path === "/create-plan") {
+    store.getters.isLoggedIn ? next() : next(false);
+    return;
+  }
+
+  if (to.path.startsWith("/trip/")) {
+    store.dispatch("setHeaderLinks", [
+      { name: "Group", path: `/trip/${to.params.groupId}/group` },
+      { name: "Plan", path: `/trip/${to.params.groupId}/plan` },
+      { name: "Expense", path: `/trip/${to.params.groupId}/expense` },
+      { name: "Recommendation", path: `/trip/${to.params.groupId}/recommendation` },
+    ]);
+  }
+
   next();
 });
-
 export default router;

@@ -28,7 +28,7 @@ export default{
     right: 7px;
     border-radius: 12px;
     background-color: #fff;
-    max-width: 300px;
+    max-width: 450px;
     padding: 10px 35px 15px 25px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 1);
     border-left: 6px solid #1994eb;

@@ -1,11 +1,11 @@
 <template>
     <div class="bg">
-        <Button @click="signInWithGoogle" :imgSrc="googleIconUrl" imgStyle="padding:5px;" btnText="Sign In with Google" style="height:40px; width:298px; margin-bottom:0.75rem;"/>
+        <Button @click="signInWithGoogle" :imgSrc="googleIconUrl" :imgStyle="'margin:5px;'" btnText="Sign In with Google" style="height:40px; width:298px; margin-bottom:0.75rem;" class="btn-secondary"/>
         <div class="container">
             <form @submit.prevent="signIn">
                 <Input labelId="email" labelText="Email" inputType="email" v-model="email" />
                 <Input labelId="password" labelText="Password" inputType="password" v-model="password" />
-                <Button @click="signIn" @keyup.enter="signIn" btnText="Sign In" style="width:250px; margin-top:0.75rem;" />
+                <Button @click="signIn" @keyup.enter="signIn" btnText="Sign In" style="width:250px; margin-top:0.75rem;" class="btn-primary"/>
                 <div v-if="isBusy" class="form-spinner">
                     <Spinner/>
                 </div>
@@ -27,7 +27,6 @@ import Input from '../components/Input.vue';
 import Button from '../components/Button.vue';
 import Spinner from '../components/Spinner.vue';
 import googleIconUrl from '@/assets/logos/icons8-google-logo.svg?url';
-import appleIconUrl from '@/assets/logos/icons8-mac-os.svg?url';
 
 const email = ref('');
 const password = ref('');
@@ -114,6 +113,10 @@ const signInWithGoogle = async () => {
 }
 
 .div2-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin-top: 0.75rem;
     font-size: 0.75rem;
     line-height: 1rem;

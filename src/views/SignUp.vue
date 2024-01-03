@@ -1,12 +1,12 @@
 <template>
     <div class="bg">
-        <Button @click="signUpWithGoogle" :imgSrc="googleIconUrl" imgStyle="padding:5px;" btnText="Sign Up with Google" style="height:40px; width:298px; margin-bottom:0.75rem;"/>
+        <Button @click="signUpWithGoogle" :imgSrc="googleIconUrl" :imgStyle="'margin:5px;'" btnText="Sign Up with Google" style="height:40px; width:298px; margin-bottom:0.75rem;" class="btn-secondary"/>
         <div class="container">
             <form @submit.prevent="signUp">
-                <Input labelId="name" labelText="Display Name" inputType="text" v-model="name" />
-                <Input labelId="email" labelText="Email" inputType="email" v-model="email" />
-                <Input labelId="password" labelText="Password" inputType="password" v-model="password" />
-                <Button @click="signUp" @keyup.enter="signUp" btnText="Sign Up" style="width:250px; margin-top:0.75rem;"/>
+                <Input labelId="name" labelText="Display Name" :isImportant="true" inputType="text" v-model="name" />
+                <Input labelId="email" labelText="Email" :isImportant="true" inputType="email" v-model="email" />
+                <Input labelId="password" labelText="Password" :isImportant="true" inputType="password" v-model="password" />
+                <Button @click="signUp" @keyup.enter="signUp" btnText="Sign Up" style="width:250px; margin-top:0.75rem;" class="btn-primary"/>
                 <div v-if="isBusy" class="form-spinner">
                     <Spinner/>
                 </div>
@@ -27,7 +27,6 @@ import Input from '../components/Input.vue';
 import Button from '../components/Button.vue';
 import Spinner from '../components/Spinner.vue';
 import googleIconUrl from '@/assets/logos/icons8-google-logo.svg?url';
-import appleIconUrl from '@/assets/logos/icons8-mac-os.svg?url';
 
 const name = ref('');
 const email = ref('');
