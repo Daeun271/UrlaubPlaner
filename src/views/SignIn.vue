@@ -5,7 +5,7 @@
             <form @submit.prevent="signIn">
                 <Input labelId="email" labelText="Email" inputType="email" v-model="email" />
                 <Input labelId="password" labelText="Password" inputType="password" v-model="password" />
-                <Button @click="signIn" @keyup.enter="signIn" btnText="Sign In" style="width:250px; margin-top:0.75rem;" class="btn-primary"/>
+                <Button btnText="Sign In" style="width:250px; margin-top:0.75rem;" class="btn-primary"/>
                 <div v-if="isBusy" class="form-spinner">
                     <Spinner/>
                 </div>
@@ -13,20 +13,22 @@
             </form>
         </div>
         <div class="div2-container">
-            <p>Don't you have an account? <RouterLink to="/signup">Sign Up</RouterLink></p>
+            <p>Don't you have an account? <RouterLink :to="signUp">Sign Up</RouterLink></p>
             <p>Forgot your password? <RouterLink to="/reset">Reset Password</RouterLink></p>
         </div>
     </div>
 </template>
 
 <script setup>
-import { ref } from 'vue';
+import { ref, computed } from 'vue';
 import { useStore } from 'vuex';
-import { useRouter } from 'vue-router';
+import { useRouter, useRoute } from 'vue-router';
 import Input from '../components/Input.vue';
 import Button from '../components/Button.vue';
 import Spinner from '../components/Spinner.vue';
 import googleIconUrl from '@/assets/logos/icons8-google-logo.svg?url';
+import { db } from '../firebaseConfig.js';
+import { doc, getDoc, collection, updateDoc, arrayUnion, setDoc, documentId, query, where, getDocs } from "firebase/firestore";
 
 const email = ref('');
 const password = ref('');
@@ -34,6 +36,8 @@ const errorMessage = ref('');
 const store = useStore();
 const router = useRouter();
 const isBusy = ref(false);
+const route = useRoute();
+const groupId = route.params.groupId;
 
 const signIn = async () => {
     if(isBusy.value) {
@@ -46,7 +50,23 @@ const signIn = async () => {
             email: email.value,
             password: password.value
         });
-        router.push('/user');
+
+        if(groupId){
+            const tripIds = (await getDoc(doc(collection(db, "users"), store.state.user.uid))).get("trips");
+            if(!tripIds.includes(groupId)){
+                const userRef = doc(db, "users", store.state.user.uid);
+                await updateDoc(userRef, {
+                    trips: arrayUnion(groupId),
+                });
+                const tripRef = doc(db, "trips", groupId);
+                await updateDoc(tripRef, {
+                    members: arrayUnion(store.state.user.uid),
+                });
+            };
+            router.push({ name: 'group', params: { groupId: groupId } });
+        }else{
+            router.push('/user');
+        }
     }
     catch (err) {
         if (err && err.code !== undefined) {
@@ -76,10 +96,45 @@ const signInWithGoogle = async () => {
         return;
     }
     isBusy.value = true;
-    await store.dispatch('googleSignIn');
-    router.push('/user');
+
+    const response = await store.dispatch('googleSignIn');
+    
+    if(groupId){
+        const tripIds = (await getDoc(doc(collection(db, "users"), response.user.uid))).get("trips");
+        if(!tripIds.includes(groupId)){
+            const userRef = doc(db, "users", response.user.uid);
+            await updateDoc(userRef, {
+                trips: arrayUnion(groupId),
+            });
+            const tripRef = doc(db, "trips", groupId);
+            await updateDoc(tripRef, {
+                members: arrayUnion(user.uid),
+            });
+            router.push({ name: 'group', params: { groupId: groupId } });
+        };
+    }else{
+        const q = query(collection(db, "users"), where(documentId(), "==", response.user.uid));
+        const querySnapshot = await getDocs(q);
+        if(querySnapshot.empty){
+            await setDoc(doc(db, "users", response.user.uid), {
+                displayName: response.user.displayName,
+                photoURL: response.user.photoURL,
+                trips: [],
+            }, { merge: true });
+        }
+        router.push('/user');
+    }
+    
     isBusy.value = false;
 }
+
+const signUp = computed(() => {
+    if(groupId){
+        return { name: 'sign-up-by-group', params: { groupId: groupId } };
+    }else{
+        return { name: 'sign-up' };
+    }
+});
 </script>
 
 <style scoped>

@@ -1,183 +1,355 @@
 <template>
-    <div class="bg">
-        <div class="header">
-            <h2>Plan</h2>
-            <form class="input-container" @submit.prevent="signIn">
-                <input type="text" placeholder="Activity" v-model="activity">
-                <br />
-                <input type="text" placeholder="Description" v-model="description">
-                <br />
-                <input type="url" placeholder="URL" v-model="url">
-                <br />
-                <input type="date" min="2023-10-01" max="2023-10-10" placeholder="Date" v-model="date">
-                <br />
-                <input type="time" placeholder="Time" v-model="time">
-                <br />
-                <span @click="add" @keyup.enter="add" class="addBtn">Add</span>
-            </form>
-        </div>
-        <ul>
-            <li v-for="plan in plans" v-bind:key="plan.activity">
-                <p>{{ plan.activity }}</p>
-                <p>{{ plan.description }}</p>
-                <a :href="plan.url" class="link">{{ plan.url }}</a>
-                <p>{{ plan.date }}</p>
-                <p>{{ plan.time }}</p>
-                <img class="change" src="../assets/logos/icons8-einstellungen.svg" alt="Change" @click="change(plan)">
-                <img class="close" src="../assets/logos/icons8-stornieren.svg" alt="Remove" @click="remove(plan)">
-            </li>
-        </ul>
+<div class="bg">
+    <h1>To do</h1>
+    <div class="activity-container">
+        <ActivityContainer v-for="activity in todoActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" 
+        @editClick="editActivity(activity)" @removeClick="removeActivity(activity)" @checkBoxClicked.once="finishActivity(activity)" :todo="true"/>
     </div>
+    <div class="btn-container">
+        <button class="isPoppedUp-btn" @click="openModal"></button>
+    </div>
+    <h1>Done</h1>
+    <div class="activity-container">
+        <ActivityContainer v-for="activity in doneActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" 
+        :todo="false" @undoClick="undoActivity(activity)"/>
+    </div>
+    
+    <Modal v-if="isPoppedUp" @closeModal="closeModal">
+        <div class="input-container">
+            <Input labelId="title" labelText="Title" inputType="text" v-model="title" :isImportant="true"/>
+            <label for="description" style="font-weight: 700;">Description</label>
+            <br/>
+            <textarea id="description" v-model="description" cols="50" rows="10" class="form-description"></textarea>
+            <Input labelId="url" labelText="URL" inputType="text" v-model="url" />
+            <label for="startDate" style="font-weight: 700;">Start Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
+            <br/>
+            <input id="startDate" type="date" :min="arrivalDate" :max="departureDate" v-model="startDate" class="form-input"/>
+            <Input labelId="startTime" labelText="Start time" inputType="time" v-model="startTime" :isImportant="true"/>
+            <label for="finishDate" style="font-weight: 700;">Finish Date</label>
+            <br/>
+            <input id="finishDate" type="date" :min="arrivalDate" :max="departureDate" v-model="finishDate" class="form-input"/>
+            <Input labelId="finishTime" labelText="Finish time" inputType="time" v-model="finishTime" />
+        </div>
+        <template v-slot:footer>
+            <div>
+                <Button @click="changeActivity" @keyup.enter="changeActivity" :btnText="isEditing ? 'Save changes' : 'Add activity'" class="btn-primary" style="width:100%; height:45px; margin-top:0.5rem;" />
+                <p class="form-message">{{ errorMessage }}</p>
+            </div>
+        </template>
+    </Modal>
+</div>
 </template>
 
 <script setup>
 import { ref, computed } from 'vue'
+import { onMounted } from 'vue'
 import { useRoute } from 'vue-router'
+import { useStore } from 'vuex'
+import { db } from '../firebaseConfig.js'
+import { doc, getDoc, updateDoc, arrayUnion, arrayRemove, Timestamp } from "firebase/firestore";
+import Input from '../components/Input.vue';
+import Button from '../components/Button.vue';
+import ActivityContainer from '../components/ActivityContainer.vue';
+import Spinner from '../components/Spinner.vue';
+import Modal from '../components/Modal.vue';
+import altImg from '@/assets/logos/icons8-profilbild-100.png?url'
 
-const activity = ref('');
+const title = ref('');
 const description = ref('');
-const url = ref(null);
-const date = ref(null);
-const time = ref(null);
-const plans = ref([]);
+const url = ref('');
+const arrivalDate = ref('');
+const departureDate = ref('');
+const startDate = ref('');
+const finishDate = ref('');
+const startTime = ref('');
+const finishTime = ref('');
+const todoActivities = ref([]);
+const doneActivities = ref([]);
+const isDuplicate = ref(false);
+const isPoppedUp = ref(false);
+let isEditing = false;
+const errorMessage = ref('');
 
-const add = () => {
-    const plan = {
-        'activity': activity.value,
+const route = useRoute();
+const tripId = route.params.groupId;
+const tripRef = doc(db, "trips", tripId);
+const tripSnap = getDoc(tripRef);
+
+const store = useStore();
+const userName = store.state.user.displayName;
+const userPhoto = computed(() => { return store.state.user.photoURL ? store.state.user.photoURL : altImg });
+
+const convertTimestampToDate = (timestamp) => {
+    const date = new Date(timestamp);
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    return `${year}-${month}-${day}`;
+}
+
+const isValid = (url) => {
+    let regex = /(http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
+    return regex.test(url);
+}
+
+onMounted(async () => {
+    const timestampArrivalDate = (await tripSnap).data().arrivalDate.toDate().toDateString();
+    arrivalDate.value = convertTimestampToDate(timestampArrivalDate);
+    const timestampDepartureDate = (await tripSnap).data().departureDate.toDate().toDateString();
+    departureDate.value = convertTimestampToDate(timestampDepartureDate);
+
+    if((await tripSnap).data().todoActivities.length === 0 && (await tripSnap).data().doneActivities.length === 0){
+        return;
+    }
+
+    if((await tripSnap).data().todoActivities.length > 0){
+        todoActivities.value = (await tripSnap).data().todoActivities.sort((a, b) => {
+            return (a.startTimestamp - b.startTimestamp);
+        });
+    }
+
+    if((await tripSnap).data().doneActivities.length > 0){
+        doneActivities.value = (await tripSnap).data().doneActivities.sort((a, b) => {
+            return (a.startTimestamp - b.startTimestamp);
+        });
+    }
+});
+
+const openModal = () => {
+    isPoppedUp.value = true;
+}
+const closeModal = () => {
+    isPoppedUp.value = false;
+    isEditing = false;
+}
+
+let oldActivity = null;
+const editActivity = async (activity) => {
+    isEditing = true;
+    title.value = activity.title;
+    description.value = activity.description;
+    url.value = activity.url;
+    startDate.value = convertTimestampToDate(activity.startTimestamp.toDate().toDateString());
+    startTime.value = ("0" + activity.startTimestamp.toDate().getUTCHours()).slice(-2) + ':' + ("0" + activity.startTimestamp.toDate().getUTCMinutes()).slice(-2);
+    finishDate.value = convertTimestampToDate(activity.finishTimestamp.toDate().toDateString());
+    finishTime.value = ("0" + activity.finishTimestamp.toDate().getUTCHours()).slice(-2) + ':' + ("0" + activity.finishTimestamp.toDate().getUTCMinutes()).slice(-2);
+    oldActivity = activity;
+    isPoppedUp.value = true;
+}
+
+const changeActivity = () => {
+    return isEditing ? rewriteActivity(oldActivity) : addActivity();
+}
+
+const validateAndGetActivity = () => {
+    if(url.value && !isValid(url.value)){
+        errorMessage.value = 'The URL is not valid.';
+        return null;
+    }
+
+    if(finishDate.value && finishTime.value && (new Date(finishDate.value + ' ' + finishTime.value + ':00')) < (new Date(startDate.value + ' ' + startTime.value + ':00'))){
+        errorMessage.value = 'The finish date should be later than the start date.';
+        return null;
+    }else if(!finishDate.value && finishTime.value && (new Date(startDate.value + ' ' + finishTime.value + ':00')) < (new Date(startDate.value + ' ' + startTime.value + ':00'))){
+        errorMessage.value = 'The finish time should be later than the start time.';
+        return null;
+    }else if(finishDate.value && !finishTime.value && (new Date(finishDate.value)) < (new Date(startDate.value))){
+        errorMessage.value = 'The finish date should be later than the start date.';
+        return null;
+    }
+
+    if(!title.value || !startDate.value || !startTime.value){
+        errorMessage.value = 'Fields marked with * are required.';
+        return null;
+    }
+
+    errorMessage.value = '';
+
+    let strStartTimestamp = startDate.value + 'T' + startTime.value + ':00Z';
+    let strFinishTimestamp = '';
+    if(finishDate.value && finishTime.value){
+        strFinishTimestamp = finishDate.value + 'T' + finishTime.value + ':00Z';
+    }else if(finishDate.value && !finishTime.value){
+        strFinishTimestamp = finishDate.value + 'T' + '00:00:00Z';
+    }else if(!finishDate.value && finishTime.value){
+        strFinishTimestamp = startDate.value + 'T' + finishTime.value + ':00Z';
+    }else{
+        strFinishTimestamp = strStartTimestamp;
+    }
+
+    const formattedActivity = {
+        'title': title.value,
         'description': description.value,
         'url': url.value,
-        'date': date.value,
-        'time': time.value,
+        'startTimestamp': Timestamp.fromDate(new Date(strStartTimestamp)),
+        'finishTimestamp': Timestamp.fromDate(new Date(strFinishTimestamp)),
+        'userPhoto': userPhoto.value,
+        'userName': userName,
     };
-    //duplicate check
-    /*
-    databank
-    */
-    // sort by date and time
-    plans.value.push(plan);
+
+    return formattedActivity;
 }
 
-const change = (plan) => {
-    // change plan
+const addActivity = async () => {
+    console.log('addActivity');
+    let activity = validateAndGetActivity();
+
+    if(!activity){
+        return;
+    }
+
+    if(todoActivities.value.some((act) => act.title === activity.title)){
+        isDuplicate.value = true;
+        errorMessage.value = 'The activity is already added.'
+        return;
+    }
+
+    await updateDoc(tripRef, {
+        todoActivities: arrayUnion(activity),
+    });
+
+    todoActivities.value = [...todoActivities.value, activity].sort((a, b) => {
+        return (a.startTimestamp - b.startTimestamp);
+    });
+
+    title.value = '';
+    description.value = '';
+    url.value = '';
+    startDate.value = '';
+    finishDate.value = '';
+    startTime.value = '';
+    finishTime.value = '';
+    isPoppedUp.value = false;
 }
 
-const remove = (plan) => {
-    const index = plans.value.indexOf(plan);
-    plans.value.splice(index, 1);
+const rewriteActivity = async (oldActivity) => {
+    let newActivity = validateAndGetActivity();
+
+    if(!newActivity){
+        return;
+    }
+
+    await removeActivity(oldActivity);
+    addActivity();
+
+    isEditing = false;
+}
+
+const removeActivity = async (activity) => {
+    await updateDoc(tripRef, {
+        todoActivities: arrayRemove(activity),
+    });
+    let index = todoActivities.value.indexOf(activity);
+    todoActivities.value.splice(index, 1);
+}
+
+const finishActivity = async (activity) => {
+    await updateDoc(tripRef, {
+        todoActivities: arrayRemove(activity),
+        doneActivities: arrayUnion(activity),
+    });
+    let index = todoActivities.value.indexOf(activity);
+    todoActivities.value.splice(index, 1);
+    doneActivities.value = [...doneActivities.value, activity].sort((a, b) => {
+        return (a.startTimestamp - b.startTimestamp);
+    });
+}
+
+const undoActivity = async (activity) => {
+    await updateDoc(tripRef, {
+        doneActivities: arrayRemove(activity),
+        todoActivities: arrayUnion(activity),
+    });
+    let index = doneActivities.value.indexOf(activity);
+    doneActivities.value.splice(index, 1);
+    todoActivities.value = [...todoActivities.value, activity].sort((a, b) => {
+        return (a.startTimestamp - b.startTimestamp);
+    });
 }
 </script>
 
 <style scoped>
 .bg {
     flex: 1 1 auto;
-}
-
-.header {
     display: flex;
     flex-direction: column;
+    padding: 30px 70px 30px 70px;
+    row-gap: 30px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.activity-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    width: 100%;
+}
+
+.btn-container {
+    display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
-    background-color: #1994eb;
-    padding: 30px 40px;
-    color: white;
-    text-align: center;
+    height: 100px;
 }
 
-h2 {
-    width: 100%;
+.isPoppedUp-btn {
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    background: url(../assets/logos/icons8-plus-blue.svg) no-repeat center;
+    background-size: 100%;
+    border: none;
+    cursor: pointer;
 }
 
 .input-container {
     width: 100%;
-    flex-direction: column;
-    align-items: stretch;
+    padding: 1.5rem;
 }
 
-input {
+.form-input {
     width: 100%;
-    margin: 0;
-    border: solid 1px #ccc;
-    border-radius: 0;
-    padding: 10px;
-    float: left;
-    font-size: 16px;
+    height: 30px;
+    border: 1px solid rgb(209 213 219);;
+    border-radius: 0.375rem;
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+    padding: 0.375rem 0.75rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+} 
+
+.form-input:focus {
+    outline: none;
+    border-color: rgb(59 130 246);
 }
 
-.addBtn {
+.form-description {
     width: 100%;
-    padding: 10px;
-    background: #d9d9d9;
-    color: #555;
-    float: left;
-    text-align: center;
-    font-size: 16px;
-    cursor: pointer;
-    transition: 0.3s;
-    border-radius: 0;
+    height: 150px;
+    border: 1px solid rgb(209 213 219);;
+    border-radius: 0.375rem;
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+    padding: 0.375rem 0.75rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    resize: vertical;
 }
 
-.addBtn:hover {
-    background-color: #bbb;
+.form-description:focus {
+    outline: none;
+    border-color: rgb(59 130 246);
 }
 
-ul {
-    margin: 0;
-    padding: 0;
-}
-
-ul li {
-    position: relative;
-    padding: 12px 8px 12px 40px;
-    background: #eee;
-    font-size: 18px;
-    width: 100%;
-    transition: 0.2s;
-
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-ul li:nth-child(odd) {
-    background: #f9f9f9;
-}
-
-ul li:hover {
-    background: #ddd;
-}
-
-.link {
-    color: #1994eb;
-}
-
-.link:hover {
-    color: #074cb2;
-    text-shadow: #074cb2;
-}
-
-.link:active {
-    color: #1994eb;
-}
-
-.link:visited {
-    color: #1994eb;
-}
-
-.change {
-    position: absolute;
-    right: 40px;
-    top: 0;
-    padding-top: 12px;
-    cursor: pointer;
-}
-
-.close {
-    position: absolute;
-    right: 20px;
-    top: 0;
-    padding-top: 12px;
-    cursor: pointer;
+.form-message {
+    color: #DC2626;
+    font-size: 12px;
+    margin-top: 0.25rem;
+    margin-bottom: 0;
 }
 </style>

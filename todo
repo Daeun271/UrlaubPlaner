@@ -1,5 +1,8 @@
-Optiminieren
-1. data fetch when rendering /user
+Optimieren
+1. data fetch when rendering
 2. invite Link ändern!!!!
 3. verifikation noch mal
 4. img in trip container
+5. firestore rules https://seizemymoment.tistory.com/11
+6. data inconsistency because of error during updating databank after sign in/up
+7. Firebase: Error (auth/popup-closed-by-user)

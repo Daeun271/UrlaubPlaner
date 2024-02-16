@@ -24,31 +24,31 @@ const store = createStore({
         headerLinks: [],
     },
     getters: {
-        user(state) {
+        user(state){
             return state.user;
         },
-        isLoggedIn(state) {
+        isLoggedIn(state){
             return state.user !== null;
         },
-        userPromise(state) {
+        userPromise(state){
             return state.userPromise;
         },
-        headerLinks(state) {
+        headerLinks(state){
             return state.headerLinks;
         },
     },
     mutations: {
-        SET_USER(state, user) {
+        SET_USER(state, user){
             state.user = user;
             userPromiseResolve(user);
         },
-        SET_HEADER_LINKS(state, links) {
+        SET_HEADER_LINKS(state, links){
             state.headerLinks = links;
         },
     },
     actions: {
-        async register(context, { email, password, name }) {
-            if (name.trim() === "") {
+        async register(context, { email, password, name }){
+            if(name.trim() === ""){
                 throw { code: "auth/invalid-display-name" };
             }
             const response = await createUserWithEmailAndPassword(
@@ -56,17 +56,17 @@ const store = createStore({
                 email,
                 password
             );
-            if (response) {
+            if(response){
                 context.commit("SET_USER", response.user);
             }
             await setDoc(doc(db, "users", response.user.uid), {
                 displayName: name,
-                userProfile: null,
+                photoURL: "https://img.icons8.com/color/100/test-account.png",
                 trips: [],
             }, { merge: true });
-            try {
+            try{
                 await updateProfile(response.user, { displayName: name });
-            } catch (error) {
+            }catch(error){
                 await updateProfile(response.user, {
                     displayName: "user-" + response.user.uid.slice(0, 8),
                 });
@@ -76,37 +76,33 @@ const store = createStore({
 
         async logIn(context, { email, password }) {
             const response = await signInWithEmailAndPassword(auth, email, password);
-            if (response) {
+            if(response){
                 context.commit("SET_USER", response.user);
             }
         },
 
-        async logOut(context) {
+        async logOut(context){
             await signOut(auth);
             context.commit("SET_USER", null);
         },
 
-        async resetPassword(context, {email}) {
+        async resetPassword(context, {email}){
             await sendPasswordResetEmail(auth, email);
         },
 
-        async setUser(context, user) {
+        async setUser(context, user){
             context.commit("SET_USER", user);
         },
 
-        async googleSignIn(context) {
+        async googleSignIn(context){
             const response = await signInWithPopup(auth, googleProvider);
-            if (response) {
+            if(response){
                 context.commit("SET_USER", response.user);
+                return response;
             }
-            await setDoc(doc(db, "users", response.user.uid), {
-                displayName: response.user.displayName,
-                userProfile: response.user.photoURL,
-                trips: [],
-            }, { merge: true });
         },
         
-        setHeaderLinks(context, links) {
+        setHeaderLinks(context, links){
             context.commit("SET_HEADER_LINKS", links);
         },
     },

@@ -61,6 +61,8 @@ const addTrip = async () => {
             arrivalDate: Timestamp.fromDate(new Date(arrivalDate.value)),
             departureDate: Timestamp.fromDate(new Date(departureDate.value)),
             members: [store.state.user.uid],
+            todoActivities: [],
+            doneActivities: [],
         });
         const userDocRef = doc(db, "users", store.state.user.uid);
         await updateDoc(userDocRef, {

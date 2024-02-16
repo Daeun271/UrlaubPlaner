@@ -1,11 +1,11 @@
 <template>
     <div class="bg">
         <h1>Hello {{ userName }}!</h1>
-        <img :src="userProfile" class="profile">
+        <img :src="userPhoto" class="profile">
         <div>
             <TripContainer @planClick="$router.push({name: 'group', params: { groupId: trip.id }})" v-for="trip in trips" v-bind:key="trip.id" :countryNameTxt="trip.country" :travelDuration="trip.arrivalDate + '-' + trip.departureDate"
             @invideClick="invide(trip.id)"/>
-            <button @click="$router.push('/create-plan')" class="empty">
+            <button @click="$router.push('/create-group')" class="empty">
                 <img src="../assets/logos/icons8-plus.svg" alt="Create">
                 <p>Create a trip plan</p>
             </button>
@@ -26,9 +26,7 @@ import TripContainer from '../components/TripContainer.vue'
 
 const store = useStore();
 const userName = ref(store.state.user.displayName);
-const userProfile = computed(() => {
-    return store.state.user.photoURL ? store.state.user.photoURL : altImg;
-});
+const userPhoto = computed(() => { return store.state.user.photoURL ? store.state.user.photoURL : altImg });
 
 const trips = ref([]);
 onMounted(async () => {

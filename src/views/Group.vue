@@ -8,7 +8,7 @@
             </li>
         </ul>
         <p class="text">You're planning to visit: {{ country }} {{ city }}</p>
-        <p class="text text-2">Travel itinerary: {{ arrivalDate }}-{{ departureDate }}</p>
+        <p class="text text-2">Travel itinerary: {{ arrivalDate }} - {{ departureDate }}</p>
         <div class="btn-container">
             <Button @click="invite" btnText="Invite" :imgSrc="ShareIconUrl" :imgStyle="'margin:5px;'" class="btn-primary" style="padding:5px 8px 5px 5px;"/>
             <Button @click="$router.push('/user')" btnText="See other plan" class="btn-secondary"/>
@@ -23,7 +23,6 @@ import { useStore } from 'vuex';
 import { db } from '../firebaseConfig.js';
 import { doc, getDoc, collection, getDocs, query, where, documentId, updateDoc, arrayUnion } from "firebase/firestore";
 import { getCountryName } from '../countryCode.js'
-import altImg from '@/assets/logos/icons8-profilbild-100.png?url'
 import Button from '../components/Button.vue';
 import ShareIconUrl from '@/assets/logos/icons8-teilen.svg?url';
 
@@ -34,20 +33,19 @@ const arrivalDate = ref(null);
 const departureDate = ref(null);
 const members = ref([]);
 
-
 const store = useStore();
 const router = useRouter();
 const route = useRoute();
 const tripId = route.params.groupId;
 
 onMounted(async () => {
-    if(!store.state.user) {
-        router.push('/signin');
+    if(!store.state.user){
+        router.push({ name: 'sign-in-by-group', params: { groupId: tripId } });
         return;
     }
 
     const tripIds = (await getDoc(doc(collection(db, "users"), store.state.user.uid))).get("trips");
-    if (!tripIds.includes(tripId)) {
+    if(!tripIds.includes(tripId)){
         const userRef = doc(db, "users", store.state.user.uid);
         await updateDoc(userRef, {
             trips: arrayUnion(tripId),
@@ -73,7 +71,7 @@ onMounted(async () => {
         const member = {
             'id': doc.id,
             'name': doc.data().displayName,
-            'photoURL': doc.data().userProfile ? doc.data().userProfile : altImg,
+            'photoURL': doc.data().photoURL,
         };
         members.value.push(member);
     });

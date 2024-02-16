@@ -9,7 +9,7 @@ import SignIn from "../views/SignIn.vue";
 import SignUp from "../views/SignUp.vue";
 import SignOut from "../views/SignOut.vue";
 import PasswordReset from "../views/PasswordReset.vue";
-import CreatePlan from "../views/CreatePlan.vue";
+import CreateGroup from "../views/CreateGroup.vue";
 import Group from "../views/Group.vue";
 
 const router = createRouter({
@@ -31,8 +31,18 @@ const router = createRouter({
       component: SignIn,
     },
     {
+      path: "/signin/:groupId",
+      name: "sign-in-by-group",
+      component: SignIn,
+    },
+    {
       path: "/signup",
       name: "sign-up",
+      component: SignUp,
+    },
+    {
+      path: "/signup/:groupId",
+      name: "sign-up-by-group",
       component: SignUp,
     },
     {
@@ -46,9 +56,9 @@ const router = createRouter({
       component: PasswordReset,
     },
     {
-      path: "/create-plan",
-      name: "create-plan",
-      component: CreatePlan,
+      path: "/create-group",
+      name: "create-group",
+      component: CreateGroup,
     },
     {
       path: "/trip/:groupId/group",
@@ -103,7 +113,7 @@ router.beforeResolve(async (to, from, next) => {
     return;
   }
 
-  if (to.path === "/create-plan") {
+  if (to.path === "/create-group") {
     store.getters.isLoggedIn ? next() : next(false);
     return;
   }
