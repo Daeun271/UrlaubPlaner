@@ -3,6 +3,7 @@ import { useStore } from "vuex";
 import Home from "../views/Home.vue";
 import User from "../views/User.vue";
 import Plan from "../views/Plan.vue";
+import Chat from "../views/Chat.vue";
 import Expense from "../views/Expense.vue";
 import Recommendation from "../views/Recommendation.vue";
 import SignIn from "../views/SignIn.vue";
@@ -71,6 +72,11 @@ const router = createRouter({
       component: Plan,
     },
     {
+      path: "/trip/:groupId/chat",
+      name: "chat",
+      component: Chat,
+    },
+    {
       path: "/trip/:groupId/expense",
       name: "expense",
       component: Expense,
@@ -122,6 +128,7 @@ router.beforeResolve(async (to, from, next) => {
     store.dispatch("setHeaderLinks", [
       { name: "Group", path: `/trip/${to.params.groupId}/group` },
       { name: "Plan", path: `/trip/${to.params.groupId}/plan` },
+      { name: "Chat", path: `/trip/${to.params.groupId}/chat` },
       { name: "Expense", path: `/trip/${to.params.groupId}/expense` },
       { name: "Recommendation", path: `/trip/${to.params.groupId}/recommendation` },
     ]);

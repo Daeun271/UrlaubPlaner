@@ -191,7 +191,6 @@ const validateAndGetActivity = () => {
 }
 
 const addActivity = async () => {
-    console.log('addActivity');
     let activity = validateAndGetActivity();
 
     if(!activity){
