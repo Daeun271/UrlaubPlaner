@@ -2,7 +2,7 @@
 <div class="bg">
     <h1>To do</h1>
     <div class="activity-container">
-        <ActivityContainer v-for="activity in todoActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" 
+        <ActivityContainer v-for="activity in todoActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="activity.currency"
         @editClick="editActivity(activity)" @removeClick="removeActivity(activity)" @checkBoxClicked.once="finishActivity(activity)" :todo="true"/>
     </div>
     <div class="btn-container">
@@ -10,7 +10,7 @@
     </div>
     <h1>Done</h1>
     <div class="activity-container">
-        <ActivityContainer v-for="activity in doneActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" 
+        <ActivityContainer v-for="activity in doneActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="activity.currency"
         :todo="false" @undoClick="undoActivity(activity)"/>
     </div>
     
@@ -29,6 +29,14 @@
             <br/>
             <input id="finishDate" type="date" :min="arrivalDate" :max="departureDate" v-model="finishDate" class="form-input"/>
             <Input labelId="finishTime" labelText="Finish time" inputType="time" v-model="finishTime" />
+            <div class="currency-container">
+                <CurrencyDropdown v-model="currency" style="width: 30%"/>
+                <div style="width: 70%">
+                    <label for="expectedExpense" style="font-weight: 700;">Expected expense</label>
+                    <br/>
+                    <input id="expectedExpense" type="number" v-model="expectedExpense" class="form-input"/>
+                </div>
+            </div>
         </div>
         <template v-slot:footer>
             <div>
@@ -50,7 +58,7 @@ import { doc, getDoc, updateDoc, arrayUnion, arrayRemove, Timestamp } from "fire
 import Input from '../components/Input.vue';
 import Button from '../components/Button.vue';
 import ActivityContainer from '../components/ActivityContainer.vue';
-import Spinner from '../components/Spinner.vue';
+import CurrencyDropdown from '../components/CurrencyDropdown.vue'
 import Modal from '../components/Modal.vue';
 import altImg from '@/assets/logos/icons8-profilbild-100.png?url'
 
@@ -63,6 +71,8 @@ const startDate = ref('');
 const finishDate = ref('');
 const startTime = ref('');
 const finishTime = ref('');
+const currency = ref('');
+const expectedExpense = ref(0);
 const todoActivities = ref([]);
 const doneActivities = ref([]);
 const isDuplicate = ref(false);
@@ -80,11 +90,15 @@ const userName = store.state.user.displayName;
 const userPhoto = computed(() => { return store.state.user.photoURL ? store.state.user.photoURL : altImg });
 
 const convertTimestampToDate = (timestamp) => {
-    const date = new Date(timestamp);
+    const date = new Date(timestamp.toDate().toDateString());
     const year = date.getFullYear();
     const month = String(date.getMonth() + 1).padStart(2, '0');
     const day = String(date.getDate()).padStart(2, '0');
     return `${year}-${month}-${day}`;
+}
+
+const convertTimestampToLocalTime = (timestamp) => {
+    return ("0" + timestamp.toDate().getUTCHours()).slice(-2) + ':' + ("0" + timestamp.toDate().getUTCMinutes()).slice(-2);
 }
 
 const isValid = (url) => {
@@ -93,9 +107,9 @@ const isValid = (url) => {
 }
 
 onMounted(async () => {
-    const timestampArrivalDate = (await tripSnap).data().arrivalDate.toDate().toDateString();
+    const timestampArrivalDate = (await tripSnap).data().arrivalDate;
     arrivalDate.value = convertTimestampToDate(timestampArrivalDate);
-    const timestampDepartureDate = (await tripSnap).data().departureDate.toDate().toDateString();
+    const timestampDepartureDate = (await tripSnap).data().departureDate;
     departureDate.value = convertTimestampToDate(timestampDepartureDate);
 
     if((await tripSnap).data().todoActivities.length === 0 && (await tripSnap).data().doneActivities.length === 0){
@@ -115,7 +129,21 @@ onMounted(async () => {
     }
 });
 
+const initializeInput = () => {
+    title.value = '';
+    description.value = '';
+    url.value = '';
+    startDate.value = '';
+    startTime.value = '';
+    finishDate.value = '';
+    finishTime.value = '';
+    currency.value = '';
+    expectedExpense.value = 0;
+}
+
 const openModal = () => {
+    isEditing = false;
+    initializeInput();
     isPoppedUp.value = true;
 }
 const closeModal = () => {
@@ -129,10 +157,12 @@ const editActivity = async (activity) => {
     title.value = activity.title;
     description.value = activity.description;
     url.value = activity.url;
-    startDate.value = convertTimestampToDate(activity.startTimestamp.toDate().toDateString());
-    startTime.value = ("0" + activity.startTimestamp.toDate().getUTCHours()).slice(-2) + ':' + ("0" + activity.startTimestamp.toDate().getUTCMinutes()).slice(-2);
-    finishDate.value = convertTimestampToDate(activity.finishTimestamp.toDate().toDateString());
-    finishTime.value = ("0" + activity.finishTimestamp.toDate().getUTCHours()).slice(-2) + ':' + ("0" + activity.finishTimestamp.toDate().getUTCMinutes()).slice(-2);
+    startDate.value = convertTimestampToDate(activity.startTimestamp);
+    startTime.value = convertTimestampToLocalTime(activity.startTimestamp);
+    finishDate.value = convertTimestampToDate(activity.finishTimestamp);
+    finishTime.value = convertTimestampToLocalTime(activity.finishTimestamp);
+    currency.value = activity.currency;
+    expectedExpense.value = activity.expectedExpense;
     oldActivity = activity;
     isPoppedUp.value = true;
 }
@@ -177,12 +207,22 @@ const validateAndGetActivity = () => {
         strFinishTimestamp = strStartTimestamp;
     }
 
+    const getCurrency = () => {
+        if(currency.value){
+            return currency.value;
+        }else{
+            return 'USD';
+        }
+    }
+
     const formattedActivity = {
         'title': title.value,
         'description': description.value,
         'url': url.value,
         'startTimestamp': Timestamp.fromDate(new Date(strStartTimestamp)),
         'finishTimestamp': Timestamp.fromDate(new Date(strFinishTimestamp)),
+        'currency': getCurrency(),
+        'expectedExpense': Number(expectedExpense.value),
         'userPhoto': userPhoto.value,
         'userName': userName,
     };
@@ -211,13 +251,7 @@ const addActivity = async () => {
         return (a.startTimestamp - b.startTimestamp);
     });
 
-    title.value = '';
-    description.value = '';
-    url.value = '';
-    startDate.value = '';
-    finishDate.value = '';
-    startTime.value = '';
-    finishTime.value = '';
+    initializeInput();
     isPoppedUp.value = false;
 }
 
@@ -350,5 +384,11 @@ h1 {
     font-size: 12px;
     margin-top: 0.25rem;
     margin-bottom: 0;
+}
+
+.currency-container {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
 }
 </style>

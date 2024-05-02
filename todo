@@ -1,10 +1,13 @@
 Optimieren
-1. data fetch when rendering
-2. invite Link ändern!!!!
+1. data fetch without delay when rendering
+2. invite Link ändern!!!
 3. verifikation noch mal
 4. img in trip container
 5. firestore rules https://seizemymoment.tistory.com/11
 6. data inconsistency because of error during updating databank after sign in/up
 7. Firebase: Error (auth/popup-closed-by-user)
-8. lokale Zeit beim Plan
-9. fcm
+8. fcm
+
+Erweitern
+1. best route empfehlen mit GPS (+transportation)
+2. like/dislike when plannig

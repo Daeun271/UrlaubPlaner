@@ -12,6 +12,9 @@
             </div>
         </div>
         <p class="description">{{ descriptionTxt }}</p>
+        <div class="expense-container">
+            <p>{{ expectedExpense }} {{ currency }}</p>
+        </div>
         <div>
             <a :href="url">{{ url }}</a>
         </div>
@@ -46,7 +49,9 @@ export default{
         userName: String,
         startDateTxt: Object,
         finishDateTxt: Object,
-        message: String
+        message: String,
+        expectedExpense: Number,
+        currency: String
     },
     computed: {
         startDate() {
@@ -190,5 +195,11 @@ a:focus {
 
 .undo {
     margin-right: 10px;
+}
+
+.expense-container {
+    font-size: 18px;
+    font-weight: bold;
+    color: #dd3d3d;
 }
 </style>
