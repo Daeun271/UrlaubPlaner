@@ -13,7 +13,7 @@
         </div>
         <p class="description">{{ descriptionTxt }}</p>
         <div class="expense-container">
-            <p>{{ expectedExpense }} {{ currency }}</p>
+            <p>{{ expenseAndCurrency }}</p>
         </div>
         <div>
             <a :href="url">{{ url }}</a>
@@ -22,7 +22,7 @@
             <div class="user-container">
                 <p class="user-name">created by</p>
                 <p>{{ userName }}</p>
-                <img :src="userPhoto" alt="user name" style="width:30px; height:30px;">
+                <img :src="userPhoto" alt="user photo" style="width:30px; height:30px;">
             </div>
             <div v-if="todo" class="setting-container">
                 <img src="../assets/logos/icons8-einstellungen.svg" alt="Change" @click="$emit('editClick')" class="image">
@@ -67,6 +67,13 @@ export default{
             let minute = ("0" + this.finishDateTxt.toDate().getUTCMinutes()).slice(-2);
             let formattedFinishDate = `${date} ${hour}:${minute}`;
             return formattedFinishDate;
+        },
+        expenseAndCurrency() {
+            const formattedCurrency = new Intl.NumberFormat('en-US', {
+                style: 'currency',
+                currency: this.currency,
+            });
+            return formattedCurrency.format(this.expectedExpense);
         }
     }
 }

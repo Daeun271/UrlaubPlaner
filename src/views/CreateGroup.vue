@@ -9,6 +9,7 @@
                 <Input labelId="city" labelText="City to travel" inputType="text" v-model="city"/>
                 <Input labelId="arrivalDate" labelText="Arrival date" :isImportant="true" inputType="date" v-model="arrivalDate"/>
                 <Input labelId="departureDate" labelText="Departure date" :isImportant="true" inputType="date" v-model="departureDate"/>
+                <CurrencyDropdown v-model="currency"/>
             </form>
             <p class="p-2" :class="{ error:isError }">Fields marked with * are required</p>
             <div class="btn-container">
@@ -32,6 +33,7 @@ import Input from '../components/Input.vue';
 import CountryDropdown from '../components/CountryDropdown.vue';
 import Button from '../components/Button.vue';
 import Spinner from '../components/Spinner.vue';
+import CurrencyDropdown from '../components/CurrencyDropdown.vue';
 
 const isError = ref(false);
 const planName = ref('');
@@ -39,6 +41,7 @@ const country = ref('');
 const city = ref('');
 const arrivalDate = ref(null);
 const departureDate = ref(null);
+const currency = ref('');
 const isBusy = ref(false);
 const router = useRouter();
 const store = useStore();
@@ -63,6 +66,8 @@ const addTrip = async () => {
             members: [store.state.user.uid],
             todoActivities: [],
             doneActivities: [],
+            currency: currency.value ?? 'USD',
+            transactions: [],
         });
         const userDocRef = doc(db, "users", store.state.user.uid);
         await updateDoc(userDocRef, {

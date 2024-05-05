@@ -2,7 +2,7 @@
 <div class="bg">
     <h1>To do</h1>
     <div class="activity-container">
-        <ActivityContainer v-for="activity in todoActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="activity.currency"
+        <ActivityContainer v-for="activity in todoActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="currency"
         @editClick="editActivity(activity)" @removeClick="removeActivity(activity)" @checkBoxClicked.once="finishActivity(activity)" :todo="true"/>
     </div>
     <div class="btn-container">
@@ -10,7 +10,7 @@
     </div>
     <h1>Done</h1>
     <div class="activity-container">
-        <ActivityContainer v-for="activity in doneActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="activity.currency"
+        <ActivityContainer v-for="activity in doneActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="currency"
         :todo="false" @undoClick="undoActivity(activity)"/>
     </div>
     
@@ -29,14 +29,9 @@
             <br/>
             <input id="finishDate" type="date" :min="arrivalDate" :max="departureDate" v-model="finishDate" class="form-input"/>
             <Input labelId="finishTime" labelText="Finish time" inputType="time" v-model="finishTime" />
-            <div class="currency-container">
-                <CurrencyDropdown v-model="currency" style="width: 30%"/>
-                <div style="width: 70%">
-                    <label for="expectedExpense" style="font-weight: 700;">Expected expense</label>
-                    <br/>
-                    <input id="expectedExpense" type="number" v-model="expectedExpense" class="form-input"/>
-                </div>
-            </div>
+            <label for="expectedExpense" style="font-weight: 700;">Expected expense</label>
+            <br/>
+            <input id="expectedExpense" type="number" v-model="expectedExpense" class="form-input"/>
         </div>
         <template v-slot:footer>
             <div>
@@ -58,7 +53,6 @@ import { doc, getDoc, updateDoc, arrayUnion, arrayRemove, Timestamp } from "fire
 import Input from '../components/Input.vue';
 import Button from '../components/Button.vue';
 import ActivityContainer from '../components/ActivityContainer.vue';
-import CurrencyDropdown from '../components/CurrencyDropdown.vue'
 import Modal from '../components/Modal.vue';
 import altImg from '@/assets/logos/icons8-profilbild-100.png?url'
 
@@ -71,11 +65,9 @@ const startDate = ref('');
 const finishDate = ref('');
 const startTime = ref('');
 const finishTime = ref('');
-const currency = ref('');
 const expectedExpense = ref(0);
 const todoActivities = ref([]);
 const doneActivities = ref([]);
-const isDuplicate = ref(false);
 const isPoppedUp = ref(false);
 let isEditing = false;
 const errorMessage = ref('');
@@ -84,6 +76,10 @@ const route = useRoute();
 const tripId = route.params.groupId;
 const tripRef = doc(db, "trips", tripId);
 const tripSnap = getDoc(tripRef);
+const currency = ref('');
+tripSnap.then((doc) => {
+    currency.value = doc.data().currency;
+});
 
 const store = useStore();
 const userName = store.state.user.displayName;
@@ -137,7 +133,6 @@ const initializeInput = () => {
     startTime.value = '';
     finishDate.value = '';
     finishTime.value = '';
-    currency.value = '';
     expectedExpense.value = 0;
 }
 
@@ -161,7 +156,6 @@ const editActivity = async (activity) => {
     startTime.value = convertTimestampToLocalTime(activity.startTimestamp);
     finishDate.value = convertTimestampToDate(activity.finishTimestamp);
     finishTime.value = convertTimestampToLocalTime(activity.finishTimestamp);
-    currency.value = activity.currency;
     expectedExpense.value = activity.expectedExpense;
     oldActivity = activity;
     isPoppedUp.value = true;
@@ -207,21 +201,12 @@ const validateAndGetActivity = () => {
         strFinishTimestamp = strStartTimestamp;
     }
 
-    const getCurrency = () => {
-        if(currency.value){
-            return currency.value;
-        }else{
-            return 'USD';
-        }
-    }
-
     const formattedActivity = {
         'title': title.value,
         'description': description.value,
         'url': url.value,
         'startTimestamp': Timestamp.fromDate(new Date(strStartTimestamp)),
         'finishTimestamp': Timestamp.fromDate(new Date(strFinishTimestamp)),
-        'currency': getCurrency(),
         'expectedExpense': Number(expectedExpense.value),
         'userPhoto': userPhoto.value,
         'userName': userName,
@@ -238,7 +223,6 @@ const addActivity = async () => {
     }
 
     if(todoActivities.value.some((act) => act.title === activity.title)){
-        isDuplicate.value = true;
         errorMessage.value = 'The activity is already added.'
         return;
     }
@@ -384,11 +368,5 @@ h1 {
     font-size: 12px;
     margin-top: 0.25rem;
     margin-bottom: 0;
-}
-
-.currency-container {
-    display: flex;
-    flex-direction: row;
-    column-gap: 10px;
 }
 </style>

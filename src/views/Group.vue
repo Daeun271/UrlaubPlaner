@@ -11,7 +11,7 @@
         <p class="text text-2">Travel itinerary: {{ arrivalDate }} - {{ departureDate }}</p>
         <div class="btn-container">
             <Button @click="invite" btnText="Invite" :imgSrc="ShareIconUrl" :imgStyle="'margin:5px;'" class="btn-primary" style="padding:5px 8px 5px 5px;"/>
-            <Button @click="$router.push('/user')" btnText="See other plan" class="btn-secondary"/>
+            <Button @click="$router.push('/user')" btnText="See other trip plan" class="btn-secondary"/>
         </div>
     </div>
 </template>
