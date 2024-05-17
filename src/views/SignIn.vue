@@ -26,7 +26,7 @@ import { useRouter, useRoute } from 'vue-router';
 import Input from '../components/Input.vue';
 import Button from '../components/Button.vue';
 import Spinner from '../components/Spinner.vue';
-import googleIconUrl from '@/assets/logos/icons8-google-logo.svg?url';
+import googleIconUrl from '@/assets/icons/icons8-google-logo.svg?url';
 import { db } from '../firebaseConfig.js';
 import { doc, getDoc, collection, updateDoc, arrayUnion, setDoc, documentId, query, where, getDocs } from "firebase/firestore";
 
@@ -45,14 +45,16 @@ const signIn = async () => {
     }
     isBusy.value = true;
     errorMessage.value = '';
+
     try {
         await store.dispatch('logIn', {
             email: email.value,
             password: password.value
         });
 
-        if(groupId){
+        if (groupId) {
             const tripIds = (await getDoc(doc(collection(db, "users"), store.state.user.uid))).get("trips");
+
             if(!tripIds.includes(groupId)){
                 const userRef = doc(db, "users", store.state.user.uid);
                 await updateDoc(userRef, {
@@ -63,8 +65,9 @@ const signIn = async () => {
                     members: arrayUnion(store.state.user.uid),
                 });
             };
+
             router.push({ name: 'group', params: { groupId: groupId } });
-        }else{
+        } else {
             router.push('/user');
         }
     }
@@ -84,7 +87,7 @@ const errorMessages = {
     'auth/missing-password': 'Please enter your password.',
     'auth/invalid-password': 'Please enter a valid password.',
     'auth/invalid-credential': 'Invalid account. Try again.',
-    'auth/too-many-requests': 'Too many requests. Try again later.'
+    'auth/too-many-requests': 'Too many requests. Try again later.',
 }
 
 const errorCodeToMessage = (errorCode) => {
@@ -97,34 +100,46 @@ const signInWithGoogle = async () => {
     }
     isBusy.value = true;
 
-    const response = await store.dispatch('googleSignIn');
-    
-    if(groupId){
-        const tripIds = (await getDoc(doc(collection(db, "users"), response.user.uid))).get("trips");
-        if(!tripIds.includes(groupId)){
-            const userRef = doc(db, "users", response.user.uid);
-            await updateDoc(userRef, {
-                trips: arrayUnion(groupId),
-            });
-            const tripRef = doc(db, "trips", groupId);
-            await updateDoc(tripRef, {
-                members: arrayUnion(user.uid),
-            });
-            router.push({ name: 'group', params: { groupId: groupId } });
-        };
-    }else{
-        const q = query(collection(db, "users"), where(documentId(), "==", response.user.uid));
-        const querySnapshot = await getDocs(q);
-        if(querySnapshot.empty){
-            await setDoc(doc(db, "users", response.user.uid), {
-                displayName: response.user.displayName,
-                photoURL: response.user.photoURL,
+    try {
+        await store.dispatch('googleSignIn');
+
+        const userDoc = (await getDoc(doc(collection(db, "users"), store.state.user.uid)));
+
+        if (!userDoc.exists()) {
+            await setDoc(doc(collection(db, "users"), store.state.user.uid), {
+                email: store.state.user.email,
+                displayName: store.state.user.displayName,
+                photoURL: store.state.user.photoURL,
                 trips: [],
-            }, { merge: true });
+            });
         }
-        router.push('/user');
+
+        const tripIds = (await getDoc(doc(collection(db, "users"), store.state.user.uid))).get("trips");
+        if (groupId) {
+            if(!tripIds.includes(groupId)){
+                const userRef = doc(db, "users", store.state.user.uid);
+                await updateDoc(userRef, {
+                    trips: arrayUnion(groupId),
+                });
+                const tripRef = doc(db, "trips", groupId);
+                await updateDoc(tripRef, {
+                    members: arrayUnion(store.state.user.uid),
+                });
+                router.push({ name: 'group', params: { groupId: groupId } });
+            } else {
+                router.push({ name: 'group', params: { groupId: groupId } });
+            }
+        } else {
+            router.push('/user');
+        }
+    } catch (err) {
+        if (err && err.code === 'auth/popup-closed-by-user') {
+            errorMessage.value = "Sign up with Google was canceled. Try again.";
+        } else {
+            throw err;
+        }
     }
-    
+
     isBusy.value = false;
 }
 

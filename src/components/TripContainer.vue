@@ -4,7 +4,7 @@
             <p class="p-1">{{ countryNameTxt }}</p>
             <p class="p-2">{{ travelDuration }}</p>
         </div>
-        <img src="../assets/logos/icons8-aktie-3.svg" alt="Invite" @click="$emit('invideClick')">
+        <img src="../assets/icons/icons8-aktie-3.svg" alt="Invite" @click="$emit('invideClick')">
     </button>
 </template>
 

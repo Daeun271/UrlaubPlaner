@@ -6,7 +6,7 @@
                 <span class="text-2">{{ messageContent }}</span>
             </div>
         </div>
-        <img src="@/assets/logos/icons8-stornieren.svg" alt="Stonieren" @click="$emit('click')" class="close">
+        <img src="@/assets/icons/icons8-stornieren.svg" alt="Stonieren" @click="$emit('click')" class="close">
     </div>
 </template>
 

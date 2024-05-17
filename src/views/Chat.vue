@@ -18,18 +18,18 @@
         </div>
         <div class="send-container">
             <input @keyup.enter="sendMessage" type="text" v-model="message" placeholder="Enter your message" />
-            <button :value="memberPhotoURLs" @click="sendMessage">Send</button>
+            <button @click="sendMessage">Send</button>
         </div>
     </div>
 </template>
 
 <script setup>
-import { ref, onMounted, onUpdated, watch } from 'vue'
+import { ref, computed, onMounted, onUpdated, watch } from 'vue'
 import { useStore } from 'vuex'
 import { useRoute } from 'vue-router'
 import { db } from '../firebaseConfig.js'
 import { doc, collection, getDoc, getDocs, addDoc, serverTimestamp, query, where, documentId } from "firebase/firestore";
-import altImg from '@/assets/logos/icons8-profilbild-100.png?url'
+import altImg from '@/assets/icons/icons8-profilbild-100.png?url'
 
 const store = useStore();
 const route = useRoute();
@@ -39,6 +39,7 @@ const messageCollection = collection(db, "trips", tripId, "chatMessages");
 const messageGroups = ref([]);
 const message = ref('');
 const userId = store.state.user.uid;
+const userPhoto = computed(store.state.user.photoURL ? store.state.user.photoURL : altImg);
 const memberPhotoURLs = ref({});
 const getTime = ref((message)=>{
     if(message.createdAt instanceof Date){
@@ -89,7 +90,7 @@ onMounted(async () => {
     const q = query(collection(db, "users"), where(documentId(), "in", membersField));
     const querySnapshot = await getDocs(q);
     querySnapshot.forEach((doc) => {
-        memberPhotoURLs.value[doc.id] = doc.data().photoURL;
+        memberPhotoURLs.value[doc.id] = doc.data().photoURL==='DEFAULT' ? altImg : doc.data().photoURL;
     });
 });
 
@@ -131,7 +132,7 @@ const sendMessage = async () => {
 
     newMessage.createdAt = new Date();
     addNewMessage(newMessage);
-    memberPhotoURLs.value[userId] = store.state.user.photoURL ? store.state.user.photoURL : altImg;
+    memberPhotoURLs.value[userId] = userPhoto.value;
     message.value = '';
 }
 </script>
@@ -240,6 +241,7 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    outline: none;
 }
 
 button:hover {

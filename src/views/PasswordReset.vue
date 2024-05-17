@@ -9,7 +9,7 @@
             <p class="form-error">{{ errorMessage }}</p>
         </div>
         <div v-else>
-            <img src="../assets/logos/icons8-e-mail-36.png" alt="Email Img" />
+            <img src="../assets/icons/icons8-e-mail-36.png" alt="Email Img" />
             <h1>Account recovery email sent to {{ email }}</h1>
             <p>We've sent you an email with a link to reset your password. If you don't see this email in your inbox, look for it in your junk mail folder.</p>
         </div>

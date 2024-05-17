@@ -54,7 +54,7 @@ export default{
     margin-left: auto;
     width: 20px;
     height: 20px;
-    background: url(../assets/logos/icons8-stornieren.svg) no-repeat center;
+    background: url(../assets/icons/icons8-stornieren.svg) no-repeat center;
     background-size: 100%;
     border: none;
     cursor: pointer;

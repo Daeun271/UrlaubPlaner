@@ -21,7 +21,7 @@
             <p class="form-error">{{ errorMessage }}</p>
         </div>
         <div>
-            <TransactionContainer v-for="transaction in transactions" :key="transaction.id" :amountTxt="transaction.amount" :fromCurrency="fromCurrency" :toCurrency="toCurrency" :descriptionTxt="transaction.description" :dateTxt="transaction.date" :userPhoto="transaction.userPhoto" :userName="transaction.userName"
+            <TransactionContainer v-for="transaction in transactions" :key="transaction.id" :amountTxt="transaction.amount" :fromCurrency="fromCurrency" :toCurrency="toCurrency" :descriptionTxt="transaction.description" :dateTxt="transaction.date" :payer="transaction.payer"
             @editClick="editTransaction(transaction)" @removeClick="removeTransaction(transaction)" />
         </div>
 
@@ -57,7 +57,7 @@ import Input from '../components/Input.vue';
 import Button from '../components/Button.vue';
 import TransactionContainer from '../components/TransactionContainer.vue';
 import Modal from '../components/Modal.vue';
-import altImg from '@/assets/logos/icons8-profilbild-100.png?url'
+import altImg from '@/assets/icons/icons8-profilbild-100.png?url'
 
 const route = useRoute();
 const tripId = route.params.groupId;
@@ -122,8 +122,7 @@ const errorMessage = ref('');
 const isPoppedUp = ref(false);
 
 const store = useStore();
-const userName = store.state.user.displayName;
-const userPhoto = computed(() => { return store.state.user.photoURL ? store.state.user.photoURL : altImg });
+const userId = store.state.user.uid;
 
 const initializeInput = () => {
     amount.value = 0;
@@ -155,8 +154,7 @@ const validateAndGetTransaction = () => {
         'amount': amount.value,
         'description': description.value,
         'date': Timestamp.fromDate(new Date(date.value)),
-        'userPhoto': userPhoto.value,
-        'userName': userName
+        'payer': userId,
     }
 }
 
@@ -272,6 +270,11 @@ onMounted(async () => {
     margin-bottom: 1rem;
     padding: 0.375rem 0.75rem;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-input:focus {
+    outline: none;
+    border-color: rgb(59 130 246);
 }
 
 .form-error {

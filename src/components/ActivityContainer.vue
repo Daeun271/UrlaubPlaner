@@ -25,8 +25,8 @@
                 <img :src="userPhoto" alt="user photo" style="width:30px; height:30px;">
             </div>
             <div v-if="todo" class="setting-container">
-                <img src="../assets/logos/icons8-einstellungen.svg" alt="Change" @click="$emit('editClick')" class="image">
-                <img src="../assets/logos/icons8-stornieren.svg" alt="Remove" @click="$emit('removeClick')" class="image">
+                <img src="../assets/icons/icons8-einstellungen.svg" alt="Change" @click="$emit('editClick')" class="image">
+                <img src="../assets/icons/icons8-stornieren.svg" alt="Remove" @click="$emit('removeClick')" class="image">
             </div>
         </div>
         <div class="message-container">
@@ -35,48 +35,59 @@
     </div>
 </template>
 
-<script>
-export default{
-    name: 'ActivityContainer',
-    emits: ['checkBoxClicked', 'editClick', 'removeClick', 'undoClick'],
-    props: {
-        msg: String,
-        todo: Boolean,
-        titleTxt: String,
-        descriptionTxt: String,
-        url: String,
-        userPhoto: String,
-        userName: String,
-        startDateTxt: Object,
-        finishDateTxt: Object,
-        message: String,
-        expectedExpense: Number,
-        currency: String
-    },
-    computed: {
-        startDate() {
-            let date = this.startDateTxt.toDate().toDateString();
-            let hour = ("0" + this.startDateTxt.toDate().getUTCHours()).slice(-2);
-            let minute = ("0" + this.startDateTxt.toDate().getUTCMinutes()).slice(-2);
-            let formattedStartDate = `${date} ${hour}:${minute}`;
-            return formattedStartDate;
-        },
-        finishDate() {
-            let date = this.finishDateTxt.toDate().toDateString();
-            let hour = ("0" + this.finishDateTxt.toDate().getUTCHours()).slice(-2);
-            let minute = ("0" + this.finishDateTxt.toDate().getUTCMinutes()).slice(-2);
-            let formattedFinishDate = `${date} ${hour}:${minute}`;
-            return formattedFinishDate;
-        },
-        expenseAndCurrency() {
-            const formattedCurrency = new Intl.NumberFormat('en-US', {
-                style: 'currency',
-                currency: this.currency,
-            });
-            return formattedCurrency.format(this.expectedExpense);
-        }
+<script setup>
+import { defineProps, defineEmits, computed } from 'vue';
+import { computedAsync } from '@vueuse/core';
+import { db } from '../firebaseConfig.js';
+import { getDoc, doc, collection } from "firebase/firestore";
+import altImg from '@/assets/icons/icons8-profilbild-100.png?url'
+
+const emits = defineEmits(['checkBoxClicked', 'editClick', 'removeClick', 'undoClick']);
+const props = defineProps(['msg', 'todo', 'titleTxt', 'descriptionTxt', 'url', 'creator', 'startDateTxt', 'finishDateTxt', 'message', 'expectedExpense', 'currency']);
+
+const startDate = computed(() => {
+    let date = props.startDateTxt.toDate().toDateString();
+    let hour = ("0" + props.startDateTxt.toDate().getUTCHours()).slice(-2);
+    let minute = ("0" + props.startDateTxt.toDate().getUTCMinutes()).slice(-2);
+    let formattedStartDate = `${date} ${hour}:${minute}`;
+    return formattedStartDate;
+});
+
+const finishDate = computed(() => {
+    let date = props.finishDateTxt.toDate().toDateString();
+    let hour = ("0" + props.finishDateTxt.toDate().getUTCHours()).slice(-2);
+    let minute = ("0" + props.finishDateTxt.toDate().getUTCMinutes()).slice(-2);
+    let formattedFinishDate = `${date} ${hour}:${minute}`;
+    return formattedFinishDate;
+});
+
+const expenseAndCurrency = computed(() => {
+    const formattedCurrency = new Intl.NumberFormat('en-US', {
+        style: 'currency',
+        currency: props.currency,
+    });
+    return formattedCurrency.format(props.expectedExpense);
+});
+
+const getUserDoc = computedAsync(async () => {
+    return await getDoc(doc(collection(db, "users"), props.creator));
+});
+
+const userName = computed(() => {
+    if (!getUserDoc.value) {
+        return '';
     }
-}
+
+    return getUserDoc.value.get("displayName");
+});
+
+const userPhoto = computed(() => {
+    if (!getUserDoc.value) {
+        return altImg;
+    }
+
+    return getUserDoc.value.get("photoURL")==="DEFAULT" ? altImg : getUserDoc.value.get("photoURL");
+});
 </script>
 
 <style scoped>

@@ -1,13 +1,12 @@
 Optimieren
 1. data fetch without delay when rendering
-2. invite Link ändern!!!
-3. verifikation noch mal
-4. img in trip container
-5. firestore rules https://seizemymoment.tistory.com/11
-6. data inconsistency because of error during updating databank after sign in/up
-7. Firebase: Error (auth/popup-closed-by-user)
-8. fcm
+2. img in trip container
+3. fcm
+4. recommendation using AI api
 
-Erweitern
-1. best route empfehlen mit GPS (+transportation)
-2. like/dislike when plannig
+todo
+1. invite Link ändern!!! (+ Routing zwischen sign in und sign up bei App.vue anpassen)
+2. firestore rules einrichten
+
+heute
+1. Profil einstellen

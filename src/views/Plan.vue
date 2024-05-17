@@ -2,7 +2,7 @@
 <div class="bg">
     <h1>To do</h1>
     <div class="activity-container">
-        <ActivityContainer v-for="activity in todoActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="currency"
+        <ActivityContainer v-for="activity in todoActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :creator="activity.creator" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="currency"
         @editClick="editActivity(activity)" @removeClick="removeActivity(activity)" @checkBoxClicked.once="finishActivity(activity)" :todo="true"/>
     </div>
     <div class="btn-container">
@@ -10,7 +10,7 @@
     </div>
     <h1>Done</h1>
     <div class="activity-container">
-        <ActivityContainer v-for="activity in doneActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :userPhoto="activity.userPhoto" :userName="activity.userName" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="currency"
+        <ActivityContainer v-for="activity in doneActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :creator="activity.creator" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="currency"
         :todo="false" @undoClick="undoActivity(activity)"/>
     </div>
     
@@ -54,7 +54,6 @@ import Input from '../components/Input.vue';
 import Button from '../components/Button.vue';
 import ActivityContainer from '../components/ActivityContainer.vue';
 import Modal from '../components/Modal.vue';
-import altImg from '@/assets/logos/icons8-profilbild-100.png?url'
 
 const title = ref('');
 const description = ref('');
@@ -82,8 +81,7 @@ tripSnap.then((doc) => {
 });
 
 const store = useStore();
-const userName = store.state.user.displayName;
-const userPhoto = computed(() => { return store.state.user.photoURL ? store.state.user.photoURL : altImg });
+const userId = store.state.user.uid;
 
 const convertTimestampToDate = (timestamp) => {
     const date = new Date(timestamp.toDate().toDateString());
@@ -208,8 +206,7 @@ const validateAndGetActivity = () => {
         'startTimestamp': Timestamp.fromDate(new Date(strStartTimestamp)),
         'finishTimestamp': Timestamp.fromDate(new Date(strFinishTimestamp)),
         'expectedExpense': Number(expectedExpense.value),
-        'userPhoto': userPhoto.value,
-        'userName': userName,
+        'creator': userId,
     };
 
     return formattedActivity;
@@ -219,11 +216,6 @@ const addActivity = async () => {
     let activity = validateAndGetActivity();
 
     if(!activity){
-        return;
-    }
-
-    if(todoActivities.value.some((act) => act.title === activity.title)){
-        errorMessage.value = 'The activity is already added.'
         return;
     }
 
@@ -319,7 +311,7 @@ h1 {
     width: 100px;
     height: 100px;
     padding: 0px;
-    background: url(../assets/logos/icons8-plus-blue.svg) no-repeat center;
+    background: url(../assets/icons/icons8-plus-blue.svg) no-repeat center;
     background-size: 100%;
     border: none;
     cursor: pointer;

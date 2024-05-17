@@ -24,6 +24,7 @@ export default{
     white-space: nowrap;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    outline: none;
 }
 
 .btn:hover {

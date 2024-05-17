@@ -7,7 +7,7 @@
                 <p>{{ member.name }}</p>
             </li>
         </ul>
-        <p class="text">You're planning to visit: {{ country }} {{ city }}</p>
+        <p class="text">You're planning to visit: {{ city }} {{ country }}</p>
         <p class="text text-2">Travel itinerary: {{ arrivalDate }} - {{ departureDate }}</p>
         <div class="btn-container">
             <Button @click="invite" btnText="Invite" :imgSrc="ShareIconUrl" :imgStyle="'margin:5px;'" class="btn-primary" style="padding:5px 8px 5px 5px;"/>
@@ -24,7 +24,8 @@ import { db } from '../firebaseConfig.js';
 import { doc, getDoc, collection, getDocs, query, where, documentId, updateDoc, arrayUnion } from "firebase/firestore";
 import { getCountryName } from '../countryCode.js'
 import Button from '../components/Button.vue';
-import ShareIconUrl from '@/assets/logos/icons8-teilen.svg?url';
+import ShareIconUrl from '@/assets/icons/icons8-teilen.svg?url';
+import altImg from '@/assets/icons/icons8-profilbild-100.png?url'
 
 const planName = ref('');
 const country = ref('');
@@ -71,7 +72,7 @@ onMounted(async () => {
         const member = {
             'id': doc.id,
             'name': doc.data().displayName,
-            'photoURL': doc.data().photoURL,
+            'photoURL': doc.data().photoURL==="DEFAULT" ? altImg : doc.data().photoURL,
         };
         members.value.push(member);
     });

@@ -12,59 +12,70 @@
                 <img :src="userPhoto" alt="user photo" style="width:30px; height:30px;">
             </div>
             <div class="setting-container">
-                <img src="../assets/logos/icons8-einstellungen.svg" alt="Change" @click="$emit('editClick')" class="image">
-                <img src="../assets/logos/icons8-stornieren.svg" alt="Remove" @click="$emit('removeClick')" class="image">
+                <img src="../assets/icons/icons8-einstellungen.svg" alt="Change" @click="$emit('editClick')" class="image">
+                <img src="../assets/icons/icons8-stornieren.svg" alt="Remove" @click="$emit('removeClick')" class="image">
             </div>
         </div>
     </div>
 </template>
 
-<script>
+<script setup>
+import { defineProps, defineEmits, ref, computed, onMounted } from 'vue';
+import { computedAsync } from '@vueuse/core';
+import { db } from '../firebaseConfig.js';
+import { getDoc, doc, collection } from "firebase/firestore";
 import { Timestamp } from "firebase/firestore";
 import { convertCurrency } from '../currencyExchange.js';
-export default{
-    name: 'TransactionContainer',
-    emits: ['editClick', 'removeClick'],
-    props: {
-        amountTxt: Number,
-        fromCurrency: String,
-        toCurrency: String,
-        descriptionTxt: String,
-        dateTxt: Object,
-        userPhoto: String,
-        userName: String
-    },
-    data() {
-        return {
-            amountAndToCurrency: '',
-        };
-    },
-    created() {
-        convertCurrency(this.amountTxt, this.fromCurrency, this.toCurrency).then((result) => {
-            const toCurrencyFormat = new Intl.NumberFormat('en-US', {
-                style: 'currency',
-                currency: this.toCurrency,
-            });
-            this.amountAndToCurrency = toCurrencyFormat.format(result);
+import altImg from '@/assets/icons/icons8-profilbild-100.png?url'
+
+const emits = defineEmits(['editClick', 'removeClick']);
+const props = defineProps(['amountTxt', 'fromCurrency', 'toCurrency', 'descriptionTxt', 'dateTxt', 'payer']);
+
+const amountAndToCurrency = ref('');
+
+const date = computed(() => {
+    const date = new Date(props.dateTxt.toDate().toDateString());
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    return `${year}-${month}-${day}`;
+});
+
+const amountAndFromCurrency = computed(() => {
+    const fromCurrencyFormat = new Intl.NumberFormat('en-US', {
+        style: 'currency',
+        currency: props.fromCurrency,
+    });
+    return fromCurrencyFormat.format(props.amountTxt);
+});
+
+onMounted(() => {
+    convertCurrency(props.amountTxt, props.fromCurrency, props.toCurrency).then((result) => {
+        const toCurrencyFormat = new Intl.NumberFormat('en-US', {
+            style: 'currency',
+            currency: props.toCurrency,
         });
-    },
-    computed: {
-        date() {
-            const date = new Date(this.dateTxt.toDate().toDateString());
-            const year = date.getFullYear();
-            const month = String(date.getMonth() + 1).padStart(2, '0');
-            const day = String(date.getDate()).padStart(2, '0');
-            return `${year}-${month}-${day}`;
-        },
-        amountAndFromCurrency() {
-            const fromCurrencyFormat = new Intl.NumberFormat('en-US', {
-                style: 'currency',
-                currency: this.fromCurrency,
-            });
-            return fromCurrencyFormat.format(this.amountTxt);
-        },
+        amountAndToCurrency.value = toCurrencyFormat.format(result);
+    });
+});
+
+const getUserDoc = computedAsync(async() => {
+    return await getDoc(doc(collection(db, "users"), props.payer));
+});
+
+const userName = computed(() => {
+    if (!getUserDoc.value) {
+        return '';
     }
-}
+    return getUserDoc.value.get("displayName");
+});
+
+const userPhoto = computed(() => {
+    if (!getUserDoc.value) {
+        return altImg;
+    }
+    return getUserDoc.value.get("photoURL")==="DEFAULT" ? altImg : getUserDoc.value.get("photoURL");
+});
 </script>
 
 <style scoped>
