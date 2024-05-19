@@ -20,7 +20,7 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue';
+import { ref, computed, onMounted } from 'vue';
 import { useStore } from 'vuex';
 import { useRouter, useRoute } from 'vue-router';
 import Input from '../components/Input.vue';
@@ -28,7 +28,7 @@ import Button from '../components/Button.vue';
 import Spinner from '../components/Spinner.vue';
 import googleIconUrl from '@/assets/icons/icons8-google-logo.svg?url';
 import { db } from '../firebaseConfig.js';
-import { doc, getDoc, collection, updateDoc, arrayUnion, setDoc, documentId, query, where, getDocs } from "firebase/firestore";
+import { doc, getDoc, collection, updateDoc, arrayUnion, setDoc } from "firebase/firestore";
 
 const email = ref('');
 const password = ref('');
@@ -107,7 +107,6 @@ const signInWithGoogle = async () => {
 
         if (!userDoc.exists()) {
             await setDoc(doc(collection(db, "users"), store.state.user.uid), {
-                email: store.state.user.email,
                 displayName: store.state.user.displayName,
                 photoURL: store.state.user.photoURL,
                 trips: [],

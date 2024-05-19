@@ -70,7 +70,6 @@ const signUp = async () => {
     }
     catch (err) {
         if (err && err.code !== undefined) {
-            console.log(err.code);
             errorMessage.value = errorCodeToMessage(err.code);
         } else {
             throw err;
@@ -88,6 +87,7 @@ const errrorMessages = {
     'auth/missing-password': 'Please enter your password.',
     'auth/weak-password': 'Password must be a string with at least 6 characters.',
     'auth/invalid-password': 'Please enter a valid password.',
+    'auth/popup-closed-by-user': 'Sign up with Google was canceled. Try again.',
 };
 
 const errorCodeToMessage = (errorCode) => {
@@ -107,7 +107,6 @@ const signUpWithGoogle = async () => {
 
         if (!userDoc.exists()) {
             await setDoc(doc(collection(db, "users"), store.state.user.uid), {
-                email: store.state.user.email,
                 displayName: store.state.user.displayName,
                 photoURL: store.state.user.photoURL,
                 trips: [],
@@ -133,8 +132,8 @@ const signUpWithGoogle = async () => {
             router.push('/user');
         }
     } catch (err) {
-        if (err && err.code === 'auth/popup-closed-by-user') {
-            errorMessage.value = "Sign up with Google was canceled. Try again.";
+        if (err && err.code !== undefined) {
+            errorMessage.value = errorCodeToMessage(err.code);
         } else {
             throw err;
         }

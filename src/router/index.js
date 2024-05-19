@@ -12,6 +12,7 @@ import SignOut from "../views/SignOut.vue";
 import PasswordReset from "../views/PasswordReset.vue";
 import CreateGroup from "../views/CreateGroup.vue";
 import Group from "../views/Group.vue";
+import Setting from "../views/Setting.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -86,6 +87,11 @@ const router = createRouter({
       name: "recommendation",
       component: Recommendation,
     },
+    {
+      path: "/setting",
+      name: "setting",
+      component: Setting,
+    },
   ],
 });
 
@@ -120,6 +126,11 @@ router.beforeResolve(async (to, from, next) => {
   }
 
   if (to.path === "/create-group") {
+    store.getters.isLoggedIn ? next() : next(false);
+    return;
+  }
+
+  if (to.path === "/setting") {
     store.getters.isLoggedIn ? next() : next(false);
     return;
   }

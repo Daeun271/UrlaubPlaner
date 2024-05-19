@@ -61,6 +61,17 @@ export default{
     color: black;
 }
 
+.btn-tertiary{
+    color: white;
+    background-color: #eb4b19;
+    border-style: none;
+}
+
+.btn-tertiary:hover {
+    color: white;
+    background-color: #ea633a;
+}
+
 img{
     display: flex;
     align-items:center;

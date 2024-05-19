@@ -7,7 +7,7 @@
     <nav>
       <RouterLink :to="routeURL"><img src="@/assets/icons/logo.svg" alt="Logo" class="logo"> UrlaubsPlaner</RouterLink>
       <div class="spacer"></div>
-      <button v-if="active" @click="click"><img class="info-icon" src="@/assets/icons/icons8-information.svg" alt="Notification"></button>
+      <button v-if="isNotVerified" @click="click"><img class="info-icon" src="@/assets/icons/icons8-information.svg" alt="Notification"></button>
       <ul>
         <li v-for="link in headerLinks" :key="link.path">
           <RouterLink :to="link.path">{{ link.name }}</RouterLink>
@@ -40,7 +40,7 @@ const routeURL = computed(() => (user.value!==null ? '/user' : '/'));
 
 const headerLinks = computed(() => store.state.headerLinks);
 
-const active = computed(() => {
+const isNotVerified = computed(() => {
   if (store.state.user === null) {
     return false;
   }

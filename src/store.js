@@ -8,9 +8,14 @@ import {
     sendEmailVerification,
     sendPasswordResetEmail,
     signInWithPopup,
+    updateEmail,
+    updatePassword,
+    deleteUser,
+    reauthenticateWithCredential,
+    verifyBeforeUpdateEmail,
 } from "firebase/auth";
 import { db } from "./firebaseConfig.js";
-import { doc, setDoc, } from "firebase/firestore";
+import { doc, setDoc } from "firebase/firestore";
 
 let userPromiseResolve = null;
 const userPromise = new Promise((resolve, _reject) => {
@@ -104,6 +109,48 @@ const store = createStore({
         
         setHeaderLinks (context, links) {
             context.commit("SET_HEADER_LINKS", links);
+        },
+
+        async updateUserProfile(context, { displayName, photoURL }) {
+            if (displayName.trim() === "") {
+                throw { code: "auth/invalid-display-name" };
+            }
+
+            if (displayName === auth.currentUser.displayName) {
+                throw { code: "auth/same-display-name" };
+            }
+
+            await updateProfile(auth.currentUser, { displayName, photoURL });
+        },
+
+        async updateUserEmail(context, { email }) {
+            if (email.trim() === "") {
+                throw { code: "auth/missing-email" };
+            }
+
+            if (email === auth.currentUser.email) {
+                throw { code: "auth/same-email" };
+            }
+
+            await updateEmail(auth.currentUser, email);
+        },
+
+        async updateUserPassword(context, { password }) {
+            await updatePassword(auth.currentUser, password);
+        },
+
+        async deleteUser(context) {
+            await deleteUser(auth.currentUser);
+            context.commit("SET_USER", null);
+        },
+
+        async reauthenticateUser(context, authCredential) {
+            const userCredential = await reauthenticateWithCredential(auth.currentUser, authCredential);
+            return userCredential;
+        },
+
+        async verifyUserEmail(context, email) {
+            await verifyBeforeUpdateEmail(auth.currentUser, email);
         },
     },
 });

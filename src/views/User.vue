@@ -3,7 +3,7 @@
         <h1>Hello {{ userName }}!</h1>
         <div class="profile-container">
             <img :src="userPhoto" class="profile-photo">
-            <img src="../assets/icons/icons8-modify-150.png" class="overlay-icon" @click="console.log('overlaid photo clicked')">
+            <img src="../assets/icons/icons8-modify-150.png" class="overlay-icon" @click="isClicked=true">
         </div>
         <div style="width:100%;">
             <TripContainer @planClick="$router.push({name: 'group', params: { groupId: trip.id }})" v-for="trip in trips" v-bind:key="trip.id" :countryNameTxt="trip.country" :travelDuration="trip.arrivalDate + '-' + trip.departureDate"
@@ -13,6 +13,18 @@
                 <p>Create a trip plan</p>
             </button>
         </div>
+
+        <Modal v-if="isClicked" @closeModal="closeModal" width="25%">
+            <div class="user-container">
+                <h2>{{ userName }}</h2>
+                <p>{{ userEmail }}</p>
+            </div>
+            <template v-slot:footer>
+                <div>
+                    <Button @click="$router.push('/setting')" @keyup.enter="$router.push('/setting')" btnText="Change my profile" class="btn-primary" style="width:100%; height:40px;" />
+                </div>
+            </template>
+        </Modal>
     </div>
 </template>
 
@@ -25,10 +37,18 @@ import { collection, getDocs, query, where, doc, getDoc, documentId } from "fire
 import { getCountryName } from '../countryCode.js'
 import TripContainer from '../components/TripContainer.vue'
 import altImg from '@/assets/icons/icons8-profilbild-100.png?url'
+import Modal from '../components/Modal.vue';
+import Button from '../components/Button.vue';
 
 const store = useStore();
 const userName = ref(store.state.user.displayName);
 const userPhoto = computed(() => store.state.user.photoURL ? store.state.user.photoURL : altImg);
+const userEmail = ref(store.state.user.email);
+
+const isClicked = ref(false);
+const closeModal = () => {
+    isClicked.value = false;
+}
 
 const trips = ref([]);
 onMounted(async () => {
@@ -137,5 +157,21 @@ const invide = async (tripId) => {
     margin-bottom: 0px;
     font-size: 17px;
     font-weight: 600;
+}
+
+.user-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.user-container > h2 {
+    margin: 0;
+}
+
+.user-container > p {
+    margin: 0;
 }
 </style>
