@@ -84,7 +84,7 @@ const addTrip = async () => {
         members: [store.state.user.uid],
         todoActivities: [],
         doneActivities: [],
-        currency: currency.value ? 'USD' : currency.value,
+        currency: currency.value ? currency.value : 'USD',
         transactions: [],
     });
     const userDocRef = doc(db, "users", store.state.user.uid);

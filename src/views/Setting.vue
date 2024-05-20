@@ -4,10 +4,10 @@
             <div class="image-wrapper">
                 <div class="image-container">
                     <img :src="userPhoto" class="profile-photo">
-                    <input type="file" accept="image/*" ref="fileInput" style="display:none" @change="setPhoto">
-                    <img src="../assets/icons/icons8-camera-100.png" class="overlay-icon" @click="$refs.fileInput.click()">
+                    <!--<input type="file" accept="image/*" ref="fileInput" style="display:none" @change="setPhoto">-->
+                    <img src="../assets/icons/icons8-camera-100.png" class="overlay-icon" @click="isPhotoModalClicked=true">
                 </div>
-                <p class="img-message" :class="{ 'img-error' : isImgError }">{{ messageImg }}</p>
+                <p class="message" :class="{ 'error-message' : isImgError }">{{ messageImg }}</p>
             </div>
             <div style="margin-bottom:40px;">
                 <SettingInput labelId="displayName" labelText="Display name" inputType="displayName" v-model="displayName" btnText="Rename" @buttonClick="setDisplayname" :isError="isNameError" :msgText="messageName"></SettingInput>
@@ -18,14 +18,23 @@
                 <SettingInput labelId="email" labelText="Email" inputType="email" v-model="email" btnText="Change" @buttonClick="isReauthenticated(setEmail)" :isError="isEmailError" :msgText="messageEmail"></SettingInput>
             </div>
             <div>
-                <SettingInput labelId="newPassword" labelText="New password" inputType="password" v-model="newPassword" btnText="Change" @buttonClick="isReauthenticated(setPassword)"></SettingInput>
+                <SettingInput labelId="newPassword" labelText="New password" inputType="password" v-model="newPassword" btnText="Update" @buttonClick="isReauthenticated(setPassword)" :isError="isPasswordError" :msgText="messagePassword"></SettingInput>
             </div>
-            <div class="button-container">
+            <div class="button-container" style="margin-bottom:20px;">
                 <Button @click="isReauthenticated(resetPassword)" btnText="Reset password" class="btn-primary"></Button>
                 <Button @click="isReauthenticated(deleteUser)" btnText="Delete account" class="btn-tertiary"></Button>
             </div>
         </SettingContainer>
 
+        <Modal v-if="isPhotoModalClicked" @closeModal="isPhotoModalClicked=false" width="30%">
+            <div>
+                <h2 style="margin: 0 0 30px 0;">Choose your profile picture</h2>
+                <div class="image-selection">
+                    <img v-for="image in [image1, image2, image3, image4, image5, image6, image7, image8, image9, image10, image11, image12]" :key="image" :src="image" style="cursor: pointer;" @click="setPhoto(imageToLink[image])">
+                </div>
+            </div>
+        </Modal>
+        
         <Modal v-if="isReauthenticationModalClicked" @closeModal="closeReauthenticationModal" width="30%">
             <div>
                 <p>Before changing your security-secure data, please enter your current password.</p>
@@ -34,7 +43,7 @@
             <template v-slot:footer>
                 <div>
                     <Button @click="reauthenticateUser" @keyup.enter="reauthenticateUser" btnText="Confirm" class="btn-primary" style="width:100%; height:40px;" />
-                    <p class="modal-message" :class="{ 'modal-error' : isReauthenticationError }">{{ reauthenticationMessage }}</p>
+                    <p class="message" :class="{ 'error-message' : isReauthenticationError }">{{ reauthenticationMessage }}</p>
                 </div>
             </template>
         </Modal>
@@ -45,9 +54,34 @@
             </div>
             <template v-slot:footer>
                 <div>
-                    <Button @click="verifyUser" @keyup.enter="verifyUser" btnText="Send verification email" class="btn-primary" style="width:100%; height:40px;" />
-                    <p class="modal-message" :class="{ 'modal-error' : isVerficationError }">{{ verificationMessage }}</p>
+                    <Button @click="verifyUserEmail" @keyup.enter="verifyUserEmail" btnText="Send verification email" class="btn-primary" style="width:100%; height:40px;" />
+                    <p class="message" :class="{ 'error-message' : isVerficationError }">{{ verificationMessage }}</p>
                 </div>
+            </template>
+        </Modal>
+
+        <Modal v-if="isResetModalClicked" @closeModal="closeResetModal" width="40%">
+            <div>
+                <p>Reset your password, before updating it. You will receive a password reset email and be logged out. When you reset your password, you can sign in with your new password. If not, you can sign in with your current password.</p>
+            </div>
+            <template v-slot:footer>
+                <div>
+                    <Button @click="sendResetMail" @keyup.enter="sendResetMail" btnText="Send password reset mail" class="btn-primary" style="width:100%; height:40px;" />
+                    <p class="message" :class="{ 'error-message' : isResetError }">{{ resetMessage }}</p>
+                </div>
+            </template>
+        </Modal>
+
+        <Modal v-if="isDeleteModalClicked" @closeModal="closeDeleteModal" width="30%">
+            <div>
+                <p>Are you sure you want to delete your account? This action cannot be undone.</p>
+            </div>
+            <template v-slot:footer>
+                <div class="button-container">
+                    <Button @click="closeDeleteModal" @keyup.enter="closeDeleteModal" btnText="Cancel" class="btn-primary" style="width:100%; height:40px;"/>
+                    <Button @click="deleteAccount" @keyup.enter="deleteAccount" btnText="Delete account" class="btn-tertiary" style="width:100%; height:40px;"/>
+                </div>
+                <p class="message" :class="{ 'error-message' : isDeleteError }">{{ deleteMessage }}</p>
             </template>
         </Modal>
     </div>
@@ -58,7 +92,7 @@ import { computed, ref } from 'vue';
 import { useStore } from 'vuex';
 import { useRouter } from 'vue-router';
 import { db } from '../firebaseConfig.js';
-import { doc, updateDoc } from 'firebase/firestore';
+import { doc, updateDoc, collection, getDoc, deleteDoc } from 'firebase/firestore';
 import { EmailAuthProvider } from 'firebase/auth';
 import SettingContainer from '@/components/SettingContainer.vue';
 import altImg from '@/assets/icons/icons8-profilbild-100.png?url';
@@ -66,6 +100,47 @@ import SettingInput from '@/components/SettingInput.vue';
 import Button from '@/components/Button.vue';
 import Input from '@/components/Input.vue';
 import Modal from '@/components/Modal.vue';
+
+import image1 from '@/assets/icons/icons8-circled-user-female-skin-type-1-and-2-100.png?url';
+import image2 from '@/assets/icons/icons8-circled-user-female-skin-type-3-100.png?url';
+import image3 from '@/assets/icons/icons8-circled-user-female-skin-type-4-100.png?url';
+import image4 from '@/assets/icons/icons8-circled-user-female-skin-type-5-100.png?url';
+import image5 from '@/assets/icons/icons8-circled-user-female-skin-type-6-100.png?url';
+import image6 from '@/assets/icons/icons8-circled-user-female-skin-type-7-100.png?url';
+import image7 from '@/assets/icons/icons8-circled-user-male-skin-type-1-and-2-100.png?url';
+import image8 from '@/assets/icons/icons8-circled-user-male-skin-type-3-100.png?url';
+import image9 from '@/assets/icons/icons8-circled-user-male-skin-type-4-100.png?url';
+import image10 from '@/assets/icons/icons8-circled-user-male-skin-type-5-100.png?url';
+import image11 from '@/assets/icons/icons8-circled-user-male-skin-type-6-100.png?url';
+import image12 from '@/assets/icons/icons8-circled-user-male-skin-type-7-100.png?url';
+
+const image1Link = "https://img.icons8.com/color/150/circled-user-female-skin-type-1-2--v1.png";
+const image2Link = "https://img.icons8.com/color/150/circled-user-female-skin-type-3--v1.png";
+const image3Link = "https://img.icons8.com/color/150/circled-user-female-skin-type-4--v1.png";
+const image4Link = "https://img.icons8.com/color/150/circled-user-female-skin-type-5--v1.png";
+const image5Link = "https://img.icons8.com/color/150/circled-user-female-skin-type-6--v1.png";
+const image6Link = "https://img.icons8.com/color/150/circled-user-female-skin-type-7--v1.png";
+const image7Link = "https://img.icons8.com/color/150/circled-user-male-skin-type-1-2--v1.png";
+const image8Link = "https://img.icons8.com/color/150/circled-user-male-skin-type-3--v1.png";
+const image9Link = "https://img.icons8.com/color/150/circled-user-male-skin-type-4--v1.png";
+const image10Link = "https://img.icons8.com/color/150/circled-user-male-skin-type-5--v1.png";
+const image11Link = "https://img.icons8.com/color/150/circled-user-male-skin-type-6--v1.png";
+const image12Link = "https://img.icons8.com/color/150/circled-user-male-skin-type-7--v1.png";
+
+const imageToLink = {
+    [image1]: image1Link,
+    [image2]: image2Link,
+    [image3]: image3Link,
+    [image4]: image4Link,
+    [image5]: image5Link,
+    [image6]: image6Link,
+    [image7]: image7Link,
+    [image8]: image8Link,
+    [image9]: image9Link,
+    [image10]: image10Link,
+    [image11]: image11Link,
+    [image12]: image12Link,
+};
 
 const store = useStore();
 const userId = store.state.user.uid;
@@ -84,6 +159,8 @@ const isNameError = ref(false);
 const messageName = ref('');
 const isEmailError = ref(false);
 const messageEmail = ref('');
+const isPasswordError = ref(false);
+const messagePassword = ref('');
 
 const isFromGoogle = computed(() => {
     return store.state.user.providerData[0].providerId === 'google.com';
@@ -96,7 +173,6 @@ const closeReauthenticationModal = () => {
     isReauthenticationError.value = false;
     reauthenticationMessage.value = '';
 }
-
 const isReauthenticationError = ref(false);
 const reauthenticationMessage = ref('');
 
@@ -108,6 +184,26 @@ const closeVerificationModal = () => {
 }
 const isVerficationError = ref(false);
 const verificationMessage = ref('');
+
+const isResetModalClicked = ref(false);
+const closeResetModal = () => {
+    isResetModalClicked.value = false;
+    isResetError.value = false;
+    resetMessage.value = '';
+}
+const isResetError = ref(false);
+const resetMessage = ref('');
+
+const isDeleteModalClicked = ref(false);
+const closeDeleteModal = () => {
+    isDeleteModalClicked.value = false;
+    isDeleteError.value = false;
+    deleteMessage.value = '';
+}
+const isDeleteError = ref(false);
+const deleteMessage = ref('');
+
+const isPhotoModalClicked = ref(false);
 
 /*
 When the loaded image is too large, resize it before uploading.
@@ -181,10 +277,8 @@ const setPhoto = async (event) => {
 const errrorMessages = {
     'auth/invalid-credential': 'The password is wrong. Please try again.',
     'auth/invalid-display-name': 'Display name should be not empty.',
-    'auth/same-display-name': 'Same name as the current one.',
-    'auth/invalid-new-email': 'Please enter a valid email.',
-
-    'auth/missing-password': 'Please enter your password.',
+    'auth/invalid-new-email': 'Please enter a valid email address.',
+    'auth/missing-password': 'Empty password. Please enter your password.',
     'auth/weak-password': 'Password must be a string with at least 6 characters.',
     'auth/invalid-password': 'Please enter a valid password.',
 };
@@ -193,11 +287,30 @@ const errorCodeToMessage = (errorCode) => {
     return errrorMessages[errorCode] || 'An error occurred. Please try again.';
 }
 
-const setPhoto = () => {
-    console.log('setPhoto');
+const setPhoto = async (link) => {
+    isPhotoModalClicked.value = false;
+    
+    try {
+        await store.dispatch('updateUserProfile', { displayName: store.state.user.displayName, photoURL: link });
+        await updateDoc(doc(db, "users", userId), {
+            photoURL: link
+        });
+        userPhoto.value = link;
+        isImgError.value = false;
+        messageImg.value = 'Profile photo updated successfully.';
+    } catch (error) {
+        messageImg.value = 'An error occurred. Please try again.';
+        isImgError.value = true;
+    }
 }
 
 const setDisplayname = async () => {
+    if (displayName === store.state.user.displayName) {
+        messageName.value = 'Same name as the current one.';
+        isNameError.value = true;
+        return;
+    }
+
     try {
         await store.dispatch('updateUserProfile', { displayName: displayName.value, photoURL: store.state.user.photoURL });
         await updateDoc(doc(db, "users", userId), {
@@ -217,6 +330,7 @@ const setDisplayname = async () => {
 
 const isReauthenticated = (callback) => {
     isReauthenticatedVal ? callback() : isReauthenticationModalClicked.value = true;
+    console.log(isReauthenticationModalClicked.value);
 }
 
 const reauthenticateUser = async () => {
@@ -238,9 +352,9 @@ const reauthenticateUser = async () => {
     }
 }
 
-const setEmail = async () => {
+const setEmail = () => {
     if (email.value.trim() === '') {
-        messageEmail.value = 'Please enter your new email.';
+        messageEmail.value = 'Empty email. Please enter your new email.';
         isEmailError.value = true;
         return;
     }
@@ -259,7 +373,7 @@ const setEmail = async () => {
 }
 
 const router = useRouter();
-const verifyUser = async () => {
+const verifyUserEmail = async () => {
     try {
         await store.dispatch('verifyUserEmail', email.value);
         isVerficationError.value = false;
@@ -280,16 +394,67 @@ const verifyUser = async () => {
     }
 }
 
-const setPassword = () => {
-    console.log('setPassword');
+const setPassword = async () => {
+    try {
+        await store.dispatch('updateUserPassword', { password: newPassword.value });
+        messagePassword.value = 'Password updated successfully.';
+        isPasswordError.value = false;
+    } catch (error) {
+        if (error && error.code !== undefined) {
+            messagePassword.value = errorCodeToMessage(error.code);
+            isPasswordError.value = true;
+        } else {
+            throw error;
+        }
+    }
 }
 
 const resetPassword = () => {
-    console.log('resetPassword');
+    resetMessage.value = '';
+    isResetError.value = false;
+    isResetModalClicked.value = true;
 }
 
-const deleteUser = () => {
-    console.log('deleteUser');
+const sendResetMail = async () => {
+    try {
+        await store.dispatch('resetPassword', { email: store.state.user.email });
+        isResetError.value = false;
+        resetMessage.value = 'Password reset email sent successfully. Please check your email.';
+        await store.dispatch('logOut');
+        router.push('/signin');
+    } catch (error) {
+        isResetError.value = true;
+        resetMessage.value = 'An error occurred. Please try again.';
+    }
+}
+
+const deleteUser = async () => {
+    deleteMessage.value = '';
+    isDeleteError.value = false;
+    isDeleteModalClicked.value = true;
+}
+
+const deleteAccount = async () => {
+    try {
+        await store.dispatch('deleteUser');
+        const tripIds = (await getDoc(doc(collection(db, "users"), userId))).get("trips");
+
+        if (tripIds.length === 0) {
+            await deleteDoc(doc(db, "users", userId));
+        } else  {
+            await updateDoc(doc(db, "users", userId), {
+                displayName: 'Deleted user',
+                photoURL: 'DEFAULT',
+            });
+        }
+        deleteMessage.value = 'Account deleted successfully.';
+        isDeleteError.value = false;
+        router.push('/');
+    } catch (error) {
+        console.log(error);
+        deleteMessage.value = 'An error occurred. Please try again.';
+        isDeleteError.value = true;
+    }
 }
 </script>
 
@@ -342,30 +507,25 @@ const deleteUser = () => {
     opacity: 0.5;
 }
 
-.img-message {
-    margin-top: 0.5rem;
-    font-size: 0.875rem;
-    color: blue;
-}
-
-.img-error {
-    color: red;
-}
-
 .button-container {
     display: flex;
     flex-direction: row;
     gap: 1rem;
-    margin-bottom: 40px;
 }
 
-.modal-message {
+.message {
     margin-top: 0.5rem;
     font-size: 0.875rem;
     color: blue;
 }
 
-.modal-error {
+.error-message {
     color: red;
+}
+
+.image-selection {
+    display: grid;
+    grid-template-columns: 160px 160px 160px;
+    row-gap: 10px;
 }
 </style>

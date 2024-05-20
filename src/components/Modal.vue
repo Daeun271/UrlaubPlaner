@@ -42,7 +42,6 @@ export default{
     position: absolute;
     padding: 15px;
     border-radius: 15px;
-    width: 80%;
     max-height: 80%;
     overflow-y: auto;
     background: #fff;

@@ -91,6 +91,10 @@ const store = createStore({
         },
 
         async resetPassword(context, {email}) {
+            if (email.trim() === "") {
+                throw { code: "auth/missing-email" };
+            }
+
             await sendPasswordResetEmail(auth, email);
         },
 
@@ -116,26 +120,18 @@ const store = createStore({
                 throw { code: "auth/invalid-display-name" };
             }
 
-            if (displayName === auth.currentUser.displayName) {
-                throw { code: "auth/same-display-name" };
-            }
-
             await updateProfile(auth.currentUser, { displayName, photoURL });
         },
 
-        async updateUserEmail(context, { email }) {
-            if (email.trim() === "") {
-                throw { code: "auth/missing-email" };
-            }
-
-            if (email === auth.currentUser.email) {
-                throw { code: "auth/same-email" };
-            }
-
-            await updateEmail(auth.currentUser, email);
+        async verifyUserEmail(context, email) {
+            await verifyBeforeUpdateEmail(auth.currentUser, email);
         },
 
         async updateUserPassword(context, { password }) {
+            if (password.trim() === "") {
+                throw { code: "auth/missing-password" };
+            }
+
             await updatePassword(auth.currentUser, password);
         },
 
@@ -147,10 +143,6 @@ const store = createStore({
         async reauthenticateUser(context, authCredential) {
             const userCredential = await reauthenticateWithCredential(auth.currentUser, authCredential);
             return userCredential;
-        },
-
-        async verifyUserEmail(context, email) {
-            await verifyBeforeUpdateEmail(auth.currentUser, email);
         },
     },
 });
