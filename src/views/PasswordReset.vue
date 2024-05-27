@@ -39,7 +39,7 @@ const sendRecoveryEmail = async () => {
         if (err && err.code !== undefined) {
             errorMessage.value = errorCodeToMessage(err.code);
         } else {
-            throw err;
+            errorMessage.value = 'An error occurred. Please try again.';
         }
     }
 }

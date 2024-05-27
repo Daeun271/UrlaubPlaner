@@ -14,8 +14,6 @@ import {
     reauthenticateWithCredential,
     verifyBeforeUpdateEmail,
 } from "firebase/auth";
-import { db } from "./firebaseConfig.js";
-import { doc, setDoc } from "firebase/firestore";
 
 let userPromiseResolve = null;
 const userPromise = new Promise((resolve, _reject) => {
@@ -68,11 +66,6 @@ const store = createStore({
             }
 
             await updateProfile(response.user, { displayName: name });
-            await setDoc(doc(db, "users", response.user.uid), {
-                displayName: name,
-                photoURL: "DEFAULT",
-                trips: [],
-            }, { merge: true });
 
             await sendEmailVerification(response.user);
         },
@@ -142,7 +135,10 @@ const store = createStore({
 
         async reauthenticateUser(context, authCredential) {
             const userCredential = await reauthenticateWithCredential(auth.currentUser, authCredential);
-            return userCredential;
+
+            if (userCredential) {
+                context.commit("SET_USER", userCredential.user);
+            }
         },
     },
 });

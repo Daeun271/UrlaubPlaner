@@ -292,9 +292,11 @@ const setPhoto = async (link) => {
     
     try {
         await store.dispatch('updateUserProfile', { displayName: store.state.user.displayName, photoURL: link });
+
         await updateDoc(doc(db, "users", userId), {
             photoURL: link
         });
+
         userPhoto.value = link;
         isImgError.value = false;
         messageImg.value = 'Profile photo updated successfully.';
@@ -313,24 +315,32 @@ const setDisplayname = async () => {
 
     try {
         await store.dispatch('updateUserProfile', { displayName: displayName.value, photoURL: store.state.user.photoURL });
-        await updateDoc(doc(db, "users", userId), {
-            displayName: displayName.value
-        });
-        isNameError.value = false;
-        messageName.value = 'Display name updated successfully.';
     } catch (error) {
         if (error && error.code !== undefined) {
             messageName.value = errorCodeToMessage(error.code);
-            isNameError.value = true;
         } else {
-            throw error;
+            messageName.value = 'An error occurred. Please try again.';
         }
+
+        isNameError.value = true;
+        return;
+    }
+
+    try {
+        await updateDoc(doc(db, "users", userId), {
+            displayName: displayName.value
+        });
+
+        isNameError.value = false;
+        messageName.value = 'Display name updated successfully.';
+    } catch(error) {
+        messageName.value = 'An error occurred. Please try again.';
+        isNameError.value = true;
     }
 }
 
 const isReauthenticated = (callback) => {
     isReauthenticatedVal ? callback() : isReauthenticationModalClicked.value = true;
-    console.log(isReauthenticationModalClicked.value);
 }
 
 const reauthenticateUser = async () => {
@@ -345,10 +355,11 @@ const reauthenticateUser = async () => {
     } catch (error) {
         if (error && error.code !== undefined) {
             reauthenticationMessage.value = errorCodeToMessage(error.code);
-            isReauthenticationError.value = true;
         } else {
-            throw error;
+            reauthenticationMessage.value = 'An error occurred. Please try again.';
         }
+
+        isReauthenticationError.value = true;
     }
 }
 
@@ -385,12 +396,12 @@ const verifyUserEmail = async () => {
     } catch (error) {
         if (error && error.code !== undefined) {
             verificationMessage.value = errorCodeToMessage(error.code);
-            isVerficationError.value = true;
         }
         else {
             verificationMessage.value = 'An error occurred. Please try again.';
-            isVerficationError.value = true;
         }
+
+        isVerficationError.value = true;
     }
 }
 
@@ -402,10 +413,11 @@ const setPassword = async () => {
     } catch (error) {
         if (error && error.code !== undefined) {
             messagePassword.value = errorCodeToMessage(error.code);
-            isPasswordError.value = true;
         } else {
-            throw error;
+            messagePassword.value = 'An error occurred. Please try again.';
         }
+
+        isPasswordError.value = true;
     }
 }
 
@@ -420,6 +432,7 @@ const sendResetMail = async () => {
         await store.dispatch('resetPassword', { email: store.state.user.email });
         isResetError.value = false;
         resetMessage.value = 'Password reset email sent successfully. Please check your email.';
+        
         await store.dispatch('logOut');
         router.push('/signin');
     } catch (error) {
@@ -447,11 +460,11 @@ const deleteAccount = async () => {
                 photoURL: 'DEFAULT',
             });
         }
+        
         deleteMessage.value = 'Account deleted successfully.';
         isDeleteError.value = false;
         router.push('/');
     } catch (error) {
-        console.log(error);
         deleteMessage.value = 'An error occurred. Please try again.';
         isDeleteError.value = true;
     }

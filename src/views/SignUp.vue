@@ -47,34 +47,59 @@ const signUp = async () => {
     }
     isBusy.value = true;
     errorMessage.value = '';
+
     try {
         await store.dispatch('register', {
             email: email.value,
             password: password.value,
             name: name.value
         });
-
-        if(groupId){
-            const userRef = doc(db, "users", store.state.user.uid);
-            await updateDoc(userRef, {
-                trips: arrayUnion(groupId),
-            });
-            const tripRef = doc(db, "trips", groupId);
-            await updateDoc(tripRef, {
-                members: arrayUnion(store.state.user.uid),
-            });
-            router.push({ name: 'group', params: { groupId: groupId } });
-        }else{
-            router.push('/user');
-        }    
-    }
-    catch (err) {
+    } catch (err) {
         if (err && err.code !== undefined) {
             errorMessage.value = errorCodeToMessage(err.code);
         } else {
-            throw err;
+            errorMessage.value = 'An error occurred. Please try again.';
         }
+
+        isBusy.value = false;
+        return;
     }
+
+    try {
+        await setDoc(doc(db, "users", response.user.uid), {
+            displayName: name,
+            photoURL: "DEFAULT",
+            trips: [],
+        }, { merge: true });
+    } catch (err) {
+        errorMessage.value = 'An error occurred. Please try again.';
+
+        if ((await getDoc(doc(collection(db, "users"), store.state.user.uid))).exists()) {
+            deleteDoc(doc(db, "users", store.state.user.uid));
+        }
+
+        await store.dispatch('deleteUser');
+
+        isBusy.value = false;
+        return;
+    }
+
+    if(groupId){
+        const userRef = doc(db, "users", store.state.user.uid);
+        await updateDoc(userRef, {
+            trips: arrayUnion(groupId),
+        });
+
+        const tripRef = doc(db, "trips", groupId);
+        await updateDoc(tripRef, {
+            members: arrayUnion(store.state.user.uid),
+        });
+
+        router.push({ name: 'group', params: { groupId: groupId } });
+    }else{
+        router.push('/user');
+    }
+
     isBusy.value = false;
 }
 
@@ -91,7 +116,7 @@ const errrorMessages = {
 };
 
 const errorCodeToMessage = (errorCode) => {
-    return errrorMessages[errorCode] || 'Unknown error. Try again.';
+    return errrorMessages[errorCode] || 'An error occurred. Please try again.';
 }
 
 const signUpWithGoogle = async () => {
@@ -102,41 +127,47 @@ const signUpWithGoogle = async () => {
 
     try {
         await store.dispatch('googleSignIn');
-
-        const userDoc = (await getDoc(doc(collection(db, "users"), store.state.user.uid)));
-
-        if (!userDoc.exists()) {
-            await setDoc(doc(collection(db, "users"), store.state.user.uid), {
-                displayName: store.state.user.displayName,
-                photoURL: store.state.user.photoURL,
-                trips: [],
-            });
-        }
-
-        const tripIds = (await getDoc(doc(collection(db, "users"), store.state.user.uid))).get("trips");
-        if (groupId) {
-            if(!tripIds.includes(groupId)){
-                const userRef = doc(db, "users", store.state.user.uid);
-                await updateDoc(userRef, {
-                    trips: arrayUnion(groupId),
-                });
-                const tripRef = doc(db, "trips", groupId);
-                await updateDoc(tripRef, {
-                    members: arrayUnion(store.state.user.uid),
-                });
-                router.push({ name: 'group', params: { groupId: groupId } });
-            } else {
-                router.push({ name: 'group', params: { groupId: groupId } });
-            }
-        } else {
-            router.push('/user');
-        }
     } catch (err) {
         if (err && err.code !== undefined) {
             errorMessage.value = errorCodeToMessage(err.code);
         } else {
-            throw err;
+            errorMessage.value = 'An error occurred. Please try again.';
         }
+
+        isBusy.value = false;
+        return;
+    }
+
+    const userDoc = (await getDoc(doc(collection(db, "users"), store.state.user.uid)));
+
+    if (!userDoc.exists()) {
+        await setDoc(doc(collection(db, "users"), store.state.user.uid), {
+            displayName: store.state.user.displayName,
+            photoURL: store.state.user.photoURL,
+            trips: [],
+        });
+    }
+
+    if (groupId) {
+        const tripIds = (await getDoc(doc(collection(db, "users"), store.state.user.uid))).get("trips");
+        
+        if(!tripIds.includes(groupId)){
+            const userRef = doc(db, "users", store.state.user.uid);
+            await updateDoc(userRef, {
+                trips: arrayUnion(groupId),
+            });
+
+            const tripRef = doc(db, "trips", groupId);
+            await updateDoc(tripRef, {
+                members: arrayUnion(store.state.user.uid),
+            });
+
+            router.push({ name: 'group', params: { groupId: groupId } });
+        } else {
+            router.push({ name: 'group', params: { groupId: groupId } });
+        }
+    } else {
+        router.push('/user');
     }
 
     isBusy.value = false;
