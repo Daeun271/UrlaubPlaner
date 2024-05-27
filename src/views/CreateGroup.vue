@@ -7,12 +7,12 @@
                 <Input labelId="planName" labelText="Plan name" :isImportant="true" inputType="text" v-model="planName"/>
                 <CountryDropdown @selected-country="selectCountry"/>
                 <Input labelId="city" labelText="City to travel" inputType="text" v-model="city"/>
-                <label for="arrivalDate" style="font-weight: 700;">Arrival Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
-                <br/>
-                <input id="arrivalDate" type="date" :min="minDate" v-model="arrivalDate" class="form-input"/>
                 <label for="departureDate" style="font-weight: 700;">Departure Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
                 <br/>
                 <input id="departureDate" type="date" :min="minDate" v-model="departureDate" class="form-input"/>
+                <label for="arrivalDate" style="font-weight: 700;">Arrival Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
+                <br/>
+                <input id="arrivalDate" type="date" :min="minDate" v-model="arrivalDate" class="form-input"/>
                 <CurrencyDropdown v-model="currency"/>
             </form>
             <p class="p-2">{{ errorMessage }}</p>
@@ -69,8 +69,8 @@ const addTrip = async () => {
         return;
     }
 
-    if (new Date(arrivalDate.value) > new Date(departureDate.value)) {
-        errorMessage.value = "Departure date must be later than arrival date";
+    if (new Date(departureDate.value) > new Date(arrivalDate.value)) {
+        errorMessage.value = "Arrival date must be later than departure date or the same";
         isBusy.value = false;
         return; 
     }

@@ -8,7 +8,7 @@
             </li>
         </ul>
         <p class="text">You're planning to visit: {{ city }} {{ country }}</p>
-        <p class="text text-2">Travel itinerary: {{ arrivalDate }} - {{ departureDate }}</p>
+        <p class="text text-2">Travel itinerary: {{ departureDate }} - {{ arrivalDate }}</p>
         <div class="btn-container">
             <Button @click="invite" btnText="Invite" :imgSrc="ShareIconUrl" :imgStyle="'margin:5px;'" class="btn-primary" style="padding:5px 8px 5px 5px;"/>
             <Button @click="$router.push('/user')" btnText="See other trip plan" class="btn-secondary"/>

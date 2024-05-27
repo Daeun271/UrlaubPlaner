@@ -7,6 +7,7 @@
             <div class="expense-container">
                 <p>Expense so far: {{ summedExpenseAndFromCurrency }}</p><span>{{ summedExpenseAndToCurrency }}</span>
             </div>
+            <p v-if="!isSolo" style="margin:0;">{{ individualPaymentAndReception }}</p>
         </div>
         <p style="font-size: 18px; font-weight: bold; margin: 0 0 15px 0">Insert your expenses and split them with your friends</p>
         <div class="add-container">
@@ -16,7 +17,7 @@
             <Input labelId="description" labelText="Description" inputType="text" v-model="description" :isImportant="true"/>
             <label for="date" style="font-weight: 700;">Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
             <br/>
-            <input id="date" type="date" :min="arrivalDate" :max="departureDate" v-model="date" class="form-input"/>
+            <input id="date" type="date" :min="departureDate" :max="arrivalDate" v-model="date" class="form-input"/>
             <Button btnText="Submit" class="btn-primary" @click="addTransaction" @keyup.enter="addTransaction" style="width:100%; margin-top:0.75rem;"/>
             <p class="form-error">{{ errorMessage }}</p>
         </div>
@@ -33,7 +34,7 @@
                 <Input labelId="description" labelText="Description" inputType="text" v-model="description" :isImportant="true"/>
                 <label for="date" style="font-weight: 700;">Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
                 <br/>
-                <input id="date" type="date" :min="arrivalDate" :max="departureDate" v-model="date" class="form-input"/>
+                <input id="date" type="date" :min="departureDate" :max="arrivalDate" v-model="date" class="form-input"/>
             </div>
             <template v-slot:footer>
                 <div>
@@ -50,7 +51,7 @@ import { ref, computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router';
 import { useStore } from 'vuex'
 import { db } from '../firebaseConfig.js'
-import { doc, getDoc, updateDoc, arrayUnion, arrayRemove, Timestamp } from "firebase/firestore";
+import { doc, getDoc, updateDoc, arrayUnion, arrayRemove, Timestamp, collection, getDocs, query, where, documentId } from "firebase/firestore";
 import { convertCurrency } from '../currencyExchange';
 import { isoCurrenciesByIsoCountry } from '../currencyCode';
 import Input from '../components/Input.vue';
@@ -72,7 +73,7 @@ const budgetAndToCurrency = ref('');
 const summedExpenseAndFromCurrency = ref('');
 const summedExpenseAndToCurrency = ref('');
 
-const fetchData = async () => {
+const getTotalExpenseFromDB = async () => {
     const tripData = (await tripSnap).data();
     const todoActivities = tripData.todoActivities;
     const transactions = tripData.transactions;
@@ -99,7 +100,7 @@ const updateCurrencyFormats = async () => {
 };
 
 const updateUI = async () => {
-    const { budget, summedExpense } = await fetchData();
+    const { budget, summedExpense } = await getTotalExpenseFromDB();
     const { fromCurrencyFormat, toCurrencyFormat } = await updateCurrencyFormats();
 
     // Update budget UI
@@ -208,6 +209,35 @@ const removeTransaction = async (transaction) => {
     transactions.value.splice(index, 1);
 }
 
+const isSolo = ref(true);
+const individualPaymentAndReception = ref('');
+
+const getMembers = async () => {
+    const members = [];
+
+    const tripData = (await tripSnap).data();
+    const memberPromises = tripData.members.map(async (memberId) => {
+        const memberDoc = await getDoc(doc(db, "users", memberId));
+        const memberName = memberDoc.data().displayName;
+        const member = {
+            id: memberId,
+            name: memberName,
+            paidAmount: 0,
+        };
+
+        transactions.value.forEach((transaction) => {
+            if (transaction.payer === memberId) {
+                member.paidAmount += transaction.amount;
+            }
+        });
+
+        members.push(member);
+    });
+
+    await Promise.all(memberPromises);
+    return members;
+}
+
 onMounted(async () => {
     const tripData = (await tripSnap).data();
     arrivalDate.value = convertTimestampToDate(tripData.arrivalDate);
@@ -218,6 +248,83 @@ onMounted(async () => {
     }
 
     transactions.value = tripData.transactions.sort((a, b) => b.date - a.date);
+
+    if (new Date() >= new Date(arrivalDate.value)) {
+        const membersNumber = tripData.members.length;
+
+        if (membersNumber === 1) {
+            return;
+        }
+
+        isSolo.value = false;
+
+        const totalExpense = transactions.value.reduce((acc, transaction) => acc + transaction.amount, 0);
+        const individualExpense = (totalExpense / membersNumber).toFixed(2);
+
+        const membersList = await getMembers();
+        const lenderList = {};
+        const borrowerList = {};
+
+        membersList.forEach((member) => {
+            if (member.paidAmount > individualExpense) {
+                const lenderData = {
+                    'name': member.name,
+                    'amountToReceive': (member.paidAmount - individualExpense).toFixed(2),
+                    'howMuchFromWhom': '',
+                };
+
+                lenderList[member.id] = lenderData;
+            } else if (member.paidAmount < individualExpense) {
+                const borrowerData = {
+                    'name': member.name,
+                    'amountToPay': (individualExpense - member.paidAmount).toFixed(2),
+                    'howMuchToWhom': '',
+                };
+                
+                borrowerList[member.id] = borrowerData;
+            } else {
+                individualPaymentAndReception.value = '';
+                return;
+            }
+        });
+
+        membersList.forEach((member) => {
+            if (member.id in borrowerList) {
+                if (borrowerList[member.id].amountToPay === 0) {
+                    return;
+                }
+
+                for (const lenderId in lenderList) {
+                    if (lenderList[lenderId].amountToReceive === 0) {
+                        return;
+                    }
+
+                    const amountToTransfer = Math.min(borrowerList[member.id].amountToPay, lenderList[lenderId].amountToReceive).toFixed(2);
+
+                    if (borrowerList[member.id].howMuchToWhom === '') {
+                        borrowerList[member.id].howMuchToWhom = `${amountToTransfer} ${fromCurrency.value} to ${lenderList[lenderId].name}`;
+                    } else {
+                        borrowerList[member.id].howMuchToWhom += `, ${amountToTransfer} ${fromCurrency.value} to ${lenderList[lenderId].name}`;
+                    }
+
+                    if (lenderList[lenderId].howMuchFromWhom === '') {
+                        lenderList[lenderId].howMuchFromWhom = `${amountToTransfer} ${fromCurrency.value} from ${borrowerList[member.id].name}`;
+                    } else {
+                        lenderList[lenderId].howMuchFromWhom += `, ${amountToTransfer} ${fromCurrency.value} from ${borrowerList[member.id].name}`;
+                    }
+                    
+                    borrowerList[member.id].amountToPay -= amountToTransfer;
+                    lenderList[lenderId].amountToReceive -= amountToTransfer;
+                }
+            }    
+        });
+
+        if (userId in borrowerList) {
+            individualPaymentAndReception.value = `You have to pay ${borrowerList[userId].howMuchToWhom}`;
+        } else if (userId in lenderList) {
+            individualPaymentAndReception.value = `You have to receive ${lenderList[userId].howMuchFromWhom}`;
+        }
+    }
 });
 </script>
 

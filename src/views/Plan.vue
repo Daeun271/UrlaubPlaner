@@ -23,11 +23,11 @@
             <Input labelId="url" labelText="URL" inputType="text" v-model="url" />
             <label for="startDate" style="font-weight: 700;">Start Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
             <br/>
-            <input id="startDate" type="date" :min="arrivalDate" :max="departureDate" v-model="startDate" class="form-input"/>
+            <input id="startDate" type="date" :min="departureDate" :max="arrivalDate" v-model="startDate" class="form-input"/>
             <Input labelId="startTime" labelText="Start time" inputType="time" v-model="startTime" :isImportant="true"/>
             <label for="finishDate" style="font-weight: 700;">Finish Date</label>
             <br/>
-            <input id="finishDate" type="date" :min="arrivalDate" :max="departureDate" v-model="finishDate" class="form-input"/>
+            <input id="finishDate" type="date" :min="departureDate" :max="arrivalDate" v-model="finishDate" class="form-input"/>
             <Input labelId="finishTime" labelText="Finish time" inputType="time" v-model="finishTime" />
             <label for="expectedExpense" style="font-weight: 700;">Expected expense</label>
             <br/>
