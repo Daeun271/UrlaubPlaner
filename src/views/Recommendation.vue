@@ -6,7 +6,7 @@
                 <p>{{ attraction.category }}</p>
                 <a :href="attraction.url">Visit website</a>
             </div>
-            <img :src="attraction.img">
+            <img :src="attraction.img" />
         </div>
     </div>
 </template>
@@ -20,15 +20,15 @@ attractions.value = {
         title: 'Berlin Wall',
         category: 'Historical landmark',
         img: 'https://lh5.googleusercontent.com/p/AF1QipNSFDClh2TNTnKWdW1r2PE0L03Lag30RseMUOM=w148-h148-n-k-no',
-        url: 'https://www.nseoultower.co.kr/eng'
+        url: 'https://www.nseoultower.co.kr/eng',
     },
     'Seoul, Korea': {
         title: 'N Seoul Tower',
         category: 'Tourist attraction',
         img: 'https://lh5.googleusercontent.com/p/AF1QipPoGrddc3l0N-ACkF884KHFXGuNHifod5QNs9SJ=w148-h148-n-k-no',
-        url: 'https://www.nseoultower.co.kr/eng'
+        url: 'https://www.nseoultower.co.kr/eng',
     },
-}
+};
 </script>
 
 <style scoped>
@@ -48,7 +48,9 @@ attractions.value = {
     background-color: white;
     border: 1px solid #1994eb;
     border-radius: 0.375rem;
-    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    box-shadow:
+        0 10px 15px -3px rgb(0 0 0 / 0.1),
+        0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
 .description-container {
@@ -64,7 +66,7 @@ attractions.value = {
 a {
     color: #595d60;
     text-decoration-line: underline;
-    text-decoration-style: dotted; 
+    text-decoration-style: dotted;
     outline: none;
 }
 

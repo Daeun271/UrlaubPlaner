@@ -2,14 +2,20 @@
     <div class="bg">
         <h1>Hello {{ userName }}!</h1>
         <div class="profile-container">
-            <img :src="userPhoto" class="profile-photo">
-            <img src="../assets/icons/icons8-modify-150.png" class="overlay-icon" @click="isClicked=true">
+            <img :src="userPhoto" class="profile-photo" />
+            <img src="../assets/icons/icons8-modify-150.png" class="overlay-icon" @click="isClicked = true" />
         </div>
-        <div style="width:100%;">
-            <TripContainer @planClick="$router.push({name: 'group', params: { groupId: trip.id }})" v-for="trip in trips" v-bind:key="trip.id" :countryNameTxt="trip.country" :travelDuration="trip.arrivalDate + '-' + trip.departureDate"
-            @invideClick="invide(trip.id)"/>
+        <div style="width: 100%">
+            <TripContainer
+                @planClick="$router.push({ name: 'group', params: { groupId: trip.id } })"
+                v-for="trip in trips"
+                v-bind:key="trip.id"
+                :countryNameTxt="trip.country"
+                :travelDuration="trip.arrivalDate + '-' + trip.departureDate"
+                @invideClick="invide(trip.id)"
+            />
             <button @click="$router.push('/create-group')" class="empty">
-                <img src="../assets/icons/icons8-plus.svg" alt="Create">
+                <img src="../assets/icons/icons8-plus.svg" alt="Create" />
                 <p>Create a trip plan</p>
             </button>
         </div>
@@ -21,7 +27,13 @@
             </div>
             <template v-slot:footer>
                 <div>
-                    <Button @click="$router.push('/setting')" @keyup.enter="$router.push('/setting')" btnText="Change my profile" class="btn-primary" style="width:100%; height:40px;" />
+                    <Button
+                        @click="$router.push('/setting')"
+                        @keyup.enter="$router.push('/setting')"
+                        btnText="Change my profile"
+                        class="btn-primary"
+                        style="width: 100%; height: 40px"
+                    />
                 </div>
             </template>
         </Modal>
@@ -29,47 +41,47 @@
 </template>
 
 <script setup>
-import { computed, ref } from 'vue'
-import { useStore } from 'vuex'
-import { onMounted } from 'vue'
-import { db } from '../firebaseConfig.js'
-import { collection, getDocs, query, where, doc, getDoc, documentId } from "firebase/firestore"; 
-import { getCountryName } from '../countryCode.js'
-import TripContainer from '../components/TripContainer.vue'
-import altImg from '@/assets/icons/icons8-profilbild-100.png?url'
+import { computed, ref } from 'vue';
+import { useStore } from 'vuex';
+import { onMounted } from 'vue';
+import { db } from '../firebaseConfig.js';
+import { collection, getDocs, query, where, doc, getDoc, documentId } from 'firebase/firestore';
+import { getCountryName } from '../countryCode.js';
+import TripContainer from '../components/TripContainer.vue';
+import altImg from '@/assets/icons/icons8-profilbild-100.png?url';
 import Modal from '../components/Modal.vue';
 import Button from '../components/Button.vue';
 
 const store = useStore();
 const userName = ref(store.state.user.displayName);
-const userPhoto = computed(() => store.state.user.photoURL ? store.state.user.photoURL : altImg);
+const userPhoto = computed(() => (store.state.user.photoURL ? store.state.user.photoURL : altImg));
 const userEmail = ref(store.state.user.email);
 
 const isClicked = ref(false);
 const closeModal = () => {
     isClicked.value = false;
-}
+};
 
 const trips = ref([]);
 onMounted(async () => {
-    const tripIds = (await getDoc(doc(collection(db, "users"), store.state.user.uid))).get("trips");
+    const tripIds = (await getDoc(doc(collection(db, 'users'), store.state.user.uid))).get('trips');
 
     if (tripIds.length === 0) {
         trips.value = [];
         return;
     }
 
-    const q = query(collection(db, "trips"), where(documentId(), "in", tripIds));
+    const q = query(collection(db, 'trips'), where(documentId(), 'in', tripIds));
     const querySnapshot = await getDocs(q);
     querySnapshot.forEach((doc) => {
         const countryName = getCountryName(doc.data().country);
         const arrivalDate = doc.data().arrivalDate.toDate().toDateString();
         const departureDate = doc.data().departureDate.toDate().toDateString();
         const trip = {
-            'id': doc.id,
-            'country': countryName,
-            'arrivalDate': arrivalDate,
-            'departureDate': departureDate,
+            id: doc.id,
+            country: countryName,
+            arrivalDate: arrivalDate,
+            departureDate: departureDate,
         };
         trips.value.push(trip);
     });
@@ -83,7 +95,7 @@ const invide = async (tripId) => {
             url: 'http://localhost:5173/trip/' + tripId + '/group',
         });
     }
-}
+};
 </script>
 
 <style scoped>
@@ -125,11 +137,15 @@ const invide = async (tripId) => {
     cursor: pointer;
 }
 
-.profile-photo:hover, .profile-photo:focus, .profile-photo:active {
+.profile-photo:hover,
+.profile-photo:focus,
+.profile-photo:active {
     opacity: 0.8;
 }
 
-.overlay-icon:hover, .overlay-icon:focus, .overlay-icon:active {
+.overlay-icon:hover,
+.overlay-icon:focus,
+.overlay-icon:active {
     opacity: 0.5;
 }
 

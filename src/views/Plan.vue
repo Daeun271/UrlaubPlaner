@@ -1,55 +1,114 @@
 <template>
-<div class="bg">
-    <h1>To do</h1>
-    <div class="activity-container">
-        <ActivityContainer v-for="activity in todoActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :creator="activity.creator" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="currency"
-        @editClick="editActivity(activity)" @removeClick="removeActivity(activity)" @checkBoxClicked.once="finishActivity(activity)" :todo="true"/>
-    </div>
-    <div class="btn-container">
-        <button class="isPoppedUp-btn" @click="openModal"></button>
-    </div>
-    <h1>Done</h1>
-    <div class="activity-container">
-        <ActivityContainer v-for="activity in doneActivities" v-bind:key="activity.title" :titleTxt="activity.title" :descriptionTxt="activity.description" :url="activity.url" :creator="activity.creator" :startDateTxt="activity.startTimestamp" :finishDateTxt="activity.finishTimestamp" :expectedExpense="activity.expectedExpense" :currency="currency"
-        :todo="false" @undoClick="undoActivity(activity)"/>
-    </div>
-    
-    <Modal v-if="isPoppedUp" @closeModal="closeModal">
-        <div class="input-container">
-            <Input labelId="title" labelText="Title" inputType="text" v-model="title" :isImportant="true"/>
-            <label for="description" style="font-weight: 700;">Description</label>
-            <br/>
-            <textarea id="description" v-model="description" cols="50" rows="10" class="form-description"></textarea>
-            <Input labelId="url" labelText="URL" inputType="text" v-model="url" />
-            <label for="startDate" style="font-weight: 700;">Start Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
-            <br/>
-            <input id="startDate" type="date" :min="departureDate" :max="arrivalDate" v-model="startDate" class="form-input"/>
-            <Input labelId="startTime" labelText="Start time" inputType="time" v-model="startTime" :isImportant="true"/>
-            <label for="finishDate" style="font-weight: 700;">Finish Date</label>
-            <br/>
-            <input id="finishDate" type="date" :min="departureDate" :max="arrivalDate" v-model="finishDate" class="form-input"/>
-            <Input labelId="finishTime" labelText="Finish time" inputType="time" v-model="finishTime" />
-            <label for="expectedExpense" style="font-weight: 700;">Expected expense</label>
-            <br/>
-            <input id="expectedExpense" type="number" v-model="expectedExpense" class="form-input"/>
+    <div class="bg">
+        <h1>To do</h1>
+        <div class="activity-container">
+            <ActivityContainer
+                v-for="activity in todoActivities"
+                v-bind:key="activity.title"
+                :titleTxt="activity.title"
+                :descriptionTxt="activity.description"
+                :url="activity.url"
+                :creator="activity.creator"
+                :startDateTxt="activity.startTimestamp"
+                :finishDateTxt="activity.finishTimestamp"
+                :expectedExpense="activity.expectedExpense"
+                :currency="currency"
+                @editClick="editActivity(activity)"
+                @removeClick="removeActivity(activity)"
+                @checkBoxClicked.once="finishActivity(activity)"
+                :todo="true"
+            />
         </div>
-        <template v-slot:footer>
-            <div>
-                <Button @click="changeActivity" @keyup.enter="changeActivity" :btnText="isEditing ? 'Save changes' : 'Add activity'" class="btn-primary" style="width:100%; height:45px; margin-top:0.5rem;" />
-                <p class="form-message">{{ errorMessage }}</p>
+        <div class="btn-container">
+            <button class="isPoppedUp-btn" @click="openModal"></button>
+        </div>
+        <h1>Done</h1>
+        <div class="activity-container">
+            <ActivityContainer
+                v-for="activity in doneActivities"
+                v-bind:key="activity.title"
+                :titleTxt="activity.title"
+                :descriptionTxt="activity.description"
+                :url="activity.url"
+                :creator="activity.creator"
+                :startDateTxt="activity.startTimestamp"
+                :finishDateTxt="activity.finishTimestamp"
+                :expectedExpense="activity.expectedExpense"
+                :currency="currency"
+                :todo="false"
+                @undoClick="undoActivity(activity)"
+            />
+        </div>
+
+        <Modal v-if="isPoppedUp" @closeModal="closeModal">
+            <div class="input-container">
+                <Input labelId="title" labelText="Title" inputType="text" v-model="title" :isImportant="true" />
+                <label for="description" style="font-weight: 700">Description</label>
+                <br />
+                <textarea
+                    id="description"
+                    v-model="description"
+                    cols="50"
+                    rows="10"
+                    class="form-description"
+                ></textarea>
+                <Input labelId="url" labelText="URL" inputType="text" v-model="url" />
+                <label for="startDate" style="font-weight: 700">Start Date</label
+                ><span style="color: red !important; display: inline; float: none; margin: 3px">*</span>
+                <br />
+                <input
+                    id="startDate"
+                    type="date"
+                    :min="departureDate"
+                    :max="arrivalDate"
+                    v-model="startDate"
+                    class="form-input"
+                />
+                <Input
+                    labelId="startTime"
+                    labelText="Start time"
+                    inputType="time"
+                    v-model="startTime"
+                    :isImportant="true"
+                />
+                <label for="finishDate" style="font-weight: 700">Finish Date</label>
+                <br />
+                <input
+                    id="finishDate"
+                    type="date"
+                    :min="departureDate"
+                    :max="arrivalDate"
+                    v-model="finishDate"
+                    class="form-input"
+                />
+                <Input labelId="finishTime" labelText="Finish time" inputType="time" v-model="finishTime" />
+                <label for="expectedExpense" style="font-weight: 700">Expected expense</label>
+                <br />
+                <input id="expectedExpense" type="number" v-model="expectedExpense" class="form-input" />
             </div>
-        </template>
-    </Modal>
-</div>
+            <template v-slot:footer>
+                <div>
+                    <Button
+                        @click="changeActivity"
+                        @keyup.enter="changeActivity"
+                        :btnText="isEditing ? 'Save changes' : 'Add activity'"
+                        class="btn-primary"
+                        style="width: 100%; height: 45px; margin-top: 0.5rem"
+                    />
+                    <p class="form-message">{{ errorMessage }}</p>
+                </div>
+            </template>
+        </Modal>
+    </div>
 </template>
 
 <script setup>
-import { ref, computed } from 'vue'
-import { onMounted } from 'vue'
-import { useRoute } from 'vue-router'
-import { useStore } from 'vuex'
-import { db } from '../firebaseConfig.js'
-import { doc, getDoc, updateDoc, arrayUnion, arrayRemove, Timestamp } from "firebase/firestore";
+import { ref, computed } from 'vue';
+import { onMounted } from 'vue';
+import { useRoute } from 'vue-router';
+import { useStore } from 'vuex';
+import { db } from '../firebaseConfig.js';
+import { doc, getDoc, updateDoc, arrayUnion, arrayRemove, Timestamp } from 'firebase/firestore';
 import Input from '../components/Input.vue';
 import Button from '../components/Button.vue';
 import ActivityContainer from '../components/ActivityContainer.vue';
@@ -73,7 +132,7 @@ const errorMessage = ref('');
 
 const route = useRoute();
 const tripId = route.params.groupId;
-const tripRef = doc(db, "trips", tripId);
+const tripRef = doc(db, 'trips', tripId);
 const tripSnap = getDoc(tripRef);
 const currency = ref('');
 tripSnap.then((doc) => {
@@ -89,16 +148,18 @@ const convertTimestampToDate = (timestamp) => {
     const month = String(date.getMonth() + 1).padStart(2, '0');
     const day = String(date.getDate()).padStart(2, '0');
     return `${year}-${month}-${day}`;
-}
+};
 
 const convertTimestampToLocalTime = (timestamp) => {
-    return ("0" + timestamp.toDate().getUTCHours()).slice(-2) + ':' + ("0" + timestamp.toDate().getUTCMinutes()).slice(-2);
-}
+    return (
+        ('0' + timestamp.toDate().getUTCHours()).slice(-2) + ':' + ('0' + timestamp.toDate().getUTCMinutes()).slice(-2)
+    );
+};
 
 const isValid = (url) => {
     let regex = /(http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
     return regex.test(url);
-}
+};
 
 onMounted(async () => {
     const timestampArrivalDate = (await tripSnap).data().arrivalDate;
@@ -106,19 +167,19 @@ onMounted(async () => {
     const timestampDepartureDate = (await tripSnap).data().departureDate;
     departureDate.value = convertTimestampToDate(timestampDepartureDate);
 
-    if((await tripSnap).data().todoActivities.length === 0 && (await tripSnap).data().doneActivities.length === 0){
+    if ((await tripSnap).data().todoActivities.length === 0 && (await tripSnap).data().doneActivities.length === 0) {
         return;
     }
 
-    if((await tripSnap).data().todoActivities.length > 0){
+    if ((await tripSnap).data().todoActivities.length > 0) {
         todoActivities.value = (await tripSnap).data().todoActivities.sort((a, b) => {
-            return (a.startTimestamp - b.startTimestamp);
+            return a.startTimestamp - b.startTimestamp;
         });
     }
 
-    if((await tripSnap).data().doneActivities.length > 0){
+    if ((await tripSnap).data().doneActivities.length > 0) {
         doneActivities.value = (await tripSnap).data().doneActivities.sort((a, b) => {
-            return (a.startTimestamp - b.startTimestamp);
+            return a.startTimestamp - b.startTimestamp;
         });
     }
 });
@@ -132,17 +193,17 @@ const initializeInput = () => {
     finishDate.value = '';
     finishTime.value = '';
     expectedExpense.value = 0;
-}
+};
 
 const openModal = () => {
     isEditing = false;
     initializeInput();
     isPoppedUp.value = true;
-}
+};
 const closeModal = () => {
     isPoppedUp.value = false;
     isEditing = false;
-}
+};
 
 let oldActivity = null;
 const editActivity = async (activity) => {
@@ -157,30 +218,40 @@ const editActivity = async (activity) => {
     expectedExpense.value = activity.expectedExpense;
     oldActivity = activity;
     isPoppedUp.value = true;
-}
+};
 
 const changeActivity = () => {
     return isEditing ? rewriteActivity(oldActivity) : addActivity();
-}
+};
 
 const validateAndGetActivity = () => {
-    if(url.value && !isValid(url.value)){
+    if (url.value && !isValid(url.value)) {
         errorMessage.value = 'The URL is not valid.';
         return null;
     }
 
-    if(finishDate.value && finishTime.value && (new Date(finishDate.value + ' ' + finishTime.value + ':00')) < (new Date(startDate.value + ' ' + startTime.value + ':00'))){
+    if (
+        finishDate.value &&
+        finishTime.value &&
+        new Date(finishDate.value + ' ' + finishTime.value + ':00') <
+            new Date(startDate.value + ' ' + startTime.value + ':00')
+    ) {
         errorMessage.value = 'The finish date should be later than the start date.';
         return null;
-    }else if(!finishDate.value && finishTime.value && (new Date(startDate.value + ' ' + finishTime.value + ':00')) < (new Date(startDate.value + ' ' + startTime.value + ':00'))){
+    } else if (
+        !finishDate.value &&
+        finishTime.value &&
+        new Date(startDate.value + ' ' + finishTime.value + ':00') <
+            new Date(startDate.value + ' ' + startTime.value + ':00')
+    ) {
         errorMessage.value = 'The finish time should be later than the start time.';
         return null;
-    }else if(finishDate.value && !finishTime.value && (new Date(finishDate.value)) < (new Date(startDate.value))){
+    } else if (finishDate.value && !finishTime.value && new Date(finishDate.value) < new Date(startDate.value)) {
         errorMessage.value = 'The finish date should be later than the start date.';
         return null;
     }
 
-    if(!title.value || !startDate.value || !startTime.value){
+    if (!title.value || !startDate.value || !startTime.value) {
         errorMessage.value = 'Fields marked with * are required.';
         return null;
     }
@@ -189,33 +260,33 @@ const validateAndGetActivity = () => {
 
     let strStartTimestamp = startDate.value + 'T' + startTime.value + ':00Z';
     let strFinishTimestamp = '';
-    if(finishDate.value && finishTime.value){
+    if (finishDate.value && finishTime.value) {
         strFinishTimestamp = finishDate.value + 'T' + finishTime.value + ':00Z';
-    }else if(finishDate.value && !finishTime.value){
+    } else if (finishDate.value && !finishTime.value) {
         strFinishTimestamp = finishDate.value + 'T' + '00:00:00Z';
-    }else if(!finishDate.value && finishTime.value){
+    } else if (!finishDate.value && finishTime.value) {
         strFinishTimestamp = startDate.value + 'T' + finishTime.value + ':00Z';
-    }else{
+    } else {
         strFinishTimestamp = strStartTimestamp;
     }
 
     const formattedActivity = {
-        'title': title.value,
-        'description': description.value,
-        'url': url.value,
-        'startTimestamp': Timestamp.fromDate(new Date(strStartTimestamp)),
-        'finishTimestamp': Timestamp.fromDate(new Date(strFinishTimestamp)),
-        'expectedExpense': Number(expectedExpense.value),
-        'creator': userId,
+        title: title.value,
+        description: description.value,
+        url: url.value,
+        startTimestamp: Timestamp.fromDate(new Date(strStartTimestamp)),
+        finishTimestamp: Timestamp.fromDate(new Date(strFinishTimestamp)),
+        expectedExpense: Number(expectedExpense.value),
+        creator: userId,
     };
 
     return formattedActivity;
-}
+};
 
 const addActivity = async () => {
     let activity = validateAndGetActivity();
 
-    if(!activity){
+    if (!activity) {
         return;
     }
 
@@ -224,17 +295,17 @@ const addActivity = async () => {
     });
 
     todoActivities.value = [...todoActivities.value, activity].sort((a, b) => {
-        return (a.startTimestamp - b.startTimestamp);
+        return a.startTimestamp - b.startTimestamp;
     });
 
     initializeInput();
     isPoppedUp.value = false;
-}
+};
 
 const rewriteActivity = async (oldActivity) => {
     let newActivity = validateAndGetActivity();
 
-    if(!newActivity){
+    if (!newActivity) {
         return;
     }
 
@@ -242,7 +313,7 @@ const rewriteActivity = async (oldActivity) => {
     addActivity();
 
     isEditing = false;
-}
+};
 
 const removeActivity = async (activity) => {
     await updateDoc(tripRef, {
@@ -250,7 +321,7 @@ const removeActivity = async (activity) => {
     });
     let index = todoActivities.value.indexOf(activity);
     todoActivities.value.splice(index, 1);
-}
+};
 
 const finishActivity = async (activity) => {
     await updateDoc(tripRef, {
@@ -260,9 +331,9 @@ const finishActivity = async (activity) => {
     let index = todoActivities.value.indexOf(activity);
     todoActivities.value.splice(index, 1);
     doneActivities.value = [...doneActivities.value, activity].sort((a, b) => {
-        return (a.startTimestamp - b.startTimestamp);
+        return a.startTimestamp - b.startTimestamp;
     });
-}
+};
 
 const undoActivity = async (activity) => {
     await updateDoc(tripRef, {
@@ -272,9 +343,9 @@ const undoActivity = async (activity) => {
     let index = doneActivities.value.indexOf(activity);
     doneActivities.value.splice(index, 1);
     todoActivities.value = [...todoActivities.value, activity].sort((a, b) => {
-        return (a.startTimestamp - b.startTimestamp);
+        return a.startTimestamp - b.startTimestamp;
     });
-}
+};
 </script>
 
 <style scoped>
@@ -325,13 +396,15 @@ h1 {
 .form-input {
     width: 100%;
     height: 30px;
-    border: 1px solid rgb(209 213 219);;
+    border: 1px solid rgb(209 213 219);
     border-radius: 0.375rem;
     margin-top: 0.25rem;
     margin-bottom: 1rem;
     padding: 0.375rem 0.75rem;
-    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-} 
+    transition:
+        border-color 0.15s ease-in-out,
+        box-shadow 0.15s ease-in-out;
+}
 
 .form-input:focus {
     outline: none;
@@ -341,12 +414,14 @@ h1 {
 .form-description {
     width: 100%;
     height: 150px;
-    border: 1px solid rgb(209 213 219);;
+    border: 1px solid rgb(209 213 219);
     border-radius: 0.375rem;
     margin-top: 0.25rem;
     margin-bottom: 1rem;
     padding: 0.375rem 0.75rem;
-    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    transition:
+        border-color 0.15s ease-in-out,
+        box-shadow 0.15s ease-in-out;
     resize: vertical;
 }
 
@@ -356,7 +431,7 @@ h1 {
 }
 
 .form-message {
-    color: #DC2626;
+    color: #dc2626;
     font-size: 12px;
     margin-top: 0.25rem;
     margin-bottom: 0;

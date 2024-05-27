@@ -6,19 +6,19 @@
                 <span class="text-2">{{ messageContent }}</span>
             </div>
         </div>
-        <img src="@/assets/icons/icons8-stornieren.svg" alt="Stonieren" @click="$emit('click')" class="close">
+        <img src="@/assets/icons/icons8-stornieren.svg" alt="Stonieren" @click="$emit('click')" class="close" />
     </div>
 </template>
 
 <script>
-export default{
+export default {
     name: 'Toast',
     emits: ['click'],
     props: {
         messageTitle: String,
         messageContent: String,
     },
-}
+};
 </script>
 
 <style scoped>
@@ -50,13 +50,13 @@ export default{
     color: #484545;
 }
 
-.text-2{
+.text-2 {
     font-size: 13px;
     font-weight: 400;
     color: #666666;
 }
 
-.close{
+.close {
     position: absolute;
     top: 10px;
     right: 15px;
@@ -65,7 +65,7 @@ export default{
     opacity: 0.7;
 }
 
-.close:hover{
+.close:hover {
     opacity: 1;
 }
 </style>

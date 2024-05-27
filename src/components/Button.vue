@@ -1,22 +1,22 @@
 <template>
-    <button class="btn"><img :src="imgSrc" :style="imgStyle">{{ btnText }}</button>
+    <button class="btn"><img :src="imgSrc" :style="imgStyle" />{{ btnText }}</button>
 </template>
 
 <script>
-export default{
+export default {
     name: 'Button',
     props: {
         imgSrc: String,
         imgStyle: String,
         btnText: String,
     },
-}
+};
 </script>
 
 <style scoped>
 .btn {
     display: flex;
-    align-items:center;
+    align-items: center;
     justify-content: center;
     padding: 10px 0.75rem 10px 0.75rem;
     border-radius: 0.375rem;
@@ -28,10 +28,12 @@ export default{
 }
 
 .btn:hover {
-    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    box-shadow:
+        0 10px 15px -3px rgb(0 0 0 / 0.1),
+        0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
-.btn-primary{
+.btn-primary {
     color: white;
     background-color: #1994eb;
     border-style: none;
@@ -44,7 +46,7 @@ export default{
     color: white;
 }
 
-.btn-secondary{
+.btn-secondary {
     color: black;
     background-color: white;
     border-style: solid;
@@ -61,7 +63,7 @@ export default{
     color: black;
 }
 
-.btn-tertiary{
+.btn-tertiary {
     color: white;
     background-color: #eb4b19;
     border-style: none;
@@ -72,9 +74,9 @@ export default{
     background-color: #ea633a;
 }
 
-img{
+img {
     display: flex;
-    align-items:center;
+    align-items: center;
     justify-content: center;
 }
 </style>

@@ -1,17 +1,22 @@
 <template>
     <label :for="labelId">{{ labelText }}</label>
-    <br/>
+    <br />
     <div>
-        <input :id="labelId" :type="inputType" :value="modelValue" @input="$emit('update:modelValue', $event.target.value)"/>
+        <input
+            :id="labelId"
+            :type="inputType"
+            :value="modelValue"
+            @input="$emit('update:modelValue', $event.target.value)"
+        />
         <button @click="$emit('buttonClick')">{{ btnText }}</button>
     </div>
     <div style="margin-top: 0.1rem">
-        <span :class="{ 'error' : isError }">{{ msgText }}</span>
+        <span :class="{ error: isError }">{{ msgText }}</span>
     </div>
 </template>
 
 <script>
-export default{
+export default {
     name: 'Input',
     props: {
         labelId: String,
@@ -24,7 +29,7 @@ export default{
         mustBeVerified: Boolean,
     },
     emits: ['update:modelValue', 'buttonClick'],
-}
+};
 </script>
 
 <style scoped>
@@ -42,11 +47,13 @@ div {
 input {
     height: 100%;
     margin: 0 0.5rem 0 0;
-    border: 1px solid rgb(209 213 219);;
+    border: 1px solid rgb(209 213 219);
     border-radius: 0.375rem;
     padding: 0.375rem 0.7rem;
-    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-} 
+    transition:
+        border-color 0.15s ease-in-out,
+        box-shadow 0.15s ease-in-out;
+}
 
 input:focus {
     outline: none;
@@ -67,7 +74,9 @@ button {
 }
 
 button:hover {
-    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    box-shadow:
+        0 10px 15px -3px rgb(0 0 0 / 0.1),
+        0 4px 6px -4px rgb(0 0 0 / 0.1);
     background-color: #0e6ab7;
 }
 

@@ -1,6 +1,6 @@
 <template>
     <div class="modal-bg">
-        <div class="modal-container" :style="{width: width}">
+        <div class="modal-container" :style="{ width: width }">
             <button class="modal-close" @click="$emit('closeModal')"></button>
             <div class="content">
                 <slot></slot>
@@ -13,16 +13,16 @@
 </template>
 
 <script>
-export default{
+export default {
     name: 'Modal',
     props: {
         width: {
             type: String,
-            default: '80%'
+            default: '80%',
         },
     },
     emits: ['closeModal'],
-}
+};
 </script>
 
 <style scoped>

@@ -2,16 +2,31 @@
     <div>
         <div ref="scrollDiv" class="messages-scroll">
             <div class="messages">
-                <template v-for="(messages, index) in messageGroups" :key="index">    
-                    <div v-if="index === 0 || (index>=1 && messages.date.toDateString() !== messageGroups[index - 1].date.toDateString())" class="date">
+                <template v-for="(messages, index) in messageGroups" :key="index">
+                    <div
+                        v-if="
+                            index === 0 ||
+                            (index >= 1 &&
+                                messages.date.toDateString() !== messageGroups[index - 1].date.toDateString())
+                        "
+                        class="date"
+                    >
                         <p>{{ messages.date.toDateString() }}</p>
                     </div>
-                    <div v-for="message in messages.messages" :key="message.id" :class="getClassObject(message).divClass">
+                    <div
+                        v-for="message in messages.messages"
+                        :key="message.id"
+                        :class="getClassObject(message).divClass"
+                    >
                         <div class="message">
-                            <img :src="memberPhotoURLs[message.creator]" alt="User profile" :class="getClassObject(message).imgClass" />
+                            <img
+                                :src="memberPhotoURLs[message.creator]"
+                                alt="User profile"
+                                :class="getClassObject(message).imgClass"
+                            />
                             <p :class="getClassObject(message).pClass">{{ message.message }}</p>
                         </div>
-                        <span :class="getClassObject(message).spanClass">{{ getTime(message) }}</span>    
+                        <span :class="getClassObject(message).spanClass">{{ getTime(message) }}</span>
                     </div>
                 </template>
             </div>
@@ -24,73 +39,83 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, onUpdated, watch } from 'vue'
-import { useStore } from 'vuex'
-import { useRoute } from 'vue-router'
-import { db } from '../firebaseConfig.js'
-import { doc, collection, getDoc, getDocs, addDoc, serverTimestamp, query, where, documentId } from "firebase/firestore";
-import altImg from '@/assets/icons/icons8-profilbild-100.png?url'
+import { ref, computed, onMounted, onUpdated, watch } from 'vue';
+import { useStore } from 'vuex';
+import { useRoute } from 'vue-router';
+import { db } from '../firebaseConfig.js';
+import {
+    doc,
+    collection,
+    getDoc,
+    getDocs,
+    addDoc,
+    serverTimestamp,
+    query,
+    where,
+    documentId,
+} from 'firebase/firestore';
+import altImg from '@/assets/icons/icons8-profilbild-100.png?url';
 
 const store = useStore();
 const route = useRoute();
 const tripId = route.params.groupId;
-const messageCollection = collection(db, "trips", tripId, "chatMessages");
+const messageCollection = collection(db, 'trips', tripId, 'chatMessages');
 
 const messageGroups = ref([]);
 const message = ref('');
 const userId = store.state.user.uid;
 const userPhoto = computed(store.state.user.photoURL ? store.state.user.photoURL : altImg);
 const memberPhotoURLs = ref({});
-const getTime = ref((message)=>{
-    if(message.createdAt instanceof Date){
-        return message.createdAt.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+const getTime = ref((message) => {
+    if (message.createdAt instanceof Date) {
+        return message.createdAt.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
     }
-    return new Date(message.createdAt.seconds * 1000).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
-})
+    return new Date(message.createdAt.seconds * 1000).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+});
 
 const addNewMessage = (message) => {
     const date = message.createdAt instanceof Date ? message.createdAt : message.createdAt.toDate();
 
-    if (messageGroups.value.length === 0){
+    if (messageGroups.value.length === 0) {
         const messageGroup = {
             date,
-            messages: [message]
+            messages: [message],
         };
         messageGroups.value = [messageGroup];
         return;
     }
 
-    let lastGroup = messageGroups.value[messageGroups.value.length-1];
+    let lastGroup = messageGroups.value[messageGroups.value.length - 1];
 
     if (lastGroup.date === date.toDateString()) {
         lastGroup.messages.push(message);
     } else {
         const messageGroup = {
             date,
-            messages: [message]
+            messages: [message],
         };
         messageGroups.value = [...messageGroups.value, messageGroup];
     }
-}
+};
 
 onMounted(async () => {
     const messageDocs = await getDocs(messageCollection);
 
-    if(messageDocs.empty){
+    if (messageDocs.empty) {
         return;
     }
 
-    let messages = messageDocs.docs.map(doc => doc.data());
+    let messages = messageDocs.docs.map((doc) => doc.data());
     messages.sort((a, b) => a.createdAt - b.createdAt);
-    messages.forEach(message => addNewMessage(message));
+    messages.forEach((message) => addNewMessage(message));
 
-    const docRef = doc(db, "trips", tripId);
+    const docRef = doc(db, 'trips', tripId);
     const docSnap = await getDoc(docRef);
     const membersField = docSnap.data().members;
-    const q = query(collection(db, "users"), where(documentId(), "in", membersField));
+    const q = query(collection(db, 'users'), where(documentId(), 'in', membersField));
     const querySnapshot = await getDocs(q);
     querySnapshot.forEach((doc) => {
-        memberPhotoURLs.value[doc.id] = doc.data().photoURL==='DEFAULT' ? altImg : doc.data().photoURL;
+        memberPhotoURLs.value[doc.id] = doc.data().photoURL === 'DEFAULT' ? altImg : doc.data().photoURL;
     });
 });
 
@@ -103,9 +128,13 @@ onUpdated(() => {
     shouldScroll = false;
 });
 
-watch(() => messageGroups, (newVal) => {
-    shouldScroll = true;
-}, { deep: true });
+watch(
+    () => messageGroups,
+    (newVal) => {
+        shouldScroll = true;
+    },
+    { deep: true },
+);
 
 const getClassObject = (message) => {
     const isCurrentUser = message.creator === userId;
@@ -114,9 +143,9 @@ const getClassObject = (message) => {
         divClass: isCurrentUser ? 'chat-container darker' : 'chat-container',
         imgClass: isCurrentUser ? 'right' : '',
         pClass: isCurrentUser ? 'right' : '',
-        spanClass: isCurrentUser ? 'time-left' : 'time-right'
+        spanClass: isCurrentUser ? 'time-left' : 'time-right',
     };
-}
+};
 
 const sendMessage = async () => {
     if (message.value === '') {
@@ -134,7 +163,7 @@ const sendMessage = async () => {
     addNewMessage(newMessage);
     memberPhotoURLs.value[userId] = userPhoto.value;
     message.value = '';
-}
+};
 </script>
 
 <style scoped>

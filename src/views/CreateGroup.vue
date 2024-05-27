@@ -4,35 +4,43 @@
         <p class="p-1">Fill out the form below to create a new trip plan</p>
         <div class="container">
             <form @submit.prevent="addTrip">
-                <Input labelId="planName" labelText="Plan name" :isImportant="true" inputType="text" v-model="planName"/>
-                <CountryDropdown @selected-country="selectCountry"/>
-                <Input labelId="city" labelText="City to travel" inputType="text" v-model="city"/>
-                <label for="departureDate" style="font-weight: 700;">Departure Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
-                <br/>
-                <input id="departureDate" type="date" :min="minDate" v-model="departureDate" class="form-input"/>
-                <label for="arrivalDate" style="font-weight: 700;">Arrival Date</label><span style="color: red !important; display: inline; float: none; margin:3px;">*</span>
-                <br/>
-                <input id="arrivalDate" type="date" :min="minDate" v-model="arrivalDate" class="form-input"/>
-                <CurrencyDropdown v-model="currency"/>
+                <Input
+                    labelId="planName"
+                    labelText="Plan name"
+                    :isImportant="true"
+                    inputType="text"
+                    v-model="planName"
+                />
+                <CountryDropdown @selected-country="selectCountry" />
+                <Input labelId="city" labelText="City to travel" inputType="text" v-model="city" />
+                <label for="departureDate" style="font-weight: 700">Departure Date</label
+                ><span style="color: red !important; display: inline; float: none; margin: 3px">*</span>
+                <br />
+                <input id="departureDate" type="date" :min="minDate" v-model="departureDate" class="form-input" />
+                <label for="arrivalDate" style="font-weight: 700">Arrival Date</label
+                ><span style="color: red !important; display: inline; float: none; margin: 3px">*</span>
+                <br />
+                <input id="arrivalDate" type="date" :min="minDate" v-model="arrivalDate" class="form-input" />
+                <CurrencyDropdown v-model="currency" />
             </form>
             <p class="p-2">{{ errorMessage }}</p>
             <div class="btn-container">
-                <Button @click="addTrip" @keyup.enter="addTrip" btnText="Create" class="create-btn btn-primary"/>
+                <Button @click="addTrip" @keyup.enter="addTrip" btnText="Create" class="create-btn btn-primary" />
                 <Button @click="$router.push('/user')" btnText="Cancel" class="cancel-btn btn-secondary" />
             </div>
             <div v-if="isBusy" class="form-spinner">
-                <Spinner/>
+                <Spinner />
             </div>
         </div>
     </div>
 </template>
 
 <script setup>
-import { useRouter } from 'vue-router'
-import { useStore } from 'vuex'
-import { ref, computed } from 'vue'
-import { db } from '../firebaseConfig.js'
-import { collection, addDoc, Timestamp, doc, updateDoc, arrayUnion } from "firebase/firestore";
+import { useRouter } from 'vue-router';
+import { useStore } from 'vuex';
+import { ref, computed } from 'vue';
+import { db } from '../firebaseConfig.js';
+import { collection, addDoc, Timestamp, doc, updateDoc, arrayUnion } from 'firebase/firestore';
 import Input from '../components/Input.vue';
 import CountryDropdown from '../components/CountryDropdown.vue';
 import Button from '../components/Button.vue';
@@ -53,7 +61,7 @@ const store = useStore();
 
 const selectCountry = (result) => {
     country.value = result;
-}
+};
 
 const addTrip = async () => {
     if (isBusy.value) {
@@ -64,18 +72,18 @@ const addTrip = async () => {
     errorMessage.value = '';
 
     if (!planName.value || !country.value || !arrivalDate.value || !departureDate.value) {
-        errorMessage.value = "Fields marked with * are required";
+        errorMessage.value = 'Fields marked with * are required';
         isBusy.value = false;
         return;
     }
 
     if (new Date(departureDate.value) > new Date(arrivalDate.value)) {
-        errorMessage.value = "Arrival date must be later than departure date or the same";
+        errorMessage.value = 'Arrival date must be later than departure date or the same';
         isBusy.value = false;
-        return; 
+        return;
     }
 
-    const docRef = await addDoc(collection(db, "trips"), {
+    const docRef = await addDoc(collection(db, 'trips'), {
         planName: planName.value,
         country: country.value,
         city: city.value,
@@ -87,14 +95,14 @@ const addTrip = async () => {
         currency: currency.value ? currency.value : 'USD',
         transactions: [],
     });
-    const userDocRef = doc(db, "users", store.state.user.uid);
+    const userDocRef = doc(db, 'users', store.state.user.uid);
     await updateDoc(userDocRef, {
         trips: arrayUnion(docRef.id),
     });
-    router.push({name: 'group', params: { groupId: docRef.id }});
-    
+    router.push({ name: 'group', params: { groupId: docRef.id } });
+
     isBusy.value = false;
-}
+};
 </script>
 
 <style scoped>
@@ -104,14 +112,15 @@ const addTrip = async () => {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
 }
 .container {
     width: 400px;
     background-color: white;
     border-radius: 0.375rem;
     padding: 1.5rem;
-    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    box-shadow:
+        0 10px 15px -3px rgb(0 0 0 / 0.1),
+        0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
 .title {
@@ -123,9 +132,9 @@ const addTrip = async () => {
     margin-bottom: 40px;
 }
 .p-2 {
-    color: #DC2626;
-    font-size:10px;
-    font-weight:100;
+    color: #dc2626;
+    font-size: 10px;
+    font-weight: 100;
     margin-top: 0;
 }
 
@@ -148,13 +157,15 @@ const addTrip = async () => {
 .form-input {
     width: 100%;
     height: 30px;
-    border: 1px solid rgb(209 213 219);;
+    border: 1px solid rgb(209 213 219);
     border-radius: 0.375rem;
     margin-top: 0.25rem;
     margin-bottom: 1rem;
     padding: 0.375rem 0.75rem;
-    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-} 
+    transition:
+        border-color 0.15s ease-in-out,
+        box-shadow 0.15s ease-in-out;
+}
 
 .form-input:focus {
     outline: none;

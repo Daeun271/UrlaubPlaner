@@ -10,11 +10,14 @@ async function fetchUsdRates() {
     const response = await fetch('https://open.er-api.com/v6/latest/USD');
     if (response.status === 200) {
         const rates = (await response.json()).rates;
-        
-        localStorage.setItem('currencyRates', JSON.stringify({
-            rates,
-            timestamp: Date.now(),
-        }));
+
+        localStorage.setItem(
+            'currencyRates',
+            JSON.stringify({
+                rates,
+                timestamp: Date.now(),
+            }),
+        );
 
         return rates;
     } else {
@@ -36,7 +39,7 @@ export async function convertCurrency(amount, from, to) {
     } else if (to === 'USD') {
         return amount / usdRates[from];
     } else {
-        return amount / usdRates[from] * usdRates[to];
+        return (amount / usdRates[from]) * usdRates[to];
     }
 }
 
@@ -46,7 +49,12 @@ async function cacheCurrencyRates() {
 
 cacheCurrencyRates();
 
-setInterval(() => { usdRatesPromise = null }, 24 * 60 * 60 * 1000);
+setInterval(
+    () => {
+        usdRatesPromise = null;
+    },
+    24 * 60 * 60 * 1000,
+);
 
 /*
 1. fetch only once and cache it in background

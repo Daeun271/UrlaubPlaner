@@ -4,19 +4,19 @@
             <p class="p-1">{{ countryNameTxt }}</p>
             <p class="p-2">{{ travelDuration }}</p>
         </div>
-        <img src="../assets/icons/icons8-aktie-3.svg" alt="Invite" @click="$emit('invideClick')">
+        <img src="../assets/icons/icons8-aktie-3.svg" alt="Invite" @click="$emit('invideClick')" />
     </button>
 </template>
 
 <script>
-export default{
+export default {
     name: 'TripContainer',
     emits: ['planClick', 'invideClick'],
     props: {
         countryNameTxt: String,
         travelDuration: String,
     },
-}
+};
 </script>
 
 <style scoped>
@@ -31,7 +31,9 @@ export default{
     border-style: solid;
     border-color: #bdc3c7;
     border-radius: 0.375rem;
-    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    box-shadow:
+        0 10px 15px -3px rgb(0 0 0 / 0.1),
+        0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
 .btn:hover {
