@@ -1,0 +1,430 @@
+{
+    "cities": {
+        "Türkmenbaşy": [
+            {
+                "title": "Ymam Agzam Ebu Hanife Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1h74W_8nkUcijlZmQoLeLK2p503w9n_D73A3k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Archangel Michael",
+                "category": "Russian Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYtkCRrZ-GFcT9jgfGl25D7r8HtcN1BbUDE6PX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenar Bazaar",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZXMfgwR7nV0ZDQ8G7_rPhh0WwSaVxGL5WiM8e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Passenger Railway Station Turkmenbashi",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8vpylGppdF2_w__1es_tgs_9sLdbWik2ZPGQ9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gözli Ata",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8Dz7qR7HKqhx8_qscNAuO1Cqb7QQkgVd6AAr2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Garabogazköl Basin",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJQp1YfPKEpfiJRLF2zbv572ORaYWGvYBhANaE=w148-h148-n-k-no"
+            }
+        ],
+        "Daşoguz": [
+            {
+                "title": "Daşoguz Metjidi",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGjmAYvDk1IU7_6uf3HxIsonWioctVMDfybM6h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sport Toplumy",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXRF22_NRftG65FDVAtGS-OXijgSWKU4G7iJYQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nedjmeddin Kubra Mausoleum",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBi6RykWouN311xeLEo6cx9QJraFOCTsK93uTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Ali Mausoleum",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5LuEMKtn-b-qUbl7D2mJ2Zy14Kd1HtLqVZAjK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mesjit",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_hqTuWFUdQi6F_LJaEbdl44kuyTXwizGNLDKE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Timur Qutlugh Minaret",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtGTPOf7TqIUZP16HrrTUG6ktT7kUxx3e7b2i7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Köneürgench",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt08QQfrR0vFaJ4ll6TwHadqMPh2k-yFFevrhh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Turabeg Khanym Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjZrBT6UbZVLCplBBksHsYMydknZdBcHDhOWdP=w148-h148-n-k-no"
+            }
+        ],
+        "Bayramaly": [
+            {
+                "title": "Mary State History and Country Learning Museum",
+                "category": "Museum",
+                "url": "https://marymuseum.gov.tm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRQ4YJBSXgaf2dIfBNHoHNmmv2lAsVIuXzqknQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Kyz Kala",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFP_ze_LGMuXYrOL6UGZMSkxGhDKYSdB1D4rw0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erk Kala",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUpZpXEkF3QVoJG54kZA5SHuI_ucbVNXUyChDX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soltan Sanjar Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR5EfLkbwQbG9-eEwrTEVf993oVJdpAOwj2K47=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gonur Tepe",
+                "category": "Archaeological site",
+                "url": "https://historia.nationalgeographic.com.es/a/gonur-depe-una-antigua-civilizacion-olvidada-en-turkmenistan_19305",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPceFhY1qMcWSWDfNArVcv4OrbOC69A_xgj0kkX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mary chief mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJtPTmYyCfAxESpJ2iq-0WCC24rkDNBLwAAI3n=w148-h148-n-k-no"
+            }
+        ],
+        "Balkanabat": [],
+        "Tejen": [
+            {
+                "title": "Ashgabat Olympic Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxy6sQ4hIWdLBuJYnWR4sxQmUtdDOlJC96bHN5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN728r2CGy_gA71cSf7bD3bhK_1F2KJIwc46y-G=w148-h148-n-k-no"
+            },
+            {
+                "title": "World of Turkmenbashi Tales",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8z-_RXNqVyKyJxzx2vsvZNZKLd3AVEMNWop17=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruhyýet Palace",
+                "category": "Palace",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOahVaxxoAZ-HqnEw9HzoCrDZMNUpkjzDz4wJCa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gonur Tepe",
+                "category": "Archaeological site",
+                "url": "https://historia.nationalgeographic.com.es/a/gonur-depe-una-antigua-civilizacion-olvidada-en-turkmenistan_19305",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPceFhY1qMcWSWDfNArVcv4OrbOC69A_xgj0kkX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erk Kala",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUpZpXEkF3QVoJG54kZA5SHuI_ucbVNXUyChDX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Kyz Kala",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFP_ze_LGMuXYrOL6UGZMSkxGhDKYSdB1D4rw0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soltan Sanjar Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR5EfLkbwQbG9-eEwrTEVf993oVJdpAOwj2K47=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oguzhan Palace",
+                "category": "State government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdo6tw93BMXYESARVD5O-j5I8xlbHIrrNqXSN3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mary chief mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJtPTmYyCfAxESpJ2iq-0WCC24rkDNBLwAAI3n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seyit Jemaletdin Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg42LQcUZPi8vR4oI5wC5G16cebDtLP8VYYvFZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Turkmen Carpet Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtdVW65RqW25r8hgrtkGCsCFcIf6S5eJcqgpiG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ertugrul Gazi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMm_B9JywgBFXJk0MKzgHvkNyMuuF6vsPJK8fkQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoJh3AGyotjPb3rsmcj-bq7PkmibgbD62zx_fv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Memorial Complex «People's memory»",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAbK6jIwCW_QwhbpCBI17z1JtB4Sj2jgvSSon2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of Neutrality",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYQNdRQX-_-WjX-LoxPqgb7knAz3e4BJ-2jhCO=w148-h148-n-k-no"
+            }
+        ],
+        "Mary": [
+            {
+                "title": "Memorial Square",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTfC01v3JMOWQex2e4uKZDhUUpGbvI0Tn9IUmv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mary State History and Country Learning Museum",
+                "category": "Museum",
+                "url": "https://marymuseum.gov.tm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRQ4YJBSXgaf2dIfBNHoHNmmv2lAsVIuXzqknQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mary chief mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJtPTmYyCfAxESpJ2iq-0WCC24rkDNBLwAAI3n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gonur Tepe",
+                "category": "Archaeological site",
+                "url": "https://historia.nationalgeographic.com.es/a/gonur-depe-una-antigua-civilizacion-olvidada-en-turkmenistan_19305",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPceFhY1qMcWSWDfNArVcv4OrbOC69A_xgj0kkX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mohammed Ibn Zayd Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5HfXdHUnXYXm_ZWaBJZdse2xDUPurliHkV0fT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soltan Sanjar Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR5EfLkbwQbG9-eEwrTEVf993oVJdpAOwj2K47=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erk Kala",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUpZpXEkF3QVoJG54kZA5SHuI_ucbVNXUyChDX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Kyz Kala",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFP_ze_LGMuXYrOL6UGZMSkxGhDKYSdB1D4rw0=w148-h148-n-k-no"
+            }
+        ],
+        "Ashgabat": [
+            {
+                "title": "Museum of Fine Arts Türkmenistanyň Şekillendiriş sungaty muzeýi",
+                "category": "Museum",
+                "url": "http://www.artmuseum.gov.tm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMn3ytHkDa9USD42wOSvS3A9MJFNOBFCOIrnflZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoJh3AGyotjPb3rsmcj-bq7PkmibgbD62zx_fv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ertugrul Gazi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMm_B9JywgBFXJk0MKzgHvkNyMuuF6vsPJK8fkQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Turkmen Carpet Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtdVW65RqW25r8hgrtkGCsCFcIf6S5eJcqgpiG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Turkmenbashy Ruhy Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRY1A0eGAow80ZPw83bAdcCzUwWPLTRJRE4lfX=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Turkmenistan",
+                "category": "Museum",
+                "url": "https://www.museum.gov.tm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEk1Iwia5M3MC1HiGDMPnx0HxJR7y4xDlCNvlN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Парк культуры и отдыха \"Ашхабад\" (Первый парк)",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2SfeBrqAPjSd8Bc1JFQSAQWZeigzgge_3QnAo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alem Center",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4z4BQw1z4JPsYe0T0cnaKH3ci8ZsH9LBApYxY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN728r2CGy_gA71cSf7bD3bhK_1F2KJIwc46y-G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of Neutrality",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYQNdRQX-_-WjX-LoxPqgb7knAz3e4BJ-2jhCO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Memorial Complex «People's memory»",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAbK6jIwCW_QwhbpCBI17z1JtB4Sj2jgvSSon2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hezreti Osman Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNafOt5qNJdDUekHkIwXDts8F5fxuidxEmnV9ke=w148-h148-n-k-no"
+            },
+            {
+                "title": "Altyn Asyr Bazar",
+                "category": "Bazar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRZy-7MEc2JO1uHAGNYnD3maWP5lOpaAgaOIc4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ashgabat Cable Car Restaurant",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgMU_dRgaxGNTmWK2F0NfRDTe8tsydSz3RAjlD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Nisa",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjRxMm5ZS0j9Jfp9zX65NUWr1htPBJEslAoKc6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oguzhan Palace",
+                "category": "State government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdo6tw93BMXYESARVD5O-j5I8xlbHIrrNqXSN3=w148-h148-n-k-no"
+            }
+        ],
+        "Türkmenabat": [
+            {
+                "title": "Erk Kala",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUpZpXEkF3QVoJG54kZA5SHuI_ucbVNXUyChDX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Kyz Kala",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFP_ze_LGMuXYrOL6UGZMSkxGhDKYSdB1D4rw0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gonur Tepe",
+                "category": "Archaeological site",
+                "url": "https://historia.nationalgeographic.com.es/a/gonur-depe-una-antigua-civilizacion-olvidada-en-turkmenistan_19305",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPceFhY1qMcWSWDfNArVcv4OrbOC69A_xgj0kkX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soltan Sanjar Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR5EfLkbwQbG9-eEwrTEVf993oVJdpAOwj2K47=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Darvaza Gas Crater - \"Door to Hell\"",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM9kbfrPcVNyxUsYhCDUpg1v2-rojcUjspAthIf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Turkmen Carpet Museum",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOtdVW65RqW25r8hgrtkGCsCFcIf6S5eJcqgpiG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Independence Monument",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOoJh3AGyotjPb3rsmcj-bq7PkmibgbD62zx_fv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ertugrul Gazi Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMm_B9JywgBFXJk0MKzgHvkNyMuuF6vsPJK8fkQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Turkmenbashy Ruhy Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNRY1A0eGAow80ZPw83bAdcCzUwWPLTRJRE4lfX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Turkmenbashi",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipML12B8sbimfTV3pWw3UFHs6J3o1TAKZK1CUws2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Köneürgench",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOt08QQfrR0vFaJ4ll6TwHadqMPh2k-yFFevrhh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ashgabat",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOLWQNXcf-EmDaDt5HIpBQqr4Z_hvQDgg30uk8S=w148-h148-n-k-no"
+        },
+        {
+            "title": "Monument of Neutrality",
+            "category": "Monument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMYQNdRQX-_-WjX-LoxPqgb7knAz3e4BJ-2jhCO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Old Nisa",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOjRxMm5ZS0j9Jfp9zX65NUWr1htPBJEslAoKc6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kow Ata",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMudGDw7mPKPbbaBiP1-tjXQHl2gUqwM8MfuXiE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Turabeg Khanym Mausoleum",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjZrBT6UbZVLCplBBksHsYMydknZdBcHDhOWdP=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Turkmenistan",
+            "category": "Museum",
+            "url": "https://www.museum.gov.tm/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPEk1Iwia5M3MC1HiGDMPnx0HxJR7y4xDlCNvlN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Karakum Desert",
+            "category": "Desert",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPKqNAzvkhA_mdtwXotM81CRlEljyrGFxTz7Qrx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Soltan Sanjar Mausoleum",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOR5EfLkbwQbG9-eEwrTEVf993oVJdpAOwj2K47=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ruhyýet Palace",
+            "category": "Palace",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOahVaxxoAZ-HqnEw9HzoCrDZMNUpkjzDz4wJCa=w148-h148-n-k-no"
+        }
+    ]
+}

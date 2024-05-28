@@ -1,0 +1,375 @@
+{
+    "cities": {
+        "Sokodé": [],
+        "Kara": [
+            {
+                "title": "Musée Africart",
+                "category": "Sculpture museum",
+                "url": "https://musee-africart-togo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd8OMGZYLUqdJhitiwYKR4datrbgRjQv1grqUH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sokode",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3Ip8uenI13hbZP-SMjQMh3fRecKV4DHgwO5eH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kran National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaNftZKyil-Lsn3HqpN4D514-y4GTngjUTcrul=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc Sarakawa",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPumOWMbw30T5Yj8ojDZCI8FGt9fSLsyE9nzxUm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koutammakou, the Land of the Batammariba",
+                "category": "Heritage preservation",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpSANx6-VAnlYejBlslmZfuIVhfXhUIVOMMfWl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fazao-Malfakassa National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzygYq4Rrd5VsJLRskm6Et8vhVXgeixB9jeAwF=w148-h148-n-k-no"
+            }
+        ],
+        "Kpalimé": [
+            {
+                "title": "Cascade de Kpimé",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP__KxhEjWWkGMGh3hETKlzp2GG3Akv8jmQfSbR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chateau Viale",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIF1M3R012R96QvaUuPf5RZfmOETYKG_VyJGCT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cascade de Womé",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMidQxYzAOIb_ITyFbXO8P_GxjwPUO0j4iN4BZS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kailend farm",
+                "category": "Campsite",
+                "url": "http://www.kailend.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAojSvAgv6ozrrDy8zfwvYk4QWfbhBcMh516m4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Agou",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMACETIZsJz4eFR8mEV8rTKFX6pdUAZ0_wM-zFO=w148-h148-n-k-no"
+            },
+            {
+                "title": "cascade de Yikpa",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMj20levQINYDoHQyiNnvi5Wi_2UZsDmTx5SAcM=w148-h148-n-k-no"
+            }
+        ],
+        "Bassar": [
+            {
+                "title": "Kara",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKKgHDG3f843FYSXaELr9n9LGKdAPAlQGk2nWg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atakpame",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNKG4IBTwvvjLW8CWhi-IZ_x6ghgXm21HbQM0-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sokode",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3Ip8uenI13hbZP-SMjQMh3fRecKV4DHgwO5eH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grottes de Nok",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDBKzn8xikAF0aVZUyk6noJoZpSIbJwVVyr_hz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc Sarakawa",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPumOWMbw30T5Yj8ojDZCI8FGt9fSLsyE9nzxUm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kran National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaNftZKyil-Lsn3HqpN4D514-y4GTngjUTcrul=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koutammakou, the Land of the Batammariba",
+                "category": "Heritage preservation",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpSANx6-VAnlYejBlslmZfuIVhfXhUIVOMMfWl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fazao-Malfakassa National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzygYq4Rrd5VsJLRskm6Et8vhVXgeixB9jeAwF=w148-h148-n-k-no"
+            }
+        ],
+        "Tsévié": [
+            {
+                "title": "Monument de l'independance",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQoHbJqF2dE8VCH0XRArLsQvq8FovP2H0_hfre=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palais de Lomé",
+                "category": "Historical landmark",
+                "url": "https://www.palaisdelome.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyGRwxf95AuIqLIIC0RbqVNTJm3ZOlnUvSQjVw=w148-h148-n-k-no"
+            },
+            {
+                "title": "cascade de Yikpa",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMj20levQINYDoHQyiNnvi5Wi_2UZsDmTx5SAcM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cascade de Womé",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMidQxYzAOIb_ITyFbXO8P_GxjwPUO0j4iN4BZS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Agou",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMACETIZsJz4eFR8mEV8rTKFX6pdUAZ0_wM-zFO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Funny Park",
+                "category": "Amusement park",
+                "url": "https://facebook.com/Funny.park.lome/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvcSlfIxlJV1-vdhHkypmqybgmFVuk5_VmABCK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lomé",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOonoJEYansBepbfJcM6ZVGPVYOxu8RLp4GBntl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aneho",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4K-LXg5kQRhNtmNGdJlRWYzvP9qvOp1MSExqa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carrefour cool catché",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt3b7VH4_3V-0VQ2ePJE1H_uniWs_27k61LFMF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Freau Jardin",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKDNO05qbJ8KOI0rc5n5qKJtn2CiBRqLakrC5f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Togo",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyHkVHKoCeQ8kAT0IBeUH6y4PlVZwFVa_Lwfa8=w148-h148-n-k-no"
+            }
+        ],
+        "Atakpamé": [
+            {
+                "title": "Sacred Heart Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMubVCy6FmhokQSLacWiVkrcJ0xYenMki26Y8-X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palais de Lomé",
+                "category": "Historical landmark",
+                "url": "https://www.palaisdelome.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyGRwxf95AuIqLIIC0RbqVNTJm3ZOlnUvSQjVw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lomé Grand Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLBFn3r6CGrb8Ia-ejogqe5nrS6NDXzIQzKeZs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village artisanal de Lomé",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0rHhz5_oznMBk9kqjOCc-wsYUQEXyT8mBnV_w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument de l'independance",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQoHbJqF2dE8VCH0XRArLsQvq8FovP2H0_hfre=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akodessewa Fetish Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGOxtzvCgK4j8cNbTqz40spnUtJDy9DAe83VfI=w148-h148-n-k-no"
+            }
+        ],
+        "Lomé": [
+            {
+                "title": "Monument de l'independance",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQoHbJqF2dE8VCH0XRArLsQvq8FovP2H0_hfre=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palais de Lomé",
+                "category": "Historical landmark",
+                "url": "https://www.palaisdelome.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyGRwxf95AuIqLIIC0RbqVNTJm3ZOlnUvSQjVw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lomé Grand Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLBFn3r6CGrb8Ia-ejogqe5nrS6NDXzIQzKeZs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sacred Heart Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMubVCy6FmhokQSLacWiVkrcJ0xYenMki26Y8-X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village artisanal de Lomé",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0rHhz5_oznMBk9kqjOCc-wsYUQEXyT8mBnV_w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fauna Cultura",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOw5tS-7Qt7LmUJnvAu8rs8ZftE7KaVTpLNVGoa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riding Club Togo",
+                "category": "Equestrian Centre",
+                "url": "https://www.facebook.com/clubhippiquedutogo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7D0voIhk5pwjbxFTrKoxKBJvxjl3O7LNBdObZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lomé Beach, Face Ibis Hotel",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOodcuS0zIFn4r5TcczQ8LSST4LfPiF-M8PbLGk=w148-h148-n-k-no"
+            },
+            {
+                "title": "CanalOlympia Godopé",
+                "category": "Cinema",
+                "url": "http://canalolympia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYJrZgGGGW2UrUuYqqQ2Mk8dQMDs74OdxzlGWF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Harmonie Signature gym",
+                "category": "Recreation Centre",
+                "url": "https://facebook.com/100078910293659/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMnOTG1ADQZQ1KtljqEiT6OTRzaT5Hu2Qfty91=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colombe De La Paix",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt67uugbtSXoZKCeem378s1ep6jTIjRtqMHyE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musee National",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRksu2fxy14D5MSGw0TrWWuZdWKQI62elLa8RL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centre Culturel Denyigba",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7tsAS4etZs5io3Uxsmygp_rMWu6ataoWE4kfX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akodessewa Fetish Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGOxtzvCgK4j8cNbTqz40spnUtJDy9DAe83VfI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade Omnisport de Lome",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsTKdaBalwaXa96SuwXIaOfG-NR8CQBu_SCb7n=w148-h148-n-k-no"
+            },
+            {
+                "title": "IB BANK-TOGO(INTERNATIONAL BUSINESS BANK)",
+                "category": "Bank",
+                "url": "http://www.btci.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiaWUHBKeXIvywu1-ZhCOiyYaxX9pax3e1hXK_=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Monument de l'independance",
+            "category": "Cultural landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPQoHbJqF2dE8VCH0XRArLsQvq8FovP2H0_hfre=w148-h148-n-k-no"
+        },
+        {
+            "title": "Koutammakou, the Land of the Batammariba",
+            "category": "Heritage preservation",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMpSANx6-VAnlYejBlslmZfuIVhfXhUIVOMMfWl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Palais de Lomé",
+            "category": "Historical landmark",
+            "url": "https://www.palaisdelome.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOyGRwxf95AuIqLIIC0RbqVNTJm3ZOlnUvSQjVw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lomé",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOonoJEYansBepbfJcM6ZVGPVYOxu8RLp4GBntl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sacred Heart Cathedral",
+            "category": "Catholic cathedral",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMubVCy6FmhokQSLacWiVkrcJ0xYenMki26Y8-X=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lomé Grand Market",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOLBFn3r6CGrb8Ia-ejogqe5nrS6NDXzIQzKeZs=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cascade de Womé",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMidQxYzAOIb_ITyFbXO8P_GxjwPUO0j4iN4BZS=w148-h148-n-k-no"
+        },
+        {
+            "title": "Wli Agumatsa Waterfalls",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO7P4t9CsctbcpwvOJ4N1BX6lSoOnz5bMCCsRr8=w148-h148-n-k-no"
+        },
+        {
+            "title": "cascade de Yikpa",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMj20levQINYDoHQyiNnvi5Wi_2UZsDmTx5SAcM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cascade de Kpimé",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP__KxhEjWWkGMGh3hETKlzp2GG3Akv8jmQfSbR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Village artisanal de Lomé",
+            "category": "Shopping Centre",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN0rHhz5_oznMBk9kqjOCc-wsYUQEXyT8mBnV_w=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Agou",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMACETIZsJz4eFR8mEV8rTKFX6pdUAZ0_wM-zFO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Togo",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPyHkVHKoCeQ8kAT0IBeUH6y4PlVZwFVa_Lwfa8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kpalime",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipONzKQrwYHFtNaCUkYh3iIc3D8-Y7yYaIixMKNd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sokode",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM3Ip8uenI13hbZP-SMjQMh3fRecKV4DHgwO5eH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Togoville",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNcigXKVRbN5-C_1pv5KADzYeDiloU2rYtW_B5f=w148-h148-n-k-no"
+        }
+    ]
+}

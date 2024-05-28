@@ -1,0 +1,1388 @@
+{
+    "cities": {
+        "Azua": [
+            {
+                "title": "Playa Caracoles",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoH4ehYUZrPILSotXU2CWjH4Jc89p3wx5Lp2Am=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fun B",
+                "category": "Indoor playground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeLp61-fx7iW8BTlI9Yi9MhcM2zh8uu6KWiyjP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Enriquillo",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYztQ0uZ41Gr2dkfDofcCkeJ_MCT1n7Vkw-std=w148-h148-n-k-no"
+            },
+            {
+                "title": "19 de Marzo Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvnwUXv42LAfR9iK5CwMoYI5K65H130UGlqKW3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa La Uvita",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfIumhNSzM7MLTuk2zw8qGYx8__o0NU94VLIqT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Monte Rio",
+                "category": "Free Car Park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLlRIw1zP3XtMnDBKFytospI9DGb9LQKcyFJV1=w148-h148-n-k-no"
+            },
+            {
+                "title": "OcoaBay",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjByyZziMH-C_OJUFZAwEhYGgPj6C3OEmJsWdH=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Caobita Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvfjZQzyJqXVsOPvgTXVbHImKQvbzTXHHxoKiF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rancho Caprache",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzhP7npXDxUH0bSJg61iukVE-KODJ5flfIXpHh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Francisco Alberto Caamaño Deñó National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHYcxhCKRrhKkLOh8z9bVQkPcSAxzeVA1f2PbM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hatillo Dam",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd6b1C9aPvtsuyeijjfy6NsADvShcFgIHMc9A-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruinas del Ingenio Cepi Cepi",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfw905dlzB8Ss0avQNycaJkNMHk3c6Chjud_1_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Los Negros",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5MREfSNYqxGtf9i6SPlHjlezY89FSP3IvJcqD=w148-h148-n-k-no"
+            }
+        ],
+        "Moca": [
+            {
+                "title": "Sacred Heart of Jesus Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEy9hkg1w8RTehgNIaUKdns-WZVNh88wU-DTKX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Popy's Express",
+                "category": "Transportation service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuJcxZgt4OoA1qFhja8lqy63HsJxTN1KJ8Fonl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cascada Los Bueyes",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSpIvGJzPO9kZxMAHpXNVDai7kUcezWK3ad3Jm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramón Cáceres Museum",
+                "category": "Museum",
+                "url": "http://museopresidenteramoncaceres.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOq_PHktHgo6-uXC_wYZCuqyww5PE9cE1UW42fQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calle Tridimensional",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb0i4SjC9NvJY_XFcFJLNN3So5yYJnC8_VtC9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Plazoleta 26 de Julio",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEzokd9Xwmy-3tNDdlFBfqhxleCJX_eomc3lHJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monte de Oración San Victor",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN28g-fjFTbl-YlEFUu9_yvstGJCsySZqY3NSbT=w148-h148-n-k-no"
+            },
+            {
+                "title": "JD Dominican Farm",
+                "category": "Park and Garden",
+                "url": "https://jddominicanfarm.com/experiencia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKgQyG2OpU7X193_uFePoPKeFJ2aZj5iC72ib7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Villa Trina",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO18mr5cLbAmjjpH97MZm9xpGf5jbn9kV1xtqC_=w148-h148-n-k-no"
+            }
+        ],
+        "Bella Vista": [
+            {
+                "title": "Ágora Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.agora.com.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-lALx4MXGjVS_0q0KfW95vE7Dehu8Xmy5Qpdh=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Botanical Garden Dr. Rafael María Moscoso",
+                "category": "Botanical garden",
+                "url": "http://www.jbn.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7UnnUat3EE723OSsAe0O6trrBEBT-wub1I941=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Three Eyes National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO68ZB2S2fO5Lfajl77kS-ypIUTxeMbDjVZ1VtZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza De La Cultura",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4kz-W0ehiFcVWft6bgfpjDb0MeoRVkShJfoEI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the Royal Houses",
+                "category": "Museum",
+                "url": "https://museosrd.gob.do/listing/museo-de-las-casas-reales/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOr8-pDfK0mzbkXn0ROx3DQ9hOfQQZDvTNdVSk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida George Washington",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwHENB71lGlosvA_atkfjzfCUXP4OkmVIPLs1U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calle El Conde",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPjPdt-37fyq5LXN8vBqIlMugI8GfItfJC4DAb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alcázar de Colón",
+                "category": "Museum",
+                "url": "https://www.facebook.com/museoalcazardecolon",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcC99QWqHOcOkSRtQiVGCZIeEp1AYGx7IbLtF6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nuestra Señora de la Encarnación",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrDyK7h4LUjpvkBUp6eWhfvTU7ZMx-fe_lHCRh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kahkow Experience",
+                "category": "Tourist attraction",
+                "url": "http://www.cacaotour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPkAXS-EhrKKTVmtvTKM7ER87gpJFyFhdCJIuQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pantheon of the Fatherland",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi3D1BYL5RMyNlixhO3RyuDnMpiBPD7Qi2TJh_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faro a Colón, Santo Domingo Este",
+                "category": "Museum",
+                "url": "https://www.godominicanrepublic.com/listing/faro-a-col%C3%B3n/4410/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzXXTSxShdV03l1d_9YmYlCd6Uq7zdcNE822Ey=w148-h148-n-k-no"
+            },
+            {
+                "title": "Columbus Park",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzyePUFpjyG0LLzz8E6lV6xFK3a6AX2n_PnLc8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calle Las Damas",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-n9qz_vIb2MkAoXhSMMKJdA2uCSYkMmqVs21O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ciudad Colonial",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwhSVeQdd2ZbU3A1jcrIbN1i6yYRiiwoDANiLm=w148-h148-n-k-no"
+            }
+        ],
+        "Puerto Plata": [
+            {
+                "title": "Ocean World Adventure Park, Puerto Plata, Dominican Republic.",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5PkyvmMZeLMt-R6Ge6b80WNODxXEVQcigznM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puerto Plata Cable Car",
+                "category": "Mountain cable car",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKvY6gB7dmmjG5JsC84nl7p3r_1ajAlzPWQM8o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza de San Felipe",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaSlqI8XjiQPV2Gqo641YDvA_xug6TvDRu6lvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taíno Bay Cruise Port, Shore Excursions",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbWrx7Rr--qO0Bk_RJ8aPomda2wOfnkneTQMnM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umbrella Street",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOpeoIrl8XnLWshdha7XZspDlBUSTvWkjTBSGS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cofresí Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQYgIcipHlFdCD3FCbXXgni8lBiScpmFD4f9k8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo del Ámbar Dominicano",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7MIS6WbF3KYK69IhM4SLYV1Lc1U_IHghE87cI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Macorix House of Rum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIRRgd74GsTDNP8DwjnT-a0H7m1zrE-Nb19asB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Dorada",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCbRnPs3IgMtBbuEAQxxGmcKs7q9hquGtU693r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amber Cove Cruise Port",
+                "category": "Cruise Terminal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdfvSbnVKonsSvMuK03ymP4d8_kFFkqiYijBix=w148-h148-n-k-no"
+            },
+            {
+                "title": "Isabel de Torres National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHj9PPQJz-vFQWh0V1_CnaAXsjgFoxHAaM8Uqd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Museo General Gregorio Luperón",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNR6O8C7sps_qlZOsYXdcSvDnfnCZ7TP57TEsTJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rancho Lorilar",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPngq6F4PzUJAmNM1u4lV11QJpH02SC1k4Kc-YU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Isabel de Torres",
+                "category": "Neighborhood",
+                "img": "https://lh4.googleusercontent.com/proxy/lN5rslqkWbY9ZGBoQU2q6Fc1kcA3xU7YJH5lHvR10wNfohy48w-bQpDc57988aXX6389C7zLW_YoWAfkpkh5B-miicAtj_rJXUZCQh7PeXfm4_b2OZ5Jm_DUP4nQOqGiPaNxELuMqIx940017WgrQNumYU7mYg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pico Isabel de Torres",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsNNL4H6ENxIBDevhret4AOChxEAGYbmO3Ip4d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida General Gregorio Luperón",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYFET28DXz4bGMFLhGlJgUbsNxfqAY71QJffkU=w148-h148-n-k-no"
+            }
+        ],
+        "Salvaleón de Higüey": [
+            {
+                "title": "Playa Pública Dominicus",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxmTKSh3rn_njgHxaTAr_XCV844YOkQUL_XMds=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rancho Monte Rio",
+                "category": "Guest Ranch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXoFRs77oUWfp4qquxxMRkMInBpsyZkNX0UB6Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica Nuestra Señora De La Altagracia",
+                "category": "Basilica",
+                "url": "http://www.basilicadehiguey.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNI4phJKMMWMSsnqtPmk4Lt-p1HVMbVCa4u9HIH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de la Altagracia Alejandro E. Grullón E.",
+                "category": "Museum",
+                "url": "http://www.basilicadehiguey.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0ByCo5lbPH9SpE9TjkFGjWbhLsR4gLv-HG-kg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monkeyland",
+                "category": "Tourist attraction",
+                "url": "https://www.runnersadventures.com/tours/monkeyland/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVgQ56rqXzvNARwb4PU-MUF1_kqq8_R-NW2nP1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rancho cocory",
+                "category": "Recreation Centre",
+                "url": "http://ranchococory.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJBnMySdCVNE_PJzVJLmsmC_X8a5LB160yd5uE=w148-h148-n-k-no"
+            }
+        ],
+        "San Cristóbal": [
+            {
+                "title": "La Toma",
+                "category": "Health spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyN5vUdYVCo5y-6LzczNV-tXFzdw2mWOd5ukcW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nuestra Señora de la Consolacion",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhvZ1fjY8a0i1GDERZ1HLYX3driXDBtYNeSN8P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balneario Muchas Aguas",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3kCJE_HwSi-AWXtDqGXaY7lYci51bRqXoFwYR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Palenque",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4QcHUgtL9iQNvvz4Iq7tgYPGwdx6pdBAt9G-r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nigua Ecological Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMla3qqyFmq4HfS4DslFCPjD6cYjsMeYvsdEeP9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balneario Arroyo Mucha Agua",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM70E4rBWfxlt7tBVTzu7sBB0RtrsxfVox9TfE1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valle de Dios",
+                "category": "Campsite",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrK0ZzjCMGrgDBANf2aDVx2P3rVKt0rJ4slQU_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anthropological Reserve of Cuevas del Pomier",
+                "category": "Nature reserve",
+                "url": "https://www.instagram.com/cuevasdelpomier/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAEyZJ3bcycrLCSukDd4ad-l1FJV32vRHrMQQD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ingenio Boca de Nigua",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrR4HCP-EIFz3rgfj3iFUhLuZ10HgQ6Y7ipFsL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Najayo",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKaPiVfjmosa7bIkHkcCRbhTjgnrGpr1PAtiNN=w148-h148-n-k-no"
+            }
+        ],
+        "Santo Domingo Oeste": [
+            {
+                "title": "Santo Domingo Country Club",
+                "category": "Country club",
+                "url": "http://www.countryclub.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1Gc4aJhwHVRicw4EOXeLnNgItr_DNr75jkocx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Nacional Eduardo Brito",
+                "category": "Performing arts theatre",
+                "url": "http://www.teatronacional.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9K9CCE4-WL05qlLZsoT9WwY8WnMYMUKd4oNZx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Fine Arts Freddy Beras-Goico",
+                "category": "Performing arts theatre",
+                "url": "http://bellasartesrd.gob.do/index.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoyNvqfzrtkYeyv7plZIFwZ5h2Ydmey5hg73ko=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dominican Republic National Aquarium",
+                "category": "Aquarium",
+                "url": "http://acuarionacional.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlUERP4oBZ2RFhhcJl2FeAxtiqq1T_PgXeEVrJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guibia Public Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqQOz6jWYtW2tkQY3pZ_mY7pPy5Y7QXpmVePaC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador Sur",
+                "category": "Gym",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE76VZMeBKWhVEgH7zAZrYgt4_VvD2oF6_KACf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Bandera Republica Dominicana",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1-tfWvUScTDNGf1Hi4iJ7OALzH7D4DX-9tVhY=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Francisco Ruins Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkwfw9t5yKHqLUG0QcvF7xjqRuex0vnf1RPp33=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boca Chica",
+                "category": "Locality",
+                "img": "https://lh6.googleusercontent.com/proxy/Quo5GT5DAyI6jGeYQrQ6A2p-4QZdOFOQbhDeFjH1vcRehm-n01TDKpcB2_o1LAsR0uLJsncwgu5I3agGnYFjmkWRZ5Kt0tFEw8hWcg4xg-YTDlqAyo2nT4hFWiKO897-mXyR0TJVx1iil9uTjCNnDd1JP1kR4Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace of the Dominican Republic",
+                "category": "Government office",
+                "url": "http://presidencia.gob.do/",
+                "img": "https://lh4.googleusercontent.com/proxy/nrIpfn4XOTOzdvTbAlGES24hirSE1dsZs-Sr2Ep-wUAhmKsRdRr1UxWvTP0MStROixbfmbnEBU724w1o3ZnYFv4cFD25rnFuQxxJxbIf5NshL4-y3QlTj_cd1TKE8RSLEbv2QFyU8mlHHztUfnB9yCfnv-WRfOM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento a los Héroes del 30 de Mayo",
+                "category": "Monument maker",
+                "url": "http://enciclopediadominicana.org/Monumento_del_30_de_Mayo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlgDg2a3M1EOV1_Gt-SzZ3bUW9oJGxZRqGZAf1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Juan Barón",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIcLdlwqqNr99ytoM1500DwhmfHLjShu6VhT6x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruinas de Engombe",
+                "category": "Ruin",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVmKuJVtZBZ0zRXmKGW37OE2GFf9YZXq9JgCE-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Duarte Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGUpvz1G0Xn7LH-iIEw1vopsSrumFfKbr1T5yv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to Friar Antonio of Montesino",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMUrgzksFu-sJgFgTqoTOVV2fpDVkuo2wGkab1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amber World Museum",
+                "category": "Museum",
+                "url": "http://www.amberworldmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNu6j4RdFaaurGnEppOMC8sL44D2h3oDmlUi2NO=w148-h148-n-k-no"
+            }
+        ],
+        "San Pedro de Macorís": [
+            {
+                "title": "Estadio Tetelo Vargas San Pedro de Macorís",
+                "category": "Arena",
+                "url": "http://estrellasorientales.com.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1l9E_YzR1jgn8dYerWgGm2TIF5ctlGEnGsASN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral San Pedro Apóstol",
+                "category": "Cathedral",
+                "url": "http://diocesissanpedrodemacoris.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbEqZ8EGx04Jo4RG5XCAX2JG5ke2y36TqaKcXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cave of Wonders",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFHRsEd1aOwzSnwInF-ZZs-O3aHPvTx9cASrF-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Histórico Ron Barceló *REQUIERE RESERVA*",
+                "category": "Museum",
+                "url": "https://ronbarcelo.com/tour/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_nkIXLMqes5Srmr30jpm9PCjHn4VBHC-B6J3p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Guayacanes",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpk0GzI_7H1smG4BCnZBUIYYKho5PRVk5EqOFn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juan Dolio",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvn0I1b0fa2TD8TYMJaiFAmAvBuYK8l4Qvog0D=w148-h148-n-k-no"
+            }
+        ],
+        "Santa Cruz de Barahona": [
+            {
+                "title": "Playa de La Saladilla",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIPpjf8h8CN-LJwt1tG7ZO96rDfs_d9b78qYkn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baseball Stadium Nadin J. Hazouri",
+                "category": "Baseball field",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlXAOUumTFmPAXS-dbcueX3vf-A-614eCgVBEq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santo Domingo Country Club",
+                "category": "Country club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1Gc4aJhwHVRicw4EOXeLnNgItr_DNr75jkocx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balneario Mata de Maiz",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSHmkL1hRCePjnHo2D4f_kJOmUEPKnJvJnv38a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maguana Country Club, San Juan",
+                "category": "Country club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeUq606o35u8pwL2sWFESSEv7bbxmZRfAnDXPe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Los Patos",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMevO5R50iKQ1eteKIMhUKn6OA9XUJqyEax2EfJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "EcoTour Barahona",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSJoFDb-UOBGKVSWjDokbbCVplsKH5zDbeQj1S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Escuela Taller y Museo Larimar",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfA72NGEW7cqRVtJZJ6__pcDWAc_urADMxb-8E=w148-h148-n-k-no"
+            },
+            {
+                "title": "GuanAventuras",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBb4_uHfILEVuXBR3AnIJaPbOQKSXBHfjB9gxi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mina de Larimar",
+                "category": "Mine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXnCi7sg6UOM0L5VF6XRrc2zRmwbnZMD-u31Zc=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Rafael Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSxL7ID3361Pt38ZPW1Q13FywGsqheyC7cZmvE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quemaito Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzp7jSYdpXzJyb-MYAhqeqEtuA58Zd4HN4y_Bw=w148-h148-n-k-no"
+            }
+        ],
+        "Bonao": [
+            {
+                "title": "Paraiso Solymar",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvIEcV163F-KQTgNaSsir-IDyOIAvs-2FCU_Sd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Duarte Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8ZRFm9XBO5-mi0mm_G-Qa0IhS9kgkTKJDwBse=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fula River Isamal’s Disco",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkaFDGfIduqDRD6V9rlAluQxd7gw8bbQNydJ9O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parquesito Del Reparto Yuna",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIzSSxRc8FZS4XayaH2zzcNhGDro_Wh_xggnLT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Solymar Bonao",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhnS3plkIm5bH46dTpkZSzgkFn6O0frikU2uz9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Las delicias",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe8HXQohvQ4oczmZs-iEh8X5LpjwaNOPlEI-8E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to the Heroes of the Restoration",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2MOWjcVLpNRwlweb0uq7X8-Hk9VjLKuYX15CJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rio Masipedro",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfXR3or9W6qLXnA5ik4GLrUoNBQAkb0B_cH5BJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beer Kingdom",
+                "category": "Bar",
+                "url": "http://www.instagram.com/beerkingdomrd",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYj9xGqSW_B95t9N_JoYg-4YSQMTuld7Ji35xB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinema Oasis",
+                "category": "Cinema",
+                "url": "https://cinemaoasisrd.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2dxdeTRty2ZpeuXkh8cn7LfNW3PNDXbkmyIC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jima Falls",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDl3sIVpLllpfC7nOD-g83pO5aVTip3zkNcDpS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Humo Cigar Club",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6H7XPu0s30i_68pcJLPmDLuA2-Wj9yjMaiyDi=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Voz Del Yuna",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD_Mz1Fcf42faLHX9i24ihEOA9dKRpHbnzUeTC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balneario El Camellon",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOv2uiMfQt7Nd16xWQ3gUFqLy20p6aNrhwFXcoG=w148-h148-n-k-no"
+            }
+        ],
+        "La Romana": [
+            {
+                "title": "Casa de Campo Resort and Villas",
+                "category": "Resort hotel",
+                "url": "https://www.casadecampo.com.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL_V_-dKa9F-fQfdOaCtuOnm_JOp3Tr1e7snTL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia Tierra de Milagros Central",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRKL1lS8kp5L2ScHIPW_OwIuZfeHv4bWgQiUU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia Santa Rosa de Lima",
+                "category": "Catholic church",
+                "url": "http://vaticannews.va/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_UW7KrpcqSb79M5zYlNY1FRL9yBbHiWFtbg6q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Altos de Chavón",
+                "category": "Cultural landmark",
+                "url": "http://www.casadecampo.com.do/altos-de-chavon/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhH8asuIIjxz08UAlaVbDAME38Yb8YaNEIL_6f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Caleta",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaBdJ0efu_yvnDkocECW-PgeqegrWW-Ul7CfzA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Altos de Chavón Amphitheatre",
+                "category": "Amphitheatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdbpfjLMk5-cP1gr2Y8Fc_4BoLrSciHDCFOlfq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Duarte Central Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgovCbfOJ7nTvIif96FK1AkNsfnB6BR74U3Onl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa El Caletón",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYVjgIifnYgb7cA9ci1Nt3-fknn6Uthn2NUH0U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club Zero 26",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQjgeIu5K9bFrcreE6cOMAytzVU1t5U2wPAG_v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teeth of the Dog Golf Course, Casa de Campo Resort & Villas",
+                "category": "Golf course",
+                "url": "https://www.casadecampo.com.do/golf/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-P0BV-P-7IrPlWc6dDKr5rwnwXN2H-lM5EBlV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minitas Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyDeBB91tWPU5JA43UyshkyOy3j1xU33epg3cT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bavaro Adventure Park | Punta Cana Tours & Excursions",
+                "category": "Amusement park",
+                "url": "http://www.bavaroadventurepark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvhWWRecN7Jl8ET7rIUYaBrVqzOY5lSk_sO8Gk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cave of Wonders",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFHRsEd1aOwzSnwInF-ZZs-O3aHPvTx9cASrF-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Pública Dominicus",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxmTKSh3rn_njgHxaTAr_XCV844YOkQUL_XMds=w148-h148-n-k-no"
+            },
+            {
+                "title": "Public Beach Playa Dominicus",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN50xcYBpm7iasbqzaUpep3xMyqwT_DzMceryz3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Francisco A. Micheli",
+                "category": "Stadium",
+                "url": "http://torosdeleste.com/estadio-francisco-micheli.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWWTtUFneDS3Avvem2Bs73h3G5KBN4TR4hycg2=w148-h148-n-k-no"
+            }
+        ],
+        "Concepción de La Vega": [
+            {
+                "title": "Cathedral of the Immaculate Conception",
+                "category": "Cathedral",
+                "url": "https://www.ced.org.do/jurisdicciones/arquidiocesis-santiago/diocesis-la-vega/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-iJZbCpRjqAz8j-K6k02jzRg2zE7DFIZSKXzU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santuario Nacional Nuestra Señora De Las Mercedes",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOXFi0QXxVHK4lYKQVTCKYJEOogeoHxmPs1xI=w148-h148-n-k-no"
+            },
+            {
+                "title": "hawk paragliding school",
+                "category": "Adventure sports",
+                "url": "http://www.hawkparagliding.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYOpHef7m2cLhbbsePN0eHJhCJjVDZenr9zcEX=w148-h148-n-k-no"
+            },
+            {
+                "title": "RANCHO AVESTRUZ",
+                "category": "Swimming basin",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUQRuEDdNdoJ_qB-SCJ9KMO0wy408uyC5SVMyS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valle Nuevo National Park",
+                "category": "National park",
+                "url": "http://ambiente.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf9u9-Hvug0VtulO3njGSoXu10IKhRCRkEn01Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Del Carnaval Vegano",
+                "category": "Museum",
+                "url": "http://www.museocarnavalvegano.org.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLYGr5JDxzNMFpNVS9Z3ADlTug7F76GHYkqjI=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Confluencia",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWBo1_iK2TK9ulHVtEcQo_K7N4FDAlEvQ38nKJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Mogote",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNre3rX87hk5cA2wNUTScjamvaU3iIPVWiLH-Qo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salto Jimenoa Two",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVd09971YPRr-dGn_hezLgA25Sy1CF_1pEa44Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pico Duarte",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJ1v7q7yQOmoPOsXZC1Vc1SPE3LwHhrwQi51Hk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument Divine Child",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNE_21-qYx7X1wUzlSRouKxA-FRH31S2sRYTN11=w148-h148-n-k-no"
+            }
+        ],
+        "Bajos de Haina": [
+            {
+                "title": "Parque Piedra Blanca",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeEjhS1qBXQR9E1_fSO_yoODkOdYz_JZn1g50O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Invi-Cea Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvvCneAmG2sH15d0Jb6qeXXG6WJwOd8rx3hXB5=w148-h148-n-k-no"
+            },
+            {
+                "title": "proyecto San Jose Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6pvZlnJCP_WQLzUp8M3JGYwBENZBLdflM01Dm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Columbus Park",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzyePUFpjyG0LLzz8E6lV6xFK3a6AX2n_PnLc8=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Botanical Garden Dr. Rafael María Moscoso",
+                "category": "Botanical garden",
+                "url": "http://www.jbn.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7UnnUat3EE723OSsAe0O6trrBEBT-wub1I941=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Bandera Republica Dominicana",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1-tfWvUScTDNGf1Hi4iJ7OALzH7D4DX-9tVhY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador del Oeste Park",
+                "category": "Park and Garden",
+                "url": "http://www.ambiente.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaBJBRW6Y3kbmYF12Te8W0KMJsPovPzPJF8227=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hard Rock Hotel & Casino Punta Cana | An All Inclusive Experience",
+                "category": "Hotel",
+                "url": "https://hotel.hardrock.com/punta-cana/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCI_GgVNaN9f__vBIbNlb6FMBZxOszmoLplKCm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ingenio Boca de Nigua",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrR4HCP-EIFz3rgfj3iFUhLuZ10HgQ6Y7ipFsL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ocean World Adventure Park, Puerto Plata, Dominican Republic.",
+                "category": "Water park",
+                "url": "http://www.shop.oceanworld.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5PkyvmMZeLMt-R6Ge6b80WNODxXEVQcigznM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puerto Plata Cable Car",
+                "category": "Mountain cable car",
+                "url": "http://telefericopuertoplata.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKvY6gB7dmmjG5JsC84nl7p3r_1ajAlzPWQM8o=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace of the Dominican Republic",
+                "category": "Government office",
+                "url": "http://presidencia.gob.do/",
+                "img": "https://lh4.googleusercontent.com/proxy/nrIpfn4XOTOzdvTbAlGES24hirSE1dsZs-Sr2Ep-wUAhmKsRdRr1UxWvTP0MStROixbfmbnEBU724w1o3ZnYFv4cFD25rnFuQxxJxbIf5NshL4-y3QlTj_cd1TKE8RSLEbv2QFyU8mlHHztUfnB9yCfnv-WRfOM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Altar de la Patria",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNRilQBrmfNfBu_esjdvsJzmCjjF9MYCeXDF0_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salto Jimenoa Two",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVd09971YPRr-dGn_hezLgA25Sy1CF_1pEa44Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Punta Cana",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGwjYS_bOVC2ZB4e6gv9Wv2ss5xtCdE2ATE61b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hoyo Azul",
+                "category": "Hiking area",
+                "url": "https://hoyoazul.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6azm4YLigKGlaWgmb-6wv-aZBlhFomFRE2yJj=w148-h148-n-k-no"
+            }
+        ],
+        "San Francisco de Macorís": [],
+        "Santo Domingo": [
+            {
+                "title": "National Botanical Garden Dr. Rafael María Moscoso",
+                "category": "Botanical garden",
+                "url": "http://www.jbn.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7UnnUat3EE723OSsAe0O6trrBEBT-wub1I941=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Hispanidad or Spain",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU-gIoVxbYYCUuWU-Cit6nmj7TSl_tEiNytyqp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Columbus Park",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzyePUFpjyG0LLzz8E6lV6xFK3a6AX2n_PnLc8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ágora Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.agora.com.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-lALx4MXGjVS_0q0KfW95vE7Dehu8Xmy5Qpdh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sambil Santo Domingo",
+                "category": "Shopping Centre",
+                "url": "https://sambil.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUvaLchLaNaGyYZgSB21P8_PJ2wv8hAMrsX21r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alcázar de Colón",
+                "category": "Museum",
+                "url": "https://www.facebook.com/museoalcazardecolon",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcC99QWqHOcOkSRtQiVGCZIeEp1AYGx7IbLtF6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santo Domingo Malecon",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbyiQKXx-C_ZuAVwL2WCyC88PXsPKkBXICOuJ6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador Del Sur Joaquín Balaguer Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2E-v8ifLSlbE9TOpVQ66ekca5vhlfjzeLPrd_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Zoológico Nacional",
+                "category": "Zoo",
+                "url": "https://www.zoodom.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmMTlMDeXAg-S81ExJmGM8QlyRT_ysk-oxcEjW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the Royal Houses",
+                "category": "Museum",
+                "url": "https://museosrd.gob.do/listing/museo-de-las-casas-reales/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOr8-pDfK0mzbkXn0ROx3DQ9hOfQQZDvTNdVSk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza Ozama",
+                "category": "Fortress",
+                "url": "https://visitdominicanrepublic.com/history-heritage/fortaleza-ozama/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmdi9oHFaHAVL-HoHdOTbBYeVgkhWjWuEJ7O17=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nuestra Señora de la Encarnación",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrDyK7h4LUjpvkBUp6eWhfvTU7ZMx-fe_lHCRh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Nacional Eduardo Brito",
+                "category": "Performing arts theatre",
+                "url": "http://www.teatronacional.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9K9CCE4-WL05qlLZsoT9WwY8WnMYMUKd4oNZx=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace of the Dominican Republic",
+                "category": "Government office",
+                "url": "http://presidencia.gob.do/",
+                "img": "https://lh4.googleusercontent.com/proxy/nrIpfn4XOTOzdvTbAlGES24hirSE1dsZs-Sr2Ep-wUAhmKsRdRr1UxWvTP0MStROixbfmbnEBU724w1o3ZnYFv4cFD25rnFuQxxJxbIf5NshL4-y3QlTj_cd1TKE8RSLEbv2QFyU8mlHHztUfnB9yCfnv-WRfOM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Fine Arts Freddy Beras-Goico",
+                "category": "Performing arts theatre",
+                "url": "http://bellasartesrd.gob.do/index.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoyNvqfzrtkYeyv7plZIFwZ5h2Ydmey5hg73ko=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Arte Moderno",
+                "category": "Modern art museum",
+                "url": "https://museosrd.gob.do/listing/museo-de-arte-moderno/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMseKX59v_2icaVotLl9b2xcESPhnbHI7g5B5zw=w148-h148-n-k-no"
+            }
+        ],
+        "Santo Domingo Este": [
+            {
+                "title": "Dominican Republic National Aquarium",
+                "category": "Aquarium",
+                "url": "http://acuarionacional.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlUERP4oBZ2RFhhcJl2FeAxtiqq1T_PgXeEVrJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mixer Bar and Lounge",
+                "category": "Bar & grill",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf_AcPBCmmWvPsG6DZQsYlwRkkLnUpSnytwlgL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Nacional Eduardo Brito",
+                "category": "Performing arts theatre",
+                "url": "http://www.teatronacional.gob.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9K9CCE4-WL05qlLZsoT9WwY8WnMYMUKd4oNZx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puente Juan Pablo Duarte",
+                "category": "Bridge",
+                "url": "http://doctormoderno.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzdCPWk-wI0S9BgEomjs8GRgtM0ZAnp7UDDotd=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Cueva del Edén",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVYPiQptx2160_Rp044zQVfDCvleoDVkzc3kXj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Hispanidad or Spain",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU-gIoVxbYYCUuWU-Cit6nmj7TSl_tEiNytyqp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Memorial Museum of Dominican Resistance",
+                "category": "Museum",
+                "url": "http://www.museodelaresistencia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnX6puiS9R0CW9K35Uy3A8oWhk7Z9ens9VNyYL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Italia",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPw3LkPd_FVqfOtG01dx8hWCzEd-uCiAlICmRLk=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace of the Dominican Republic",
+                "category": "Government office",
+                "url": "http://presidencia.gob.do/",
+                "img": "https://lh4.googleusercontent.com/proxy/nrIpfn4XOTOzdvTbAlGES24hirSE1dsZs-Sr2Ep-wUAhmKsRdRr1UxWvTP0MStROixbfmbnEBU724w1o3ZnYFv4cFD25rnFuQxxJxbIf5NshL4-y3QlTj_cd1TKE8RSLEbv2QFyU8mlHHztUfnB9yCfnv-WRfOM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quinta Dominica",
+                "category": "Cultural centre",
+                "url": "http://www.quintadominica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWtK_aqYS1BYvdwDOhGrP8RGq9isHY891paCW9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Arte Moderno",
+                "category": "Modern art museum",
+                "url": "https://museosrd.gob.do/listing/museo-de-arte-moderno/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMseKX59v_2icaVotLl9b2xcESPhnbHI7g5B5zw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Este Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFzX63wvpj_84uHX5KRRaX8E1ntluBBqRkMYYE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guibia Public Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqQOz6jWYtW2tkQY3pZ_mY7pPy5Y7QXpmVePaC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque de Invivienda",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXkLHl0Flaj_MVUylpx6zWZRORqJLQ_OSB7ZnP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the Dominican Man",
+                "category": "Museum",
+                "url": "http://www.conectate.com.do/articulo/museo-del-hombre-dominicano-santo-domingo-republica-dominicana/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEJYWo20Opp6n0RkUPqGvWyMdEbXywo6RhWhfH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador Sur",
+                "category": "Gym",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE76VZMeBKWhVEgH7zAZrYgt4_VvD2oF6_KACf=w148-h148-n-k-no"
+            }
+        ],
+        "Santiago de los Caballeros": [
+            {
+                "title": "Monument to the Heroes of the Restoration",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2MOWjcVLpNRwlweb0uq7X8-Hk9VjLKuYX15CJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colinas Mall",
+                "category": "Shopping Centre",
+                "url": "http://colinasmall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMes_DQDOnMFO4jPya4jTp2tHPwb2-3QZE8JVpc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercado Modelo",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCjA3h6U-QQ4CmE1gXRI1ApoRsYinf5KwqL2Tg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Cultural Eduardo León Jimenes",
+                "category": "Art museum",
+                "url": "https://centroleon.org.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_5v2TfqmTHVors_mAWw18KETBAejpmEXCO012=w148-h148-n-k-no"
+            },
+            {
+                "title": "Duarte Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlo6Ik8CKdJ801_T_96SGjx9h6yv0gN16Cbq7y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santiago Central Park",
+                "category": "Park and Garden",
+                "url": "https://parquecentralsantiago.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMfQ4nioVkQ5we64aGwLess1qhs8yXaxi-8n0q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cibao Football Club Stadium",
+                "category": "Stadium",
+                "url": "http://cibaofc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO11W0D8CjtDoQYxTt9UdIuDomBVeM3hA6zLLM-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardín Botánico de Santiago Profesor Eugenio de Jesús Marcano Fondeur",
+                "category": "Botanical garden",
+                "url": "http://botanicodesantiago.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjIA36Uqi8Ig4SwFctXxX6ueylBugvy5YRXu9Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santiago Apostol Cathedral",
+                "category": "Cathedral",
+                "url": "http://ciudadsantiagord.blogspot.com/2008/07/catedral-santiago-apostol.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQ_Iq5ZCHos6_wRyQXrwyoEpsFqXcr9wTHtMGv=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Tablon Latino",
+                "category": "Restaurant",
+                "url": "https://m.facebook.com/eltablonlatino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEBze-4dLwT0vGi7limwKdhV12N8U3fUisMKzn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza San Luis",
+                "category": "Museum",
+                "url": "http://www.fortalezasanluis.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_Kn1rFFMVF0Aj__CPtm4CLBTvsjTh5GGLiw4U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matum Hotel & Casino",
+                "category": "Hotel",
+                "url": "https://www.matum-hotel-casino.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEYLDSV3IJcmlJMWJAnrCYS9fQrH02R53F8Nxu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mundo Acuático",
+                "category": "Water park",
+                "url": "https://www.facebook.com/pages/category/Public-Swimming-Pool/Mundo-Acuatico-277608559663922/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIc5b3FVigaQ8Owm6FoSzGhKEIK0B_Ixm_e-WC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cibao Stadium",
+                "category": "Stadium",
+                "url": "http://aguilas.com.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSlPUgnrSWLyHuKaR7UKpOwiNED2KDSx7NsWUY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro de Convenciones y Cultura Dominicana UTESA",
+                "category": "Convention centre",
+                "url": "https://cccdutesa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDaUZVrZjjB6NcVyxDGUX5t0Lus06qguLt_PL9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Metropolitano de los Jardines",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKtp82DkL0_2m8SD-ATLjOKuTsv9YEts_994Lt=w148-h148-n-k-no"
+            }
+        ],
+        "Punta Cana": [
+            {
+                "title": "Barceló Bávaro Palace",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPM4JPrAfd6fnGBBsBs8t3FxICVRRYzSBL0lZzn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dreams Royal Beach Punta Cana",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPw0thJiHpRbXiGbXi0ii069YuDlCgJB269Nxgo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juanillo Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEHjanvroIhLlkznn39tkWlvo43HsVrv1oUETQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Indigenous Eyes Ecological Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHuP3hl8CX-GshvZJhYp2X326LcKCHB67IHWqd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Agua Games",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLsgA4T03yqHuMvvFxjSh0j4xFwQUQnEgcAECK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hard Rock Hotel & Casino Punta Cana | An All Inclusive Experience",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCI_GgVNaN9f__vBIbNlb6FMBZxOszmoLplKCm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cocotal Golf & Country Club",
+                "category": "Golf club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTtx2PCsxb1qghm6a2r6quf_YfzpH9UHbV7ipB=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Cana Golf Club",
+                "category": "Golf club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt7ncZMbbpFX1fqvdId0X3-15HdVT9HydeYxRa=w148-h148-n-k-no"
+            },
+            {
+                "title": "BlueMall Puntacana",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNif8vL3Z4xcRFYNcOlY9esYgN45oi8KvhC6yks=w148-h148-n-k-no"
+            },
+            {
+                "title": "Punta Espada Golf Club",
+                "category": "Golf club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPds4jxJEbY1i2z_m6z-Pi4TRdVIh_gnwzIaWYg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corales Golf Course, Puntacana Resort & Club",
+                "category": "Golf course",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2pq6VHWYJUrt7UzkUE28UQt7OlH5FCg__MP0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Imagine Punta Cana",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqkMOuQxMBeJ1tqdt6M27v75_oWqRGG1pu0OSX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Bavaro Punta Cana",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS2UswAfDh-_5gd6wsushUt03Tte1K-1cNICPH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pearl Beach Club",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhLOuBArafvqFs9IaLmPm0yPSy7Y-B29lrpCDS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Punta Cana International Airport",
+                "category": "International airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8NLUe_93XU_gSIkyJaOZ-lt17s35eMWl1K6qu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ocean Adventures Punta Cana",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOg3Ius6MtyzHf21turM_ouBlArriMWwjJhI84S=w148-h148-n-k-no"
+            }
+        ],
+        "Baní": [
+            {
+                "title": "Baní, Peravia, Dominican Republic",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqdhRnmeV8yH0AeKVYSk1mnuL-iTVTq5yEVOr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salinas de Bani",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnez7fD42BCa3jXdJhmqFXOXzJ8krKozvfKfgb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Our Lady of the Rule",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRAyi_D56wSSHqgdiOdUuLOSfDuaPeSgWoNTi6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Perelló Cultural Center",
+                "category": "Non-profit organisation",
+                "url": "http://ccp.org.do/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3ae3shzFRjUVMUNnzX_ufU9XRv-KGPUV57W8y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santuario San Martin De Porres.",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIEeJh4bG0QDaxcQ0PRyiW4N5d5G3X5veAqzfj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dunes of Baní",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWCDmEiORzk2WDBHZ2ujZQCoqwmnTBn6AGAVAI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Multicultural de Juan de Dios Soto y Restaurante Hurricane",
+                "category": "Natural history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFlI-ZA5WQdcmlq1l7wZDiEowKwupkZQaoTGG9=w148-h148-n-k-no"
+            }
+        ],
+        "San Juan de la Maguana": [
+            {
+                "title": "Caonabo Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfGhOm6jMw5BkC6np4VxYL5hEF6oZoelisl8Ma=w148-h148-n-k-no"
+            },
+            {
+                "title": "Francisco Del Rosario Sánchez Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLtFy2tJb3OzNiDjkWoj_d7ZNc-zN0xJlNx3TZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "José María Cabral Park",
+                "category": "Park and Garden",
+                "url": "https://www.pedidosya.com.do/restaurantes/San+Juan/cafeteria-rb-menu?ic=si",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_HfGQY_Yt7mPpw2nxcIM2xQAOaBnbOdxKWl1E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Anacaona",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3RHhq7BVhmF4Mj21yMNTQRwA_pfTbQV-b8y23=w148-h148-n-k-no"
+            }
+        ],
+        "Villa Francisca": []
+    },
+    "sights": [
+        {
+            "title": "Casa de Campo Resort and Villas",
+            "category": "Resort hotel",
+            "url": "https://www.casadecampo.com.do/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNL_V_-dKa9F-fQfdOaCtuOnm_JOp3Tr1e7snTL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Barceló Bávaro Palace",
+            "category": "Hotel",
+            "url": "https://www.barcelo.com/en-us/barcelo-bavaro-palace/?utm_source=google&utm_medium=organic&utm_campaign=my_business&utm_content=7397",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPM4JPrAfd6fnGBBsBs8t3FxICVRRYzSBL0lZzn=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Three Eyes National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO68ZB2S2fO5Lfajl77kS-ypIUTxeMbDjVZ1VtZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ocean World Adventure Park, Puerto Plata, Dominican Republic.",
+            "category": "Water park",
+            "url": "http://www.shop.oceanworld.net/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM5PkyvmMZeLMt-R6Ge6b80WNODxXEVQcigznM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Puerto Plata Cable Car",
+            "category": "Mountain cable car",
+            "url": "http://telefericopuertoplata.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKvY6gB7dmmjG5JsC84nl7p3r_1ajAlzPWQM8o=w148-h148-n-k-no"
+        },
+        {
+            "title": "Plaza de la Hispanidad or Spain",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOU-gIoVxbYYCUuWU-Cit6nmj7TSl_tEiNytyqp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dreams Royal Beach Punta Cana",
+            "category": "Resort hotel",
+            "url": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/dominican-republic/royal-beach-punta-cana/?utm_source=google&utm_medium=organic&utm_campaign=soci",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPw0thJiHpRbXiGbXi0ii069YuDlCgJB269Nxgo=w148-h148-n-k-no"
+        },
+        {
+            "title": "Indigenous Eyes Ecological Reserve",
+            "category": "Nature reserve",
+            "url": "https://www.puntacana.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNHuP3hl8CX-GshvZJhYp2X326LcKCHB67IHWqd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fortaleza de San Felipe",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMaSlqI8XjiQPV2Gqo641YDvA_xug6TvDRu6lvg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hard Rock Hotel & Casino Punta Cana | An All Inclusive Experience",
+            "category": "Hotel",
+            "url": "https://hotel.hardrock.com/punta-cana/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNCI_GgVNaN9f__vBIbNlb6FMBZxOszmoLplKCm=w148-h148-n-k-no"
+        },
+        {
+            "title": "27 Waterfalls of Damajagua",
+            "category": "National park",
+            "url": "http://27waterfalls.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMuDmjZ5jnQDDViTbmMG4PrXAL0w1ilnOP1DOkp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Amber Cove Cruise Port",
+            "category": "Cruise Terminal",
+            "url": "https://www.ambercove.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdfvSbnVKonsSvMuK03ymP4d8_kFFkqiYijBix=w148-h148-n-k-no"
+        },
+        {
+            "title": "Juanillo Beach",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMEHjanvroIhLlkznn39tkWlvo43HsVrv1oUETQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Alcázar de Colón",
+            "category": "Museum",
+            "url": "https://www.facebook.com/museoalcazardecolon",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOcC99QWqHOcOkSRtQiVGCZIeEp1AYGx7IbLtF6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fortaleza Ozama",
+            "category": "Fortress",
+            "url": "https://visitdominicanrepublic.com/history-heritage/fortaleza-ozama/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNmdi9oHFaHAVL-HoHdOTbBYeVgkhWjWuEJ7O17=w148-h148-n-k-no"
+        },
+        {
+            "title": "Coco Bongo Punta Cana",
+            "category": "Nightclub",
+            "url": "https://www.cocobongo.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNhppvh3x8j5Cb3_BnA39CBpUbyLUXosnm1KeA=w148-h148-n-k-no"
+        }
+    ]
+}

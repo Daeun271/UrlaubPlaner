@@ -1,0 +1,311 @@
+{
+    "cities": {
+        "Rumonge": [
+            {
+                "title": "Saga plage beach",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOp8kd_qFJmW6W4GSoRAGwl_jxJ5JAdCfJpd9bb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruvubu National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIWQEXjno3ZuxbJ1PDIPGp8Z5i53BpvGctXwr6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kibira National Park",
+                "category": "National park",
+                "url": "http://www.kibiranationalparkburundi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCcAQ67rlnafccvZlziKhGPCV0m2jAqHKk2lHe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gishora",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUJnVCJxpzTCmbP2-jmBSxQSHduApb9J1bzfuj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gombe National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWd_-8xRhRArv2uu5AXHomQcN-lTdfqMCAuj0s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gishora Drum Sanctuary",
+                "category": "Tourist attraction",
+                "url": "https://www.instagram.com/hera_tours_travel_agency?igsh=MWs5eXQxY3FwZmZveA==",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3k0ystWsyVyfdDifihIgkduo9eduaU0RcBxr6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Heha",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0JmwoTck-Oxjknu31FHW4t3c16fx21X8O5Os7=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Gitega",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9BG4u0PUVIao4MwdFcu8AopkWVt-tnFY_K1Mz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bujumbura Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpY7mU4_p8tqrBD650YAzXkjj0AMfW14wza0De=w148-h148-n-k-no"
+            },
+            {
+                "title": "Livingston-Stanley Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkLXLzti5B93LQSg4JQa94GPW4zv0wYmmNL4Y9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rusizi National Park",
+                "category": "National park",
+                "url": "https://www.rusizinationalpark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0D3X3g-4ZJearvW9yclTCL79CHiUj0AFhDnw6=w148-h148-n-k-no"
+            }
+        ],
+        "Ngozi": [
+            {
+                "title": "National Museum of Gitega",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9BG4u0PUVIao4MwdFcu8AopkWVt-tnFY_K1Mz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rusizi National Park",
+                "category": "National park",
+                "url": "https://www.rusizinationalpark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0D3X3g-4ZJearvW9yclTCL79CHiUj0AFhDnw6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gishora Drum Sanctuary",
+                "category": "Tourist attraction",
+                "url": "https://www.instagram.com/hera_tours_travel_agency?igsh=MWs5eXQxY3FwZmZveA==",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3k0ystWsyVyfdDifihIgkduo9eduaU0RcBxr6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Livingston-Stanley Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkLXLzti5B93LQSg4JQa94GPW4zv0wYmmNL4Y9=w148-h148-n-k-no"
+            }
+        ],
+        "Gitega": [
+            {
+                "title": "Stade de Gitega",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOe7In8FnYCkUttLSnuL_PYSekrhkZPBcauaaD7=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Gitega",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9BG4u0PUVIao4MwdFcu8AopkWVt-tnFY_K1Mz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gishora Drum Sanctuary",
+                "category": "Tourist attraction",
+                "url": "https://www.instagram.com/hera_tours_travel_agency?igsh=MWs5eXQxY3FwZmZveA==",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3k0ystWsyVyfdDifihIgkduo9eduaU0RcBxr6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Regina Mundi Cathedral",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd2CWRjH3rnRqO6cJj6Hx9dwLQKQ5nuOJa4DG4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sanctuaire Marial de Schoenstatt - Mont Sion Gikungu",
+                "category": "Catholic church",
+                "url": "http://www.peres-schoenstatt.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp0qzamoepcJq8gk131aLMctSB3f9U0rpT1Kte=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardin Public Bujumbura",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMzNhW6MX8w-SQbm4NMm4oSC83zRGxwu386hCs=w148-h148-n-k-no"
+            },
+            {
+                "title": "So Beautiful",
+                "category": "Beauty Salon",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP53lduWAXJgRqo8LQZkyrTd-epzTXp6QNpEOgQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chutes de la Karera Falls",
+                "category": "Tourist attraction",
+                "url": "https://augustinetours.com/karera-waterfalls-burundi-tours/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHi7pOKDTBWQ_1Fh1tdi_Ah4MExUNzFxClncwR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gisabo Tours",
+                "category": "Tour operator",
+                "url": "https://www.gisabotours.bi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-QGxxdQJtQ2MTBWKrDB15wjM7WiZtz8xvoaIQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bujumbura Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpY7mU4_p8tqrBD650YAzXkjj0AMfW14wza0De=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rusizi National Park",
+                "category": "National park",
+                "url": "https://www.rusizinationalpark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0D3X3g-4ZJearvW9yclTCL79CHiUj0AFhDnw6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Livingston-Stanley Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkLXLzti5B93LQSg4JQa94GPW4zv0wYmmNL4Y9=w148-h148-n-k-no"
+            }
+        ],
+        "Bujumbura": [
+            {
+                "title": "Regina Mundi Cathedral",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd2CWRjH3rnRqO6cJj6Hx9dwLQKQ5nuOJa4DG4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saga plage beach",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOp8kd_qFJmW6W4GSoRAGwl_jxJ5JAdCfJpd9bb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rusizi National Park",
+                "category": "National park",
+                "url": "https://www.rusizinationalpark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0D3X3g-4ZJearvW9yclTCL79CHiUj0AFhDnw6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kibira National Park",
+                "category": "National park",
+                "url": "http://www.kibiranationalparkburundi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCcAQ67rlnafccvZlziKhGPCV0m2jAqHKk2lHe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rusizi",
+                "category": "Water",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-NnIlL77xr3XRlNYRbZ-LCKti4bPAyxFZiL9h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bujumbura Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpY7mU4_p8tqrBD650YAzXkjj0AMfW14wza0De=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruvubu National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIWQEXjno3ZuxbJ1PDIPGp8Z5i53BpvGctXwr6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Heha",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0JmwoTck-Oxjknu31FHW4t3c16fx21X8O5Os7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gishora",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUJnVCJxpzTCmbP2-jmBSxQSHduApb9J1bzfuj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eglise Vivante",
+                "category": "Evangelical church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhwr1hbXWZYOHwOUv3TtZgijOITYp98ELRuo0h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Livingston-Stanley Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkLXLzti5B93LQSg4JQa94GPW4zv0wYmmNL4Y9=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Gitega",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9BG4u0PUVIao4MwdFcu8AopkWVt-tnFY_K1Mz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gishora Drum Sanctuary",
+                "category": "Tourist attraction",
+                "url": "https://www.instagram.com/hera_tours_travel_agency?igsh=MWs5eXQxY3FwZmZveA==",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3k0ystWsyVyfdDifihIgkduo9eduaU0RcBxr6=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Bujumbura",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOiijVqAzYDryR-xDVvcTjVR-6_svb9Or33lt9N=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kibira National Park",
+            "category": "National park",
+            "url": "http://www.kibiranationalparkburundi.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPCcAQ67rlnafccvZlziKhGPCV0m2jAqHKk2lHe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ruvubu National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNIWQEXjno3ZuxbJ1PDIPGp8Z5i53BpvGctXwr6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rusizi National Park",
+            "category": "National park",
+            "url": "https://www.rusizinationalpark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM0D3X3g-4ZJearvW9yclTCL79CHiUj0AFhDnw6=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Gitega",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO9BG4u0PUVIao4MwdFcu8AopkWVt-tnFY_K1Mz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Saga plage beach",
+            "category": "Resort hotel",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOp8kd_qFJmW6W4GSoRAGwl_jxJ5JAdCfJpd9bb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gishora Drum Sanctuary",
+            "category": "Tourist attraction",
+            "url": "https://www.instagram.com/hera_tours_travel_agency?igsh=MWs5eXQxY3FwZmZveA==",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP3k0ystWsyVyfdDifihIgkduo9eduaU0RcBxr6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Heha",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO0JmwoTck-Oxjknu31FHW4t3c16fx21X8O5Os7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gishora",
+            "category": "Neighborhood",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOUJnVCJxpzTCmbP2-jmBSxQSHduApb9J1bzfuj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gitega",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNJjNIpNr916qKgbBA1pN5tEwYvvjVieHbIfFy7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bururi",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOEjiWVJq3bQvtqQpCxSfo28l2xMUiGBxRhVrhX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rusizi",
+            "category": "Water",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN-NnIlL77xr3XRlNYRbZ-LCKti4bPAyxFZiL9h=w148-h148-n-k-no"
+        },
+        {
+            "title": "Livingston-Stanley Monument",
+            "category": "Monument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOkLXLzti5B93LQSg4JQa94GPW4zv0wYmmNL4Y9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bujumbura Zoo",
+            "category": "Zoo",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMpY7mU4_p8tqrBD650YAzXkjj0AMfW14wza0De=w148-h148-n-k-no"
+        },
+        {
+            "title": "TwoFiveSeven Arts",
+            "category": "Art gallery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNSfB81j2aix4N0rTzMtVpg2UTlBde2PsVwKXQc=w148-h148-n-k-no"
+        },
+        {
+            "title": "So Beautiful",
+            "category": "Beauty Salon",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP53lduWAXJgRqo8LQZkyrTd-epzTXp6QNpEOgQ=w148-h148-n-k-no"
+        }
+    ]
+}

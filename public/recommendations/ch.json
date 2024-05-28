@@ -1,0 +1,1053 @@
+{
+    "cities": {
+        "Luzern": [
+            {
+                "title": "Chapel Bridge",
+                "category": "Bridge",
+                "url": "https://www.luzern.com/de/highlights/die-stadt/kapellbruecke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIcH_RsHfNMwzaNLZVwiG68lsrKZMKjS14pmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swiss Museum of Transport",
+                "category": "Technology museum",
+                "url": "https://www.verkehrshaus.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjPs9IQGgiFSv0w2zxni0bRbGI2YOjrlyJpShO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lion Monument",
+                "category": "Monument",
+                "url": "https://www.loewendenkmal-luzern.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUJnfgf_tX-VBUz28ILEN29WCRPLAVT7cncSec=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spreuerbrücke",
+                "category": "Bridge",
+                "url": "https://www.luzern.com/de/highlights/sehenswuerdigkeiten/die-spreuerbruecke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4my9CfDC8pyaJMrCvALIFFC17DypRGBQZnguD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lucerne Culture and Congress Centre",
+                "category": "Cultural centre",
+                "url": "https://www.kkl-luzern.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcGDbMH6sXeRS5UbG8WaqsPVfoeWPb3iyH_Ah4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jesuitenkirche Hl. Franz Xaver",
+                "category": "Catholic church",
+                "url": "http://www.jesuitenkirche-luzern.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt_XmucS2iN8t6K6dAX-bq5YFTjPg8oeSvBZbE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sammlung Rosengart",
+                "category": "Art museum",
+                "url": "http://www.rosengart.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7sL4BE4jAMHxBekCSTfi4I-XgIX9wADIt080T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hofkirche St. Leodegar",
+                "category": "Catholic church",
+                "url": "http://www.hofkirche.ch/",
+                "img": "https://lh3.googleusercontent.com/proxy/O2nHeOv7RKzkQtGSclGqeXmCrN4QZIAcyYB9PNkNY7_biGBOQkj9DPcPNxipjuRTnyrNaoR-U4r3DkXLODDOXUTBoikvGrAWIK5DDqMT5THvctAoqU9hUohhEogKqYRFtf-IGNvvnotuW6HF_rkOvfxrQjCKAXA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bourbaki Panorama Lucerne",
+                "category": "Museum",
+                "url": "https://www.bourbakipanorama.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_5Azc7kXABDmvIp1b0s8dUVdG2Smg0cmPsIN9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Glacier Garden of Lucerne",
+                "category": "Open-Air Museum",
+                "url": "https://www.gletschergarten.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4QR4Y-lBdronnMZYfNzH0s20OWG8uDoj24rVD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Richard Wagner Museum Lucerne",
+                "category": "Museum",
+                "url": "http://www.richard-wagner-museum.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdbklRTiAOvqGOV-SC6r8uIfmL3W30HwL1kRBw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museggmauer",
+                "category": "Tourist attraction",
+                "url": "https://www.museggmauer.ch/",
+                "img": "https://lh4.googleusercontent.com/proxy/jG75duu4bzyyltrOJ-OMI_E0vrz5LYI1E4PY1G1n2TuQv1zHNEwwcCll6M51lMrjtlRjMh8K9fwhQGKplUWIZlDvw7LoeN3CxqXkeOxCKMi5onm4aDmw8pLFvuzSPVQkIjfdeSiqyUCwWj3Vubexb30p1d6Pgjs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hammetschwand Elevator",
+                "category": "Tourist attraction",
+                "url": "https://burgenstockresort.com/en/activities-and-experiences/hammetschwand-lift",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdmzM5PupfVcAA2ysr5ZNxBeatzDtB0-Gnw4Tq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luzern Altstadt",
+                "category": "Historical landmark",
+                "url": "https://www.luzern.com/de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQrjupOb_bxQaLTbdeUfbgkxZOm2JnsOcYPAkB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zytturm",
+                "category": "Historical landmark",
+                "url": "https://www.museggmauer.ch/zytturm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOcY_ufnS4CwTmkPjFULLgYN5IcC0f3kbWIwIl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Strandbad Lido Luzern",
+                "category": "Lakeside Beach",
+                "url": "http://www.lido-luzern.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNz60sEO5AkbG-JiIaBDsAnhIB9OrLEedyT_qJJ=w148-h148-n-k-no"
+            }
+        ],
+        "Lugano": [
+            {
+                "title": "Parco Ciani",
+                "category": "Park and Garden",
+                "url": "http://www.lugano-tourism.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsDhlqwxEMPpjoTbLELVsTYd_LPWzP5q5sfJsh=w148-h148-n-k-no"
+            },
+            {
+                "title": "LAC Lugano Arte e Cultura",
+                "category": "Cultural centre",
+                "url": "http://www.luganolac.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfDcMVOhVotc36mQejVdJudZBhgaLpVG6kHylM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lido di Lugano",
+                "category": "Lido",
+                "url": "https://www.lugano.ch/cultura-tempo-libero/sport/lidi-e-piscine/lido-di-lugano.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMK3oLwKdM7QCfLtBHlHOo-Hj6VK8-Ij7sx6uY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chiesa di Santa Maria degli Angioli",
+                "category": "Catholic church",
+                "url": "https://santamariadegliangioli.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnD9NiQpvhPpnhZhM-BXeGM4rMxkl3VUBb3_98=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Lugano",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/proxy/vKHxO7a5tsu55Ce2XO06vfohueOIYCqY4mpYsZbw5nN5iPpMADHFdTQv2kvexUsN8E8eF4IbOQaJ72EVJxMVovegGOoT9ZjUe_F7zgt5QqMJtKkr2we1VrlcIo2l8gtsHZP9TR3xASaH3Rm6QrnC10EyOQ3bSQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Saint Lawrence",
+                "category": "Catholic cathedral",
+                "url": "https://www.ticino.ch/it/commons/details/Cattedrale-di-S-Lorenzo/2681.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfXIQ94hEifq65iFu4Gbxau5wJUJKIGf4QBSYf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swissminiatur",
+                "category": "Open-Air Museum",
+                "url": "https://www.swissminiatur.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOB7VwyI_aTZSqvoC3k4hW1cUkUzHg8rSNTFNL6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Piazza della Riforma",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-3bct5O606E4FBU40m6oqSwgWUss9DeDxZvry=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parco San Grato",
+                "category": "Park and Garden",
+                "url": "http://www.parcosangrato.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPo_LAzKKZ8S0ClEJuqLT2QoSBO4zNLNF-oQar1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Villa Ciani",
+                "category": "Events Venue",
+                "url": "http://www.luganoconventions.com/villa-ciani",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPh6xWJ-pO_PYSTCIByOYskGynfElV1M5Tr83Er=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monte San Salvatore",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUuoXVL8Hw8clMmt2HSBblYsStxIWFoAmpIUid=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gandria",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6QrjlhX_ejx0kAHATT2-5gC4Ga8_PFpxRMEtV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monte Brè",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP60khzMa0OwI1qBKqN_pAz7ZdvxwG9hDWqCwk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo d'arte della Svizzera italiana (MASI Lugano)",
+                "category": "Museum",
+                "url": "http://www.masilugano.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHyia1ixC9uNqrINEVVA_AQjCYIfK2i9n72qqi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cantonal Museum of Natural History",
+                "category": "Museum",
+                "url": "http://www4.ti.ch/index.php?id=26880",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN308ICdm3Bb3rYZJviks72MDi00c_k3pysykju=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casinò Lugano SA",
+                "category": "Casino",
+                "url": "https://www.casinolugano.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfvK5UferIzJHNc84FHg-EoegI0wP7k3HwS5QG=w148-h148-n-k-no"
+            }
+        ],
+        "Basel": [
+            {
+                "title": "Zoo Basel",
+                "category": "Zoo",
+                "url": "https://www.zoobasel.ch/de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZVMW0ruaUg4-6O_ti7US1z2k3cKkY3TI_OcTX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fine Arts Museum Basel",
+                "category": "Art museum",
+                "url": "https://www.kunstmuseumbasel.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHvbaBf0cM6nhzARpgShttkhawBNZRR6QOcJk9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basler Münster",
+                "category": "Cathedral",
+                "url": "http://www.baslermuenster.ch/",
+                "img": "https://lh3.googleusercontent.com/proxy/BuN5UHgCn7fisRkapiqzU5LGV3QnwYBb94r-YCrZNOjhj5KPGD_JS-hSD6q_fs5kegWVLK8JEhHGW3enzSMhKeHIU8qpJkvdKkBXnhQMbF8R2eLsyAXVNjTyCJy4CAa3H1ebPlmeglPLVDdwL3YeBZE0VmN-UrE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum Tinguely",
+                "category": "Art museum",
+                "url": "https://www.tinguely.ch/de.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ9xcPxqPO-Ma7CErQ66VZrOEKIf2FWi-pyAUH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Toy Worlds Museum Basel",
+                "category": "Toy museum",
+                "url": "http://www.spielzeug-welten-museum-basel.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcwI-qcab_FwjDb8FtVRsB7nIyCCrmX7oTwFpr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basel Paper Mill",
+                "category": "Museum",
+                "url": "http://www.papiermuseum.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtjInyT8I6twcLEo8f8yVGP8dTgWdAVDWCsp4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mittlere Brücke",
+                "category": "Bridge",
+                "url": "https://www.basel.com/de/Media/Attraktionen/Sehenswuerdigkeiten/Mittlere-Bruecke",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-7YZAoKzrhJDWlHuHTViV6E2sQFrPnbMjfzL_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tinguely Fountain",
+                "category": "Fountain",
+                "url": "https://www.basel.com/de/Media/Attraktionen/Sehenswuerdigkeiten/Tinguely-Brunnen",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPX55VJrNiaiUysSWNLFcGNlCrsfAiOio7LZ9K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rathaus des Kantons Basel-Stadt",
+                "category": "City government office",
+                "url": "http://www.bs.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiffQpeb64glZBcCrsjnv49QmeyDyqsr59Kdkt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spalentor",
+                "category": "Historical landmark",
+                "url": "https://www.basel.com/Media/Attraktionen/Sehenswuerdigkeiten/Spalentor",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjreSEpczSlBiqNa92z7-8NYYjeiDRhEgFywKL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vitra Design Museum",
+                "category": "Museum",
+                "url": "https://www.design-museum.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbNWyzotPlAtjymPBRb0QSsZAyc_U5h4hfB1ON=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fondation Beyeler",
+                "category": "Art museum",
+                "url": "https://www.fondationbeyeler.ch/",
+                "img": "https://lh6.googleusercontent.com/proxy/V6xDyL6dn1hTa4QOWXccG-db3JQiYtnUM02ZzH2gEpi2-E49ElQ_loK8ROekTVWf8kKfmvbtNS1Fthpyo7l7U3w2qw33-8V25tenKIh_fnwylUJYLOpvN0Ww2k2LtpuOW9wd3BxXE9usmWIwUfk-_Aa76Icy2R4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tierpark Lange Erlen",
+                "category": "Animal park",
+                "url": "http://www.erlen-verein.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKGI339ouVvZiCa1NlsK7ZaOxaChziwggp0HlV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basel SBB",
+                "category": "Public Transport Stop",
+                "url": "https://www.sbb.ch/bahnhof-basel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTi2ERxuky2nBEZPYM2_TizMLrSzITDJsKr1AR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antikenmuseum Basel und Sammlung Ludwig",
+                "category": "Archaeological museum",
+                "url": "http://www.antikenmuseumbasel.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUWlNTbR1Yxd8IDy09lQkm19XnyDYNnh8QY0NT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Natural History Basel",
+                "category": "Natural history museum",
+                "url": "https://www.nmbs.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-XIjkIvRuSAHOHaVJNfty-A5kog62UQqbX0g=w148-h148-n-k-no"
+            }
+        ],
+        "Zürich": [
+            {
+                "title": "Kunsthaus Zürich",
+                "category": "Art museum",
+                "url": "http://www.kunsthaus.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBs-LTQyfCmLf7T9nkrGA-GpNcdHhi1vVvYWk_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swiss National Museum",
+                "category": "Museum",
+                "url": "https://www.landesmuseum.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqecPOnxSEKHU9wwjDQrLGvLpEkKdRMR3pdWPT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lindenhof",
+                "category": "Historical landmark",
+                "url": "https://www.zuerich.com/de/besuchen/sehenswuerdigkeiten/lindenhof",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXpPeiJbF8clt957rvWwh-g5LxTYBQPvHKto_-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grossmünster",
+                "category": "Protestant church",
+                "url": "https://www.grossmuenster.ch/de/",
+                "img": "https://lh4.googleusercontent.com/proxy/5ddZqE72Xm6NMgzKnfwoQcX3LNHyANGtAY4kRhaUVHEC8mMyStEyoPsVi0mhOHo8GPndy4l4FaMaB58TSUhfbFWnycEC2ubTeOeYUbcNcbyIB2EqgOvtFg2OTUhlWkEU9BZcuqgogaWSn4fu8J6RHU3EHyx6qTk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zürich Opera House",
+                "category": "Opera house",
+                "url": "https://www.opernhaus.ch/",
+                "img": "https://lh4.googleusercontent.com/proxy/5GD918I1Obd17iY-QxyIy-H_JvXE8pab_FYeNzmKAfe4Os-M9dMxKB_0iyN6pehgAB-J5ClL-1Wp-FqBF5P7Ig7o_zYFOQi900eS3Pn-JByBvYj2SJd2T19ydFPmZ3_ipjP7OEGKomb6-mEmasMYp6amCmf4qkw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fraumünster Church",
+                "category": "Evangelical church",
+                "url": "http://www.fraumuenster.ch/4.php?read_category=2770",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEOuCAisfmyrJJByzwintMs7m-ORMdI1OyX6WU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoo Zürich",
+                "category": "Zoo",
+                "url": "http://www.zoo.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_b7qwH3GkNL2oiNPC7b41Cdv-JN3MzJWvZCcz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum Rietberg",
+                "category": "Museum",
+                "url": "https://rietberg.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZZztaeD82Cftsmau_X9uj7L6Ht43sRZ9vaU0s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uetliberg",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEEzypoiIoji1Ts_808rjeOT5rALhFlb37vvrQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahnhofstrasse",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN78IIuJwcViNUvj42mKQJ7GWPkd8a_7m4seIcC=w148-h148-n-k-no"
+            },
+            {
+                "title": "FIFA Museum",
+                "category": "Museum",
+                "url": "http://www.fifamuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOT-Tt6RZX26vFAXAGlAXvdvWphr4-BUltsLqtZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Peter",
+                "category": "Protestant church",
+                "url": "http://www.st-peter-zh.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObsLAU2yXKZ0ipeynLRaK8i2Yrr9eF8CT8Xw1M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chinagarten Zürich",
+                "category": "Park and Garden",
+                "url": "https://www.stadt-zuerich.ch/chinagarten",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxXxRJv32AAtBlQUemK0EU8F3UFU8eq7F7C6B4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lindt Home of Chocolate",
+                "category": "Museum",
+                "url": "https://www.lindt-home-of-chocolate.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwCJpQFiUe4rj3tLE6H9iNW5MG2uZfzvbHqxwK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanical Garden",
+                "category": "Botanical garden",
+                "url": "https://www.bg.uzh.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORSOFAIspkBbJpkQa63Tqm-ngQ2goU9q1Z8STn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zurich HB",
+                "category": "Public Transport Stop",
+                "url": "https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/shopville-zuerich-hauptbahnhof.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPT6aiFy9eOGgpx1ByHYBbxX3fy4G_rSPcSnMzv=w148-h148-n-k-no"
+            }
+        ],
+        "Genève": [
+            {
+                "title": "The Geneva Water Fountain",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOltutFd_U0z4akJFdXW3kbbFFMnuuIjl7UNu2k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bains des Pâquis",
+                "category": "Outdoor bath",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPphuU-m0e_CNPV4hg66aVWpXJmeSd8j8LwqQ0=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Pierre Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvs_OVwWrYWZteWFERXqAXSohn91DlVKrBeATF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muséum d'histoire naturelle",
+                "category": "Natural history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOozHq2lkenyviUKZ7qQybsxULrUiQ_yhLT5rR5=w148-h148-n-k-no"
+            },
+            {
+                "title": "International Museum of the Red Cross and Red Crescent",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4Jd_PRsaPn23EFL37Ym3J6E8u2qO-n2l8RPbK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Patek Philippe Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEcc5308rkSrYTU2jy8OpFaev83jCpkI2xDHw0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Conservatory and Botanical garden Geneva",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRw1UAJRjjgUxSTMAcRQfOkFhxdpEjpe2Y8-0D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée d'Art et d'Histoire",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHrFLQ6wGHgpkRLLYJQj-tJ2Q7YbkF86kpjmif=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palais des Nations",
+                "category": "Conference Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNu1FQ5HIvQf6NTM80TbejRE7lsQhjpm_sHMJtP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardin Anglais",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGC0WD9UorU1RZGSdNdGLE93MBUzkimIwb31cj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tavel House",
+                "category": "Local history museum",
+                "img": "https://lh3.googleusercontent.com/proxy/wXne3dps082El41Ok5u2UtnR5fnP0FCpfx9gdTItKY1JiKp99nQb8_c0w6kP19ZZALx2z8JmuFAdSOrI67-nM1Yt5CTNOfAzoDxzjZnu6E2vyymuij43imxRKgWOZuI4BfXmHrGUPXb5UNjsZLsjPWybi8Ljyw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reformation Wall - Paul Landowski",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1-y8BBRmunsa26B35vlty2S39reip9NjqQAvm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Place du Bourg-de-Four",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOluFQOG5R2_5j3sPZgCKFY2eG--0nMKESzyqDO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc Mon Repos",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtNrrM4egz0cqY5nW5n5-18GBk8uMhiUtAUFqi=w148-h148-n-k-no"
+            },
+            {
+                "title": "MEG - Musée d'ethnographie de Genève",
+                "category": "Ethnographic museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSZdfJumEz018MBkRMOCkcl5j6DUUpZUKKLIt3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chillon Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaApJnlRzCopWyBTtYPVhTMh1_vDMrobQmNzMZ=w148-h148-n-k-no"
+            }
+        ],
+        "Sankt Gallen": [
+            {
+                "title": "Abbey of Saint Gall",
+                "category": "Monastery",
+                "url": "https://www.stiftsbezirk.ch/de/kloster-st.gallen",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOg5oLJgXYgrGA1HFV3kLT9V-mjVZZWE1U_zQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natural History Museum St. Gallen",
+                "category": "Natural history museum",
+                "url": "http://www.naturmuseumsg.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxW50GyZwRcr9TbxyCrV6S5QQiIRREzq-EdPZt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wildpark Peter und Paul",
+                "category": "Wildlife park",
+                "url": "http://www.wildpark-peterundpaul.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1V2sDSmSJa9yHqkBN8dwpyAUvhvQXwB2q38JQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanischer Garten",
+                "category": "Botanical garden",
+                "url": "https://www.stadt.sg.ch/home/freizeit-tourismus/gaerten-parks/botanischer-garten.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYmxtPG-an-oDEkTXACq874TpoK5K0FtNphZ4b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abbey Library of Saint Gall",
+                "category": "Library",
+                "url": "https://www.stiftsbezirk.ch/de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMr2gRM83BhTKie3DGiyDaztrmAN3wYlPCnONpk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Drei Weieren",
+                "category": "Park and Garden",
+                "url": "http://www.st.gallen-bodensee.ch/de/finder-adventure-sgbt/drei-weieren-1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmSxiMKbL8DDM2t19hBZFqXFHcbHv6AiVNlZph=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Gallen Cathedral",
+                "category": "Catholic cathedral",
+                "url": "https://sg.kath.ch/kultur/post-1/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWuHH66B7d9xGCdjhEWDs7vq2CINqOFd3nTjwB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Walter Zoo",
+                "category": "Zoo",
+                "url": "http://www.walterzoo.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3BguQ50ObBbEKGL6yubHymdgUTz1l-KGFrE-q=w148-h148-n-k-no"
+            },
+            {
+                "title": "St.Gallen-Bodensee Tourismus",
+                "category": "Tourist Information Centre",
+                "url": "http://www.st.gallen-bodensee.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZidCTP9g0r816gzo-R6U_mj0TSGOEQxoV7aJl=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of St. Gallen",
+                "category": "University",
+                "url": "http://www.unisg.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOanH5yOfO4r8COZsIrzTT3oOxnpavQm_NMS2Ok=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Laurenzen",
+                "category": "Reformed church",
+                "url": "http://www.ref-sgc.ch/index.php?id=91",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv6LpBgKT4y2Wmh7tAhuYCb586czGVnAeKNIxa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roter Platz",
+                "category": "Tourist attraction",
+                "url": "https://st.gallen-bodensee.ch/de/poi/roter-platz-stadtlounge-st-gallen-3a609ccf-c91a-4efc-b626-f2fcb5ec6599.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEe-ftz_bX3lifU_1OvXqxFkSAaWdK64ZpXsoE=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Gallen museum of art",
+                "category": "Art museum",
+                "url": "http://www.kunstmuseumsg.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWF1fKeyXeVUbI9mWny2Pot430N2gEO02GMQW-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gemeinschaftsbad Dreilinden",
+                "category": "Outdoor Swimming Pool",
+                "url": "https://www.sport.stadt.sg.ch/home/baeder-sauna/gemeinschaftsbad-dreilinden.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOEe-Ca61LTfyiGGF583LUstbUX1o71DR-RLDx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kybunpark",
+                "category": "Stadium",
+                "url": "http://www.stadion-stgallen.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7MipvpoYGAVTkdH2-NLaltTqPIKj-2nbXHLdf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Historical and Folklore Museum",
+                "category": "History museum",
+                "url": "http://www.hvmsg.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdKEa7F4T10j7DVs20J-jq5eNFHFwuv0yWowqx=w148-h148-n-k-no"
+            }
+        ],
+        "Lausanne": [
+            {
+                "title": "The Olympic Museum",
+                "category": "Museum",
+                "url": "https://www.olympics.com/museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMz3FbHMLhbjnDbV6J7kYHn35PLGF-EqYdTHYDC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lausanne Cathedral",
+                "category": "Cathedral",
+                "url": "http://www.cathedrale-lausanne.ch/accueil/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPWQb2e4hhJQQR1BuPzgYjtRWyTl0xZTDf9qAU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cantonal museum of fine arts Lausanne",
+                "category": "Art museum",
+                "url": "http://www.mcba.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdGVYos4te45yQWrQPsTsXmujkieYLshsyWwcd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Collection de l'Art Brut",
+                "category": "Art museum",
+                "url": "https://www.artbrut.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxar452729RjE7h16Fwc2AryX5brZqCi_VDZPC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hermitage Foundation",
+                "category": "Art museum",
+                "url": "http://www.fondation-hermitage.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYKKhMO1RQGKO_70Y5S7nq5ORYR-6dUJFMJ3ty=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chillon Castle",
+                "category": "Castle",
+                "url": "https://www.chillon.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaApJnlRzCopWyBTtYPVhTMh1_vDMrobQmNzMZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sauvabelin Tower",
+                "category": "Observation deck",
+                "url": "http://www.tour-de-sauvabelin-lausanne.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE9MzTqbdrv-J-bCAA4TahQ2-n9So3wIyemVYl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Place de la Palud",
+                "category": "Tourist attraction",
+                "url": "https://www.lausanne-tourisme.ch/fr/decouvrir/place-de-la-palud/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVKlQxQnBWYqGWoQvCcX9VE2msQSX6qtEiUs4k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Château d'Ouchy",
+                "category": "Hotel",
+                "url": "https://www.chateaudouchy.ch/",
+                "img": "https://lh5.googleusercontent.com/proxy/XD7yjTXi9Zty6UaDNya0Iz-YePQc6ntxbzFDhEYZBUv3r2Q4rU2n7ng0OUlN__3jrszB3mt8eGG-hFqaNS8k8PEssHKtlTFR_isE3q61qWeXhDTjM31zDwRZCJEnOjSNMqUEkY3kmJZh7QDuUnCFEP4xwy0bhs4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc Olympique",
+                "category": "Park and Garden",
+                "url": "https://www.lausanne.ch/vie-pratique/nature/parc-promenades/parcs-de-detente/parc-olympique.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLu4rlqUwB8jYqbmgfJMnzBLG6He2QgfRioZ9G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roman Museum Lausanne-Vidy",
+                "category": "Archaeological museum",
+                "url": "https://www.lausanne.ch/vie-pratique/culture/musees/mrv",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMR51MkUmMFzi7GDL0SW4bH5eH3QeqA12f4zd8M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée de l'Elysée",
+                "category": "Museum",
+                "url": "https://www.elysee.ch/",
+                "img": "https://lh5.googleusercontent.com/proxy/EnD1rmfhFgfwD1FPXyRXCVoMLGa6PbWjBv4AkVlTDt89jvEAy6xhLaZBuO6Eii6JDa3ejYmy2K7gmXO82fJtDI9gZciBE1LuPOVDpJTgqAceShdO0HsejegtGxb0qmxrqxVJfmhHJrmBOkXetYrwZzLqfvQyhcI=w148-h148-n-k-no"
+            },
+            {
+                "title": "AQUATIS Aquarium-Vivarium",
+                "category": "Aquarium",
+                "url": "https://www.aquatis.ch/?utm_source=MyBusiness&utm_medium=Earned",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCE85GFU-KZ6En48-gFm50P4ysHJEgwCXI7LJQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc de Mon Repos",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlIlgz5yGUC_OL2RCQcskSfitFpK1eI4RpZLi7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc de Milan",
+                "category": "City park",
+                "url": "https://www.lausanne.ch/en/vie-pratique/nature/parc-promenades/parcs-de-detente/place-milan-cret-monriond.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOo4QKIYbcT8DHeqTB0jDRSL7SweA91t0k8LcA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parking Indigo Lausanne Port d'Ouchy",
+                "category": "Parking Garage",
+                "url": "https://www.indigoneo.ch/fr/parkings?service=booking&vehicleType=car&searchText=Lausanne%2C%20Switzerland&longitude=6.6322734&latitude=46.5196535",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6wExpfo-PIFz1dUtefEcyPeZG8QboSbQ74OS9=w148-h148-n-k-no"
+            }
+        ],
+        "Winterthur": [
+            {
+                "title": "Swiss Science Center Technorama",
+                "category": "Science museum",
+                "url": "http://www.technorama.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeuWjWytrf7XiRq_5c4PtLA-DxZq8Fzg-C6x3r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wildpark Bruderhaus Winterthur",
+                "category": "Park and Garden",
+                "url": "https://stadt.winterthur.ch/themen/leben-in-winterthur/freizeit-und-sport/ausflugsziele-freiraeume/wildpark-bruderhaus",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9TGrEwBW9wh9fAL1IvNMSHs2PrMZc0k6Szqi4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fotomuseum Winterthur",
+                "category": "Museum",
+                "url": "https://www.fotomuseum.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNopX5SKZCcXg9jmph92JICmYXKXc40BBzbzKkc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunst Museum Winterthur | Beim Stadthaus",
+                "category": "Art museum",
+                "url": "http://www.kmw.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6XF_aINSCH0PTtLDXA8HT1KYVsl60oFaWo5mh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eulachpark",
+                "category": "Park and Garden",
+                "url": "https://stadt.winterthur.ch/themen/leben-in-winterthur/freizeit-und-sport/ausflugsziele-freiraeume/anlagen-garten-und-parks/eulachpark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxZDs3sDxA6d8I_M5mJZG6CxYQdsLxQRQ1S9b-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oskar Reinhart collection Am Römerholz",
+                "category": "Museum",
+                "url": "https://www.roemerholz.ch/sor/de/home.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjNy19gOEX4JZrtMFrJXWmeGG5QjcSOXwxM746=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Kyburg",
+                "category": "Historical place museum",
+                "url": "http://www.schlosskyburg.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhUASPSKctrwPPx-3CLUBY833c3xDMR4Z_1dLa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunst Museum Winterthur | Reinhart am Stadtgarten",
+                "category": "Art museum",
+                "url": "https://www.kmw.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQNrHBTiVWNTFNkM8MlhRgbca0e4_53upYHjNG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bäumli Aussichtsterrasse",
+                "category": "Observation deck",
+                "url": "https://stadt.winterthur.ch/themen/leben-in-winterthur/freizeit-und-sport/ausflugsziele-freiraeume/anlagen-garten-und-parks/baeumli",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOe2p4eOMC18yLN81eRZ3hQZKvU4pAuev4rQi-y=w148-h148-n-k-no"
+            },
+            {
+                "title": "SKILLS PARK",
+                "category": "Recreation Centre",
+                "url": "http://www.skillspark.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRU-5dqQBBRa4RZrvfIDrgfgCUHZPxwFC6A3Pi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Villa Flora",
+                "category": "Art museum",
+                "url": "https://www.kmw.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObk12nrqCP01GeMDceOWmETC5hZk1JjRmls06X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Windwerk AG",
+                "category": "Sports complex",
+                "url": "https://www.windwerk.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOCzKUzvQXxk06IAxVxGK6QXQUPAY8M8yGv0I3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gewerbemuseum Winterthur",
+                "category": "Museum",
+                "url": "https://www.gewerbemuseum.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcWXp4m3wn7hayIvQMTJcao-xLP6SHSPpxqS5k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fraumünster Church",
+                "category": "Evangelical church",
+                "url": "http://www.fraumuenster.ch/4.php?read_category=2770",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEOuCAisfmyrJJByzwintMs7m-ORMdI1OyX6WU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rosengarten",
+                "category": "State park",
+                "url": "https://stadt.winterthur.ch/themen/leben-in-winterthur/freizeit-und-sport/ausflugsziele-freiraeume/anlagen-garten-und-parks/rosengarten",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxMFkdbjoKmdzRL855ek5SfQSemzxq7cKLdg38=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fotostiftung Schweiz",
+                "category": "Foundation",
+                "url": "https://www.fotostiftung.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXwfFI27eIiGuXE8CcS_ElkgaQB5WDAgIBwMau=w148-h148-n-k-no"
+            }
+        ],
+        "Zürich (Kreis 11)": [
+            {
+                "title": "Zurich HB",
+                "category": "Public Transport Stop",
+                "url": "https://www.sbb.ch/de/bahnhof-services/am-bahnhof/bahnhoefe/shopville-zuerich-hauptbahnhof.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPT6aiFy9eOGgpx1ByHYBbxX3fy4G_rSPcSnMzv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flussbad Oberer Letten",
+                "category": "Outdoor Swimming Pool",
+                "url": "https://www.stadt-zuerich.ch/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_oberer_letten.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMlRoUUs3aO-_FlXJibR5OAQEmrgJ5mxpieJDu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Platzspitz",
+                "category": "State park",
+                "url": "https://www.zuerich.com/en/visit/nature/park-platzspitz",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_YngQCU3hnZsWCzRu3688zvyqwm4d0T_zOEES=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rhine Falls",
+                "category": "Tourist attraction",
+                "url": "https://rheinfall.ch/de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3C5f-WZZEQWewZ_1wFbhkPUyHBPDeKJMHzlpm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flussbad Au-Höngg",
+                "category": "Public swimming pool",
+                "url": "https://www.stadt-zuerich.ch/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_au_hoengg.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyxTfrGdEmEd59MMKU-mxCskWqOalNYNYrRW3y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lindt Home of Chocolate",
+                "category": "Museum",
+                "url": "https://www.lindt-home-of-chocolate.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwCJpQFiUe4rj3tLE6H9iNW5MG2uZfzvbHqxwK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chinagarten Zürich",
+                "category": "Park and Garden",
+                "url": "https://www.stadt-zuerich.ch/chinagarten",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxXxRJv32AAtBlQUemK0EU8F3UFU8eq7F7C6B4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arboretum Zürich",
+                "category": "Park and Garden",
+                "url": "https://www.stadt-zuerich.ch/ted/de/index/gsz/natur-erleben/park-und-gruenanlagen/parkanlagen-von-az/arboretum.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOh85enOTS3QqLaSNcx0ZE5NBH4w4jBq8rwKzoV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Crow",
+                "category": "Bar",
+                "url": "http://www.oldcrow.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZEDAQNknVBxCJgFxLw5x5bG2SiU1fshuTSRG4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seebad Enge",
+                "category": "Swimming pool",
+                "url": "http://www.seebadenge.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipME2ON_pbOnTYdVXOTXRLCFx7ZCOI_SRValJEGR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadtgärtnerei",
+                "category": "Park and Garden",
+                "url": "http://www.stadt-zuerich.ch/stadtgaertnerei",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3MHlEtJoG1-WxYdKHM9TKzirSt5lOmfLRHlq8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Strandbad Mythenquai",
+                "category": "Swimming facility",
+                "url": "https://www.stadt-zuerich.ch/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_mythenquai.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMshW8lJo4DEWmeLywwBfcMpPOxYIfOmfblt3-y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Kyburg",
+                "category": "Historical place museum",
+                "url": "http://www.schlosskyburg.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhUASPSKctrwPPx-3CLUBY833c3xDMR4Z_1dLa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Einkaufszentrum Glatt",
+                "category": "Shopping Centre",
+                "url": "http://www.glatt.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHyeO3ddtHcUNBWgjh9qCz21gnTGeXaRGrJJ6n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sukkulenten-Sammlung Zürich",
+                "category": "Botanical garden",
+                "url": "http://www.stadt-zuerich.ch/sukkulentensammlung",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgehhNwodQxXhB41_Qc4tNjofzuqby-cd2PlKL=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZAZ Bellerive - Zentrum Architektur Zürich",
+                "category": "Cultural centre",
+                "url": "https://www.zaz-bellerive.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZzAa5vGATdr1zpqSBhqc0sPotZnn0O3ldinoE=w148-h148-n-k-no"
+            }
+        ],
+        "Bern": [
+            {
+                "title": "Bear Pit",
+                "category": "Animal park",
+                "url": "https://tierpark-bern.ch/baerenpark/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1wzGAWM-7AJpe8VeFLgpTCLsBNFeL5h9v3J3v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bernisches Historisches Museum / Einstein Museum",
+                "category": "History museum",
+                "url": "http://www.bhm.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-hFUoPadYdz8hBxwH-OaClM5DXgO41ui4uEOo=w148-h148-n-k-no"
+            },
+            {
+                "title": "UNESCO - Bern Old Town",
+                "category": "Historical place",
+                "url": "https://www.bern.com/de/detail/stadt",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYJj6dcmng-FkymrDMpsHvnyXcZvQSAf--b17X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zentrum Paul Klee",
+                "category": "Modern art museum",
+                "url": "https://www.zpk.org/en",
+                "img": "https://lh5.googleusercontent.com/proxy/FySx0yv2JQJBJoybJCLclxtP2PNKOXW4qdgmaivxtuHpgsVqv7uKl3jdfjyZhAxB5QwdoMADwz4zaYmF_5OIDxUBgDj6y6rKUmKa8n7wztWTwREUcjQEucHa7CUIMyh_FIN4NfXCYSY1C9jNVzlllA0EW7aj6mQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Bern",
+                "category": "Protestant church",
+                "url": "https://www.bernermuenster.ch/",
+                "img": "https://lh3.googleusercontent.com/proxy/mxItrAle7RwkQbqJOAj0_y4Z_XJu1y_mI-te7mGWcqMnWbv2TiFL88S6Pwm5RpwlH-95-a3fq5yB84ElQWguxVln8rbdjJyxS5vKvlqnpqlCFFTY5NtHDE4EyvAQ8DkYbo-SdBBDl-I0KDl2i1PzOqVC_2lYBg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zytglogge",
+                "category": "Tourist attraction",
+                "url": "https://www.bern.com/de/detail/zytglogge-zeitglockenturm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi9bIXuqdtRtdwzQ6WBRHsGsdhAOx0hbCPfxZ8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Restaurant Rosengarten",
+                "category": "Restaurant",
+                "url": "https://speisekartenweb.de/restaurants/bern/restaurant-rosengarten-259018?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTkMKAASnJO8nG3GlL_lQT4bDFGstQ6Ug5_tc5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Käfigturm",
+                "category": "Historical landmark",
+                "url": "https://www.bern.com/de/detail/kaefigturm",
+                "img": "https://lh3.googleusercontent.com/proxy/niG0GZ7vbZtm68jc1QSd6-JKVs7HIrYFadZiC6qRz5Duy4A0cq0hr93xEzio5JuyLZWGFBE8Q1ZA_3efF6VlkP-qbnQFEoXnMTju2PD3miDTBaRJ9hVdOkt-TBQZuroN9DnLmlFYUq2j9uZ_BYIgY230a2S7Mg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoo Bern",
+                "category": "Zoo",
+                "url": "https://www.tierpark-bern.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhe_ry-bjOZJk0o2v5JTVoO5Hpe04hozU2w4mM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rosengarten Bern",
+                "category": "Garden",
+                "url": "https://www.bern.ch/themen/freizeit-und-sport/grunanlagen/wichtige-parkanlagen/rosengarten",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjn9aIjwP3kI65jwz6AcmryPqiLyqehVTjZ7hh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Communication",
+                "category": "Museum",
+                "url": "http://www.mfk.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_4WxGIht-P6YHfmnwaI2mgLPuiwJyvKl86paB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Einstein House",
+                "category": "Museum",
+                "url": "https://www.einstein-bern.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMA71VkKta9dxze0NdAzXKlMRxVoPOVyUzjGUqt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Fine Arts Bern",
+                "category": "Art museum",
+                "url": "http://www.kunstmuseumbern.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU8-cr6-XrwlUao0joElILAEGnGhPZJMf-eK7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Parliament Building",
+                "category": "Government office",
+                "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/parlamentsgebaeude",
+                "img": "https://lh4.googleusercontent.com/proxy/PFyI4eVIZ-Z_gDCm6jv4gq6Xl-MMFPiYufbcQ40lkY2i5DkVeXen9trGV7c9ojcMdBCxOli0n_95MyZeR57HrG8WQG1jOSH9xzg8a2d5jVcPMsPcbS_tuMbuRNV_tLR_3QFyfFJBvcS_mH23DJetV0KJmgF3Pc0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Naturhistorisches Museum Bern",
+                "category": "Natural history museum",
+                "url": "https://www.nmbe.ch/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtxtoEnY-QIOJIfwsG-v18SAcutaihycI7j3Y3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Freibad Marzili",
+                "category": "Outdoor Swimming Pool",
+                "url": "https://www.sportamt-bern.ch/sportanlage/marzili/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTlmJadXYPnI1GGptNdcxFM7Sa9Ss12rGzubbD=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Rhine Falls",
+            "category": "Tourist attraction",
+            "url": "https://rheinfall.ch/de/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN3C5f-WZZEQWewZ_1wFbhkPUyHBPDeKJMHzlpm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chapel Bridge",
+            "category": "Bridge",
+            "url": "https://www.luzern.com/de/highlights/die-stadt/kapellbruecke/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPIcH_RsHfNMwzaNLZVwiG68lsrKZMKjS14pmk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Zürich",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP28dyerkgsbs2MG2qQa7pyy0mcAdrBuA9ENjhz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Zermatt",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPt8me81_Vm3KfBrrvH8CcukqqNQgC1rMSM1rL5=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Geneva Water Fountain",
+            "category": "Tourist attraction",
+            "url": "https://www.geneve.ch/jet-eau-geneve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOltutFd_U0z4akJFdXW3kbbFFMnuuIjl7UNu2k=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lion Monument",
+            "category": "Monument",
+            "url": "https://www.loewendenkmal-luzern.ch/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOUJnfgf_tX-VBUz28ILEN29WCRPLAVT7cncSec=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kunsthaus Zürich",
+            "category": "Art museum",
+            "url": "http://www.kunsthaus.ch/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPBs-LTQyfCmLf7T9nkrGA-GpNcdHhi1vVvYWk_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Swiss National Museum",
+            "category": "Museum",
+            "url": "https://www.landesmuseum.ch/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNqecPOnxSEKHU9wwjDQrLGvLpEkKdRMR3pdWPT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Zoo Zürich",
+            "category": "Zoo",
+            "url": "http://www.zoo.ch/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM_b7qwH3GkNL2oiNPC7b41Cdv-JN3MzJWvZCcz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Grossmünster",
+            "category": "Protestant church",
+            "url": "https://www.grossmuenster.ch/de/",
+            "img": "https://lh4.googleusercontent.com/proxy/5ddZqE72Xm6NMgzKnfwoQcX3LNHyANGtAY4kRhaUVHEC8mMyStEyoPsVi0mhOHo8GPndy4l4FaMaB58TSUhfbFWnycEC2ubTeOeYUbcNcbyIB2EqgOvtFg2OTUhlWkEU9BZcuqgogaWSn4fu8J6RHU3EHyx6qTk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Swiss Museum of Transport",
+            "category": "Technology museum",
+            "url": "https://www.verkehrshaus.ch/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjPs9IQGgiFSv0w2zxni0bRbGI2YOjrlyJpShO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lucerne",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjJ2fLCwtNcCnDnmoTSIener9VKFTVtKOTcNFL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fine Arts Museum Basel",
+            "category": "Art museum",
+            "url": "https://www.kunstmuseumbasel.ch/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMHvbaBf0cM6nhzARpgShttkhawBNZRR6QOcJk9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bern",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPQcG_frelrQwlbFIP8GVKxTmMjfLFNrsPBKAYU=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Olympic Museum",
+            "category": "Museum",
+            "url": "https://www.olympics.com/museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMz3FbHMLhbjnDbV6J7kYHn35PLGF-EqYdTHYDC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Interlaken",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNEzMqkgkhGbnhBmrEIHUNchGanYsJL_IEgO0nn=w148-h148-n-k-no"
+        }
+    ]
+}

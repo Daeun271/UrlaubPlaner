@@ -1,0 +1,704 @@
+{
+    "cities": {
+        "Tacuarembó": [
+            {
+                "title": "Balneario Iporá",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwS7mmSMYAhVvkjLikhx7wN0-Owicvl__tLw7y=w148-h148-n-k-no"
+            },
+            {
+                "title": "FordT City Hotel",
+                "category": "Hotel",
+                "url": "http://www.hotelfordtcity.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/3mnClFE4NGK73MWJSuizlFEWNqmI_YUogM9NZQN1GBdvXKxP4mQIjkkfRzgWET-ER41Vm7dHkAzN_q9QkcqEFXWlBszdtXlK0btyVPyHcG_rLp7mrNIAmJzI4kTp1KKDnfrE3S3mt7jQOvYXkL4J5az4kv4Z2Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Indian Museum",
+                "category": "Museum",
+                "url": "http://tacuarembo.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNY2DumiWtG2C069P6tXL4mj6kyIsl8InsSa1L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muart, Museum of Visual Arts in Tacuarembó",
+                "category": "Art museum",
+                "url": "http://tacuarembo.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTxu4HK5k2dFzDXOaSXjIXmdbS1RV96MGXt-7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carlos Gardel Museum",
+                "category": "Museum",
+                "url": "http://tacuarembo.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXpgP1p2hS1qcFvTXfhQj-CAxCKTggL-XZ5dTL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo De Geociencias",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMAqx0TBSA03Fd1cnqyR63GMW9UHSwYugj8NX8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Abierto de Artes Iberoamericano de San Gregorio de Polanco",
+                "category": "Museum",
+                "url": "https://www.facebook.com/expresartecultura",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIHAOGhpTzJ54Y0tJxb0QgNtmt-0zzT4D7aV5g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deep Well",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxuxWVLHX7smZTz9wMHN08QiCWJGd1RScUs16H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valle Edén",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk07FBRRsVTEmjk9yS-EEFpU0RtjlfOhlW6gmT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gruta de los helechos",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgO9-qW8OcvOHkAKc0oO3KSXBCgFPGIcI2CxJW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Polideportivo Tacuarembó",
+                "category": "Sports complex",
+                "url": "https://www.facebook.com/195387287909841?referrer=whatsapp",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU7h23RLmKGwao71N09M4WxjE0neVI4CWgluKC=w148-h148-n-k-no"
+            }
+        ],
+        "Salto": [
+            {
+                "title": "Salto Shopping",
+                "category": "Shopping Centre",
+                "url": "https://www.saltoshopping.com.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvNz3TRRtdVdVy2EFSBEPXICNJ8Dq1Fl_--hiI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Artigas",
+                "category": "Park and Garden",
+                "url": "https://www.salto.gub.uy/menu-gobierno/oficinas-y-horarios/item/431-espacios-verdes",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMoX_RHBSOBXH6pFB1YEkPnlqRaSLm62JkVOcyS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Larrañaga",
+                "category": "Performing arts theatre",
+                "url": "http://salto.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPXv_gPPDX-_JbyREkUmoZbkcrYNmGnbMRcUyh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Man and technology",
+                "category": "Museum",
+                "url": "http://www.salto.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfqP5mve8WLPaBSYl_vO5g0hqb_wnbnXhIUp95=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Bellas Artes y Artes Decorativas \"María Irene Olarreaga Gallino\"",
+                "category": "Art museum",
+                "url": "http://salto.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkVL0zrEvwTghZ4jpZAxoNgntD66dV1gl1K0Lc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acuamanía Water Park",
+                "category": "Water park",
+                "url": "https://www.acuamania.com.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFz0hOG2N2TBP3UXBwhgXlhnkoxo8GWIEvto0c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia Nuestra Señora Del Carmen",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsD6lUF0MtYS7gAd5d6gqzsAClD_72ExCFrfXz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquatic Park Termas de Salto Grande",
+                "category": "Water park",
+                "url": "http://www.parqueaquatico.com.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjEfoTI1rHHU8BKB8ddrD8cek6v7O2wHmCswd8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grotto of Padre Pio",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9CxpVlQHii9C5RpYnmRBOqvfNFXEx23mD-zM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Salto",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMdvLEF4xBWB4XrUPJhkem0X-Uyb5tx15fVtAv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thermal Park Agua Clara",
+                "category": "Aquatic centre",
+                "url": "https://parquetermalaguaclara.com.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj65hII9DQ5pPAzQswVrap8DEP6l6EAINmw2cD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cantera El Terrible",
+                "category": "Quarry",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxCBuda6UF9aK9F1me_wCXhtAJHCK6js8lHbn1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Termas del Arapey",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQMaeFUE9YDBs97a-y1AEbHE9oicnLe_v8-EKu=w148-h148-n-k-no"
+            }
+        ],
+        "Rivera": [
+            {
+                "title": "Siñeriz Shopping y free shop",
+                "category": "Duty Free Shop",
+                "url": "http://www.sineriz.com.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiuNKi7DmVk0Mmo2fFGeemaB6Qu0lDoZ49jrQ9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça Internacional",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM6QPDah-JjlLdtEQkrgkv6w7aFb9ZSqLIjiU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Casino & Resort Rivera",
+                "category": "Hotel",
+                "url": "http://www.riveracasinoresort.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQOV6nRKrZ0OMhwYdn_yIniypfmwuLofiGr8bd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barão Free Shop",
+                "category": "Duty Free Shop",
+                "url": "http://www.baraofreeshop.com.br/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1Eelnly9pLjNOEHlnYMIBHHSAhOiqPcZwaSVt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza July 18",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoXhT_c2UxFX43yObKM964DtoP3no9GXawgqYD=w148-h148-n-k-no"
+            },
+            {
+                "title": "My Zoo De Rivera Uruguay",
+                "category": "Animal shelter",
+                "url": "https://www.facebook.com/EnUruguayTambienQueremosALosAnimales/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY-3kJ8ca6T61BTDJ9Ik5nxEg0SzbZew67F3JL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Municipal \"15 de febrero\"",
+                "category": "Performing arts theatre",
+                "url": "http://www.rivera.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcU_EyrO2d2gFR3SrU57zZfoOHXxQLj2TzHnBP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Atilio Paiva Olivera",
+                "category": "Stadium",
+                "url": "http://www.rivera.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOq-62Dm5yw_rs5IWJM1At1FvcdEJbyOUkk6MGe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Class Free Shop",
+                "category": "Duty Free Shop",
+                "url": "https://www.facebook.com/ClassFreeShop/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMN_6LDOtF5bQSnOqzww3-XL1SPc6MyeEPta1mO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skatepark Rivera",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjlj5V5hWz8yx0qSBpgu0px3u3hv8U_pRxTwXh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gran Bretaña Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvS0YJ70nwmm_iapVxfQbmG7zK-hmF181khHAY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro del Marco",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJqKVwlwfPFrXcKJEhNTvGfUzNEjXwD-ILTnt1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza General José Gervasio Artigas",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfxPYbnTJQDyj0XgQfqEiByXpaD2drX-AXktpZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque natural regional Valle del Lunarejo",
+                "category": "National park",
+                "url": "http://lunarejo.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRRzik7wh704lYDfLgdedCnrccq1Eohsrl0_6A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bodega Cerro Chapeu",
+                "category": "Winery",
+                "url": "https://www.cerrochapeu.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4ayMcftQQHyzrL7QpOO1gt8OQzXnR9q-CU4Rn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lagos del Norte",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTSlsXkLdlNOd_0IRQ9o5kT81LwJOvmyrbQF_T=w148-h148-n-k-no"
+            }
+        ],
+        "Maldonado": [
+            {
+                "title": "Parada 16",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO39J7YsHMPOsB2kJSquvsPSUJIeeLPyWnbfky_=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Jagüel Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhQILrfmOQBNhQyZp5unpWw2kiGNMmnWrpiiK9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bikini Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS7170HZQgQUoRPT7FzKpY-Bgcq23iENgGQaFM=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Barra",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfTXnlXU4teIRVH8dnlRF3_z1wLMBX18r37oEr=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Barracks of the Dragons",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNekWYN7Eeh9saPh1kYcYP00a-Y9eY8mfXjRWpl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Domingo Burgueño",
+                "category": "Stadium",
+                "url": "http://www.maldonado.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzccFp0RQaUl9j6yqAxC5BijPa8Z_5F498DksI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo de La Aguada",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRR-N6eAv-BrErxh3gZABI1WQiYTpOllPS-v3e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of San Fernando",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3BP8YSQma159wtrD6GJxPl2eab7kODe1U7GQE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Casapueblo",
+                "category": "Art museum",
+                "url": "http://www.casapueblo.com.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbxYRZBHO_cmDBRQcex-iC5AlDCuJ8pn0wI0kE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady of the Candelaria",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCx0Tpr9SZTGKSuFGs3q3uJy9HrgIfRpHS_2TF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Restaurante La Vista",
+                "category": "Restaurant",
+                "url": "https://acortar.link/8bKVaI",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcwDNKtRbwKzsLM23cpHTjYfbnaRQTARQ5nGYX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faro de Punta del Este",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhxqpZF9mIzKy3Z-we1S222MFWaQIznEEEC9Vn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Arte Contemporáneo Atchugarry",
+                "category": "Art museum",
+                "url": "http://www.macamuseo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPh9-_jxfmmA7Up0nHVaM9XdF2GFSAwJULiHVdb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Montoya Beach",
+                "category": "Beach",
+                "url": "http://montoyabikini.wixsite.com/colorado-18",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Cr3J_NUOEDJHTlPwtG66vWts-1dPybuUMjCE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Punta Ballena Market",
+                "category": "Farmers' market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPldMu7q0wyVo9qK3zTBdoJ-CY_kM3Lfm_WQLHi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna del Sauce",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4DPbeEUFb5hBMLPTzf_YkOlw7AX_VJtplxN-9=w148-h148-n-k-no"
+            }
+        ],
+        "Montevideo": [
+            {
+                "title": "Solis Theater",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/proxy/M1GnsTkGufqUzUFT3lHSIaJEEGnzXNaqA-HsLL1CbgusqAim6ACwm5rr3ca83yFX2Yf-i53X74849Iwcn81pZ7i1AffdjniEQ5qvpHf2_htm1tAbNuXAObXhkRcfZsjGzVZVuOw2AUJmUx889sFwiq7reMk0-Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Juan Manuel Blanes",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMjIQNNDR772204n6Wemc2niJaDbHQ4nEOa1Rp=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum Of Visual Arts",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP018xRhopRJ9aRUU27VoKpiswdUrWzbazpDf09=w148-h148-n-k-no"
+            },
+            {
+                "title": "Port Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsolTy21nv9dcua_acNKcrRVH08h8s9aUEMqZa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feria de Tristan Narvaja",
+                "category": "Fleamarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQwhsinfOvE7FMy_cOW-7yqEAF5uUuGtnuMp1b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercado Agrícola de Montevideo",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKgHQ2XKYlmFugS2aaJQGZnnm3AzDwjB8UUb4o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prado Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEPsJ8JuNf5KnayiyEVlDpJHoPmAGsJyX7gwLe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Centenario Buenos Aires",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOz08LVl1YzsCbb-OSRTYNvkBJzH_MvOv5UMscN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortress General Artigas",
+                "category": "Army museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAa6AnA6UbRICoUkO5S9cozNbbtXojWczkekM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo del Carnaval",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7sjcgZcOdoeflaRxaBYw145ImOAa2j5KA0j6T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Salvo",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/CATTTomiHt1Ze7QTuUrYnJzp3f50SfgPOg9uwvcdmtK6Y95c4HsLgPx8IZdsezvf8klK5ZUqluV-K2Lb9tYkPT3XisWmfnwsKdy1-zy7Jkm3k-A59KJL03JF9a5mAL7VB4YGTW0t72bjD5dlmZ2gy_ymrMycF9E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Universo Pittamiglio - Castillo del Alquimista",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPn6XhyGjzSsVGsEFMC3cTbdtqxUPr3zWbSPxMi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cagancha Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyoZnrm8-UFhG0H-Kp-bGI-6Rnc2SCF9zuQk_E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Montevideo Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMW0sETp9zlvDurqaqRUhldN2zlmUdpqUa7HEwo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Andes 1972",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaf2Re22eoRCSr-rVP28HyaT1R0jcgUNzI6aSq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Football Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjN-Fs07BPq4u1izcGYib-GBHsiHTzVYK0-DK8=w148-h148-n-k-no"
+            }
+        ],
+        "Paysandú": [
+            {
+                "title": "Rio Uruguay Amphitheater",
+                "category": "Amphitheatre",
+                "url": "http://www.paysandu.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1kb5DQtRlCt7jVcL0vPkeqmgasoWTWILaCsy4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Artigas",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMW15tdDe8fPIHlTrZ0yTM3C5LhJkK_Xq5Ly6u2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paysandú Shopping - Terminal",
+                "category": "Shopping Centre",
+                "url": "http://www.paysandushopping.com.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOW4aedUArP4JKhunz3r4vmHwH22SCkGXfbamwA=w148-h148-n-k-no"
+            },
+            {
+                "title": "BOHEMIOS F.C.-COMPLEJO LUIS A. COLLARES",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD3VHHANZeiFaN1HkLeLp1-X_7gHxWpEpOCfll=w148-h148-n-k-no"
+            },
+            {
+                "title": "Closed Municipal Stadium",
+                "category": "Arena",
+                "url": "http://www.paysandu.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGbeuQU4zwj7HXsOoR7Sa60Z2S98nPwB0ajCta=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Parque Artigas",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPi45SyzvAt020M-d4j4bMKJKX8xmkAxSwV2nR_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lo De Jorge (Pesca, Caza y Camping)",
+                "category": "Shop",
+                "url": "https://www.instagram.com/lodejorgepaysandu/?hl=es-la",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlrsneuOqrl-j5qg0R1JoE2fI7fmtzpIVRy1zl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Histórico",
+                "category": "Museum",
+                "url": "https://www.facebook.com/pg/IDPmuseos/about/?ref=page_internal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDkIw-Mv_QOZlXyQwtF_kCXDOAi_44pf2OYOeA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acuamanía Water Park",
+                "category": "Water park",
+                "url": "https://www.acuamania.com.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFz0hOG2N2TBP3UXBwhgXlhnkoxo8GWIEvto0c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grotto of Padre Pio",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9CxpVlQHii9C5RpYnmRBOqvfNFXEx23mD-zM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estudiantil Sanducero Futbol Club",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjfAm41h1xH4ewIDUVkg3oiPyhY1vhILJgb_Ex=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Florencio Sanchez",
+                "category": "Performing arts theatre",
+                "url": "http://www.descubripaysandu.com.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT6kIrOLHawRxlIUJQcN8SrrcjNfLZoB6eI9xD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nuestra Señora del Rosario y San Benito de Palermo, Paysandú",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUq5RdhTIs7S2uUv3nYbEZRlv0ajJrHhvO3iTH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paysandu Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzlvQpEaEhwfKOXoX57OJ5qXLy_qz8HfJHXa95=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Luis Koster",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNchgF3dxJuuYRf62Vxq1m4WEUOZ9Q9kUxFCWI2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Carlos Ambrosoni River Plate F.C",
+                "category": "Stadium",
+                "url": "https://m.facebook.com/RIVER-PLATE-FC-SALTO-URUGUAY-207876429251871/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwOLgL7mrzZIosVEVNujCIw9t-D6dvTgSkuj3A=w148-h148-n-k-no"
+            }
+        ],
+        "Melo": [
+            {
+                "title": "Mario duty free shop",
+                "category": "Duty Free Shop",
+                "url": "http://mariofreeshop.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWAS4FDilXT79RtPzpilhAsVnz426oyH0i2-J1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lago Merín",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyeYPU2SpU67YxenGrRUSB0xWvDXj7Yq9WzQMI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Melo",
+                "category": "Parish",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrv-rFR1EGw7tj9a7eFu1rbZqkknne32vPu_m3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Histórico Regional de Melo",
+                "category": "Museum",
+                "url": "http://cerrolargo.gub.uy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlnul2t2llkPPK4BzVHuGZXU9LxGvw9i__EwKD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fuente de los 200 años",
+                "category": "Fountain",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHvSIi3z_itze6lBu5oLjkr6_y5a6Qf0rD6vh9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Posta del Chuy",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNboJtMa9iOqmEF9aJlYEo7qPubH13O5za7qCrH=w148-h148-n-k-no"
+            }
+        ],
+        "Las Piedras": [
+            {
+                "title": "Cemeterio Municipal Historico",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhcis-9Fpi-gkhgVJZDPg1pFGqXs8_SCmxkXJh=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Monte del Retiro",
+                "category": "Retreat Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNk19r7Aw_OsSXX8ERvdYOtMfdOJ5E7FaGBm0YJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Alcaldía de Las Piedras",
+                "category": "Town Hall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8dh1vuDbVn07uNghF4laBXWtCFHFtRfngFk1R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Recreo Las Piedras",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0xMYmVqhZd_5eR9hIY9_sLndAX2naIIuIhTq4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hacienda 8A",
+                "category": "Horse boarding stable",
+                "url": "http://www.hacienda8a.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNEsBhD3hj1Cv9lZM1QqxEYT9JHyvCypuQ1Cme=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kayaking Puerto Rico | Snorkeling & Bio Bay Tours",
+                "category": "Tour operator",
+                "url": "https://kayakingpuertorico.com/?utm_source=GMB_kayaking_puerto_rico_snorkeling_and_adventure_tours&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrjqg5LaCFIwCfLd2Dk8zRe5hjvFMpdn0mdLMu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Snorkeling Puerto Rico | Boat Tours",
+                "category": "Tourist attraction",
+                "url": "https://snorkelingpuertorico.com/?utm_source=GMB_snorkeling_puerto_rico&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZtPn3EPkACtvLc4-EUGOaAzEd3CbDITjFhogl=w148-h148-n-k-no"
+            },
+            {
+                "title": "East Island Excursions",
+                "category": "Boat tour agency",
+                "url": "http://www.eastislandpr.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIxkDiko2MPfFwngT9yDbTGDARVNLRkNWHhStf=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Veteran's House",
+                "category": "Hospital",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP40kU8czQyOe1d_nhymTGafBzL7lYFnPpQ1Ot4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Boat Adventures",
+                "category": "Boat tour agency",
+                "url": "https://kayakingpuertorico.com/home/tours/mini-boats-adventure/?utm_source=GMB_mini_boat_adventures&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiVRPP1zuzr8fdEHtBpHfBndv-pqkxpgndHbtY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sea Ventures Pro Dive Centers",
+                "category": "SCUBA tour agency",
+                "url": "https://divepuertorico.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBP1XIS4nYg8O-usTXLn9pM3K_9XtwLFwoDGuM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bio Island BioBay in boat",
+                "category": "Tourist attraction",
+                "url": "http://www.bioislandpr.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ1QV6hF9--KwdmEAfE81WxPS2wVOxIYdj_HHu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salty Dog Catamaran",
+                "category": "Tour operator",
+                "url": "https://saltydogcatamaranpr.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_UMxp31pEhgInLZmqTaUFnRBk1JgueMSlRrov=w148-h148-n-k-no"
+            },
+            {
+                "title": "Caracas Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_w6C2l3tCoGLHzJ6NGFR-CsG4k4NrBCVf_tnw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Black Beard Sports",
+                "category": "Dive shop",
+                "url": "https://www.blackbeardsports.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9787383085139139264",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1Mp9CSWxzLGs3D4F8kzu0drU90EiuRbGgz1Tf=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Solis Theater",
+            "category": "Performing arts theatre",
+            "url": "http://www.teatrosolis.org.uy/",
+            "img": "https://lh5.googleusercontent.com/proxy/M1GnsTkGufqUzUFT3lHSIaJEEGnzXNaqA-HsLL1CbgusqAim6ACwm5rr3ca83yFX2Yf-i53X74849Iwcn81pZ7i1AffdjniEQ5qvpHf2_htm1tAbNuXAObXhkRcfZsjGzVZVuOw2AUJmUx889sFwiq7reMk0-Q=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fortress of Santa Teresa",
+            "category": "Historical landmark",
+            "url": "http://museos.ejercito.mil.uy/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP9kY2G3wDbKHQ6hayLBpZ0tPV6x9TTsY-WzS98=w148-h148-n-k-no"
+        },
+        {
+            "title": "Port Market",
+            "category": "Market",
+            "url": "http://www.mercadodelpuerto.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNsolTy21nv9dcua_acNKcrRVH08h8s9aUEMqZa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museo Juan Manuel Blanes",
+            "category": "Art museum",
+            "url": "http://blanes.montevideo.gub.uy/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMMjIQNNDR772204n6Wemc2niJaDbHQ4nEOa1Rp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Santa Teresa National Park",
+            "category": "National park",
+            "url": "https://www.serviciodeparquesdelejercito.com.uy/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPMewuGyHELbRKtvA84hauKqREROaP6EnILfagf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Punta del Este",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNehpuWAvCbO3AgstYjdYnqu9CenB-XSdJcv80Y=w148-h148-n-k-no"
+        },
+        {
+            "title": "Montevideo",
+            "category": "Locality",
+            "img": "https://lh3.googleusercontent.com/proxy/PHx2qgER34BZj3IkefFFDvu_ps9K8d0V3JMyyDefaqglRzfo-Ko9ap7f1FLGy0zAYiSsZaG9OGNuJu2DMvgZpIagiFb2tuWOmUS45BRIwfq30_D7wdyVLXUQyq7991FXQeoXBk_0EwbREiyD-RN6qkOrdwO4PCw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mercado Agrícola de Montevideo",
+            "category": "Market",
+            "url": "http://www.mam.com.uy/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMKgHQ2XKYlmFugS2aaJQGZnnm3AzDwjB8UUb4o=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museo del Carnaval",
+            "category": "Museum",
+            "url": "http://www.museodelcarnaval.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP7sjcgZcOdoeflaRxaBYw145ImOAa2j5KA0j6T=w148-h148-n-k-no"
+        },
+        {
+            "title": "Punta del Diablo",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNzuVbCzeKLdCXYXwZskl8Fo9nvJp-T7FCbRlzE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Colonia del Sacramento",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNPJ-S01QnOWfqJH177QsuBYs3oGE15WmzrlipL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museo Andes 1972",
+            "category": "Museum",
+            "url": "https://mandes.uy/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNaf2Re22eoRCSr-rVP28HyaT1R0jcgUNzI6aSq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Estadio Centenario Buenos Aires",
+            "category": "Stadium",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOz08LVl1YzsCbb-OSRTYNvkBJzH_MvOv5UMscN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Football Museum",
+            "category": "Museum",
+            "url": "https://auf.org.uy/museo-del-futbol/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOjN-Fs07BPq4u1izcGYib-GBHsiHTzVYK0-DK8=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum Of Visual Arts",
+            "category": "National museum",
+            "url": "http://mnav.gub.uy/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP018xRhopRJ9aRUU27VoKpiswdUrWzbazpDf09=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cabo Polonio",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNWbFw7FI33aewi0tHb2C_1fS2SOoZd01GWYF9q=w148-h148-n-k-no"
+        }
+    ]
+}

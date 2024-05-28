@@ -1,0 +1,924 @@
+{
+    "cities": {
+        "Montepuez": [],
+        "Angoche": [
+            {
+                "title": "Genito Magic Tour",
+                "category": "Sightseeing Tour Agency",
+                "url": "http://genitomagictour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJzCz68d617dCWr5czK9gAodNOBI-BRFjpN4vw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nampula",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3bVMng7N-jjxoh4qp5ocTfv4Q43tO_zQxSpaN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha Blue Island Safaris",
+                "category": "Tour operator",
+                "url": "http://www.ilhablue.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMafO3Z6yVRK3Z_6IlHk9wbPiPg3Eq7CtTgaXNH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Island of Mozambique",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0NMOs0Wlui6_q92k6IF4CY0uIZrMAUAk7OjiJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza de Sao Sebastao",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoTGPNX5e9DsEUqqyLAMI9k8uMyPaU0jYKYomO=w148-h148-n-k-no"
+            }
+        ],
+        "Manhiça": [
+            {
+                "title": "Catedral de Maputo",
+                "category": "Cathedral",
+                "url": "http://secatedralmaputo.weebly.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD9_n8wuJsISZOUKY7VfPnsdMDw9qBX665kUgA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu dos CFM",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBDhTY0XCQuhjJFN1DBZho13lDn8g7UsxlumIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Market",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpRAm7n8Dt0Ks_FReTQsgt81AfTNqFXkMRvGhk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqJbHg19NNL7cFhvbQPBgC76RYAhVnNKd3YhWR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortress of Maputo",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHBwuJo4AIFgcnuy64hzjY6-X0J47NH68e6H5F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jumma Masjid",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYv7sZ7oaanVYVHU4pyF14fJRlnATZsck3ZZAz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+                "category": "Fairground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML8zOmMuJ5Z33ndDLV_ocX_GHG589HK5_LcYvV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Portuguese Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU5fVBsxzCQNUZFHEoOJZ57lQNww7Oe7ixIUFP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Street Art",
+                "category": "Tourist attraction",
+                "url": "https://www.instagram.com/maputo_street_art",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONGSohbtAQd9ttYakc18aPCboMBXtbcTLtSV_G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça da Independência",
+                "category": "Visitor centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnPg3ir7jhyVSbt3erCvKiH2PjmixaJ3stZmxI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Special Reserve",
+                "category": "National reserve",
+                "url": "http://www.peaceparks.org/programme.php?pid=25&mid=1108",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzT-FH0kicRQSmlgd8Fqd7QAWlKvGfez2ej8s2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Railway Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2tunbDmrdAomQJ2lv2d9ix2IzP1Vk9Qxmfktj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo City Hall",
+                "category": "Town Hall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMb0wWW2Q1DR8-f41cmmxJwUlmMj--kSGvQgtkv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inhaca Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0uTS4ASIDbXVLPYKLJ04nOZaONAlKDUOiVKNr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de Ferro",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgAzNjkoh_ogPsY1XjJDUAULgEolfZXptrcBzy=w148-h148-n-k-no"
+            }
+        ],
+        "Mandimba": [],
+        "Dondo": [],
+        "Matola": [
+            {
+                "title": "Tunduru Gardens",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7DUcKGMDBfHK8BfZKBQkZUTyzDSEoC2a6xEbe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+                "category": "Fairground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML8zOmMuJ5Z33ndDLV_ocX_GHG589HK5_LcYvV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Social & Cultural Do Núcleo De Arte",
+                "category": "Art gallery",
+                "url": "http://www.nucleodeartemaputo.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK10avE1puPlILny77Lo2gnWTT2BdEp2y7tA25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de Ferro",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgAzNjkoh_ogPsY1XjJDUAULgEolfZXptrcBzy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estádio da Machava",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLteY_xNWqfjl4lPlbg5IZzBfFm7EwpzxHJBYg=w148-h148-n-k-no"
+            },
+            {
+                "title": "WORKERS SQUARE",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhdAxu2u6G3BzANPDWYw8m4E6OqdRuXh9e5LyD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estádio do Zimpeto",
+                "category": "Non-Governmental Organisation",
+                "url": "http://www.coalizao.org.mz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM12RaUT9nY5ZESv67zNRmDtdjQf1wDk3OgcuZs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hlane Royal National Park",
+                "category": "National park",
+                "url": "https://biggameparks.org/properties/hlane-royal-national-park-1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGZICtQp_Kt52Dr4tTIYM9ArGeWdKgQ67vfUCr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Bay",
+                "category": "Bay",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzLe7Ae0cHymAVfVLYqV9ucFWiH0sztocAb3Il=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Railway Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2tunbDmrdAomQJ2lv2d9ix2IzP1Vk9Qxmfktj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Special Reserve",
+                "category": "National reserve",
+                "url": "http://www.peaceparks.org/programme.php?pid=25&mid=1108",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzT-FH0kicRQSmlgd8Fqd7QAWlKvGfez2ej8s2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inhaca Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0uTS4ASIDbXVLPYKLJ04nOZaONAlKDUOiVKNr=w148-h148-n-k-no"
+            }
+        ],
+        "Chimoio": [],
+        "Maxixe": [],
+        "Maputo": [
+            {
+                "title": "Polana Serena",
+                "category": "Hotel",
+                "url": "https://www.serenahotels.com/polana",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN712lw60CB5ERIro19joIeNIBsalCr3ZNyGEqc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu de Historia Natural",
+                "category": "Natural history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGkYx76UILZUtucBJWn_vkMXfPeXrlM9w8FmF-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortress of Maputo",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHBwuJo4AIFgcnuy64hzjY6-X0J47NH68e6H5F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu dos CFM",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBDhTY0XCQuhjJFN1DBZho13lDn8g7UsxlumIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+                "category": "Fairground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML8zOmMuJ5Z33ndDLV_ocX_GHG589HK5_LcYvV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça da Independência",
+                "category": "Visitor centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnPg3ir7jhyVSbt3erCvKiH2PjmixaJ3stZmxI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de Maputo",
+                "category": "Cathedral",
+                "url": "http://secatedralmaputo.weebly.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD9_n8wuJsISZOUKY7VfPnsdMDw9qBX665kUgA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samora Machel Statue",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNu1KoMShV4wTltudBcBJQEEQM9Xyz76iD-PhG6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Market",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpRAm7n8Dt0Ks_FReTQsgt81AfTNqFXkMRvGhk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tunduru Gardens",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7DUcKGMDBfHK8BfZKBQkZUTyzDSEoC2a6xEbe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de Ferro",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgAzNjkoh_ogPsY1XjJDUAULgEolfZXptrcBzy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Social & Cultural Do Núcleo De Arte",
+                "category": "Art gallery",
+                "url": "http://www.nucleodeartemaputo.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK10avE1puPlILny77Lo2gnWTT2BdEp2y7tA25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Railway Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2tunbDmrdAomQJ2lv2d9ix2IzP1Vk9Qxmfktj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Free Walking Tour",
+                "category": "Tour operator",
+                "url": "http://www.maputofreewalkingtour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6l_GHN7iBCNNL6P0NEDNdhb5VemwuHwd3PSZa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia da Costa do Sol",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2cjeJbz3-PsnJvxUeU09U_ktNv-Jp9-9mg72C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia da Polana",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdYuMzyvNFc__yVUCmz0afB24F9VVGXLUE9mU=w148-h148-n-k-no"
+            }
+        ],
+        "Gurúè": [],
+        "Chokwé": [
+            {
+                "title": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+                "category": "Fairground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML8zOmMuJ5Z33ndDLV_ocX_GHG589HK5_LcYvV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqJbHg19NNL7cFhvbQPBgC76RYAhVnNKd3YhWR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque dos Continuadores FEIMA",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSrWzcPRk5Wnqhyz2nwS9MmKDqgeFF-UZGwZJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Banhine National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAU0-wmw0ZcT5_d4fb_ZuIGmWYN6LQJI4k3c3t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia Do Bilene",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCpRkMvY8SbYLwKvABBkeBhC8OKXjYfg_nnC-c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha Xefina Pequena",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBeql5kkDoeCRqC_LGiCY6IGg0otQwEXujRNQs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia da Costa do Sol",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2cjeJbz3-PsnJvxUeU09U_ktNv-Jp9-9mg72C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de Ferro",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgAzNjkoh_ogPsY1XjJDUAULgEolfZXptrcBzy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Macaneta Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkHwObD775xJPBH96LxgXJr5iMZXY5YvsCSb_9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Limpopo National Park",
+                "category": "National park",
+                "url": "https://parquelimpopo.gov.mz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeKn5HxUQ5_gKreoEs4NnuYYCpOlGLimNQI2eu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Railway Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2tunbDmrdAomQJ2lv2d9ix2IzP1Vk9Qxmfktj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Portuguese Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU5fVBsxzCQNUZFHEoOJZ57lQNww7Oe7ixIUFP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inhaca Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0uTS4ASIDbXVLPYKLJ04nOZaONAlKDUOiVKNr=w148-h148-n-k-no"
+            }
+        ],
+        "Nametil": [
+            {
+                "title": "Island of Mozambique",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0NMOs0Wlui6_q92k6IF4CY0uIZrMAUAk7OjiJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Genito Magic Tour",
+                "category": "Sightseeing Tour Agency",
+                "url": "http://genitomagictour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJzCz68d617dCWr5czK9gAodNOBI-BRFjpN4vw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza de Sao Sebastao",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoTGPNX5e9DsEUqqyLAMI9k8uMyPaU0jYKYomO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha Blue Island Safaris",
+                "category": "Tour operator",
+                "url": "http://www.ilhablue.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMafO3Z6yVRK3Z_6IlHk9wbPiPg3Eq7CtTgaXNH=w148-h148-n-k-no"
+            }
+        ],
+        "Beira": [
+            {
+                "title": "Beira Railroad Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMckmvoS42EmPBJ2kpI54OfIUw_UzhEdSQsAQ1t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorongosa National Park",
+                "category": "National park",
+                "url": "http://www.gorongosa.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgDi8cLIcdh5O5BqK1S957FOEOcuwDD_wlHhAF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Macuti Lighthouse",
+                "category": "Lighthouse",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAES7GpZOZsXSv_ROHhDANFX8jMkr4Nj9UxKQY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moz Outdoor Adventures",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeHrJBfMy2d4dM1KpEBzF_31xL7G5c6ebx8Q0c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safari Air Africa Ltd",
+                "category": "Aviation consultant",
+                "url": "https://www.safariairafrica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXkRQKW58Q7b_2cCKNoxPHhKkrAA_9y3Q9sZdh=w148-h148-n-k-no"
+            }
+        ],
+        "Quelimane": [],
+        "Cuamba": [],
+        "Mozambique": [
+            {
+                "title": "Gorongosa National Park",
+                "category": "National park",
+                "url": "http://www.gorongosa.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgDi8cLIcdh5O5BqK1S957FOEOcuwDD_wlHhAF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqJbHg19NNL7cFhvbQPBgC76RYAhVnNKd3YhWR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Malawi",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOV2kqcjljVUXN3vjhz7wrOAYCDQIgyuk9pQbkX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza de Sao Sebastao",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoTGPNX5e9DsEUqqyLAMI9k8uMyPaU0jYKYomO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Island of Mozambique",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0NMOs0Wlui6_q92k6IF4CY0uIZrMAUAk7OjiJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bazaruto Archipelago National Marine Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO9csvCxXkTykL7S38PKcpOYfsmAi2PyG85XJ3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Special Reserve",
+                "category": "National reserve",
+                "url": "http://www.peaceparks.org/programme.php?pid=25&mid=1108",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzT-FH0kicRQSmlgd8Fqd7QAWlKvGfez2ej8s2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Benguerra Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNf5Shlt2E3cCZUrE1voGg2SjYlRqk8oLIG-oq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Niassa Reserve",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcofHTKM_KmSr0Cb-OvMVgko87zURbwdrX0Vz2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+                "category": "Fairground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML8zOmMuJ5Z33ndDLV_ocX_GHG589HK5_LcYvV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vilankulos",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKR4DxZLfsfta9cDbP8a94DO5maRELlN1eBR8S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tofo Beach",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe4vtq6Wz7vHpltrhs1WmEWqBP7kiiuRVfHOeT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nampula",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3bVMng7N-jjxoh4qp5ocTfv4Q43tO_zQxSpaN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bazaruto Archipelago",
+                "category": "Archipelago",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdwR7jAnhrIcN7_5xEj417szLzcy_-RmrLNXbJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de Maputo",
+                "category": "Cathedral",
+                "url": "http://secatedralmaputo.weebly.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD9_n8wuJsISZOUKY7VfPnsdMDw9qBX665kUgA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inhambane",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpiiVJQFwL3hAdBPbTdej6TiNZWXvCj9HzVMQ=w148-h148-n-k-no"
+            }
+        ],
+        "Lichinga": [],
+        "Xai-Xai": [
+            {
+                "title": "CPC Gaza",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONo6KTBzJM6TjDMNaSWTRbZ3KoUlOosaDrNUp4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja Presbiteriana, Mazengane",
+                "category": "Presbyterian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIa-dMTpMy6Jg3CTW8JYeH_vwK2F4NmAd2nniJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia Do Bilene",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCpRkMvY8SbYLwKvABBkeBhC8OKXjYfg_nnC-c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inhaca Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0uTS4ASIDbXVLPYKLJ04nOZaONAlKDUOiVKNr=w148-h148-n-k-no"
+            }
+        ],
+        "Mocuba": [],
+        "Ressano Garcia": [
+            {
+                "title": "Parque dos Continuadores FEIMA",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSrWzcPRk5Wnqhyz2nwS9MmKDqgeFF-UZGwZJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu de Historia Natural",
+                "category": "Natural history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGkYx76UILZUtucBJWn_vkMXfPeXrlM9w8FmF-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Free Walking Tour",
+                "category": "Tour operator",
+                "url": "http://www.maputofreewalkingtour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6l_GHN7iBCNNL6P0NEDNdhb5VemwuHwd3PSZa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Macaneta Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkHwObD775xJPBH96LxgXJr5iMZXY5YvsCSb_9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia da Costa do Sol",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2cjeJbz3-PsnJvxUeU09U_ktNv-Jp9-9mg72C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estádio do Zimpeto",
+                "category": "Non-Governmental Organisation",
+                "url": "http://www.coalizao.org.mz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM12RaUT9nY5ZESv67zNRmDtdjQf1wDk3OgcuZs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu dos CFM",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBDhTY0XCQuhjJFN1DBZho13lDn8g7UsxlumIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samora Machel Statue",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNu1KoMShV4wTltudBcBJQEEQM9Xyz76iD-PhG6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Market",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpRAm7n8Dt0Ks_FReTQsgt81AfTNqFXkMRvGhk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Portuguese Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU5fVBsxzCQNUZFHEoOJZ57lQNww7Oe7ixIUFP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+                "category": "Fairground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML8zOmMuJ5Z33ndDLV_ocX_GHG589HK5_LcYvV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de Maputo",
+                "category": "Cathedral",
+                "url": "http://secatedralmaputo.weebly.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD9_n8wuJsISZOUKY7VfPnsdMDw9qBX665kUgA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortress of Maputo",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHBwuJo4AIFgcnuy64hzjY6-X0J47NH68e6H5F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jumma Masjid",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYv7sZ7oaanVYVHU4pyF14fJRlnATZsck3ZZAz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inhaca Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0uTS4ASIDbXVLPYKLJ04nOZaONAlKDUOiVKNr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Special Reserve",
+                "category": "National reserve",
+                "url": "http://www.peaceparks.org/programme.php?pid=25&mid=1108",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzT-FH0kicRQSmlgd8Fqd7QAWlKvGfez2ej8s2=w148-h148-n-k-no"
+            }
+        ],
+        "Nacala": [
+            {
+                "title": "Indico Apart Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEQf3qf8CsnOjW69rvR63R3E7BjQ8dbCuP0c99=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dueros Sabores",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM26DJFS9vrvDR2J9JZt3r1cLCXQ4lO3BCGRiY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kawani Resort",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaTcbMMGtVohkPNkrJ6tr8xxeZTezZlefio37s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aeroporto de Nacala",
+                "category": "Airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4I9GLM1SkROu3CqTWp4aNB5WO3ul616iQl8W_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ossimba Beach Lodge",
+                "category": "Lodge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmrDeSkugtgN0lu1mcjD4vs7LGPOJQ6kSYOkxi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nacala Plaza Business Design Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkn1ES4upPpOwrs_Bv3lCdEmeeRcSbh1E48vqz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shaquila Lodge",
+                "category": "Lodge",
+                "img": "https://lh4.googleusercontent.com/proxy/8dug1yWOHrmT0LLrDu3_rG6u-k5inPxxgtMAuNxaHC-lcM4YO1JgGF-54UJRMA2hhpIgnlCV7IB-yD4s7ndAL6Su5eLQ6Kl5238ZjwYMvdn96vWCBTNB3U3emRjt-wEBctUUwWMhNz9f1BgvunGgvnrSE0sy1g=w148-h148-n-k-no"
+            }
+        ],
+        "Inhambane": [
+            {
+                "title": "Tofinho",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhY6r3HXMZP6D3SeoJQrt-3Lvrv4TjjM_kFQfV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statue of Vasco da Gama",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLA7Dc6oIP3S3WoDQrocFlvKEAbbO7azi-Xn0C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liquid Dive Adventures",
+                "category": "SCUBA tour agency",
+                "url": "https://www.liquiddiveadventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZhGZUMDe7BLq0S_BUSQWSLZuCZ9xYK92xXNjy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tofo Scuba",
+                "category": "Dive shop",
+                "url": "https://www.tofoscuba.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNW5FpDkdMIG_dQRUf0CBtfpCbULG3mO2eXER2A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manyikeni",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNstayk8o2Lu1BAyUtGsCO23fRRugeMk5TFeOR2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu de Inhambane",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKgeAInzBEvUfTQ-oihvuK-BpfffbHBEAkO-jh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tofo Beach",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe4vtq6Wz7vHpltrhs1WmEWqBP7kiiuRVfHOeT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barra Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2K9vN4xLqj8LrgTxY0wR4af0a4jVWP9JJrzau=w148-h148-n-k-no"
+            },
+            {
+                "title": "DIVERSITYScuba",
+                "category": "Diving Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlTBkQKHenDHKuJ1OPdhQC1EbASTz6R_WopMIq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Peri Peri Divers Tofo | Scuba Dive Center",
+                "category": "Diving Centre",
+                "url": "https://www.peri-peridivers.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOc7131ucb0LoG98Tb1FjNYpZQcQfDv6JMgeEQF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tofinho Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4gVUQvjKvin62LuQjb-nRNtRRuZshvtXGQgJn=w148-h148-n-k-no"
+            }
+        ],
+        "Nampula": [],
+        "Chibuto": [
+            {
+                "title": "Tunduru Gardens",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7DUcKGMDBfHK8BfZKBQkZUTyzDSEoC2a6xEbe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo Free Walking Tour",
+                "category": "Tour operator",
+                "url": "http://www.maputofreewalkingtour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6l_GHN7iBCNNL6P0NEDNdhb5VemwuHwd3PSZa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu de Historia Natural",
+                "category": "Natural history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGkYx76UILZUtucBJWn_vkMXfPeXrlM9w8FmF-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia Do Bilene",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCpRkMvY8SbYLwKvABBkeBhC8OKXjYfg_nnC-c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maputo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqJbHg19NNL7cFhvbQPBgC76RYAhVnNKd3YhWR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha Xefina Pequena",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBeql5kkDoeCRqC_LGiCY6IGg0otQwEXujRNQs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu dos CFM",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBDhTY0XCQuhjJFN1DBZho13lDn8g7UsxlumIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Limpopo National Park",
+                "category": "National park",
+                "url": "https://parquelimpopo.gov.mz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeKn5HxUQ5_gKreoEs4NnuYYCpOlGLimNQI2eu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Macaneta Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkHwObD775xJPBH96LxgXJr5iMZXY5YvsCSb_9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque dos Continuadores FEIMA",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSrWzcPRk5Wnqhyz2nwS9MmKDqgeFF-UZGwZJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortress of Maputo",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHBwuJo4AIFgcnuy64hzjY6-X0J47NH68e6H5F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+                "category": "Fairground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML8zOmMuJ5Z33ndDLV_ocX_GHG589HK5_LcYvV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia da Costa do Sol",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2cjeJbz3-PsnJvxUeU09U_ktNv-Jp9-9mg72C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de Maputo",
+                "category": "Cathedral",
+                "url": "http://secatedralmaputo.weebly.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD9_n8wuJsISZOUKY7VfPnsdMDw9qBX665kUgA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Portuguese Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU5fVBsxzCQNUZFHEoOJZ57lQNww7Oe7ixIUFP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça da Independência",
+                "category": "Visitor centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnPg3ir7jhyVSbt3erCvKiH2PjmixaJ3stZmxI=w148-h148-n-k-no"
+            }
+        ],
+        "Tete": [],
+        "Monapo": [
+            {
+                "title": "Island of Mozambique",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0NMOs0Wlui6_q92k6IF4CY0uIZrMAUAk7OjiJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Genito Magic Tour",
+                "category": "Sightseeing Tour Agency",
+                "url": "http://genitomagictour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJzCz68d617dCWr5czK9gAodNOBI-BRFjpN4vw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha Blue Island Safaris",
+                "category": "Tour operator",
+                "url": "http://www.ilhablue.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMafO3Z6yVRK3Z_6IlHk9wbPiPg3Eq7CtTgaXNH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza de Sao Sebastao",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoTGPNX5e9DsEUqqyLAMI9k8uMyPaU0jYKYomO=w148-h148-n-k-no"
+            }
+        ],
+        "Pemba": [
+            {
+                "title": "PRAIA DO WIMBE",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTxs3RnyPPWPEqRWuuVZ3ixyIWJoTzy5x-3vrE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia de Wimbi",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMe7PwjrqHNeTgwg2K8YnEEwC7JJJUJJyuRtHe6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Uthman Ibn Affan",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyaX3sIfNEXtZiCU7TLjW_5_9a_-asbuDrZ0DM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mesquita Central de Pemba",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeHuDpRL7Q94tBaGk6USOiwA4_q4EKa2H1Vyor=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça dos Heróis Moçambicanos",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWv6WJ2UJhiQ3pVv2dCzUoU-HVP1INncbEgrFY=w148-h148-n-k-no"
+            },
+            {
+                "title": "emulação social",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5aA0qrUuovqHheR_aWJTrkXfLDaBUZWDCBEoq=w148-h148-n-k-no"
+            },
+            {
+                "title": "CASA PROVINCIAL DA CULTURA DE CABO DELGADO",
+                "category": "Cultural centre",
+                "url": "https://web.facebook.com/Direc%C3%A7%C3%A3o-Provincial-da-Cultura-e-Turismo-de-Cabo-Delgado-1849335615163744/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFov7RMosXoiF_0euFzwCDrFTeL7ujfhXNhElx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cementerio de Pemba",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLKvJbhF88vle1PcaOwLPyH8ObwOba21HFMGM_=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Gorongosa National Park",
+            "category": "National park",
+            "url": "http://www.gorongosa.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNgDi8cLIcdh5O5BqK1S957FOEOcuwDD_wlHhAF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fortaleza de Sao Sebastao",
+            "category": "Fortress",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOoTGPNX5e9DsEUqqyLAMI9k8uMyPaU0jYKYomO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Malawi",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOV2kqcjljVUXN3vjhz7wrOAYCDQIgyuk9pQbkX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maputo",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOqJbHg19NNL7cFhvbQPBgC76RYAhVnNKd3YhWR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bazaruto Archipelago National Marine Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOO9csvCxXkTykL7S38PKcpOYfsmAi2PyG85XJ3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maputo Special Reserve",
+            "category": "National reserve",
+            "url": "http://www.peaceparks.org/programme.php?pid=25&mid=1108",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNzT-FH0kicRQSmlgd8Fqd7QAWlKvGfez2ej8s2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Niassa Reserve",
+            "category": "Point of interest",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPcofHTKM_KmSr0Cb-OvMVgko87zURbwdrX0Vz2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Benguerra Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNNf5Shlt2E3cCZUrE1voGg2SjYlRqk8oLIG-oq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Island of Mozambique",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM0NMOs0Wlui6_q92k6IF4CY0uIZrMAUAk7OjiJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tofo Beach",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPe4vtq6Wz7vHpltrhs1WmEWqBP7kiiuRVfHOeT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Feira de Artesanato, Flores e Gastronomia de Maputo",
+            "category": "Fairground",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipML8zOmMuJ5Z33ndDLV_ocX_GHG589HK5_LcYvV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Vilankulos",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKR4DxZLfsfta9cDbP8a94DO5maRELlN1eBR8S=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nampula",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP3bVMng7N-jjxoh4qp5ocTfv4Q43tO_zQxSpaN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bazaruto Archipelago",
+            "category": "Archipelago",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOdwR7jAnhrIcN7_5xEj417szLzcy_-RmrLNXbJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Quirimbas National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMqRvNIFSYEsyRnJKR1Ss74Zfkf0_TgQHDAvzhc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Inhambane",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPpiiVJQFwL3hAdBPbTdej6TiNZWXvCj9HzVMQ=w148-h148-n-k-no"
+        }
+    ]
+}

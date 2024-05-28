@@ -1,0 +1,165 @@
+{
+    "cities": {
+        "Honiara": [
+            {
+                "title": "S.I. Visitors Bureau",
+                "category": "Tourist attraction",
+                "url": "http://www.visitsolomons.com.sb/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPblVqzcXHeyHLA6M_JtCAym4SUL3KT6OherCaf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jings Spa and Beauty",
+                "category": "Beauty Salon",
+                "url": "https://www.facebook.com/pg/jingspabeauty/about/?ref=page_internal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipON--NM9bB2RXsORk6fg3JqdSg5BQo4R0M779fR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bilikiki Cruises",
+                "category": "SCUBA tour agency",
+                "url": "https://www.bilikiki.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUdvrDuiA_Da_uVMi20lcJMAFJHBDp5n3e0wuL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Cross Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmtkyLV9E9-UIKYH9fId6nqM8DTbkJuPdI_ZBh=w148-h148-n-k-no"
+            },
+            {
+                "title": "American War Memorial",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWAyJTLifcqFsb04m9NK8S4zXr9DPr244MrJsa=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Barnabas Anglican Cathedral",
+                "category": "Anglican church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbvkbfksESubnmctrm0OCM7uMtaHrN59GpRAui=w148-h148-n-k-no"
+            },
+            {
+                "title": "Honiara Central Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVwFOpv0HSy6_InWJDC7s_3yJhmtzRk9P3i3jb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Solomon Scouts & Coastwatchers Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwjcfuIRJ4AONtgo0CCk-Hx7vjsJST5U8spcE3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Solomon Islands National Museum",
+                "category": "History museum",
+                "url": "https://solomons.gov.sb/ministry-of-culture-and-tourism/solomon-islands-national-museum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBRWtrV176HZIMqIMaOox7f_vvJkMGhbqZcXUK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guadalcanal Memorial",
+                "category": "Memorial park",
+                "url": "https://www.abmc.gov/cemeteries-memorials/pacific/guadalcanal-memorial#.WLFBLPkrLIU",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0njwQlXgywW0a1ZJIuTwUP-d2CWW6IouAY4p0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tulagi Dive",
+                "category": "Dive shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIoqRDRpvUzcKej-61PLyu7HRYwb8dbcmm8x4C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vilu Military Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOq7GyEGfYn-WT2bDDwvxRHH4GjXKGN-2AkjsvJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tenaru Falls",
+                "category": "Waterfall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqOERrKblazEIv8UiVXmfWJDBmfqwuC7k1zQIR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mbonege beach",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLWHXR79vwwOIxA0yjyPKGgZS0vgTcBYHS12M=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Vilu Military Museum",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOq7GyEGfYn-WT2bDDwvxRHH4GjXKGN-2AkjsvJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Guadalcanal Memorial",
+            "category": "Memorial park",
+            "url": "https://www.abmc.gov/cemeteries-memorials/pacific/guadalcanal-memorial#.WLFBLPkrLIU",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM0njwQlXgywW0a1ZJIuTwUP-d2CWW6IouAY4p0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Marovo Lagoon",
+            "category": "Lagoon",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNvw1pw1VW9LkwKVg1YnZ6me_KeO7HMiY7y32nf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kasolo Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOagr1ZgO0VAIoCpa44k6bfEW2YMB3lpeIaaMHK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tenaru Falls",
+            "category": "Waterfall",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPqOERrKblazEIv8UiVXmfWJDBmfqwuC7k1zQIR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Uepi",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPn11LhlbpxunGoIKyVEXWi_WOH5iicXWsZruWB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tulagi Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN6TMwIId4x97ME9gkfawsOBUrqrBAOfq5Lmyvd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Papatura Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMPoCcmP4W1btoNBnOZQxh9J7jaOT1kKFzsOQWO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Honiara Central Market",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMVwFOpv0HSy6_InWJDC7s_3yJhmtzRk9P3i3jb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Solomon Islands National Museum",
+            "category": "History museum",
+            "url": "https://solomons.gov.sb/ministry-of-culture-and-tourism/solomon-islands-national-museum/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNBRWtrV176HZIMqIMaOox7f_vvJkMGhbqZcXUK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tikopia",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNPKemZhdNLe-Hi1rNxPA9xB6cEex50xRMW6eas=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kavachi",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPwdWRMWJOM-WDNwj2-FeKXwS3tiRET2DEU8erx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mbonege beach",
+            "category": "Beach pavillion",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNLWHXR79vwwOIxA0yjyPKGgZS0vgTcBYHS12M=w148-h148-n-k-no"
+        },
+        {
+            "title": "American War Memorial",
+            "category": "Memorial park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOWAyJTLifcqFsb04m9NK8S4zXr9DPr244MrJsa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Guadalcanal",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN54gv50hAZk7FJXYfVvmvA1xWn7HMC_aPsycxO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tetepare",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPUxXUpoixQ02Kl0Bmz06cpblXg8XH4rCiQ0vJ1=w148-h148-n-k-no"
+        }
+    ]
+}

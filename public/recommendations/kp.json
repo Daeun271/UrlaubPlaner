@@ -1,0 +1,895 @@
+{
+    "cities": {
+        "Namp’o": [
+            {
+                "title": "Sungkyunkwan University (Humanities & Social Sciences Campus)",
+                "category": "Private university",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3e7x428VQLhlJZOV83pIZt1DyfvEGKCUCj7bX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chollima Statue",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCOGsm34fNhySmOq27BgYrq9PXSUhPTi7UySAz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kim Il-sung Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8k74HtLbltys1LyZS0JSk5HhaK1tQteD75UN6=w148-h148-n-k-no"
+            },
+            {
+                "title": "능라도 경기장",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORJNpTNguYtQCDVkDFCprDVSjsD1XXlwozZiSx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pohyŏnsa",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIAJb68jn6Ci_XuE_nMYmylBu9GQnMAFJAXCC9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mausoleum of Tan'gun",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHlB8YTMbF8vu9Gom1G75GP64VpB-sCowL8qaC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of King Kongmin",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPffQyDbwOkNZWaX09z5ldE9ANsczUgecPVv5J_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manwoldae",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMW6BS0RuekOovPR6q22iNTcvoLZesZNCG2TzW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaesong Namdaemun",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoLd-8E8EdER9wHeBShNF6cU8RKrW6gLshjkQF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wonsan Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7yvxHaYf9pArBQhuBU_H0pPuN_JIAU9sXysDR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juche Tower",
+                "category": "Monument",
+                "img": "https://lh4.googleusercontent.com/proxy/Fuk_tWxxBUmhb0unrpCYlQjM9v4YlFWv0MMeRHLEksTbRkdxBlhdKYCbg3J4YJd7Z8OTQ7bl6uWC45Og2cRU8IofW6ZihXVQ4G1EA59ycJXa_4ql5IiWSe5wdKBlEL2WdJLHNn49KFmwJO13d6K1lJvmrgYGtrg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mansudae Hill Grand Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeDaY2aCzKHi5wEjORbhm2ddZK8SVw__x-RJmx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Geumsusan Taeyang Gungjeon",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuyvQaSPY3pztRrdRbTyZ9CC9jXoqqiNmfhdC-=w148-h148-n-k-no"
+            }
+        ],
+        "Anju": [],
+        "Chongjin": [],
+        "Pyongyang": [
+            {
+                "title": "Korea Central Zoo Joseon",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTuWNbApbTjd0l7LBn3wx8xYm6_OdKc7c_Q9ML=w148-h148-n-k-no"
+            },
+            {
+                "title": "Worker's Party Foundation Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp91mgp0wWtb0f3maIVd9emqQdJToHve_RlMcI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Munsu Water Park",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2hmm6WJM3sWq8oDmOXYN7RawX7U_PXxvM9Kw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwangbok Department Store",
+                "category": "Department store",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQ-b7GyVaQrXgpmWQPWBYmsEY3PWX1sWEveuId=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Martyrs Cemetery",
+                "category": "Military cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAKHrQ-tWbJ2j98xk-OolUd-UmgzO1gHUQ661Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanggakdo Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY7DsM2BCOTexroATNa6iJuExz03f1HWTqhwRK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Geumsusan Taeyang Gungjeon",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHiPmQVKkjpd4JYdFU0PpWR4Nwf3QkysKMhcL7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chollima Statue",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCOGsm34fNhySmOq27BgYrq9PXSUhPTi7UySAz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kim Il-sung Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8k74HtLbltys1LyZS0JSk5HhaK1tQteD75UN6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mansudae Hill Grand Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeDaY2aCzKHi5wEjORbhm2ddZK8SVw__x-RJmx=w148-h148-n-k-no"
+            },
+            {
+                "title": "능라도 경기장",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORJNpTNguYtQCDVkDFCprDVSjsD1XXlwozZiSx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juche Tower",
+                "category": "Monument",
+                "img": "https://lh4.googleusercontent.com/proxy/Fuk_tWxxBUmhb0unrpCYlQjM9v4YlFWv0MMeRHLEksTbRkdxBlhdKYCbg3J4YJd7Z8OTQ7bl6uWC45Og2cRU8IofW6ZihXVQ4G1EA59ycJXa_4ql5IiWSe5wdKBlEL2WdJLHNn49KFmwJO13d6K1lJvmrgYGtrg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanggakdo",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5Bbe5XaeZbQppM08npuj_jDJ7t_HfLgo-rv67=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mansudae Hill",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8fgsLLD9KrBjLN7VU9Qi5zKupVdYli6BoqAAe=w148-h148-n-k-no"
+            }
+        ],
+        "Sariwŏn": [
+            {
+                "title": "Pyongyang Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzBnS1J4Tf2edpCVU3jX1rbyPBdkxqg0jSqWo8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juche Tower",
+                "category": "Monument",
+                "img": "https://lh4.googleusercontent.com/proxy/Fuk_tWxxBUmhb0unrpCYlQjM9v4YlFWv0MMeRHLEksTbRkdxBlhdKYCbg3J4YJd7Z8OTQ7bl6uWC45Og2cRU8IofW6ZihXVQ4G1EA59ycJXa_4ql5IiWSe5wdKBlEL2WdJLHNn49KFmwJO13d6K1lJvmrgYGtrg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Friendship Tower",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKpTC2nm6h91-fuv3vc3GgbSgCZcF0hLGU6WPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch of Triumph",
+                "category": "Historical landmark",
+                "img": "https://lh3.googleusercontent.com/proxy/JHnuKU5Hjyd6XgBnBGSDg4LicARUVOFj9IQJS5FM6f2dS8fOSjI-sQBvUuUIjayq6Bb7NPRdJjRjWKWTNTO-W7KHokQauqwEkf46RFWBwtdbxZe4HtTktWIL1Yd9KYh2dFfpQHoMZrGmO51swI0kNiGdZsmOhg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyongyang",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU0iC81jaYuo64PvVMejJ1kAdQjrd7EpMhipxL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Myohyangsan",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB6wJrjKFHe29c9sX_Li1ZYFkXxO9I9k2CM-nb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wonsan Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7yvxHaYf9pArBQhuBU_H0pPuN_JIAU9sXysDR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masikryong Ski Resort",
+                "category": "Ski resort",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMqgCtPX_ffvPiycFlDIdNhs1mdut6PXZClCGi=w148-h148-n-k-no"
+            }
+        ],
+        "Sinŭiju": [
+            {
+                "title": "Pyongyang",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU0iC81jaYuo64PvVMejJ1kAdQjrd7EpMhipxL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mansudae Hill Grand Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeDaY2aCzKHi5wEjORbhm2ddZK8SVw__x-RJmx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch of Triumph",
+                "category": "Historical landmark",
+                "img": "https://lh3.googleusercontent.com/proxy/JHnuKU5Hjyd6XgBnBGSDg4LicARUVOFj9IQJS5FM6f2dS8fOSjI-sQBvUuUIjayq6Bb7NPRdJjRjWKWTNTO-W7KHokQauqwEkf46RFWBwtdbxZe4HtTktWIL1Yd9KYh2dFfpQHoMZrGmO51swI0kNiGdZsmOhg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Myohyangsan",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB6wJrjKFHe29c9sX_Li1ZYFkXxO9I9k2CM-nb=w148-h148-n-k-no"
+            }
+        ],
+        "Kilju": [],
+        "P’yŏngsŏng": [
+            {
+                "title": "Jingwansa Temple",
+                "category": "Buddhist temple",
+                "url": "http://jinkwansa.org/html/intro.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyFCNJZJzORJFoDIpuTIP5G3lwRg_f2m16li5d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bukhansanseong Fortress",
+                "category": "Fortress",
+                "url": "http://www.cha.go.kr/korea/heritage/search/Culresult_Db_View.jsp?mc=NS_04_03_02&VdkVgwKey=13,01620000,31",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOhNtGrOdRg6gS-vf61BvgLtt_bxL27XPHbev7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eunpyeong Hanok Village",
+                "category": "Tourist attraction",
+                "url": "http://mediahub.seoul.go.kr/archives/1259945",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPFAI6XkUhRETWACzcPf8aCbyGGInC30yPww9A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samcheonsa Temple",
+                "category": "Buddhist temple",
+                "url": "http://www.3004.or.kr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgwQol8yIfEHQoP-v-TiwHFnIJVB_GW8r-SuxC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suguksa Temple",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_2SkipfgaJI3Lu8Yj14x8ScW6lZziAtawOGBd=w148-h148-n-k-no"
+            },
+            {
+                "title": "LOTTE Mart",
+                "category": "Hypermarket",
+                "url": "https://company.lottemart.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJyHz8YMBNYKCjUXfEyRgoWZ1coZ5lhwChflx-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eunpyeong History Hanok Museum",
+                "category": "Museum",
+                "url": "http://museum.ep.go.kr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdwnkEsmN728QVMzWvGlxJVUqmdKE2_va95290=w148-h148-n-k-no"
+            },
+            {
+                "title": "Myohyangsan",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB6wJrjKFHe29c9sX_Li1ZYFkXxO9I9k2CM-nb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyongyang Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzBnS1J4Tf2edpCVU3jX1rbyPBdkxqg0jSqWo8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Korea Central Zoo Joseon",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTuWNbApbTjd0l7LBn3wx8xYm6_OdKc7c_Q9ML=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyongyang",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU0iC81jaYuo64PvVMejJ1kAdQjrd7EpMhipxL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Friendship Tower",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKpTC2nm6h91-fuv3vc3GgbSgCZcF0hLGU6WPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Munsu Water Park",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2hmm6WJM3sWq8oDmOXYN7RawX7U_PXxvM9Kw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwangbok Department Store",
+                "category": "Department store",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQ-b7GyVaQrXgpmWQPWBYmsEY3PWX1sWEveuId=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch of Triumph",
+                "category": "Historical landmark",
+                "img": "https://lh3.googleusercontent.com/proxy/JHnuKU5Hjyd6XgBnBGSDg4LicARUVOFj9IQJS5FM6f2dS8fOSjI-sQBvUuUIjayq6Bb7NPRdJjRjWKWTNTO-W7KHokQauqwEkf46RFWBwtdbxZe4HtTktWIL1Yd9KYh2dFfpQHoMZrGmO51swI0kNiGdZsmOhg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taedong",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNja1SVLI_1eHFIqWvxpNX9KxwaddIyhepw4lUT=w148-h148-n-k-no"
+            }
+        ],
+        "Songnim-ni": [],
+        "Hongwŏn": [],
+        "Hyesan-dong": [
+            {
+                "title": "Shinsegae Department Store Main Store",
+                "category": "Department store",
+                "url": "http://department.shinsegae.com/store/main.jsp?storeCode=D01",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0lqJsVS6VXYD619EzBWfSR7BUF6Wiz1AUXsZ_=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Gugak Center Yeakdang Hall",
+                "category": "Art Centre",
+                "url": "http://www.gugak.go.kr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNshCoWb2c1zK74c5y5XgOLbofLcwhxswM6tO7z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seoul Station (Subway)",
+                "category": "Underground Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx-9UgzQ15mBTRp7BWJvnBbCL20USKBUndn0s=w148-h148-n-k-no"
+            },
+            {
+                "title": "LOTTE OUTLETS Seoul Station",
+                "category": "Shopping outlet",
+                "url": "https://www.lotteshopping.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3reJWKr5FcvFMmOO7hU9dSUGNKiij8oD9MiQj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Namdaemun Market",
+                "category": "Market",
+                "url": "http://www.namdaemunmarket.co.kr/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Sungnyemun Gate (Namdaemun)",
+                "category": "Historical landmark",
+                "url": "http://www.heritage.go.kr/heri/cul/culSelectDetail.do?VdkVgwKey=11,00010000,11&pageNo__=1_2_1_0&pageNo=1_1_2_0",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Seoul World Cup Stadium",
+                "category": "Stadium",
+                "url": "https://www.sisul.or.kr/open_content/worldcup/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Culture Station Seoul 284",
+                "category": "Historical landmark",
+                "url": "https://www.seoul284.org/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Dongtan Central Park",
+                "category": "Tourist attraction",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Piknic",
+                "category": "Exhibit",
+                "url": "http://piknic.kr/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "War & Women's Human Rights Museum",
+                "category": "Museum",
+                "url": "http://www.womenandwarmuseum.net/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Chebu-do",
+                "category": "Island",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Football Faentasium",
+                "category": "Amusement park",
+                "url": "http://www.faentasium.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Statue of Peace",
+                "category": "Memorial park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Geolleung (Tomb of King Jeongjo & Queen Hyoui)",
+                "category": "Historical landmark",
+                "url": "https://royaltombs.cha.go.kr/tombs/selectTombInfoList.do?tombseq=163&mn=RT_01_13_01",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Masikryong Ski Resort",
+                "category": "Ski resort",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Ongjin": [
+            {
+                "title": "N Seoul Tower",
+                "category": "Tourist attraction",
+                "url": "http://www.nseoultower.co.kr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoGrddc3l0N-ACkF884KHFXGuNHifod5QNs9SJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Solchan Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0lIBZInISzWkqgdTsMvTlwcReuycYkszF-bxD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gwangseongbo Fort",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOQTa50X_PHPQNKs-aasL-rMD2x0odK63FRRBr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sinpo International Market, Incheon",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhp9Im8SBbieEe4cLWUFO4pi8te2dkc2JxQclw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ganghwa Anglican Church",
+                "category": "Anglican church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8ex5QXJNzFQ6lPt6SjOk3wjWLDMbSLdXj2Pn6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sinri Shrine",
+                "category": "Religious destination",
+                "url": "http://www.sinri.or.kr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFNKSap654ffsCRHixBaR3VR9ddZvG3VlLoRdI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Myeong-dong",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCqKsAzu4VnPyD2b_hSvOwKQAcpz25pdRXOY1w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Incheon Bridge Memorial Hall",
+                "category": "Tourist attraction",
+                "url": "http://www.incheonbridge.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkFukS2H2CX3COFmWhQUCWFh3Wz6IypEVR0889=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gapgot Dondae Fort",
+                "category": "Historical place",
+                "url": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=3&tourdiv=eight",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZV38bViDOoosn2e41sXQ14_AR2Gul9J0WWpav=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deogjinjin Fort",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLdy83B6AWTMzGcMWPsN0NspYgyBhwizX7_Toy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lotus Lantern International Meditation Center",
+                "category": "Buddhist temple",
+                "url": "http://www.lotuslantern.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP46D_v6MlYD5g30F0i_fEOy8HfC8w5NgKB4nWd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hapdeok Suri Folk Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3htG0xWhprfq5bGn3H89KY8EVOMOFeLGmcrY5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chojijin Fort",
+                "category": "Historical landmark",
+                "url": "https://www.ganghwa.go.kr/open_content/tour/tour/tourInfoDetail.do?tour_seq=92&tourdiv=eight&pgno=2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdAoWkEEGSeM92ZazLS6EFYYyJnkfVrVxLhN3n=w148-h148-n-k-no"
+            },
+            {
+                "title": "강화 고려궁지",
+                "category": "Historical landmark",
+                "url": "http://www.heritage.go.kr/heri/cul/culSelectDetail.do?VdkVgwKey=13,01330000,23",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPG351hO_0RDvsCH85KCwfEBpnYHD43UZ3Ip5oy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Incheon Global Campus",
+                "category": "International school",
+                "url": "https://www.igc.or.kr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP97mhy1XvCzyEAZXYE7_pgzMrhuyvo6EVahQJe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Football Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQzGJDgbq9lFQfAYUJpB9cVuFnzvyhhxKhIGol=w148-h148-n-k-no"
+            }
+        ],
+        "Hamhŭng": [
+            {
+                "title": "Masikryong Ski Resort",
+                "category": "Ski resort",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMqgCtPX_ffvPiycFlDIdNhs1mdut6PXZClCGi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kumgang",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPQK2NaV2CrRlS2yu3pzzHHkYHY6z_Uslq1zVt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Friendship Tower",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKpTC2nm6h91-fuv3vc3GgbSgCZcF0hLGU6WPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Myohyangsan",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB6wJrjKFHe29c9sX_Li1ZYFkXxO9I9k2CM-nb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch of Triumph",
+                "category": "Historical landmark",
+                "img": "https://lh3.googleusercontent.com/proxy/JHnuKU5Hjyd6XgBnBGSDg4LicARUVOFj9IQJS5FM6f2dS8fOSjI-sQBvUuUIjayq6Bb7NPRdJjRjWKWTNTO-W7KHokQauqwEkf46RFWBwtdbxZe4HtTktWIL1Yd9KYh2dFfpQHoMZrGmO51swI0kNiGdZsmOhg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyongyang",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU0iC81jaYuo64PvVMejJ1kAdQjrd7EpMhipxL=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Martyrs Cemetery",
+                "category": "Military cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAKHrQ-tWbJ2j98xk-OolUd-UmgzO1gHUQ661Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mansudae Hill Grand Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeDaY2aCzKHi5wEjORbhm2ddZK8SVw__x-RJmx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Geumsusan Taeyang Gungjeon",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHiPmQVKkjpd4JYdFU0PpWR4Nwf3QkysKMhcL7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mausoleum of Tan'gun",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHlB8YTMbF8vu9Gom1G75GP64VpB-sCowL8qaC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chollima Statue",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCOGsm34fNhySmOq27BgYrq9PXSUhPTi7UySAz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of King Tongmyong",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcZ8XaBG4xMrGTXdqCybXenxdOKrn_ssDqOHbv=w148-h148-n-k-no"
+            },
+            {
+                "title": "능라도 경기장",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORJNpTNguYtQCDVkDFCprDVSjsD1XXlwozZiSx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kim Il-sung Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8k74HtLbltys1LyZS0JSk5HhaK1tQteD75UN6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanggakdo Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY7DsM2BCOTexroATNa6iJuExz03f1HWTqhwRK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juche Tower",
+                "category": "Monument",
+                "img": "https://lh4.googleusercontent.com/proxy/Fuk_tWxxBUmhb0unrpCYlQjM9v4YlFWv0MMeRHLEksTbRkdxBlhdKYCbg3J4YJd7Z8OTQ7bl6uWC45Og2cRU8IofW6ZihXVQ4G1EA59ycJXa_4ql5IiWSe5wdKBlEL2WdJLHNn49KFmwJO13d6K1lJvmrgYGtrg=w148-h148-n-k-no"
+            }
+        ],
+        "Wŏnsan": [
+            {
+                "title": "Yeouido Hangang Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMAhJ4oJb_cBlXRg1XLa1vx1ASySASYhELJ7fw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gwangmyeong Cave, Gyeonggi-do",
+                "category": "Tourist attraction",
+                "url": "http://www.gm.go.kr/cv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLH1lCeF9zQAH_wLOo9zI9WbBE-r_BdK-Toumr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boramae Park",
+                "category": "City park",
+                "url": "http://parks.seoul.go.kr/template/sub/boramae.do",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnly9yKgNBHGEtY-Zq0qLpkiI0UPK9t2MEeNsv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yeouido Park",
+                "category": "Park and Garden",
+                "url": "http://parks.seoul.go.kr/template/sub/yeouido.do",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpNGDNsaAJoEuGx4j9KSTmpuD1hq2bNYU8MkBP=w148-h148-n-k-no"
+            },
+            {
+                "title": "CGV Yeongdeungpo",
+                "category": "Cinema",
+                "url": "http://www.cgv.co.kr/theaters/?areacode=01&theaterCode=0059&date=20160908",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFXoE4HWj-nqJ5FlNZwGMJpwIjdYsguLGzkWfr=w148-h148-n-k-no"
+            },
+            {
+                "title": "63 Building",
+                "category": "Cultural landmark",
+                "img": "https://lh3.googleusercontent.com/proxy/2dcjTwHy1Bwx5d8lbRwUT_Em4ksI8aqP6jp_bRJ16yT6MDtqmnhIfYTZ8QokChKtixXmcK2LNM2LyZXe0WHU9O5OR3V3Tmqte_Zh9Wqao5VDDf1JezwPs0fkIu9xF3WAFJNfR2HrQVUZ4Ne9oWaUXL0XGoXZhMI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hyundai Department Store D-Cube City",
+                "category": "Department store",
+                "url": "http://www.ehyundai.com/newPortal/DP/DP000000_V.do?branchCd=B00149000",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxwWFfwxIN1Hc_r4p7Uc-XFcC4UNmDOwYuwkL2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eland Cruise Terminal",
+                "category": "Cruise agency",
+                "url": "http://www.elandcruise.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN80ITIWEorC5fWW-Uxfx6A_3QUT7qrTeDGG1ay=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gocheok Sky Dome",
+                "category": "Baseball field",
+                "url": "http://www.sisul.or.kr/open_content/skydome/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoqT8YbEPEuKjQ-a6-co_LXuznm75UlZIvy6q3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mario Outlet",
+                "category": "Shopping Centre",
+                "url": "http://mariooutlet.co.kr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-TMomSbxiYe1VdAkbppa7vd_h_HQpJgfDXIbT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gwangmyeong Traditional Market",
+                "category": "Traditional market",
+                "url": "http://blog.naver.com/kmmarket901",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMp48IRjq9NCy8GyfN6Gi5ldO92I0q7o6w9kXA6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hoapsa Temple",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS9JpkZyIXMbmTxZT4oa9nU2r61M6tfoK21ZxT=w148-h148-n-k-no"
+            },
+            {
+                "title": "CGV Guro",
+                "category": "Cinema",
+                "url": "http://www.cgv.co.kr/theaters/?areacode=01&theaterCode=0010",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNk-jhtcaZsNSkqfmVOsRK29oHomUITPxlo1N4S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Namguro Market",
+                "category": "Traditional market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpXFezHCXiuoLX9PC8wsN_rF5WXE_o14kI6C0z=w148-h148-n-k-no"
+            },
+            {
+                "title": "HaB Korea",
+                "category": "Travel Agent",
+                "url": "https://www.habkorea.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvZMj4fZdjvRPa9U27J65AVXsLt3o0e_ZvQ5th=w148-h148-n-k-no"
+            },
+            {
+                "title": "Noryangjin Fisheries Wholesale Market",
+                "category": "Seafood market",
+                "url": "http://www.susansijang.co.kr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsPShz-qhZyPk2vSoF9VhP2_vTBtyBZVkStRHZ=w148-h148-n-k-no"
+            }
+        ],
+        "Chaeryŏng-ŭp": [
+            {
+                "title": "Gaetgol Ecological Park",
+                "category": "Ecological park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGTzqIZPLkFEg2bL4dtXkjui6qi0iHqOLw5lB3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ansan Lake Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEbcKRsd9I_hbW-Ao2R7vEI8nA4PANXFGwUQHF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gyeonggi Museum of Modern Art",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxg7vAKDhtev-__UV4EO99-eVGNs7745yS66g6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hojobeol",
+                "category": "Farm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnoQNg3i-6KsKzWvLGb-Dh3b9EHf5daYRgFuVd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Incheon Grand Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPR8OyDewiEaRdgRu67zYnNArnHABe-qxHLjoSE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Songdo Central Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdler-7-K4mlaGNUsHBZVp0R_J9OWXfSehUwvi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gwangmyeong Cave, Gyeonggi-do",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLH1lCeF9zQAH_wLOo9zI9WbBE-r_BdK-Toumr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hyundai Premium Outlets Songdo",
+                "category": "Shopping outlet",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLIaq-9PfdxQXipNaPU8cM9c76SpUQEX9-Ew6M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heungnyunsa Temple",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuJSnpJ7FnfD3xfALqCKUjmXwINZjX7csz4_hw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiheung Premium Outlets",
+                "category": "Shopping outlet",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMexTIwpVbMNGdHzwlbSnRfMfjfNc_Qpv4snpHa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Incheon Munhak Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCRraOQbrfE0yx6GDrfMYOnwTQ91lA-OGlYTKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Songdo Convensia",
+                "category": "Convention centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUO4-JLW9jUZ0bo7wzRmJfGiQ3rCX9yo4zLh7R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Incheon National University (INU), Songdo Campus",
+                "category": "Public university",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPgiGuiKhS4JuqRKty93uw2ad-D2Q7F__pAnCm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Memorial Hall for Incheon Landing Operation",
+                "category": "War memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSOWNy0cTg8e0U3NisGK7c_qIVqa5E4roKlSjq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sorae Ecology Park",
+                "category": "Ecological park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB5eShwpvA9Gn-w-ydNvBiCFajW3a3xYO6O2YL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yonsei University, International Campus",
+                "category": "Private university",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOe8q4eicPyiS9NP5pf1rbphbew4l6WUWQBpK4B=w148-h148-n-k-no"
+            }
+        ],
+        "Haeju": [
+            {
+                "title": "Arch of Triumph",
+                "category": "Historical landmark",
+                "img": "https://lh3.googleusercontent.com/proxy/JHnuKU5Hjyd6XgBnBGSDg4LicARUVOFj9IQJS5FM6f2dS8fOSjI-sQBvUuUIjayq6Bb7NPRdJjRjWKWTNTO-W7KHokQauqwEkf46RFWBwtdbxZe4HtTktWIL1Yd9KYh2dFfpQHoMZrGmO51swI0kNiGdZsmOhg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Worker's Party Foundation Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp91mgp0wWtb0f3maIVd9emqQdJToHve_RlMcI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of King Wanggon",
+                "category": "Historical landmark",
+                "url": "https://en.wikipedia.org/wiki/Mausoleum_of_King_Wang_Kon",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5rz8yuap26bg7htKbxbP-efHYraF4Qqopvava=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juche Tower",
+                "category": "Monument",
+                "img": "https://lh4.googleusercontent.com/proxy/Fuk_tWxxBUmhb0unrpCYlQjM9v4YlFWv0MMeRHLEksTbRkdxBlhdKYCbg3J4YJd7Z8OTQ7bl6uWC45Og2cRU8IofW6ZihXVQ4G1EA59ycJXa_4ql5IiWSe5wdKBlEL2WdJLHNn49KFmwJO13d6K1lJvmrgYGtrg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Friendship Tower",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKpTC2nm6h91-fuv3vc3GgbSgCZcF0hLGU6WPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyongyang Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzBnS1J4Tf2edpCVU3jX1rbyPBdkxqg0jSqWo8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyongyang",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU0iC81jaYuo64PvVMejJ1kAdQjrd7EpMhipxL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masikryong Ski Resort",
+                "category": "Ski resort",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMqgCtPX_ffvPiycFlDIdNhs1mdut6PXZClCGi=w148-h148-n-k-no"
+            }
+        ],
+        "Yuktae-dong": [],
+        "Uiju": [],
+        "Hyesan": [],
+        "Sunch’ŏn": [],
+        "Hŭngnam": [],
+        "Manp’o": [
+            {
+                "title": "International Friendship Exhibition",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGFKpmYUgtWAwStzHmIqoRvcCQydgJbn4stygo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Myohyangsan",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB6wJrjKFHe29c9sX_Li1ZYFkXxO9I9k2CM-nb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paektu Mountain",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObMMm2gWiajXgD4IVLt7avjsCpHOQc1SWprdw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taedong",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNja1SVLI_1eHFIqWvxpNX9KxwaddIyhepw4lUT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pohyŏnsa",
+                "category": "Buddhist temple",
+                "url": "https://en.wikipedia.org/wiki/Pohyonsa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIAJb68jn6Ci_XuE_nMYmylBu9GQnMAFJAXCC9=w148-h148-n-k-no"
+            }
+        ],
+        "Rajin": [],
+        "Kaesŏng": [
+            {
+                "title": "개성역사유적",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTIfKjdP7wFvTLy3k3RNoc286jADKTJihMpSvx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch of Triumph",
+                "category": "Historical landmark",
+                "img": "https://lh3.googleusercontent.com/proxy/JHnuKU5Hjyd6XgBnBGSDg4LicARUVOFj9IQJS5FM6f2dS8fOSjI-sQBvUuUIjayq6Bb7NPRdJjRjWKWTNTO-W7KHokQauqwEkf46RFWBwtdbxZe4HtTktWIL1Yd9KYh2dFfpQHoMZrGmO51swI0kNiGdZsmOhg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Goryo History Museum",
+                "category": "History museum",
+                "url": "https://koryogroup.com/travel-guide/north-korea-guide-kaesong-koryo-museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeZb3sI9xTk1NG_AEiXWr67KHyrXhPLpYm8nRi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyongyang",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk1Ckn0vMr0tg82ecWPiisjMD9Dw1X40WTB9no=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juche Tower",
+                "category": "Monument",
+                "img": "https://lh4.googleusercontent.com/proxy/Fuk_tWxxBUmhb0unrpCYlQjM9v4YlFWv0MMeRHLEksTbRkdxBlhdKYCbg3J4YJd7Z8OTQ7bl6uWC45Og2cRU8IofW6ZihXVQ4G1EA59ycJXa_4ql5IiWSe5wdKBlEL2WdJLHNn49KFmwJO13d6K1lJvmrgYGtrg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mansudae Hill Grand Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeDaY2aCzKHi5wEjORbhm2ddZK8SVw__x-RJmx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Friendship Tower",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKpTC2nm6h91-fuv3vc3GgbSgCZcF0hLGU6WPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manwoldae",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMW6BS0RuekOovPR6q22iNTcvoLZesZNCG2TzW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaesong Namdaemun",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoLd-8E8EdER9wHeBShNF6cU8RKrW6gLshjkQF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of King Wanggon",
+                "category": "Historical landmark",
+                "url": "https://en.wikipedia.org/wiki/Mausoleum_of_King_Wang_Kon",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5rz8yuap26bg7htKbxbP-efHYraF4Qqopvava=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyongyang",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU0iC81jaYuo64PvVMejJ1kAdQjrd7EpMhipxL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of King Kongmin",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPffQyDbwOkNZWaX09z5ldE9ANsczUgecPVv5J_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sungkyunkwan University (Humanities & Social Sciences Campus)",
+                "category": "Private university",
+                "url": "https://www.skku.edu/skku/index.do",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3e7x428VQLhlJZOV83pIZt1DyfvEGKCUCj7bX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kumgang",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPQK2NaV2CrRlS2yu3pzzHHkYHY6z_Uslq1zVt=w148-h148-n-k-no"
+            }
+        ],
+        "Kanggye": []
+    },
+    "sights": []
+}

@@ -1,0 +1,259 @@
+{
+    "cities": {
+        "Mbabane": [
+            {
+                "title": "TransMagnific",
+                "category": "Travel Agent",
+                "url": "http://www.transmagnific.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUm68dUOR-RN_znmGZErNNZw0FZ05YewTBjpbI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coronation Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO20s4jl373-75qfMAGdEgbGX-83aFQBJj3qAhE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramblas Restaurant Mbabane",
+                "category": "Restaurant",
+                "url": "http://ramblasmbabane.com/Menu",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMa4KMBNLQ9To2xys6l52esOH-C7OKf4SI6cgpB=w148-h148-n-k-no"
+            },
+            {
+                "title": "SkyWorld Travel & Tours",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdE0726ONKTC0DAY22B_8giYXh-wdQlPw0KKvn=w148-h148-n-k-no"
+            },
+            {
+                "title": "All Saints Cathedral",
+                "category": "Anglican church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqZVv2Bj0LxsX_qu5d5GYDpGXSNS2OmJYCW-uC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Potter's Wheel Church",
+                "category": "Church",
+                "url": "http://potterswheelsd.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQuFSfUyrD8aQlGstlnBn-I0Ef8eaFMUdj1evA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mbabane Craft Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgrI-vtWhTd4n7tadKkuhw01Ss1-VCZtjMo3E=w148-h148-n-k-no"
+            },
+            {
+                "title": "NoLu Events and Tours",
+                "category": "Tour operator",
+                "url": "http://www.nolutours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaN_um-DMtaIGUmkJt0ht3RPtRBbMSTwPtYcBM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sibebe Rock",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmV4gXExOVKKbXiq9fYw8UpzpobzTrvFnM0iAm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mdzimba Mountain Lodge",
+                "category": "Lodging",
+                "url": "http://www.swatitravelandtours.com/",
+                "img": "https://lh3.googleusercontent.com/proxy/7b0SxuiGr-SijaNyOnbGh9hCdZ7519OFVyon_r79pCS1xdl91cdBxETZ9ZdLZj7Xei1c0JJBmqS2glk5VbSJOWPztFBAsNIeIHLtZbLx3L0Z8YN8tlDYFqBodyob26ANfMrqrN6DFQ7TOiRGUQLuvP8P8CxwRU0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lugogo Sun",
+                "category": "Hotel",
+                "img": "https://lh6.googleusercontent.com/proxy/_L4iZtw6BlYrz3K9nnV2pnB2SP199jYPVAyL_aQv8pbHgaOCatRFIsGwkMbP_gB2V2s6j_gNKTt3crRHzw89_OxdsaoLOEurecnXhBk5F0I9Z_bWklOuF-nU3nbUEjdDjyJTJumnm2-Nj7d9cHYquPc9Nuu2lw=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Royal Swazi Sun Hotel",
+                "category": "Resort hotel",
+                "img": "https://lh4.googleusercontent.com/proxy/KiH_IRigGLeTwmKVl0oZQ0z9aTxlM7JQmahu0Ytkc6qJqeSsAj9HJ4aTdP5kmkG5b2P3JUrVRWQtgYwtKwL6-zhPispo1JVHBeSyMvHYw7zNaenTHOeR6BP_hn-FUaPDWGzTJCY-AcIJhYAFrKCaV_zxpsAhe10=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malolotja Canopy Tour",
+                "category": "Tourist attraction",
+                "url": "https://www.canopytour.co.za/locations/malolotja-swaziland/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlpPp99D3E6D70EndnYc4uQg72PhMQbiKJ0aH3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Phophonyane Falls Nature Reserve",
+                "category": "Nature reserve",
+                "url": "http://phophonyane.co.sz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYxRpGuLpCqzoIhx8SO5E_7rOOQRhbknBZXxxn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mantenga Cultural Village",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaEoU1cQ48L0GwzKRG4NITNK1Y6J_boVDb2tan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vaya Trails",
+                "category": "Outdoor sports shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO65EmKC4GezIJeFsr5YToeIWN9WyHRGwHrnwJQ=w148-h148-n-k-no"
+            }
+        ],
+        "Manzini": [
+            {
+                "title": "Manzini Lifestyle Center",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMI_zb_yTTbH9NkcwzoC-N4dUJflpxYfIjKG15j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Julio's Cinelux",
+                "category": "Cinema",
+                "url": "https://www.julioscinelux.co.sz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8KeJKfjTZm-BFOTGVhcFBF52b7awWFUiJ79et=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manzini Main Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ucfy9AwdN_Ytqr48T0V9pLJaNaHZL_NMbVPr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swazi Candles",
+                "category": "Candle shop",
+                "url": "http://www.swazicandles.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw0lxlChXbDE30rcdJ_x4FDmHbFwA4o4KJy84n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Happy Valley Casino",
+                "category": "Casino",
+                "url": "http://www.happyvalleycasino.co.sz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1-NjHoPlUD4jyvkkyyNrhuSTybwVxGg4_KvEA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mantenga Cultural Village",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaEoU1cQ48L0GwzKRG4NITNK1Y6J_boVDb2tan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Execution rock",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPc3uCrotzRL1PNsHMnlZU1T3cRQNGv6_Xx51Uv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matsapha Lifestyle Centre",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMz_FwGZZvJq7H9VoyYVWxoBt_TGmYxwYVoIr3A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mantenga Nature Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdjxIB0lLfveglLcwdL8rH6UxEjEl22547jyMt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mlilwane Game Sanctuary",
+                "category": "Nature reserve",
+                "url": "http://www.biggameparks.org/mlilwane/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNC5Op7WnDjmNfvaH93XKsYnD7RNsptc9MYTGr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malolotja National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6O2zhaGyH0K_pKEHgw7uKswtXGyInMghj6hOa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swazi Village Home Stay",
+                "category": "Tourist attraction",
+                "img": "https://lh6.googleusercontent.com/proxy/hh9m8FOu62jwYJh8LkFTYXflq72O1mJtvelUoDVIeHmjMSjw1DoIR3xdVdon17Dv2tTFjL-UrY9zkPPNtcxbGKxIwvQ2iNnclQ9AMn0rmdaWc3a2JI_iffiNsdMRpRo83EEJVuG6fB7Oc7CtuyohJEqX8wWcUhY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nkonyeni Lodge & Golf Estate",
+                "category": "Golf course",
+                "url": "http://www.nkonyeni.co.za/",
+                "img": "https://lh3.googleusercontent.com/proxy/WaVTnEbMLnIoy8xCgcph6jnFI4GdxRVd5Vch8XO8qCWWH51sjyS205CiI4yjacKlxEXom4GjV7RpNHrkkuuPtDns9zlqLLLMfR8L5yNrfbkmNtTDopa_ATGdJmGukFDYIbLr---u-YZT2sDIbi8AC88zuu68rw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jesus Calls Worship Centre",
+                "category": "Christian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNThhVz5X6kcKQKWvsJRSdNwq36e59s499eCceN=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Mlilwane Game Sanctuary",
+            "category": "Nature reserve",
+            "url": "http://www.biggameparks.org/mlilwane/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNNC5Op7WnDjmNfvaH93XKsYnD7RNsptc9MYTGr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mantenga Cultural Village",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPaEoU1cQ48L0GwzKRG4NITNK1Y6J_boVDb2tan=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mbabane",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNRnFusOlhAJq4i7DGQ39RRSKv8gZxSRXva3dE5=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hlane Royal National Park",
+            "category": "National park",
+            "url": "https://biggameparks.org/properties/hlane-royal-national-park-1",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMGZICtQp_Kt52Dr4tTIYM9ArGeWdKgQ67vfUCr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mbuluzi Game Reserve",
+            "category": "Park and Garden",
+            "url": "http://www.mbuluzi.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOVykBvM_AN_S84ddyjmZqqQ2zu4wYyCHjqsXYm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Phophonyane Falls Nature Reserve",
+            "category": "Nature reserve",
+            "url": "http://phophonyane.co.sz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPYxRpGuLpCqzoIhx8SO5E_7rOOQRhbknBZXxxn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sibebe Rock",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPmV4gXExOVKKbXiq9fYw8UpzpobzTrvFnM0iAm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Manzini",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPo-qCTHbmbPwRQTW6e7E6sxjllXHLnGnCVKrce=w148-h148-n-k-no"
+        },
+        {
+            "title": "Main Camp Shewula Nature Reserve",
+            "category": "Motorway services",
+            "url": "https://shewulacamp.org/the-camp/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN-txsghw51UEH7fodMS6ZKX_YjI1MNMxCbgK-_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Malolotja National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN6O2zhaGyH0K_pKEHgw7uKswtXGyInMghj6hOa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nisela Safaris",
+            "category": "Indoor accommodation",
+            "img": "https://lh3.googleusercontent.com/proxy/bgMOeAOr3jbTFnou15OllA6b7i7slkHfdId7vW2heX8Yj-KHW8UgPSyYJcd9F3PD9ToBrJ15e4gdCIUleCV9IndzyCWTl_egnwPYVlRCT5BohW9p7HLgIuFKzNx4h4tOS2olAp8kcL5tMTWNE2M7IlqucPDfeg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Execution rock",
+            "category": "Hiking area",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPc3uCrotzRL1PNsHMnlZU1T3cRQNGv6_Xx51Uv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Malolotja Canopy Tour",
+            "category": "Tourist attraction",
+            "url": "https://www.canopytour.co.za/locations/malolotja-swaziland/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMlpPp99D3E6D70EndnYc4uQg72PhMQbiKJ0aH3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Piggs Peak",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipODWkhPZG_nqJCJLQpnokPfoRKIE9qWy4Ssbm0M=w148-h148-n-k-no"
+        },
+        {
+            "title": "Malolotja Nature Reserve",
+            "category": "Lodge",
+            "url": "https://entc.org.sz/malolotja/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNR41OaFAh2EBMXoOcA38koRwUuBQwd8ZuOZH7A=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mantenga Nature Reserve",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMdjxIB0lLfveglLcwdL8rH6UxEjEl22547jyMt=w148-h148-n-k-no"
+        }
+    ]
+}

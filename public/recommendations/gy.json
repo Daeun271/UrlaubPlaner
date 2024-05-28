@@ -1,0 +1,180 @@
+{
+    "cities": {
+        "Georgetown": [
+            {
+                "title": "Promenade Gardens Guyana",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyLKllpTHBIiadDVwQm3OtG_kuewu82dgiDiPJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stabroek Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKZNfcTqzJgFh4v8ofQM51HqQKaloddD9lTiWq=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Gallery Of Art, CASTELLANI HOUSE",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv44fEjq_etdYxKTAMLQHpf7WxcQqkyVeZ6Zye=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of the Immaculate Conception",
+                "category": "Religious institution",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhoHdW4MECoj35uowbhC0cSBSUt6bOn0sGchWu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanical Gardens Guyana",
+                "category": "Botanical garden",
+                "url": "https://ntg.gov.gy/monument/botanical-gardens/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvy0yYgiTFwKwecgF-f2QK27baILe1cQ_oi0g6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guyana National Museum",
+                "category": "Museum",
+                "url": "https://guyananationalmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdT4JgZ2W7rJdcsyNqEqlM_VL6rJxvbJUSTbxl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Walter Roth Museum of Anthropology",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6HViBzTCqkSHpqcOqx4VOgP75o0DBEMv4svJl=w148-h148-n-k-no"
+            },
+            {
+                "title": "St George's Cathedral",
+                "category": "Cathedral",
+                "url": "https://www.facebook.com/pages/category/Religious-Organization/St-Georges-Cathedral-Guyana-1012853198756558/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1BHbdhK8xNyDM08dtZCHolwbi_piiT2Sg6Tk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guyana Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfdPbNGRhurDd5dFycZ08u3wUnmGnObpTHGbyP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roy Geddes Steel Pan Museum",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpy2HEXSAn6kvjVO8Oq-Ooh8n_aPYGy2CaF822=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cheddie Jagan Research Center",
+                "category": "Research foundation",
+                "url": "http://jagan.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFNL7MppncGxdIEq-WIC8ACZtn10efyX7gt85d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parliament Building",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqxn4z-KlZNgfd-eOzsc9Tk_Uzk-YEJPM-jKYe=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Joseph Husband of Mary Roman Catholic Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUCRD5lmFeqJ2nhGvRH-yGQblg80aWsCYqf-Yo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pandama Retreat & Winery",
+                "category": "Resort hotel",
+                "url": "http://www.pandamaretreat.com/",
+                "img": "https://lh3.googleusercontent.com/proxy/sLVFcPmbYwXLVVep9cO27vxZlmK_raPeDbgMRiQHle0v-4ewx2ASDl33xe3BWsNi1puIkOYXG99fptkjDwlgjaIOqajuY4MBrgUz3o4_IB9x6r64bBFd4uPaam_DQxKVp1it6INSQXr2RWPxujFLcavcWxOV46Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Place of the Seven Ponds",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2Xhtym5mQR33ycgcCMRaDdQmgGZf2aON1o_2-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Demerara Harbour Bridge",
+                "category": "Bridge",
+                "url": "http://www.harbourbridge.gov.gy/schedule.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxPPSjl8ASa6mRX55xk1hC0MMihDR--bIV0E_M=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Kaieteur Falls - Guyana",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMcwgiE0lAyPNzlQdmQiMUrJnlr814IVXB15OfB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Stabroek Market",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKZNfcTqzJgFh4v8ofQM51HqQKaloddD9lTiWq=w148-h148-n-k-no"
+        },
+        {
+            "title": "St George's Cathedral",
+            "category": "Cathedral",
+            "url": "https://www.facebook.com/pages/category/Religious-Organization/St-Georges-Cathedral-Guyana-1012853198756558/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN1BHbdhK8xNyDM08dtZCHolwbi_piiT2Sg6Tk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Guyana National Museum",
+            "category": "Museum",
+            "url": "https://guyananationalmuseum.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOdT4JgZ2W7rJdcsyNqEqlM_VL6rJxvbJUSTbxl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Botanical Gardens Guyana",
+            "category": "Botanical garden",
+            "url": "https://ntg.gov.gy/monument/botanical-gardens/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOvy0yYgiTFwKwecgF-f2QK27baILe1cQ_oi0g6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Demerara Harbour Bridge",
+            "category": "Bridge",
+            "url": "http://www.harbourbridge.gov.gy/schedule.html",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNxPPSjl8ASa6mRX55xk1hC0MMihDR--bIV0E_M=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pandama Retreat & Winery",
+            "category": "Resort hotel",
+            "url": "http://www.pandamaretreat.com/",
+            "img": "https://lh3.googleusercontent.com/proxy/sLVFcPmbYwXLVVep9cO27vxZlmK_raPeDbgMRiQHle0v-4ewx2ASDl33xe3BWsNi1puIkOYXG99fptkjDwlgjaIOqajuY4MBrgUz3o4_IB9x6r64bBFd4uPaam_DQxKVp1it6INSQXr2RWPxujFLcavcWxOV46Y=w148-h148-n-k-no"
+        },
+        {
+            "title": "Orinduik Falls",
+            "category": "Waterfall",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP955ZciAQQm9avRUNkYIhj8TxvOQS-O-SNWCSD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Walter Roth Museum of Anthropology",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP6HViBzTCqkSHpqcOqx4VOgP75o0DBEMv4svJl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Iwokrama Canopy Walkway",
+            "category": "Tourist attraction",
+            "url": "https://iwokramacanopywalkway.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPou8jJxIEB62U_502JX4fZAR36-JjEBNmp631c=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kanuku Mountains",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM1h8BjG1cvqOnckiE903Y7XetKA4mPUcV67mSG=w148-h148-n-k-no"
+        },
+        {
+            "title": "The National Gallery Of Art, CASTELLANI HOUSE",
+            "category": "Art gallery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNv44fEjq_etdYxKTAMLQHpf7WxcQqkyVeZ6Zye=w148-h148-n-k-no"
+        },
+        {
+            "title": "Essequibo River",
+            "category": "River",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNibq3jOE9zDMoWMyRJ8K2spd0N_-mfywamPZGI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cathedral of the Immaculate Conception",
+            "category": "Religious institution",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOhoHdW4MECoj35uowbhC0cSBSUt6bOn0sGchWu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Number 63 Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP8ewxswQ99RsebRskNXTwS6viGuqiArJBmx66u=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fort Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOJpJ2gG5KJkvMlGrUWzd7opt7S1Y2xUqbMr8fc=w148-h148-n-k-no"
+        }
+    ]
+}

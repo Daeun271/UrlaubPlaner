@@ -1,0 +1,383 @@
+{
+    "cities": {
+        "Coyah": [],
+        "Macenta": [],
+        "Faranah": [],
+        "Fria": [
+            {
+                "title": "Conakry",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhIDfV5sjyZM9pZAAE7GVxCvRaqfSZpHmN7Mag=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Bambeto",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpsOgeItIziy61rRCuUCkkSy5uQceSIJvw4lzS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fouta Djallon",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWUmWj7MK-vO0c4b2YZu84RMa0h5GIYD25URdS=w148-h148-n-k-no"
+            },
+            {
+                "title": "General Lansana Conte Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7HadGO43PZT09nOOCo0CdpCceVpIcq6h-qhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade du 28 Septembre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOtjE_uxL7JROVrN6mrs8dwqo1aW6kr2p4jxGK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Conakry",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcudW-U4HQGMSJEDYT77m8MTApsEr47fZOgk-j=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Guinea",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7M-FM1L9rrShINcWYThH_3cRszYICF1Z_1jkR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Îles de Los",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfUkFYKsNORgPtf3nhcfN9R9h_wxEDywkU-pFs=w148-h148-n-k-no"
+            }
+        ],
+        "Sangarédi": [],
+        "Manéah": [
+            {
+                "title": "Conakry",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhIDfV5sjyZM9pZAAE7GVxCvRaqfSZpHmN7Mag=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kindia",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3Y_edNo2y6LkOXcZ0ebVTGKgtSb3LyZvLNJlE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Conakry",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcudW-U4HQGMSJEDYT77m8MTApsEr47fZOgk-j=w148-h148-n-k-no"
+            },
+            {
+                "title": "General Lansana Conte Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7HadGO43PZT09nOOCo0CdpCceVpIcq6h-qhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Bambeto",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpsOgeItIziy61rRCuUCkkSy5uQceSIJvw4lzS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade du 28 Septembre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOtjE_uxL7JROVrN6mrs8dwqo1aW6kr2p4jxGK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Îles de Los",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfUkFYKsNORgPtf3nhcfN9R9h_wxEDywkU-pFs=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Guinea",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7M-FM1L9rrShINcWYThH_3cRszYICF1Z_1jkR=w148-h148-n-k-no"
+            }
+        ],
+        "Labé": [],
+        "Mamou": [
+            {
+                "title": "Grande Mosquée de Conakry",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcudW-U4HQGMSJEDYT77m8MTApsEr47fZOgk-j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Pita",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8X91b3rbl2mu7rZLlk4yCyHKrFONfEb8VvmKy=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Guinea",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7M-FM1L9rrShINcWYThH_3cRszYICF1Z_1jkR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Terrain Section",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO9A7xedAocnd9BGIiDPYByQe8b9AA28fQTAYl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fouta Djallon",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWUmWj7MK-vO0c4b2YZu84RMa0h5GIYD25URdS=w148-h148-n-k-no"
+            }
+        ],
+        "Dubréka": [],
+        "Nzérékoré": [],
+        "Kindia": [
+            {
+                "title": "CanalOlympia Kaloum",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTwq6eY7xrf7qsQkHIZXIE1Ij91kccBNr_qX4A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade du 28 Septembre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOtjE_uxL7JROVrN6mrs8dwqo1aW6kr2p4jxGK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Bambeto",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpsOgeItIziy61rRCuUCkkSy5uQceSIJvw4lzS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Conakry",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcudW-U4HQGMSJEDYT77m8MTApsEr47fZOgk-j=w148-h148-n-k-no"
+            },
+            {
+                "title": "General Lansana Conte Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7HadGO43PZT09nOOCo0CdpCceVpIcq6h-qhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Guinea",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7M-FM1L9rrShINcWYThH_3cRszYICF1Z_1jkR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Îles de Los",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfUkFYKsNORgPtf3nhcfN9R9h_wxEDywkU-pFs=w148-h148-n-k-no"
+            }
+        ],
+        "Camayenne": [
+            {
+                "title": "CanalOlympia Kaloum",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTwq6eY7xrf7qsQkHIZXIE1Ij91kccBNr_qX4A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Bambeto",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpsOgeItIziy61rRCuUCkkSy5uQceSIJvw4lzS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Conakry",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcudW-U4HQGMSJEDYT77m8MTApsEr47fZOgk-j=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Guinea",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7M-FM1L9rrShINcWYThH_3cRszYICF1Z_1jkR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade du 28 Septembre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOtjE_uxL7JROVrN6mrs8dwqo1aW6kr2p4jxGK=w148-h148-n-k-no"
+            },
+            {
+                "title": "General Lansana Conte Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7HadGO43PZT09nOOCo0CdpCceVpIcq6h-qhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Îles de Los",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfUkFYKsNORgPtf3nhcfN9R9h_wxEDywkU-pFs=w148-h148-n-k-no"
+            }
+        ],
+        "Kankan": [],
+        "Kamsar": [
+            {
+                "title": "General Lansana Conte Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7HadGO43PZT09nOOCo0CdpCceVpIcq6h-qhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "CanalOlympia Kaloum",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTwq6eY7xrf7qsQkHIZXIE1Ij91kccBNr_qX4A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade du 28 Septembre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOtjE_uxL7JROVrN6mrs8dwqo1aW6kr2p4jxGK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Bambeto",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpsOgeItIziy61rRCuUCkkSy5uQceSIJvw4lzS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Conakry",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcudW-U4HQGMSJEDYT77m8MTApsEr47fZOgk-j=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Guinea",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7M-FM1L9rrShINcWYThH_3cRszYICF1Z_1jkR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Îles de Los",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfUkFYKsNORgPtf3nhcfN9R9h_wxEDywkU-pFs=w148-h148-n-k-no"
+            }
+        ],
+        "Boké": [
+            {
+                "title": "Place des Martyrs de Boké",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNrngaC3VoIUO9B7JcrR5doO1ebwwETTrlos7p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Place Publique De Kayenguissa",
+                "category": "Community garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGEb-y8M3G_HYIg6Q1FCymcC8mttej_2fYMoqI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mission évangélique Chemin de la Liberté",
+                "category": "Gospel church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPOB28OGyVb9LiByfblOIG61rkPmgNvXIRjHac=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade de l'amitié de Kamsar",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMR0CaYZ_5Ry-JwNqqQKaiSU2GxxBxJc4x6XyuM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Îles de Los",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfUkFYKsNORgPtf3nhcfN9R9h_wxEDywkU-pFs=w148-h148-n-k-no"
+            }
+        ],
+        "Conakry": [
+            {
+                "title": "Grande Mosquée de Conakry",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcudW-U4HQGMSJEDYT77m8MTApsEr47fZOgk-j=w148-h148-n-k-no"
+            },
+            {
+                "title": "General Lansana Conte Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7HadGO43PZT09nOOCo0CdpCceVpIcq6h-qhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade du 28 Septembre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOtjE_uxL7JROVrN6mrs8dwqo1aW6kr2p4jxGK=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Guinea",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7M-FM1L9rrShINcWYThH_3cRszYICF1Z_1jkR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Bambeto",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpsOgeItIziy61rRCuUCkkSy5uQceSIJvw4lzS=w148-h148-n-k-no"
+            },
+            {
+                "title": "CanalOlympia Kaloum",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTwq6eY7xrf7qsQkHIZXIE1Ij91kccBNr_qX4A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Îles de Los",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfUkFYKsNORgPtf3nhcfN9R9h_wxEDywkU-pFs=w148-h148-n-k-no"
+            }
+        ],
+        "Siguiri": [],
+        "Kissidougou": [],
+        "Gueckedou": []
+    },
+    "sights": [
+        {
+            "title": "Cap Verga",
+            "category": "Peninsula",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOuDO3wNEbPUwkfdQy_LiVboeoH7Boj8cGXHme9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kankan",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPuyr9qyCMzXZFNaRZV2aL0NS63GO88y-r3ipde=w148-h148-n-k-no"
+        },
+        {
+            "title": "Faranah",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM4_rgYu9YDORYB7IUf2FQaBXZSDVgzbQhhtC36=w148-h148-n-k-no"
+        },
+        {
+            "title": "L'île de Roume",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipORuHHTtsp19I9QMm0pCCHzxyrSRPZNfl03i7TM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ile Kassa",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNMrr2vERsQKsOn8LiCQAUvON2RKIOPn7Lfubr6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nzerekore",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO8zsSTDCxq6xWqMmRZJpsRo011wJjaqTTH67VL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kissidougou",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOB0g1ey6eECJLbuCqRVb_PHyr46x1t2pVCwORl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Richard-Molard",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNtRM8CTnCk-zsWFZL8J6LSMq96nXAFqjiVGXim=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cathedrale Sante Marie",
+            "category": "Compound grounds",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMDPhFkZMWHe7AIBx2pbLe3CKvc0ytE3AMSD2xn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Grande Mosquée de Conakry",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOcudW-U4HQGMSJEDYT77m8MTApsEr47fZOgk-j=w148-h148-n-k-no"
+        },
+        {
+            "title": "Labe",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNA60kp6mot8_wtiv289BaCDH0SBXHcsFIswyfn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kindia",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP3Y_edNo2y6LkOXcZ0ebVTGKgtSb3LyZvLNJlE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Totalreservat Berg Nimba",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMk__4ADcfrYH78tnGD8zCNEcBxj5tmynWMR2zB=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Park of Upper Niger",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPo_iJAjTqRJHySEd2XF-csgxy-zT485lWVtI3h=w148-h148-n-k-no"
+        },
+        {
+            "title": "Conakry",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPhIDfV5sjyZM9pZAAE7GVxCvRaqfSZpHmN7Mag=w148-h148-n-k-no"
+        },
+        {
+            "title": "Stade du 28 Septembre",
+            "category": "Stadium",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNOtjE_uxL7JROVrN6mrs8dwqo1aW6kr2p4jxGK=w148-h148-n-k-no"
+        }
+    ]
+}

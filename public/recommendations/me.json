@@ -1,0 +1,245 @@
+{
+    "cities": {
+        "Nikšić": [
+            {
+                "title": "Manitovac",
+                "category": "Restaurant",
+                "url": "http://www.manitovac.me/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKR_HtUMcLab1gvN-O_dKTJqGb5TCc1e429o9E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ostrog Orthodox Monastery",
+                "category": "Monastery",
+                "url": "http://manastirostrog.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOumAhiVo_8J4J4RdhdDRWPJb6n4b7v6OZGgqL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bedem Fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQwv-f1hky-KLpQzEpORFr764DqPKYHpMQ32yK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carev most (1896.)",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNtB1TKxOmy67bKd452GshKOjh3cu3vdoXfFlZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mostanica Bridge",
+                "category": "Trail",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMw38ymshwjF6c4Vs1l9UMOjyPQS6tr4rNaGvd7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ski Centar Vučje",
+                "category": "Hotel",
+                "url": "https://vucje.me/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRCreAwYcZ23s6AIt4YntGqv91O5A_AQQgyK8M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trebjesa",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZwyBUhxzyYa25ljgGthENGhdrUjJBBGPk-dEc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krupac Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5venYagoXri8IjQgM8M1pPW31Iq0gzWy5RKH8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slansko Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1n61kLEVC78tQ6s1xUINw1AvhIkjBnO-rN-oi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dom Revolucije",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSQQqDgEAaR0YbLCMhJA5TUtKNnA1OBLmEAdla=w148-h148-n-k-no"
+            },
+            {
+                "title": "Црвена стијена",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmiISDpsUzvHK9Blf6OmndDZ7L96CuxCf86V6-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor's Bridge",
+                "category": "Bridge",
+                "url": "https://sarajevo.travel/en/things-to-do/emperors-bridge/422",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ24XFleGqUOkvc1ATzZlMGYLcer5pWZMGakyj=w148-h148-n-k-no"
+            }
+        ],
+        "Podgorica": [
+            {
+                "title": "Millennium Bridge (Podgorica)",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPivPLq4_PeepAkROR1A0HTSekpCMMsoXr4fYCX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Orthodox Temple of Christ's Resurrection",
+                "category": "Orthodox church",
+                "url": "http://hramvaskrsenja.me/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfrmZ-Ad5T4pTvEobyGB9oxKEIMBrkaX_XY8YL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dajbabe Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSfzGVtmpW4ljtRJPgEVBNz9-Aos5oPdYzpS6n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vodopad Nijagara",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMm2zlGYLghVvy9SlyUddewGExT4TYj15uIAphy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ribnica",
+                "category": "Water",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQhCJRrmWQibdR2iqkMhobmoAY48Z9sE5J89l_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vladimir Vysotsky Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFwF-RZUJQPoXVX_4k-PjzWmCC69J3dZNoIIue=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorica Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS16ceJimBclvaqgRJ8Fql8kJnXcbJpn2ntAxy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ostrog Orthodox Monastery",
+                "category": "Monastery",
+                "url": "http://manastirostrog.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOumAhiVo_8J4J4RdhdDRWPJb6n4b7v6OZGgqL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Podgorica City Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIJOuA-Pv2KoZ7MhcFPPqjKoq6PrdqZ4uxdTWt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clock Tower",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuTGxDBlbfsTyP7R-0bW82KX6AnZFe35MeNbnD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muzej savremene umjetnosti Crne Gore",
+                "category": "Art museum",
+                "url": "http://www.msucg.me/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdpKKt_EcM1U8m97iETJRaWKsUiw0X3bz_Y6w8=w148-h148-n-k-no"
+            },
+            {
+                "title": "פודגוריצה, מונטנגרו",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTz_WX1CCGXvC2pK7U-tLYwexI-dnrlfztGWAr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtnbw4-NtZ6ZUT2Ic-Cv_QAmbiXEZyHyt7EOxp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Njegošev Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSr4AKH-bZNr69RE7bCUweVDOkkRu8WGqnXYFw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Ribnica River Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQ6tmnWsnkn8sFLDoFFzXI4M0E4HzrUEhMwl0s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osmanagic Mosque",
+                "category": "Mosque",
+                "url": "http://www.monteislam.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4CHhxDaNIrs3Wa5uv6m3bRjRjFXepXlIBWjdx=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Ostrog Orthodox Monastery",
+            "category": "Monastery",
+            "url": "http://manastirostrog.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNOumAhiVo_8J4J4RdhdDRWPJb6n4b7v6OZGgqL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Durmitor National Park",
+            "category": "National park",
+            "url": "http://www.durmitornp.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMA5biXlLxacLvXWgLn34eSc4-w0FSLJGdBolqd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Đurđevića Tara Bridge",
+            "category": "Bridge",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMHA-e-8_1_iigTqbKPtw1QQXHzVAoRfdmmFNx3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lipa cave",
+            "category": "Tourist attraction",
+            "url": "http://www.lipa-cave.me/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMhe89GcEfEJVlsSJpzjdwyzQ2NAVpjRvpE8Ob6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Porto Montenegro",
+            "category": "Marina",
+            "url": "https://portomontenegro.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNZRZal4YeGKaE4s4YSHf1sTn858DspJvq6Hp1n=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kotor Old City Walls",
+            "category": "Historical landmark",
+            "url": "https://www.montenegro.com/phototrips/coast/Kotor_city_walls.html",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOV7TEKVszf94a4y7jWB1daD-Hl8NSH4R1zoj2H=w148-h148-n-k-no"
+        },
+        {
+            "title": "Skadar Lake National Park",
+            "category": "National park",
+            "url": "https://www.montenegro.travel/de/einzigartiges-montenegro/montenegros-nationalparks/skadar-see-nationalpark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMRa7Hzjezewpj6r2JHobtfwon2W5Q8KdYkf3Wi=w148-h148-n-k-no"
+        },
+        {
+            "title": "Budva Riviera",
+            "category": "Beach",
+            "url": "https://hgbudvanskarivijera.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPtbHIx3kaNiplTATa9K_qDNZp9Oy_fJL_uAZ2b=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bay of Kotor",
+            "category": "Bay",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMIlbitxCrrLQly4wQrua1PJjsTrYJGqkvS_Zmh=w148-h148-n-k-no"
+        },
+        {
+            "title": "San Giovanni",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN1BMi8x_HI2yYwHV5flA5TBO5zmiFlWuuDGc-F=w148-h148-n-k-no"
+        },
+        {
+            "title": "Blue Cave",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMuEgqIkfvPo-I5xgkQ7gM531XVUCaanifTvO2s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pavlova Strana Viewpoint",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNR7kGBCeRt0GrCV9-DsIdFWw8wKRGfFSLbu1hK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kotor",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPnCSHUrC94MPi57-kwr4smQulqvNSZpbA0cd2k=w148-h148-n-k-no"
+        },
+        {
+            "title": "Budva",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP-XuEgJ3lI1LQfSkixzOWBwtBGc-fmJjVvQS4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sveti Stefan",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMBOj5ezg0yk-PWc5K5zcvKSYxwZJHfdJ1K-VbN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Shkodra Lake",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMycrwWM9TqOgXH_2Fxz25R0-wkka1MQDWsKoKk=w148-h148-n-k-no"
+        }
+    ]
+}

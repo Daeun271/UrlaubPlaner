@@ -1,0 +1,413 @@
+{
+    "cities": {
+        "Sukuta": [
+            {
+                "title": "Fort Bullen",
+                "category": "Historical landmark",
+                "url": "http://www.accessgambia.com/information/fort-bullen-barra-point.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM1buJ62AVqUC0f1dZCHFhZxAsw1KWgl6Hr8No=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bakau craft market",
+                "category": "Tourist attraction",
+                "url": "http://www.bakaryjeng.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNptt18apN6zILAIynDtQcR7aSNlUa-KUMSKav=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijilo Monkey Park",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM33p-k7KbQeNMzjsQHnRVBYszZOS-ZYGorOHH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roman Catholic Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtGKpI7lKNqpNG0t0RP-s4vvt1Bz34Gsc4m2k7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stone Circles of Gambia",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNh3mWZPJYbVWYzwu-U6nZQ9rb9TeG5sBf300qI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bakau fish market",
+                "category": "Seafood market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3dF9ikh6mqx9KEdpTypY3EaFy3YS-VbczFenc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albert Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEgSvPfsq4RCb33BztlP69vsN_JqcPpGLRLxAp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abuko Nature Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPF9EqwWdbSwL9RF62wkSMoj5rTsMQMsafFc6uF=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of the Gambia",
+                "category": "Museum",
+                "url": "http://www.ncac.gm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs6lY9KwBqGZzdfGHDCcTu9qQeFlrRfwOJibr7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch 22",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxhUOkFUZtxqXROxhBx7B27dHjkn6G8P3dtIhk=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Gambian Reptiles Farm",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjZI-qP7wTKNt-0kts680WTFYVHrI5P2IYyUxv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanje Village Museum",
+                "category": "History museum",
+                "url": "http://www.ncac.gm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJQVOq1pG7eLDjwyEZi9ZXvt-cxt8-4Mh5s6lK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijilo National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN15fvTHAAMoFfckwH_mRytPsuFvlPwk0ehQmVm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kachikally Crocodile Pool",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8vHw9-Fb8NVs2CUZCznM3z75YO8_bUkH0gEt5=w148-h148-n-k-no"
+            },
+            {
+                "title": "River Gambia National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqcIo_oCVxnLnC1Qs1zCp8yT9LRuJ6ShixoYyx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunta Kinteh Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQeJBsNLXXL7WIGDo6hYnALB4_w5EVIGfhTPgG=w148-h148-n-k-no"
+            }
+        ],
+        "Brikama": [
+            {
+                "title": "Brikama Craft Market",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzUdto10918sfP07PV7946j73Khu9EYw8JVqSr=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Gambian Reptiles Farm",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjZI-qP7wTKNt-0kts680WTFYVHrI5P2IYyUxv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bakau fish market",
+                "category": "Seafood market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3dF9ikh6mqx9KEdpTypY3EaFy3YS-VbczFenc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanje Village Museum",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJQVOq1pG7eLDjwyEZi9ZXvt-cxt8-4Mh5s6lK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijilo Monkey Park",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM33p-k7KbQeNMzjsQHnRVBYszZOS-ZYGorOHH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunta Kinteh Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQeJBsNLXXL7WIGDo6hYnALB4_w5EVIGfhTPgG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albert Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEgSvPfsq4RCb33BztlP69vsN_JqcPpGLRLxAp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roman Catholic Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtGKpI7lKNqpNG0t0RP-s4vvt1Bz34Gsc4m2k7=w148-h148-n-k-no"
+            },
+            {
+                "title": "River Gambia National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqcIo_oCVxnLnC1Qs1zCp8yT9LRuJ6ShixoYyx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch 22",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxhUOkFUZtxqXROxhBx7B27dHjkn6G8P3dtIhk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanji",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8RfQivrUuxYn147RDOuRe9G-ojSQhfFp-vHPR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stone Circles of Gambia",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNh3mWZPJYbVWYzwu-U6nZQ9rb9TeG5sBf300qI=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Kotu Point Beach Bar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPn7doh11pwycvYQyp87H4pmRDyuqLAwL4_Md5j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abuko Nature Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPF9EqwWdbSwL9RF62wkSMoj5rTsMQMsafFc6uF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijilo National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN15fvTHAAMoFfckwH_mRytPsuFvlPwk0ehQmVm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kachikally Crocodile Pool",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8vHw9-Fb8NVs2CUZCznM3z75YO8_bUkH0gEt5=w148-h148-n-k-no"
+            }
+        ],
+        "Bununka Kunda": [
+            {
+                "title": "Kerr Serign",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4dsVq86ecEstHu_8BRAU7bRc5Zukq16nrBIcQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oh la la Spa",
+                "category": "Spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNF1rOD9m10OHPPiIH3f4OwnRxhr_hc_JeHVo5j=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Kizito's Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfOQ1ARmcLYv40kKX2334V03f-k56jJ9zoZOyz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brusubi",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVTbzT9QGEAtUVWUMDDh0MVkEXozTmW7yqRxMm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bakau",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIQHMvTH81UKTEcmiLvNS2SYyQtK43g9LwtNji=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Yundum",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9ixG8oQ_-mKG4THtJ_AC7v4QEGo2CvhFC-aLD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brufut",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOK9Od95U2_39KIhyed683mNVcmJBbGN1No2MLt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yundum",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdyCP7hItM5GxKvjYfMqKEaOZ_ooLW4IOECaZ2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Busumbala",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6BzqSSeCWYYD3EvTJEZGutXht0A4Iczkchlxn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kerewan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYkF4pnJRPCXA7oyCudg4qMJHiH5P4IvRbMpmT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Banjul",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5lkPf_sqXRJyiQ2KIL5De5-hexhridPYoaR-z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Explorer Gambia",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7nHgjbU1zYO156y3e4RuFIraZKIpEtVd6eUJb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tallinding",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlJjsix4gcgQ4NNp_q-KTkXw8z0zjnVoNg7VdA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faji Kunda",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf4QpWQCAK-nU5SL3gONv9tZRv7icyHflFGBwr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abuko Nature Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPF9EqwWdbSwL9RF62wkSMoj5rTsMQMsafFc6uF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wellingara",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtqdibEbb_pKlnqqyeho6-ZKlQH16joToErKOW=w148-h148-n-k-no"
+            }
+        ],
+        "Serekunda": [
+            {
+                "title": "Bijilo National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN15fvTHAAMoFfckwH_mRytPsuFvlPwk0ehQmVm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Senegambia",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9reX6ZvcimhqJTjqYNBoGwKnYh0cIvaEHSrMO=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Kizito's Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfOQ1ARmcLYv40kKX2334V03f-k56jJ9zoZOyz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dippa Kunda Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtE1VFfoLBfO8ABySeokiCzjnrCpLTNIWnSmEL=w148-h148-n-k-no"
+            },
+            {
+                "title": "NOMM Company Ltd.",
+                "category": "Household goods wholesaler",
+                "url": "http://www.nommgm.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwrr98Vu9WmPhQzDlz0aqjmHkiq9Jb2VsievC0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Janeya Tours",
+                "category": "Bank",
+                "url": "http://www.janeyatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSNFvm1RGvPY7i0B3dgTySyHEfts3MCYWkmwJ-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bushwhacker Tours",
+                "category": "Tour operator",
+                "url": "http://bushwhackertours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqzqy8JRkVvcKDbDKkreYxOz9lpR5b3Y08jKpf=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Key Art Gallery",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKf5XT5clYw9V1F3hwuoC9kcvsWLDU9fsc9yey=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pipeline Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCryemEry322YIPpGjiJyOgaBRYAvDwgXrZZ6T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Black and White Safari",
+                "category": "Tour operator",
+                "url": "http://www.blackandwhitesafari.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTZ-CUznVJ7Fov0J-gUOxZ0I2HsWecj8w6_Dft=w148-h148-n-k-no"
+            },
+            {
+                "title": "TOP-SHOP",
+                "category": "Souvenir Shop",
+                "url": "http://www.topshopgambia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2rNQZlMckgWGFsFSgo5nwGti7iTg79olnJ2nZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch Tours",
+                "category": "Tour operator",
+                "url": "http://www.arch-tours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1SpgEK5jlgDqckVd2ZW2HT1ulvb4wbwaz6P14=w148-h148-n-k-no"
+            },
+            {
+                "title": "Senegambia Craft Market",
+                "category": "Tourist attraction",
+                "url": "https://www.senegambiacraftmarket.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM58OkhZGuUUmCiILEfXFmZ6rOnxhz4YWR1pfu4=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Kachikally Crocodile Pool",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN8vHw9-Fb8NVs2CUZCznM3z75YO8_bUkH0gEt5=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bijilo National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN15fvTHAAMoFfckwH_mRytPsuFvlPwk0ehQmVm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Albert Market",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOEgSvPfsq4RCb33BztlP69vsN_JqcPpGLRLxAp=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Gambian Reptiles Farm",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNjZI-qP7wTKNt-0kts680WTFYVHrI5P2IYyUxv=w148-h148-n-k-no"
+        },
+        {
+            "title": "River Gambia National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOqcIo_oCVxnLnC1Qs1zCp8yT9LRuJ6ShixoYyx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kunta Kinteh Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMQeJBsNLXXL7WIGDo6hYnALB4_w5EVIGfhTPgG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Abuko Nature Reserve",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPF9EqwWdbSwL9RF62wkSMoj5rTsMQMsafFc6uF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Banjul",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN5lkPf_sqXRJyiQ2KIL5De5-hexhridPYoaR-z=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bakau fish market",
+            "category": "Seafood market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN3dF9ikh6mqx9KEdpTypY3EaFy3YS-VbczFenc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Serrekunda",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMtMvtj8NDUM1JRmzEOwQuT0QfB1kproGQhdEFx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tanje Village Museum",
+            "category": "History museum",
+            "url": "http://www.ncac.gm/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNJQVOq1pG7eLDjwyEZi9ZXvt-cxt8-4Mh5s6lK=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Kotu Point Beach Bar",
+            "category": "Bar",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPn7doh11pwycvYQyp87H4pmRDyuqLAwL4_Md5j=w148-h148-n-k-no"
+        },
+        {
+            "title": "Janjanbureh",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOwe4yTA743LPbnxqIbD-qXhs7X_nqklM_K11Nm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kiang West National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMcRKL2Kc_iqWApEr7qQ98PGNyO1Cwhed8Nrgju=w148-h148-n-k-no"
+        },
+        {
+            "title": "Senegambia Craft Market",
+            "category": "Tourist attraction",
+            "url": "https://www.senegambiacraftmarket.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM58OkhZGuUUmCiILEfXFmZ6rOnxhz4YWR1pfu4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bird Guide Gambia - Abdoulie Ndure",
+            "category": "Bird watching area",
+            "url": "https://www.birdguidegambia.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMbmWvDIR_yUbUf8w1fmIaTdJzs8-wEumPGew5f=w148-h148-n-k-no"
+        }
+    ]
+}

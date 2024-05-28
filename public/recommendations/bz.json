@@ -1,0 +1,190 @@
+{
+    "cities": {
+        "Belize City": [
+            {
+                "title": "Museum of Belize",
+                "category": "Museum",
+                "url": "https://www.travelbelize.org/attraction/museum-belize/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9lvtZcZKQYUIdkf9mesuRMFuTbRbnLp7ZyFkz=w148-h148-n-k-no"
+            },
+            {
+                "title": "St John Anglican Cathedral",
+                "category": "Cathedral",
+                "url": "https://www.facebook.com/stjohncathedralbelize",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOzgKgOLs_4BH-vERr_RiOJukFXqCPJwoFwxuV=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Belize Sign Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq6kgAgMqCLQkXnc8DXbO52AYcv4MmkX7EfJEn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Belize",
+                "category": "Water park",
+                "url": "https://www.oldbelize.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN50EEU8tPQp3FJln5yFkmzhcIxhKcKr_YmNiQu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Altun Ha",
+                "category": "Historical landmark",
+                "url": "https://www.travelbelize.org/attraction/altun-ha/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4DNVRgbL9t51BlIrsQZmNGaEeEfg2gM4yN0XS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cave tubing",
+                "category": "Tourist attraction",
+                "url": "http://nohochchencavesbrancharchaeologicalreserve.bravesites.com/nohoch-che-en-cave-tubing",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkVboBUkKpVpsCZR4CIumoYmJNUlaL1vW0GO7x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Government House",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgxQSiQlJ3D1WlHqdZ8qXmUW48GuIm5zE91MgP=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Pedro Belize Express Water Taxi",
+                "category": "Ferry Terminal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE_joG6-_oPIQIE0lNiiCD8VjhNckrsdItLFXE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crystal Auto Rental | Car Rental Belize City",
+                "category": "Car rental company",
+                "url": "https://www.crystalautorentalbelize.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsFaITu8B6Q8XbisG84zo4sd2eQuCsyzpOrOsO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Xunantunich Mayan Ruins",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkrBLwJLhwzHolh9wR4f-Vwf038jJ-zY_Oltcf=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Belize Zoo and Tropical Education Center",
+                "category": "Zoo",
+                "url": "http://www.belizezoo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPU--tzMz-5yMfZlfgKruJCK84zCFSNJmrNDP0B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Street Tourism Village",
+                "category": "Cruise Terminal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8ly-ReIrymsCsUp6cSC52xD6U0_32oK4gAYKy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lamanai Archaeological Reserve",
+                "category": "Archaeological site",
+                "url": "http://lamanaimayanruinstour.bravesites.com/lamanai-archaeological-reserve-reserve-facts",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-4_bIdHHi_lLlHljXNCelDeSl7YWzq983it1U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belize Civic Centre",
+                "category": "Sports complex",
+                "url": "https://m.facebook.com/BzeCityCivicCenter/?ref=page_internal&mt_nav=0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB2DiM1ymxZDOds9x4NAzYNGuzdrRqZlGuhVcD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hol Chan Marine Reserve",
+                "category": "Nature reserve",
+                "url": "https://www.holchanbelize.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXi_8QNBQE97m8uMjibjTYF9c23pOhyX4Ze905=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belizean Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNytEfzSd8wjlvju_pjm2cusM1_XaEQCHuFfJU3=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Xunantunich Mayan Ruins",
+            "category": "Archaeological site",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMkrBLwJLhwzHolh9wR4f-Vwf038jJ-zY_Oltcf=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Belize Zoo and Tropical Education Center",
+            "category": "Zoo",
+            "url": "http://www.belizezoo.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPU--tzMz-5yMfZlfgKruJCK84zCFSNJmrNDP0B=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lamanai Archaeological Reserve",
+            "category": "Archaeological site",
+            "url": "http://lamanaimayanruinstour.bravesites.com/lamanai-archaeological-reserve-reserve-facts",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO-4_bIdHHi_lLlHljXNCelDeSl7YWzq983it1U=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hol Chan Marine Reserve",
+            "category": "Nature reserve",
+            "url": "https://www.holchanbelize.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMXi_8QNBQE97m8uMjibjTYF9c23pOhyX4Ze905=w148-h148-n-k-no"
+        },
+        {
+            "title": "Altun Ha",
+            "category": "Historical landmark",
+            "url": "https://www.travelbelize.org/attraction/altun-ha/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO4DNVRgbL9t51BlIrsQZmNGaEeEfg2gM4yN0XS=w148-h148-n-k-no"
+        },
+        {
+            "title": "Actun Tunichil Muknal (ATM Cave)",
+            "category": "Historical place",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNUfQD_gVTjR43JHlaXJGHXvmFPnvtexFWP_A-E=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cahal Pech Archaeological Reserve",
+            "category": "National reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP1VFdXR7bv-WmdQw7ynJb_O99bX-zk_1DHMzpW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Caracol Natural Monument Reservation",
+            "category": "Archaeological site",
+            "url": "https://www.travelbelize.org/attraction/caracol/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN8GCLPYGBfInG_z171WjkXv8Rf_vJO5FApPKU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mountain Pine Ridge Forest Reserve",
+            "category": "National reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMmoJkqXKLms82i23EwI5-NtGK_Pvb2BDOSG3V8=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. Herman's Blue Hole National Park",
+            "category": "National park",
+            "url": "http://www.belizeaudubon.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPsIY731xTG-TOe3w1QOQoqMjpr-Brw6pdLzgJN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Secret Beach Belize",
+            "category": "Bar & grill",
+            "url": "http://www.secretbeachsanpedro.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMRH6jSc5d81ts4E79M_oVQg97OODdQGwfqs6Kq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cockscomb Basin Wildlife Sanctuary",
+            "category": "Wildlife and safari park",
+            "url": "https://belizeaudubon.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOX7Ut8obY9qsMp7n7rIEdONMcYBJSqQ7wFR5l_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mayflower Bocawina National Park",
+            "category": "National park",
+            "url": "https://mayflowerbocawina.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPUsTUanoGOZubgJnq8gIRQe6qSVOZc91yFVMML=w148-h148-n-k-no"
+        },
+        {
+            "title": "Old Belize",
+            "category": "Water park",
+            "url": "https://www.oldbelize.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN50EEU8tPQp3FJln5yFkmzhcIxhKcKr_YmNiQu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museum of Belize",
+            "category": "Museum",
+            "url": "https://www.travelbelize.org/attraction/museum-belize/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM9lvtZcZKQYUIdkf9mesuRMFuTbRbnLp7ZyFkz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Green Iguana Conservation Project",
+            "category": "Nature reserve",
+            "url": "https://www.sanignaciobelize.com/belize-iguana-project",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPZYmkMRkZBtIDRZIyxhjSWNLA3vNI5hp86H9aW=w148-h148-n-k-no"
+        }
+    ]
+}

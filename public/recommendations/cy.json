@@ -1,0 +1,470 @@
+{
+    "cities": {
+        "Larnaca": [
+            {
+                "title": "Holy Church of Saint Lazarus",
+                "category": "Greek Orthodox church",
+                "url": "https://www.agioslazaros.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpzgneYzcGDwtQrdRVJSLZPf_uZHC9GH-tviZr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finikoudes Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNW-AW1llb8ucaC5IsnTMm4ZUF6X-DLWFOc3uqs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Landmark of Hala Sultan Tekkesi",
+                "category": "Historical landmark",
+                "url": "http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/18513FF955C9F917C225719900332619?OpenDocument",
+                "img": "https://lh4.googleusercontent.com/proxy/EGylX2sx9BZNPeIvgjKXPz5r0_OVAuVENtPlNW1T5uYxggVuPT-BoUNeCecI2tu5Pik-uNvp1HioHYlj9PcMrGNwy8rGjQDZZqQGR2ioPBFEpgqEs8_jF8kdTPn4mRMP9nG4cLPEXl6wDYIXsSnsrU5zLY1adxk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Larnaka Medieval Fort",
+                "category": "Castle",
+                "url": "http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/EF5FF96FE92AF159422576E30021F7FD",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpNqGaJjNR87cBvm8ACx2dOZvUu3H9UsSnrMT5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Larnaca Marina",
+                "category": "Marina",
+                "url": "https://larnaca-marina.com.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNV1zm0enmjbrwqRahOCliNmM0-QxRpQ68vmfvx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kastella Beach - Blue Flag",
+                "category": "Beach",
+                "url": "http://www.kastelabeach.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU8RIAh6tQmvmM7bcgPuv5_FnEzm6C2aeh4c08=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finikoudes",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMz29rqpLngEkIoY8cW8DLybWxfU265tdon9gLo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pierides Museum - Bank of Cyprus Cultural Foundation",
+                "category": "Archaeological museum",
+                "url": "https://www.facebook.com/pages/category/History-Museum/Pierides-Museum-Bank-of-Cyprus-Cultural-Foundation-346303918802188/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5Y6HTInwY0qWzDClpnjubnjdTQzfoyv_NJutE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antonis Papadopoulos Stadium Γήπεδο Αντώνης Παπαδόπουλος",
+                "category": "Stadium",
+                "url": "http://www.anorthosisfc.com.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP22xu7csDLrkpXuDLLDzqteM5Grlyc9H60Tlu2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Larnaca Salt Lake",
+                "category": "Lake",
+                "url": "http://en.wikipedia.org/wiki/Larnaca_Salt_Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWMJZIQsmundOcL9QM6qaPKK5DQSg75ZbdxCpF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mackenzie Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwEZIWKjhQiT03pN6YPALnkFgeNd8DugGGcoE=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Mary of Graces Catholic Church",
+                "category": "Catholic church",
+                "url": "http://www.cypruscatholicchurch.org/larnaca",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0t_4emEbeEjhwyEbFDKl_atX4uIRgY0AGqA1Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Larnaka District",
+                "category": "Archaeological museum",
+                "url": "http://www.mcw.gov.cy/mcw/da/da.nsf/All/29D729EB7E4EE76FC2257199002074B8?OpenDocument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4aNlG_hKmYQ2tsLA3uA8jnig5p0qwWujtPKzv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Larnaca Castle",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPPhA3bRI6wqhZP1-uRlOVCWNru5hmSDe497On=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panagia Faneromeni",
+                "category": "Greek Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObFSsGXqYCRfIPopLFWx0oo6_P_5rGIzFYdAg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emira Pottery",
+                "category": "Homewares Shop",
+                "url": "http://emirapottery.com.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeAHlH2iR4gLj6nO0-6U5VnI6UcvxUPd47Ui6_=w148-h148-n-k-no"
+            }
+        ],
+        "Limassol": [
+            {
+                "title": "Limassol Marina",
+                "category": "Marina",
+                "url": "http://www.limassolmarina.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZmlLGNyVlGaoL-nztJMA3WPwn6_uz7o9BC7vu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Limassol Castle - Cyprus Medieval Museum",
+                "category": "Castle",
+                "url": "http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/5A9D613873FBB2DFC22571990020A1C0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjiUtzCsGScLFgcX1ZqcrbSOUretM91OsH7YzT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Zoo",
+                "category": "Zoo",
+                "url": "http://limassolzoo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWH5z-J7VJH9AkRt72CiTcXviII-wwn-6xPPc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Columbia Plaza",
+                "category": "Food court",
+                "url": "https://www.columbiaplaza.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRVKxRUEXYUtA9ul-jOe1udN1MiXGbRUlwB0Di=w148-h148-n-k-no"
+            },
+            {
+                "title": "Υδροπάρκο Φασουρίου Watermania",
+                "category": "Water park",
+                "url": "http://www.fasouriwaterpark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTovkA5vRwem0xfxYddgpQppJX76wbJi42ZBfg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Molos",
+                "category": "Promenade",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPX3AqP-tEU5muxg4WS_bRJSNPZq8EzHGk8yC_g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paradox Museum Limassol",
+                "category": "Museum",
+                "url": "https://www.paradoxmuseumlimassol.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmMXcnksCLut2n4OSjLXDW79TEKcJFAYfawwDz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cyprus Motor Museum",
+                "category": "Museum",
+                "url": "http://www.cyprusmotormuseum.com.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCT4rdDBVEq2jggbLCxTRmdafvhPX4Phfwovo8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kolossi Castle",
+                "category": "Historical landmark",
+                "url": "http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/537B30FC35B4E157C2257199002F3E76?OpenDocument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNH4JD0J92f6ub8OJ5X7kiFL3vcAEDlv0CO1Q6u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayia Napa Cathedral",
+                "category": "Greek Orthodox church",
+                "url": "http://www.imlemesou.org/index.php/naoi-monastiria/churches-mitropolis",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ9OUpWsjpaEMhBSzKEMfrtxbl3SkTSdaL7HOa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of the Lemesos (Limassol) District",
+                "category": "Archaeological museum",
+                "url": "http://www.mcw.gov.cy/da/da",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnPYaJlFNzFvsE9XuasuVM96uC2s5hdLnHFyS8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ESCAPE Limassol Old Town",
+                "category": "Amusement Centre",
+                "url": "https://escapecy.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYZQAEe4Pl4aiZEHoQv1yKkbT38iNUU7s2w3H3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akti Olympion A beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPDdxpyeW2ax3sfEwwd5w6ZOWp6eGzzuQob9LY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dasoudi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlSSDMQGr-1I4UmYA0E2yH84dgpf9Sg3e8wiu5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bubble Park",
+                "category": "Indoor playground",
+                "url": "http://www.bubblepark.com.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1pOSx31gWgBrmENBFJayJu73Y8kYDDApj9VsY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cyprus Theatre Museum",
+                "category": "Museum",
+                "url": "http://www.cyprustheatremuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMo4caFP6zr4YOB9GWzdRL2so48TxEW5tNhaWEb=w148-h148-n-k-no"
+            }
+        ],
+        "Stróvolos": [
+            {
+                "title": "School for the Blind Amphitheatre",
+                "category": "Amphitheatre",
+                "url": "http://eid-scholi-tyflon-lef.schools.ac.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRX8TVajmaBjT7Rjsx2Qd3aGE9ZfiuTex35Qab=w148-h148-n-k-no"
+            },
+            {
+                "title": "Θεατρικός Οργανισμός Κύπρου, ΘΟΚ | Theatre Organisation of Cyprus, THOC",
+                "category": "Performing arts theatre",
+                "url": "http://www.thoc.org.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsKMxO0plY4UsSwMIfN0Qh20OcdgpAdV53eem1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skali Amphitheater",
+                "category": "Cultural centre",
+                "url": "http://www.skaliaglantzias.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNghdTZNuB1FdHEweHsbQOz1IaNNT0f7XNf8hMU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Girne (Kyrenia) Castle",
+                "category": "Castle",
+                "url": "https://northcyprusdiscovery.com/kyrenia-castle/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrXz67BXswcIQzMw_0lnH06oYc95RwWiGK8ajz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Larnaca Marina",
+                "category": "Marina",
+                "url": "https://larnaca-marina.com.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNV1zm0enmjbrwqRahOCliNmM0-QxRpQ68vmfvx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Κourion Ancient Amphitheater",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU4ov4YZKRlcCezEzZh2VqpOn5c3z_zEMnEu9p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Famagusta Gate",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOucUTpiKUAk_EWWL3p7kbC8RtpwIKHteiYYau5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Venetian walls of Nicosia",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrOFZvjGq2k4Z7AK2URly7YVyWhCgERps1NSgx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Downtown Live (Αυλαία)",
+                "category": "Live music venue",
+                "url": "https://www.downtownnicosia.live/?fbclid=IwAR204-Fto0M6Hsfn0SZG_A3_5NpB-ZbWbZfshrMokQCJZB0gi4kKhEqxabk",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8VM0ULrC2zVp0BwNIy_hJ9ZYSy8maciQJyHjo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Selimiye Camii",
+                "category": "Mosque",
+                "url": "http://www.evkaf.org/site/sayfa.aspx?pkey=57",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxX31IlxiBDtTclBvMmxQrOQVxWAgja9x3hXuz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Büyük Han",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBHwTZSJ2ip1L_Nto0M20b1FcK6e9Eii3LFxXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tehnis Dromena Gallery",
+                "category": "Art gallery",
+                "url": "http://www.tehnisdromena.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmKatcV_59KowfV8Zm37kWwckTtVZXcE_MyH9V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bellapais Abbey",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLRM0xnOclXFZ-TZNgPKjy8xNW0DxEpcgjlv0l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Extreme Park",
+                "category": "Playground",
+                "url": "http://www.extremepark.com.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5hqLVhCxCCoNxoFkY5Z6QC_C8ZXNcuHeGIF3a=w148-h148-n-k-no"
+            },
+            {
+                "title": "GSP Stadium",
+                "category": "Stadium",
+                "url": "https://www.gsp.org.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpRvTQauGnDJC8Mby23DQs05jSM09G9gQCY7yD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yoga Love Story (Yoga studio, yoga classes)",
+                "category": "Yoga studio",
+                "url": "https://www.yogalovestory.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNl1WISg28HxdBDrunguXJot6oiLEuKnbLPyYg=w148-h148-n-k-no"
+            }
+        ],
+        "Nicosia": [
+            {
+                "title": "The Cyprus Museum",
+                "category": "Archaeological museum",
+                "url": "http://www.mcw.gov.cy/mcw/DA/DA.nsf/0/67084F17382CF201C2257199001FE4AD?OpenDocument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLSjxf8lpRQy6R2P_u5nyZSA7jZ-SCWj_nJJ92=w148-h148-n-k-no"
+            },
+            {
+                "title": "Selimiye Camii",
+                "category": "Mosque",
+                "url": "http://www.evkaf.org/site/sayfa.aspx?pkey=57",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxX31IlxiBDtTclBvMmxQrOQVxWAgja9x3hXuz=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Leventis Municipal Museum of Nicosia",
+                "category": "Museum",
+                "url": "http://www.leventismuseum.org.cy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbHayUBTS8uNXwzDXi0AqYBjeD2uJrtUzyA1WG=w148-h148-n-k-no"
+            },
+            {
+                "title": "A. G. Leventis Gallery",
+                "category": "Art gallery",
+                "url": "http://www.leventisgallery.org/home#_=_",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGG0s1COxFAbjPn70YiY8t0rezT5RoAX1shJNK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Büyük Han",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBHwTZSJ2ip1L_Nto0M20b1FcK6e9Eii3LFxXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cyprus Classic Motorcycle Museum",
+                "category": "Museum",
+                "url": "https://cyclassicmotormuseum.wixsite.com/cyclassicmotormuseum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFamKj8z6DneeJCUOzkowabIqh5Tgl-LZENyFQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eleftheria Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_jVsRfcDyUMysRWNfQEjJaQ7U9jedCrs4knwm=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Liberty Monument",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpUv01A-JLLggMmrzMs5BbjV-4UVLs__uA3KzJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shacolas Tower Museum and Observatory",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_wU3dC6AW2UdMVupyHMj9tj3CMUvoXFM1xyGI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kyrenia Gate",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvZr2bpKNdPj-AWvYeYF6cEkCc-fhR0OCSEeKK=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. John's Cathedral",
+                "category": "Cathedral",
+                "url": "http://www.nicosia.org.cy/el-GR/discover/sights/archbishop-palace/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOSCjBhhQnoJzBUqdK4IRSCqGHsxfsfKgktdcl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ledra Palace Crossing Point",
+                "category": "Border crossing station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1kmVAQSfKvyuyTEL_5ovDHuzbzXqWZwWrRuGk=w148-h148-n-k-no"
+            },
+            {
+                "title": "The House of Hadjigeorgakis Kornesios - Ethnological Museum",
+                "category": "Museum",
+                "url": "http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/3F038862C758F056C225719900214B07",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzcgMl4dMgoUaiORBQpSVBFFES2UmmCkbtio_J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ledras",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOd2_T6qXY34aguFII7ncTcjPYH6JI4ZmbyjjR9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Byzantine Museum",
+                "category": "Museum",
+                "url": "http://www.makariosfoundation.org.cy/8.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2BfTrnaGrhyySqOtUF9kq_j1JwC5TiosTKOAJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Barbarism",
+                "category": "Museum",
+                "url": "https://eemd.gov.ct.tr/M%C3%9CZE-VE-%C3%96REN-YERLER%C4%B0/Lefko%C5%9Fa-B%C3%B6lgesi/Barbarl%C4%B1k-M%C3%BCzesi",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1PsOFfxoe3DM9WknyW0FBa91hLwBNYBAmPw5A=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Petra tou Romiou (Aphrodite's Rock)",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMe9Nzowiefyl-9AMhRVJqFQUiqvUQ4tYJQ7arO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Archaeological Site of Nea Paphos",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOzcldNcv8NiwHWQtAjqrlQHUMSdrrs0iDxadzQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Archaeological Site of the Tombs of the Kings",
+            "category": "Historical landmark",
+            "url": "http://www.mcw.gov.cy/mcw/da/da.nsf/All/238DE8D409BF6077C225719B0039F785?OpenDocument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNcDsp-zpCuwG8zisE4ZZAdF-bLYn1eshbha1kj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Holy Church of Saint Lazarus",
+            "category": "Greek Orthodox church",
+            "url": "https://www.agioslazaros.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNpzgneYzcGDwtQrdRVJSLZPf_uZHC9GH-tviZr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kykkos Monastery",
+            "category": "Monastery",
+            "url": "http://www.kykkos.org.cy/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPD-Q9PrKg3Xev0IkhbI5NBmmeVDiFE2cSfxb2S=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bellapais Abbey",
+            "category": "Monastery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNLRM0xnOclXFZ-TZNgPKjy8xNW0DxEpcgjlv0l=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cape Cavo Greco",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMll2HLIC2aN7MFbBKTnC75JiNH9dlst-jvDvKa=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Cyprus Museum",
+            "category": "Archaeological museum",
+            "url": "http://www.mcw.gov.cy/mcw/DA/DA.nsf/0/67084F17382CF201C2257199001FE4AD?OpenDocument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMLSjxf8lpRQy6R2P_u5nyZSA7jZ-SCWj_nJJ92=w148-h148-n-k-no"
+        },
+        {
+            "title": "Paphos Aphrodite Waterpark",
+            "category": "Water park",
+            "url": "https://aphroditewaterpark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOMQKRMoUbEAjYfjQVKluU9mJSAcUjJxRHw5M5N=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kolossi Castle",
+            "category": "Historical landmark",
+            "url": "http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/537B30FC35B4E157C2257199002F3E76?OpenDocument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNH4JD0J92f6ub8OJ5X7kiFL3vcAEDlv0CO1Q6u=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pafos Zoo",
+            "category": "Zoo",
+            "url": "http://www.pafoszoo.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPZsVFrpfwtn3CXPPRr8dZlj2YzoTUin3iD03iY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Girne (Kyrenia) Castle",
+            "category": "Castle",
+            "url": "https://northcyprusdiscovery.com/kyrenia-castle/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMrXz67BXswcIQzMw_0lnH06oYc95RwWiGK8ajz=w148-h148-n-k-no"
+        },
+        {
+            "title": "WaterWorld Themed Waterpark Ayia Napa",
+            "category": "Water park",
+            "url": "https://waterworldwaterpark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMdjPM1R5BCT1Hd1X-YnFvn8wS2_Ku3Zey7WCa9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Selimiye Camii",
+            "category": "Mosque",
+            "url": "http://www.evkaf.org/site/sayfa.aspx?pkey=57",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOxX31IlxiBDtTclBvMmxQrOQVxWAgja9x3hXuz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Holy Monastery of Saint Neophytos the Recluse",
+            "category": "Monastery",
+            "url": "http://www.stneophytos.org.cy/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNFUX43_UgoadV3GnLKmJ1BS3N7cSYlRrhk0Gtz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Υδροπάρκο Φασουρίου Watermania",
+            "category": "Water park",
+            "url": "http://www.fasouriwaterpark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNTovkA5vRwem0xfxYddgpQppJX76wbJi42ZBfg=w148-h148-n-k-no"
+        }
+    ]
+}

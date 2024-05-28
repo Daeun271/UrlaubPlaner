@@ -1,0 +1,140 @@
+{
+    "cities": {
+        "Moroni": [
+            {
+                "title": "Adore Comores",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsGKIt6voFsHnxBtLXR6obPZyG_i3BjFnKpoe2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ancienne mosquée du vendredi",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObrGM-gguOfzSNF1utv0K3K-mSj_PwatHNi8aW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centre National de Documentation et de Recherche Scientifique",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiX8E7HdbuUZLUNTqQn8BodyFb5aqP7kzjbEoC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Moroni مسجد",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvj0BikftTUg7IcDT2mNLJ6o8VZw3rB89hQsNU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moroni Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMbw2fStn_rrCp5QAFW2-RjKlKccJOnKWLdTwF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Karthala",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeN7FzDAOrhc1xhymilaQyFiyQKJ4FHrO_VBk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Mssihiri wa Cheik Ahmed",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeOQ1SWDrR693wRtezMk3Zgc9SGLLpZ60wkzTA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Youssouf Madi Masjid",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMz3e-fQrkRjVO6c_7Rq9PnRlllCYHuX2cuH4iS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mitsoudje",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpJ5aFh7ilv54ip1TSL2UeF6pTjua1mg6Byf2z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bouni Beach",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDzoldyRSySbQ2ZdsLsrheJaomwU8lYxNAHpWq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chomoni",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3SfR2XYkjM56zWb2AcpOLkPwszZEuaq9lVZ_w=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Youssouf Madi Masjid",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMz3e-fQrkRjVO6c_7Rq9PnRlllCYHuX2cuH4iS=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mosquée Mssihiri wa Cheik Ahmed",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOeOQ1SWDrR693wRtezMk3Zgc9SGLLpZ60wkzTA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Akili Travel",
+            "category": "Travel Agent",
+            "url": "https://akilitravel.net/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMxmyV0AybIg5joeZkSYthXA2brjuPxx6L1K_7S=w148-h148-n-k-no"
+        },
+        {
+            "title": "Adore Comores",
+            "category": "Tour operator",
+            "url": "https://adorecomores.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNsGKIt6voFsHnxBtLXR6obPZyG_i3BjFnKpoe2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lac Niamawi",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMVpxEjn7S7Yc3S7O-IV-sblHLyB7-4QAN24UTy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bouni Beach",
+            "category": "Beach pavillion",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMDzoldyRSySbQ2ZdsLsrheJaomwU8lYxNAHpWq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mitsoudje",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMpJ5aFh7ilv54ip1TSL2UeF6pTjua1mg6Byf2z=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chomoni",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP3SfR2XYkjM56zWb2AcpOLkPwszZEuaq9lVZ_w=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Karthala",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOeN7FzDAOrhc1xhymilaQyFiyQKJ4FHrO_VBk8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Centre National de Documentation et de Recherche Scientifique",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMiX8E7HdbuUZLUNTqQn8BodyFb5aqP7kzjbEoC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ancienne mosquée du vendredi",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipObrGM-gguOfzSNF1utv0K3K-mSj_PwatHNi8aW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ngazidja",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMC9mQyzhl_buJa_CVCwL2TSyGWt6Jl0H-IXT7E=w148-h148-n-k-no"
+        },
+        {
+            "title": "Grande Mosquée de Moroni مسجد",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPvj0BikftTUg7IcDT2mNLJ6o8VZw3rB89hQsNU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Plage de Moya",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN0XB4STuI4xP_yZXyu7Rtgniq5rE5kAspVTtY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Moroni Stadium",
+            "category": "Stadium",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNMbw2fStn_rrCp5QAFW2-RjKlKccJOnKWLdTwF=w148-h148-n-k-no"
+        }
+    ]
+}

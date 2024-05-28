@@ -1,0 +1,106 @@
+{
+    "cities": {
+        "Bissau": [
+            {
+                "title": "Bissau Cathedral",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPo83XYt7-zG1loLJTUR-wK-8zAEydDiEaUxa1c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Empire Square",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1zx10Om_b7SMllr17ZjD60GiUC6IDhQQtC9-g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort São José da Amura",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNP_BAQEzQsxRHLgfu-_8ofv8HjftFVtAO9GdrP=w148-h148-n-k-no"
+            },
+            {
+                "title": "IBAP",
+                "category": "Nature reserve",
+                "url": "http://www.ibapgbissau.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiYAZo3CBmmTBtJxqac0TKBBeeX-CqtGbcwgTy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praca Titina Silá",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlfCr_CGJ8ESdNKEGXU2Ye3q3zX5WTmOPatlwr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cine Maxi",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWn0Nib9K5IeRzlPRzms_hSs3AnlXhLk55IXpr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cufada Lagoons Natural Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNySm6TIU57jRUfQ3tpm6iiBoccZNAJe-bi9bT4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bissagos Islands",
+                "category": "Archipelago",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5l_nmq0k5AaJHVewGhpU2JskSYvVIWUshKX9t=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Bissagos Islands",
+            "category": "Archipelago",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN5l_nmq0k5AaJHVewGhpU2JskSYvVIWUshKX9t=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bissau",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPG0xmFERg397gQPDdvCEwuitgCtreaEM-X2TJk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Empire Square",
+            "category": "Memorial park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM1zx10Om_b7SMllr17ZjD60GiUC6IDhQQtC9-g=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bubaque",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP52goY1sBW2IK3U_woHI_uVFYUowPOZYkr4pe2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cufada Lagoons Natural Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNySm6TIU57jRUfQ3tpm6iiBoccZNAJe-bi9bT4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fort São José da Amura",
+            "category": "Castle",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNP_BAQEzQsxRHLgfu-_8ofv8HjftFVtAO9GdrP=w148-h148-n-k-no"
+        },
+        {
+            "title": "IBAP",
+            "category": "Nature reserve",
+            "url": "http://www.ibapgbissau.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOiYAZo3CBmmTBtJxqac0TKBBeeX-CqtGbcwgTy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Centro Cultural Franco-Bissau-Guineense",
+            "category": "Cultural centre",
+            "url": "http://www.ccfbg.net/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNRFqJZn1tAzMzkC_0p-H1qYQTYDWdqnFILGBiy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rubane",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPrKfay9mEkzFze9P7R0fOCHJDkEU1JaTLnSVIf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cine Maxi",
+            "category": "Cinema",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMWn0Nib9K5IeRzlPRzms_hSs3AnlXhLk55IXpr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praca Titina Silá",
+            "category": "Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPlfCr_CGJ8ESdNKEGXU2Ye3q3zX5WTmOPatlwr=w148-h148-n-k-no"
+        }
+    ]
+}

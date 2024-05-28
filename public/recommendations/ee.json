@@ -1,0 +1,364 @@
+{
+    "cities": {
+        "Tartu": [
+            {
+                "title": "AHHAA Science Centre",
+                "category": "Science museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv9oK47f7Fy52ESF90oVmKqeqfYnLIRVB9PiOr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estonian National Museum",
+                "category": "Ethnographic museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnk0YtraIRl7eTLLfTNow52Jhqvn2oJaQl8LkX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanical Garden of the University of Tartu",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGEFjUyF_-M8hmu512pyNv98oXghA4aWW-XU7C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Town Hall Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzJsjmgDxqSiTvIQPLSELOamkvNmYvbRXIS4L7=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Tartu Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLdGwHi1zNvuzpu0do7ma6w2QbHpr9NpIae8Rj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eesti Spordi- ja Olümpiamuuseum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1yHtdEYQUnS0ET4vH3dZITx_yO0h-Lrz3p1rv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartu Mänguasjamuuseum / Tartu Toy Museum",
+                "category": "Toy museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPY5_yAHw-ZTlDFimUFyxDsFR2oJf--g9SqXHCS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tasku Centre",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDh-K-30o0WdwB3ANWBja15BRdx8PuWQOMG_R5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tagurpidi Maja (Peapeal OÜ)",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwyZqGDtvKHe2Ok_nFirwfipDLQCV-l5Cyq1BU=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. John Church, Tartu",
+                "category": "Lutheran church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOzhKc2ANZA3uymhA0ngCiq81Bc9m3Qf3NqbC9=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Tartu",
+                "category": "University",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPf78_XAjXjGlpkHhHglG6wD7ic3sC_bAkr2lvk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruins of Tartu Cathedral",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsq4FbozRjulMQk2VqkBRW6CNmLvLOUO-jivVq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aura Waterpark",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXR7dOMygjpM0Pk7JChMvnyV-TVgbW14A64Qrs=w148-h148-n-k-no"
+            },
+            {
+                "title": "TYPA letterpress and paper art centre",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNG5mZ6RPtCJDBZR_c4Rx5-9yrMMYbtQUynEOI8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartu Kunstimuuseum",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMegTFW_sDJg4rDAXctD_i0Qm1yb0w6pGS5e7VS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skulptuur \"Suudlevad tudengid\" / 'The Kissing Students' sculpture and fountain",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXsVaJE69sGsv1pdZK1xRBTP8HPQ4pQ-56jFrL=w148-h148-n-k-no"
+            }
+        ],
+        "Narva": [
+            {
+                "title": "Fama",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjQFVKOeA_KUMo14XApI5B-A4hpwFHJWNGWiI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Astri Center",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQgyAKYP3iXNHIhckfhNh_eif0qgKTGbGePxr-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swedish lion statue in Narva",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvy9ULKaOjZfyTLQN4VzJmHboVJaKV9j78bcCv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ivangorod Fortress",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOotLkeS58ZxBp_Po2NmMKDVVGnwLyCNNaFiLKi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narva Muuseum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmxGo5a1jZaIfb6OIPS3fK5s87Mh2nYZTtrnGG=w148-h148-n-k-no"
+            },
+            {
+                "title": "River Promenade",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxcM8Zccqqors-Q_zLuzdqT7BKT7qKd8niAlWM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pukhitsa convent",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOm9WUmOUinNFL970H1XijdJJRl4jvknJEltX4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vana Narva makett / Макет старой Нарвы / Model of Old Narva",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPH0mzp3VHWL-zdi5YfkKPQoCDHMoS70EZQ25jA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narva-Jõesuu",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkKT8EwCpStJ2kLtbkRVdMdy50tdgKrWNfShMz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kreenholm",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZW6hp6diWr-CAVcnbQYiRYIbTFQW_qBkK-Hf1=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Jesus Resurrection Cathedral",
+                "category": "Russian Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFt6tvI3DrpVtRocXS24lrdbayy4B0PiyY8Ypi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Olympic Casino",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwK6W0Je2bVFrfMarHi3sI1pFAVMPXkbNJJPWk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eesti Kaevandusmuuseum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMatDodSYoCVZrZBQJXZKoIcstjARYdLtx9voaq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dark Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvIr7wFwtzayPapPmucYSGg9g5Ta1DCv4Xq6de=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vaivara Blue Hills Museum",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQKPBFVxqr4mmWcPWbobGNq9I1Grf3I2Aao42n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Category:Narva-Jõesuu Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM0bCIPjIKM-BV62NnmouDZKdEa_SwLiwOLeQi=w148-h148-n-k-no"
+            }
+        ],
+        "Tallinn": [
+            {
+                "title": "Kadriorg Park",
+                "category": "Park and Garden",
+                "url": "http://kadriorupark.ee/park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYF0Tiswe6n6EJWD-pfTSUJo4baYZn79jtOE2D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kadriorg Art Museum",
+                "category": "Art museum",
+                "url": "http://kadriorumuuseum.ekm.ee/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0PvReQUDhfZVbE1F3yB1-jXb4-PHlQd66NlKn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alexander Nevsky Cathedral",
+                "category": "Cathedral",
+                "url": "https://nevskysobor.ee/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvtMvcTwe7poZ18hXuTkVZajuIMtBpkiXdCgWR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balti Jaama Turg",
+                "category": "Market",
+                "url": "https://astri.ee/bjt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrU7ZP_lNOTcW4caLGhIqvZrSjFkq4FF3wTkD1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estonian Open Air Museum",
+                "category": "Open-Air Museum",
+                "url": "https://evm.ee/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3MT_Al2UtABYRUOPTZYPA4MnBB_BxnjFdZUEX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eesti Kunstimuuseum",
+                "category": "Art museum",
+                "url": "http://kunstimuuseum.ekm.ee/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbFoj6AqzAZo-hKX9y2euef4y8U3wqusDANkEE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tallinn Town Hall",
+                "category": "Historical landmark",
+                "url": "http://raekoda.tallinn.ee/",
+                "img": "https://lh6.googleusercontent.com/proxy/MmA4uga4DyjrpeNqxcqKWdzufeDqOZqMFrNjp6SXhzvAx4Re8cW3TTxm_BS8mhPPbIvZAKjHhaQwMFy7V6vnhYIX_QoPuBpUmjSU0Bg7z2VFQpEPPyKnfCOhk2sX-95fVmbV4vUcd0ndxg6KxV5gSo1Ii1k8Gg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kiek in de Kök Museum and Bastion Tunnels",
+                "category": "Museum",
+                "url": "https://linnamuuseum.ee/kiek-in-de-kok/?y_source=1_MTIxOTMwODAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWLbXnmIUGl2D27tBxSwO96ylQmTNrmEMNPPA8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tallinn Zoo",
+                "category": "Zoo",
+                "url": "https://www.tallinnzoo.ee/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvQvffbmOwRn1wZXu8uk5JciGrCll14SOq3ADX=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Olaf's Church",
+                "category": "Baptist church",
+                "url": "http://www.oleviste.ee/",
+                "img": "https://lh3.googleusercontent.com/proxy/m9OJt_0CDSS2SiHzlbD7xPe6wS7QF54gnk9JB1BRFgewpvcP-H1LS41eEp7ceFbuWxkrN0H4B1Q8H6bv61u5YcHb_fHVY4CdrYmOCMkUsAInYqHtwlOpemz4-qLhfQQAfY0xlHte0cruwOKU7Mmc-Rr-3M1Vug=w148-h148-n-k-no"
+            },
+            {
+                "title": "Telliskivi Creative City",
+                "category": "Cultural centre",
+                "url": "https://telliskivi.cc/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfbsne-TCeXKy-lTrIaMpMF7yDgGr5xXfjIIDy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lennusadam",
+                "category": "Maritime museum",
+                "url": "https://meremuuseum.ee/lennusadam/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeJ3mcu7CcmrBL9r2oTxx2zzqPfTtWs48IM9EE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tallinn TV Tower",
+                "category": "Tourist attraction",
+                "url": "http://www.teletorn.ee/",
+                "img": "https://lh3.googleusercontent.com/proxy/aCcMS26Fm5n18MsvHBB8L_jjH_5VdsxZ1E9VQkPKAtCey0d_aQv7jA0n-GQ4tUY7sjDprJlC63n5A_rycEBWV_8xBeU-tgyBNcEwQEe3vHf8B5b8uGUe8BhmoIDgF2bPnsvqDSXAFwbzlLZix8csAd-ItIP0fQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Nicholas' Church and Museum",
+                "category": "Art museum",
+                "url": "http://nigulistemuuseum.ekm.ee/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPRlYyGTaj04g20nfiV0ClkVYlAKdwqLGlEfcP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kohtuotsa viewing platform",
+                "category": "Observation deck",
+                "url": "https://www.visittallinn.ee/eng/visitor/see-do/sightseeing/pid-177800/kohtuotsa-viewing-platform",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM0y9ByI_0r3mKM9O1Dw2e6kpzK_FA5ImiDvuz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Patkuli Viewing Platform",
+                "category": "Observation deck",
+                "url": "https://www.visitestonia.com/en/patkuli-viewing-platform",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrAMDenfe7viXLJs3L6uzRPONn4F7-UffbMqbD=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Lennusadam",
+            "category": "Maritime museum",
+            "url": "https://meremuuseum.ee/lennusadam/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNeJ3mcu7CcmrBL9r2oTxx2zzqPfTtWs48IM9EE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kadriorg Park",
+            "category": "Park and Garden",
+            "url": "http://kadriorupark.ee/park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNYF0Tiswe6n6EJWD-pfTSUJo4baYZn79jtOE2D=w148-h148-n-k-no"
+        },
+        {
+            "title": "Alexander Nevsky Cathedral",
+            "category": "Cathedral",
+            "url": "https://nevskysobor.ee/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOvtMvcTwe7poZ18hXuTkVZajuIMtBpkiXdCgWR=w148-h148-n-k-no"
+        },
+        {
+            "title": "AHHAA Science Centre",
+            "category": "Science museum",
+            "url": "http://www.ahhaa.ee/?y_source=1_MTgzNDEwMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNv9oK47f7Fy52ESF90oVmKqeqfYnLIRVB9PiOr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tallinn Town Hall",
+            "category": "Historical landmark",
+            "url": "http://raekoda.tallinn.ee/",
+            "img": "https://lh6.googleusercontent.com/proxy/MmA4uga4DyjrpeNqxcqKWdzufeDqOZqMFrNjp6SXhzvAx4Re8cW3TTxm_BS8mhPPbIvZAKjHhaQwMFy7V6vnhYIX_QoPuBpUmjSU0Bg7z2VFQpEPPyKnfCOhk2sX-95fVmbV4vUcd0ndxg6KxV5gSo1Ii1k8Gg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Estonian National Museum",
+            "category": "Ethnographic museum",
+            "url": "http://www.erm.ee/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNnk0YtraIRl7eTLLfTNow52Jhqvn2oJaQl8LkX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Eesti Kunstimuuseum",
+            "category": "Art museum",
+            "url": "http://kunstimuuseum.ekm.ee/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMbFoj6AqzAZo-hKX9y2euef4y8U3wqusDANkEE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Estonian Open Air Museum",
+            "category": "Open-Air Museum",
+            "url": "https://evm.ee/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO3MT_Al2UtABYRUOPTZYPA4MnBB_BxnjFdZUEX=w148-h148-n-k-no"
+        },
+        {
+            "title": "St Olaf's Church",
+            "category": "Baptist church",
+            "url": "http://www.oleviste.ee/",
+            "img": "https://lh3.googleusercontent.com/proxy/m9OJt_0CDSS2SiHzlbD7xPe6wS7QF54gnk9JB1BRFgewpvcP-H1LS41eEp7ceFbuWxkrN0H4B1Q8H6bv61u5YcHb_fHVY4CdrYmOCMkUsAInYqHtwlOpemz4-qLhfQQAfY0xlHte0cruwOKU7Mmc-Rr-3M1Vug=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tallinn Zoo",
+            "category": "Zoo",
+            "url": "https://www.tallinnzoo.ee/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPvQvffbmOwRn1wZXu8uk5JciGrCll14SOq3ADX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tallinn TV Tower",
+            "category": "Tourist attraction",
+            "url": "http://www.teletorn.ee/",
+            "img": "https://lh3.googleusercontent.com/proxy/aCcMS26Fm5n18MsvHBB8L_jjH_5VdsxZ1E9VQkPKAtCey0d_aQv7jA0n-GQ4tUY7sjDprJlC63n5A_rycEBWV_8xBeU-tgyBNcEwQEe3vHf8B5b8uGUe8BhmoIDgF2bPnsvqDSXAFwbzlLZix8csAd-ItIP0fQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Telliskivi Creative City",
+            "category": "Cultural centre",
+            "url": "https://telliskivi.cc/en/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNfbsne-TCeXKy-lTrIaMpMF7yDgGr5xXfjIIDy=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. Nicholas' Church and Museum",
+            "category": "Art museum",
+            "url": "http://nigulistemuuseum.ekm.ee/en/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNPRlYyGTaj04g20nfiV0ClkVYlAKdwqLGlEfcP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kadriorg Art Museum",
+            "category": "Art museum",
+            "url": "http://kadriorumuuseum.ekm.ee/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM0PvReQUDhfZVbE1F3yB1-jXb4-PHlQd66NlKn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Balti Jaama Turg",
+            "category": "Market",
+            "url": "https://astri.ee/bjt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNrU7ZP_lNOTcW4caLGhIqvZrSjFkq4FF3wTkD1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kiek in de Kök Museum and Bastion Tunnels",
+            "category": "Museum",
+            "url": "https://linnamuuseum.ee/kiek-in-de-kok/?y_source=1_MTIxOTMwODAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOWLbXnmIUGl2D27tBxSwO96ylQmTNrmEMNPPA8=w148-h148-n-k-no"
+        }
+    ]
+}

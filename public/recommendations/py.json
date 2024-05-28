@@ -1,0 +1,1257 @@
+{
+    "cities": {
+        "San Lorenzo": [
+            {
+                "title": "Pinedo Shopping",
+                "category": "Shopping Centre",
+                "url": "http://www.pinedo.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGM1jj8PXjVN5_gbH5SJWxU8mPQQVoplYUSGxT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fuente Shopping",
+                "category": "Shopping Centre",
+                "url": "http://www.fuenteshopping.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9X0PRzYWb0-WSY-ewNnX2KVvE8Qmm3z_NP_xP=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Lorenzo Shopping",
+                "category": "Shopping Centre",
+                "url": "http://www.sls.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_KBqHl_nnMTIBO-xvaeEsYSCPrScegnEjyEVc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cancha Sintética KAMIKAZE",
+                "category": "Futsal court",
+                "url": "http://toukeilatino.wix.com/cancha-san-lorenzo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiJWDO2k_YjMkjI-lFv4xAlydorK_tWqbPT-Kk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Super 7 Casino Sportbar",
+                "category": "Casino",
+                "url": "http://www.super7casinos.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFdQG4h_xwlgKwH0E3ObmOI6_ZnjIwbDPbsOrV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of San Lorenzo City",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNyxdiD8jnYCtQS9hpI3XK4J7zGzkoP0xGzrjl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Il Palazzo",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYJp3OIBp1mCsA580yde8UkISN4DCnvzd3Q3Zc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Visión Banco - Salemma",
+                "category": "Bank",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTUE0P_HlX7bzhgHLW1YAS72hIOM9ZOxuzrY8P=w148-h148-n-k-no"
+            }
+        ],
+        "Encarnación": [
+            {
+                "title": "Mboi Ka Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP42_6MWFm51JplZKO4Xrseev0GFqdBZIrLP3-u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jesuit Mission of the Holy Trinity",
+                "category": "Historical landmark",
+                "url": "http://www.senatur.gov.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3_fwdgHnTP90NL-Ec_z5ZnabvgxGuJEg-mAHc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida Costanera",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvdEJhqfYbcsKL8JLGFwCFFdgjvetMfmCUDg8T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carmen Del Parana",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODUs4kWNh0R3quuoA6EqlwYfKZBApnRJmEHhSc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Carnaval, Encarnación",
+                "category": "Casino",
+                "url": "http://www.casinocarnaval.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgRiSenZBNHQ09YWCmfH9fxiFQoZ4iLKtzgE3Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santuario de la Virgen de Itacua",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrE6-6rLQx5DRu9ZdAkC3-U71aNTsfbGwyCLD8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Escalinata Barrio San Pedro, Encarnación",
+                "category": "Tourist attraction",
+                "url": "http://www.encarnacion.gov.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3rRsKWvY04eUcrdrouu35XGLhtkqr9q7cka2g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guarani Paraguay Travel",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWJ9D2j3-pq5rsRhcKZ8DxtCgkebDhqmqJvzQf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eco Water Park and El Dorado",
+                "category": "Tourist attraction",
+                "url": "https://linktr.ee/parqueacuatico_eldorado?utm_source=linktree_profile_share",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqg73t-FqHOeSyjayn9MpHtGLJbO4qnwrXunI0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jesuit Mission of Jesús de Tavarangüe",
+                "category": "Heritage Building",
+                "url": "https://www.senatur.gov.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwEHQ7X5Fll-3bwFKgwjacYU959Cspje0JDGwk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soho Beach",
+                "category": "Bar",
+                "url": "https://instagram.com/sohobeach_?igshid=MDM4ZDc5MmU=",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNH5sI2y_CDjL6kTC5yvyLpQHtDFaVZgejozbOr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa San José",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNAtyceiUx7Br1mDCtyNVMOpSOkgHMV3MqXRpB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia Ortodoxa San Jorge",
+                "category": "Eastern Orthodox Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOia53-Ks3YCzKnlxl0kbio5d9S1S-VhgZ3SaAS=w148-h148-n-k-no"
+            }
+        ],
+        "Presidente Franco": [
+            {
+                "title": "Ponte da Integração",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAcShvUXUEfHjz-DTf4d1t1mwZ-CPbF4Ivu2c3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Polideportivo Municipal De Presidente Franco",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNky6Rh7rRtfQe1jQu2HRMT4N36k7c9MdYqPaLB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral San Blas",
+                "category": "Cathedral",
+                "url": "https://web.facebook.com/Tienda-Catedral-San-Bl%C3%A1s-500352993447608/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGwqopQFYTX1SLY0oBjK7JkdZhY7L6LvXChBCc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ministerio Internacional Casa de Restauración",
+                "category": "Christian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZqpZX_Vhp3KOI0-AEOyJHl3ASXKl3UlkYYY7n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Triple Frontier",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtWOnfDhq75Z6kdG3STCCRY10SnMM7a7ZuCymn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cancha Cerro Porteño",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzP8irihWLKkbBE13zqlHFRH1rMk7Q_qZ9J3KS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinemas Plaza",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWbVfheY6SCuTy6pA8CgPkP4VdDio7dCXYb_N-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruins of Trinidad",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMIFzFvRNRP5-U3jRWESQdMB2o_MyWAgTQlNfe=w148-h148-n-k-no"
+            },
+            {
+                "title": "REPRESA HIDROELÉCTRICA ITAIPÚ BINACIONAL",
+                "category": "Energy supplier",
+                "url": "http://www.itaipu.gov.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeQlJjQUPCkYZISRRoEap-PCTB-ct6nsLhsdxi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ykua La Patria Park",
+                "category": "Ecological park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3HU_YCItmaytMS0-8bYYt9VryfjyZqgZRy4pD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Moisés Bertoni",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOylHmupkdePfajvPSpGoF6sIiHiA7siHn0z4JE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monday Falls",
+                "category": "National park",
+                "url": "https://www.acqua.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUCWR_1clt9H4DY9gWWE2F7T3xZ-7kkRNcVdXn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hito Tres Fronteras",
+                "category": "Tourist attraction",
+                "url": "https://www.instagram.com/hitodelastres/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhK49UrHSPq_v29pqw3PUnSvTz79yl_22lJ1Un=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Aventura Monday",
+                "category": "Ecological park",
+                "url": "http://www.parqueaventuramonday.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFudbnVS8R0y-rW0qlcmWEsznDv8EEw9NDJ9CK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salto Suizo",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoWG3XxcPMCF0MB5peiFjGmSJq-XNtn2TEF446=w148-h148-n-k-no"
+            },
+            {
+                "title": "International Friendship Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOSnEUGoQStTbmSnKwLJxw6BcZ6XCs3RwAVz1r=w148-h148-n-k-no"
+            }
+        ],
+        "Lambaré": [
+            {
+                "title": "Templo de San Buenaventura - Yaguarón",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-pPws8byDxxrwFcq4YC0ckwVkmhuTFLl74ymI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Escape Room Paraguay Local 1",
+                "category": "Escape room centre",
+                "url": "https://escaperoom.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9gr8gqHDf89rdnRyPHe_ItyJRGRShhPaJIyZb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Cultural Manzana de la Rivera",
+                "category": "Cultural centre",
+                "url": "https://cultura.asuncion.gov.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvyvhu-OhI07Zs2sSVsp1hrwiz2aLrZWp4oywN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Uruguaya",
+                "category": "Park and Garden",
+                "url": "https://www.asuncion.gov.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRplXNhsyI77tID1bQX_K8Jka25fWHgYjWpGX7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Lambaré",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6Me-V-wVzSGPZqxV-TT_KDcYCfrQS8YKgnSyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida Mariscal Francisco Solano López",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9-9eMTQr8o33vo4lqgNavuaBElvNNoSk5vONQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Escape Room Paraguay Local 2",
+                "category": "Escape room centre",
+                "url": "https://escaperoom.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPy6o0trOrIDhTMahE3t3uaVXbN6rpN7p4PMSW2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Infante Rivarola",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhb8LEeuYuR4p556wZvWrP8MZ1LUoSF5d2p1BV=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Asunción Flores",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipON5b-99meRkl8bgOd3x9nAFq_BcaL-g88dheCg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Polifuncional Marianela",
+                "category": "Convention centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORUn0v-spz7pQuRIsDOBrEWl_oTAgrTNUw-i0X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loma San Jerónimo",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0fyT6KC8r_JePg9ZvF3Qf_jwWMVG-S5S39WjT=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Rosada",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVL49tAV3KJhg3BvMfkfKoCvgISkNp3YUxdOJk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Urban Paintball",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9tfvJ2Cl1cxGMq-U6ynQmY8HZ-oI4kdEgcEHr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Century Plaza Lambare",
+                "category": "Shopping Centre",
+                "url": "https://www.centuryplaza.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9te0wqX2pW64p1ZVJLED0PuRaI0xxbcOJnEi2=w148-h148-n-k-no"
+            }
+        ],
+        "Asunción": [
+            {
+                "title": "Paseo La Galería",
+                "category": "Shopping Centre",
+                "url": "http://www.paseolagaleria.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlkvShfHOLuFhUbY7cCkBAMHbYHVKD4k8CV1LZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping del Sol",
+                "category": "Shopping Centre",
+                "url": "http://www.delsol.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODk3ZWB5pyfZ1BYMjSaeOh4CBb9lyZ1xJRcyzy=w148-h148-n-k-no"
+            },
+            {
+                "title": "General Pablo Rojas Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEt6grEFbeW73DDSve0r8Otx1SOQuYJu1l3krw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Costanera de Asunción",
+                "category": "Park and Garden",
+                "url": "http://www.asuncion.gov.py/category/costanera",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiPUUoGroKP0aycEqKsRaHxuGfSrj9OoaztR9z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gran Hotel del Paraguay",
+                "category": "Hotel",
+                "url": "https://granhoteldelparaguay.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3wuTvaOBgGW03Rkox6TQAJ23YDJywp2ODojY9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Health's Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVfq4renSkT1w2xAgXGEXopQAztNDC0meWbMKj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence House Museum",
+                "category": "Museum",
+                "url": "https://www.casadelaindependencia.org.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZ2OhVQykWTRoFsq4JTreoSG9N0vNeFd3VXvyw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Church",
+                "category": "Catholic church",
+                "url": "https://web.facebook.com/Parroquia-Sant%C3%ADsima-Trinidad-188488504532992/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqmHbuGZUtDVxbgHhZEQLSeTyLwRUts9MsBL1E=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Pantheon of Heroes",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkNcKuaQj2DJpL2QZ0-L_ceXsqcaaP-6NRtdYW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo del Barro",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPz8CXuLWE6xGSnVbxPGbGuYiCdbA9V0I8rFvHX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercado 4",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXTy2PWsyqNRDdoz0F-4XCmX19lBvQViqM0ELX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral Metropolitana de Nuestra Señora de la Asunción",
+                "category": "Catholic cathedral",
+                "url": "http://arzobispado.org.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxzADrAMFHEA75AjOkPLcJbFRFM-29R5SyAkEq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Health Park (IPS)",
+                "category": "Park and Garden",
+                "url": "https://portal.ips.gov.py/sistemas/ipsportal/contenido.php?sn=17",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWWPj6N_b-Cmp5eJh9QPCErmIKo5fLD3JxexTh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chaco Defenders Stadium",
+                "category": "Stadium",
+                "url": "http://www.apf.org.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD1jbvg5i1O9W97qm7rQtxHg8tHzyzTiXl-hdX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio de López",
+                "category": "State government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRbZs4q5AIQLwY-cmSgA4JI1Jd7pAE0VRbxdEz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cultural Center of Spain Juan de Salazar",
+                "category": "Cultural centre",
+                "url": "http://www.juandesalazar.org.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNy0RDKwBrow_x0gxm1NUT8ML78MaI1Fjb-eU1W=w148-h148-n-k-no"
+            }
+        ],
+        "Coronel Oviedo": [
+            {
+                "title": "Plaza San Roque González De Santa Cruz",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLnLLpZrT9k9J9IGK8lx81PEJPzSd7ufsLOGc5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plazoleta",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXmm_09EeGdmU1jGke9ZewMxmUiRKBUZWayWVJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia Cristo Redentor",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MwSTBZwje1AvSZsEJYfuT8Js3lUgL24I92Ow=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club 12 De Junio",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5NI70PdyLoCeclQhxQqjX1A3ClR5skB02Guqn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Las Residentas",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUWsGZ82fVqU_FPfaeOlKjUAF57XHER7JuLC5Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rotonda de Coronel Oviedo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxrRa1ua7QHyI-8kSEU0CUDvjseckvE1dtyJxC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadium Ovetense Kingdom",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqdPGlgL85L5o9XjzF_O27tJExI9kqNnkBXEIL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqEloSPli4qgli7E0P5aZNP4sFYbuA38aKD8xe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Granja Alte Liebe",
+                "category": "Lodge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-2RdPcFhCB082R5xDyKuw85PH-DkTb_kHDTEw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Granja Eco-turística Yvambopi",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMN-1LmJ7tBCXfhYNj8u5vp2aeFbDcRxs4ASa3I=w148-h148-n-k-no"
+            }
+        ],
+        "Villa Hayes": [
+            {
+                "title": "Mirador Villa Hayes",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZzJK_-hyoELHd170JocDJ1UBYgxW8TTgslJZo=w148-h148-n-k-no"
+            },
+            {
+                "title": "VEMARCORP SA",
+                "category": "Foundry",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMR9LurNDvpY2_Jjz9xj8SvfkMyBTL8BW3kuriD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Frigorífico Neuland",
+                "category": "Slaughterhouse",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_DFrdKPNJ_CC45jk5nkY4_XcTQ2uJ3XHO5fc7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Berjamin Aceval",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsIWgXsIoZn_62JzBQdGpETei0fPPFoCn4jMKc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castillo el Peñon",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqP0TkMz6VGmSwRq9cboUiK4RDTETBSlc4pL3j=w148-h148-n-k-no"
+            }
+        ],
+        "Nemby": [],
+        "Caaguazú": [
+            {
+                "title": "Freedom Square",
+                "category": "Park and Garden",
+                "url": "http://www.caaguazu.gov.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-5LrKQ9bzZbbH2ZnEO_5xA_MDE1DVjfiEogip=w148-h148-n-k-no"
+            },
+            {
+                "title": "Polideportivo Municipal De Caaguazú",
+                "category": "Arena",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWJ-vYF64RSAG8Q63_Y1TRDV8Lz627aa6xqM7i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Art cinema Caaguazú",
+                "category": "Cinema",
+                "url": "https://www.cineart.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmyNcjm3laCeDMiLWcuatT2jMNF2Ezxsr6LR92=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Cultural Departamental Del Caaguazú",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGz05garRLH_B1lYAzHl21Dd0wIz4-EnCiI-EC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valparaiso Aqua Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU4k3fg7O2CqIgbM4N18MQiko8n-QflZe63LLL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Techapyrã Ecological Park",
+                "category": "Ecological park",
+                "url": "https://parque-ecologico-techapyra.negocio.site/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaglOK2MIM4JrI5fjlYtuYRXmjG2OkNk4e1Ffe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Bartolomé Aquino",
+                "category": "Park and Garden",
+                "url": "http://www.caaguazu.gov.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPn8J3MemA1bFPhgXyeXiN_8tYSXCOHzWcbpfVh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rotonda de Coronel Oviedo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxrRa1ua7QHyI-8kSEU0CUDvjseckvE1dtyJxC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ykua La Patria Park",
+                "category": "Ecological park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3HU_YCItmaytMS0-8bYYt9VryfjyZqgZRy4pD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Desfiladero de Santo Domingo",
+                "category": "Farm Stay",
+                "url": "http://bienvenidoaparaguay.com/showdata.php?xmlcity=86&xmldestino=453",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrzjgpIn9o4iPTDgtBBjzZ35C6a_QBvdd5-T9F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Granja Eco-turística Yvambopi",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMN-1LmJ7tBCXfhYNj8u5vp2aeFbDcRxs4ASa3I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Granja Alte Liebe",
+                "category": "Lodge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-2RdPcFhCB082R5xDyKuw85PH-DkTb_kHDTEw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cantera Boca",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3XOBlUieI_avIeSyTydDfSPxt0B0kG9hD76k7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqEloSPli4qgli7E0P5aZNP4sFYbuA38aKD8xe=w148-h148-n-k-no"
+            }
+        ],
+        "Capiatá": [
+            {
+                "title": "Mythical Museum Ramón Elías",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7Zbh-KBuoBgpA-BDP9A9BWBohJiKBgD8mKS5U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of San Lorenzo City",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNyxdiD8jnYCtQS9hpI3XK4J7zGzkoP0xGzrjl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hipódromo de Asunción",
+                "category": "Racecourse",
+                "url": "http://www.jcp.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMElto9t32XzKQQK6har8eNZuWXTuDm1_qQ46qi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo del Barro",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPz8CXuLWE6xGSnVbxPGbGuYiCdbA9V0I8rFvHX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nacional de Bellas Artes de Asunción",
+                "category": "Art museum",
+                "url": "https://www.facebook.com/pages/Museo-Nacional-de-Bellas-Artes-Paraguay/226927810677798",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZTsKAy-hefk1EM8yAatKxqV8TtB0u6TerHcWq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ñu Guasú - Humberto Rubín Park",
+                "category": "Park and Garden",
+                "url": "https://www.facebook.com/pages/category/Community/Parque-%C3%91u-Guas%C3%BA-198057266929698/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcZN4HlCq7vLEKnJs1e3nh2fiCksGGAboAPmiL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanical Garden and Zoo of Asunción",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCmAf8rfIt86ynGQjXaoS4K_IC-2yRZaP_vc_R=w148-h148-n-k-no"
+            }
+        ],
+        "Mariano Roque Alonso": [
+            {
+                "title": "Paraguay International Trade Fair",
+                "category": "Association or organisation",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTOBIMkQh3vTJPjKlNJX0l3OmWJhKsbUkXu1p7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puente Remanso",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8XEq81vkPcVFT9JTaYy3tky8uQpYel3-Jf9BL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Mirador",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEwDYYiuBY6GTvrrU86-7BiBqrSumYdzi-A1Bp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Miguel Rodríguez",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkJXiEMYQKrX8vAuCXWfPQnya8C5rkTOobySfD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Boqueron",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONeX7PSckueo55m2wXgu4wz7vPqDtfa3foXjkM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asunción",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqpDKuCdyDmdZ53OnF5pc83A_zeCrWuiux_rQt=w148-h148-n-k-no"
+            }
+        ],
+        "Ciudad del Este": [
+            {
+                "title": "Nissei - Ciudad del Este",
+                "category": "Shopping Centre",
+                "url": "https://nissei.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfRfOhEUxdYcrSeczNthQ385KWc8YyGg7prS1D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza City",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUrbyrU67YlRiQAQ5l-20cG0MOwWohfvSLNs_7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jebai Center",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMp2ARv0QRvqWMPT_5aD1huU-jg3_qsbs9Xv_Sy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Visãovip Informática",
+                "category": "Computer Shop",
+                "url": "http://www.visaovip.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-thYC0EDBs4VRHn3uc7yQvx2pYcjdWa2Vi_Ne=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping Terra Nova",
+                "category": "Shopping Centre",
+                "url": "https://www.shoppingterranova.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfwFny-0ub6oW2LUupM4Xp-vixSxFlndLQG8kG=w148-h148-n-k-no"
+            },
+            {
+                "title": "CASA AMERICANA",
+                "category": "Shopping Centre",
+                "url": "http://www.casaamericana.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_qStrtb9aFBJRBAIGJhum_EFVD91Vv8grfnwY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Pioneer",
+                "category": "Shopping Centre",
+                "url": "http://www.shoppingcentropioneer.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIS00NOJqc9eWWkSlCzcDlij2qK39s5YEeE_d7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping Vendome",
+                "category": "Shopping Centre",
+                "url": "http://www.vendome.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxyX7JxoML4lfJ2-HxgQf2fuqGWereqZQFVyaZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roma Shopping",
+                "category": "Department store",
+                "url": "http://www.romapy.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaOU33OTJEN_C5IMJ4G0YGkAHNPQQdrBRMU_Eg=w148-h148-n-k-no"
+            },
+            {
+                "title": "SAX Department Store",
+                "category": "Department store",
+                "url": "http://www.saxdepartment.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWofivYtJesspTuJllUju59O_mbcwqNfiGfxp_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cellshop - Importados Paraguay",
+                "category": "Shopping Centre",
+                "url": "http://www.cellshop.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhQe2Wplaq8PPHQauhs_dysT3T_hpwdFxwmBsE=w148-h148-n-k-no"
+            },
+            {
+                "title": "COCODINUS",
+                "category": "Baby Clothing Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrMOPgme6LT8PwfLqPQ0Z4AdIyiApPQPBArO18=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping China Importados",
+                "category": "Shopping Centre",
+                "url": "https://shoppingchina.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN43Am5CRYzd5ekyQDCwYQCN0OcQZL550B1BWyh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping Box Outlet",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOx8hwx-ZgO23j4Q_Ha1RlF3NKzaVTfu59c-nZb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cineart Ciudad del Este",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvUzaN89T0eliBHcxGv-trTBECwhpG7dhinnUR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping Paris",
+                "category": "Shopping Centre",
+                "url": "http://www.shoppingparis.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7h6Ou3iEW8gkaxP_xcDntUYeL06_7WBGhX9tq=w148-h148-n-k-no"
+            }
+        ],
+        "Fernando de la Mora": [
+            {
+                "title": "Paseo 1811 FDM",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlIZixZ5zCsLMZJPyjV_wq1YErzfo-5fiid19Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Complejo Kyre'ý",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMI6c5yO9Y19affSmWkBrFK3mSufq0nOBIQ05DF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Supermercado Los Jardines - Fernando de la Mora",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMm-j2lnDoG22_oFNXO46Po_utNd0CDdDlYQNv0=w148-h148-n-k-no"
+            },
+            {
+                "title": "PORTER SA - Centro Logístico.",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRPyufqEMLp7YjzEJWMT7NJOZKnxaucdWC25M=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Hop: Craft Beer House",
+                "category": "Microbrewery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgvdZQZBHyAtyJYt84UIvMWZW3MrW2W1cp3uyI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luisito",
+                "category": "Hypermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXLyT9-gueKTOi7iOl4waA5ndXRHC83j3fmb3f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nde Barba",
+                "category": "Barber shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoA7EgQWH2Il_E68jFeig_wmm2oOvIZBo9f2DK=w148-h148-n-k-no"
+            },
+            {
+                "title": "De la Mora Hostal",
+                "category": "Inn",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH3WG-Asa3Nphiafb_4BVB05BGm4xKUxBB_Kpu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Polideportivo Municipal de Fernando de la Mora",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2n1F8Tr3Jpm-_hgmlA_A2zrBsXKi5y_ph1fOA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Cultural Manzana de la Rivera",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvyvhu-OhI07Zs2sSVsp1hrwiz2aLrZWp4oywN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Uruguaya",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRplXNhsyI77tID1bQX_K8Jka25fWHgYjWpGX7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Infante Rivarola",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhb8LEeuYuR4p556wZvWrP8MZ1LUoSF5d2p1BV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Polifuncional Marianela",
+                "category": "Convention centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORUn0v-spz7pQuRIsDOBrEWl_oTAgrTNUw-i0X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida Mariscal Francisco Solano López",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9-9eMTQr8o33vo4lqgNavuaBElvNNoSk5vONQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Asunción Flores",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipON5b-99meRkl8bgOd3x9nAFq_BcaL-g88dheCg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loma San Jerónimo",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0fyT6KC8r_JePg9ZvF3Qf_jwWMVG-S5S39WjT=w148-h148-n-k-no"
+            }
+        ],
+        "Limpio": [
+            {
+                "title": "Yacaré Yrupé, Limpio Garden",
+                "category": "Community garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN42JH-t7R7qgsZyiR2AP8CtNf0_Ofywtrbf3vL=w148-h148-n-k-no"
+            },
+            {
+                "title": "LOBO PE: eco-turismo fluvial, rio Paraguay",
+                "category": "Boat tour agency",
+                "url": "https://www.instagram.com/lobopeturismopy/?hl=fr",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTuipegTJusJlB-8gHl4sA4cF4zLi-uWQci6Y_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador del Cerro Akati",
+                "category": "Tourist attraction",
+                "url": "http://cerroacati.webnode.es/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvIG9D9JxCdHSZYTT2tbxnTUs52qA9k-6pka7r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ybycuí National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEyLM92cXaXYi6XMa7x4Toa3HYmkaifA-euT7i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Areguá",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqLxXtJRYInGATeowOJ7naI3iAB9vcjtYNSCFe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asunción",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqpDKuCdyDmdZ53OnF5pc83A_zeCrWuiux_rQt=w148-h148-n-k-no"
+            }
+        ],
+        "Itauguá": [
+            {
+                "title": "Estadio Juan Canuto Pettengill",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOClL68uk4Ebs_fmN3Im6CAGsnwnhEI3s21LAA2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinemark Paseo La Galería",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrjBQPyqDRoXSOhKdI3Wx3mn90sDpgnxQUpDAK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Campamento Arapy",
+                "category": "Cottage",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrNXWrc-rJF0pnuXbOw3s4_4OyLX1ytHVvF-8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Municipal Itauguá - Estanzuela",
+                "category": "Free Car Park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQUSYfRpZ5t7bsziPufSpdevE25D5_9P28U5MT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Kõi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1ZQ9aMoZna6NgJ85ca48-osSksMm_cBv_HX6r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo La Galería",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlkvShfHOLuFhUbY7cCkBAMHbYHVKD4k8CV1LZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping del Sol",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODk3ZWB5pyfZ1BYMjSaeOh4CBb9lyZ1xJRcyzy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Lic. Erico Galeano Segovia",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqJNQr7uk3zBsJQCvBai427bO5iEHoFtnPVRVb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hipermercado Luisito Capiatá",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOTwcO7wJwoJ2rOd0xKP8O9gWCkg7sCPA04zk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mythical Museum Ramón Elías",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7Zbh-KBuoBgpA-BDP9A9BWBohJiKBgD8mKS5U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club Social y Deportivo Cooperativa Capiatá",
+                "category": "Cultural association",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkvw2X-YtD_CjJTWgXFyXqs5YUxEHf45Y6EL2a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Burger",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwycr4jNI64fuM8Z-EdZtGXpj7-on9NxqwsjRG=w148-h148-n-k-no"
+            },
+            {
+                "title": "TOYO-BENZ S.R.L.",
+                "category": "Van Accessories Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWxxMnRA4d5wuCNz65wepyi2FdL2RvjN6t_CJi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Caacupe Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0u4l7206pYcuEXv8ujwSJ44jPh7Sdt6DFKOyK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santuario de Tupãrenda",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAPleQuvIpUx7UhMcPzuFnlacVYPVEbNycU_H1=w148-h148-n-k-no"
+            }
+        ],
+        "San Antonio": [
+            {
+                "title": "The Alamo",
+                "category": "Historical place",
+                "url": "http://www.thealamo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU4Pvbwmqau0zl5oPT7Hl4ilyMMgK52yA4aoOq=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Antonio River Walk",
+                "category": "Park and Garden",
+                "url": "https://www.thesanantonioriverwalk.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOClNC5lQ-CPSPlcAxKI1u3_INlMijM0IHHK_Vr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Japanese Tea Garden",
+                "category": "Botanical garden",
+                "url": "http://www.saparksfoundation.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWp9dmIjEjRkpOhFMSj1QIWYyHioB_i6g4eZEr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brackenridge Park",
+                "category": "City park",
+                "url": "http://brackenridgepark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKvf8fInxHdWgcHU_ZzyYBG_N71uhzdti2Pwvz=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Antonio Missions National Historical Park",
+                "category": "Historical place",
+                "url": "https://www.nps.gov/saan/index.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkZuqAlDHpPKPYBYUCrB1PLsUulfmvCTdNg9Gx=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Antonio Zoo",
+                "category": "Zoo",
+                "url": "https://sazoo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONNZoEvp63nCPxspRmTX_IFtQq6Kj4eBWzIrSN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Six Flags Fiesta Texas",
+                "category": "Theme park",
+                "url": "https://www.sixflags.com/fiestatexas?utm_source=googlebusinessprofile&utm_medium=organic&utm_campaign=Google+Business+Profile",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt2A0pPSEZ6G06OWKUjuTWtlE9S1bqglRcfrZO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Briscoe Western Art Museum",
+                "category": "Art museum",
+                "url": "http://www.briscoemuseum.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSuQ1cXTJLoqStpLaxAz0MDrkNSZHKXwB1HBeZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Fernando Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://www.sfcathedral.org/",
+                "img": "https://lh4.googleusercontent.com/proxy/430GTQoTR_uMHCxNq7vXgtXsp08hWiZTdCsobzBaSUFqHynD8SZ1fZVGd4P_Tua_19KEWeVU4ANkO7cDTaVjSoZOqsW31CYU3a9aWiJApXyDkoRVlXh2pXXb9GU0cBvpkVGJOZihZRi_CCNoufOZjIFJYVKvQ-g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Morgan's Wonderland",
+                "category": "Theme park",
+                "url": "https://www.morganswonderland.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJOY7tNdXnMsP_jaBT6bcc7AZz3xRDy29KHlOb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hemisfair",
+                "category": "Park and Garden",
+                "url": "http://www.hemisfair.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXVE6zoyyw644IJrgHzslxGI9tyKzPnylgrI9j=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Antonio Museum of Art",
+                "category": "Art museum",
+                "url": "http://www.samuseum.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_n5rNFEaqmXk2O2hA1UnVoF4vBC0CZNgb3xr4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tower of the Americas",
+                "category": "Amusement park",
+                "url": "https://www.toweroftheamericas.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMILLznOOhgrzrQ-RpniDHfQq3kutHlFxXQcaaR=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Antonio Botanical Garden",
+                "category": "Botanical garden",
+                "url": "https://www.sabot.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNLRT2DBm-qBElkjd-5ko3oOkjghiZq0G5ORfe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Historic Market Square",
+                "category": "Shopping Centre",
+                "url": "https://www.marketsquaresa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWTkBdC7wNbuE5OMGVlciywgIWORe-QGa0CcMG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mission San Jose Church Parish Offices",
+                "category": "Catholic church",
+                "url": "http://www.missionsanjosechurch.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDquiNGyHwgws5kbioxrIzNWRzfV5rANtZFqRB=w148-h148-n-k-no"
+            }
+        ],
+        "Caacupé": [],
+        "Pedro Juan Caballero": [
+            {
+                "title": "Circuito Cinemas Ponta Porã",
+                "category": "Cinema",
+                "url": "http://circuitocinemas.com.br/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUcwv3D13F-wq6S26kLuCcCueX-SXvHryBnoxs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuasi Parroquia Espiritu Santo. Misioneros Redentoristas",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdNOZGZ_IkyviXLQshmWW77qzUSQeBueDindZR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reserva Natural Piro'y",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwCo6zc5Fpe_FGuNweoXs3U2CpqxxyX3p5LV5j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia San Gerardo",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKzt2TnMTcA-6q0QFdGFfYAMTrUwlMFUfPQbg1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Leonardo Franco",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLYsYt3xdo9YYl9wilb2wo78eqqJEvbCw51x7o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumental Río Parapití",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN1NmbqEXNrIzIXgJ99DbgLUFs9_HIrq-gn9EG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salto Piraymi",
+                "category": "Nature reserve",
+                "url": "https://www.bienvenidoaparaguay.com/showdata.php?xmlcity=209&xmldestino=429",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs9jvqi6WKkdGSvXZ8NQ-aR1hbx9jrDl3Ev-c8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cancha Aquidaban",
+                "category": "Stadium",
+                "url": "http://www.municipalidadpjc.gov.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWNqLJSmHB7mVrkEFw0oq4MQ9l-DKp98-vG-ja=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping Planet Outlet",
+                "category": "Shopping Centre",
+                "url": "https://www.planet-outlet.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU8zqLDmyRE64BTWcFJHrSOdp3lKtmGUh0nW8i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Studio Center Importados",
+                "category": "Shopping Centre",
+                "url": "https://www.studiocenter.com.py/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkIMlUmWPIPM483etAK4KiW0dlDAGaMbRvCWCe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Cora National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGzCb1lbFnqxgUrpcrN0Q3-eBjh3gbG-20ciCR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza San Roque de Santa Cruz",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2AD7gj_MzJtnyck35rH5JSBxtqWnz3r4s2aDC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Corá",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGzCb1lbFnqxgUrpcrN0Q3-eBjh3gbG-20ciCR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salto Aguaray",
+                "category": "Tourist attraction",
+                "url": "https://www.bienvenidoaparaguay.com/showdata.php?xmlcity=209&xmldestino=75",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAkK68BHPR2Fdr8SAxlgek8su3WTW-Cq-AxbJi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salto Comelli",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsx24zZ010TcZb0t4ktiFwwbv_Or29Y-l64CVT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Capitán Bado",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFpLHfXZZZGiq5MoyntoAr0wBYQ1rldl919opJ=w148-h148-n-k-no"
+            }
+        ],
+        "Villa Elisa": [
+            {
+                "title": "Termas Villa Elisa",
+                "category": "Thermal Baths",
+                "url": "http://termasvillaelisa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGzk-LzJwX2wxVNhZENF61-bVLYSe0f2NQK7g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Historical Museum \"El Porvenir\"",
+                "category": "Museum",
+                "url": "https://museoelporvenir.com.ar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_5RTHA9jtfQ933jw7Xrdshhu8TwDvLjN0ecQe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trencito Historico de Villa Elisa",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcXnFzWToHrgAI7KEDwwl27ELGTUDToz3V7eOz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thermal Spa Velissa",
+                "category": "Spa",
+                "url": "https://termasvillaelisa.com/velissa-spa-termal/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkui7NsIJU0PtpwYAWSx0SwRGhrc8coNdN1LSy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Almacén Don Leandro",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3cCWiS97R0jHBctUoz9tMEpq0wa7mIawJj18Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza General Francisco Ramírez",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-ifmGsMaEM2HSWo2GPqEhZOB-TRTE8pztdpAb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento Al Sembrador",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP24y1jN5TrT0D2B1-0ISxSvHm-RFRI4_-VpZaI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Almacén Francou",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmJNw4D38lG1MlStkx43eNP8Xpe29Qt4uJIpxr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Girl Virgin Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoTxIc-PAFRDiPPzMthI-aIbzGpG3v8YWLrMHm=w148-h148-n-k-no"
+            },
+            {
+                "title": "CEF N°3 de Concepción del Uruguay",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSoxuIdt561SK0EX2xySWYcNOuWuhREK3XEQKu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Molino Forclaz",
+                "category": "Museum",
+                "url": "http://molinoforclaz.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuyFEwllE6PwWAFtpl7rGbHH-5Nav9Hj6HPXrC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Simon Luciano Plazaola",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_jmtUfk1dQhqdcT2wbWxCU3rbZXhpZSlYdvjG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Termas vertientes de la concordia",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPl2B6oCVI8Qi6NO-orDs2RAypJ8drgeruJt4Xs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puerto Yeruá",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfnmmVoOeJxB_tHYBZzWfYZrU-PGlDBMHYV2Lu=w148-h148-n-k-no"
+            },
+            {
+                "title": "TRU Kayak",
+                "category": "Tourist attraction",
+                "url": "https://trukayak.ar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXIBcUCXi2EDSxdAare7wD_zW2csQuqXf57EA5=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Monday Falls",
+            "category": "National park",
+            "url": "https://www.acqua.com.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOUCWR_1clt9H4DY9gWWE2F7T3xZ-7kkRNcVdXn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Paseo La Galería",
+            "category": "Shopping Centre",
+            "url": "http://www.paseolagaleria.com.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMlkvShfHOLuFhUbY7cCkBAMHbYHVKD4k8CV1LZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Shopping Paris",
+            "category": "Shopping Centre",
+            "url": "http://www.shoppingparis.com.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP7h6Ou3iEW8gkaxP_xcDntUYeL06_7WBGhX9tq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Shopping del Sol",
+            "category": "Shopping Centre",
+            "url": "http://www.delsol.com.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipODk3ZWB5pyfZ1BYMjSaeOh4CBb9lyZ1xJRcyzy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Shopping China Importados",
+            "category": "Shopping Centre",
+            "url": "https://shoppingchina.com.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN43Am5CRYzd5ekyQDCwYQCN0OcQZL550B1BWyh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Monalisa Paraguay",
+            "category": "Shopping Centre",
+            "url": "https://www.monalisa.com.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO0nReWYAusbpouQg5KGlvOZIfiKUkRk0vg7BsH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jesuit Mission of the Holy Trinity",
+            "category": "Historical landmark",
+            "url": "http://www.senatur.gov.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP3_fwdgHnTP90NL-Ec_z5ZnabvgxGuJEg-mAHc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jesuit Mission of Jesús de Tavarangüe",
+            "category": "Heritage Building",
+            "url": "https://www.senatur.gov.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMwEHQ7X5Fll-3bwFKgwjacYU959Cspje0JDGwk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ybycuí National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNEyLM92cXaXYi6XMa7x4Toa3HYmkaifA-euT7i=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Pantheon of Heroes",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNkNcKuaQj2DJpL2QZ0-L_ceXsqcaaP-6NRtdYW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Palacio de López",
+            "category": "State government office",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPRbZs4q5AIQLwY-cmSgA4JI1Jd7pAE0VRbxdEz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cinemark Paseo La Galería",
+            "category": "Cinema",
+            "url": "http://www.cinemark.com.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOrjBQPyqDRoXSOhKdI3Wx3mn90sDpgnxQUpDAK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Eco reserva Mbatoví",
+            "category": "Nature reserve",
+            "url": "http://www.mbatovi.com.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP9DsG3X9GeBPturkwbjEx7D4DLZSs3srYHeUtg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gran Hotel del Paraguay",
+            "category": "Hotel",
+            "url": "https://granhoteldelparaguay.com.py/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO3wuTvaOBgGW03Rkox6TQAJ23YDJywp2ODojY9=w148-h148-n-k-no"
+        },
+        {
+            "title": "PRESA DE ITAIPU",
+            "category": "Dam",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPw0-nMNEZ0e4_WIQ8lVC3egJ5DnMiYk36NxJhO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Health's Park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOVfq4renSkT1w2xAgXGEXopQAztNDC0meWbMKj=w148-h148-n-k-no"
+        }
+    ]
+}

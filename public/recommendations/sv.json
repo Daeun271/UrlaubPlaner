@@ -1,0 +1,989 @@
+{
+    "cities": {
+        "Apopa": [
+            {
+                "title": "Multicinema • Plaza Mundo Apopa",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdV2NkV5SHrCJurqrNfOLnzaYSMdThqT9ZO-eV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque del Bicentenario",
+                "category": "Ecological park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxM9Xd0Ym-CyDTgJv3C2qYXprcePqAOV3LJJ_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mary Help of Christians Parish",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipME2hJ7vQ0WK5FnRp3kM6U58pO9N4lTqNYryZS6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tazumal Archaeological Park",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB6mqF8x2WYQFu0AZc6GDRDoArQNVDx8pg9IbT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cancha \" Joaquín Gutierrez\"",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaxpJAJQuGwprGnJMWChDO-Mx-InJUIqc8Oh84=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theater of San Salvador",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6Yv2MNEZM4EsaC2jZnKh_P2SPz21hrDUxa4oh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Morazan Plaza",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTBFMMbyiL4JIdAwM4yB7ntgCJreJwTmFgyky-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suchitoto Central Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9Pe2V_fyCN-qK4fBNiUGy0Qk-6AiOVtIZKVlK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cancha de Futbol No. 4",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAJUs9rf9nLJaHoZMXzCW9qHYWt_3i5rrheCNO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinépolis",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPd0RUQrA2jBgnfpfLaUzHcefxx7qqAIP4R28H9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Future City Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzthMNSbsC9p4fJkJnBCStPNsqrXHIRiQ0skRe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuscatlan Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEyrpva4oXCR1Vj3QVI4aZX3hDzCXWopwZ_5sM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Suchitlán",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnF1-CLDKl2XNmyZEtDznElM51z8Ky7878nhDm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa El Tunco",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ8qcWaKbZNpS23ym1T2t2Izti7Ay0bA79ORCz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to the Divine Savior of the World",
+                "category": "Historical landmark",
+                "img": "https://lh4.googleusercontent.com/proxy/ZiV6z-rTwtIAnFWsfBfTNvETHFdL36pocpXkE4DRnk8QC7KccyzootcXcAYoZNtXHCPHqUH56caQ48yYD6e1z9cHlBDnGZ4zRnPhpDiEvRAgT9OQCkBtu5aPhiohKehwR3djMbRP0FBJV9pdRbx8uXZzImE9Lg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dr. David J. Guzmán National Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpuGfDny3RZ_MSDeARzfGlbKtTBw1j6ffjtSOh=w148-h148-n-k-no"
+            }
+        ],
+        "San Salvador": [
+            {
+                "title": "Dr. David J. Guzmán National Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.cultura.gob.sv/marco-institucional/direccion-nacional-de-museos-y-salas-de-exposicion/museo-nacional-de-antropologia-muna/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpuGfDny3RZ_MSDeARzfGlbKtTBw1j6ffjtSOh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of San Salvador",
+                "category": "Catholic cathedral",
+                "url": "https://www.catedralmetropolitanadesansalvador.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP3BpHwB4LUd3LGlv0lsrB-_5X10RMLg9AJ2Xv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Art of El Salvador",
+                "category": "Art museum",
+                "url": "http://www.museomarte.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1wxeFZNXvYiDLYXcTmwM3svqBI4R84FAbFMmx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque del Bicentenario",
+                "category": "Ecological park",
+                "url": "https://www.elsalvadormipais.com/parque-bicentenario",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxM9Xd0Ym-CyDTgJv3C2qYXprcePqAOV3LJJ_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuscatlan Park",
+                "category": "City park",
+                "url": "http://parquecuscatlan.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEyrpva4oXCR1Vj3QVI4aZX3hDzCXWopwZ_5sM=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theater of San Salvador",
+                "category": "Performing arts theatre",
+                "url": "http://www.cultura.gob.sv/teatro-nacional-de-san-salvador/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6Yv2MNEZM4EsaC2jZnKh_P2SPz21hrDUxa4oh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tin Marin, Children's Museum",
+                "category": "Children's museum",
+                "url": "https://tinmarin.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiLUTxF24mSJZGiZfVfcL8W9_c6Nl-wWiMm2Ao=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plan de la Laguna Botanical Garden",
+                "category": "Botanical garden",
+                "url": "https://www.jardinbotanico.org.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIO71EKkd_hNamkW_a4AKhFtHvT48PJ6oGAXtF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to the Divine Savior of the World",
+                "category": "Historical landmark",
+                "img": "https://lh4.googleusercontent.com/proxy/ZiV6z-rTwtIAnFWsfBfTNvETHFdL36pocpXkE4DRnk8QC7KccyzootcXcAYoZNtXHCPHqUH56caQ48yYD6e1z9cHlBDnGZ4zRnPhpDiEvRAgT9OQCkBtu5aPhiohKehwR3djMbRP0FBJV9pdRbx8uXZzImE9Lg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Futura",
+                "category": "Shopping Centre",
+                "url": "https://www.wtcsansalvador.com/plaza-futura",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUIv81ZwhuY7GqFaJAqY-sdVHcNJyhqnKM45p5=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Craft Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKUb7otb0YO976Cxr-K0u-9IjYxzoVyB_3zByJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace of El Salvador",
+                "category": "National museum",
+                "url": "http://www.cultura.gob.sv/palacio-nacional/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRYH99xr2mFGnkp0AyJuoNNtMiKfDlVdvmpVVx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional El Boquerón",
+                "category": "National park",
+                "url": "http://www.istu.gob.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDW647rlOR6-ZPfVWyLQ1nZwb3Ys6jrCbBs2hk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Military Museum of the Armed Forces of El Salvador",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDTop8adHz2FsDHH91XEYKJBKqGRmVRzk9CXVn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia El Rosario",
+                "category": "Catholic church",
+                "url": "https://www.facebook.com/iglesiaelrosariosv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPh3VfAuAGc-V2NDxBl1p3MTf3m7P57CyIikre7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Saburo Hirao",
+                "category": "Theme park",
+                "url": "http://www.cultura.gob.sv/parque-saburo-hirao/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUyUskLZIQ-gCtG3iFjkbs7XeIPxiHZtfFMjdJ=w148-h148-n-k-no"
+            }
+        ],
+        "San Miguel": [
+            {
+                "title": "Felix Charlaix Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoxYUXHofaaDm5OkuYm_2Kbhjszkilpkgjfkh_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Joaquín E. Guzmán",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_PwsplXwUGJkuZ3zXnomFjInZCJXz8j5TR6LR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juan Francisco Barraza Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODQR6D0kyurqGMT4r736_VEt638meOC6ITe6xL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Turicentro Altos de La Cueva",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdePcPyzCd2otHk2ib7Ki5WRpx6NJhhBWmMx5X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa El Cuco",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWD3D4tLFiACUr1Bz1cm_DSJJqj_Tu5uib5o4L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ciudad Pacifica Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOChgdfl57uEdQA2TfRQhThZVNJofqtQxbM96GA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moncagua Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwxLeLc7tS1oDc_fcpuxW_0JfZN7HGonf1aM8r=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theater of San Miguel",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPc2MT7ag542i12I_wVBUj72AZeOABVwHqt-8Ix=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Torola",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCgAcVKBfEORptf9_-Kvl4cG6cr0amG5Xy1EXy=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Miguel Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8gi3PUcjUyAHSz3afKJIOzSp20ONCbWbPghXc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Art of El Salvador",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1wxeFZNXvYiDLYXcTmwM3svqBI4R84FAbFMmx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Futura",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUIv81ZwhuY7GqFaJAqY-sdVHcNJyhqnKM45p5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Arqueológico Joya de Cerén",
+                "category": "Archaeological site",
+                "img": "https://lh4.googleusercontent.com/proxy/kX1X9DLfbOBJEbASbBL7Bd7KoAwfQ9DcrNyogz7GV9P5bZ4o0NconbZAj_TtrevlFqK1gNLTPWu6um481-W6YiibsFGjQnL3KSL_cZAJdK0mHXnC0y0Pt4kaXoLB21oNelF-SP40rixS2iJg6GSzyZ_NPVA3W0s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa El Tunco",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ8qcWaKbZNpS23ym1T2t2Izti7Ay0bA79ORCz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chapeltique Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmkSq-T8imZprBT07VHXoWqirdCrcj4v5j_jUf=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOw0T3WV4NjBTMnLru6o3qDzS4D0Kvq1ifTYjBe=w148-h148-n-k-no"
+            }
+        ],
+        "Sonsonate": [
+            {
+                "title": "Estadio \"Ana Mercedes Campos\"",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyy4zvPBEux36H4_mCWeMVXS79ABTBmL3o542O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salcoatitán. Central Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjwfDn2AgjpmkoQsQmt7mpcc6NhyiBGK_X6H-h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Armenia Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHJ8kysZQUcqpKJiV9tcUee7EEVw0_FZ7bjoVS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salcoatitan pueblo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1yjCBR9KBuF_gLna_NWIQgD7RjmXvCEDWZntv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Germinal Museo de la Imprenta",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNedXmrUtxEif-yr1Y4Mcvx9sz_qq4d4_961HTa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquatic Entre Rios Ecopark",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMUBAtOi8i4aaEzSI-wHscfal8gBhswfDdvAvH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sonsonate Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOULNpIAvI88HjjvMJWpZQpIDEy_ryj2_aWZmKa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chorros de la Calera",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHxivHH_Ss-zzUVTGjy2v0o7y46Z6f2VLPNmaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nahuizalco",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_m0DLU_X0VYxRkOShL118CW9unrpJLpiu4MxH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cascada El ESCUCO",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnLBUvZMjOYvNbrx5-H-5wKTve0BS3nOz33FnB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruta de las Flores",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnf-1XBTTJ2Yk4DP_KJhn38mhDf0xWkoFmYI4W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Central",
+                "category": "Playground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMI-Y0ciSGKuJKeff4gvFqzCWgqN5hOTNvSmPD3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Los Cobanos",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_zD8wAsNbtcCq-ebDDxJcq8xRFbOexbjNISs7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metallo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2u5pBotvFHLYCoxh7sqTlNzIh_aWeX1nQdsc=w148-h148-n-k-no"
+            }
+        ],
+        "Soyapango": [
+            {
+                "title": "Plan de la Laguna Botanical Garden",
+                "category": "Botanical garden",
+                "url": "https://www.jardinbotanico.org.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIO71EKkd_hNamkW_a4AKhFtHvT48PJ6oGAXtF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Divine Providence Hospital",
+                "category": "Hospice",
+                "url": "https://www.hospitaldivinaprovidenciasv.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVWwCJMsbxxdxhFNI9Iszno1HHWxXkKHDfTwW8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atlacatl Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_91kDX8vGxQhP98HdSQPA64JxvWYq-1naZfk5=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOw0T3WV4NjBTMnLru6o3qDzS4D0Kvq1ifTYjBe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to the Salvadoran Air Force",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMF1wlNlogeq93wZRZ5Cs5vKTfN_KZu8XJBTxeX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ of Peace Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhPsfU-iN9Qet6MAnguyK5QZFcIjYjRubnsLM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beethoven's Fountains",
+                "category": "State park",
+                "url": "http://www.panoramio.com/photo/68283646",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3_X3DOCUXqQphg3Iy3MizD_5ySEei18zDJoLt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Lookout of San Salvador",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0SiEGxsmY9r3uom47O_O_6mEp8EaFuvNGVV30=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Salvador Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP3tUQLyDm7CuBH3_2m9Xn1ebq0jH8k4n_x9Te=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador de las Cien Gradas",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhUMK7PBUOJ-MajcTHVcgUI1aIkaognNvcTz0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to Memory and Truth",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCmImzndIU_S3uzfi-ajx5A7Yi-PMMirNGig3A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento a la Revolucion",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAv-1CNLyjgEUIo5CKKNxb4IUq7v23gvLyU3ht=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Salvador",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5yDV_W7GI11WUOqqfaZNeo-xbbjS2fGiLPF6c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional El Boquerón",
+                "category": "National park",
+                "url": "http://www.istu.gob.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDW647rlOR6-ZPfVWyLQ1nZwb3Ys6jrCbBs2hk=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Salvador Xpedition",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkvV5BzbFPjikorhADqVzQprDjupKljnbN5lrw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Futura",
+                "category": "Shopping Centre",
+                "url": "https://www.wtcsansalvador.com/plaza-futura",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUIv81ZwhuY7GqFaJAqY-sdVHcNJyhqnKM45p5=w148-h148-n-k-no"
+            }
+        ],
+        "Mejicanos": [
+            {
+                "title": "Cuscatlan Park",
+                "category": "City park",
+                "url": "http://parquecuscatlan.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEyrpva4oXCR1Vj3QVI4aZX3hDzCXWopwZ_5sM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Railway Museum and Theme Park",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_pH6VcjnSpKJ_Qb-gZvQyaqkGxuQJjoNpxe7L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liberty Plaza",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg7A9wcXCTrSA-mVXLdAI1lAEGGDi_hzmlJXIc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque del Bicentenario",
+                "category": "Ecological park",
+                "url": "https://www.elsalvadormipais.com/parque-bicentenario",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxM9Xd0Ym-CyDTgJv3C2qYXprcePqAOV3LJJ_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monseñor Romero Center",
+                "category": "Museum",
+                "url": "http://www.uca.edu.sv/cmr",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmLzmsc3hpeHOtuRqtuXVZdgNquGt5PXb17m42=w148-h148-n-k-no"
+            },
+            {
+                "title": "Los Ilustres Cemetery The Illustrious Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPrPxxY7nIDj0HO2e9qLVcINFgTvUEYyzPYRec=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Lookout of San Salvador",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0SiEGxsmY9r3uom47O_O_6mEp8EaFuvNGVV30=w148-h148-n-k-no"
+            },
+            {
+                "title": "Academia Barista Pro",
+                "category": "Education Centre",
+                "url": "https://www.academiabaristapro.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5uFrfXtptIqaUvsbMpbooEFyCQH1TI6eT8Dfv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Morazan Plaza",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTBFMMbyiL4JIdAwM4yB7ntgCJreJwTmFgyky-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Histórico de SS",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6jJHUjmlFw1Eoz50xQ_QMKlrfk4WymlmuPvSe=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theater of Santa Ana",
+                "category": "Performing arts theatre",
+                "url": "https://www.cultura.gob.sv/marco-institucional/direccion-nacional-de-artes/teatro-nacional-de-santa-ana/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk0V6ihpw6PkOQ4YqtcgU9KXRYvyExHTHQHoYa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo El Carmen",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnKZeX7QXba4BW0aRBCnLbCw-y4SD4TpP-7mV8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suchitoto",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqGs1JGDJ8CCrmMhCO_TwExegAS_EtxoU7vqeL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Civic Square Captain General Gerardo Barrios",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRKo1JjIiWQokr0EEEoKpGr85euPOWv35vuK_m=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Libertad",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDn8qv9uESX2lw8-3bNRIvxjer9_WPyDBfLRw7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Divine Providence Hospital",
+                "category": "Hospice",
+                "url": "https://www.hospitaldivinaprovidenciasv.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVWwCJMsbxxdxhFNI9Iszno1HHWxXkKHDfTwW8=w148-h148-n-k-no"
+            }
+        ],
+        "Delgado": [
+            {
+                "title": "Basilica of Our Lady of Guadalupe",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFWJoM0kxYG8iCbLOE8jFhjcj3KL8j58ZRVBAj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuscatlan Stadium",
+                "category": "Stadium",
+                "url": "http://estadiocuscatlan.com.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnKtNGy2AQtJbsZeHTZTtNk9SXtv3B8TxtDEHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia San José de la Montaña",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLrxoYGn9iqWP6w_rj_miwTRSqdqByAKd3QSOW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Los Ilustres Cemetery The Illustrious Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPrPxxY7nIDj0HO2e9qLVcINFgTvUEYyzPYRec=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Lookout of San Salvador",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0SiEGxsmY9r3uom47O_O_6mEp8EaFuvNGVV30=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Arqueológico Cihuatán",
+                "category": "Archaeological museum",
+                "url": "https://www.cultura.gob.sv/parque-arqueologico-cihuatan/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtjbBXlebs8s7rk_8C-VPy6gzqpnCuMp8lmAeB=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theater of Santa Ana",
+                "category": "Performing arts theatre",
+                "url": "https://www.cultura.gob.sv/marco-institucional/direccion-nacional-de-artes/teatro-nacional-de-santa-ana/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk0V6ihpw6PkOQ4YqtcgU9KXRYvyExHTHQHoYa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Arqueológico San Andrés",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiajVvQ6jV4UzTY83Bj3dZqEKo81v43zs0BVME=w148-h148-n-k-no"
+            },
+            {
+                "title": "Academia Barista Pro",
+                "category": "Education Centre",
+                "url": "https://www.academiabaristapro.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5uFrfXtptIqaUvsbMpbooEFyCQH1TI6eT8Dfv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional El Imposible",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXKQoermT3y5J1H4i3w-7P3RRL54ZfrVnOUM8_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apaneca",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPV37TM5Jfof_rjbt-UB9-iYFfIXf74pq3y05Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Suchitlán",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnF1-CLDKl2XNmyZEtDznElM51z8Ky7878nhDm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dr. David J. Guzmán National Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.cultura.gob.sv/marco-institucional/direccion-nacional-de-museos-y-salas-de-exposicion/museo-nacional-de-antropologia-muna/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpuGfDny3RZ_MSDeARzfGlbKtTBw1j6ffjtSOh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica Sagrado Corazon",
+                "category": "Basilica",
+                "url": "https://www.facebook.com/bsagradocorazon/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCg3NhOJWUQh7IeC4A2zqaEi-mHi6shgk9EIKb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de Nuestra Señora Santa Ana",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9hzFOmBtHErTcHlLcIvfKeLhtJK_LMcMfppcI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de la Palabra y la Imagen",
+                "category": "Museum",
+                "url": "https://www.museo.com.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_CAxO9PW6K-s2QaNAht0lA9ZGSIwPAPf7iDCY=w148-h148-n-k-no"
+            }
+        ],
+        "San Marcos": [
+            {
+                "title": "Estadio Municipal Roque Molina",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU8tqZNH1YV0lFdPUqT09I_tKutRxp4ZCPgYr_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cutacuzcat Recreational park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4CzpaO5iUJBLqgmO2_vQ5RSElfA4bbsVt4UBs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinemark La Gran Vía",
+                "category": "Cinema",
+                "url": "https://www.cinemarkca.com/el-salvador/?tag=784&cine=el_salvador_-_la_gran_via",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN47763IRI1H8u6S40J_GhhwUMWkCnHjiIW00ZU=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theater of San Salvador",
+                "category": "Performing arts theatre",
+                "url": "http://www.cultura.gob.sv/teatro-nacional-de-san-salvador/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6Yv2MNEZM4EsaC2jZnKh_P2SPz21hrDUxa4oh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuscatlan Stadium",
+                "category": "Stadium",
+                "url": "http://estadiocuscatlan.com.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnKtNGy2AQtJbsZeHTZTtNk9SXtv3B8TxtDEHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Morazan Plaza",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTBFMMbyiL4JIdAwM4yB7ntgCJreJwTmFgyky-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of Our Lady of Guadalupe",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFWJoM0kxYG8iCbLOE8jFhjcj3KL8j58ZRVBAj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuscatlan Park",
+                "category": "City park",
+                "url": "http://parquecuscatlan.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEyrpva4oXCR1Vj3QVI4aZX3hDzCXWopwZ_5sM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Arqueológico Cihuatán",
+                "category": "Archaeological museum",
+                "url": "https://www.cultura.gob.sv/parque-arqueologico-cihuatan/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtjbBXlebs8s7rk_8C-VPy6gzqpnCuMp8lmAeB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Lookout of San Salvador",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0SiEGxsmY9r3uom47O_O_6mEp8EaFuvNGVV30=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Salvador",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5yDV_W7GI11WUOqqfaZNeo-xbbjS2fGiLPF6c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liberty Plaza",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg7A9wcXCTrSA-mVXLdAI1lAEGGDi_hzmlJXIc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jorge “The Magic” González National Stadium",
+                "category": "Stadium",
+                "url": "http://www.indes.gob.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUQdPj8mxvDWRFVzz23AP7JQziVJtlXWsGOqgO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Civic Square Captain General Gerardo Barrios",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRKo1JjIiWQokr0EEEoKpGr85euPOWv35vuK_m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Recreativo Apulo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5pROdvDKytaHZ2CePxMlwqFsGsrQs6vzaROZu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia San José de la Montaña",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLrxoYGn9iqWP6w_rj_miwTRSqdqByAKd3QSOW=w148-h148-n-k-no"
+            }
+        ],
+        "Santa Ana": [
+            {
+                "title": "Catedral de Nuestra Señora Santa Ana",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9hzFOmBtHErTcHlLcIvfKeLhtJK_LMcMfppcI=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theater of Santa Ana",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk0V6ihpw6PkOQ4YqtcgU9KXRYvyExHTHQHoYa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Libertad",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEla3hzJA68E1aDLXJWTR3k_4-wyknuC-7mVbV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Western Regional Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXh600lbxNkFzxtq8XE30SaEdxd35-E55rTLb3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Art School",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0imWeARpJ72mfd4UDTjtbchg8qcvu25-ew7FW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tazumal Archaeological Park",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB6mqF8x2WYQFu0AZc6GDRDoArQNVDx8pg9IbT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Recreativo Sihuatehuacán",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEqlfUgPh9GLZ6ddnuENxWKHlVvOp3t_fq9V0m=w148-h148-n-k-no"
+            },
+            {
+                "title": "UNASA Human Anatomy Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM60hRRXthOpOFPbdu7Pak6tEPRmwoCWTG_jLan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional El Imposible",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXKQoermT3y5J1H4i3w-7P3RRL54ZfrVnOUM8_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Blanca Archaeological Site",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZM357ofpRw4wDHrDlgErOE-BEN-MseNgJdCIK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apuzunga Water Park",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYmHOJJV3H-RpBuj5LFc6iOKHBxCyT_mJcswhY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Arqueológico San Andrés",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiajVvQ6jV4UzTY83Bj3dZqEKo81v43zs0BVME=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Salto de Malacatiupán",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAL0nNJxQ1OxK073iHo3vaPjOjcJiPZcH1zwce=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Ana Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSS4zcJye9tLuYMAunX96aqoraVLC_DigEk9kZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lago de Coatepeque",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOw51iFdIiey6t3VJzkp9zqHzI9g4LLRrn3ZJkl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Verde National Park",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsJXqtAPn6AfXX24KCIwmHcCh_-MQZPmK-Puw=w148-h148-n-k-no"
+            }
+        ],
+        "Usulután": [
+            {
+                "title": "Sergio Torres Rivera Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4Nlkkp8MwQfPCgM-mUyYOzSvBmaXtyAUiiby3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinépolis",
+                "category": "Cinema",
+                "url": "https://www.cinepolis.com.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPd0RUQrA2jBgnfpfLaUzHcefxx7qqAIP4R28H9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinemark La Gran Vía",
+                "category": "Cinema",
+                "url": "https://www.cinemarkca.com/el-salvador/?tag=784&cine=el_salvador_-_la_gran_via",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN47763IRI1H8u6S40J_GhhwUMWkCnHjiIW00ZU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinépolis • Multiplaza",
+                "category": "Cinema",
+                "url": "https://www.cinepolis.com.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5LF71jQN5eO30H5qfTPcin7a26EpCFeVUgsne=w148-h148-n-k-no"
+            },
+            {
+                "title": "Multicinema • Reforma",
+                "category": "Cinema",
+                "url": "https://www.multicinema.com.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdqWxQUnKfK0JfTxZD75XurrUcsHvaXWuSCvDL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Multicinema Plaza Mundo",
+                "category": "Cinema",
+                "url": "https://multicinema.com.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOu3rXQhLnJiitIzSQHNbPJHVr2UZkGDhnNaf1a=w148-h148-n-k-no"
+            }
+        ],
+        "Santa Tecla": [
+            {
+                "title": "El Cafetalón",
+                "category": "Park and Garden",
+                "url": "http://santatecla.gob.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLjD-6H913ruVce4benEvwjAuWmXcJASXBLps=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuscatlan Park",
+                "category": "City park",
+                "url": "http://parquecuscatlan.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEyrpva4oXCR1Vj3QVI4aZX3hDzCXWopwZ_5sM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Morazan Plaza",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTBFMMbyiL4JIdAwM4yB7ntgCJreJwTmFgyky-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liberty Plaza",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg7A9wcXCTrSA-mVXLdAI1lAEGGDi_hzmlJXIc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ecoparque El Espino",
+                "category": "Ecological park",
+                "url": "http://facebook.com/ecoparqueelespino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJsYeC1h5VEQksniqzoiIduQCDtXWyvN6u7-AA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Children's Amusement Park",
+                "category": "Playground",
+                "url": "https://www.cultura.gob.sv/marco-institucional/direccion-nacional-de-casas-de-la-cultura-y-parques-culturales/parque-infantil-de-diversiones/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfCgjAdLA6CvnSSLKGEsJelVJQVozOdLQOJ1XX=w148-h148-n-k-no"
+            },
+            {
+                "title": "HARD-BAR",
+                "category": "Night Club",
+                "url": "https://www.facebook.com/hardbar.3.6",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0B5xQhsV581itaeFuyFZkX8uSkq1auCmNJwJu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Furesa",
+                "category": "Zoo",
+                "url": "http://furesa.com.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiclhUdQyzO2aut7Psbcso8sNsxqUDv5LUeJdL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Water Park Ichanmichen zacatecoluca City",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCkCiZ5ZMfHH8Gigilo-P0TOD6hmOfWDXc4u1m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento a la Constitución",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGv857co0CmbSVZ8hVnz5aI6sAAOY-OBJQkOLN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa El Tunco",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ8qcWaKbZNpS23ym1T2t2Izti7Ay0bA79ORCz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna de Chanmico",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGhVmxNhU6xy5IqbyK4pDulQbjbWTxXpXn3IPn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Las Flores",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-_2aGv-GcsFlLHLT0DCSerKGrP_Q4-vCMnyGl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia El Rosario",
+                "category": "Catholic church",
+                "url": "https://www.facebook.com/iglesiaelrosariosv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPh3VfAuAGc-V2NDxBl1p3MTf3m7P57CyIikre7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Acuático Galicia",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKc5rPyzfxKeM4SHKJpClvgHrEWmda0jhtOeqf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo El Carmen",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnKZeX7QXba4BW0aRBCnLbCw-y4SD4TpP-7mV8=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Parque Nacional El Boquerón",
+            "category": "National park",
+            "url": "http://www.istu.gob.sv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPDW647rlOR6-ZPfVWyLQ1nZwb3Ys6jrCbBs2hk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Monument to the Divine Savior of the World",
+            "category": "Historical landmark",
+            "img": "https://lh4.googleusercontent.com/proxy/ZiV6z-rTwtIAnFWsfBfTNvETHFdL36pocpXkE4DRnk8QC7KccyzootcXcAYoZNtXHCPHqUH56caQ48yYD6e1z9cHlBDnGZ4zRnPhpDiEvRAgT9OQCkBtu5aPhiohKehwR3djMbRP0FBJV9pdRbx8uXZzImE9Lg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Arqueológico Joya de Cerén",
+            "category": "Archaeological site",
+            "url": "https://www.cultura.gob.sv/parque-arqueologico-joya-de-ceren/",
+            "img": "https://lh4.googleusercontent.com/proxy/kX1X9DLfbOBJEbASbBL7Bd7KoAwfQ9DcrNyogz7GV9P5bZ4o0NconbZAj_TtrevlFqK1gNLTPWu6um481-W6YiibsFGjQnL3KSL_cZAJdK0mHXnC0y0Pt4kaXoLB21oNelF-SP40rixS2iJg6GSzyZ_NPVA3W0s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Metropolitan Cathedral of San Salvador",
+            "category": "Catholic cathedral",
+            "url": "https://www.catedralmetropolitanadesansalvador.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPP3BpHwB4LUd3LGlv0lsrB-_5X10RMLg9AJ2Xv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museum of Art of El Salvador",
+            "category": "Art museum",
+            "url": "http://www.museomarte.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO1wxeFZNXvYiDLYXcTmwM3svqBI4R84FAbFMmx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Playa El Cuco",
+            "category": "Public beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMWD3D4tLFiACUr1Bz1cm_DSJJqj_Tu5uib5o4L=w148-h148-n-k-no"
+        },
+        {
+            "title": "Puerta del Diablo",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMFSCMnvF76IyCHt4u3Bk1icCgBpYCUMB-pP1M=w148-h148-n-k-no"
+        },
+        {
+            "title": "Catedral de Nuestra Señora Santa Ana",
+            "category": "Catholic cathedral",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN9hzFOmBtHErTcHlLcIvfKeLhtJK_LMcMfppcI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cuscatlan Park",
+            "category": "City park",
+            "url": "http://parquecuscatlan.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOEyrpva4oXCR1Vj3QVI4aZX3hDzCXWopwZ_5sM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dr. David J. Guzmán National Museum",
+            "category": "Archaeological museum",
+            "url": "https://www.cultura.gob.sv/marco-institucional/direccion-nacional-de-museos-y-salas-de-exposicion/museo-nacional-de-antropologia-muna/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOpuGfDny3RZ_MSDeARzfGlbKtTBw1j6ffjtSOh=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Theater of San Salvador",
+            "category": "Performing arts theatre",
+            "url": "http://www.cultura.gob.sv/teatro-nacional-de-san-salvador/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO6Yv2MNEZM4EsaC2jZnKh_P2SPz21hrDUxa4oh=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Theater of Santa Ana",
+            "category": "Performing arts theatre",
+            "url": "https://www.cultura.gob.sv/marco-institucional/direccion-nacional-de-artes/teatro-nacional-de-santa-ana/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMk0V6ihpw6PkOQ4YqtcgU9KXRYvyExHTHQHoYa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tin Marin, Children's Museum",
+            "category": "Children's museum",
+            "url": "https://tinmarin.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNiLUTxF24mSJZGiZfVfcL8W9_c6Nl-wWiMm2Ao=w148-h148-n-k-no"
+        },
+        {
+            "title": "Plaza Futura",
+            "category": "Shopping Centre",
+            "url": "https://www.wtcsansalvador.com/plaza-futura",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMUIv81ZwhuY7GqFaJAqY-sdVHcNJyhqnKM45p5=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Palace of El Salvador",
+            "category": "National museum",
+            "url": "http://www.cultura.gob.sv/palacio-nacional/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPRYH99xr2mFGnkp0AyJuoNNtMiKfDlVdvmpVVx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cinemark La Gran Vía",
+            "category": "Cinema",
+            "url": "https://www.cinemarkca.com/el-salvador/?tag=784&cine=el_salvador_-_la_gran_via",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN47763IRI1H8u6S40J_GhhwUMWkCnHjiIW00ZU=w148-h148-n-k-no"
+        }
+    ]
+}

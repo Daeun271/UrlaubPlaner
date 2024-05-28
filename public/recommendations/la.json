@@ -1,0 +1,340 @@
+{
+    "cities": {
+        "Vientiane": [
+            {
+                "title": "Laodi Bar Mekong",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlLeXddaYjxdHUWeY4J-srKsaRb-8RzPmM-iCj=w148-h148-n-k-no"
+            },
+            {
+                "title": "i:cat gallery",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaEC8T813htekanb6eKPlRO6e9CHOlAwBm4P1R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carol Cassidy Lao Textiles",
+                "category": "Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2FPo2Yfvkfv11-oTvIDtqY4xis5WIMdWNWRat=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaysone Phomvihane Memorial",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXJfHz3XQG7sJTwQrd_a22AbbZIeoGoHbrD3jF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lao People’s Army History Museum",
+                "category": "Army museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Nam Ngum Reservoir",
+                "category": "Lake",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Vientiane Center Lao",
+                "category": "Shopping Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Avenue Lane Xang",
+                "category": "Route",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Lao National Museum",
+                "category": "National museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Chao Anouvong Park",
+                "category": "City park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Lao National Cultural Hall",
+                "category": "Performing arts theatre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Walking Street Roller Skate Park",
+                "category": "Children's Amusement Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Vientiane Night Market",
+                "category": "Night market",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Vientiane City Pillar (Hor Lak Muang)",
+                "category": "City pillar shrine",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Presidential Palace",
+                "category": "Government office",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Talat Sao Morning Market",
+                "category": "Market",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Savannakhet": [
+            {
+                "title": "Dong Natad National Protected Forest",
+                "category": "National forest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHV5QHUOKdKfdyT0PQj8TItMFZrwmVZm-JD5Kg=w74-h74-n-k-no"
+            },
+            {
+                "title": "Wat Luang",
+                "category": "Buddhist temple",
+                "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4QBiRXhpZgAASUkqAAgAAAACADEBAgAHAAAAJgAAAGmHBAABAAAALgAAAAAAAABHb29nbGUAAAIAAJAHAAQAAAAwMjIwhpIHAA4AAABMAAAAAAAAAEFTQ0lJAAAAb3Bwb18w/9sAhAADAgIDCQsOCgoDCwsKCAsOCgoNEAoKDQsOCAsICQkKCw4LDggOCwoKCAoICg0NCg4NCgoLCwsICw8KCg0LCgkKAQMEBAYFBgoGBgoQDgsNEA8PEBATEBAQDQ8SDxAPDxAPEBAREA8PDxAPDQ8ODxAPDw8NEA8NEBAQDRAPDQ8PDw7/wAARCABKAEoDAREAAhEBAxEB/8QAHQAAAQUBAQEBAAAAAAAAAAAABwMEBQYIAgABCf/EAEMQAAIBAgQEAwUDBg0FAAAAAAECAxESAAQFIQYTIjEHQVEIFGFxgTJSoSMzQlSxwRUWJDQ1U3ORkpPE0fAXQ0Ricv/EABoBAAIDAQEAAAAAAAAAAAAAAAQFAQIDBgD/xAA4EQABAgQEAwYEBgAHAAAAAAABAhEAAyExBBJBUXGBkQUTYaGxwRQi0fAjMkJikuEVM1Ki0uLx/9oADAMBAAIRAxEAPwDQ0JGOuaEQMLqUrSu/f6f8/fiH0jzw5SNfTGcW0hZEHpiIrC6Rr93FTFhHmyiHHszRENptCr/3MW7yPZXjmPhg+gOLCY8eKGjj+KK/1WL97FMkc/xQT7gx7vonu4zfontTOfznDBBH3ZgfwMQp/ecLUdoMkBaXO415adYYKwJJdJj5rPtLzyUbK6Zy5ImKOZVVgVKqxAtkDbGlalRW3YkCmc/FAlKkBr+envyEWk4U/MlZj5lPaf4oH2tNyzD4JKvl2P8AKDv9BigxithGxwaNCYlst7UeqU30GL/G67/4TifjDtFfgRvHGa9o3UXeNv4FVRCxYgSt1VFv9VsLSwrRvtVpUA4yXiSog2bziRhMrh7xYYvapUd+FT9MwD/phjf4oHSMTgyNfKHEftVZXz4aI7bc/ff0/k9Nvn9MeGIG0QcId4f6D7TejSTKs2UbLxBHN9zSVmqgVCqQ3AWFzXcXBajYHGiZmau0ZqlFNLvFs1H2heCVViurFmCkhRBPUmmwFYlH4j5jEqnJal48JK9ou2m8UabIiuuoxsrqGVr1AKsoIaldrga08saRR4/Nk6gqj82xApuAPM0puQe5A7eYHnjm80P6CJWGB1FAjOFqbkiZgxZme7cqDaGC3VIIVT22Ed5EoS0JnNOB/RuY/wAmnl/bfh2xXvI0CY8mroN+TKPmgFN/7Q/txGeLAeELrxJlP1nc+RBH49vx2xGeJbwhyeI8qR+fG252f69kPr54sJkeIfSEjr2VP/nDfsKS/t5RxqFxiUw7zOZjpTmkE7jokBqDQEViA2I79qjGyJrGB1oBEL5DUoWArJRqdQ39aV+R/f32xoVbWjNJFtYbyZDTya0G/wD9f7Y3E5Y1jMy0nSHuj8JpcWj1eMhQVakE4YfZKkNyCAUt26WFaUIpjjl45x8or1Hk3rHQ/CB/mPoPeJTTuC9Nl+xnx0mhqHBDA9v5pTt8fOvnXACcfOUHBT0V9YMOGlpp83+2HTeHUKj+kUAHmC1R5/q/liPjp37eivrF+5l/u8oQyXCuWlBK6woFafpAgg084RXsN/lv6wnHzCARlbnFlYdALF+g+sen4Hy6Ak67GAB3qa/H0Pb6/HF/j5muXqYqMOiwfoIXXQsrIKnXU7U+6e+9QdwRv8a+fliE49bOAljW5+kQrDJdq9BCWncOZRHWnEEVXa0ClSS3QNudU08j5d8FSceSoAgV/d7NA87DAJLE9P7hsnC8BAB4liJIpvIpa0fPM12r27D4YuntAs4SP5f9YqcILOf4n6wjmeD4rhbrUYkINCHStop3HvFAvYE7Ctu9aY3R2if9I/l/UDrwL1Ci/AwqnDmpeecjPx95QV+NPedq4PGOl/bQJ8LM+3+kWGTK57IPGzEM7gCa0ERnodibakqCY2AqTuUPeoxyih8NNycDxBLMfEGoPHSHjjEyyoUvyIDvzF4v2j+45XLPOyBTIzuQTQGS5lA+VEFfgC22N5YTh5BmKFSTTcuwA8hAqwZ84S02YdGcmITwg4t95vjkkBYkuu+9Go58vNWVqdgS9CVAOKYJWYmXMLm49COR8jBPaEnusq0Wt9Pvw3iRzUuSyGTaQAAkvaCf02dj50rb3+NAPPFykYfDjLc0HEn2vwEYDNiMQ2mvBve0NvDrVMvncu0MrVdQyOK72kFT9VrT1AsqN8UwgTOlqlrqRrqQbH25eMaYwKw80LTY9H+6wlxbqXu2TS1gssyoFFd+pQT8e5A23323xSYe6w8tNlEDiAzk+zneLyEGdiFv+UE8L0+vKHmQmyWdy0c+18UkbkAjaRZV708iCT8O3lTBMoCdLSr9QUH4gjyIrwMDzs0iYpGhBbgx9DFJm07M5h5pwf5oC9NwRGrqenfukbXV3qVZe7XYWLSuapZQapc8gSGHIE+JYGkMUKTLShKv1MOZD+tOET3D+RSeeGbldaiSOY9lsRQytSlKteK+VadgMHYb8YoWPEHkKHp5wFiD3SVpPgRz0hPOeIhDELp8ZUMbTd3Wux+oxorGoBICCfHeKpwayASqA94V+O2say4jzbRI4zAhQRRMqtGqc0lrjLuLfJk2rua417Rw6lz5eWw+ofUaDYxGADYeZMa30/uDX7WusjKaW7pVWDUjpSnMMcjCoPdagkjf5YOxOHEwITpmD+bwHgJigtaxdKCejQFfYa8QNUz2Zm94mueOK5CERVCgqprShLEy7bEUruOxzTgkSZ6TLDDKp9akp+hgidilz8MVKAosCj7E7mDX7UmW1H3SKPKuq5mfMrDl7rOXzGV5DdeCALYmI2JLWqAa0xXGy0AIUofKkkndsqrc2iOzM61rys+XW35kgesDf2MNZ1qSfOQ5yYNmck5haixhKK4QgWqLuuN6NTdSN/ITJkS0zBMlD5SgEb1L+jROMmTFSvxGcLUmn7QOO8Tvtpas2UgheOcxs7GMEUAtUAgdqjvQUFDWhoDXFMThBMmoLUAIbo3oYDRMUcNNY6pPUserxC+yRxfrLwyHMadMY5CFWqMACjurN1b0jYEMooVCE0bYIpnYvC9nTmNlZXAIpqFVYVChUeF6QsTmFrRdc7rXFOmimX4UizbZrMSo5aTlLHlxGZFLsI36JCsgIIoXtFCTgfs3tfBpTOWVB8xYN8xGjC+/hfQQ3xk9MwIymwHXWLt4XaPlrpwF6bzyxbRRE3YKaUZQDbUVHTTuDh52aZazMMuz05gG2l7bNEYyaVIll9K+P20Zk1vxA06GV4jLJWF2jO0PdHKn9KvcfPCg4dSTlcU8THWowylpCwLgHrBJ8JfY+1PTRlMwsjSF58xLODYCsfL5MR7gmlLSoB6+a9wVkRX0rPPUJxZrBrMHr4ubftaOZRiESZEzD1rXm4o2lBuYMXjZ4eLqGWMDZMyAtWy8KD82vUgAV7GtaY92hLnKQkyHzpLi3CrkCxMB4KahCz3n5SCDfpSAF4Y8K6fp0jHKaf7veAWDO1SQ6owe43AU7CgS7a9jR15fv8Ss55qyFpDpf5BwI2LajYhixFZ04LQEoTlD1uz6HofvQwcW5R9VhaNMsbopAV6wo+DE3KxqK9gKHzI3wyM+bj0qEpLFJDF06uHvs/3WNMFORJmOuxFb+TePCOfBnwhXTuaxyio85uYq4IYmhLN1ElyRux8vrVjgcPPRmVPLlgBUM21PGNMdiJUxhJs7mhd94ZePkmjNDXM8txHIbI7hVu7VKGtQOXWo3AB7HZlPaU2ZMpLWkLSpgx+YA0cjxsP/AEQNLmJlIUFBwoaij6dLwE8t4tZvpcqY4LAl0YShPMIRYn5yJsp6g6FVAf8AJgXoqD/DJbZbq1BJ5kuCeYUCd2YwtfUw507x8mmLRJo6rRrEczBH60B6YmQc0K9PIBQERrSLTRXYgQEzTMsHIZ9dSC4ob311jXOCLQV/D7xMnMvVlEjJpcvMVywL0Vha2y0vsXpCHmBkoVYDSxN7OUJ0skpdyGppYEpGYaEnUVpGoXmGU0i75/gLhlnZjHUsxJIl2JJJJAu2Bx1apOCmErLl6/m3rvDRHaE5KQkKoKWiI4g4j8SppVeLJZXkZdUXLJJNMFKCBau4iSNuY0m1t3Ltq3WDafIxHeZJiSQGDCrDoa78+psrDyFpKpgNWIahqzipLAVAu420heKuIvFtonE2m6KsTgowtzzNa3TtXMMCantafodwerFFSCksXpq3rFJ2HwqUkoC30cpbyTAx4U4h1x7ZZdQjDx3RIJK3MUjdgTc1HqGISqswo52FaqUlYZQVmDXJccdM3AnbWoTkZqpDQQOBdU1zLxFY9ayiys1zM+VklFoJUgLetWJH5y6jUbYi1sZSMTLw04soMRYgvRmauuzGvAwXITICvxASPAt5sfTnE7qn/VhhVeI8mCdhbpaUoQQaq2arU1FpqLSDVWrt0Axjhj9+sbz8NLP+UhQ4qf2TGbvH/iXV4G92zWvRSyhC5tyscVhYWqOWrSKzWP8ApE1BA6aVIQR3k7OgUpaj63p5ecK8VRQQLDnUwGos9nFArKFUXIlQhjFQkzuAzMJHe0dSlXZVk6qEUIKQolg5o9wdQBozeNATaAyGpFiTSuG5ikk+dOWuiVAEMpJnWR1frJuiRDYxiJZ405YuarOuPeTZQIQM1SasKMOpvVqqoQA0RBD4f8S9GVg8pmQyMErMpqZOQg/JrHKsT2X3NKFWV2dwdzzZFs7BrUGl5Szlg2+tAd2FnrXSQacYNKarpn64n+W5P95FSfj3OONV2XOJJCyBt8tPCCAsNBWZVWgFdqD1FP3dv2bY7tCWSAdo6RNAAIA/jRxXC+ZRBmlSTKVV0kNQ18auqgXURirXc03KgQMVagtspKUJJYl9vfb7tCzFTMym1EQfC3E+UtKc1hQ3o7KlzguFkAqvmtoqpJINAaqWwsnpmSzmZgaEB+uviTbi0AgvR/71NbxY+BM5mczmVJG1Nz0CjIzIVoqEA0Cki8jde7BsYiW7AtcAUuGBepFdLFtKRtLUJihy8vv+oPi0rsNht3PatN+/p3+fzw4ZoeZowp7T2TzcWpSgRlOcA6tvujIwb7QstcqfusXV6drgbICcrnmOdDv7QnxkpQIWTQuBenHSruN6wP8AQs/mWBi58ipGQ9xBdDy5FMQ+FnTQ0+1YtDUE5zUpSRMYE1DWNR83XXweF7C0S6aFkJRKx1CMZhQzssgLJzBGjc262ocuac1TJ1SEuHWJlcc4hUooASchZmoRVmbhVqUFKmlglncaHfXXiDu4e4i4ahrc3U4jdnyqxyCZY6pKQF61NW5KTKWBZUAkAuK9T4Ew6A4RQJJUMmZinwNKkNZyznWCJaFZVmv6XLOL7/prrraxeCRBDkWAP8NqKgGl6mlRWlQaGnr2wMUS9h/GMDKXtGj1UVG3lhpHTCA5475SBiSYQSWQVIBNKPt27fDCZS1fFkPTKPeFuMAAfVz7RmubqaIN1A5yIEHcFWsDCh8mBoR2Ix0huvh/yhOj8w4wZ8zmpkzeVVJSqlqkAkAlpJLiQNiWoK+tBhLgwFGaVVIU3k/rBki6OJ9BGosmikHp82/fg5NoeLjJftrQR+8Zc8sVOXkqabm16rX1tLGnpU+pwTJueIhdizQfe8CTTumNguwsI222o7eXxUH5gHyGBJoBmV39xACwyuUWfw/y8T5mJXiDKVmJUgFahCRsdukkkehJ9cBTyUoURf5Y3nl0S32PqYh847JrphQ2wiZE5Y2j5bafG7LYOm1mJYrShYk0rvhplBwAWRXK76u933gbvFpWEgljcPQsNY2Zp3CehlFJ0aEkqCfySd7R/wCuMMo2h0mwj//Z"
+            },
+            {
+                "title": "Wat Sainyaphum",
+                "category": "Buddhist temple",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Dong Phou Vieng National Bio-Diversity Conservation Area",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEoviQiPWyJdeUw8HWKff5eTIA1NJ6bEgzY6c=w74-h74-n-k-no"
+            },
+            {
+                "title": "Lao House Shopping Center",
+                "category": "Souvenir Shop",
+                "url": "http://www.laohouseder.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Nouhak Phoumsavanh Memorial Park",
+                "category": "Memorial park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Sounantha Temple",
+                "category": "Place of worship",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Savannakhet Museum",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Savannakhet Dinosaur Museum",
+                "category": "Museum of zoology",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "That Ing Hang",
+                "category": "Place of worship",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Pakse": [
+            {
+                "title": "Vat Phou",
+                "category": "Archaeological site",
+                "url": "http://www.vatphou-champassak.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Bolaven Plateau",
+                "category": "Mountain peak",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Wat Phousalao",
+                "category": "Buddhist temple",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Lao-Nippon Bridge",
+                "category": "Bridge",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Wat Luang",
+                "category": "Buddhist temple",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Tad Gneuang Waterfall",
+                "category": "National park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "E-Tu Waterfall",
+                "category": "Tourist attraction",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Thakhèk": [
+            {
+                "title": "Sunset Viewpoint",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAamrWP3TTFPIl994fw1t7iWbO8Y9tpdxOm7s6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souphanouvong Memorial",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsSSf7v5z5z186rO3hUJWQ0RRnBl0XInmTz119=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadiumສະໜາມຫລວງປະຈຳແຂວງຄຳມ່ວນ",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnwrUonc-738DMJHLlIMRPrawkE-k6ZxLJcUEx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Cave",
+                "category": "National forest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCX_XaT8oexvrXerq-tEUaS_uI1AXyQfbKAUCp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tham Nang Ene Cave",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnhknmBoE_xyDYiy1Ri7DZT0xalJygMjvt01lK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kong Lor Cave",
+                "category": "Tourist attraction",
+                "url": "http://konglorcave.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt9KwQ0efewkBXn1rHR2segEW68zQkPT5hXPEt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Discovery Laos",
+                "category": "Tours",
+                "url": "http://www.greendiscoverylaos.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYsJVM3pjo0vxttFkLKzFUiA7svtUpQ_GpbUBH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mixay Thakhek motor rental",
+                "category": "Motorbike rental agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWXZoaEYQwByEvGuWQAEoJqRk0GmJcpHtorw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thafalang-ທ່າຝຣັ່ງວັງສີຄາມ",
+                "category": "Canoe & kayak tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO90CW0pCTCfujTbeR71HVuUjj7ty80VeABTQC4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wat Phathat Si Khottabong (ວັດພະທາດສີໂຄດຕະບອງ)",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDl3xtd1XldcFXo1TyDnEufiBvwkAdHklMhWs8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wang Wang Motor Rental",
+                "category": "Motorbike rental agency",
+                "url": "https://m.facebook.com/profile.php/?id=100010267068144",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMWonZwJR5_uuT9vPcwhmyuAHZNbBC1Hkgeb5_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thafalang",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMe7PZyjxyNTmVw_ZQgUNbejT_B8jAEWtZU4pQs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mad Monkey Motorcycle",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPh2NJbr2N3RDTtAwwEJN6llAPxJyetAUwQbIRj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tham Nang Aen Cave",
+                "category": "Park and Garden",
+                "url": "http://www.tourismkhammouane.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPHIHVcVhsb1GrtSPNYkrt4UuglP02W-WqcEEz=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Kuang Si Waterfall",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOmopvH87EdwQSF4_m8RZslTfj3P5zb_azycG3t=w148-h148-n-k-no"
+        },
+        {
+            "title": "Night Market",
+            "category": "Night market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN2kQursLx-T-MO7DbXRFBwRwGY7u6UBoBjLx0=w148-h148-n-k-no"
+        },
+        {
+            "title": "COPE Visitor Centre",
+            "category": "Museum",
+            "url": "http://www.copelaos.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNPkZLKJf6sR47q2rb0AGr4RldEW3tY5o9Z85kH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Luang Prabang morning market",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMAtHXZVSjom1idYTX_WrSNyXrx-tk4XGU8uvBg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Wat Xiengthong",
+            "category": "Buddhist temple",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMDaBiuqF2_Xx97rZuThJFOkjVqHakJWXNLBXye=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tat Kuang Si Bear Rescue Centre, Free the Bears",
+            "category": "Wildlife Refuge",
+            "url": "https://freethebears.org/pages/bear-care-tour-laos",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPyKnsSEvPBrcA9XzD5T25ug9dRIUAaKik3Sbyc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pha That Luang Vientiane",
+            "category": "Buddhist temple",
+            "img": "https://lh5.googleusercontent.com/proxy/AYJaQUj7CcrAheOZLtZokk_EhxKwxa_qzy4Q1mCwCcnGB0D15d1f_e2NAjRtRBLgXTgF-K9B-WR7GryZB2HHhyycXOcDTag1Zx4WGVT_rmLWJKBiiEc0vyF34f8nENp-LsCpHLgATBWdhaiASOAZ_szNx8RacQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Vientiane Night Market",
+            "category": "Night market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPLeA6OLebkaDJGvwTl16F2Q8kZ6bN17SLg_7xT=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Living Land Company",
+            "category": "Farm Stay",
+            "url": "http://www.livinglandlao.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMqJc8D2UPSR3C6O68yezQeUEmkgFMbT6gfn0LD=w148-h148-n-k-no"
+        },
+        {
+            "title": "UXO Lao Visitor Center",
+            "category": "History museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMD2sbBa4QsIRMzsqhxxfI9klS3r6bPBolkODjG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Wat Ong Teu",
+            "category": "Buddhist temple",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMX4hKC7NbcQ5DGseHJLJViaZl4PdA6HpSAlwhQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lao Textile Museum",
+            "category": "Museum",
+            "url": "https://www.facebook.com/laotextilemuseum/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMp9uCNffnfU1ZsYX0oqNZWyI7K327jOCz-skVn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Phousi Hill",
+            "category": "Buddhist temple",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMRMf4acpg30g9lkxWC03aNeW3Xf2GNh85uoM1K=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nong Khiaw Viewpoint",
+            "category": "Observation deck",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNV6fL2P9gKiu4hjS4fpumfJOJwlrgG9AlpNoG9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kaeng Nyui Waterfall",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNQpUraHe7UNBNo5PVcfyIqQOMz6-sXl3xUPoQM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Traditional Arts and Ethnology Centre",
+            "category": "Museum",
+            "url": "http://www.taeclaos.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOq6VXwCu50EJMukv6hXKZpUe8yX0h9dVC5dPxf=w148-h148-n-k-no"
+        }
+    ]
+}

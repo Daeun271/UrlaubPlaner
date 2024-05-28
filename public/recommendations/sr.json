@@ -1,0 +1,176 @@
+{
+    "cities": {
+        "Paramaribo": [
+            {
+                "title": "S.I.V. Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFiWAPKnIZCx1rvLkbuHDLjl_RQkoEOTNbFiaR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Neveh Shalom Synagogue",
+                "category": "Synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqTSF8uXVjzJNSv4fCIBIr7aq2L2-icVyej5fp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Het Koto Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGfG9Y0U3fMoTgco1eeXcsteQS_TdqB6MtKIMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palmtree Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBUpNeOl0Kv_Q59ldJ82dt7x3A7-rXWoOP8Xr7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Zeelandia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZhHAVlaVpvuFOlZvOuOtJiA2hzk4pnls3ocUb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Presidential Palace",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvmNUK1ZCWnidF8MEaLXc8kWcQekqDuuQTVrI8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Onafhankelijkheidsplein",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgRtV6opkEnQOW5VSmkGER4f27X1X60qvGpE3_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Historic Innercity of Paramaribo",
+                "category": "Heritage Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBtET188dN1Mn5ju6cvJtKFS7HkvYDgTLkc6QL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Nieuw Amsterdam",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmbiT1HxiFfq_yS47-d7p087fxhMiK-p74qt3I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Het Surinaamsch Rumhuis",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYnc8-GqVNfnDnJ0CDscSk5llnP6TF4tpOY4RS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint-Peter-and-Paul Basilica of Paramaribo",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOsjzOYAjNLIU2sLAzcWNWAjtYxQ4vFxnV-gKn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paramaribo Central Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObQOejlNSs5AkVGLUIo87j6BD4gHXil0l1efwI=w148-h148-n-k-no"
+            },
+            {
+                "title": "André Kamperveen Stadion",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPme56ak712Pu9w5n7EDiUoMA_VCxoveExwv2_A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hermitage Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN3lgcrzGvebCrV4PBakG7PdO__MBe8THXN0PK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Waterside Street",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcBAa7f9NMWj9BF_aZnlL-PfbLGvXY8rKyPZfg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Readytex Art Gallery",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjU5iYjjeq4qG2XZpXS5qp_p8r_eqTI4zVH4oY=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Brownsberg",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOebbLCfSGMtAfnYvgzkHn5ptaO70b_cPb5Q14x=w148-h148-n-k-no"
+        },
+        {
+            "title": "Palmtree Garden",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMBUpNeOl0Kv_Q59ldJ82dt7x3A7-rXWoOP8Xr7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Peperpot Nature Park",
+            "category": "Nature reserve",
+            "url": "https://peperpotnaturepark.com/home-maple",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdr4gKCd9C48WzJqdnEqeB27NEbnyL3YsXCje5=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fort Zeelandia",
+            "category": "Museum",
+            "url": "https://www.surinaamsmuseum.net/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNZhHAVlaVpvuFOlZvOuOtJiA2hzk4pnls3ocUb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bigi Pan",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNkYb63fek8W8vF2GLTaouDBaZv--SL9VXM38gr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Het Koto Museum",
+            "category": "Heritage museum",
+            "url": "https://kotomuseum.sr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMGfG9Y0U3fMoTgco1eeXcsteQS_TdqB6MtKIMY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Saint-Peter-and-Paul Basilica of Paramaribo",
+            "category": "Basilica",
+            "url": "http://www.kathedraalsuriname.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOOsjzOYAjNLIU2sLAzcWNWAjtYxQ4vFxnV-gKn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Neveh Shalom Synagogue",
+            "category": "Synagogue",
+            "url": "http://www.surinamejewishcommunity.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMqTSF8uXVjzJNSv4fCIBIr7aq2L2-icVyej5fp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Historic Innercity of Paramaribo",
+            "category": "Heritage Building",
+            "url": "https://whc.unesco.org/en/list/940",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMBtET188dN1Mn5ju6cvJtKFS7HkvYDgTLkc6QL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Presidential Palace",
+            "category": "Monument",
+            "url": "https://gov.sr/ministeries/kabinet-van-de-president/president-en-staf/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOvmNUK1ZCWnidF8MEaLXc8kWcQekqDuuQTVrI8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Waterside Street",
+            "category": "Notable street",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPcBAa7f9NMWj9BF_aZnlL-PfbLGvXY8rKyPZfg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Commewijne",
+            "category": "Water",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNZzHxrsIXCXBo6Hri1liNdYopqwSz59zSBPVCx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fort Nieuw Amsterdam",
+            "category": "Fortress",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPmbiT1HxiFfq_yS47-d7p087fxhMiK-p74qt3I=w148-h148-n-k-no"
+        },
+        {
+            "title": "Warappa Kreek",
+            "category": "River",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOmvszTCZwM6tEOV3EkfcV3ToogRTAlkcxJvEE2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Neotropical Butterfly Park",
+            "category": "Garden",
+            "url": "http://www.butterflyparksuriname.com/website/home.asp?menuid=2",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjPZavgUmXwuf2R_jslM4Ad3gq9Y0HFDlqD6Xl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jodensavanne",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMYmXX9DYuMCOHU7u8dtcRUoDE4kFU_331vYVgn=w148-h148-n-k-no"
+        }
+    ]
+}

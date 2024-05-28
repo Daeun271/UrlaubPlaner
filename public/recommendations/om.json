@@ -1,0 +1,1235 @@
+{
+    "cities": {
+        "Sohar": [
+            {
+                "title": "Sultan Qaboos Grand Masjid Sohar",
+                "category": "Mosque",
+                "url": "https://www.mara.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxq2ARALDckjmaiqVhAbbjeC1kjNBQKCT0Zml9=w148-h148-n-k-no"
+            },
+            {
+                "title": "VOX Cinemas City Centre Suhar",
+                "category": "Cinema",
+                "url": "https://oman.voxcinemas.com/cinemas/city-centre-suhar?utm_source=google&utm_medium=organic&utm_campaign=Google_My_Business",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3vlRBzBS_yEJ5GyseUjMqgh4wtPEbbR-oWH_9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Sanger Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOg13IJTdc3-OnYejga3uO6VMMUyYUSrtj0eJ5n=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Adventure Vibes",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeWVVmSgqLMvwLto9H5ogknWY7YXWIOPaZuxfe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar Fort",
+                "category": "Castle",
+                "url": "http://mht.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiOE-X8Q6mEs7PXTpCcYEcgNQZ1DDfsDn1V_XE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar Regional Sports Complex",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrabX_NFnTqqhDbtM1dOCqf8HOtBHkfctxE2X0=w148-h148-n-k-no"
+            },
+            {
+                "title": "SOHAR EYE",
+                "category": "Park and Garden",
+                "url": "http://sohareye.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTcb1DYp_nP93sKhuEA4zTgBkKPJQfoReITntK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar Gate",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqGre5dEhlEHC8VpqN4BzmaWgFyWT1zG00a0Vi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar Entertainment Center",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0cNiM0pXBQlDd2L4qHJjtzDRZnSe3jQ9NsxV3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar Beach Corniche",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsOb5GZi1azt3ovmU-a9YSfhl8ic-uZ88JUxUU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falaj Al Qabail Public Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-5N3pqa_lSz62DMKZZ29gaxfiPEUraGREy0ys=w148-h148-n-k-no"
+            },
+            {
+                "title": "Public Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMViX-CiyQrIkNqYtcXZXro2Bf_436qtqeQMMvC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Alam Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6_WmGrwF49AfmLsZG_R38AuutO_4DhSRFz6xD=w148-h148-n-k-no"
+            },
+            {
+                "title": "مجمع عین صحار suhar eye",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSl2gfAoB9JDm_iqMImF0Nr5YVYU9Ey-_6XLQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jabreen Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgX7ywjKlk8sdb_eQbH7Fic9Nf0HgXA3BgtVlh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bait Al Zubair Museum",
+                "category": "Museum",
+                "url": "http://www.baitalzubair.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj5Jw0Go9FrqlY25MBSUqWgmxcNPJOVhvspUdk=w148-h148-n-k-no"
+            }
+        ],
+        "Al Khābūrah": [
+            {
+                "title": "Oman Avenues Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.omanavenuesmall.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQytloVyA6DJ-pgd2goGjA3VRzokNeQh2UHoRQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahla Fort",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgvjGfE4iDyyLD0j2pIi7Q2qJ2pwvHi0eEOlrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mohammed Al Ameen Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSwuEN-1VkFpEUwzot6kQPVp-2wR3RaZB5ZMdx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muscat Grand Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyuvi-9Tsk1Rp-E-h9ppw3sj7k9iucKENnDJLf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rustaq Fort",
+                "category": "Castle",
+                "url": "https://www.instagram.com/alnarjes2007/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmPrUVaLGHzFmkNA0mNL80CSvPNsiHFsz3x22Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "SOHAR EYE",
+                "category": "Park and Garden",
+                "url": "http://sohareye.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTcb1DYp_nP93sKhuEA4zTgBkKPJQfoReITntK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muscat Gate Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLUdZ2FASObmtu4xYyk3Yc7uj3w4p5AbJsHgSy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riyam Censer",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9MR6Vuq1_nGQyXgS3IX_3uDNnur-s-0quzupi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Qaboos Port",
+                "category": "Marina",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0H1JEVhKE2s5Qdsmnufqd8HCzAh9MKTBL_0vJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruwi Clock Tower",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNk0ZoMG8MeBGxBO3wVi21hHumFd-XG3rMNh6X_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar Regional Sports Complex",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrabX_NFnTqqhDbtM1dOCqf8HOtBHkfctxE2X0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Harat Al Bilad heritage site",
+                "category": "Heritage preservation",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqlzWO83rgifnIUAcC47NEtDKaGRox2xOSJIBB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Birkat Al Mouz",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUkYIGdA7O8QxdLg7hQrs27d8Xyrp14t_DvPZA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2zK8omcf-_Kz6mv7plwdNhpuaCkrYIhc2yobX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nakhal Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEYsf2UmtPNeBurXhNjrRUvbgiBN-6ykNsw4Vr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mirani Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM3aHVfQQuxrLeIyAA2UXmCy030o7JdariMpid=w148-h148-n-k-no"
+            }
+        ],
+        "Barkā’": [
+            {
+                "title": "جامع السلام Jamei al-salam",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM4bSUUCKB-Wfj25OMhRRmFri5GDmARSn85_ru=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Qaboos Grand Mosque",
+                "category": "Mosque",
+                "url": "https://sultanqaboosgrandmosque.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0xt10HEbwbDk-MRcTTPKn2ZOneGH56FZOJ4c_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Souq",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfff6nnS5Dd0O3XTiPpMiQFRq7RQHVWO6kWNUl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Alam Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6_WmGrwF49AfmLsZG_R38AuutO_4DhSRFz6xD=w148-h148-n-k-no"
+            },
+            {
+                "title": "حديقة بركاء Barka Public Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxd-KGc59tuWO6qBwOpfYJmZrtuwpwNxEKJ1tR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Noman Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8qC9JTO8k7wjfhv5TcynWsuLIWhDj3kmQDgqi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qurum Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkOjALbxKUcuVJFf_KNB4AO992iF-ENNb_06Up=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barka Grand Center",
+                "category": "Shopping Centre",
+                "url": "http://www.grandcenterbarka.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEXAjLNNf7uw2FMCnPojYenUoxrKMrcAmuRm3y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muscat",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGsc1CVTb7mAlGyxaFCSugm1LqInSofdxo5N4X=w148-h148-n-k-no"
+            }
+        ],
+        "Rustaq": [
+            {
+                "title": "Al Kasfah Hot Spring",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbhxJrOBimd1eIu2L4u2BpeEDHJOtqA-7qSF2T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahla Fort",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgvjGfE4iDyyLD0j2pIi7Q2qJ2pwvHi0eEOlrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Qaboos Grand Mosque",
+                "category": "Mosque",
+                "url": "https://sultanqaboosgrandmosque.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0xt10HEbwbDk-MRcTTPKn2ZOneGH56FZOJ4c_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rustaq Fort",
+                "category": "Castle",
+                "url": "https://www.instagram.com/alnarjes2007/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmPrUVaLGHzFmkNA0mNL80CSvPNsiHFsz3x22Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Hazm Fort | حصن الحزم",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8eAiaPLHl-in9F1Jk5gux447v-R718Of1yMp0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falaj Daris Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2OOw_o5tU3BKZHsNqVINfZ3wDlCX-YrrDGfZf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bald Sayt",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPH_44qdJCjM7qd2vyfHVypvHZM-xZCOLGbGPnD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wakan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaft-qoK4d2FYcAI3cou5ZQTY6XmAa3ExFSWEk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventure Snake canyon oman",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQ7fXue9WPIndwY4aH8fpE3ru-ap6CYloMqXzZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mirani Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM3aHVfQQuxrLeIyAA2UXmCy030o7JdariMpid=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2zK8omcf-_Kz6mv7plwdNhpuaCkrYIhc2yobX=w148-h148-n-k-no"
+            }
+        ],
+        "Nizwá": [
+            {
+                "title": "Al Qala'a Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzsUCRUzZHnUoPLRqz0NRq5czm9yHxxecHSuT5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Qaboos Grand Mosque",
+                "category": "Mosque",
+                "url": "https://sultanqaboosgrandmosque.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0xt10HEbwbDk-MRcTTPKn2ZOneGH56FZOJ4c_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jabreen Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgX7ywjKlk8sdb_eQbH7Fic9Nf0HgXA3BgtVlh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Desert Camels Adventure Tours",
+                "category": "Tour operator",
+                "url": "https://www.desertcamelsoman.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRIgFQASG9jEfL3FYdPIPEk020XfecqxTOtYzb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Gate",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf_l44mNNMXANBTQEVJ604sDsssCj2FI0tq3HQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfHf_rRuLNJ6ddeWJ0u1FCISB81Uks_W_OEQNL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Tourism Carts - عربات نزوى السياحية",
+                "category": "Tourist attraction",
+                "url": "https://instagram.com/nizwatours?igshid=YmMyMTA2M2Y=",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9NYdEwO6hL2SvYOey4clEt7ld34sBwQj1SwoE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Grand Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfOKm3pTouoauBLI3BIcz7N5UNOqIGlObrEp4J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Souq",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHsV38oSvREJRyqDt-o2G5sejdlfOnlkn_knre=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2zK8omcf-_Kz6mv7plwdNhpuaCkrYIhc2yobX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadina Water Park",
+                "category": "Water park",
+                "url": "http://wadinawaterpark.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfB_2qxufm0H3AogeI6GoagwSaogO3EOT2rJom=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oman Across Ages Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmBoWhBzUnKYs4XD0ZkqBEmXVyY7iV4keMJuyY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahla Fort",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgvjGfE4iDyyLD0j2pIi7Q2qJ2pwvHi0eEOlrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jebel Akhdar",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPm71SuIXVd7hhCAIa5mRi3GXK7y033JmhmF-V4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falaj Daris Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2OOw_o5tU3BKZHsNqVINfZ3wDlCX-YrrDGfZf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanuf Castle Ruins | أطلال حصن تنوف",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcSz2ovCKGLMXtlWkR8U-_m6dBFJ2azWIHstxa=w148-h148-n-k-no"
+            }
+        ],
+        "Seeb": [
+            {
+                "title": "Oman Aquarium",
+                "category": "Aquarium",
+                "url": "http://www.omanaquarium.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmLfZdmao7owDrxzndn_PLwFRAJplhDS8VIfn4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seeb Beach Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtm1wvH8A6YJ8vwpz6-mz2JOYq_zkyh-j3QJj9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fin Boat Tour Agency",
+                "category": "Boat tour agency",
+                "url": "https://omanfinboat.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkLrIzOhm544iBoOTXDM2sCaSUsj6LaCE-9Bai=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Sahwa Garden",
+                "category": "Park and Garden",
+                "url": "http://www.mm.gov.om/ar/Default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkmsbraNw8C9yX_EHdfVBpZKiZpa3o7HcUBXEo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seeb Beach",
+                "category": "Beach",
+                "url": "http://www.mm.gov.om/Directorates.aspx?ESID=2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZQnP6UARbwIdMoM-66snP6aWTohL3JuYiWMAO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seeb Corniche",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjGOTlwmJdVnNJfoMU8aROI4iP2Ot90OTqIJ7B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Seeb Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyPmOk_60_6e5iQzEarO5ETKoCYei6PpZI_W1h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Novo Cinemas, Mall of Muscat سينما نوفو - مسقط مول",
+                "category": "Cinema",
+                "url": "https://om.novocinemas.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVUMXkU9RcXuxsTurCw6RTS1xsxCvlt0MTYgQ2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Qaboos Grand Mosque",
+                "category": "Mosque",
+                "url": "https://sultanqaboosgrandmosque.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0xt10HEbwbDk-MRcTTPKn2ZOneGH56FZOJ4c_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seeb Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD20WIyU1OMBq78xzkvOAwCxcVP6ifV2eSg3zE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Seeb Bowling Center",
+                "category": "Bowling Alley",
+                "url": "https://instagram.com/pinzcenter",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMF3zdKnyXp8tpyMKt5DeAvkmePBlenjMizfnt7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pearl Dimaniyat diving center",
+                "category": "Diving Centre",
+                "url": "https://pearldimaniyat.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNp-ST7gxbDvxg-MXlOAVFWevbiHnt57buB958i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Alam Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6_WmGrwF49AfmLsZG_R38AuutO_4DhSRFz6xD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Souq",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfff6nnS5Dd0O3XTiPpMiQFRq7RQHVWO6kWNUl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Manar Ayurvedic Center مركز المنار للطب الهندي التقليدي",
+                "category": "Ayurvedic clinic",
+                "url": "http://almanarayurvedic.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKGpBGURIKDOEvGiHZM444qIE0IdzDVs158Gk7=w148-h148-n-k-no"
+            },
+            {
+                "title": "محمية جزر الديمانيات الطبيعية Al ‪Diymaniyat Islands Nature Reserve‬",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoriO9XXTPz9ca2bY7S3ykDScC_rzQi_tghDR0=w148-h148-n-k-no"
+            }
+        ],
+        "Sur": [
+            {
+                "title": "Sunaysilah Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7l1RbMbBBa7DsSH-DEkxDB1o7wGbwH2D07gaG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ras Al Jinz Turtle Reserve",
+                "category": "Nature reserve",
+                "url": "http://www.rasaljinz-turtlereserve.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKHpSwBP8GhMipD2P1DqW1vEbR_5bBAOvn2jUB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tiwi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlHv8DHR0qC-U9HlVFzG_faZzwM9fZe2zJ9UTz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fins Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOF4C_tfYWZww2cwgkbFIBYQ10Mm9w4PmI3ER5z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wahiba Sands",
+                "category": "Sand",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM60_iFVAfV4pE7Rg91yuubeK8PietEiDJ7hb-b=w148-h148-n-k-no"
+            }
+        ],
+        "Muscat": [
+            {
+                "title": "Sultan Qaboos Grand Mosque",
+                "category": "Mosque",
+                "url": "https://sultanqaboosgrandmosque.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0xt10HEbwbDk-MRcTTPKn2ZOneGH56FZOJ4c_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Souq",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfff6nnS5Dd0O3XTiPpMiQFRq7RQHVWO6kWNUl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Opera House Muscat",
+                "category": "Opera house",
+                "url": "https://www.rohmuscat.org.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBqIO1zfyU7SXoXgQkie7AAqErqCsQEkHgmjfx=w148-h148-n-k-no"
+            },
+            {
+                "title": "City Centre Muscat",
+                "category": "Shopping Centre",
+                "url": "https://www.citycentremuscat.com/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWW76yli_VdO8vrFBMBUb8V3f-nphUEd-1OXqL=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Oman",
+                "category": "National museum",
+                "url": "https://www.nm.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM28F590_vNQwEi01qg2sh3fe23QbAOfZEzdQhf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Alam Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6_WmGrwF49AfmLsZG_R38AuutO_4DhSRFz6xD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhmu8KW00RCUJNVlLLc6qozdhxr9TcszAf72Mm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Corniche",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJd3RwpoTjELQ9XzDexwDpyyk_BWOzImMhXwut=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qurum Natural Park",
+                "category": "Country park",
+                "url": "http://www.mm.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrxgKNrWOthqSj-gkCLIl_fOoQ-bxVOfPlg04G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muscat Grand Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyuvi-9Tsk1Rp-E-h9ppw3sj7k9iucKENnDJLf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bait Al Zubair Museum",
+                "category": "Museum",
+                "url": "http://www.baitalzubair.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj5Jw0Go9FrqlY25MBSUqWgmxcNPJOVhvspUdk=w148-h148-n-k-no"
+            },
+            {
+                "title": "City Centre Qurum",
+                "category": "Shopping Centre",
+                "url": "https://www.citycentrequrum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOckTWd_kfAcRoL5xs9Pi5NaBIdij_Gq8IE-g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mohammed Al Ameen Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSwuEN-1VkFpEUwzot6kQPVp-2wR3RaZB5ZMdx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qurum Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkOjALbxKUcuVJFf_KNB4AO992iF-ENNb_06Up=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan's Armed Forces Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAq5M4PrRXBjI90W6DrV7Gon9TUVFoJoBuveYM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Jalali Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkDqAMTXkuG3VHnnPx8j2jpF_Xfiy6ky4R9ok0=w148-h148-n-k-no"
+            }
+        ],
+        "Şalālah": [
+            {
+                "title": "سهل أتين",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOojaOlSjIY1G-x8oq3dUPywmiU7kIltZqPBEb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dahariz Beach - Khor End",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFYKxfelCZ67w3zmZB6m4r4xF1IS8LlzNjyAOr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Haffa beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQmwgSa9cc0o23TA7WotX6jMTO2AzY1kMYYWiD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beautiful Salalah Tours",
+                "category": "Tour operator",
+                "url": "https://www.beautifulsalalah.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkEeBaMJn2Y80hZaVql6Nid-1MBWPKO0saZ80-=w148-h148-n-k-no"
+            },
+            {
+                "title": "شاطئ المغسيل السياحي",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnYSvI6uWCWitogZvRTHQv8c639_Nmc4mW7kLN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khor Rori",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf8V5jmLkGTkeB3b8QO6ow3_Myk4fahF_sjqTy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salalah Adventure Tours",
+                "category": "Travel Agent",
+                "url": "https://salalahadventuretours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuiCzEskA7D9pY1SR76DNINYVWr6V8KtQdCEat=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dhareez beach",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLF0yKCNaG3VxDa4_Sh3Id-4brGMViTdTfLEBC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Balid",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWD_hQi1-1XAWRaapNYb4b_PKhTyryrgIBRlNy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salalah Glory Tours",
+                "category": "Tours",
+                "url": "http://www.glorytourssalalah.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoELIfkpfeL6ubQ9OxNboMUXeUVsT45WnnM3G3=w148-h148-n-k-no"
+            },
+            {
+                "title": "VOX Cinemas Salalah Gardens Mall",
+                "category": "Cinema",
+                "url": "https://oman.voxcinemas.com/cinemas/salalah?utm_source=google&utm_campaign=local_search&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtyKNoab7SF9lSWCxXfJVtrAyOXclujP5_Z01c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salalah Public Park",
+                "category": "Park and Garden",
+                "url": "http://www.dm.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-egfBeQfuuFpZkxD2Jyyyo4yabd5sWIoBWNGU=w148-h148-n-k-no"
+            },
+            {
+                "title": "As Saadah Park",
+                "category": "Park and Garden",
+                "url": "http://www.dm.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMoreReODabfmi893pzid8DFNW5VqEZun_mE-f7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hawana Aqua Park",
+                "category": "Water park",
+                "url": "https://www.hawanasalalah.com/hawana-aqua-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPORk1mWSuEXV_UZCMDjSb-aj7CP1_fwD7Gyv0v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marneef Cave and Blow Holes",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrecgBHeHfYQFimLXcWbAz2NsD8uXAeK9Bybwa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayn Korr",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgL864KdwpUrAhwVc5oTL-H3g5G7Ih2xIGJccm=w148-h148-n-k-no"
+            }
+        ],
+        "Bawshar": [
+            {
+                "title": "Mohammed Al Ameen Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSwuEN-1VkFpEUwzot6kQPVp-2wR3RaZB5ZMdx=w148-h148-n-k-no"
+            },
+            {
+                "title": "City Centre Muscat",
+                "category": "Shopping Centre",
+                "url": "https://www.citycentremuscat.com/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWW76yli_VdO8vrFBMBUb8V3f-nphUEd-1OXqL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qurum Natural Park",
+                "category": "Country park",
+                "url": "http://www.mm.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrxgKNrWOthqSj-gkCLIl_fOoQ-bxVOfPlg04G=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Oman",
+                "category": "National museum",
+                "url": "https://www.nm.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM28F590_vNQwEi01qg2sh3fe23QbAOfZEzdQhf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Alam Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6_WmGrwF49AfmLsZG_R38AuutO_4DhSRFz6xD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Qaboos Grand Mosque",
+                "category": "Mosque",
+                "url": "https://sultanqaboosgrandmosque.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0xt10HEbwbDk-MRcTTPKn2ZOneGH56FZOJ4c_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qantab Beach",
+                "category": "Cruise agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4ZcGKMYg7Bpk5C32Cyi44p7mf4RipO6YKxwLv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Qaboos Grand Masjid Sohar",
+                "category": "Mosque",
+                "url": "https://www.mara.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxq2ARALDckjmaiqVhAbbjeC1kjNBQKCT0Zml9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar Fort",
+                "category": "Castle",
+                "url": "http://mht.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiOE-X8Q6mEs7PXTpCcYEcgNQZ1DDfsDn1V_XE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Opera House Muscat",
+                "category": "Opera house",
+                "url": "https://www.rohmuscat.org.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBqIO1zfyU7SXoXgQkie7AAqErqCsQEkHgmjfx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Souq",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfff6nnS5Dd0O3XTiPpMiQFRq7RQHVWO6kWNUl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar Regional Sports Complex",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrabX_NFnTqqhDbtM1dOCqf8HOtBHkfctxE2X0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wakan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaft-qoK4d2FYcAI3cou5ZQTY6XmAa3ExFSWEk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmqBtbJ8wqyjGNJ8d61sUPpEpdxQpr0mdsb2eD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bait Al Zubair Museum",
+                "category": "Museum",
+                "url": "http://www.baitalzubair.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj5Jw0Go9FrqlY25MBSUqWgmxcNPJOVhvspUdk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ibri",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKHrE8XHx8uVTWnH19gSm_G5DZUNuoX_pXpbhl=w148-h148-n-k-no"
+            }
+        ],
+        "‘Ibrī": [
+            {
+                "title": "Mosque of Sultan Qaboos Ibri",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3Lsp7hwwTkO1FDS_nJb26pKZFEwRVr1YCY4yQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayla Ibri Hotel",
+                "category": "Hotel",
+                "url": "http://www.aylahotels.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzSNNhsHY8YeijB5U_dJ6Cw2AHpPutLgiko0Lu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Qaboos Grand Mosque",
+                "category": "Mosque",
+                "url": "https://sultanqaboosgrandmosque.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0xt10HEbwbDk-MRcTTPKn2ZOneGH56FZOJ4c_=w148-h148-n-k-no"
+            },
+            {
+                "title": "LuLu Hypermarket - Ibri Bawadi Mall",
+                "category": "Hypermarket",
+                "url": "https://www.luluhypermarket.com/en-om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiwDo3BOxWvJzQc8ztmRlzuuvrhYfBcTtVVP-c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2zK8omcf-_Kz6mv7plwdNhpuaCkrYIhc2yobX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Vista Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEUpzsA92_HDYlGtT4B-msJDmUo1pAekRJofDI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Star Cinemas Ibri",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiXcQbaAm0e5fIf7nAYN66YunaTfEE1nr_Qlbm=w148-h148-n-k-no"
+            },
+            {
+                "title": "IBRI CASTLE HOTEL",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEQ8bJ6Ph7c7jF8kffsniuD9nQhRVHXYByON3-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Treasures of Knowledge Library",
+                "category": "Public library",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB-q_dfXDsd_ZNtaD4BiDQLIgRgfJwZt4zm365=w148-h148-n-k-no"
+            },
+            {
+                "title": "Indian School Ibri",
+                "category": "School",
+                "url": "http://indianschoolibri.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRt2zzSmJY6Ggsr7uP_LOa9ShneugPGFb5QNou=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umm al-Qura mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7CWxOInaE9pNNaBgzWe1NYSQMh78lKRHm4nu7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khonooz Al Hekma Bookshop مكتبة كنوز الحكمة عبري",
+                "category": "Library",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzEf36Hc0n3JikBc-l6TZsig4wBZqh299OoxxG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chuird mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSHRVMAXek8Hd_CIFmieKCrv53yKZN3P9BP8OB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Sulaif Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPf9dR0oxMWjo1KCNzoiJck8aXpjpvTkyA1aF7C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ibri Bawadi Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.bawadimall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO67XcmAbRCJbLM6Ev1HKHArcMi578zXnBM0ZhL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventure Snake canyon oman",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQ7fXue9WPIndwY4aH8fpE3ru-ap6CYloMqXzZ=w148-h148-n-k-no"
+            }
+        ],
+        "Bahlā’": [
+            {
+                "title": "Bahla Fort",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgvjGfE4iDyyLD0j2pIi7Q2qJ2pwvHi0eEOlrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jabreen Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgX7ywjKlk8sdb_eQbH7Fic9Nf0HgXA3BgtVlh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahla Historical Souq",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmGOHQkfx6OLXOB7YBLDPAuQxMkcwZFxvtdXGO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahla Gate",
+                "category": "Landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZIcrLv6iuMjQa3mX_8sFsPppdopDuvwvOsEHt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2zK8omcf-_Kz6mv7plwdNhpuaCkrYIhc2yobX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Souq",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHsV38oSvREJRyqDt-o2G5sejdlfOnlkn_knre=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hoota Cave",
+                "category": "Tourist attraction",
+                "url": "https://www.alhootacave.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrrWE4_l5icsvWmMzEiarG6XUuZEUf8YWsx-jC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahla Garden Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9OKApUW7ZziLxEYiwKfBq0M1XReB4stHCy_sf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falaj Daris Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2OOw_o5tU3BKZHsNqVINfZ3wDlCX-YrrDGfZf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oman Across Ages Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmBoWhBzUnKYs4XD0ZkqBEmXVyY7iV4keMJuyY=w148-h148-n-k-no"
+            }
+        ],
+        "Al Buraymī": [
+            {
+                "title": "Sultan Qaboos Grand Masjid",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCJCWDFLBGgXTYzdW2KTZ8Ms-aIXFuQDsYRGri=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ali Bin Saif Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyRu3fZ-kiXlQ3nPD8c_IPrP8jSRJffqacICFL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Buraimi",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt2GxDhXP-F95gq1i9Xy9FNB8_JJqzYgmo6YHe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hillah Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfMQ6U8MS_ng0or6gQXFcrYQg_pDIQQm8C83VV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizwa Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2zK8omcf-_Kz6mv7plwdNhpuaCkrYIhc2yobX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Global Scuba LLC.",
+                "category": "SCUBA tour agency",
+                "url": "https://divedaymaniyatislands.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObnsCGfWjX6rj2Ho_SE0T09x8yJnpJuh3CRXrU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Daymaniat Shells",
+                "category": "Boat tour agency",
+                "url": "http://www.daymaniat-shells.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNR5iB6OIgkskyidheujXRbplJiVaMoi5nK8jRx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadi Fazah",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmlCgdy-m2aHX1eUd_ej5qAh9YbkPTC2T7hbb-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sohar Entertainment Center",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0cNiM0pXBQlDd2L4qHJjtzDRZnSe3jQ9NsxV3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Bin Karam",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3IarvlUg4mjSYxd0L9lJZQJT2r-twpHzJB0PB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abdul Aziz Al Qasimi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5G_0yjmw2FO7Qobdj2HDaPEP7N7llbug8ivTx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sharia Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4Jfd_JmgSAJ_xejGtid9BmruoQVygiDO2-u3R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Huwail Public Park منتزه الحويل الجديده",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO61YgyEMzj0yfYBrWv1_1uaN5a8qdC9_Te-SAM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nabr Garden",
+                "category": "Community garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlTtSIBZ0utp5hq9cO5Zk-1ry1MYQfI--mFXZ5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanqul Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMCvaL7PnraEZEB92Fs0TMtgs1VLlXN6n69dKk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oman Across Ages Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmBoWhBzUnKYs4XD0ZkqBEmXVyY7iV4keMJuyY=w148-h148-n-k-no"
+            }
+        ],
+        "As Suwayq": [
+            {
+                "title": "Nizwa Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2zK8omcf-_Kz6mv7plwdNhpuaCkrYIhc2yobX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahla Fort",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgvjGfE4iDyyLD0j2pIi7Q2qJ2pwvHi0eEOlrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhmu8KW00RCUJNVlLLc6qozdhxr9TcszAf72Mm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mohammed Al Ameen Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSwuEN-1VkFpEUwzot6kQPVp-2wR3RaZB5ZMdx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nakhal Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEYsf2UmtPNeBurXhNjrRUvbgiBN-6ykNsw4Vr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Souq",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfff6nnS5Dd0O3XTiPpMiQFRq7RQHVWO6kWNUl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jabreen Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgX7ywjKlk8sdb_eQbH7Fic9Nf0HgXA3BgtVlh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Hazm Fort | حصن الحزم",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8eAiaPLHl-in9F1Jk5gux447v-R718Of1yMp0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mirani Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM3aHVfQQuxrLeIyAA2UXmCy030o7JdariMpid=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanuf Castle Ruins | أطلال حصن تنوف",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcSz2ovCKGLMXtlWkR8U-_m6dBFJ2azWIHstxa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qurum Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkOjALbxKUcuVJFf_KNB4AO992iF-ENNb_06Up=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falaj Daris Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2OOw_o5tU3BKZHsNqVINfZ3wDlCX-YrrDGfZf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misfat al Abriyyin",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSTDq0UoOhvk8POnjuaFWFAn-XPnFbR5Qy1S6F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wakan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaft-qoK4d2FYcAI3cou5ZQTY6XmAa3ExFSWEk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Birkat Al Mouz Ruin",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMijcWoE-PbYMlSKt6vXGDDdGl47b4xFQ6tfsXv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yiti",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9aclyAkn3mriqmqdtpLdF6U6KGU--Ao_-4RM2=w148-h148-n-k-no"
+            }
+        ],
+        "Şaḩam": [
+            {
+                "title": "Al Alam Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6_WmGrwF49AfmLsZG_R38AuutO_4DhSRFz6xD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhmu8KW00RCUJNVlLLc6qozdhxr9TcszAf72Mm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Opera House Muscat",
+                "category": "Opera house",
+                "url": "https://www.rohmuscat.org.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBqIO1zfyU7SXoXgQkie7AAqErqCsQEkHgmjfx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jabreen Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgX7ywjKlk8sdb_eQbH7Fic9Nf0HgXA3BgtVlh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saham garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXqZqsrlUZEMQFrmVxi9NtTfeJMc-DSy55aAd1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nakhal Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEYsf2UmtPNeBurXhNjrRUvbgiBN-6ykNsw4Vr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Hazm Fort | حصن الحزم",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8eAiaPLHl-in9F1Jk5gux447v-R718Of1yMp0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Qaboos Grand Masjid Sohar",
+                "category": "Mosque",
+                "url": "https://www.mara.gov.om/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxq2ARALDckjmaiqVhAbbjeC1kjNBQKCT0Zml9=w148-h148-n-k-no"
+            },
+            {
+                "title": "SOHAR EYE",
+                "category": "Park and Garden",
+                "url": "http://sohareye.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTcb1DYp_nP93sKhuEA4zTgBkKPJQfoReITntK=w148-h148-n-k-no"
+            },
+            {
+                "title": "استراحه الدهليز ALDDAHLIZ FARM",
+                "category": "Farm",
+                "url": "https://www.instagram.com/alddahliz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxQmNWu-0P8lW8qoqJn3c-L18vRt7gYpyKww27=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanuf Castle Ruins | أطلال حصن تنوف",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcSz2ovCKGLMXtlWkR8U-_m6dBFJ2azWIHstxa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falaj Daris Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2OOw_o5tU3BKZHsNqVINfZ3wDlCX-YrrDGfZf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mutrah Corniche",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6Brzi8Qiq2bwwhyl0_zKXkjRH1xDu7xR8bj5z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wakan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaft-qoK4d2FYcAI3cou5ZQTY6XmAa3ExFSWEk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Birkat Al Mouz Ruin",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMijcWoE-PbYMlSKt6vXGDDdGl47b4xFQ6tfsXv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yiti",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9aclyAkn3mriqmqdtpLdF6U6KGU--Ao_-4RM2=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Nizwa Fort",
+            "category": "Fortress",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO2zK8omcf-_Kz6mv7plwdNhpuaCkrYIhc2yobX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sultan Qaboos Grand Mosque",
+            "category": "Mosque",
+            "url": "https://sultanqaboosgrandmosque.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP0xt10HEbwbDk-MRcTTPKn2ZOneGH56FZOJ4c_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bahla Fort",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPgvjGfE4iDyyLD0j2pIi7Q2qJ2pwvHi0eEOlrY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bimmah Sinkhole",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPM9ZXLj89PcooffBvWsPXgscIcLyUjlstq9BbT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mutrah Souq",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNfff6nnS5Dd0O3XTiPpMiQFRq7RQHVWO6kWNUl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mutrah Corniche",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMJd3RwpoTjELQ9XzDexwDpyyk_BWOzImMhXwut=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nizwa Souq",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPHsV38oSvREJRyqDt-o2G5sejdlfOnlkn_knre=w148-h148-n-k-no"
+        },
+        {
+            "title": "Muscat",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMGsc1CVTb7mAlGyxaFCSugm1LqInSofdxo5N4X=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bait Al Zubair Museum",
+            "category": "Museum",
+            "url": "http://www.baitalzubair.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPj5Jw0Go9FrqlY25MBSUqWgmxcNPJOVhvspUdk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Qurum Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPkOjALbxKUcuVJFf_KNB4AO992iF-ENNb_06Up=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mutrah Fort",
+            "category": "Fortress",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMhmu8KW00RCUJNVlLLc6qozdhxr9TcszAf72Mm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Hoota Cave",
+            "category": "Tourist attraction",
+            "url": "https://www.alhootacave.om/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOrrWE4_l5icsvWmMzEiarG6XUuZEUf8YWsx-jC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ras Al Jinz Turtle Reserve",
+            "category": "Nature reserve",
+            "url": "http://www.rasaljinz-turtlereserve.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOKHpSwBP8GhMipD2P1DqW1vEbR_5bBAOvn2jUB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Adventure Snake canyon oman",
+            "category": "Hiking area",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPQ7fXue9WPIndwY4aH8fpE3ru-ap6CYloMqXzZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Oman Across Ages Museum",
+            "category": "Heritage museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPmBoWhBzUnKYs4XD0ZkqBEmXVyY7iV4keMJuyY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Wadi Ash Shab",
+            "category": "River",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOxiStHy8c_tsysG7VeXPQzT0eUo4hQyaMkwHht=w148-h148-n-k-no"
+        }
+    ]
+}

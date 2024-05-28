@@ -1,0 +1,216 @@
+{
+    "cities": {
+        "Ali Sabih": [
+            {
+                "title": "Ali Sabieh Mountain",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs9zl7hxgIKHvkA26qDfuzCD33TprshxD93HZX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Le Dauphin Khor Ambado",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUfXqcankRrRwYVRYx9Fm8V6d_5SRGT0RBjWQL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trip2Djib",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtO2j4sTfQiTHQDa0gUSnzBGRP5ym_UTy3efNF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arta Beach",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9lHJp-aC2CJDdrDXPoLYpb11nqbwbaIZ7vqDg=w148-h148-n-k-no"
+            },
+            {
+                "title": "DECAN Refuge",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPitKwF0toDGbGZf0xRIIyRRuTi-0l9XQst1spH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Day Forest National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEghqxYUh42jYOTIfaHuirVVfrfo0B2N2lgtIm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moucha Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjvGa-erV92AFDX81Z09VCk9eEJZN-SuKr0fDB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Port De Djibouti",
+                "category": "Port authority",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPC0v1umbGkzpkDMAZTRsco3Utc_ccgtX_RwoP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dolphin Excursions Djibouti",
+                "category": "SCUBA tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgyRYdYaWwwMwdWtCHuHxFpTFk-seJrArSyCb9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lac 'Assal",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMleL7GHixCmpy1DoVwP7Cl5cy_0P66rd2Rw1_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Al-Hamoudi",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ0iAFjgl2znDhPD8F1-yTw5B714XgyM-rQhb5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parking Place Menelik",
+                "category": "Car Park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_VhNQdmyKw2BQvPnXSby5_Jt_buVN66ppL4TI=w148-h148-n-k-no"
+            }
+        ],
+        "Djibouti": [
+            {
+                "title": "Lac 'Assal",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMleL7GHixCmpy1DoVwP7Cl5cy_0P66rd2Rw1_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Day Forest National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEghqxYUh42jYOTIfaHuirVVfrfo0B2N2lgtIm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moucha Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjvGa-erV92AFDX81Z09VCk9eEJZN-SuKr0fDB=w148-h148-n-k-no"
+            },
+            {
+                "title": "DECAN Refuge",
+                "category": "Nature reserve",
+                "url": "http://www.decandjibouti.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPitKwF0toDGbGZf0xRIIyRRuTi-0l9XQst1spH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parking Place Menelik",
+                "category": "Car Park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_VhNQdmyKw2BQvPnXSby5_Jt_buVN66ppL4TI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Al-Hamoudi",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ0iAFjgl2znDhPD8F1-yTw5B714XgyM-rQhb5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Port De Djibouti",
+                "category": "Port authority",
+                "url": "https://www.portdedjibouti.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPC0v1umbGkzpkDMAZTRsco3Utc_ccgtX_RwoP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ghoubbet-el-Kharab",
+                "category": "Water",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpKeXtE8_AfvDAhO5ofCb_6b2a_5QVB1WvtAPq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maskali Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpD38aXVmHvcg3QHIcphqq2LrZ0Knkg50m8Uka=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arta Beach",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9lHJp-aC2CJDdrDXPoLYpb11nqbwbaIZ7vqDg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dolphin Excursions Djibouti",
+                "category": "SCUBA tour agency",
+                "url": "https://www.divedjibouti.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgyRYdYaWwwMwdWtCHuHxFpTFk-seJrArSyCb9=w148-h148-n-k-no"
+            },
+            {
+                "title": "The People's Palace",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMq7ioprAawq_mC2mUPCIuZHx27FTM59Tp_8KVR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Abhe",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyEGcpzCQ_NnNkwEPKN_nlQ0v6KzXgcOH1El_N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Sada Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMg9hraM_0BNVtkCZzeEMN1TGqX2NsIPtjtBlHl=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Lac 'Assal",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPMleL7GHixCmpy1DoVwP7Cl5cy_0P66rd2Rw1_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Day Forest National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOEghqxYUh42jYOTIfaHuirVVfrfo0B2N2lgtIm=w148-h148-n-k-no"
+        },
+        {
+            "title": "DECAN Refuge",
+            "category": "Nature reserve",
+            "url": "http://www.decandjibouti.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPitKwF0toDGbGZf0xRIIyRRuTi-0l9XQst1spH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Moucha Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjvGa-erV92AFDX81Z09VCk9eEJZN-SuKr0fDB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parking Place Menelik",
+            "category": "Car Park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO_VhNQdmyKw2BQvPnXSby5_Jt_buVN66ppL4TI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mosquée Al-Hamoudi",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMJ0iAFjgl2znDhPD8F1-yTw5B714XgyM-rQhb5=w148-h148-n-k-no"
+        },
+        {
+            "title": "Port De Djibouti",
+            "category": "Port authority",
+            "url": "https://www.portdedjibouti.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPPC0v1umbGkzpkDMAZTRsco3Utc_ccgtX_RwoP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ghoubbet-el-Kharab",
+            "category": "Water",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPpKeXtE8_AfvDAhO5ofCb_6b2a_5QVB1WvtAPq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maskali Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNpD38aXVmHvcg3QHIcphqq2LrZ0Knkg50m8Uka=w148-h148-n-k-no"
+        },
+        {
+            "title": "Arta Beach",
+            "category": "Recreation Centre",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN9lHJp-aC2CJDdrDXPoLYpb11nqbwbaIZ7vqDg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dolphin Excursions Djibouti",
+            "category": "SCUBA tour agency",
+            "url": "https://www.divedjibouti.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOgyRYdYaWwwMwdWtCHuHxFpTFk-seJrArSyCb9=w148-h148-n-k-no"
+        },
+        {
+            "title": "The People's Palace",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMq7ioprAawq_mC2mUPCIuZHx27FTM59Tp_8KVR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Abhe",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNyEGcpzCQ_NnNkwEPKN_nlQ0v6KzXgcOH1El_N=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Sada Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMg9hraM_0BNVtkCZzeEMN1TGqX2NsIPtjtBlHl=w148-h148-n-k-no"
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "cities": {
+        "Praia": [
+            {
+                "title": "Church of Our Lady of Grace",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBz9hpw1PWxSiCtgLGBZtNdmOVF9eY6jGDN4Zv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pelé Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBPzN_fA46w5JeFJLRRHkbAL2DC0K24_GiO9dE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Discover santiago island",
+                "category": "Sightseeing Tour Agency",
+                "url": "https://micdotravel.blog/landausflug-santiago-kap-verden%20https://discover-the-island-of-santiago.business.site/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6tqa-NSiXTnns6zD2BmdHKbh8Jj5STvfZBx0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Presidential Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMI4GS62PhU63DPyKJaC6sfM0_B_SRqIreyOaTx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quartel Jaime Mota",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkj71sYUno99e-eupVOJ8Gc0WXoPWElfa4WP3f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu Etnográfico da Praia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuq_ywpMKjVyyNxcg9eKcvVNkFtfLEMGir1VQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento de Diogo Gomes",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAd6EqXzCszYRRusKHxEbae6e7qvhZAbJNH5Yp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Núcleo Museológico da Praia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNh8ZSjf2vpBMy6rM127RUjkYt1UJ8DIkF6299R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quebra Canela",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfmx1LhfxtOqjjppBo-U-mty4BuwHBOiSkrz9e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lighthouse Dona Maria Pia",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNZcYHe82LC3GPF0ECUritqpWxpZCuadDgS251=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prainha Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNROmfdcBoJJ1r91HF-jsa7ksRMOt-b3oEEElOC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPk0uQpgzzRo8PaLNQ1iOLh5Deal7MnVnOi6fQF=w148-h148-n-k-no"
+            },
+            {
+                "title": "IGREJA SANTO AMARO",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuoXeF2r8g1bEGB5u53j1OL4zxfJC987PxESya=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bu Country Tours",
+                "category": "Tour operator",
+                "url": "http://www.bucountrytours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWBptPleKblz3sZMR05c_Ui-Zc_x9lf7mRyrDl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brava",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_KB3Le9bO_SwTpWMCu7fr1_8QmIkyVgm12fN1=w148-h148-n-k-no"
+            },
+            {
+                "title": "São Nicolau",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ9aqoh8czzw-jRxMQRj0TSjQWti_frGwrqX-y=w148-h148-n-k-no"
+            }
+        ],
+        "Mindelo": [
+            {
+                "title": "Capvertdesign+Artesanato",
+                "category": "Gift shop",
+                "url": "http://www.capvertdesign.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9mMLYU0ij4PItUga5awjzKwHLtIfdHLPqbY5L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Djambai Tours",
+                "category": "Serviced accommodation",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNd6It2Q0Vq7FOYbr0k93caEruuFVFHX_3kMvqb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matiota",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRZj8xDCJm3-ILSZ81Cc1WxRyNw_7vCYCHeJaN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Actour Trekking - Cap Vert",
+                "category": "Travel Agent",
+                "url": "https://www.actourhiking.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTEMWwhAtqyehzdyC8OAzGi24B1bb0SpO9tjG4=w148-h148-n-k-no"
+            },
+            {
+                "title": "CTES Centro de Turismo e Economia Solidária São Vicente",
+                "category": "Information services",
+                "url": "http://facebook.com/CTES.SV",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZhvwXBS8q_offWNjn4Wgbwy8njzMFE0ABRZhK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOQ0YQ4YoM9dzWLMl_6714UdP1Hc59QfpbmEwU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortim do Rei",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIUpO9NbS9CgUJYIIrEpebSNkebSobgL9Zjul5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Art D'Cretcheu",
+                "category": "Souvenir Shop",
+                "url": "http://facebook.com/artdcretcheu",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVdBYvoI_pZUQdI8TrdUxUEXgkdZuRbvTU7adt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cultural Center of Mindelo",
+                "category": "Cultural centre",
+                "url": "https://www.facebook.com/CCMindelo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbIxvly3IDdkKAvYSgIlFfymPAMvJGQG0SFQld=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haliotis - Dive Center Mindelo",
+                "category": "Diving Centre",
+                "url": "http://www.haliotis.pt/en/centros/cabo-verde",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONpJlmx4Uk2k-v2fiYvZFY3P4vs-feswx2Zs4j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Line Tours Cabo Verde",
+                "category": "Travel Agent",
+                "url": "https://www.greenlinetourscv.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMm1sfUvbipXxtEowisELi3uqYfiauypx0r1rM5=w148-h148-n-k-no"
+            },
+            {
+                "title": "DIVE-TRIBE Dive Center Mindelo",
+                "category": "SCUBA tour agency",
+                "url": "http://www.dive-tribe.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDby-3bHzUIC6JuIU1058KwpyUK9uZsI_UcLHt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monte Verde",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMuEWkkf_KWlexybY_KARKuhcWF5RkUXSr2208=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoom Zoom Mindelo",
+                "category": "Bicycle hire shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8rbw2te5JHYEa7sic70g9dRNgIfdMdVVSwXwh=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Buracona - Blue Eye Cave",
+            "category": "Tourist attraction",
+            "url": "https://www.capeverdeislands.org/buracona-the-blue-eye/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPCfGrh2k2daqnGBu88enKOPW14_chpHFe0eQWY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sal",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKh8JOx6DOTaG5Q_KJei5i3hyUm_lfBwdRjMXS=w148-h148-n-k-no"
+        },
+        {
+            "title": "PROJETO BIODIVERSIDADE",
+            "category": "Research foundation",
+            "url": "http://www.projectbiodiversity.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPt5TiYCFZaNyRsippWStOuO6o8yFGgwhlT0MGd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Santo Antão",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMBpFcUWHnkZn-v1nFOE0NvDcSi6zbomQP6z4Qa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Boa Vista",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMEiLL7MgK_Hk-NGsU59Dko2ON2Zcv3MLPHm7WL=w148-h148-n-k-no"
+        },
+        {
+            "title": "São Vicente",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPYV275qsmfU5ud8CBvmLKeJFdtEfm76b4wWQpm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pico do Fogo",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM3jIOsqrISfcKwgYLYF8-9DyAzQiUyWmB35nBj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praia da Atalanta",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNJYUFvLKScWa52vWS_lxEd62uKpE01xT2YOa_x=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praia da Chave",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMPb5fGtzZz2ZJFd20CV2trNzmxNOYLv4abJSfi=w148-h148-n-k-no"
+        },
+        {
+            "title": "São Nicolau",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOZ9aqoh8czzw-jRxMQRj0TSjQWti_frGwrqX-y=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fogo",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOL3f0p18EesiLp6Kh2f_aR76zeJJf3hUBxhSlF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Deserto de Viana",
+            "category": "Desert",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPNiwx1lGPxcHJzKTMRl5Cyr1SOjS05yHbif8BE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tarrafal Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOl0y0Z4JZsWmCm4rfkwV66fcZS5pnxmQfya6fh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pelourinho",
+            "category": "Historical place",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOGvBVcZU1_qTNKv1zcFhisl0dbXKBJRaGNYFBU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ponta Sino, Kite Beach",
+            "category": "Beach",
+            "url": "http://go-kite.com/index.php/world-kite-spots/kite-cape-verde",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPkd1oxHnHvKB8QQjMrHNWPYs6sEm1ul_Rf1BCL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Santa Maria",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOCI_HTSBNOVr0GZnwJBLXEg25NjNDntcNZpgS1=w148-h148-n-k-no"
+        }
+    ]
+}

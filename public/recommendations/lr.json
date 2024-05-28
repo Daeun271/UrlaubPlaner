@@ -1,0 +1,370 @@
+{
+    "cities": {
+        "Buchanan": [
+            {
+                "title": "Monrovia",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJx_Vzk0d44HMUTsyCIuQ4K05l-UIbjYOamJK-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Robertsport",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfpZGHcWB7twUEqmPHls9ys6_ZiDblTWG8Z3Bq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matadi Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0EWFQ25xS_s4Z3TiBfEyYBdM8mVaNDhAfony-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Invincible Sports Park",
+                "category": "Park and Garden",
+                "url": "https://invinciblesportspark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlkXEc2bFxKtzWDiNhb1W_zyYU13BgL1iDDkfU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silverbird Cinema",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLjN_bHKzqanCtzG7Y35aa-8bBHmFvTfAE7r08=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samuel Kanyon Doe Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONql6ASGjLSOwCtvlpsrTLiLw8EMBm4hEekDIb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antoinette Tubman Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNr_Cd7d5H7Wyeo2k0YX2m5af3bPP3EbSbcaULo=w148-h148-n-k-no"
+            },
+            {
+                "title": "ELWA Junction, Paynesville, Liberia",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNF8pLiQPPnAr9fMfUtMHRCXVLjNZzlo6_f-zL2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kpatawee Waterfall",
+                "category": "Tourist attraction",
+                "url": "https://m.facebook.com/kpatawee.waterfalls.1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlJh-wRblArb0aOg8yypDXIOmaM_8juReymSh4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Piso",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk4u3eHu_Qvl-Lr-AAKiB6HnLWmZwZriTXb-ih=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mamba Point Hotel",
+                "category": "Hotel",
+                "url": "https://www.mambapointhotel.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/APIsx_Sh72RsJJqCWpeUl1K32XBeM1Rm_Q5U3w8dkbFz7J9uCUIfhnCVpmjYJ1Iv9_8fnXB3gOw54x9PMnm4g_CrrCTCZvVRetM-CV6P_J7dcGXX62bpIfoxs2mU8KSifYSvLgxhVfySgsrptJSyO8wsRd_KUg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bushrod Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3uUB5C8QjZI-irrx-zhlG_gPfJSjy6k29g783=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sapo National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5j5ij58GUrIoqxdoD6uTIIDfS2LewMtCCCRup=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jos Travel and Tours Inc",
+                "category": "Corporate office",
+                "url": "http://www.jos-travel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOitoOZp9LyLSdZt_DNBgTRW_dWdxsvjw6oKSOy=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Liberia",
+                "category": "Museum",
+                "url": "http://micat.gov.lr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLWDiDEtIKmLzQo6BRSg5piCgYuVY6j7DlK-JU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ducor Hotel",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb9Ao352RASg86vL3hiy6b7K5jMR5WnBiCY9T8=w148-h148-n-k-no"
+            }
+        ],
+        "Kakata": [
+            {
+                "title": "Monrovia",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJx_Vzk0d44HMUTsyCIuQ4K05l-UIbjYOamJK-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Robertsport",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfpZGHcWB7twUEqmPHls9ys6_ZiDblTWG8Z3Bq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Harbel",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAmjbV7K3ACVqEhYpriMWISMXGMNBdcDyz6gRM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mamba Point Hotel",
+                "category": "Hotel",
+                "img": "https://lh6.googleusercontent.com/proxy/APIsx_Sh72RsJJqCWpeUl1K32XBeM1Rm_Q5U3w8dkbFz7J9uCUIfhnCVpmjYJ1Iv9_8fnXB3gOw54x9PMnm4g_CrrCTCZvVRetM-CV6P_J7dcGXX62bpIfoxs2mU8KSifYSvLgxhVfySgsrptJSyO8wsRd_KUg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Piso",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk4u3eHu_Qvl-Lr-AAKiB6HnLWmZwZriTXb-ih=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kpatawee Waterfall",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlJh-wRblArb0aOg8yypDXIOmaM_8juReymSh4=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Liberia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLWDiDEtIKmLzQo6BRSg5piCgYuVY6j7DlK-JU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ducor Hotel",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb9Ao352RASg86vL3hiy6b7K5jMR5WnBiCY9T8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jos Travel and Tours Inc",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOitoOZp9LyLSdZt_DNBgTRW_dWdxsvjw6oKSOy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wulki Farm",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl5X_qYWx5C1MRTYZS8NhD2xCWTTl_fpKNao1A=w148-h148-n-k-no"
+            }
+        ],
+        "Ganta": [
+            {
+                "title": "Sanniquellie",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNadisBri8V5B4Q2hcrKPEfYGLwd27k-T0MuIPV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yekepa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTcivmWu395lqoOMg4rtaYoeBoJV4lT90q2RS7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buchanan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwwqiQS2ZUZ73tZLQ1Srh9ljvep7PasOGVCGaL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Paul River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9_n4ODz1CrN0PxnUDjTrV86VPCGiJq49cXHJI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zwedru",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOV-Sj3IlExijKPDgdCT5tiqYQphsyjJ8yiAuP9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kpatawee Waterfall",
+                "category": "Tourist attraction",
+                "url": "https://m.facebook.com/kpatawee.waterfalls.1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlJh-wRblArb0aOg8yypDXIOmaM_8juReymSh4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wulki Farm",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl5X_qYWx5C1MRTYZS8NhD2xCWTTl_fpKNao1A=w148-h148-n-k-no"
+            }
+        ],
+        "Gbarnga": [
+            {
+                "title": "Monrovia",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJx_Vzk0d44HMUTsyCIuQ4K05l-UIbjYOamJK-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mamba Point Hotel",
+                "category": "Hotel",
+                "url": "https://www.mambapointhotel.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/APIsx_Sh72RsJJqCWpeUl1K32XBeM1Rm_Q5U3w8dkbFz7J9uCUIfhnCVpmjYJ1Iv9_8fnXB3gOw54x9PMnm4g_CrrCTCZvVRetM-CV6P_J7dcGXX62bpIfoxs2mU8KSifYSvLgxhVfySgsrptJSyO8wsRd_KUg=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Liberia",
+                "category": "Museum",
+                "url": "http://micat.gov.lr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLWDiDEtIKmLzQo6BRSg5piCgYuVY6j7DlK-JU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kpatawee Waterfall",
+                "category": "Tourist attraction",
+                "url": "https://m.facebook.com/kpatawee.waterfalls.1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlJh-wRblArb0aOg8yypDXIOmaM_8juReymSh4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ducor Hotel",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb9Ao352RASg86vL3hiy6b7K5jMR5WnBiCY9T8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Piso",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk4u3eHu_Qvl-Lr-AAKiB6HnLWmZwZriTXb-ih=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jos Travel and Tours Inc",
+                "category": "Corporate office",
+                "url": "http://www.jos-travel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOitoOZp9LyLSdZt_DNBgTRW_dWdxsvjw6oKSOy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wulki Farm",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl5X_qYWx5C1MRTYZS8NhD2xCWTTl_fpKNao1A=w148-h148-n-k-no"
+            }
+        ],
+        "Monrovia": [
+            {
+                "title": "Mamba Point Hotel",
+                "category": "Hotel",
+                "url": "https://www.mambapointhotel.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/APIsx_Sh72RsJJqCWpeUl1K32XBeM1Rm_Q5U3w8dkbFz7J9uCUIfhnCVpmjYJ1Iv9_8fnXB3gOw54x9PMnm4g_CrrCTCZvVRetM-CV6P_J7dcGXX62bpIfoxs2mU8KSifYSvLgxhVfySgsrptJSyO8wsRd_KUg=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Liberia",
+                "category": "Museum",
+                "url": "http://micat.gov.lr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLWDiDEtIKmLzQo6BRSg5piCgYuVY6j7DlK-JU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jos Travel and Tours Inc",
+                "category": "Corporate office",
+                "url": "http://www.jos-travel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOitoOZp9LyLSdZt_DNBgTRW_dWdxsvjw6oKSOy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ducor Hotel",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb9Ao352RASg86vL3hiy6b7K5jMR5WnBiCY9T8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silverbird Cinema",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLjN_bHKzqanCtzG7Y35aa-8bBHmFvTfAE7r08=w148-h148-n-k-no"
+            },
+            {
+                "title": "Invincible Sports Park",
+                "category": "Park and Garden",
+                "url": "https://invinciblesportspark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlkXEc2bFxKtzWDiNhb1W_zyYU13BgL1iDDkfU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antoinette Tubman Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNr_Cd7d5H7Wyeo2k0YX2m5af3bPP3EbSbcaULo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kpatawee Waterfall",
+                "category": "Tourist attraction",
+                "url": "https://m.facebook.com/kpatawee.waterfalls.1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlJh-wRblArb0aOg8yypDXIOmaM_8juReymSh4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Robertsport",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfpZGHcWB7twUEqmPHls9ys6_ZiDblTWG8Z3Bq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sacred Heart Cathedral Church",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSrpKIB6-1-i6bBGvcSwIYa43hB_QulBpLVnQ0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matadi Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0EWFQ25xS_s4Z3TiBfEyYBdM8mVaNDhAfony-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samuel Kanyon Doe Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONql6ASGjLSOwCtvlpsrTLiLw8EMBm4hEekDIb=w148-h148-n-k-no"
+            },
+            {
+                "title": "ELWA Junction, Paynesville, Liberia",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNF8pLiQPPnAr9fMfUtMHRCXVLjNZzlo6_f-zL2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wulki Farm",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl5X_qYWx5C1MRTYZS8NhD2xCWTTl_fpKNao1A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bushrod Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3uUB5C8QjZI-irrx-zhlG_gPfJSjy6k29g783=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Monrovia",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNJx_Vzk0d44HMUTsyCIuQ4K05l-UIbjYOamJK-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mamba Point Hotel",
+            "category": "Hotel",
+            "url": "https://www.mambapointhotel.com/",
+            "img": "https://lh6.googleusercontent.com/proxy/APIsx_Sh72RsJJqCWpeUl1K32XBeM1Rm_Q5U3w8dkbFz7J9uCUIfhnCVpmjYJ1Iv9_8fnXB3gOw54x9PMnm4g_CrrCTCZvVRetM-CV6P_J7dcGXX62bpIfoxs2mU8KSifYSvLgxhVfySgsrptJSyO8wsRd_KUg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kpatawee Waterfall",
+            "category": "Tourist attraction",
+            "url": "https://m.facebook.com/kpatawee.waterfalls.1",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOlJh-wRblArb0aOg8yypDXIOmaM_8juReymSh4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Robertsport",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNfpZGHcWB7twUEqmPHls9ys6_ZiDblTWG8Z3Bq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sapo National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO5j5ij58GUrIoqxdoD6uTIIDfS2LewMtCCCRup=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Liberia",
+            "category": "Museum",
+            "url": "http://micat.gov.lr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOLWDiDEtIKmLzQo6BRSg5piCgYuVY6j7DlK-JU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jos Travel and Tours Inc",
+            "category": "Corporate office",
+            "url": "http://www.jos-travel.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOitoOZp9LyLSdZt_DNBgTRW_dWdxsvjw6oKSOy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Piso",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOk4u3eHu_Qvl-Lr-AAKiB6HnLWmZwZriTXb-ih=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ducor Hotel",
+            "category": "Building",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNb9Ao352RASg86vL3hiy6b7K5jMR5WnBiCY9T8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Wulki Farm",
+            "category": "Hotel",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMl5X_qYWx5C1MRTYZS8NhD2xCWTTl_fpKNao1A=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bushrod Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO3uUB5C8QjZI-irrx-zhlG_gPfJSjy6k29g783=w148-h148-n-k-no"
+        }
+    ]
+}

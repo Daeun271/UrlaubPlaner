@@ -1,0 +1,2878 @@
+{
+    "cities": {
+        "Alamata": [
+            {
+                "title": "Asheton St. Maryam Monastery | አሽተን ቅድስት ማርያም ገዳም",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNn1bwi1P8PNaxBRIp2g3hJ-SMcFA76ZANi3lwr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of Adam",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyBluJN053GvBv7Xpj3JEZOp0ifCagg33aKiKN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simien Mountains National Park",
+                "category": "National park",
+                "url": "https://www.simienmountainsnationalpark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOHbu8O4QLx-H0-_rY9ETgG0cRHlS71obs75ON=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bete Medhane Alem",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL_AIhzmd1IVzyS71HPFqJKVGp_f18QbaLMJBN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nahiso Terara",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIvIP3TtCiM0Wdn3Bj1vcWQb3zELAVJmxMkn7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rock-Hewn Churches, Lalibela",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrLZDW_Q8w9B_FYR1tXG-dVYuZMMWGrOfQ3WVH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abuna Yemata",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIfXm6QuP9eJZKIlEtFhWxjF2BQGw2CaFlny1X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. George",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM34oguFpsqmzfRXOJshyi8eVv1jarBcH44aRbg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yemrehana Krestos Church | ይምርሃነ ክርስቶስ ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt-ccOKpOuntP_FM8Y7FaMtJvzSa5li4dLcS-g=w148-h148-n-k-no"
+            }
+        ],
+        "Duramē": [],
+        "Shashamane": [
+            {
+                "title": "Unity Park",
+                "category": "City park",
+                "url": "https://www.unitypark.et/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZVBpiwsqgV-agD-x5s2AY2BfvcYJ9Z452ygI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Medhanealem Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk06-rUoD6L-t6Mm5BepL4GMME-msS1PXHosnW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meskel Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-lAeo11OXETrR7-GoJSWoOyw7Qw-1U6PiKpGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shashememe Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlBtmkN2lf0xdzUL5lFN0z8ixz6faz7-paZJuV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shashemene Hamza Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqpPpEPC7xihPJQ7PtMlNLrIBQ2lEsQtQ2NyGs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Derg Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVColhPaUACtmcO66o7A8JNWADjpKrEinYPEh-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shashemene Al Iman Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHj0VvQIorVQoeeidkVNHjXHAmWYQDFdB5eew7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Banana Art Galley",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsD1L6DWwS3cGVUTD8LBAFCe8XB8gA0tgpJ965=w148-h148-n-k-no"
+            },
+            {
+                "title": "ቅድስት ሥላሴ ቤተክርስቲያን ሀዋሳ || Trinity Ethiopian Orthodox Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpLHxsBeFY0oukRXUnceozKvP1_5Rm_zrYQaO0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hawassa Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3RWaCabRsA_PMQ8tFbD1Yz8lc9aRw0m09JbGT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amora Gedel Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNW4dzJxugMkR6RoWBlwrbtUNa61bmefGtz-4f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Terror Martyrs' Memorial Museum የቀይ ሽብር መታሰቢያ ሙዚየም",
+                "category": "Museum",
+                "url": "http://rtmmm.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa5ZR4o4XBG4CjbRgyHtl3SYw1pPmLSWDI7l_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Awasa",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwwGWmBXljhJxzgQlzqWjm3KfoTLub0wJ8Pjyq=w148-h148-n-k-no"
+            }
+        ],
+        "Inda Silasē": [],
+        "K’olīto": [
+            {
+                "title": "Suba Menagesha park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFBRq_M9wbzJkz33ibmzOKKAy5oNwg-PKfgG3h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karl Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoduEtQuoC5t8u_HU1KPAXdzcwUDXzLc4rRrC7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bale Mountains",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkDdt80v2UOMP5q93iUBOibM7nhhkPhq4tJsul=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dorze Village",
+                "category": "Tourist Information Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_p-cpRLkVXmf0Go092XLgQioxOFr5pSHIQqn_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bale Mountains National Park",
+                "category": "National park",
+                "url": "http://www.balemountainsecotrekking.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1H3wP4DblGocWKDLLCs_fSb-TX1RVa3vIW-j2=w148-h148-n-k-no"
+            }
+        ],
+        "Mojo": [
+            {
+                "title": "Medhanealem Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk06-rUoD6L-t6Mm5BepL4GMME-msS1PXHosnW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpiQ37cK0ZSsKNQk3zfGUCqUf2baCiLcntXY=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. George Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx4MXLQDm7EJ60qmJH-XpobVsMpceIfpATUcSs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bale Mountains",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkDdt80v2UOMP5q93iUBOibM7nhhkPhq4tJsul=w148-h148-n-k-no"
+            },
+            {
+                "title": "Addis Ababa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtg1hJvvxWl7cYhN0FRaWezLaf08EqGcIvyseT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Tewodros II Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNXlCpDQYvB8IP5viGwH8pPN6aVGfm9kQ1u8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiro Meda Traditional Cloth Market | Shiro Meda | ሽሮ ሜዳ የባህላዊ ልብስ ገበያ | ሽሮ ሜዳ",
+                "category": "Clothes market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3orPT6bnDhWEyIG8cTQ3Ill9HU1V7FOjmFSNP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unity Park",
+                "category": "City park",
+                "url": "https://www.unitypark.et/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZVBpiwsqgV-agD-x5s2AY2BfvcYJ9Z452ygI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menelik II Square",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9bPLRvsYICLobSqaIqFbefcEEaeHR40OTvTXX=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ethiopia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjEkqaszy6pWsIxREYckuVZJeQAg87a3KhvhQ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meskel Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-lAeo11OXETrR7-GoJSWoOyw7Qw-1U6PiKpGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bale Mountains National Park",
+                "category": "National park",
+                "url": "http://www.balemountainsecotrekking.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1H3wP4DblGocWKDLLCs_fSb-TX1RVa3vIW-j2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Terror Martyrs' Memorial Museum የቀይ ሽብር መታሰቢያ ሙዚየም",
+                "category": "Museum",
+                "url": "http://rtmmm.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa5ZR4o4XBG4CjbRgyHtl3SYw1pPmLSWDI7l_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Entoto",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND_LfYZlJj6_RlzH2xPuK2HCdE4aJNKHC0Zup2=w148-h148-n-k-no"
+            }
+        ],
+        "Bonga": [],
+        "Dīla": [],
+        "Nek’emtē": [],
+        "Tēpī": [],
+        "Hagere Maryam": [],
+        "Adwa": [
+            {
+                "title": "Axum Tsion St. Mary",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFySNKMpvbd52fAonBu7i8jkOCyEKHMidy6am9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aksum",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzWIUcyrhxeLkcxS9iZ291milCqJRF57WzE_Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simien Mountains National Park",
+                "category": "National park",
+                "url": "https://www.simienmountainsnationalpark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOHbu8O4QLx-H0-_rY9ETgG0cRHlS71obs75ON=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abuna Yemata",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIfXm6QuP9eJZKIlEtFhWxjF2BQGw2CaFlny1X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nahiso Terara",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIvIP3TtCiM0Wdn3Bj1vcWQb3zELAVJmxMkn7l=w148-h148-n-k-no"
+            }
+        ],
+        "Gode": [],
+        "Awasa": [
+            {
+                "title": "Medhanialem Ethiopian Orthodox Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwsUAAJC2A3XC_pb5WN4wTIo0WFOSvXZsqpd7t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apostolic Church of Ethiopia Hawassa",
+                "category": "Apostolic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxkkw06H9mB_7WYZ6YZwTUABriaCg22akvB3pz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Presence of God International Church Hawassa Branch",
+                "category": "Gospel church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNO-XUihCb3nCOghVzWta1XlzzyHamR5JsPVXcD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hawassa Stadium ሀዋሳ ስታዲዮም",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrwT3aPnKRT94AT0UdIQ8LzV3iHdA4VIIySUq1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tiya World Heritage Site",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7JEmBWzcefo6akfPKJNbwJeeciCDAm0o5vAVn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Langano Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8lL1ZicQXxiZS1Wkh1Z3iQm-ja-i63jN1nTEb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Gabriel Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-ggscX7lxeWuewHklQKS4tuknpCUkAK8IvOZp=w148-h148-n-k-no"
+            },
+            {
+                "title": "ቅድስት ሥላሴ ቤተክርስቲያን ሀዋሳ || Trinity Ethiopian Orthodox Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpLHxsBeFY0oukRXUnceozKvP1_5Rm_zrYQaO0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tabor Mountain",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaDCOOhkJc69NnIHDypzhnSBDa-EFKhe3O5f5e=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Testament Priests Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOKAgoBODwzeOGeqC87BLO6eAHaIJ7TT_Ph-EH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amora Gedel Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNW4dzJxugMkR6RoWBlwrbtUNa61bmefGtz-4f=w148-h148-n-k-no"
+            },
+            {
+                "title": "VEGAS VR & GAMING PARK",
+                "category": "Indoor playground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEq5Yv8LQX2KVMU0yPMDZu-nVWaZKO2DLWIreT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hawassa Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3RWaCabRsA_PMQ8tFbD1Yz8lc9aRw0m09JbGT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Awasa",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwwGWmBXljhJxzgQlzqWjm3KfoTLub0wJ8Pjyq=w148-h148-n-k-no"
+            }
+        ],
+        "Butajīra": [
+            {
+                "title": "Entoto St. Maryam Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjX93bqH_vzCsF0jB8os_CJc98b67GTaZ8n5nI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shola Market | Megenagna",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxKbvSsMs-Gc_khtTkay4c-_J4dzzyeYYGcIzS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiro Meda Traditional Cloth Market | Shiro Meda | ሽሮ ሜዳ የባህላዊ ልብስ ገበያ | ሽሮ ሜዳ",
+                "category": "Clothes market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3orPT6bnDhWEyIG8cTQ3Ill9HU1V7FOjmFSNP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wenchi Crater Lake",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXqg_0J4AkKWy8AMDWYqMCRfh-cETM9PKZcs2w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entoto Natural Park",
+                "category": "Park and Garden",
+                "url": "http://www.entoto-natural-park.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkVu7ldwQl5eWiaB_7F4bFUo6wtvBvdyAeypTu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tiya World Heritage Site",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7JEmBWzcefo6akfPKJNbwJeeciCDAm0o5vAVn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ziway Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB5CiKazT-JLyVeqZXVif9fmfw8aScJpaSOuM5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shala Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6tWtSKUPlxKc2far63tG8RlYwTmd4oJAuM0JB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Derg Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVColhPaUACtmcO66o7A8JNWADjpKrEinYPEh-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gulele",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8QQtVo3bzoFR7PXGelOpxa-N8WkXk-vpxHvEB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amazing Ethiopia Tours",
+                "category": "Tour operator",
+                "url": "https://www.amazingethiopia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5RIVzJK1bGVmHgzI1XCKp5JX2fjKWHp5UCNE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnological Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNE79CPo1UbzzuIYuaQ5z08F4pF2nJPjK3MBcfh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suba Menagesha park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFBRq_M9wbzJkz33ibmzOKKAy5oNwg-PKfgG3h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Tewodros II Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNXlCpDQYvB8IP5viGwH8pPN6aVGfm9kQ1u8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpiQ37cK0ZSsKNQk3zfGUCqUf2baCiLcntXY=w148-h148-n-k-no"
+            }
+        ],
+        "Debre Birhan": [
+            {
+                "title": "Emperor Zera Yacob Statue",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBE68yWUkGj6lfGKWpq6-AV81yX9ahlFmAd0ek=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsadkane Maryam Church - Monastry",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHTJfnOyC-a7_OAMmRDn6LSA6CzkLuJq_Z1TBi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unity Park",
+                "category": "City park",
+                "url": "https://www.unitypark.et/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZVBpiwsqgV-agD-x5s2AY2BfvcYJ9Z452ygI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meskel Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-lAeo11OXETrR7-GoJSWoOyw7Qw-1U6PiKpGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ziway Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB5CiKazT-JLyVeqZXVif9fmfw8aScJpaSOuM5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Tewodros II Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNXlCpDQYvB8IP5viGwH8pPN6aVGfm9kQ1u8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiro Meda Traditional Cloth Market | Shiro Meda | ሽሮ ሜዳ የባህላዊ ልብስ ገበያ | ሽሮ ሜዳ",
+                "category": "Clothes market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3orPT6bnDhWEyIG8cTQ3Ill9HU1V7FOjmFSNP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menelik II Square",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9bPLRvsYICLobSqaIqFbefcEEaeHR40OTvTXX=w148-h148-n-k-no"
+            }
+        ],
+        "Fichē": [
+            {
+                "title": "Amazing Ethiopia Tours",
+                "category": "Tour operator",
+                "url": "https://www.amazingethiopia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5RIVzJK1bGVmHgzI1XCKp5JX2fjKWHp5UCNE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Libanos",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIbK3JrpE-KQ44a0y5cRILOF3AxIfrzIWOWrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entoto St. Maryam Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjX93bqH_vzCsF0jB8os_CJc98b67GTaZ8n5nI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Awash National Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhMmYWB9OhW7g2tv_Q7MyGxTFAg8vcpqWgOegL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Derg Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVColhPaUACtmcO66o7A8JNWADjpKrEinYPEh-=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. George Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx4MXLQDm7EJ60qmJH-XpobVsMpceIfpATUcSs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Medhanealem Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk06-rUoD6L-t6Mm5BepL4GMME-msS1PXHosnW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Tewodros II Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNXlCpDQYvB8IP5viGwH8pPN6aVGfm9kQ1u8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnological Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNE79CPo1UbzzuIYuaQ5z08F4pF2nJPjK3MBcfh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiro Meda Traditional Cloth Market | Shiro Meda | ሽሮ ሜዳ የባህላዊ ልብስ ገበያ | ሽሮ ሜዳ",
+                "category": "Clothes market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3orPT6bnDhWEyIG8cTQ3Ill9HU1V7FOjmFSNP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menelik II Square",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9bPLRvsYICLobSqaIqFbefcEEaeHR40OTvTXX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unity Park",
+                "category": "City park",
+                "url": "https://www.unitypark.et/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZVBpiwsqgV-agD-x5s2AY2BfvcYJ9Z452ygI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpiQ37cK0ZSsKNQk3zfGUCqUf2baCiLcntXY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meskel Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-lAeo11OXETrR7-GoJSWoOyw7Qw-1U6PiKpGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ethiopia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjEkqaszy6pWsIxREYckuVZJeQAg87a3KhvhQ7=w148-h148-n-k-no"
+            }
+        ],
+        "Mot’a": [
+            {
+                "title": "Blue Nile Falls",
+                "category": "Waterfall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFmsr6xablrnN_4fPrZs63mTr7lIq9J4hWi1oB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gondar",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqTk5P2UrX_3KdtHRGlSwMe0GtVgGfI_Ip5Lt2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lalibela",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNScAb1LYnVg8CJyne5EFz8GPd5-MEnlSiJDbKL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Abuna Yosef",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoj1P-BAIwLGnxyxWY7Ry_8nu3Dc1EEI_2Z7rL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Libanos",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIbK3JrpE-KQ44a0y5cRILOF3AxIfrzIWOWrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Azwa St. Maryam Church | አዝዋ ቅድስት ማርያም ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtp-N0OugbF13KLs70awQ46Va9PvIOtPIaISbZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asheton St. Maryam Monastery | አሽተን ቅድስት ማርያም ገዳም",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNn1bwi1P8PNaxBRIp2g3hJ-SMcFA76ZANi3lwr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of Adam",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyBluJN053GvBv7Xpj3JEZOp0ifCagg33aKiKN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Birhan Selassie Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPET33QAlX4oiZPKxAJhqOmdC27bD4CTDXr1rxu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bete Medhane Alem",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL_AIhzmd1IVzyS71HPFqJKVGp_f18QbaLMJBN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. George",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM34oguFpsqmzfRXOJshyi8eVv1jarBcH44aRbg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yemrehana Krestos Church | ይምርሃነ ክርስቶስ ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt-ccOKpOuntP_FM8Y7FaMtJvzSa5li4dLcS-g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fasil Ghebbi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLqvQs4aY3mm6suFQjuqdjYsRZahxHWk_bXhrP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rock-Hewn Churches, Lalibela",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrLZDW_Q8w9B_FYR1tXG-dVYuZMMWGrOfQ3WVH=w148-h148-n-k-no"
+            }
+        ],
+        "Gonder": [
+            {
+                "title": "Discover simien tour",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMqimZ-sHTyl_p53pW8mA0l5icxObHxTTjWtDM=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Gondar - ጎንደር ዩኒቨርሲቲ",
+                "category": "University",
+                "url": "http://www.uog.edu.et/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsPJhPDgP0hCddiz0AWo6Er85lKs_pksg_chZm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simien trekking Tours",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8DT5sd63I6dq_Z73kYzSfOG04Y04qN4p_CR8e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simien Mountains",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5C0159oD5xxRZDizDzEUDUUI_AVA-har1NjFE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Birhan Selassie Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPET33QAlX4oiZPKxAJhqOmdC27bD4CTDXr1rxu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fasil Ghebbi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLqvQs4aY3mm6suFQjuqdjYsRZahxHWk_bXhrP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Tana",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMdK5NAOIEHS_3vgj3RJkSn1jZ4-BCuuvti_8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Fasil’s Palace",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDQSCfCa3eEBYv_TDxLiGCjq3BmQvo5utbRkgv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kusquam Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU0H5hXigawOcfTRtzQDhYrEYof_absmWGGakd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mentewab's Palace",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM0Xb-lnXslgWtcEAxMmDn788-AEVX9QcN0sWS=w148-h148-n-k-no"
+            }
+        ],
+        "Waliso": [
+            {
+                "title": "Wenchi Crater Lake",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXqg_0J4AkKWy8AMDWYqMCRfh-cETM9PKZcs2w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suba Menagesha park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFBRq_M9wbzJkz33ibmzOKKAy5oNwg-PKfgG3h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpiQ37cK0ZSsKNQk3zfGUCqUf2baCiLcntXY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ziway Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB5CiKazT-JLyVeqZXVif9fmfw8aScJpaSOuM5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Derg Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVColhPaUACtmcO66o7A8JNWADjpKrEinYPEh-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Medhanealem Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk06-rUoD6L-t6Mm5BepL4GMME-msS1PXHosnW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entoto St. Maryam Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjX93bqH_vzCsF0jB8os_CJc98b67GTaZ8n5nI=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ethiopia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjEkqaszy6pWsIxREYckuVZJeQAg87a3KhvhQ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Terror Martyrs' Memorial Museum የቀይ ሽብር መታሰቢያ ሙዚየም",
+                "category": "Museum",
+                "url": "http://rtmmm.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa5ZR4o4XBG4CjbRgyHtl3SYw1pPmLSWDI7l_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethio Travel And Tours",
+                "category": "Travel Agent",
+                "url": "http://www.ethiotravelandtours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiNFyLzw-rmWg53MB4kKozbObCtFzhOUnGdnYs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yama Ethiopia Tours & Travel",
+                "category": "Travel Agent",
+                "url": "https://www.yamatoursethiopia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtZwY-R4a-0QKjv5mnLcBAtHXrDX4LYZWYR_jS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aman Ethiopia Tours",
+                "category": "Tour operator",
+                "url": "http://www.amanethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVLwmGGk2PSwLI4Y0700LW0Y-efgZgnWYL_qW2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inside Ethiopia Tours",
+                "category": "Tour operator",
+                "url": "http://www.insideethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhVI18NJ2UgV2jJbkQ-BIyHcHLxCjlwuk3ke09=w148-h148-n-k-no"
+            },
+            {
+                "title": "Danakil Depression Tours",
+                "category": "Tour operator",
+                "url": "http://danakildepression.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSurn3mC3xBAe7PKoUIMatpRUN4_6I5qi3_dA9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Awaze Tours",
+                "category": "Tour operator",
+                "url": "http://www.awazetours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM78mIWYr90j6smMlPI17x86FAnbgonlT-eSywB=w148-h148-n-k-no"
+            }
+        ],
+        "Bodītī": [],
+        "Chagni": [
+            {
+                "title": "Chagni Al Rehman Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVM8oIPphz94Pj52kGAC11zOcG0fgz4SXsDtI=w148-h148-n-k-no"
+            },
+            {
+                "title": "አባይ ወንዝ መነሻStarting point of Blue Nile",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm7SVV7KpOceVTA881wwvlWhyGCPniP7icO_UQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zengena Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSi0OQVc7XSWXTadjDT2PuYo2HDVrMETJsJxUE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ura Kidane Mihret Monastery (ኡራ ኪዳነ ምሕረት ገዳም)",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzKv-yPwihLiDvV3m_9sbCLxs5JnDNQ4Lq5sZh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Azwa St. Maryam Church | አዝዋ ቅድስት ማርያም ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtp-N0OugbF13KLs70awQ46Va9PvIOtPIaISbZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Tana",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMdK5NAOIEHS_3vgj3RJkSn1jZ4-BCuuvti_8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Nile Falls",
+                "category": "Waterfall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFmsr6xablrnN_4fPrZs63mTr7lIq9J4hWi1oB=w148-h148-n-k-no"
+            }
+        ],
+        "Gimbi": [],
+        "Debre Tabor": [
+            {
+                "title": "Ura Kidane Mihret Monastery (ኡራ ኪዳነ ምሕረት ገዳም)",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzKv-yPwihLiDvV3m_9sbCLxs5JnDNQ4Lq5sZh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Nile Falls",
+                "category": "Waterfall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFmsr6xablrnN_4fPrZs63mTr7lIq9J4hWi1oB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Tana",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMdK5NAOIEHS_3vgj3RJkSn1jZ4-BCuuvti_8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fasil Ghebbi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLqvQs4aY3mm6suFQjuqdjYsRZahxHWk_bXhrP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rock-Hewn Churches, Lalibela",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrLZDW_Q8w9B_FYR1tXG-dVYuZMMWGrOfQ3WVH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bete Medhane Alem",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL_AIhzmd1IVzyS71HPFqJKVGp_f18QbaLMJBN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. George",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM34oguFpsqmzfRXOJshyi8eVv1jarBcH44aRbg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yemrehana Krestos Church | ይምርሃነ ክርስቶስ ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt-ccOKpOuntP_FM8Y7FaMtJvzSa5li4dLcS-g=w148-h148-n-k-no"
+            }
+        ],
+        "Mek’ī": [],
+        "Sebeta": [
+            {
+                "title": "Dagi's Spa- Professional Massage & Morrocan Bath",
+                "category": "Spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMX7R9CQ0jJWJMDQbr_iw-_6e9H0on3vY9z6lu2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoma Museum Mekanisa",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuc9lfeipQbFepwa6h6sKx6lW5own2kmcyl9Sk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entoto St. Maryam Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjX93bqH_vzCsF0jB8os_CJc98b67GTaZ8n5nI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adona Spa Lodge Plc",
+                "category": "Massage spa",
+                "url": "http://www.adonaspa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM87zSXkXZJJICf88kkgALSdsx67PiVx9FYmuTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Labella Addis Massage",
+                "category": "Massage spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8jtQY6lOpg5CCxPdMDksM_HN7yyQcrMj4H6g1=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Ethiopia Tours",
+                "category": "Tours",
+                "url": "http://www.newethiopiantours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnMMbfsPUXj6Hlp_Oie-3n61kQa35DDspUSBc6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adimasu Travel and Tours",
+                "category": "Corporate office",
+                "url": "http://www.adimasutravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeO3GybxzoGkrX-DRvQstMtp1ZZQF37vHv4jEV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qine Store",
+                "category": "Souvenir Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbX9SZ6HcA_PVQ_Zw9OXKJLsnK3nWbsLzgjey2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabahar",
+                "category": "Fashion accessories shop",
+                "url": "http://sabahar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIBiZ4Kvg67gDf1ZTRl-RzpENKXg1cHRkYPVFw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Sapphire Tours",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9FbkpyyB_HzSYgM3FEnythG8NrfwK_c4Mf3xc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Libanos",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIbK3JrpE-KQ44a0y5cRILOF3AxIfrzIWOWrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tibeb Leather Works | Sarbet",
+                "category": "Leather Goods Shop",
+                "url": "http://tibebleather.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-Tc_0y3FGYFPKlZ2uhdbwiILPBuj4CXLcKy7u=w148-h148-n-k-no"
+            },
+            {
+                "title": "KIKUNDI Store | Gallery | Cafe",
+                "category": "Art gallery",
+                "url": "http://www.kikundi.store/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHoUbB_FSTetDpWJJgXpWx1b0xn-Z2DaD-NhOG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roll-X Lounge",
+                "category": "Nightclub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOV11opMYzW-6NADJTAD4urAMjPmd6WUJVk6yrn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abdi Negash Antique Store",
+                "category": "Antique Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkfiHedEc5PMqZJBM3jBTNg1HRFsUWlh_Wno4f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Talari Addis",
+                "category": "Jewellery Store",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODyJkCXTOL_Hg1lI6gXya5nPDpmMsfInYcXO_L=w148-h148-n-k-no"
+            }
+        ],
+        "Jinka": [
+            {
+                "title": "Alliance omo valley tour",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhPBE6HiqCCXQAOtGr0l_5psXmvtMWXXhmwm78=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moresee Tours",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwepqTtyLLafW7dZn9Kq2_RRaEj3Po93BDuFB3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lalo Tours Ethiopia",
+                "category": "Tours",
+                "url": "http://www.lalotoursethiopia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLdztRLUV4GsLPilzAZ9Hov-wxpkRLKLCYhbFu=w148-h148-n-k-no"
+            },
+            {
+                "title": "OMO VALLEY ORIGIN TOURS",
+                "category": "Travel Agent",
+                "url": "http://omovalleyorigintours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkMEjUYHjOZ9e3qTkfK59nXHM75eYh9dNlntYG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Discover Omo",
+                "category": "Tours",
+                "url": "http://www.discoveromo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVfwk8isQnHEuSXKf35EjKzol9eEml6XuhU3rZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Round Omo Valley Tour",
+                "category": "Travel Agent",
+                "url": "http://www.firewtours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdbotl44vwVIC42Qr2ozNAjT_sLo7rqMaDKxWi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omo-Turkana Tours",
+                "category": "Tours",
+                "url": "https://www.instagram.com/p/By4uzFbBCE-/?igshid=mtisdv0aasnw",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKopFuIZFigvknF9kZzR_K7HS3mO5utPud4e8c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mursi ACHALLI Tours",
+                "category": "Tours",
+                "url": "https://sites.google.com/view/omo-turkana-tours-ethiopia/home?fbclid=PAAaaSyknNYkFJdinaSZ-YlM_Qb2_pmX2DGzFfCWiGjecit9pqfc0xqTpDyv8",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKLRBvaFGxVWWWWvn-JM6Uy_vWY5HQXlUVl9qF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omo River Tours",
+                "category": "Tours",
+                "url": "https://www.omorivertours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_CjfprxUyH2UYIa9mqmVt5peQZ9ldBjLT1IXs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zani Ethiopian Tours",
+                "category": "Tour operator",
+                "url": "http://zaniethiopiantours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkaVQb7Pg-tiGzaPBqQsrVcWrALD8SmqxalCsI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Go Ethiopia Tours",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAtRWAdEh9Twwx0TUZe35ti46_fDGzTQufumiY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Open Ethiopia Tours",
+                "category": "Travel Agent",
+                "url": "http://www.openethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMexeZyOMO-Qu6lk7i3r4x0fSKbW_wvgVIn3OHM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omo Delta Tours",
+                "category": "Travel Agent",
+                "url": "http://www.omodeltatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPYOxydbW6fZdJbGzDls_j7sByXdA_FVv9f7jt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omo National Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMR-DL9ZQkqwhaL5JQuAv5omJt6G6uUHM3C27xu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omo River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOP4zaoeYBN3RiQRQ0UM7IiJd-JVPohz4r7vtuJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asu Ethiopian Tours",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNubdzkkxwKgXPe9BPmjzFOn2Vva9Ud5ws-TW34=w148-h148-n-k-no"
+            }
+        ],
+        "Āgaro": [],
+        "Yirga ‘Alem": [],
+        "Hāgere Hiywet": [
+            {
+                "title": "Zoma Museum Mekanisa",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuc9lfeipQbFepwa6h6sKx6lW5own2kmcyl9Sk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suba Menagesha park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFBRq_M9wbzJkz33ibmzOKKAy5oNwg-PKfgG3h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabahar",
+                "category": "Fashion accessories shop",
+                "url": "http://sabahar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIBiZ4Kvg67gDf1ZTRl-RzpENKXg1cHRkYPVFw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tibeb Leather Works | Sarbet",
+                "category": "Leather Goods Shop",
+                "url": "http://tibebleather.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-Tc_0y3FGYFPKlZ2uhdbwiILPBuj4CXLcKy7u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entoto Natural Park",
+                "category": "Park and Garden",
+                "url": "http://www.entoto-natural-park.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkVu7ldwQl5eWiaB_7F4bFUo6wtvBvdyAeypTu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muya Be Ethiopia Weaving Plc",
+                "category": "Engineering consultant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBkMF3zEE84KyDQepporK4MBkBM6XJt5z5-HDg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abdi Negash Antique Store",
+                "category": "Antique Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkfiHedEc5PMqZJBM3jBTNg1HRFsUWlh_Wno4f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Addis Ababa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtg1hJvvxWl7cYhN0FRaWezLaf08EqGcIvyseT=w148-h148-n-k-no"
+            },
+            {
+                "title": "St George Gallery",
+                "category": "Art gallery",
+                "url": "http://www.stgeorgeofethiopia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfVO9CHqp7VSB4g3IC2fWoBoSXR1q0_Gv8tnK5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bless Day Spa",
+                "category": "Spa",
+                "url": "http://facebook.com/blessdayspa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtJRVgE8iUKnfwz_C6IHhFlHGLKXzNXt6QgjQX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Talari Addis",
+                "category": "Jewellery Store",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODyJkCXTOL_Hg1lI6gXya5nPDpmMsfInYcXO_L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Anwar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdCbC5_iL0QzYuo-rpVy6C1ei2nH1MTCVrjz30=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Libanos",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIbK3JrpE-KQ44a0y5cRILOF3AxIfrzIWOWrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shola Market | Megenagna",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxKbvSsMs-Gc_khtTkay4c-_J4dzzyeYYGcIzS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Friendship Park - 2",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdlrcLQeu2xj-aFY4bjmkjTFk0jdBej1wwa87S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            }
+        ],
+        "Kombolcha": [],
+        "Gambēla": [],
+        "Dangila": [
+            {
+                "title": "Debre Birhan Selassie Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPET33QAlX4oiZPKxAJhqOmdC27bD4CTDXr1rxu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Azwa St. Maryam Church | አዝዋ ቅድስት ማርያም ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtp-N0OugbF13KLs70awQ46Va9PvIOtPIaISbZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Tana",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMdK5NAOIEHS_3vgj3RJkSn1jZ4-BCuuvti_8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fasil Ghebbi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLqvQs4aY3mm6suFQjuqdjYsRZahxHWk_bXhrP=w148-h148-n-k-no"
+            }
+        ],
+        "Nazrēt": [
+            {
+                "title": "Mafi Restaurant",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiX1kGRXw41_KoNWvNimeDktoENZSDQ2uPfIxH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Executive Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO75OPs7Ry_FfhLjY5b3lkyV5papyp7F_jJzi6q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Medhanealem Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk06-rUoD6L-t6Mm5BepL4GMME-msS1PXHosnW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpiQ37cK0ZSsKNQk3zfGUCqUf2baCiLcntXY=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. George Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx4MXLQDm7EJ60qmJH-XpobVsMpceIfpATUcSs=w148-h148-n-k-no"
+            },
+            {
+                "title": "German Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/proxy/8IAIgi3PFp2BeRp8-9wJJpggxE9NOzSlCTNSX93W4_OB5k4avjlDe5mp6B_UIeQ0pRmtHQYu7_OCj6Z_XJQz-eHI7dN3u2TWi7dQsZ_YIp_tqUh9KNJIq82nYopJ5vdFjUC-tJqXfLaxrcdDEmbllrSkDlARWQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safari Lodge",
+                "category": "Hotel",
+                "img": "https://lh6.googleusercontent.com/proxy/Y9rQn_zKC-yaQpYGNnhdGnGlfEHOhH_qyxFPCKDPRrai1K6zKDCCOl0yxG9xk5tREH4y3QoxRUOrKyFOuB2ORfKFRml9wE86JEJdzeoyYmlxt4KJPngxwSo1TIjh9AICoHi_J-rGme4CXtcXrqj-2kERYXTNwA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dembel View International Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTcHtPyIDbSQDEu9GOe1eh4KY7qTlnJx1uuIE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haile Resort - Adama",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUDjvV0wmZyhjgC3sjiqWTAnFhVSdkl9BCy01_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kereyu Hill Resort",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBC6X0gQ8npyZmk423W5_VV77hWoEIonuJV-Zs=w148-h148-n-k-no"
+            },
+            {
+                "title": "J Resort Adama",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJgpSd4jLb4xPNGDEv99_l3rqCsmW30ztlb_NW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Tewodros II Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNXlCpDQYvB8IP5viGwH8pPN6aVGfm9kQ1u8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bale Mountains National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1H3wP4DblGocWKDLLCs_fSb-TX1RVa3vIW-j2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adama Ras Hotel",
+                "category": "Hotel",
+                "img": "https://lh6.googleusercontent.com/proxy/j0Fny6wKOlB8U7rOBtljnjr3-o2M1n5YOvC3SUc0UrX33CLJ1gUciHSMgLIuw0kkWNTJYj_Z3r3aW5rPh6k4FvhXFgmt8QZUoO1-ZJ2ed9rOJQbqvlFVb4AwdZV3AFjvX2xxjC0oEQrdagCjOSXcNrOoXHXttQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tokuma Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3H_6fNvrtlDdQ65xhCx-TMcKpXO3sRPJLZyF3=w148-h148-n-k-no"
+            }
+        ],
+        "Burayu": [
+            {
+                "title": "Dagi's Spa- Professional Massage & Morrocan Bath",
+                "category": "Spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMX7R9CQ0jJWJMDQbr_iw-_6e9H0on3vY9z6lu2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Anwar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdCbC5_iL0QzYuo-rpVy6C1ei2nH1MTCVrjz30=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Tewodros II Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNXlCpDQYvB8IP5viGwH8pPN6aVGfm9kQ1u8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Labella Addis Massage",
+                "category": "Massage spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8jtQY6lOpg5CCxPdMDksM_HN7yyQcrMj4H6g1=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Ethiopia Tours",
+                "category": "Tours",
+                "url": "http://www.newethiopiantours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnMMbfsPUXj6Hlp_Oie-3n61kQa35DDspUSBc6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qine Store",
+                "category": "Souvenir Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbX9SZ6HcA_PVQ_Zw9OXKJLsnK3nWbsLzgjey2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adona Spa Lodge Plc",
+                "category": "Massage spa",
+                "url": "http://www.adonaspa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM87zSXkXZJJICf88kkgALSdsx67PiVx9FYmuTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabahar",
+                "category": "Fashion accessories shop",
+                "url": "http://sabahar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIBiZ4Kvg67gDf1ZTRl-RzpENKXg1cHRkYPVFw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unity Park Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOtupc-oOJx4ewx46aZhh3HUPIzUBLJWsgW1bA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiro Meda Traditional Cloth Market | Shiro Meda | ሽሮ ሜዳ የባህላዊ ልብስ ገበያ | ሽሮ ሜዳ",
+                "category": "Clothes market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3orPT6bnDhWEyIG8cTQ3Ill9HU1V7FOjmFSNP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tibeb Leather Works | Sarbet",
+                "category": "Leather Goods Shop",
+                "url": "http://tibebleather.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-Tc_0y3FGYFPKlZ2uhdbwiILPBuj4CXLcKy7u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roll-X Lounge",
+                "category": "Nightclub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOV11opMYzW-6NADJTAD4urAMjPmd6WUJVk6yrn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Derg Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVColhPaUACtmcO66o7A8JNWADjpKrEinYPEh-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Talari Addis",
+                "category": "Jewellery Store",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODyJkCXTOL_Hg1lI6gXya5nPDpmMsfInYcXO_L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boston day spa",
+                "category": "Spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSF26vGOe1inP2mB9JL11NwFVXj0QlX3jfsDHF=w148-h148-n-k-no"
+            },
+            {
+                "title": "SABEGN Crafted in Ethiopia",
+                "category": "Leather Products Manufacturer",
+                "url": "http://www.sabegn.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6BQIZ-ALpdKxJEWM8zw1Fh2v19oJtjs6m7JYo=w148-h148-n-k-no"
+            }
+        ],
+        "Mīzan Teferī": [
+            {
+                "title": "Chebera-Churchura National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFaXKC5swB9CfFH8y_poMOKE2-YXDmkdGv-Oc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kafa Biosphere Reserve",
+                "category": "Nature reserve",
+                "url": "http://www.kafa-biosphere.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyfGGvKrW834huh1lyNvbKEHLOt4cNlcPECc3n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mago National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVz4e_HeEtJlg0vRdT3gRm96KrOwU6faiA25fx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omo National Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMR-DL9ZQkqwhaL5JQuAv5omJt6G6uUHM3C27xu=w148-h148-n-k-no"
+            }
+        ],
+        "Ārabī": [],
+        "Debre Mark’os": [
+            {
+                "title": "Markland hotel and Spa",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO46H-BFOP49iYgr_lmKNyPjirs70S8NAySjsXP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yosef pension",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9CFB627MSD7c5e-Lrs_ifJXP6dWMQUrDYMjSN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethio Travel And Tours",
+                "category": "Travel Agent",
+                "url": "http://www.ethiotravelandtours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiNFyLzw-rmWg53MB4kKozbObCtFzhOUnGdnYs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yama Ethiopia Tours & Travel",
+                "category": "Travel Agent",
+                "url": "https://www.yamatoursethiopia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtZwY-R4a-0QKjv5mnLcBAtHXrDX4LYZWYR_jS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aman Ethiopia Tours",
+                "category": "Tour operator",
+                "url": "http://www.amanethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVLwmGGk2PSwLI4Y0700LW0Y-efgZgnWYL_qW2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Danakil Depression Tours",
+                "category": "Tour operator",
+                "url": "http://danakildepression.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSurn3mC3xBAe7PKoUIMatpRUN4_6I5qi3_dA9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inside Ethiopia Tours",
+                "category": "Tour operator",
+                "url": "http://www.insideethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhVI18NJ2UgV2jJbkQ-BIyHcHLxCjlwuk3ke09=w148-h148-n-k-no"
+            },
+            {
+                "title": "Awaze Tours",
+                "category": "Tour operator",
+                "url": "http://www.awazetours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM78mIWYr90j6smMlPI17x86FAnbgonlT-eSywB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Libanos",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIbK3JrpE-KQ44a0y5cRILOF3AxIfrzIWOWrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Tewodros II Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNXlCpDQYvB8IP5viGwH8pPN6aVGfm9kQ1u8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiro Meda Traditional Cloth Market | Shiro Meda | ሽሮ ሜዳ የባህላዊ ልብስ ገበያ | ሽሮ ሜዳ",
+                "category": "Clothes market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3orPT6bnDhWEyIG8cTQ3Ill9HU1V7FOjmFSNP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menelik II Square",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9bPLRvsYICLobSqaIqFbefcEEaeHR40OTvTXX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unity Park",
+                "category": "City park",
+                "url": "https://www.unitypark.et/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZVBpiwsqgV-agD-x5s2AY2BfvcYJ9Z452ygI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meskel Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-lAeo11OXETrR7-GoJSWoOyw7Qw-1U6PiKpGp=w148-h148-n-k-no"
+            }
+        ],
+        "Ciro": [
+            {
+                "title": "Abdeen Palace Museum",
+                "category": "Historical place museum",
+                "url": "http://www.cairo.gov.eg/ar/Bank%20of%20Ideas/Pages/matahif-alqahra-_text.aspx?ID=15",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Bayt al-Suhaymi",
+                "category": "Historical landmark",
+                "url": "https://m.facebook.com/s7emy.house/?locale2=ar_AR",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Sultan Al-Ashraf Qaytbay Mosque and Mausoleum",
+                "category": "Mosque",
+                "url": "https://egymonuments.gov.eg/en/monuments/the-complex-of-sultan-qayitbay-in-the-mamluk-cemetery",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Al Khyiamia (Tent Makers Bazaar)",
+                "category": "Market",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Fortress of Babylon",
+                "category": "Historical landmark",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Downtown Cairo",
+                "category": "Neighborhood",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Egyptian Textiles Museum",
+                "category": "Museum",
+                "url": "https://www.elsyasi.com/articles/print/864",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "El-Tahrir Square",
+                "category": "Route",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Misr Al Qadima",
+                "category": "Locality",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Amr ibn Al-A'as Masjid Jama",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Heliopolis",
+                "category": "Locality",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al-Rifa'i Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Qalawun Complex",
+                "category": "Historical landmark",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Museum of Islamic Art in Cairo",
+                "category": "Museum",
+                "url": "http://www.miaegypt.org/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "St. Simon \"The Tanner\" Monastery",
+                "category": "Monastery",
+                "url": "http://www.samaanchurch.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Oum el Dounia Gallery - ام الدنيا جاليري",
+                "category": "Book Shop",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Weldiya": [
+            {
+                "title": "Woldia Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqXzgY1F-x-e1nJaRasBTOfWTnhrLZAN73qntD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alamata Holy Eyesus Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNsrQZ1ijkjq0ohMni-rzVa8iB6iiRqQYxUyEF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mekele",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3iBrPc32NHSIjSCLGjLYOcs_lpy0Re0tgrv__=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yemrehana Krestos Church | ይምርሃነ ክርስቶስ ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt-ccOKpOuntP_FM8Y7FaMtJvzSa5li4dLcS-g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of Adam",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyBluJN053GvBv7Xpj3JEZOp0ifCagg33aKiKN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. George",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM34oguFpsqmzfRXOJshyi8eVv1jarBcH44aRbg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asheton St. Maryam Monastery | አሽተን ቅድስት ማርያም ገዳም",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNn1bwi1P8PNaxBRIp2g3hJ-SMcFA76ZANi3lwr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rock-Hewn Churches, Lalibela",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrLZDW_Q8w9B_FYR1tXG-dVYuZMMWGrOfQ3WVH=w148-h148-n-k-no"
+            }
+        ],
+        "Welk’īt’ē": [
+            {
+                "title": "Entoto St. Maryam Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjX93bqH_vzCsF0jB8os_CJc98b67GTaZ8n5nI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Libanos",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIbK3JrpE-KQ44a0y5cRILOF3AxIfrzIWOWrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Derg Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVColhPaUACtmcO66o7A8JNWADjpKrEinYPEh-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Medhanealem Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk06-rUoD6L-t6Mm5BepL4GMME-msS1PXHosnW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpiQ37cK0ZSsKNQk3zfGUCqUf2baCiLcntXY=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. George Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx4MXLQDm7EJ60qmJH-XpobVsMpceIfpATUcSs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Tewodros II Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNXlCpDQYvB8IP5viGwH8pPN6aVGfm9kQ1u8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiro Meda Traditional Cloth Market | Shiro Meda | ሽሮ ሜዳ የባህላዊ ልብስ ገበያ | ሽሮ ሜዳ",
+                "category": "Clothes market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3orPT6bnDhWEyIG8cTQ3Ill9HU1V7FOjmFSNP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Addis Ababa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtg1hJvvxWl7cYhN0FRaWezLaf08EqGcIvyseT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menelik II Square",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9bPLRvsYICLobSqaIqFbefcEEaeHR40OTvTXX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unity Park",
+                "category": "City park",
+                "url": "https://www.unitypark.et/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZVBpiwsqgV-agD-x5s2AY2BfvcYJ9Z452ygI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meskel Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-lAeo11OXETrR7-GoJSWoOyw7Qw-1U6PiKpGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ethiopia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjEkqaszy6pWsIxREYckuVZJeQAg87a3KhvhQ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Terror Martyrs' Memorial Museum የቀይ ሽብር መታሰቢያ ሙዚየም",
+                "category": "Museum",
+                "url": "http://rtmmm.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa5ZR4o4XBG4CjbRgyHtl3SYw1pPmLSWDI7l_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Entoto",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND_LfYZlJj6_RlzH2xPuK2HCdE4aJNKHC0Zup2=w148-h148-n-k-no"
+            }
+        ],
+        "Sek’ot’a": [
+            {
+                "title": "Axum Tsion St. Mary",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFySNKMpvbd52fAonBu7i8jkOCyEKHMidy6am9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Birhan Selassie Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPET33QAlX4oiZPKxAJhqOmdC27bD4CTDXr1rxu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asheton St. Maryam Monastery | አሽተን ቅድስት ማርያም ገዳም",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNn1bwi1P8PNaxBRIp2g3hJ-SMcFA76ZANi3lwr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of Adam",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyBluJN053GvBv7Xpj3JEZOp0ifCagg33aKiKN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aksum",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzWIUcyrhxeLkcxS9iZ291milCqJRF57WzE_Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simien Mountains",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5C0159oD5xxRZDizDzEUDUUI_AVA-har1NjFE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bete Medhane Alem",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL_AIhzmd1IVzyS71HPFqJKVGp_f18QbaLMJBN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ezana Stone",
+                "category": "Historical landmark",
+                "url": "http://www.sycamoreethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBEqOmH36rig0FxldDB2NuA7KBWvwvtmVH0F9t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethiopian Landscape Tour",
+                "category": "Tours",
+                "url": "http://www.ethiopianlandscapetour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOon9sylvm7o6M0glb-PbO8rd9XsdqkQGtTIXdO=w148-h148-n-k-no"
+            },
+            {
+                "title": "lucy ethiopia tours",
+                "category": "Tour operator",
+                "url": "http://lucyethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7yUaWS4nYV1SVzSNPOMPITt6uUeT2bLAuFB9N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. George",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM34oguFpsqmzfRXOJshyi8eVv1jarBcH44aRbg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nahiso Terara",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIvIP3TtCiM0Wdn3Bj1vcWQb3zELAVJmxMkn7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fasil Ghebbi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLqvQs4aY3mm6suFQjuqdjYsRZahxHWk_bXhrP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rock-Hewn Churches, Lalibela",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrLZDW_Q8w9B_FYR1tXG-dVYuZMMWGrOfQ3WVH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simien Mountains National Park",
+                "category": "National park",
+                "url": "https://www.simienmountainsnationalpark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOHbu8O4QLx-H0-_rY9ETgG0cRHlS71obs75ON=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abuna Yemata",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIfXm6QuP9eJZKIlEtFhWxjF2BQGw2CaFlny1X=w148-h148-n-k-no"
+            }
+        ],
+        "Aksum": [
+            {
+                "title": "ኣኽሱም ሓውልት | ሓወልቲ ኣኽሱም ቑፅሪ-1 | Akhsum Obelisk No-1",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYygwGY_gipDQPJv8qQjVNLinRyHnIMc0wuUpr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ezana Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjIsLlBXH2Hdd_DzSkrjvO834NjSG-22215W_n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Queen of Sheba's Bath",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf5PSY0t8T8vHgH0uEVwri6wEwMp1KR_H6dN0B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Axum Tsion St. Mary",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFySNKMpvbd52fAonBu7i8jkOCyEKHMidy6am9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dungur Palace (Queen of Sheba Palace)",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRMjtmima9iIB60R7XhPz3d1kiPaE-obKlSjsK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ezana Stone",
+                "category": "Historical landmark",
+                "url": "http://www.sycamoreethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBEqOmH36rig0FxldDB2NuA7KBWvwvtmVH0F9t=w148-h148-n-k-no"
+            }
+        ],
+        "Wendo": [],
+        "Bahir Dar": [
+            {
+                "title": "Eyayu Art Gallery",
+                "category": "Art gallery",
+                "url": "https://www.facebook.com/artinbahirdar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQPBeRVujanKVGYz8NUoNKqQDxAqd0k2UMEX6l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethio Nile Tours",
+                "category": "Tour operator",
+                "url": "https://ethioniletours.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGScA7CvH2laq2jo2-vmB8B7wLKhtWA0ojC9zu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethio Backpacker Tours",
+                "category": "Tours",
+                "url": "http://www.ethiobackpackertours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkDsvXqR38bDkVEz-xNsoOpyx3n5HJNJgsE8Nj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethio Tours: Lake Tana Boat Tours",
+                "category": "Boat tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHRJ0X1ANvBpPfHaPDikDPYkybAbw_ecbziHB3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bd Backpacker Tours",
+                "category": "Tours",
+                "url": "http://bdbackpackertours.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPorU8gUKwzMbR6EBY9Ol6e9-yZ2RkGhLP8RhKU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Azwa St. Maryam Church | አዝዋ ቅድስት ማርያም ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtp-N0OugbF13KLs70awQ46Va9PvIOtPIaISbZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Tana",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMdK5NAOIEHS_3vgj3RJkSn1jZ4-BCuuvti_8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanian Ethiopia Tours",
+                "category": "Tour operator",
+                "url": "http://tanianethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVrbo3H7Rh7g1YiYTZmHw9HHPUxrBorRArs2xZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tankwa Tours & Travel Agency",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyfIgZJmza-MUPqymrFen1s7Ugp64F9V-jvnOW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabisa Tour",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO34eAKE3WQ9FSkFsXzZlLEd1p_Y6uDa9hjoeFU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debra Mariam Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLtb4euw6CPYKCN0THxX4F2VDlG70jLLxmWaGS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bona Fide Ethiopia Tours",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-ys-5hQR3Asap34dnDR0lUYf_qOdILHmKRAVn=w148-h148-n-k-no"
+            }
+        ],
+        "Kobo": [
+            {
+                "title": "Asheton St. Maryam Monastery | አሽተን ቅድስት ማርያም ገዳም",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNn1bwi1P8PNaxBRIp2g3hJ-SMcFA76ZANi3lwr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomb of Adam",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyBluJN053GvBv7Xpj3JEZOp0ifCagg33aKiKN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bete Maryam",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAJ2Nwms1cH9h2uqqgEcYS7mgNTNVsitODgurV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simien Mountains",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5C0159oD5xxRZDizDzEUDUUI_AVA-har1NjFE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bete Medhane Alem",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL_AIhzmd1IVzyS71HPFqJKVGp_f18QbaLMJBN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. George",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM34oguFpsqmzfRXOJshyi8eVv1jarBcH44aRbg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yemrehana Krestos Church | ይምርሃነ ክርስቶስ ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt-ccOKpOuntP_FM8Y7FaMtJvzSa5li4dLcS-g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nahiso Terara",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIvIP3TtCiM0Wdn3Bj1vcWQb3zELAVJmxMkn7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rock-Hewn Churches, Lalibela",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrLZDW_Q8w9B_FYR1tXG-dVYuZMMWGrOfQ3WVH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abuna Yemata",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIfXm6QuP9eJZKIlEtFhWxjF2BQGw2CaFlny1X=w148-h148-n-k-no"
+            }
+        ],
+        "Āsosa": [],
+        "Āsela": [
+            {
+                "title": "Grand Anwar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdCbC5_iL0QzYuo-rpVy6C1ei2nH1MTCVrjz30=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jewish Center - Chabad Ethiopia",
+                "category": "Orthodox synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVlcvBtZcuEUmAlV8mcCjAhpL-nWUAhQkl--JF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bale Mountains",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkDdt80v2UOMP5q93iUBOibM7nhhkPhq4tJsul=w148-h148-n-k-no"
+            },
+            {
+                "title": "YIDNEKACHEW TESSEMA STADIUM",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMziGgO0roopyuumoI65TX7QG49Vs5fadIy7uKF=w148-h148-n-k-no"
+            },
+            {
+                "title": "መልካ ቀንጡሬ ቅድመ ታርካዊ አርክኦሎጂ Melka Kunture Prehistoric Archeological Site",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCumQq0rPES8DnOcnIsF9C2DJ54DPZjuBBSeFZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bole Sub City Administration | Megenagna | የቦሌ ክፍለ ከተማ አስተዳደር | መገናኛ",
+                "category": "Municipal administration office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhAbjRa_BFcVOFirXTn4yVlF7sZa68nF5Lmh7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amazing Ethiopia Tours",
+                "category": "Tour operator",
+                "url": "https://www.amazingethiopia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5RIVzJK1bGVmHgzI1XCKp5JX2fjKWHp5UCNE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Awash National Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhMmYWB9OhW7g2tv_Q7MyGxTFAg8vcpqWgOegL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Merkato",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxW3PjGVnrTpZFrJIdWIX1OAgvrEkVLVb0NH-y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lion of Judah Statue",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWN-yjuTsx5phsFlEbJFQbzranGP7xEyvAVYxi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Libanos",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIbK3JrpE-KQ44a0y5cRILOF3AxIfrzIWOWrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suba Menagesha park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFBRq_M9wbzJkz33ibmzOKKAy5oNwg-PKfgG3h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bale Mountains National Park",
+                "category": "National park",
+                "url": "http://www.balemountainsecotrekking.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1H3wP4DblGocWKDLLCs_fSb-TX1RVa3vIW-j2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Tewodros II Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNXlCpDQYvB8IP5viGwH8pPN6aVGfm9kQ1u8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiro Meda Traditional Cloth Market | Shiro Meda | ሽሮ ሜዳ የባህላዊ ልብስ ገበያ | ሽሮ ሜዳ",
+                "category": "Clothes market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3orPT6bnDhWEyIG8cTQ3Ill9HU1V7FOjmFSNP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entoto St. Maryam Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjX93bqH_vzCsF0jB8os_CJc98b67GTaZ8n5nI=w148-h148-n-k-no"
+            }
+        ],
+        "Arba Minch": [
+            {
+                "title": "See Us Arba Minch Tour Guide Association",
+                "category": "Corporate office",
+                "url": "http://www.seeusarbaminch.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlpwExjpjs5KEDKuLtmN3B7ZVyaX9DQ7ADv-k_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eco Tours By Local",
+                "category": "Tour operator",
+                "url": "https://ecotoursbylocal.business.site/?utm_source=gmb&utm_medium=referral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnVtaJSqe1Lnlqoh1DM_fTyzYmypdiB4p0OLWv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gamo Travel",
+                "category": "Travel Agent",
+                "url": "http://gamotravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfstjQ7X3W7QPBS2rRqvrDzNog2IPsOKAngQ5N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tibebu Ethiopia Tour",
+                "category": "Tour operator",
+                "url": "https://tibebuethiopiatour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxaffkKHIV2j2dTl_uqdn4s3BlP_TkY7idPQaM=w148-h148-n-k-no"
+            },
+            {
+                "title": "View Ethiopia Tour",
+                "category": "Tour operator",
+                "url": "http://www.viewethiopiatour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgR1pn3qiHbLZrZTVjiUTUfRHzWA5YV1T13I06=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omo Valley Adventure Tours",
+                "category": "Tours",
+                "url": "http://www.omovalleyadventuretours.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8oD4x4l6Vn5e3ZFF7XzAEJovR-3YmajEJtnLG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bermuda trekking tours",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBeA43jhpODmLAIcLEVTt3nGCqeUGSZw6O2rTF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Binu Ethiopia Tours",
+                "category": "Tours",
+                "url": "http://www.binuethiopiatour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMq62pSPQAEwYbrPRttO5bpGax_-v9a_01qWrHo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dorze Village",
+                "category": "Tourist Information Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_p-cpRLkVXmf0Go092XLgQioxOFr5pSHIQqn_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethiopia Culture Tours",
+                "category": "Tour operator",
+                "url": "http://www.ethiopiaculturetours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtlNd5GgGTYd9N_lR8wn9SBy_trHmYf1u9MRFH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Medihane Alem Ethiopian Orthodox Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsOJjcEdC1U4bVVwjMcYX3ZPnlNKRLCLgvzmwu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arba Minch crocodile ranch",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoUom5wMFMWyrng4hgq_y67A5-vwHfbDWHOAFm=w148-h148-n-k-no"
+            },
+            {
+                "title": "TARIK RIFT VALLEY TOUR",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVfqqdSN7Pbzw6lwU7cT2froHFdfgdy15HV0Br=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haile Ethiopia tours",
+                "category": "Travel Agent",
+                "url": "http://haileethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBYZj5muIvEaseZ1d0K9hOI0viSaXXlI8K20dg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omo River Tours",
+                "category": "Tours",
+                "url": "https://www.omorivertours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_CjfprxUyH2UYIa9mqmVt5peQZ9ldBjLT1IXs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nech Sar National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmdWn93stxaTxmGx2KtCm7b16Rewno1JSsfap6=w148-h148-n-k-no"
+            }
+        ],
+        "Dessie": [],
+        "Bishoftu": [],
+        "Dire Dawa": [],
+        "‘Alemaya": [],
+        "Dembī Dolo": [],
+        "Hosa’ina": [
+            {
+                "title": "Dagi's Spa- Professional Massage & Morrocan Bath",
+                "category": "Spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMX7R9CQ0jJWJMDQbr_iw-_6e9H0on3vY9z6lu2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gofer Meda",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4Sgd9MnX5WGLmhc2PGW4Dw_hyPhLFFUurHqWf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoma Museum Mekanisa",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuc9lfeipQbFepwa6h6sKx6lW5own2kmcyl9Sk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entoto St. Maryam Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjX93bqH_vzCsF0jB8os_CJc98b67GTaZ8n5nI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Labella Addis Massage",
+                "category": "Massage spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8jtQY6lOpg5CCxPdMDksM_HN7yyQcrMj4H6g1=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Ethiopia Tours",
+                "category": "Tours",
+                "url": "http://www.newethiopiantours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnMMbfsPUXj6Hlp_Oie-3n61kQa35DDspUSBc6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adimasu Travel and Tours",
+                "category": "Corporate office",
+                "url": "http://www.adimasutravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeO3GybxzoGkrX-DRvQstMtp1ZZQF37vHv4jEV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qine Store",
+                "category": "Souvenir Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbX9SZ6HcA_PVQ_Zw9OXKJLsnK3nWbsLzgjey2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dorze Village",
+                "category": "Tourist Information Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_p-cpRLkVXmf0Go092XLgQioxOFr5pSHIQqn_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Sapphire Tours",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9FbkpyyB_HzSYgM3FEnythG8NrfwK_c4Mf3xc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yirga Alem",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdVTJ1vxNAgq_cgRTYcFOvlMRutOz_puxGfr2L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Derg Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVColhPaUACtmcO66o7A8JNWADjpKrEinYPEh-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roll-X Lounge",
+                "category": "Nightclub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOV11opMYzW-6NADJTAD4urAMjPmd6WUJVk6yrn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salem's Ethiopia",
+                "category": "Handicraft",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpFDCdwPowU6ir5sMEFg27U3T6zyDXBA4Bvxfp=w148-h148-n-k-no"
+            },
+            {
+                "title": "SABEGN Crafted in Ethiopia",
+                "category": "Leather Products Manufacturer",
+                "url": "http://www.sabegn.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6BQIZ-ALpdKxJEWM8zw1Fh2v19oJtjs6m7JYo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            }
+        ],
+        "Jijiga": [
+            {
+                "title": "JigJiga Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqqIgpimSO3fALy_u47vtjMD5bXFn88Jh9AHNW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Salaam ( MARKISKA)",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFqS7XdoO3YcpyQLSN3R2Xiv1ZBqfzx65AIFBe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kidane Mehret (Covenant of Mercy) Orthodox Church",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1cVGACHnX2A9cofKsdu69VcvvmijAv4Ct9zBy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jijiga Mosque مسجد",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpJhPIO44n-IelqKjclpvXBmnmleVd8M4Tks5K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Imam Ahmed مسجد",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOx_5eI40ju3GO3Yg6Htp8iYuJQLIPIxuNkqJ8s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mustafe Mohamed",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-G27C6J0EihhS5oqhaBjsA8B0F5RI1mLtzK4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Furqaan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPi37WbLL785PsiY5ebVUcuNwJxX2WCCTVyLRdu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jigjiga university landscape fountain",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbHScrYx7fo_jU7FNXQTNwGrZ1h0T0thiO96C_=w148-h148-n-k-no"
+            }
+        ],
+        "Ziway": [
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpiQ37cK0ZSsKNQk3zfGUCqUf2baCiLcntXY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnological Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNE79CPo1UbzzuIYuaQ5z08F4pF2nJPjK3MBcfh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Langano Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8lL1ZicQXxiZS1Wkh1Z3iQm-ja-i63jN1nTEb=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ethiopia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjEkqaszy6pWsIxREYckuVZJeQAg87a3KhvhQ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amazing Ethiopia Tours",
+                "category": "Tour operator",
+                "url": "https://www.amazingethiopia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5RIVzJK1bGVmHgzI1XCKp5JX2fjKWHp5UCNE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Addis Ababa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtg1hJvvxWl7cYhN0FRaWezLaf08EqGcIvyseT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Terror Martyrs' Memorial Museum የቀይ ሽብር መታሰቢያ ሙዚየም",
+                "category": "Museum",
+                "url": "http://rtmmm.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa5ZR4o4XBG4CjbRgyHtl3SYw1pPmLSWDI7l_p=w148-h148-n-k-no"
+            }
+        ],
+        "Ādīgrat": [
+            {
+                "title": "Lake Karum",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbvyFIItrr7Sahj8mtuD1Y1Q1noFp8yOWaTt89=w148-h148-n-k-no"
+            },
+            {
+                "title": "ቤተክርስትያን ጨርቆስ ዉቅሮ/ Wukro Cherkos church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl1HFpgGF_H06Rqqlcptmcu5h5NGFdOa42ko_G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dungur Palace (Queen of Sheba Palace)",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRMjtmima9iIB60R7XhPz3d1kiPaE-obKlSjsK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Queen of Sheba's Bath",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf5PSY0t8T8vHgH0uEVwri6wEwMp1KR_H6dN0B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nahiso Terara",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIvIP3TtCiM0Wdn3Bj1vcWQb3zELAVJmxMkn7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mekele",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3iBrPc32NHSIjSCLGjLYOcs_lpy0Re0tgrv__=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shum Agame Sebhat Subagadis Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwJTtoySZ_G1Qe_PIxBYM4yYA1dz144AlCJw1I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aksum",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzWIUcyrhxeLkcxS9iZ291milCqJRF57WzE_Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Axum Tsion St. Mary",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFySNKMpvbd52fAonBu7i8jkOCyEKHMidy6am9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of the Holy Saviour, Adigrat",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtVtts_gRJyiquydUhupAZcoOK0d_cy8i3Wu0N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abuna Yemata",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIfXm6QuP9eJZKIlEtFhWxjF2BQGw2CaFlny1X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ezana Stone",
+                "category": "Historical landmark",
+                "url": "http://www.sycamoreethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBEqOmH36rig0FxldDB2NuA7KBWvwvtmVH0F9t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Damo",
+                "category": "Mountain peak",
+                "url": "http://www.tourismethiopia.gov.et/English/Attractions/Pages/AxumDebreDamo.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDCzKp25_6lSLIqciiP2WnCbq66hYyq-n7TCuE=w148-h148-n-k-no"
+            }
+        ],
+        "Arsi Negele": [
+            {
+                "title": "Bale Mountains National Park",
+                "category": "National park",
+                "url": "http://www.balemountainsecotrekking.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1H3wP4DblGocWKDLLCs_fSb-TX1RVa3vIW-j2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suba Menagesha park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFBRq_M9wbzJkz33ibmzOKKAy5oNwg-PKfgG3h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnological Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNE79CPo1UbzzuIYuaQ5z08F4pF2nJPjK3MBcfh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adadi Maryam (Rock-Hewn)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxWqPTe-3cICzMItCx0Kev8ob5Gn1xztXVm2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unity Park",
+                "category": "City park",
+                "url": "https://www.unitypark.et/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZVBpiwsqgV-agD-x5s2AY2BfvcYJ9Z452ygI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Medhanealem Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk06-rUoD6L-t6Mm5BepL4GMME-msS1PXHosnW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpiQ37cK0ZSsKNQk3zfGUCqUf2baCiLcntXY=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. George Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx4MXLQDm7EJ60qmJH-XpobVsMpceIfpATUcSs=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ethiopia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjEkqaszy6pWsIxREYckuVZJeQAg87a3KhvhQ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Terror Martyrs' Memorial Museum የቀይ ሽብር መታሰቢያ ሙዚየም",
+                "category": "Museum",
+                "url": "http://rtmmm.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa5ZR4o4XBG4CjbRgyHtl3SYw1pPmLSWDI7l_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Entoto",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND_LfYZlJj6_RlzH2xPuK2HCdE4aJNKHC0Zup2=w148-h148-n-k-no"
+            }
+        ],
+        "Sodo": [
+            {
+                "title": "Living Computers: Museum + Labs",
+                "category": "Museum",
+                "url": "http://www.livingcomputers.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVX1JQJtS2irkBFOHHyM51Ct31TGZONgBXHjDZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Pop Culture",
+                "category": "Art museum",
+                "url": "https://www.mopop.org/",
+                "img": "https://lh6.googleusercontent.com/proxy/moB3SpVIQTA7XbNnk1qo48s_iY2j9fr4gpO3qxzZiWVDdO9GR0dl_T6xGCncvEpcpLCxtwjrUjwIYOQ1x93TMYRBAXnYFuLaWSAyNSkMKlBv-OjxYA-p5JlNlE1emZdpNpRMcuj9tLjmZp40sH8uqywAxlfIgKE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Filson",
+                "category": "Clothing Shop",
+                "url": "https://www.filson.com/store-locator/seattle-store.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFvGhT7FySQ0kwOObYVjIwV7RWnLmkvwrVR13G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pike Place Market",
+                "category": "Market",
+                "url": "https://www.pikeplacemarket.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2Brcvs1KawSQYskkbG6x8p64FpMGzANvjI8zx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kerry Park",
+                "category": "City park",
+                "url": "http://www.seattle.gov/parks/find/parks/kerry-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML4k-bVwsUL8Dlw-ulRWIuiy2NnjJ7GdjSD8yB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Occidental Square",
+                "category": "Park and Garden",
+                "url": "http://www.seattle.gov/parks/find/parks/occidental-square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4N_cFDk2JiFLONk9FipXxPQRr-lCBtJa5GHmV=w148-h148-n-k-no"
+            },
+            {
+                "title": "The 5th Avenue Theatre",
+                "category": "Performing arts theatre",
+                "url": "http://www.5thavenue.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4aCSdcy7N7rir5KbCbuXFj-aiMt47zbOYwODa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seattle Aquarium",
+                "category": "Aquarium",
+                "url": "https://www.seattleaquarium.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNG1qUGzh6MKnvGZNWtURH_ZHM7CqL7ydU6RlSB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chihuly Garden and Glass",
+                "category": "Art museum",
+                "url": "https://www.chihulygardenandglass.com/",
+                "img": "https://lh3.googleusercontent.com/proxy/QpeXaehkC8U2bw4F1ild15WXWpnNdq3SBwZAzAmek3vkOOx_NM4dwXUgfw5MGlFUnsO9PnUe9fEdhQPuQb7Yg8rlXLbuQy1kb-HX-kSzBYSmM0Ebg35GtV_pBUBSuMEoVaOBTRdbWZfhYmcKzDRnyVstSf6s4w=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Museum of Flight",
+                "category": "Museum",
+                "url": "https://www.museumofflight.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMS7GjEYKuhYYGpwjvv2G_oLagQT9vkDrNp5eAh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eat Seattle Tours",
+                "category": "Tour operator",
+                "url": "http://eatseattletours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3V72vtFq-RRtXRjDj69NN2VUyu6JdHfmQNELE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hing Hay Park",
+                "category": "City park",
+                "url": "http://www.seattle.gov/parks/find/parks/hing-hay-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_wkgZzOPzK1hkb5KpMnPffaY3aOacb9WwIxUb=w148-h148-n-k-no"
+            },
+            {
+                "title": "International Fountain",
+                "category": "Tourist attraction",
+                "url": "https://www.seattlecenter.com/explore/attractions/international-fountain",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2gqkEvyeDXEwIAZD9ZWStDK8WNltJIRTjbQM6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flatstick Pub - Pioneer Square",
+                "category": "Pub",
+                "url": "https://flatstickpub.com/pioneer-square/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOptPPukD_sL6lS3PCLqU3z8CEEAT3Ez-Yqbeas=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beneath the Streets",
+                "category": "Tourist attraction",
+                "url": "http://www.beneath-the-streets.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXYpa72gbiKIt1zsnphf7PvKPBWKv5br3b8LEL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Olympic Sculpture Park",
+                "category": "Park and Garden",
+                "url": "https://www.seattleartmuseum.org/visit/olympic-sculpture-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVBP7xJc-Zc7fQ_3RXgro9j_1-6EWAT8cehiT1=w148-h148-n-k-no"
+            }
+        ],
+        "Metu": [],
+        "Negēlē": [],
+        "Harar": [
+            {
+                "title": "Medhane'alem Church | መድኃኒዓለም ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONpS1cYXSTQHnbghbPFhLUR83Gco-y4vwk0EXG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Jami Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPr-kB8BRuYi_0g01mGEj4paFIvpxnW4W7ui8zl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Harari National Cultural Centre",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFXgabiAhvw-e_CE6pCzL0_v1sghAwnwPGLiWp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bedri Gate",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNn9TsSLsL_vpO3rSqiOEGNSMAgI9B_NFDkr8Gy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Duke Gate",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEUCJSEafuZnb6kaog7c4EdBmVZpjD-Vd-kOKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sherif Private Musuem",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMW-V8tLaH_89laX3BrQseNLyHv_p_ga0PGM35w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Harar Imam Ahmed Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTnmtXhmuYmjQUa3ST-tTLi6xmFw9jwa6hTSJN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rimbaud's House & Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMptmXufeKm3FX9iNnpo5i0FMMl8MSw3XuyC_iH=w148-h148-n-k-no"
+            }
+        ],
+        "Finote Selam": [],
+        "Āreka": [],
+        "Wik’ro": [
+            {
+                "title": "Simien Mountains",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5C0159oD5xxRZDizDzEUDUUI_AVA-har1NjFE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ezana Stone",
+                "category": "Historical landmark",
+                "url": "http://www.sycamoreethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBEqOmH36rig0FxldDB2NuA7KBWvwvtmVH0F9t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Damo",
+                "category": "Mountain peak",
+                "url": "http://www.tourismethiopia.gov.et/English/Attractions/Pages/AxumDebreDamo.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDCzKp25_6lSLIqciiP2WnCbq66hYyq-n7TCuE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Axum Tsion St. Mary",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFySNKMpvbd52fAonBu7i8jkOCyEKHMidy6am9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aksum",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzWIUcyrhxeLkcxS9iZ291milCqJRF57WzE_Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simien Mountains National Park",
+                "category": "National park",
+                "url": "https://www.simienmountainsnationalpark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOHbu8O4QLx-H0-_rY9ETgG0cRHlS71obs75ON=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nahiso Terara",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIvIP3TtCiM0Wdn3Bj1vcWQb3zELAVJmxMkn7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yemrehana Krestos Church | ይምርሃነ ክርስቶስ ቤተክርስቲያን",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt-ccOKpOuntP_FM8Y7FaMtJvzSa5li4dLcS-g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abuna Yemata",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIfXm6QuP9eJZKIlEtFhWxjF2BQGw2CaFlny1X=w148-h148-n-k-no"
+            }
+        ],
+        "Addis Ababa": [
+            {
+                "title": "National Museum of Ethiopia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjEkqaszy6pWsIxREYckuVZJeQAg87a3KhvhQ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnological Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNE79CPo1UbzzuIYuaQ5z08F4pF2nJPjK3MBcfh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unity Park",
+                "category": "City park",
+                "url": "https://www.unitypark.et/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZVBpiwsqgV-agD-x5s2AY2BfvcYJ9Z452ygI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpiQ37cK0ZSsKNQk3zfGUCqUf2baCiLcntXY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fendika Culture Center",
+                "category": "Entertainment",
+                "url": "https://fendika.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONRCUEzik5x5NvMyfIuFTMmy1iNS61QPuevDOV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Medhanealem Cathedral",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk06-rUoD6L-t6Mm5BepL4GMME-msS1PXHosnW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Terror Martyrs' Memorial Museum የቀይ ሽብር መታሰቢያ ሙዚየም",
+                "category": "Museum",
+                "url": "http://rtmmm.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa5ZR4o4XBG4CjbRgyHtl3SYw1pPmLSWDI7l_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. George Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx4MXLQDm7EJ60qmJH-XpobVsMpceIfpATUcSs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Merkato",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxW3PjGVnrTpZFrJIdWIX1OAgvrEkVLVb0NH-y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoma Museum Mekanisa",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuc9lfeipQbFepwa6h6sKx6lW5own2kmcyl9Sk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shola Market | Megenagna",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxKbvSsMs-Gc_khtTkay4c-_J4dzzyeYYGcIzS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yekatit 12 Monument ( የካቲት 12 መታሰብያ ሐውልት )",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcJxlr7KlG6DsXeQcb_OlgTx0Pf3BoAQBztPGH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Entoto",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND_LfYZlJj6_RlzH2xPuK2HCdE4aJNKHC0Zup2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meskel Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-lAeo11OXETrR7-GoJSWoOyw7Qw-1U6PiKpGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Debre Libanos",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIbK3JrpE-KQ44a0y5cRILOF3AxIfrzIWOWrY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lion of Judah Statue",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWN-yjuTsx5phsFlEbJFQbzranGP7xEyvAVYxi=w148-h148-n-k-no"
+            }
+        ],
+        "Jimma": [
+            {
+                "title": "Jimma Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvTjctzmZKiK8N6CwVbINQsnmnsSoPFQbZ3mMd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Awetu Park - አዌቱ ፓርክ",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZFMy3nUwg2EvJ-w4H-d_86vqf97YGxhxvWsel=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jimma Aba Jifar F.C.",
+                "category": "Football club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2yaiZhySh-Iq-HyPYUtSpKjzmKd7aqajEKEX7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jimma Hamere Noah Kidist Kidane Mihiret Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1dhoJiLQWiqKB4yagV2WKeHPTQiGKVAxXX3QF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masaraa Abbaa Jifaar",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8nMFGXULvWNbIK9IC8UrQxKkhFuJtS9KpePDn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chebera-Churchura National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFaXKC5swB9CfFH8y_poMOKE2-YXDmkdGv-Oc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coffee Pot Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS9-ZMxA0BHLFCiFSnftQH8aVQspsNH6efXzx2=w148-h148-n-k-no"
+            }
+        ],
+        "Mek'ele": [
+            {
+                "title": "World Sun Ethiopia Travel & Tours",
+                "category": "Tours",
+                "url": "http://worldsunethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOj03AN7Jqi7VR9V2Yx9KalyFRUahsDyK-N35HA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethio Cycling Holidays PLC",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfvsv-m6gj0qpTUalmQ1f1Gw5IENFiZNiVgAVr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rock Ethiopia Tours",
+                "category": "Travel Agent",
+                "url": "http://www.rockethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxI9_-FbrUXcvGGg_AqkLO87xWNVb3svoNbgCn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Ethiopian Tours",
+                "category": "Tour operator",
+                "url": "https://www.greatethiopiantours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN-_FtV1t_ZqdwZVlh7J0EkHjQnuqVVw7VPORE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magma Flow Tours",
+                "category": "Tour operator",
+                "url": "http://www.magmaflowtoursethiopia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQCC8nsKhcsx7nvR0fUbV9682jT5tSXF3ORspA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethio Danakil Tours",
+                "category": "Tours",
+                "url": "http://www.ethiodanakiltours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8zBvKi0hd9QaSIED4Zs4JoKnF9NsVHTSXq7xy=w148-h148-n-k-no"
+            },
+            {
+                "title": "lucy ethiopia tours",
+                "category": "Tour operator",
+                "url": "http://lucyethiopiatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7yUaWS4nYV1SVzSNPOMPITt6uUeT2bLAuFB9N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gheralta Trekking Tours",
+                "category": "Travel Agent",
+                "url": "https://www.gheraltatrekking.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuLpDpKSg-8MRsJrn2IFxaAwf5BMCz8wqozdPo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heavenland Tigrai Tours and Travel",
+                "category": "Tours",
+                "url": "http://www.tigrayheavenlandtours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTW59pJo4adBzBEiI5NBa2mtons3rxKad88C2u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afar",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJP5uQZsQSRfFO90JWFjgHWQxj8P9Zyw_YnJIk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palazzo dell'imperatore Giovanni IV",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfzDWeSh-r_N1WR-OebvChZtnt7qe99RX-9Lsk=w148-h148-n-k-no"
+            },
+            {
+                "title": "ቤተክርስትያን ጨርቆስ ዉቅሮ/ Wukro Cherkos church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl1HFpgGF_H06Rqqlcptmcu5h5NGFdOa42ko_G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nahiso Terara",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIvIP3TtCiM0Wdn3Bj1vcWQb3zELAVJmxMkn7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Karum",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbvyFIItrr7Sahj8mtuD1Y1Q1noFp8yOWaTt89=w148-h148-n-k-no"
+            }
+        ],
+        "Felege Neway": [],
+        "Goba": [
+            {
+                "title": "Hotel Slipway",
+                "category": "Hotel",
+                "url": "http://hotelslipway.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMI2TWoCCa9Sr0GAWfzvaZlwqJip-vgARL-IlvG=w148-h148-n-k-no"
+            },
+            {
+                "title": "MWENGE WOODCAVERS MARKET",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ0tP9rxdlNn6NdBKfAnRur1ggBcXmoCLuOmCF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Azam Marine Kilimanjaro Fast Ferries",
+                "category": "Cruise line company",
+                "url": "http://www.azammarine.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf9R73a61YJ6_tv1ugYCf7QjVwFJ_Y988kqPAt=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum and House of Culture",
+                "category": "National museum",
+                "url": "https://www.nmt.go.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPs9-rIVqSiSJCiio_HcQycNiXpHv96XJwIo7n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crafty Dee’s Brewpub and Beer Garden",
+                "category": "Microbrewery",
+                "url": "https://www.dees.co.tz/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9367811273747618244",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSjZvzcoI_NL8WxsE_Lm5nV0zhh2yDCf0qxgfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bongoyo Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrWiGrfsTcRUlna_yhLx2UK1HeM7fkl0MVS9mn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mbudya Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS-TGvyGgc2zBks64P7bxTZL3OmKNPj1A4FKeW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kariakoo Market",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPklnSKIWjgzW5fqmRjMtnQW1mMOCrWdzct3j_C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunduchi Wet \"N\" Wild Water Park",
+                "category": "Water park",
+                "url": "http://www.wetnwild.co.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLebe41mI2aEFeU2EyWJkqX5AI5JLBFC_QB9cC=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "National Museum of Ethiopia",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMjEkqaszy6pWsIxREYckuVZJeQAg87a3KhvhQ7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Simien Mountains National Park",
+            "category": "National park",
+            "url": "https://www.simienmountainsnationalpark.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOOHbu8O4QLx-H0-_rY9ETgG0cRHlS71obs75ON=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fasil Ghebbi",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNLqvQs4aY3mm6suFQjuqdjYsRZahxHWk_bXhrP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bale Mountains National Park",
+            "category": "National park",
+            "url": "http://www.balemountainsecotrekking.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN1H3wP4DblGocWKDLLCs_fSb-TX1RVa3vIW-j2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rock-Hewn Churches, Lalibela",
+            "category": "Heritage museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNrLZDW_Q8w9B_FYR1tXG-dVYuZMMWGrOfQ3WVH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lalibela",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNScAb1LYnVg8CJyne5EFz8GPd5-MEnlSiJDbKL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ethnological Museum",
+            "category": "Heritage museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNE79CPo1UbzzuIYuaQ5z08F4pF2nJPjK3MBcfh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Abuna Yemata",
+            "category": "Place of worship",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMIfXm6QuP9eJZKIlEtFhWxjF2BQGw2CaFlny1X=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bale Mountains",
+            "category": "Mountain range",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNkDdt80v2UOMP5q93iUBOibM7nhhkPhq4tJsul=w148-h148-n-k-no"
+        },
+        {
+            "title": "ኣኽሱም ሓውልት | ሓወልቲ ኣኽሱም ቑፅሪ-1 | Akhsum Obelisk No-1",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMYygwGY_gipDQPJv8qQjVNLinRyHnIMc0wuUpr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gondar",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOqTk5P2UrX_3KdtHRGlSwMe0GtVgGfI_Ip5Lt2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Red Terror Martyrs' Memorial Museum የቀይ ሽብር መታሰቢያ ሙዚየም",
+            "category": "Museum",
+            "url": "http://rtmmm.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNa5ZR4o4XBG4CjbRgyHtl3SYw1pPmLSWDI7l_p=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nahiso Terara",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOIvIP3TtCiM0Wdn3Bj1vcWQb3zELAVJmxMkn7l=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Entoto",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipND_LfYZlJj6_RlzH2xPuK2HCdE4aJNKHC0Zup2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Simien Mountains",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN5C0159oD5xxRZDizDzEUDUUI_AVA-har1NjFE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Zoma Museum Mekanisa",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMuc9lfeipQbFepwa6h6sKx6lW5own2kmcyl9Sk=w148-h148-n-k-no"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "cities": {
+        "Bata": [
+            {
+                "title": "St. James and Our Lady of the Pillar Cathedral, Bata",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLBQBwwf7_kYjhtr67zuxlL9vOeXIXGH7_Ftq3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corisco",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtLx5oTNNSrFXnLS4hcsful96gc8ZQtIEc-nhI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional del Monte Alén",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMu32NlhDIdJ2z_GdzUxCSsRJE6zmg1H5A0cL9J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elobey Grande",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNG16LxIkGioG18b2yfsf4cFduXjsn-BwP-bP0p=w148-h148-n-k-no"
+            }
+        ],
+        "Malabo": [
+            {
+                "title": "Rumbo Malabo",
+                "category": "Travel Agent",
+                "url": "http://www.rumbomalabo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ3q4wgvbpczl-AtXnSixsPbfupKNFmuDYWOJJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "España Cultural",
+                "category": "Cultural centre",
+                "url": "http://ccemalabo.es/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9Nvw8_yrKeOziBVU8CKGvczsstQyYnHh9RpI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hookah Paradise",
+                "category": "Cocktail bar",
+                "url": "https://carta.hookahparadisege.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmhcjs2aCYaKW-CvHOOjSJVQIeRF0vQJiBMy-H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finca Sampaka",
+                "category": "Corporate office",
+                "url": "http://www.fincasampaka.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDLweivpSfQeWtC7hpzTEUwesX1AMxVC2nKIHT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malabo Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMX7vtpzU52t5Pa6BeC2lr8Udc9wk3qSPq3OzQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Elizabeth’s Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNokDnHk5QKB1QUEUt312cSeaN4pa8kJ3Vzg9rQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moka",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLz2pbooe4-aaYyn1KK7drnuMtJLNYo9XrDQb4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pico Basilé",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcQ1iP6O6aX0NHlKaJSeaSCfUKmzrQ4myLrjyP=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Rumbo Malabo",
+            "category": "Travel Agent",
+            "url": "http://www.rumbomalabo.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOZ3q4wgvbpczl-AtXnSixsPbfupKNFmuDYWOJJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Finca Sampaka",
+            "category": "Corporate office",
+            "url": "http://www.fincasampaka.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNDLweivpSfQeWtC7hpzTEUwesX1AMxVC2nKIHT=w148-h148-n-k-no"
+        },
+        {
+            "title": "España Cultural",
+            "category": "Cultural centre",
+            "url": "http://ccemalabo.es/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP9Nvw8_yrKeOziBVU8CKGvczsstQyYnHh9RpI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Annobón",
+            "category": "Administrative Area1",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNXGG7TCa9GM_yqkw27LqnrJSanBIwTw5Zba1Ax=w148-h148-n-k-no"
+        },
+        {
+            "title": "Malabo",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNh5zHSscOVQTCYrXNXHGMhbMZ5odyO-rotEAKb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ciudad de la Paz",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMCZbyh6GpdkneY5W0QqXxyyGCxMdUJ81QO5SmJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Luba",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPXJ_MRqlDy2jrgVEUnSEyTGH1edDfxu2m6QG3e=w148-h148-n-k-no"
+        },
+        {
+            "title": "Malabo Stadium",
+            "category": "Stadium",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMMX7vtpzU52t5Pa6BeC2lr8Udc9wk3qSPq3OzQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Moka",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMLz2pbooe4-aaYyn1KK7drnuMtJLNYo9XrDQb4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mbini",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO_se3BNowysmqGz8N9VcD8nJV2eS9GV0HdHlbQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. Elizabeth’s Cathedral",
+            "category": "Catholic cathedral",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNokDnHk5QKB1QUEUt312cSeaN4pa8kJ3Vzg9rQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Elobey Grande",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNG16LxIkGioG18b2yfsf4cFduXjsn-BwP-bP0p=w148-h148-n-k-no"
+        },
+        {
+            "title": "San Antonio de Ureca",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPdtyAv9l8z4DTXx8WTvemGQgemlVYWYLrx3G6t=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hookah Paradise",
+            "category": "Cocktail bar",
+            "url": "https://carta.hookahparadisege.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPmhcjs2aCYaKW-CvHOOjSJVQIeRF0vQJiBMy-H=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. James and Our Lady of the Pillar Cathedral, Bata",
+            "category": "Compound grounds",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMLBQBwwf7_kYjhtr67zuxlL9vOeXIXGH7_Ftq3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Corisco",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOtLx5oTNNSrFXnLS4hcsful96gc8ZQtIEc-nhI=w148-h148-n-k-no"
+        }
+    ]
+}

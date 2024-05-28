@@ -1,0 +1,350 @@
+{
+    "cities": {
+        "Karakol": [
+            {
+                "title": "Dungan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1yDXhRw5-3-eb3QpmfJpewS7J5cRmfgXnkCjb=w148-h148-n-k-no"
+            },
+            {
+                "title": "\"Karakol\" Ski Base",
+                "category": "Ski resort",
+                "url": "http://www.karakol-ski.kg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMS2DmI4GheyGPzhmYLAwPIHHdeljsOn4lwA4Tw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Visit Karakol",
+                "category": "Travel Agent",
+                "url": "http://visitkarakol.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwDpdJhQ0dyHGylx0lPWC2afUn-z018ZjMweM5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Altyn-Arashan",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOsFDL4DcIubhPpdJXVglcrd66O0SzPpZwr1JO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Issyk Kul",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVWv0rNVAVk90swgEgnxiNVCCXqtUXPSuf3kOM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ala-Kul Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU3EH7GpZJU4_dvOxbiOYDnnx-6MJRfOHKPsa_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ala-Kul",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeMNv7sGN5ofVF6KHrQjVdh7WJkRkQOMA-T6-w=w148-h148-n-k-no"
+            }
+        ],
+        "Jalal-Abad": [
+            {
+                "title": "Sary-Chelek",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbwz6UeL-CLK9e09YRwBWUkNPK1BRTtfhxSjTk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tash Rabat",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMozYoPT46xZUmlLtGf4Uysf_fvcfPIc08BDRTD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osh",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMw099A3qEgzt7YbTS6xa0OLepGBt0dqFRndR3s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arslanbob",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEAqu6aM6NyQDX_D1vy6NPrTfxwe3k0TUUPuFt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sary-Chelek Nature Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhUXLx0d7axAuH4UrVzT7w2giKUO3K9Robz8fG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saimaluu Tash",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4swWcja--cKffPrCXiIUxQixifqK78SufziLC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kara-Suu Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOViqNBypQzb47m2amuyeBNq7s8ofw1zs56h8-R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Toktogul Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZIXQ6k_pZK-ihIYuuNPHViF96UPd0mAZE1wJ9=w148-h148-n-k-no"
+            }
+        ],
+        "Osh": [
+            {
+                "title": "Jayma Bazaar",
+                "category": "Bazar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCPFU97hS_ej0r5Zmm_ATeFbpW4twVDaffsDpO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saimaluu Tash Art Gallery",
+                "category": "Souvenir Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtR9j0I0EShkUoUbFePZxxOpnX1UktCxen1-Qt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ak Buura Tsentr Otdykha",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwJQXsRnQRqOw9y3i6qPngyWH1kdtF4_6iC4SZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Сулайман Тоо",
+                "category": "Ridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCX4xfixTOzdVCqnz9pQ3aLiPpurj1Wo7Ab8on=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alai Valley",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjnyqW-hdVKkGK6RQx34LQw4N2w_cEVN4YoCFf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alai Range",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_WM96soHuByWSxv0MfAZ2HsDJ_24qPAXT3-Jw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Irkeshtam",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK84QoEyBethEaoZQu7RB6gyghx0dl-DNCy4u1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lenin Peak",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNd14AXBRygpxLJIoHc726a9Sq7RFk_iYRFFX4a=w148-h148-n-k-no"
+            }
+        ],
+        "Bishkek": [
+            {
+                "title": "Ala Too Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBFrVRu_Kj3vum46qB66MVcQiyWs55LlMQYT59=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oak Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnk8IygRJtDBMQ0NVF3FXTHz8k0yQJgR5L0g0d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panfilov Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmnYImTh2zD4mHAKtBQuwrZOMrHtNQphn0Q1BJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Square",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcWVohls6k68WXcWx05nf6rAyiGbUrXGUK6RrD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bishkek Park",
+                "category": "Shopping Centre",
+                "url": "http://bishkekpark.kg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxKT16AJWojewqQTtRg6pzDckM1Sy55mMDgXl0=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Fine Arts named after Gapar Aitiev",
+                "category": "Museum",
+                "url": "http://www.artmuseum.kg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWXSCroClyjiGoCVfTaydB0jr-EJkXAaPDNO3H=w148-h148-n-k-no"
+            },
+            {
+                "title": "State History Museum",
+                "category": "History museum",
+                "url": "http://www.historymuseum.kg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFZ1LYxrMj6jbP3nBTbkDxvkFdLO2IpOAYHefs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRmqCXBNIJvHHShG0NPj8zke9J3ZuzI4flEAe7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kara-Jygach Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9jeB808Yflrk1raUaV7O6dUlIDd43t35KedTW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manas Statue",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_u9oNaBu3Mhe_KW8YL_n45i-Kjv5oxOF1UV8=w148-h148-n-k-no"
+            },
+            {
+                "title": "M V Frunze Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUoJvp5HYBSyKKvS8UNV3GuXoIE6H6nJLheqtz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dordoy Bazaar",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNC1cb3m-ZTWgdB2M1xXq0BxdHbB-JVvLlJxqtE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vladimir Lenin Statue",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXh1UzbOZcO9Ji2x0NHSyiukyh0KFHESYCm_fF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ala Archa National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvazA-QMStydQlKAsMgqxFepStaYSG2jX8lRaY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Burana Tower",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVJ3wa0k5H6Z6MqcQYUgSMnIcMcqv9YffMguQJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rukh Ordo",
+                "category": "Cultural centre",
+                "url": "http://www.rukhordo.kg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO79Gm7Hy2Bv6QayfAviFQItu6i7q5f2ii35glX=w148-h148-n-k-no"
+            }
+        ],
+        "Tokmok": [
+            {
+                "title": "Ala Too Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBFrVRu_Kj3vum46qB66MVcQiyWs55LlMQYT59=w148-h148-n-k-no"
+            },
+            {
+                "title": "State History Museum",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFZ1LYxrMj6jbP3nBTbkDxvkFdLO2IpOAYHefs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rukh Ordo",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO79Gm7Hy2Bv6QayfAviFQItu6i7q5f2ii35glX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Burana Tower",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVJ3wa0k5H6Z6MqcQYUgSMnIcMcqv9YffMguQJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fairytale canyon \"Skazka\"",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNR9VoNUWaY1YhJaZ3mosQ8hnMJeyBgxU9JL0lz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bishkek",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV4q2NmMljjwHCIsRzstCe4SSLEtGcrLCXKKsM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osh Bazaar",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDhkFxpw-w1ACs2ZX0r_ni0gEzNC4RcZbx7d6e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Song-Kul",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnZG57UjZLaYYWl_AoofRMtiL96fDkE0_-rhHi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ala Archa National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvazA-QMStydQlKAsMgqxFepStaYSG2jX8lRaY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Issyk Kul",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVWv0rNVAVk90swgEgnxiNVCCXqtUXPSuf3kOM=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Ala Too Square",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPBFrVRu_Kj3vum46qB66MVcQiyWs55LlMQYT59=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ala Archa National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMvazA-QMStydQlKAsMgqxFepStaYSG2jX8lRaY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Burana Tower",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNVJ3wa0k5H6Z6MqcQYUgSMnIcMcqv9YffMguQJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fairytale canyon \"Skazka\"",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNR9VoNUWaY1YhJaZ3mosQ8hnMJeyBgxU9JL0lz=w148-h148-n-k-no"
+        },
+        {
+            "title": "State History Museum",
+            "category": "History museum",
+            "url": "http://www.historymuseum.kg/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNFZ1LYxrMj6jbP3nBTbkDxvkFdLO2IpOAYHefs=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rukh Ordo",
+            "category": "Cultural centre",
+            "url": "http://www.rukhordo.kg/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO79Gm7Hy2Bv6QayfAviFQItu6i7q5f2ii35glX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bishkek",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPV4q2NmMljjwHCIsRzstCe4SSLEtGcrLCXKKsM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Oak Park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPnk8IygRJtDBMQ0NVF3FXTHz8k0yQJgR5L0g0d=w148-h148-n-k-no"
+        },
+        {
+            "title": "Altyn-Arashan",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMOsFDL4DcIubhPpdJXVglcrd66O0SzPpZwr1JO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Osh",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMw099A3qEgzt7YbTS6xa0OLepGBt0dqFRndR3s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Seven Bulls Rock",
+            "category": "Hiking area",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOIr7h3QJuC52J1RegdRvdi1SzvIzW_D_QMsMXB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Karakol",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOIdQ8ChVXlN7g5nT7O1MDIXKTg4oeE03dtKcrX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tash Rabat",
+            "category": "Historical place",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMozYoPT46xZUmlLtGf4Uysf_fvcfPIc08BDRTD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Issyk Kul",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNVWv0rNVAVk90swgEgnxiNVCCXqtUXPSuf3kOM=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Fine Arts named after Gapar Aitiev",
+            "category": "Museum",
+            "url": "http://www.artmuseum.kg/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPWXSCroClyjiGoCVfTaydB0jr-EJkXAaPDNO3H=w148-h148-n-k-no"
+        },
+        {
+            "title": "Arslanbob",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPEAqu6aM6NyQDX_D1vy6NPrTfxwe3k0TUUPuFt=w148-h148-n-k-no"
+        }
+    ]
+}

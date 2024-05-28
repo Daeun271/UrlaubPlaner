@@ -1,0 +1,1135 @@
+{
+    "cities": {
+        "Banská Bystrica": [
+            {
+                "title": "Europa SC",
+                "category": "Shopping Centre",
+                "url": "http://www.europasc.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyAwu_r5pJTZ4-_WsHNUw6kaBn0bM0vIqSZY0R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the Slovak National Uprising",
+                "category": "Museum",
+                "url": "http://www.muzeumsnp.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP37olpSNfQAdkpsPC1EQlNA1H1xyXEx2yjyead=w148-h148-n-k-no"
+            },
+            {
+                "title": "Via Ferraty na Skalke",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6AztRPRUyCHnA_aEJLO0fSW72-Ur42j28CgAR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Banska Bystrica Castle",
+                "category": "Castle",
+                "url": "https://www.visitbanskabystrica.sk/art/mestsky-hrad/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqdRKu3LGU_-9QFwICyxDgCHUfmE3bBJej2y1d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaváreň Štiavničky",
+                "category": "Swimming facility",
+                "url": "https://www.plavarenstiavnicky.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXdm50oaCWEXmQnRYeMy81HpmjUnjZirRHEYUC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ski Králiky",
+                "category": "Ski resort",
+                "url": "http://skikraliky.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO75n_-H1LkA2tyNtVZ4x5gL1a2FeGhVMZGTDH0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ski Skalka",
+                "category": "Ski resort",
+                "url": "https://www.skalkaarena.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2Iqc8j8ffoWuGeNdmZmnMqivfew-3NjKoO91I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stredoslovenské múzeum – Tihányiovský kaštieľ",
+                "category": "Natural history museum",
+                "url": "http://ssmuzeum.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWgj4M8yzaL14BaaNWyORGvZuQwxEkIEED3FLj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Slovak Museum",
+                "category": "Museum",
+                "url": "http://ssmuzeum.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHmLqXVPkoqJchQ2G5KDItu8AJRK2WLUd_hSW4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club Café Family – detská herňa Banská Bystrica",
+                "category": "Children's Amusement Centre",
+                "url": "http://www.detskaherna.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4gugvDZgfzJdSL4xF1zpb7-Ro9OyWIfwx381r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stredoslovenská galéria - Stála expozícia Dominika Skuteckého",
+                "category": "Art gallery",
+                "url": "http://www.ssgbb.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAYlche52DT5BAvLkeiNPBHP7Vv8-zOzW18DMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matej's house",
+                "category": "Museum",
+                "url": "http://ssmuzeum.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnQOElDe0CKNpCA4ZsPnbe56wV3PSFsdbCA_Vk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slovenské múzeum máp",
+                "category": "Museum",
+                "url": "http://www.muzeummap.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBia5_2MyRUoND1f6hN_2Ba7susR2b1cj5_68R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ľupča Castle",
+                "category": "Castle",
+                "url": "http://www.hradlupca.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhI4pJKWShUvPgV6mYAYiE5Au69HCWvwdTbGXB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ski resort Šachtičky",
+                "category": "Ski resort",
+                "url": "http://www.skisachticky.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOROccf9zBpb5iTppEUuUcp8tuVujKeecYhkdxv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Námestie SNP_ Banská Bystrica",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM16EuNiAajuRi2vi4LRpQh29uPHKWKGQ8Etquj=w148-h148-n-k-no"
+            }
+        ],
+        "Poprad": [
+            {
+                "title": "Tatra Gallery",
+                "category": "Art gallery",
+                "url": "http://www.tatragaleria.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMawkPIJv9hVclRnk0lb-JX4_H2hzcwJoVkTVNC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum below the Tatras",
+                "category": "Museum",
+                "url": "https://www.muzeumpp.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwVFXDK7FNF6pq3mZtul__GurpW4UEHZ1GWax0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Poprad Ice Stadium",
+                "category": "Hockey Rink",
+                "url": "https://hkpoprad.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjvNhUhqtBuzqa2OsOAKLC6qGzknRJWVIUEtpk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Max Poprad",
+                "category": "Shopping Centre",
+                "url": "http://www.ocmax.sk/poprad",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOittEUdAvTxA0d2n1CwoZpCu9natnkQw6H6s4W=w148-h148-n-k-no"
+            },
+            {
+                "title": "AquaCity Poprad",
+                "category": "Water park",
+                "url": "http://www.aquacity.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJwpheQZLFveXeoh4zVnzBKqUlYl9sxTxf942T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tatra National Park, Poland",
+                "category": "National park",
+                "url": "https://tpn.pl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXL_Slqd5DczexMme6zdiJBOLAWCxPzLz7UvLb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pieniński Park Narodowy",
+                "category": "National park",
+                "url": "https://www.pieninypn.pl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmZbyrUcnEG-yMYZvEABYNF-z2jr0EvdAPM9eH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spiš Castle",
+                "category": "Castle",
+                "url": "http://www.spisskemuzeum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZQT1nAP4Jmi502qZ07EmJLPPIJSVipOcNMccJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Orava Castle",
+                "category": "Castle",
+                "url": "http://www.oravskemuzeum.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9Yzg-WyrxDySuo3B00SuTgqqml4yPLRqgqDEA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spišská Sobota",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7kA7uJ2dOM0qjqBqBrcNmZt4lCW2qrFn507Sk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventoura Slovakia - Tours and adventures in Slovakia",
+                "category": "Tour operator",
+                "url": "http://www.adventoura.eu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjpTvmfOoSgc2jXFvitzAYsue8-i3RiGMXK3iC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rajec Travel - Slovakia tours",
+                "category": "Tour operator",
+                "url": "http://www.rajectravel.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYMZKUr2_IvZXgOXBGWEOKyEHkhFmJb2t_uaDO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vysoké Tatry — Hory zážitkov • Tatranská Lomnica",
+                "category": "Ski resort",
+                "url": "https://www.vt.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWxVmOAC6l7hw4DoQqM0f2tYUvd-PTGLbDa439=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tatra Mountains Tours",
+                "category": "Tour operator",
+                "url": "https://www.tatramountainstours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOELdxYTyLcXVU0petUvAzlKc6JUQp4wT4h0Kia=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kežmarok Castle",
+                "category": "Castle",
+                "url": "https://www.kezmarok.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrDbkpnDrQ8Iy3RfVOFuW7J6kykGBQCzF_jAjc=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Ľubovňa Castle",
+                "category": "Castle",
+                "url": "http://www.hradlubovna.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9rv9q9PSqvxwdhn6RPLGBbkMWkYgbZ_I7k9oT=w148-h148-n-k-no"
+            }
+        ],
+        "Trenčín": [
+            {
+                "title": "Trenčín Castle",
+                "category": "Castle",
+                "url": "http://www.trencianskyhrad.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5DfA_zQ7pw6FpyCmV-2xl6V_S8BNVyjkj0kuH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laugaricio - shopping center",
+                "category": "Shopping Centre",
+                "url": "http://www.oclaugaricio.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcrpfn3HK_aefzuWfSB97W0KyfreSNZWHDPRkV=w148-h148-n-k-no"
+            },
+            {
+                "title": "The fountain of the vodyanoy Valentín",
+                "category": "Fountain",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjuaZEGc8UPrcHh5lne-CQdc_ihUlfG0u2dCu2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lesopark Brezina",
+                "category": "National forest",
+                "url": "https://visit.trencin.sk/lesopark-brezina-2/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWN3l6FwEtUx4KmWd76F4hLw4jVZf4vM-3BjRN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galéria Miloša Alexandra Bazovského",
+                "category": "Art gallery",
+                "url": "http://www.gmab.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgTu3lRZMLdTif1BInYvzcmr29ugwM_fIUy3Sy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trenčianske múzeum - Katov dom",
+                "category": "Museum",
+                "url": "http://www.muzeumtn.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbsYh0IiTZfZcPUtnRjWe9bYS2pydrczUKoKng=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mierové námestie",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsj_SFGersArVTiGKEbK6KQPZ1uzP1FT-w_jH6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pilgrimage place Skalka at Trencin",
+                "category": "Pilgrimage place",
+                "url": "http://putnickemiestoskalka.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMTqYVzE0xELOqQqmXUHMpUWTxPaUC-qc48Xe3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trenčín Synagogue",
+                "category": "Synagogue",
+                "url": "https://www.kehilatrencin.sk/synagoga",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMIG4zntXIzopK9EfgLK3QyMoEoJ4bxkuqDN0z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kostol Notre Dame (Nepoškvrneného počatia Panny Márie)",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsAVT6DiAtr-6mnN10gUGMzNpdocHFurUHKp65=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trenčín Museum in Trencin",
+                "category": "Museum",
+                "url": "http://www.muzeumtn.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6R2MjiwYzBvlQFb8dr-0p4khpFnaf6Cd1x44E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mierové námestie",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6RK5UpDpVpvX0qDCRdHfhwKdrQr-M1tFgDiR4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Štúrovo námestie",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkYLy4_RGpo5jnwZ456wozXVKoVWvnAQQAQ4lZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mestská veža Trenčín",
+                "category": "Historical landmark",
+                "url": "https://visit.trencin.sk/mestska-veza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmM6RXLEbkdC2VBjSJoNqh11jYbFxIYgodT5NZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cairn of Milan Rastislav Stefanik",
+                "category": "Historical landmark",
+                "url": "http://www.bradlo.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdTmOrzh1w7QIwFrdELQJc6A57MRHl7SxajNfY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matúšova",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgvG_bxRNhzgyRILNwsqBFNuQvKUibW5aNpiHD=w148-h148-n-k-no"
+            }
+        ],
+        "Bratislava": [
+            {
+                "title": "Bratislava Castle",
+                "category": "Castle",
+                "url": "https://www.visitbratislava.com/places/bratislava-castle/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDjJRoyjVwKPlFUrF5wVEdf1SuqKL4N_6OX4HZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hrad Devín",
+                "category": "Castle",
+                "url": "http://www.hraddevin.mmb.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGaN6RoW1Xak7PSXbGZjOoHnUUX3LcbogTxv9l=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Blue Church - Church of St. Elizabeth",
+                "category": "Catholic church",
+                "url": "http://www.modrykostol.fara.sk/info",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQsF2xcs6jFgtiOEtUDa0VMS0eIV9YPLKYsBAG=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Martin's Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://dom.fara.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsl-p7eChiWIlKspDNktkN1gcIx-qXZDof3xSA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slavín",
+                "category": "War memorial",
+                "img": "https://lh6.googleusercontent.com/proxy/gfDBvxWItYLhpZD8uHaP__72WFRzO75e8cx5dCkIUzuYtJTz2F7SvS-66sYwTNspEYMz3WwXOtq-8FLcd0R9OIbo-SxhcT2foUSWy0f4b9vn5kWHJgq_i9xH6R34O7j6yzoUD94G89bSeNCdKXvnaD3Rr4cuyQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Michael's Gate",
+                "category": "Historical landmark",
+                "url": "https://www.visitbratislava.com/sk/miesta/michalska-brana/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdAQFIgkJobYkXcZFjksdMO_EdnMcGa4nCEQaj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eurovea",
+                "category": "Shopping Centre",
+                "url": "https://www.eurovea.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVCsKbKfiqPgbByiAesLGBUTbvmvEwwfdPPJgm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Primacial Palace",
+                "category": "Museum",
+                "url": "https://www.visitbratislava.com/sk/miesta/primacialny-palac/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYdUA6JTeaB0g9WvAO0nPdM1X0Aupqiyu74Bop=w148-h148-n-k-no"
+            },
+            {
+                "title": "Presidential Palace",
+                "category": "Tourist attraction",
+                "url": "https://www.prezident.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2My6Oq0sfXqs3mbKP6RfEfF3YgoRE4zsy65so=w148-h148-n-k-no"
+            },
+            {
+                "title": "Čumil",
+                "category": "Tourist attraction",
+                "url": "https://www.visitbratislava.com/places/rubberneck-cumil/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAY9YzG8DBg1Jdqstkk4Thz1e8pj5e9YkLF4Gv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Town Hall",
+                "category": "Town Hall",
+                "url": "https://muzeumbratislava.sk/",
+                "img": "https://lh6.googleusercontent.com/proxy/oI8k_ufJVqb1BxXz4wPdYkwYRlmQ7qqyssQZZWDroMtV_W9uvUVuZT2HUkzjvtHCszaLXSY0X6WiMQUeqQmVtNG6PHhvQxHAqrVz6O2ITqt269mO_-3yCTS1QVqbQJGud65ayEfipAwdS8ayVHx9_6RDk8Yj0g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Most SNP (UFO Tower)",
+                "category": "Observation deck",
+                "url": "http://www.u-f-o.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNA-XKfVQJAQa5hYor00DLC88tnScdP_bPOpjBP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slovak National Gallery",
+                "category": "Art museum",
+                "url": "https://www.sng.sk/sk",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOf-OZbYSYbqowriHYTQrTejreL0jx2Ki_dNkfH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Danubiana Meulensteen Art Museum",
+                "category": "Art museum",
+                "url": "https://www.danubiana.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnJUlBYwRTsY4_EKHPduqElp6EYfcrXepmsf8v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hviezdoslavovo námestie",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx96H9YnRWnFzP-4clyenEuv-z0kZQ1WuvP81O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bratislava Transport Museum",
+                "category": "Technology museum",
+                "url": "https://stm-ke.sk/en/branches/museum-of-transport-in-bratislava/basic-information",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvMV9VuJdWbYzhuZoCA2vjc9c8jhOqEqxCiMtF=w148-h148-n-k-no"
+            }
+        ],
+        "Prievidza": [
+            {
+                "title": "Hornonitrianske múzeum v Prievidzi",
+                "category": "Museum",
+                "url": "http://www.muzeumpd.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEUM2jAN3Htr6Urw7LSm_8i8rMNSmOwoII0zPG=w148-h148-n-k-no"
+            },
+            {
+                "title": "WAN DEE DEE - Thajské masáže",
+                "category": "Thai massage therapist",
+                "url": "http://www.wandeedee.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS-ShqPjXBQYZEwmAmKRdFcJvXg768S0ljaRTi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Piaristický kostol Najsvätejšej Trojice a nanebovzatia Panny Márie",
+                "category": "Catholic church",
+                "url": "http://www.piaristi.sk/piaristicky-kostol-najsvatejsej-trojice-v-prievidzi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3rtT5czTOkNcTPCLy8EfaRZuC3EB-gv1EaCVB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Winter stadium",
+                "category": "Hockey Rink",
+                "url": "https://www.tsmpd.sk/struktura/sport-a-relax/zimny-stadion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgemGbFjVuYbm7Q5IzqzNxJTosYctt4x9lj_Y1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sport Hall",
+                "category": "Sports complex",
+                "url": "http://www.tsmpd.sk/struktura/sport-a-relax/sportova-hala",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaKHwQmMpePigGpAAeawcf9d_XtmwuRjgIh-3P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lesopark Prievidza",
+                "category": "Park and Garden",
+                "url": "https://www.codnes.sk/miesto/lesopark-prievidza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJLKlB6bb5rqVd3RRAByDXOmdbzL7f1s-QF4cE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle of Spirits (Bojnice Castle)",
+                "category": "Castle",
+                "url": "http://www.bojnicecastle.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3nHLfMxBEySrBNGNoY0MTY0F7T53EjXQN12Xv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lipa kráľa Mateja",
+                "category": "Historical landmark",
+                "url": "https://slovakia.travel/lipa-krala-mateja",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKaOBGy3rT9aF0zUOPHlqAuJoAhszcMGZI48Zl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Danube-Auen National Park",
+                "category": "National park",
+                "url": "https://www.donauauen.at/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCzc6G1fYWfHbXRnbsjTYXtTsZ5_FW9ffWe6Dt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Schloss Halbturn",
+                "category": "Castle",
+                "url": "http://www.schlosshalbturn.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0anJlA7_Olq8GWGMzmNrIwm8x10TISan-SEA4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dorfmuseum Mönchhof",
+                "category": "Museum",
+                "url": "https://www.dorfmuseum.at/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdn1M3Ycbf1p-0XiE1qMHLu9uCm26NanV5TYSw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Railway Museum Strasshof „Das Heizhaus“",
+                "category": "Rail museum",
+                "url": "https://eisenbahnmuseum-heizhaus.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjxPN0gILDSHzjZICc6KirUoScPiIS2uhg8JFu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manínska tiesňava",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMateel8rT3zako8g8s1mEcbPhrtGnLGBvz3E1e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Múzeum Vtedy",
+                "category": "Museum",
+                "url": "http://www.muzeumvtedy.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfI-eznV4VcWffFroRFAOMfKqTk9UwL_KFpSQP=w148-h148-n-k-no"
+            },
+            {
+                "title": "CINEPLEXX PARNDORF",
+                "category": "Cinema",
+                "url": "https://www.cineplexx.at/filme/kinoprogramm/?center=118",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdCWhzK0LechApTNOhIqorR7OLokYxpk5NB2bR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Downtown Aréna Prievidza",
+                "category": "Indoor playground",
+                "url": "http://www.vietcong.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMC87tsk3aPVRQu4o9r8rVhH566MTpGe9JDyist=w148-h148-n-k-no"
+            }
+        ],
+        "Nitra": [
+            {
+                "title": "Nitra Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCfNKSN8AQo-QqzLPymmHxYnOMnhqKsf3nkZLh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of Saint Emeram",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwKu88k0oYtZnm7RHkfD39sISKnuS7PjUeyQoR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mlyny",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_SMitViIjtUwZOw0OLlSt3eQYXOgu7PYK7D6X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slovak Agricultural Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOb6G0_2Kb1JSnKZRwmDdH-vM1mGmt-QFPM20nn=w148-h148-n-k-no"
+            },
+            {
+                "title": "St.Michael archangel Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_rkN5NkAPUkt7NxT31DjazyPtaCVC6q2P2EaG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mestský park",
+                "category": "Bus stop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXcxOE2NAiuqDH6s26HO92b01mj0VZW5eKuS5Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ponitrianske múzeum v Nitre",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyb3s7wrb0WNFf9FiERlAEW6kula6dWI2pwDY8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zobor",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOV9TPQCYa_fE0JY0WgNVyUrFVVNt_shC-2AH_Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diecézne múzeum",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe2PLAfw6Q_3jGi1HbDjShiFB94TBJFwcA6cCH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arborétum Mlyňany SAV",
+                "category": "Arboretum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOA5VH_iUhjLDyxaS4aHxrNW8_aLMATiWj1oh4U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Oponice (Appony)",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR1ADqAGxjkyaW-i9bAj_Oz96B4j9CTK3TlrvB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miniature Park Podolie",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWYxywnndh-OapgMRV3lJ1OqgsXSVkUu8j0NzM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Topoľčany castle",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlbMcI5A6Oo7as_-wtkvcFFr_4mW_1ByQSmR63=w148-h148-n-k-no"
+            },
+            {
+                "title": "Múzeum holokaustu v Seredi",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcRokjQIZo5P8zi0bOS9swwvx8Su9LB-Cx9KWH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Levice castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUyZh3Vs00HLYdr6g29aH1qm4y1IqP5U5aO-2f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ava aquapark Diakovce",
+                "category": "Outdoor bath",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNMgYIdPdDM76N1pffQS73wOmeX-h6YAAJRcfY=w148-h148-n-k-no"
+            }
+        ],
+        "Martin": [
+            {
+                "title": "Slovak National Museum in Martin - Ethnographic Museum",
+                "category": "Museum",
+                "url": "http://www.snm.sk/em",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU0a_qrukcxX7AeTDBR1CeLqJeHMmoMTn1vlIz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slovenské národné múzeum - Múzeum Martina Benku",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBqvHHzaWGuTbNSg8N-jEVOqlmEvcwzrBK8LKy=w148-h148-n-k-no"
+            },
+            {
+                "title": "SPOLOK VÝHREVNE VRÚTKY",
+                "category": "Rail museum",
+                "url": "http://www.vyhrevna-vrutky.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRXICQA-Hy5ONGx65TSmoIyQYyhMIeUyjWL-Yl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slovak National Museum - Museum of Czech culture in Slovakia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnWH1F9nbjl-6GoWo8PJiNudhAXoxdBm2C4So=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slovak National Library - Literary Museum",
+                "category": "Museum",
+                "url": "http://www.snk.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1H15Ostrj0WIH8uqFaNw_VOW49ufXFwaFPUK5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minčol",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6hc9JRevD1P-Q0rc_PdF_k6PekU7dqzHVxllG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krížava",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxL0InlZ_O7LCYZflHu_eRIm_elfhMDZRBlEGs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tatralandia",
+                "category": "Water park",
+                "url": "https://www.tatralandia.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsnDt6afHfXqYg8ZSZ5onUYvkCgO44xwl5wBWG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Castle (Starhrad)",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkZbbVpJ5Y1ibYWdjlYoDF2Vuq8NX61PWtRCmW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Považský castle",
+                "category": "Castle",
+                "url": "http://www.hradbystrica.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgXCGuFd6-sM_cRt4mXh6711ZGuIu9uAWuXzLz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Súľov",
+                "category": "Castle",
+                "url": "http://www.hrady.sk/sulov.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN83TwGJRV9wnB9iiT-1f8KR_rCFZqHCu8wlAVh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vrátna Free Time Zone",
+                "category": "Ski resort",
+                "url": "http://www.vratna.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObB7oxBibCmSB4aqMXcfmI-38KJIeTndCr4g3l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bratislava Castle",
+                "category": "Castle",
+                "url": "https://www.visitbratislava.com/places/bratislava-castle/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDjJRoyjVwKPlFUrF5wVEdf1SuqKL4N_6OX4HZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ski resort Jasenská Dolina",
+                "category": "Ski resort",
+                "url": "https://www.jasenskadolina.sk/uvod",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3_rnYQ4bePNYlDTKCqoIXGZyYDPdv1sp2KdjT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hrad Devín",
+                "category": "Castle",
+                "url": "http://www.hraddevin.mmb.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGaN6RoW1Xak7PSXbGZjOoHnUUX3LcbogTxv9l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Zniev",
+                "category": "Castle",
+                "url": "http://www.obecklastor.sk/?id_menu=33277&limited_level=1&stop_menu=33268#me",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIT8jRmRiemzT97tOgws1nUH62h9ZOe33de330=w148-h148-n-k-no"
+            }
+        ],
+        "Trnava": [
+            {
+                "title": "City Tower",
+                "category": "Historical landmark",
+                "url": "https://regiontrnava.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODlIJz99sf9bsKCfgsV3O0PQVbqSmaczzPcLH5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadium of Anton Malatinský",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNp3jYueoOROVcHw-XSb0PI0wtkrKQIE98TcQq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Relax Aqua & Spa",
+                "category": "Wellness Centre",
+                "url": "https://aquaparktrnava.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnXP_zMXzixC5KbOHh-5-mPqiSYlK_CiuZS-TH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of St. Nicholas",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOADtRVxLbXbsKU1RBpskla6kNUrJpKvTPamu8b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Synagogue",
+                "category": "Art gallery",
+                "url": "http://www.gjk.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuuFA4xt_bA2SZd5gBVE8faK1LG-RAuNpdKQDy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquapark Trnava",
+                "category": "Water park",
+                "url": "https://aquaparktrnava.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPONTDTRy_Y56WP5S-YIMr5wE9uixlorZXXkkQi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Katedrála sv. Jána Krstiteľa",
+                "category": "Cathedral",
+                "url": "http://www.abu.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPkLhO6v195TBwQdYPKblnAhC-QcfUf4ADAUCK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Western Slovakia",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCnvwXb34KVFIsKbC8i6ialX2Y76jL_KpCQoGs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ján Koniarek Gallery",
+                "category": "Art gallery",
+                "url": "http://www.gjk.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZkgMH8d4vyOiJX5Pf5ypVGm3s60_ZsOm1_Aga=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bratislava Castle",
+                "category": "Castle",
+                "url": "https://www.visitbratislava.com/places/bratislava-castle/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDjJRoyjVwKPlFUrF5wVEdf1SuqKL4N_6OX4HZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "City Arena Trnava",
+                "category": "Shopping Centre",
+                "url": "http://mall.cityarena.tt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtv_RCoOUS5DtTgWyprUoaT20Eb9KPd3Rnyp30=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thermalpark Dunajská Streda",
+                "category": "Water park",
+                "url": "https://www.thermalpark.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsYu1cU6ugFr0qqWuwH4hcYFHTImdU_AedF911=w148-h148-n-k-no"
+            },
+            {
+                "title": "X-BIONIC SPHERE",
+                "category": "Sports complex",
+                "url": "https://www.x-bionicsphere.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJSiS_j2ynghi3sNhXWhDzRo4la02-cVboUG25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thermal Corvinus Veľký Meder",
+                "category": "Water park",
+                "url": "http://www.corvinustermal.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlYZ9PT2RZMP81CSBNHfKnbz-WT44qStO5IFSM=w148-h148-n-k-no"
+            },
+            {
+                "title": "WINE Mrva & Stanko, Inc.",
+                "category": "Winery",
+                "url": "http://www.mrvastanko.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNn3TY0mgLUUZJSERZr86dy1GOTQFGhwjZ9SGfe=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Museum of Military History Piestany",
+                "category": "War museum",
+                "url": "http://www.vhu.sk/the-museum-branch-of-mmh-piestany/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGHjuo5ajZJqnXIkuZWyB-NjFzdmBNxBZrAmvC=w148-h148-n-k-no"
+            }
+        ],
+        "Košice": [
+            {
+                "title": "Košice Zoo",
+                "category": "Zoo",
+                "url": "http://www.zookosice.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMe-mju-gf-UXxbktvoTkJegN7_BYnyfl0YjhBY=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Elisabeth's Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://www.domsvalzbety.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN327hin7_6ohkFyoTJcKKdnZLBNbLLCdwaE9na=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aupark Košice",
+                "category": "Shopping Centre",
+                "url": "http://www.auparkkosice.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzIi2PCsBfu6uZzNbn2__g39me1bxMroOUhcE=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Singing Fountain",
+                "category": "Tourist attraction",
+                "url": "http://www.smsz.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOedkBGet6BLC8QBB5kynZyI61vT18-GTj0WG73=w148-h148-n-k-no"
+            },
+            {
+                "title": "Observation Tower Košice",
+                "category": "Observation deck",
+                "url": "http://www.meleskosice.sk/--73-26-vyhliadkova-veza-hradova",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN27Bn7rh5bBJoiBDeuErNwa04rY2nDT_6dAg0M=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theatre Košice",
+                "category": "Opera house",
+                "url": "http://www.sdke.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrxdEb4iH7Mux0lzDSLwzIeNTmWGu09KEZKZ86=w148-h148-n-k-no"
+            },
+            {
+                "title": "DinoPark Košice",
+                "category": "Amusement park",
+                "url": "https://www.dinopark.sk/sk/kosice",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKxK24jMwr-CCBtTyamxR31Vzmry8BVmeJzxpW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Košice Children's railway",
+                "category": "Tourist attraction",
+                "url": "http://www.detskazeleznica.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBEAt2y_r0JhylkW-rie34zy_32jbNuU1FEZOk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jakab Palace",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY3nkHuIljhs-B1vSyf9UhCz13zvryTB5bqG2n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pivovar Golem",
+                "category": "Microbrewery",
+                "url": "http://www.pivovargolem.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNrJTp8auMwecFQom98pKxzkMWsA0h-48GJVPO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Aviation",
+                "category": "Museum",
+                "url": "https://stm-ke.sk/sk/pobocky/muzeum-letectva-v-kosiciach/zakladne-informacie",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjmCnqEdPO9qflO7hy_hKX9aDT5-d0Z-cc_q93=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tabačka Kulturfabrik",
+                "category": "Cultural centre",
+                "url": "http://www.tabacka.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQOTzS_ccRSTSkvfYp0D2c6BoKL-aIhB-FrKzJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slovak Technical Museum",
+                "category": "Technology museum",
+                "url": "http://www.stm-ke.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_P_flEua9p8jmQn6D1lx6ltTXX_ZXnYTD9W6L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mikluš prison",
+                "category": "Museum",
+                "url": "https://www.vsmuzeum.sk/kosicke-storocia/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZSFmTbChkdd9qtjOJUjuLP8cw6-yI7SxNUE2A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Town Hall",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_vyLuVdJCCOBx_fxfucLDy5Pow1BlcZX6Jv2G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunsthalle",
+                "category": "Art gallery",
+                "url": "http://www.k13.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDO2mYWzLEhnZPB3qnfPMGjDV67N3MJpzNksl8=w148-h148-n-k-no"
+            }
+        ],
+        "Žilina": [
+            {
+                "title": "Budatín castle",
+                "category": "Castle",
+                "url": "http://pmza.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuB7C2v1xBkmLHInS6_T5FwpfWhBEr6KWj4ct3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aupark Žilina",
+                "category": "Shopping Centre",
+                "url": "http://www.auparkzilina.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNs7K0XQAdJ9BNcx2zkPWqImDkpYMR1acoQEJMa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Strečno",
+                "category": "Castle",
+                "url": "http://pmza.sk/hrad-strecno/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZ9BWwBeSx58oeOmlTXvkn9_sObPsQQk5RUkSt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubeň observation tower",
+                "category": "Observation deck",
+                "url": "http://www.tikzilina.eu/vyhliadkova-veza-na-dubni/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPF3GjKOkRrDaK3zjwz5WQacMaba3GsRJpLARMX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lezecká stena K2 Žilina",
+                "category": "Sports complex",
+                "url": "http://www.k2zilina.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-SULEu4OwDyNmP-nK23PqGVzhurCkIvZQCwJL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Lietava",
+                "category": "Castle",
+                "url": "http://www.hradlietava.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUdGbUJhteXMhex-ZH7JNSXv8hsBrliCZuN3i4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of the Holy Trinity",
+                "category": "Cathedral",
+                "url": "http://www.dcza.sk/sk/schematizmus/farnosti/zilina-mesto-katedrala",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAmRtHW3XxmxcjtQsY-ilQMMbfhBGuK9cwaVYn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Povazie region",
+                "category": "Museum",
+                "url": "http://www.pmza.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf5QKA3awKS35hAgYj_rD-0RnYeKTpqTLkFYS3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Žilina-zariečie",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOb0pniB_FBZyAi3Fu-rFJjF6JbvhZR_xuTeNRw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rosenfeldov palác",
+                "category": "Tourist attraction",
+                "url": "http://rosenfeldovpalac.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRUb6GqJSnakdPCy2-RENguzoPke_ZyGXfMLCs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kostol svätého Juraja",
+                "category": "Church",
+                "url": "http://trnove.fara.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4N7yatAleIsTAO8X90d7f5nRL027E6KU-W-EI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mariánske Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2vT9cmIug2boijwHwikicziD4NIx4Bcx6Znca=w148-h148-n-k-no"
+            },
+            {
+                "title": "Považská galéria umenia v Žiline",
+                "category": "Art gallery",
+                "url": "http://www.pgu.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYUtbatDt3GKeITv0V8KpvxozHEuC8sNdBFKBv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Žilinský turistický kraj",
+                "category": "Hiking area",
+                "url": "https://zilinskyturistickykraj.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiD5ZRAo46MuZpjczeYD96uBGo_AMpnDgVbDAz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aupark Bratislava",
+                "category": "Shopping Centre",
+                "url": "https://www.westfield.com/slovakia/aupark?utm_source=google&utm_medium=GMB",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9A8M6hiSr8nQk9lDpCDFqQQkoXuGki7PMJn4G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stranik",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNC32bshdV437cDQ-CQq8G3D2EkODDNJ5eo14dA=w148-h148-n-k-no"
+            }
+        ],
+        "Prešov": [
+            {
+                "title": "Co-Cathedral of Saint Nicholas",
+                "category": "Cathedral",
+                "url": "http://www.presov.rimkat.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlSYvfEmboU76Q2kgsgLBf3jQTcFctJHDX_jk2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fundiland",
+                "category": "Indoor playground",
+                "url": "http://www.fundiland.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6vCwySJrIzKYvRvVzpazJQ3K0u280HDW9TVK0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of St. John the Baptist",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyR4K762XtU94tY3J1mMQGyb9_-fy0E_JnPmWn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spiš Castle",
+                "category": "Castle",
+                "url": "http://www.spisskemuzeum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZQT1nAP4Jmi502qZ07EmJLPPIJSVipOcNMccJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Regional Museum in Prešov",
+                "category": "Local history museum",
+                "url": "http://www.muzeumpresov.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLJMP8WiyhYrSNsjXjhkD8eoW5mlaLeq5YfTKm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jewish Orthodox Synagogue",
+                "category": "Orthodox synagogue",
+                "url": "http://synagoga-presov.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6REZdF8ZfijWvgTMZyw-u5CXsVerCu0msEKRP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Delňa",
+                "category": "Swimming facility",
+                "url": "http://www.aquaparkpresov.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNV4o_GR_Z6ZZaBSqfEAhv1PXg07UZGLNfQ2AnB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Šaris castle",
+                "category": "Castle",
+                "url": "https://www.hradsaris.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_mU-Eua-8-69tXmgB1RarW_82p1Pxw16znxHZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Treetop Walk Bachledka",
+                "category": "Tourist attraction",
+                "url": "http://chodnikkorunamistromov.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGldgvlJ7Bv-9QJqR3-rYgekLGVKvd5ZeC1Vi1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kapušany Castle",
+                "category": "Fortress",
+                "url": "https://www.muzeum.sk/kapusiansky-hrad.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSWzdKbe4WQVZO7WbZXZL3aCYl-ZBpDl4v6dWe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zbojnicky Castle",
+                "category": "Castle",
+                "url": "https://spoznajslovensko.eu/zbojnicky-hrad-solnohrad/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLsq2vny0YDXMJ-4eJ2I99hALiEf3AQXB6T7pv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bachledka Ski & Sun",
+                "category": "Tourist attraction",
+                "url": "http://bachledka.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMg6LWQypk6YDnUeLPAqWo9m_Yp5RQ-sZB1PsTP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vysoké Tatry - Hrebienok",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjS0e2WWjbWvaINx6MhMWP77f7a1VkfSBPlFJB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slovak Technical Museum",
+                "category": "Technology museum",
+                "url": "http://www.stm-ke.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_P_flEua9p8jmQn6D1lx6ltTXX_ZXnYTD9W6L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Poloniny National Park",
+                "category": "National park",
+                "url": "http://regionpoloniny.sk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSpqUnUKNirLYL_EScE_5bH17serwxx-oLUCmi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Šebeš",
+                "category": "Historical place",
+                "url": "http://www.hrad.wbl.sk/Hrad-Sebes.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRdsWExKQAp660pcC5S6LcUjIU3ycJndIUTWo=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Bratislava Castle",
+            "category": "Castle",
+            "url": "https://www.visitbratislava.com/places/bratislava-castle/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPDjJRoyjVwKPlFUrF5wVEdf1SuqKL4N_6OX4HZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hrad Devín",
+            "category": "Castle",
+            "url": "http://www.hraddevin.mmb.sk/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMGaN6RoW1Xak7PSXbGZjOoHnUUX3LcbogTxv9l=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Blue Church - Church of St. Elizabeth",
+            "category": "Catholic church",
+            "url": "http://www.modrykostol.fara.sk/info",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOQsF2xcs6jFgtiOEtUDa0VMS0eIV9YPLKYsBAG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Castle of Spirits (Bojnice Castle)",
+            "category": "Castle",
+            "url": "http://www.bojnicecastle.sk/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM3nHLfMxBEySrBNGNoY0MTY0F7T53EjXQN12Xv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Michael's Gate",
+            "category": "Historical landmark",
+            "url": "https://www.visitbratislava.com/sk/miesta/michalska-brana/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdAQFIgkJobYkXcZFjksdMO_EdnMcGa4nCEQaj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Čumil",
+            "category": "Tourist attraction",
+            "url": "https://www.visitbratislava.com/places/rubberneck-cumil/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNAY9YzG8DBg1Jdqstkk4Thz1e8pj5e9YkLF4Gv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Slavín",
+            "category": "War memorial",
+            "img": "https://lh6.googleusercontent.com/proxy/gfDBvxWItYLhpZD8uHaP__72WFRzO75e8cx5dCkIUzuYtJTz2F7SvS-66sYwTNspEYMz3WwXOtq-8FLcd0R9OIbo-SxhcT2foUSWy0f4b9vn5kWHJgq_i9xH6R34O7j6yzoUD94G89bSeNCdKXvnaD3Rr4cuyQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Slovak Paradise National Park",
+            "category": "National park",
+            "url": "http://www.slovenskyraj.eu/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPQ0MDOIxTGHaW8p0KiCMwZGOxeA_IyvMProGRA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Spiš Castle",
+            "category": "Castle",
+            "url": "http://www.spisskemuzeum.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPZQT1nAP4Jmi502qZ07EmJLPPIJSVipOcNMccJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Orava Castle",
+            "category": "Castle",
+            "url": "http://www.oravskemuzeum.sk/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO9Yzg-WyrxDySuo3B00SuTgqqml4yPLRqgqDEA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Trenčín Castle",
+            "category": "Castle",
+            "url": "http://www.trencianskyhrad.sk/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN5DfA_zQ7pw6FpyCmV-2xl6V_S8BNVyjkj0kuH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Danubiana Meulensteen Art Museum",
+            "category": "Art museum",
+            "url": "https://www.danubiana.sk/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOnJUlBYwRTsY4_EKHPduqElp6EYfcrXepmsf8v=w148-h148-n-k-no"
+        },
+        {
+            "title": "Most SNP (UFO Tower)",
+            "category": "Observation deck",
+            "url": "http://www.u-f-o.sk/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNA-XKfVQJAQa5hYor00DLC88tnScdP_bPOpjBP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dobšinská Ice Cave",
+            "category": "Tourist attraction",
+            "url": "http://www.ssj.sk/sk/jaskyna/6-dobsinska-ladova-jaskyna",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM-8rrF0KZ4VW_FMS-7N1sUb7wHBRpVh70yAdiK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bratislava",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNbxtl3nTRHdiUppJnpU6BmSiLaZy55Lin7vIR5=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. Elisabeth's Cathedral",
+            "category": "Catholic cathedral",
+            "url": "http://www.domsvalzbety.sk/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN327hin7_6ohkFyoTJcKKdnZLBNbLLCdwaE9na=w148-h148-n-k-no"
+        }
+    ]
+}

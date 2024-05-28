@@ -1,0 +1,668 @@
+{
+    "cities": {
+        "Khartoum": [
+            {
+                "title": "Italian Tourism Co.",
+                "category": "Tours",
+                "url": "http://www.italtoursudan.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMopsz59wkD54HAiuxKTbpy_bJrP_jqNzIWxT3W=w74-h74-n-k-no"
+            },
+            {
+                "title": "DGL Travel",
+                "category": "Tour operator",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Rainbow Kids Center",
+                "category": "Indoor playground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsM7HCpPnAx33iOmABevThmXUU_lXEDrzJJnfK=w74-h74-n-k-no"
+            },
+            {
+                "title": "Sudan Legacy",
+                "category": "Tour operator",
+                "url": "http://www.sudanlegacy.com/",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Sudan Desert Tours",
+                "category": "Tours",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "White Nile Bridge",
+                "category": "Route",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Omdurman market",
+                "category": "Market",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al-Waha Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.alwaha-khartoum.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al Salam Health Club",
+                "category": "Gym",
+                "url": "http://www.alsalamhotel.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "St. Matthew's Cathedral, Khartoum",
+                "category": "Catholic church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al-Nilein Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Fenti Golf",
+                "category": "Golf course",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Museum of the Khalifa's House",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Dara Art Gallery",
+                "category": "Art gallery",
+                "url": "http://www.daraartgallery.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al Hilal Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Sudan National Museum",
+                "category": "National museum",
+                "url": "http://sudannationalmuseum.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Sinnar": [
+            {
+                "title": "Gondeshwar Mandir",
+                "category": "Hindu temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkYhweJyhL9xnzSYVYOfmCWo9R-77eZIrEiKS4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gargoti - The Mineral Museum",
+                "category": "Museum",
+                "url": "http://www.gargoti.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN26DHYEjAyZYqgvSySiR-k93YgDbx9_WHIiIGg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerana Meads",
+                "category": "Winery",
+                "url": "https://ceranameads.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpdZTKPP6H_aVVDZNoiq1hyNepQjUOifiKv5Ms=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gondeshwar",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPF0nqDBi9VWTa1m2-qTvmuPXfsx_BPGo3ycQky=w148-h148-n-k-no"
+            },
+            {
+                "title": "Waghai Botanical Garden",
+                "category": "Botanical garden",
+                "url": "http://waghaibotanicalgarden.in/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWwwglD-P4pr2Va8gqXYLleRpNKwtGUybL_mXx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soma Vine Village",
+                "category": "Vineyard",
+                "url": "https://www.somavinevillage.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2M_uRGXSW-hHCUzTjNcPXmNZ1vSiKaOH1MJVY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wet N Joy Water Park",
+                "category": "Water park",
+                "url": "http://www.wetnjoy.in/Shirdi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4d7RfQEzsKqlfBQjN9eyHM77Lx4TPjwrS_6Iu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sula Vineyards",
+                "category": "Vineyard",
+                "url": "https://sulavineyards.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYgjROXk7h9wqNKO1BSZ7Ebgdxi_B-NpS0Hp80=w148-h148-n-k-no"
+            },
+            {
+                "title": "Siddharth Garden and Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2zhux9-xKFI6TN1mKIHWC3tzcAbaGtzKGZKLu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saptshrungi Ayurveda College Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGDCw92GqvnxYP0yW7t1pL5EvdiPaHPfIHjthq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nashik Vanarai",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXL3V-byeaUvaTX4XcNoU859WIJW36STc1mxo1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Butterfly Garden Botanical Garden Nashik",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFU7MZAhnBRE_qtwxzp6-rmmuTmwi5Lu7npgsM=w148-h148-n-k-no"
+            }
+        ],
+        "Kassala": [],
+        "Kadugli": [],
+        "Ad Douiem": [
+            {
+                "title": "Republican Palace Museum",
+                "category": "Museum",
+                "url": "http://presidency.gov.sd/museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT0eK3SxPhpG1yOgJ5YcfoKYQsTeoOK5Bzb5Yy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khartoum",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqnHkVX1ZZKV_Rs-48Ul6gLNeZFyjnlbnNZPql=w148-h148-n-k-no"
+            },
+            {
+                "title": "White Nile Bridge",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdPyj-3QBn8g81DW0xhEjhacDemf2k6ffvUzBU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hilal Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4jl7NIsc2lqQcGs1gl1Zlq-HyxVeD79sY74yD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Nilein Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOazTQ9XW3ZMmVgwUUzFAfzVLuIkrIuxifiuvHc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Waha Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.alwaha-khartoum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNArfMy84ZH_Bs3vt0PzMxpiUYxqfPe1mcP68hF=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Matthew's Cathedral, Khartoum",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQdwsEd54OSmUgvOKFt_1bvdQLPGPRzb5hWSwW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Salam Health Club",
+                "category": "Gym",
+                "url": "http://www.alsalamhotel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpddTZKnShRW1wfzUW9Lc1hi9W9ShBBPeW_Y2G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fenti Golf",
+                "category": "Golf course",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ87AwY1HsmfjDI2BqyA_G1Rex_j4FZBUy4N0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dara Art Gallery",
+                "category": "Art gallery",
+                "url": "http://www.daraartgallery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHitu32Ppyn6iDOwP-r90LEuuGAgH7dyxq5bJy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the Khalifa's House",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqmfKLyAtfGco-bRegTr-1IpygbS2Z0sEgsMYp=w148-h148-n-k-no"
+            },
+            {
+                "title": "International University of Africa _ (IUA)",
+                "category": "University",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmLD0-1UOzaSd9NubnK3uF5jUPWLP1qadEFccB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afra Shopping Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEsVqg2H2DIFVYKl7kQ4jiJbIQoFAbZK1P3vnM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mojo Gallery",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3a0y2O89UeGL8uCDwjMAeMhNV_mLQIXY1JNEL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tuti Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4vLC3MoUrFC9uo-VorHATah56ThP0rYeeBrM4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sudan National Museum",
+                "category": "National museum",
+                "url": "http://sudannationalmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwcs6AkQQ3VrMggFuJ07j0saqz8r6U2e_v2lkN=w148-h148-n-k-no"
+            }
+        ],
+        "El Daein": [],
+        "Kosti": [],
+        "Gereida": [],
+        "Wad Medani": [
+            {
+                "title": "University Of Gezira (Alrazi Campus)",
+                "category": "University",
+                "url": "https://www.gezirauniversity.net/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Imperial Wad Medani Hotel",
+                "category": "Hotel",
+                "url": "http://www.facebook.com/imperialwadmedanihotel",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al-Nilein Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "International University of Africa _ (IUA)",
+                "category": "University",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Um Barona Park",
+                "category": "Park and Garden",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Zamalek Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "The New Abu Snoon Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Wad Madani Al Sunni Dome",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Ansar As-Sunna Al- muhammadiyah Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Misk Alkhitam Family Park",
+                "category": "Amusement park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al Hilal Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Wad Medani Football Stadium",
+                "category": "Football pitch",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Museum of the Khalifa's House",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Afra Shopping Mall",
+                "category": "Shopping Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mojo Gallery",
+                "category": "Art gallery",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Khartoum Grand Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Umm Ruwaba": [],
+        "Omdurman": [
+            {
+                "title": "Sudan National Museum",
+                "category": "National museum",
+                "url": "http://sudannationalmuseum.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "University of Khartoum",
+                "category": "University",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "DGL Travel",
+                "category": "Tour operator",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mojo Gallery",
+                "category": "Art gallery",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Pyramids of Meroë West",
+                "category": "Historical landmark",
+                "url": "https://es.wikipedia.org/wiki/Pir%C3%A1mides_de_Meroe#Cementerio_oeste_de_Begarawiyah",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Afra Shopping Mall",
+                "category": "Shopping Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Walaa Spa Beauty Center",
+                "category": "Beauty Salon",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al-Nilein Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Museum of the Khalifa's House",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Omdurman market",
+                "category": "Market",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Al Qadarif": [],
+        "Al Manāqil": [],
+        "Singa": [
+            {
+                "title": "Marina Bay Sands Singapore",
+                "category": "Hotel",
+                "url": "https://www.marinabaysands.com/?utm_source=google&utm_medium=GMB&utm_campaign=hotel_info_main",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOESve-by1VcqtrfnN2XEgjIe7FOmkV7qMyrkpg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gardens by the Bay",
+                "category": "Garden",
+                "url": "https://www.gardensbythebay.com.sg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-SeCTqcHRHkXCjcB6bhbpdEvnBG2hh7V0C-NO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Singapore Botanic Gardens",
+                "category": "Botanical garden",
+                "url": "http://www.sbg.org.sg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMKkMswdiO-SbIphFg8asaTK0p3TBqtKjwwBNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Singapore Zoo",
+                "category": "Zoo",
+                "url": "https://www.mandai.com/en/singapore-zoo.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXC14V9OwQgxvO-WpoZxAoxzDv9ZVA_l2x-DgX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jewel Changi Airport",
+                "category": "Shopping Centre",
+                "url": "https://www.jewelchangiairport.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKTwrHFEEyH-2z15mPQSZcr0gEWnoXsrnKI3Pa=w148-h148-n-k-no"
+            },
+            {
+                "title": "ArtScience Museum",
+                "category": "Museum",
+                "url": "https://www.marinabaysands.com/museum.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMikotnB7c4pJDqF04VfuWnFx6uKpMZ1O0yw-ff=w148-h148-n-k-no"
+            },
+            {
+                "title": "S.E.A. Aquarium",
+                "category": "Aquarium",
+                "url": "https://www.rwsentosa.com/en/attractions/sea-aquarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9OyTMcL-h8DzsrQ40Zs5n6QhqQOuyM7QCGIIG=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Singapore",
+                "category": "National museum",
+                "url": "https://www.nhb.gov.sg/nationalmuseum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTNj8PXxkr0DhWRppprngNmXQeHgIU4Fvbu5dr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Universal Studios Singapore",
+                "category": "Theme park",
+                "url": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore/explore",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnD7qZa34fpONMMu9S75mRDeFcHUcjsTxv5LuH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Canning Park",
+                "category": "Park and Garden",
+                "url": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/fort-canning-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOp4uU8zLcB7ImHrXBM6pRtreTJWK_qPUpn8ETb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Singapore Flyer",
+                "category": "Tourist attraction",
+                "url": "https://www.singaporeflyer.com/",
+                "img": "https://lh4.googleusercontent.com/proxy/bS_3sZR82UJcwwHNA7WtRo0xNgCmWMppIaE15xbvc3bVDIIDWMQxVUNmo_tdAd1u4leZdbzxYM1hNchC1egvZgpiXkbK6NIDcyoFVena3hysT_BezXMPCxKbE-_p1mF4N2Uk-lyqS1fMujCkFQm6k4dUMEuHkw=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Gallery Singapore",
+                "category": "Art museum",
+                "url": "https://www.nationalgallery.sg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1CMzeXnSxQFfXB05AMti4l1Fs6VfLDzbPFQWK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Esplanade - Theatres on the Bay, Singapore",
+                "category": "Performing arts theatre",
+                "url": "https://www.esplanade.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOf6WcX3-3kqwzrOmSY5qZYIU8dVRwJrdXIW30P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clarke Quay",
+                "category": "Shopping Centre",
+                "url": "http://www.clarkequay.com.sg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuohsNiyRXp6a5_3dJWYQZa0y9yEwxT-M1TO8d=w148-h148-n-k-no"
+            },
+            {
+                "title": "East Coast Park",
+                "category": "Park and Garden",
+                "url": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiN5bqd9iADJCGzFOjsSitcbpNXSUaqwlw5Mi6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Night Safari",
+                "category": "Wildlife and safari park",
+                "url": "https://www.mandai.com/en/night-safari.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtjwQKeOUWCam4TFDPiT0TUZph9twDmI66KdJW=w148-h148-n-k-no"
+            }
+        ],
+        "Rabak": [],
+        "Port Sudan": [],
+        "Nyala": [],
+        "Geneina": [],
+        "Atbara": [],
+        "Shendi": [
+            {
+                "title": "Al Hilal Stadium",
+                "category": "Stadium",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "St. Matthew's Cathedral, Khartoum",
+                "category": "Catholic church",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Al-Nilein Mosque",
+                "category": "Mosque",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Al Salam Health Club",
+                "category": "Gym",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpddTZKnShRW1wfzUW9Lc1hi9W9ShBBPeW_Y2G=w74-h74-n-k-no"
+            },
+            {
+                "title": "Es Sabaloqa",
+                "category": "Ravine",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al-Waha Mall",
+                "category": "Shopping Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Fenti Golf",
+                "category": "Golf course",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Dara Art Gallery",
+                "category": "Art gallery",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "International University of Africa _ (IUA)",
+                "category": "University",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Museum of the Khalifa's House",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Khartoum Grand Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Pyramids of Meroë West",
+                "category": "Historical landmark",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Afra Shopping Mall",
+                "category": "Shopping Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mojo Gallery",
+                "category": "Art gallery",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Sudan National Museum",
+                "category": "National museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "University of Khartoum",
+                "category": "University",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "An Nuhūd": [],
+        "Ad-Damazin": [],
+        "El Fasher": [],
+        "El Obeid": [],
+        "Ed Damer": []
+    },
+    "sights": [
+        {
+            "title": "Al-Waha Mall",
+            "category": "Shopping Centre",
+            "url": "http://www.alwaha-khartoum.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNArfMy84ZH_Bs3vt0PzMxpiUYxqfPe1mcP68hF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pyramids of Meroë West",
+            "category": "Historical landmark",
+            "url": "https://es.wikipedia.org/wiki/Pir%C3%A1mides_de_Meroe#Cementerio_oeste_de_Begarawiyah",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMqoFjZ0kCn36qXM7UmkNAGyNGUrmwGP5OUH_k1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khartoum",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMqnHkVX1ZZKV_Rs-48Ul6gLNeZFyjnlbnNZPql=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sudan National Museum",
+            "category": "National museum",
+            "url": "http://sudannationalmuseum.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNwcs6AkQQ3VrMggFuJ07j0saqz8r6U2e_v2lkN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Dinder National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPaHB3U117OC5bYv3etXfBfO50sRLlGOo4EmxSz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Taka Mountains Nature Preserve",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNR8wH0rAmNg4SVnxy7NE5sLOlvKxksBi50ryJQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al-Nilein Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOazTQ9XW3ZMmVgwUUzFAfzVLuIkrIuxifiuvHc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museum of the Khalifa's House",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNqmfKLyAtfGco-bRegTr-1IpygbS2Z0sEgsMYp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kassala",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMiXUuOaHxXHnK-2GL3SuzRvmZyVpdWG58gFjvW=w148-h148-n-k-no"
+        },
+        {
+            "title": "University of Khartoum",
+            "category": "University",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPm4JqcM39DXJ2oh8t-ePG-eUlBF6Md34II5eJQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Afra Shopping Mall",
+            "category": "Shopping Centre",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOEsVqg2H2DIFVYKl7kQ4jiJbIQoFAbZK1P3vnM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jebel Barkal",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPMVZnASyOg-YkuKsuVOtM-6uLMaszw1eERQhAR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Soleb",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMbuJCx9XZC0uK9C8sEgZq7oCgR_mTiydr0Lnf4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Port Sudan",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOWh5Z4rI_3NLBUNfl0r1U7PuVY6eM1cAnTCaZX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tuti Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN4vLC3MoUrFC9uo-VorHATah56ThP0rYeeBrM4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khartoum Grand Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPVcWk55Np3yFijlUzKV_71fDnQU4IWINLnEMc2=w148-h148-n-k-no"
+        }
+    ]
+}

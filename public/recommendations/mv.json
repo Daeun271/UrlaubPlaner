@@ -1,0 +1,173 @@
+{
+    "cities": {
+        "Male": [
+            {
+                "title": "Sultan Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLxty8jHl1CLxAGsdYmUwDThhFaytJKsewSoWG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rasfannu",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMoB_joaoeiNfinnxpkhA0Di8cRrB01rpoJWNeT=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum, Maldives",
+                "category": "National museum",
+                "img": "https://lh3.googleusercontent.com/proxy/kXD3u__w0ZDwjxxXxNk9TaIyi-sFIjqOhF8ps7n5KndoBV7SEjovM9gEn7MlNQnnGRtf_91tFPYr7CGE84eMy8SAWvDWB4qFZJ1u35bAcUClAEeHT0YV7uo49-f47u6t6PDe4BTqjMzB_HyeFqM6GRhVyWbLpw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fish Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLjvIM6J-LOxBh0G88qFH-z4Ryop1TfOx_Cl5D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muliaage (Palace)",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj33JTCvlqGlBDRFDRHFnS2WGeYMG2PwnQW6Lu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Artificial Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnDV3Cxp0o4rHpG-E_Oc3nMDlaHhCwRduedcdR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsunami Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMc7lphAJo7BTRfnG15GqwcjiWEci5KCAs6-vfH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Al-Sultan Muhammad Thakurufaanu Al-Auzam",
+                "category": "Mosque",
+                "url": "http://www.islamicaffairs.gov.mv/",
+                "img": "https://lh3.googleusercontent.com/proxy/10t4-pmznkOjPFW-BIpJKSIfVoY8zNmZPIQI6WviZvI1fRtIkmMn2Mb8Bk9N23m-qnbDDR9oDi0YnAbRjwHLU1iLOOKr7gYSvqzQOcbZztVz8t9G65pWZmDf8-EEMUI3wtMB3MZGls5LKnTMYw4VhEh4MgsdMuo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Villingili",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_RCyIbfy9w--7JmtaV5iyhO1-uqDXyiIQKeTI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maldives National Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMagBbiybsHv0OI5i5gDuglZN0XPAgBnvgo3FY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chaandhanee Magu",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPr4XDnO3pJBBEM96TFJ2N9rxVxIjDr6IsTXroC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atolls of the Maldives",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM6zXrO7nw6qh4K5lAf0PxCd8kgqceMM4REjk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vermillion Travels",
+                "category": "Transportation service",
+                "url": "http://www.vermillionmaldives.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPR0Gl9KB1e3Q3qG1KOHrxtNK-DjDgszwCtJpnz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thin Ruh Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPi46LwALsFLA2WGFpR_6hlThsIT2m2VnvDgcDG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hulhumalé Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-jdVcGorJvEXmJlbaY1qnwLttXRHsR-ogTU3W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Majeedhee Magu",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKhPG0ivL5KOadzVzfXE5n94gBAemNLYD-yegq=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Veligandu Maldives Resort Island",
+            "category": "Resort hotel",
+            "url": "https://www.veligandu.com/",
+            "img": "https://lh5.googleusercontent.com/proxy/NXJopvgzs4v7xESTtGiXk6dfSwSEpg_eE7ZKSbXaU8zlIrdhPgt2IKgYh-pXXf255UGBdJoOs31qeH42Qdel9ooAuck27d7q9R3w7s3wsr24hfdRAuTX6xcklZScWwNiQ2EENZBMPYobWFlpXcLLzJG87s3jnQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum, Maldives",
+            "category": "National museum",
+            "img": "https://lh3.googleusercontent.com/proxy/kXD3u__w0ZDwjxxXxNk9TaIyi-sFIjqOhF8ps7n5KndoBV7SEjovM9gEn7MlNQnnGRtf_91tFPYr7CGE84eMy8SAWvDWB4qFZJ1u35bAcUClAEeHT0YV7uo49-f47u6t6PDe4BTqjMzB_HyeFqM6GRhVyWbLpw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fish Market",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOLjvIM6J-LOxBh0G88qFH-z4Ryop1TfOx_Cl5D=w148-h148-n-k-no"
+        },
+        {
+            "title": "Alimathaa",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipORJPHYY0IHmPDYAldRktzyvdFJhBNbI9ztB6Hb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Banana Reef",
+            "category": "Playground",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjlnU40kciQmqbKytxzhc32aThB8WXwe9h_LKA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ithaa Undersea Restaurant",
+            "category": "Restaurant",
+            "url": "https://www.conradmaldives.com/dine/ithaa-undersea-restaurant/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipObmAa5ntD9JIagy0RFpNn9-0ki-whhh1QewEdI=w148-h148-n-k-no"
+        },
+        {
+            "title": "No Bikini Beach",
+            "category": "Playground",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO9jIKoyRpkz-uK4L4huqunZsOtq9_q4GYFlDLz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gulhi Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNbMy0SvG5Am4UdgVe-snf0X2kmd69KTpPhhDsv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sultan Park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOLxty8jHl1CLxAGsdYmUwDThhFaytJKsewSoWG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Malé",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMyY3-mEf5cL2pufe5C7rKTpPELMFTm7qs_TgRO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Six Senses Kanuhura",
+            "category": "Resort hotel",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOkQ0bLgaJz5ilgQHrJtdrWjxpf4fvqH28RbOlR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Meeru Island Resort and Spa",
+            "category": "Island",
+            "url": "http://www.meeru.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPtUhrlLIfIvS5X-8xKoW1xaI23gHcP-PhOwuMJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ukulhas",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPGF-fIHMSOkx3SmC3-UrI0GjTNUKTeeuvrJXFE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hulhumale",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPJQNbrge_K8-4QRlOVueZG5JB7QOAx5RD454uP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Addu Atoll",
+            "category": "Atoll",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPJIlv0OtcKLPYZm424KbWMhpIo8hKJkb-nSZmw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maalefushi",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP9GbJ2fMAzEnMczhIrH29kCiZHHxBugIHxonj5=w148-h148-n-k-no"
+        }
+    ]
+}

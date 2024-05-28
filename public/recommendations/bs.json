@@ -1,0 +1,190 @@
+{
+    "cities": {
+        "Nassau": [
+            {
+                "title": "Atlantis Paradise Island Bahamas",
+                "category": "Resort hotel",
+                "url": "https://www.atlantisbahamas.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB_AtlantisBahamas",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYNnqdlSPWJuHry8n1QgsAq8Z6mmEX2brZBssx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Queen's Staircase",
+                "category": "Historical landmark",
+                "url": "https://queensstaircase.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV-6yRlYgRfPVV3x0KoHYK0PKBrswK7aG-sCII=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pirates of Nassau",
+                "category": "Museum",
+                "url": "http://www.piratesofnassau.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPojtP3z4hl0zYMwb60vWB-zLK2G29DXQL7U8dz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ardastra Gardens & Wildlife Conservation Centre",
+                "category": "Animal park",
+                "url": "http://www.ardastra.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGKpqCNk-H5nmoil02vkkQYm9p6d0Z4PREJiuk=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Art Gallery of The Bahamas",
+                "category": "Art museum",
+                "url": "http://nagb.org.bs/",
+                "img": "https://lh5.googleusercontent.com/proxy/gyZKczQ-glweNSAzWy5lN4jqa5iT_aEKsRsh6BkJYVNiVx2GlR-hoaV2BQlWmf2GlqujKSdhmiPxn8abUVbIqegd0obTkQz1uLCaztpi1T75ue8zojwkl0Mxqn7pQpBEOGlGUj7R1S42XF5eq10_--qnCpPIzg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Montague",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKZk9HGaSsycwglI4TzRkx_VLya-u4KQgIBhSH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clifton Heritage National Park",
+                "category": "National park",
+                "url": "https://tourcliftonheritage.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1YRtTKwbkG7DGczyBx69_CQS_hnBfQ_G3APo1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Charlotte",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgQ0Usmi1GgpiqjxR-ojwzaTDAYF19FQGKPdF4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquaventure",
+                "category": "Water park",
+                "url": "http://www.atlantisbahamas.com/thingstodo/waterpark?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQLfcgB6MqhhDsLSAIVvR_jypOZNiI44lXeUPf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cable Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNp2kSeABLy0nTnC-2Sec8mj3mk2WHvX8YiXTPz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parliament Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNMBac3TOGeV_Rc-_tQckUzSyuzu7KjracPiuY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baha Bay Water Park",
+                "category": "Water park",
+                "url": "https://bahabay.bahamar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcLc-E1wJ16E5cpOn7ky7HH5WZE91Gg1hC4nMd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ Church Anglican Cathedral",
+                "category": "Anglican church",
+                "url": "http://christchurchcathedralbahamas.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTSryF9yoQg4Y3WOv3s_wQvr7hhKPYt7BshLs4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Government House",
+                "category": "Attractions",
+                "url": "https://www.bahamas.com/vendor/government-house",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgqx9V4On4hhA8ceJG4b98PBHF4kQwn-2DRLiV=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Francis Xavier Cathedral",
+                "category": "Catholic cathedral",
+                "url": "https://www.stfrancisxaviercathedral.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_fae8nFX9KUSZyb6rA-gOR9jMxYXghfu_1hZx=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Current: Baha Mar Gallery and Art Center",
+                "category": "Art gallery",
+                "url": "https://thecurrent.bahamar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6k_3jxRzXBbqQMd_4k9b1NLuNKdumncxw5QOM=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Atlantis Paradise Island Bahamas",
+            "category": "Resort hotel",
+            "url": "https://www.atlantisbahamas.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB_AtlantisBahamas",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOYNnqdlSPWJuHry8n1QgsAq8Z6mmEX2brZBssx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Queen's Staircase",
+            "category": "Historical landmark",
+            "url": "https://queensstaircase.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPV-6yRlYgRfPVV3x0KoHYK0PKBrswK7aG-sCII=w148-h148-n-k-no"
+        },
+        {
+            "title": "Clifton Heritage National Park",
+            "category": "National park",
+            "url": "https://tourcliftonheritage.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN1YRtTKwbkG7DGczyBx69_CQS_hnBfQ_G3APo1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nassau",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNAvVfWJuMnIqbAUKxN7LEx0QKGLPaksxlX6vaA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Aquaventure",
+            "category": "Water park",
+            "url": "http://www.atlantisbahamas.com/thingstodo/waterpark?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOQLfcgB6MqhhDsLSAIVvR_jypOZNiI44lXeUPf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pink Sands Beach",
+            "category": "Beach",
+            "url": "https://www.pandotrip.com/the-unique-pink-sands-beach-in-harbour-island-the-bahamas-17855/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNzAiV8oFdiUtrkVnCYIuAhcGQB8q2yWaRISRH2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Marine Habitat at Atlantis",
+            "category": "Aquarium",
+            "url": "http://www.atlantisbahamas.com/thingstodo/marinehabitat?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMf69kOXdI6UEhCQGJ9c5eGIIFVD9u__uGqsqck=w148-h148-n-k-no"
+        },
+        {
+            "title": "Castaway Cay",
+            "category": "Island",
+            "url": "https://disneycruise.disney.go.com/ports/castaway-cay/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNXrQYQf0NCeZiyoVxz896R1ic0otwEOzeatrLu=w148-h148-n-k-no"
+        },
+        {
+            "title": "John Watling's Distillery",
+            "category": "Distillery",
+            "url": "http://www.johnwatlings.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPtKfFgei0aKldbjTH70Qw6uNiHJ_Pte-JIHNq7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dean's Blue Hole",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMfUSEIol9rsOsK8-LGSXj8-BZpLc0ack51Db3D=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lucayan National Park",
+            "category": "National park",
+            "url": "https://bnt.bs/explore/grand-bahama/lucayan-national-park/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMiA1bDBPml8ebhvIgiD6PJ1kTrCsz6bCNiY40m=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cable Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNp2kSeABLy0nTnC-2Sec8mj3mk2WHvX8YiXTPz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Garden of the Groves",
+            "category": "Botanical garden",
+            "url": "http://thegardenofthegroves.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP6yL-Y1dXp2pbcI_JxHY2hPlxMWwB2nBmDeJdh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gold Rock Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMSxkXVBeBPh9oFvCdCRr6TUw7j7yFtBDevdFyv=w148-h148-n-k-no"
+        },
+        {
+            "title": "CocoCay",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO6InrEzRCUFB0YGe_ZFsxgCiDgZWAPY0X2cAiX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Harbour Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNYuS6mzBYgGAcGQ9pA3DikvuMPYOMvEWzIlE09=w148-h148-n-k-no"
+        }
+    ]
+}

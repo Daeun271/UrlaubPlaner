@@ -1,0 +1,3795 @@
+{
+    "cities": {
+        "Thika": [
+            {
+                "title": "Aberdare National Park",
+                "category": "Park and Garden",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtVk9E-WClncwQnmJVuot13nVNDJ2wsOv_5SM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christina Wangari Gardens",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZY0YOkuaWHuvLVnA1NQ-Fvae_M_mV1P0VBZ7L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ngong Road Forest Sanctuary",
+                "category": "Park and Garden",
+                "url": "http://www.ngongroadforest.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXPDkk2Lc3mC6rq4ix_OVIVWDnQqKbjpbw4zXr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenya Railway Museum",
+                "category": "Rail museum",
+                "url": "http://www.krc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP65NBO6KEb-zGdeiqpnCtY8ToAKROnuDbqpADx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karura Forest",
+                "category": "Woods",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOo19kNylpSb5sdgNydx0M3cgFMjnVMJLZIlnbX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bigfoot Adventures Kenya",
+                "category": "Tours",
+                "url": "http://www.bigfoot-adventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIX-QCGOErFj25GPdp0Ww1Q-HneJI8OD2YqbPp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tazama Africa Holidays",
+                "category": "Tours",
+                "url": "https://www.tazamaholidays.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_skwJY0jR02771S0qToHf0DX_Bx4q7whfPg1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventure 360 Africa",
+                "category": "Tourist Information Centre",
+                "url": "http://adventure360africa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ9b8hU3M1rbEqXtV3kbEmHel-9ptgcub9g1Mi=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Savannah Holiday",
+                "category": "Boat tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLJwD_3LSibBYjwlm8hynoxraIg7ezgO8nNTe1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Perfect Safaris Africa",
+                "category": "Tour operator",
+                "url": "http://www.perfectsafarisafrica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmjo8R7IDX63o1sEo2WlaZ2NYP4vBaeqFn0KCH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Animal Orphanage",
+                "category": "Tourist attraction",
+                "url": "http://www.kws.go.ke/content/nairobi-animal-orphanage-0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMmmaBCxGCzrNMvVMgsvlCPhcgnFGMEaVRb2M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Nursery",
+                "category": "Animal shelter",
+                "url": "https://www.sheldrickwildlifetrust.org/faqs#visiting",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Nairobi Arboretum",
+                "category": "Environmental organization",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEFeOhQ4VzZJoZf5itHnv5gsISrH_OeaJ5etcj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "url": "http://www.uhuruparknairobi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odeon Cinema",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrTvuWyAYIr5DYLlUZ65a9CAs1TExfp3XG8dUL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            }
+        ],
+        "Machakos": [
+            {
+                "title": "Makutano Area",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdzN6O_3VQUizr_uMK-_-WpqPNfkkqwfgAeQn1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/karen-blixen/",
+                "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "GMC Place - Kitengela",
+                "category": "Children's Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYznqeaCE1t1uWC0H3zZ9Xw4aL8QL0Bs4TrNAM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Machakos Golf Course",
+                "category": "Golf course",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtbMyiUOR3QFgNV5yVHPwAYiIz4Y8gjFH0oW_T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta Stadium",
+                "category": "Sports complex",
+                "url": "http://www.sportskenya.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRtDdyqN119viAxd1eyDuErZBh3nh1MqK-tncv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Nursery",
+                "category": "Animal shelter",
+                "url": "https://www.sheldrickwildlifetrust.org/faqs#visiting",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta International Convention Centre",
+                "category": "Convention centre",
+                "url": "http://www.kicc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCHerMarLnbfCsJBiKVjsL66QQkD-TAw3CqeOB=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bomas Of Kenya",
+                "category": "Tourist attraction",
+                "url": "https://www.bomasofkenya.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3NNyPw78pccjaSPlk2Hzo89eV0XMHwLDB1qqy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Market",
+                "category": "Shopping Centre",
+                "url": "http://www.villagemarket-kenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOciO6xOAPnY6sq5xE1tJrp1S6Y0ZgnoAy4CXYI=w148-h148-n-k-no"
+            }
+        ],
+        "Kisumu": [
+            {
+                "title": "Dunga Hill Camp",
+                "category": "Bar & grill",
+                "url": "http://www.facebook.com/dungahillcamp",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcq7K9s5nyidiNRgPcs72qAhHur9RJBFFBE0tA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kiboko Bay Resort",
+                "category": "Hotel",
+                "url": "http://www.kibokobay.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVoV_y3w0qUJpS2fWfANHJsgL2JB-ynP98EEZB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kisumu Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/kisumu",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOidyF_oZzoLqht_RFyW0lOnLVhm4eytMP29XTP=w148-h148-n-k-no"
+            },
+            {
+                "title": "KWS-Kisumu Impala Sanctuary",
+                "category": "Wildlife and safari park",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqp0GWHVI9_61Tv_2Oewd8VQgscZzHNHPOgvvK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cruise Lake Victoria",
+                "category": "Boat tour agency",
+                "url": "http://cruiselakevictoria.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOMOaNsDE6jjFitVPHvDobHhVI5V_XR2KcQrMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamhuri Victoria Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOgP5qmd5jAtLoJKmopL8bbkhPjjZJTYrcDsig=w148-h148-n-k-no"
+            },
+            {
+                "title": "The West End Shopping Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQproIOQgTIP740GXUKIQSHPp82r_KbibGaxML=w148-h148-n-k-no"
+            },
+            {
+                "title": "Impala Park Ostrich Pen",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeGEtEjxBchnHx-8B3zw0o4qfPLUH0IBcPc8x9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oile Park Kisumu",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQ6Zf0qhbjkaM_qvKAFlHFsJSybvZFNx9WWgas=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dunga",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAZhMXrvRFVxajnm3Sha2cyaXRnObw-sBpftk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kit-Mikayi",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOuzta9j8xURSjw8sajS9CLHfhcpoPisof7L5R=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Joseph's Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhXra5mFbB0sDFUCn0TQOBP7e2OUw_g49eRgoH=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTHLYqJAO6RNFX65sXZDZnBMak1Pb7cNqZ6zTq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ndere Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6YB0t2ajE73x3fPo8Di_6jE31QiGsbkSGYl16=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hippo Point",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq1jd25qqnLvW8-JOeoGgaUG-uFVRpqLveBFzi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thimlich Ohinga Historic Site",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvSoa_ZktBK3i52xiqL8pZ3jxj7uriGatPmlyB=w148-h148-n-k-no"
+            }
+        ],
+        "Limuru": [
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Limuru Country Club",
+                "category": "Club",
+                "url": "https://www.limurucountryclub.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBAO5ac-jsaZpuapTqXpDi1vboi_AIRZ3DndgV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Great Rift Valley View Point",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWxAwCeWpcPyHuYFtbBk8k5Jx1EnxI5rxo1CGL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bigfoot Adventures Kenya",
+                "category": "Tours",
+                "url": "http://www.bigfoot-adventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIX-QCGOErFj25GPdp0Ww1Q-HneJI8OD2YqbPp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kiambethu Tea Farm",
+                "category": "Farm household tour",
+                "url": "http://www.kiambethufarm.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhfqRyK_KmiIXgShYcjFRnUIzKmwv-qvUJTv5F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mlango Farm",
+                "category": "Farm",
+                "url": "http://www.mlango.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM9dASECOWO8gKA-JMGNRV8OeCbTrtBiAhr_Fu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventure 360 Africa",
+                "category": "Tourist Information Centre",
+                "url": "http://adventure360africa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ9b8hU3M1rbEqXtV3kbEmHel-9ptgcub9g1Mi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Perfect Safaris Africa",
+                "category": "Tour operator",
+                "url": "http://www.perfectsafarisafrica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmjo8R7IDX63o1sEo2WlaZ2NYP4vBaeqFn0KCH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masai Village",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8O6g05k5l0033oRym4IW14BH7xmfwnTgqTnAg=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Home Adventure Safaris",
+                "category": "Tour operator",
+                "url": "https://www.africahomeadventure.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS66Xf4xpu51UDgFjKlUJSl5qoZly2ZxeNaL-I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bush Pumba Safaris",
+                "category": "Travel Agent",
+                "url": "http://www.bushpumba.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoFYYAhmzA2nKDM40bWsO09wV4zXe9dB3odUSN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Hill Art Gallery",
+                "category": "Art gallery",
+                "url": "http://www.redhillartgallery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmXIqilWCzS8yTaAGgqx6wEYwMffthx9UMsE5c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kawamwaki Farm",
+                "category": "Indoor accommodation",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlWUKFVm7W2B6Jx2EjGJcvUDVfJ-NyCJ_KfzaR=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Savannah Holiday",
+                "category": "Boat tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLJwD_3LSibBYjwlm8hynoxraIg7ezgO8nNTe1=w148-h148-n-k-no"
+            }
+        ],
+        "Nanyuki": [
+            {
+                "title": "Equator Marker",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFPhGusSatwSYtOiR1FiGIIOjl0hnbyRD3lU76=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Cedar Mall Nanyuki",
+                "category": "Shopping Centre",
+                "url": "http://www.cedarmallnanyuki.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQe4PRIawnVoSo5MGUXGUxuK3ZWqe-ImA1t5cc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jemu Mwenda Expeditions",
+                "category": "Tour operator",
+                "url": "https://www.google.com/search?client=safari&channel=mac_bm&sxsrf=ALeKk03Qs9UJx0JXZuc1XQVvz3xDsdCCAg:1609776654860&source=hp&ei=Dj7zX4HbMcy6adrXpPgF&q=jemumwendaexpeditions&oq=jem&gs_lcp=CgZwc3ktYWIQARgAMgQIIxAnMgQIIxAnMgQIIxAnMgUIABDJAzICCC4yAggAMgIIADICCAAyAggAMgIIADoFCAAQkQI6CAgAELEDEJECOgUIABCxAzoICC4QsQMQgwE6CAgAELEDEIMBOgsIABCxAxDJAxCRAjoLCAAQsQMQgwEQkQI6BQguELEDUOwIWM8LYOAVaABwAHgAgAH7AYgBxAWSAQMyLTOYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK44vxnJu8_H9DipGAnW--coEj7ePfzHTO3axq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odyssey Safaris",
+                "category": "Travel Agent",
+                "url": "http://www.odysseysafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxlwc9zjPPmzlADwYaybdz4K-rCFsOLubJTzTG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Game Africa safaris",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMur-GtsAbX7v4OU_PNeXxorHCdWfVQkxHqcfxb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ahambi Tours and Travel",
+                "category": "Tour operator",
+                "url": "https://ahambitours.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM8cdnkFVzm5RI2KTxR0czZfP0-84sUVqBw0ym=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nanyuki Vineyard Church",
+                "category": "Religious institution",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7jcnt1SvPau5Jwv3DxvcGKJRY9e8xDnQesMXv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nanyuki Kanu Grounds",
+                "category": "Fairground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUcY9l-JKkeJVyWANkyDsDyMgEazjnHM24ckmI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lewa Wildlife Conservancy",
+                "category": "Nature reserve",
+                "url": "http://www.lewa.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMh4espnXyw9F86sVh9-l_Qjmsvke1ak_XTVBOJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ol Pejeta Conservancy",
+                "category": "Nature reserve",
+                "url": "https://www.olpejetaconservancy.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxpUDaOqMdgryyA0FBd57OSkc9wETrfYPoMDRs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red cedar tents - The hidden gem",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPn1LdMJJulWlNbUTsu4An_ZgiWGzacH3TVe_Iq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nanyuki Show Ground",
+                "category": "Amusement park",
+                "url": "https://ask.co.ke/nanyuki/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmfUN3kBnaSxIMmcQVoQ_AAWAJtnSAQx9R_N2i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kenya National Park",
+                "category": "National park",
+                "url": "http://www.kws.go.ke/content/mount-kenya-national-park-reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPA1j-4OR1b2ry8kyhbsnszG8DQHUs49DioX5Ki=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bomas Of Kenya",
+                "category": "Tourist attraction",
+                "url": "https://www.bomasofkenya.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3NNyPw78pccjaSPlk2Hzo89eV0XMHwLDB1qqy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ol Jogi Wildlife Conservancy",
+                "category": "Wildlife Refuge",
+                "url": "http://www.oljogi.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9spVes61vRkHo8zhz5d2kK_5ZSBbrp6SCw6dd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta International Convention Centre",
+                "category": "Convention centre",
+                "url": "http://www.kicc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCHerMarLnbfCsJBiKVjsL66QQkD-TAw3CqeOB=w148-h148-n-k-no"
+            }
+        ],
+        "Karuri": [],
+        "Eldoret": [
+            {
+                "title": "Oltepesi Tours and Travel Ltd",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxuT7TuxZBVtqPQU4GRW4b2qObfEluizvmjDR2=w148-h148-n-k-no"
+            },
+            {
+                "title": "MOHRALE TOURS AND TRAVEL",
+                "category": "Tour operator",
+                "url": "http://www.mohraletours.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuv7UyaMiBO-3vNUTWG2HvRE6UTAYd8aB8tzj_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afrireads Book Shop",
+                "category": "Book Shop",
+                "url": "http://www.afrireadsbooks.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-EDP-jkvSsxvlbshWe73qS3Rn-CPD38IlOJHF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oval Denim Collection",
+                "category": "Clothing Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUSNYHz3QNjPcYM4NwWB70U1StqRKvfESw93h3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kazuri gift shop",
+                "category": "Gift shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcwY6qRGrlSt5C-SSyW5VUgnSReTu0_RzKhS7F=w148-h148-n-k-no"
+            },
+            {
+                "title": "WIA BEAUTY, Microshading in Edoret, Beauty School in Eldoret, Beauty Colleges In Eldoret, Lashes Extension in Eldoret",
+                "category": "Make-up artist",
+                "url": "http://www.wiabeauty.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPtQzl0OZJEo7VysxkIu9XeIaRdJ0aY566_jM7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Benterville Spa & Wellness Centre",
+                "category": "Massage spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTEPlTmykh6SRlD3XxAWYYVHTZDHMtwcEVzL36=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eliners Tours & Car Hire limited",
+                "category": "Transportation service",
+                "url": "https://www.elinerstourscarhire.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLwjXt3afBd3F9syO7jjbL78LPmyD8OBb6AXLy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Siali Miles Safaris",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiHMurxv0aonMi4cZb-T7GuXMKM6b2lCcXpYv8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Onyesha Safaris",
+                "category": "Tour operator",
+                "url": "http://onyeshasafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO77umrxk6K_KaNx2VWwGRus05_O2XGdM571KEu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kapsoya hill",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2NxlOc9jkt0stNowXQ8HCwiGZr7I3koLuItSE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mlango Water Falls (Chepkiit Waterfall)",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN08S9RVKLOuJFfuRP5QZHYFqONfGL0gD5unUIB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eldoret Sports Club",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMTcBsALrSQkXvfPCBTAZHKgGNWvIo1H7ME3of=w148-h148-n-k-no"
+            },
+            {
+                "title": "A.I.C. Fellowship",
+                "category": "Church",
+                "url": "http://www.aicfellowshipeldoret.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6sfoeSICoWbmRKgWViBSi4v4nxCKqCqAD17Ae=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Club",
+                "category": "Golf club",
+                "url": "http://www.kitaleclub.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIWuBuMK25TMCwBfQ8OrJOXMhgrzBfj7Cw4EMk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Nakuru",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9VpJiOgApE1Fm_YtHYOrQkSDQ2VE4nTGY14N4=w148-h148-n-k-no"
+            }
+        ],
+        "Lodwar": [
+            {
+                "title": "Jesus Hill",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLr5tPUpdhJB9Z9m_1uNamdZTcR0O_4cONnSyS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kawalase Bridge",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwt41rzgnsO5hA6YNX20BwhNaQMUsbwZc5-WYS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lodwar Airport",
+                "category": "Airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNo_qhZ3CAMBhPi5mGfVQU8gSXXYMkDPDrwH9bS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ceamo Prestige Lodge",
+                "category": "Hotel",
+                "url": "https://www.ceamolodge.com/",
+                "img": "https://lh3.googleusercontent.com/proxy/doKk3d8tcnLEuaLY62v6t2peBWfe1CZEjHIvn81b0eZ2GK7Oqtq_hxZke6SIGoKv1gHTYBRZBtArmIaUmFVqfRi2FRWSH96xt5f3Md4eUabm1aR-dINbK8bSqJl5bxyXUUPdmwWMamxEKCJ0-1g_iV67OoiGXdc=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Great Turk Reef Hotel-Lodwar",
+                "category": "Guest house",
+                "url": "http://www.greatturkreefhotel.co.ke/",
+                "img": "https://lh3.googleusercontent.com/proxy/n-TeQZmp_pcrtuOvOkC3D6lMnSlD9woN7ogWPZbjTkcoitjiJVC7HgYvVbk8s7wvjO5yn6YXv0YpFX3iIywd5HTz2W0u9HMlv6zkkSgSAJYA4VUvBgk7eZNPhvox2gXFWwBANYnDOOUiepen5Wo0rgVc2FSxAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Cradle Tented Camp",
+                "category": "Hotel",
+                "url": "http://www.thecradletentedcamp.com/",
+                "img": "https://lh4.googleusercontent.com/proxy/J-TkMETDUU_qi5x6EwjXbIg5IEb20IGv7yBsuTviIJxVec-PrbRFt3FDMUvQBLO80qZuVUyFEYDD11n4wSB3G6THZcSlN-LlfJx5Mx8V5eRG3Twe6-P9r_0WJiAPxQsteAO_dzN6EG7GSEaxuXlPGIQbgPzSXg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sandfields Hotel",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSwZ7SXCFFOz0g70bHx3_HkyLp8R580qz4bW9g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club Marble Lodwar",
+                "category": "Nightclub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0u9_il5JdK2tmVjc0aFLmalokwv08ufGr3GaR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stegra Hotel",
+                "category": "Hotel",
+                "url": "http://www.stegrahotel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPh5Y_vf4F1z7-7cqcavAhzJdJzA97yoQW-SxLy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Augustine's Cathedral",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBRE0xoxnOQNgDMvwuQTaYJEQ9n2f0NsK5C0DG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eliye Springs Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsAn9mGA4BGd-OBRlREtdPAsKj4N_UOB839TCK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kristin Kamp beach",
+                "category": "Swimming lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMHBu81w1wrFH4mGvMgVwzKx64KqB2RkCACvk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kulal",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLb7Azn4EUx8ym9rc_yN3Ge7X88qSorO82wt5g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eliye Springs",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXvigyJb2HwWMU_SmsHgzcBsPWl3pGFsd69QDR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Turkana",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIBDVrBsGovwyque8wjwa2fyAYTSmlHGhwAcy3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koobi Fora Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1pEpr7BTDFIg7TXQFPVA_QN6RPjQLL61fOPDj=w148-h148-n-k-no"
+            }
+        ],
+        "Mtwapa": [
+            {
+                "title": "Mtwapa Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZUbgwQDqnrMCcFO0Klh-1aFcCH6aaQb-LqlKQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salama Beach Resort",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzLgC0NitOuLAqTtFdaEv0NyJlrWc-GwVcza6p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mombasa - Malindi, Comfort Inn Junction",
+                "category": "Landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKlts12m0onJuxskVN1_3ZKiYgOe5lIYKtIzgs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jumba La Mtwana",
+                "category": "Historical place",
+                "url": "http://www.museums.or.ke/content/blogcategory/8/40/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPM8Fc4c5PyvaH1lnzsbONgp4ApcxiZKFhqEnVR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamburi Beach Hotel",
+                "category": "Hotel",
+                "url": "https://www.bamburibeachkenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFCcHdCyITcDaJomC-Tj0-MTndJcfPrKpys0zt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Jesus Museum",
+                "category": "Heritage museum",
+                "url": "http://www.fortjesusmombasa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzo_W4GIxDd-aJMBQVYDgVLw9MUJiuxBk-jZUl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wild Waters",
+                "category": "Water park",
+                "url": "http://www.wildwaterskenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVhvNXv2yA-YNasJXYNLLnhf5DGWYtEpIGQuKB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diani Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ4pLHEM-GC_HfDBPAwze0iNrHjtOz00Nbev60=w148-h148-n-k-no"
+            },
+            {
+                "title": "A. C. K MOMBASA MEMORIAL CATHEDRAL",
+                "category": "Anglican church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlFIkLeU-L4wTMqu9dhN4CWhTbgfxNmL1TF-rR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shri Cutch Satsang Swaminarayan Temple",
+                "category": "Hindu temple",
+                "url": "http://www.scsstmsa.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTP7xkqXq4PWiTNg3iG0oy2LK3Id43H_bYsKd9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mama Ngina Police Station",
+                "category": "State police",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP14ymKJknRu38t5Z_0mP8bGBjNFQfvgQ_iQq1q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nguuni Nature Sanctuary",
+                "category": "Animal park",
+                "url": "http://www.nguuninaturesanctuary.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VeIHYnd8eBzAV0Qi2IG59qSVHl6-mPO_6DQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haller Park",
+                "category": "Park and Garden",
+                "url": "http://haller.org.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiHd1hQ-F19JcOhMt7TkXqL3E0DzFIBo7LW2pZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Town",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0F8L9Z2z3zxzVX5Y49qFpYFumWju0fUKG31RD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pembe Mbili",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcVJIDjqH2P9zsUPM4A0aDeqocIV4LzhYLgC9w=w148-h148-n-k-no"
+            }
+        ],
+        "Narok": [
+            {
+                "title": "William Ole Ntimama stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBOESDq4rSHcPsCMCVAgdppz5B4SD6EqOJMhdf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mara Triangle",
+                "category": "National reserve",
+                "url": "http://www.maratriangle.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOvPnSJemdt1gDF5nX9Fh3M59uhj4qw46sB_ei=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenya National Library Service - Narok Branch Library",
+                "category": "Public library",
+                "url": "http://www.knls.ac.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMipcXFy455YbSw5L7NJP_PXTR4lewWPsVKOLQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oloirien adventures",
+                "category": "Tours",
+                "url": "https://oloirienadventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-UXTzrVlImkKO3OesH2lPAxcw7Gi0Vtu8EJcZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anga CBD Cinema",
+                "category": "Cinema",
+                "url": "https://bit.ly/m/angacinemas",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKecm4J--9v4OvC27grEM5fl7th3i1Hh7tc7v-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Westgate Cinema",
+                "category": "Cinema",
+                "url": "https://www.westgate.co.ke/movies/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGHsXMeR3IYLBc--EqspEKvI-wBeXJEmLHBScX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Century Cinemax",
+                "category": "Cinema",
+                "url": "http://www.centurycinemaxkenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnHa4KiCg2NoN4eYVWi7YCUW2y4G_JAXmwZ6Ir=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anga Diamond Cinema - Diamond Plaza 2",
+                "category": "Cinema",
+                "url": "https://bit.ly/m/angacinemas",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJi96eMI2SvewGnwZ47zFQPun-Z5HQft4mMec=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prestige Cinemas",
+                "category": "Cinema",
+                "url": "https://www.facebook.com/PrestigeCinema/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIhiGv8pvQeDPFM4E-WoNndLcJVvGg7dkkPy_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gracia Gardens",
+                "category": "Hotel",
+                "url": "https://graciahotel.co.ke/",
+                "img": "https://lh4.googleusercontent.com/proxy/eus8H827RUJghZe0QZ6e_THFJXr8B-k9ptWF6R_Z7HNir7Flg99W8qdXaU8k-C-WQXxif4-zEQYurf_UMQIO3J1cavp2aVLh0zP-XE7oZpHZ1jNBioaa-wOcmYHc5kSB0FK-AzcsyrPZNIymrxJU-2014RDmZMw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bethsaida Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk_KwJvt21MHzOzoHG5MYw7mzhnGl8G9U2FDz9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Naboisho Conservancy",
+                "category": "Nature reserve",
+                "url": "http://naboisho.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx3anokj9jE--fGtt94156wpH87Pup9CLxNwuJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Military Baracks",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2rGOPXBYGV_E8PttqV5Ctr0czXHP7Skfhz9AG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natare Gardens",
+                "category": "Garden",
+                "url": "http://www.nataregardens.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLNedWss1-vUUcc77hYxjsqXuCMBp8zynkEKA5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gikomba Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKZ05r0ijFMg3CriiBH_pl45d_KTZXJw_rIUW6=w148-h148-n-k-no"
+            }
+        ],
+        "Garissa": [],
+        "Busia": [
+            {
+                "title": "Teso Gardens",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtWBNAdUPfWbwLe17MotAOxI4q_zSDguO2q_kN=w148-h148-n-k-no"
+            },
+            {
+                "title": "URA Customs Yard Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYg8DoUVfpC-Sb0HSRsdFOVKwS1NfDsA5cKK-O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malaba Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0BOc7h1f44TkHIDsyDeU04vCT1yGUNFb9B4Ir=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mumias Town Hall",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzU-Gfbb10BEmf4bSpkeHjxj0PN4dXJApsomcy=w148-h148-n-k-no"
+            }
+        ],
+        "El Wak": [],
+        "Kiambu": [
+            {
+                "title": "Evergreen Park & Garden",
+                "category": "Campsite",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFblO7mOdt6C0syo-l6wDQgUtOOonzvLeRU39m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Market",
+                "category": "Shopping Centre",
+                "url": "http://www.villagemarket-kenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOciO6xOAPnY6sq5xE1tJrp1S6Y0ZgnoAy4CXYI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Browns Cheese Farm",
+                "category": "Dairy farm",
+                "url": "http://www.brownsfoodco.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPltBtjpxI7CJksq5il0gzyyZEKkcPXnkQXCJoy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parklands Baptist Church",
+                "category": "Baptist church",
+                "url": "https://parklandsbaptist.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtHrSuCk5Ta820GE_AcAStNFHQtLrlFYCu6oTg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parklands Mosque مسجد",
+                "category": "Mosque",
+                "url": "https://parklandsmosque.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKmdLHICCpgOThv0_fsCPWkivUHkT3VJjOdBS9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Animal Orphanage",
+                "category": "Tourist attraction",
+                "url": "http://www.kws.go.ke/content/nairobi-animal-orphanage-0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMmmaBCxGCzrNMvVMgsvlCPhcgnFGMEaVRb2M=w148-h148-n-k-no"
+            },
+            {
+                "title": "International Christian Centre - Nairobi",
+                "category": "Church",
+                "url": "https://iccnairobi.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXHFaHswBI7IL0CSiU2U5NweBMUTqqJn9CMCWo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kellssy Spa and Massage Parlour",
+                "category": "Massage spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9bPMHcqDcmNT1mIcmf7hCgpTxNnwQAoo9PFRA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta International Convention Centre",
+                "category": "Convention centre",
+                "url": "http://www.kicc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCHerMarLnbfCsJBiKVjsL66QQkD-TAw3CqeOB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bomas Of Kenya",
+                "category": "Tourist attraction",
+                "url": "https://www.bomasofkenya.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3NNyPw78pccjaSPlk2Hzo89eV0XMHwLDB1qqy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/karen-blixen/",
+                "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Naivasha",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO52_2pUFazkOvLS3up5-_FZZUED1W3JzbUa3qV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sagret Gardens",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXahjuF5--4kZo-cWELehQoGdpjeQnAjKl6vk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kikuyu Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsgUZmQUIt2zl72h4wdN5v2BQaPuKs4ig5Ic-2=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            }
+        ],
+        "Mombasa": [
+            {
+                "title": "Fort Jesus Museum",
+                "category": "Heritage museum",
+                "url": "http://www.fortjesusmombasa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzo_W4GIxDd-aJMBQVYDgVLw9MUJiuxBk-jZUl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haller Park",
+                "category": "Park and Garden",
+                "url": "http://haller.org.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiHd1hQ-F19JcOhMt7TkXqL3E0DzFIBo7LW2pZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyali Cinemax",
+                "category": "Cinema",
+                "url": "http://www.nyalicinemax.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlr5KW3Ycu4sKKfZbWIC7XSI5omjLlxbyt4XWA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wild Waters",
+                "category": "Water park",
+                "url": "http://www.wildwaterskenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVhvNXv2yA-YNasJXYNLLnhf5DGWYtEpIGQuKB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mombasa Go-Kart and Adventure Park",
+                "category": "Adventure sports centre",
+                "url": "http://www.mombasa-gokart.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSgzgX6Q4008zGUEt-Qz8OJId1ziBPlXEETUCa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nguuni Nature Sanctuary",
+                "category": "Animal park",
+                "url": "http://www.nguuninaturesanctuary.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VeIHYnd8eBzAV0Qi2IG59qSVHl6-mPO_6DQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mama Ngina Waterfront",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4ixy37xu_q8D3UVMZH2UdZLJJZdolFdV_PyJL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bombolulu Coast Workshop and Cultural Centre",
+                "category": "Cultural centre",
+                "url": "http://bomboluluworkshop.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM86wKJw67kcagTjnhIcEPtXTtuZPEiPUvc8As=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyali Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdLhnIqFIcyDlTzbV0KJhD8Po8oC3y68tk3XOh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mamba Village Centre",
+                "category": "Entertainment and recreation",
+                "url": "http://mambavillagecentre.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODSNjIRQQI2kYIoN62JE_5pHSBVuwjm-hu2QAc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shri Cutch Satsang Swaminarayan Temple",
+                "category": "Hindu temple",
+                "url": "http://www.scsstmsa.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTP7xkqXq4PWiTNg3iG0oy2LK3Id43H_bYsKd9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamburi beach",
+                "category": "Lodging",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAL5tzATXk14tVhpoi-tTCvNeOFjQ_pipahMOo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsavo East National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/tsavo-east-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7sHF6Kcrssxw1DgdczNrABLMkpK-U0L6_didu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Town",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0F8L9Z2z3zxzVX5Y49qFpYFumWju0fUKG31RD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shiva Temple Gombeshwar - Shree Hindu Union Mombasa",
+                "category": "Hindu temple",
+                "url": "https://www.facebook.com/pages/Gombeshwar-Mahadev-Nyali/1416539378561491",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1bIFAFRrUTq3jqm_5IFUJk6_wJxIwMxeDwNTN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mombasa Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH39_ib2kcFrGYfjMFatyeDJn6djBiX9Da66SL=w148-h148-n-k-no"
+            }
+        ],
+        "Voi": [
+            {
+                "title": "Msherembe Safaris and Travel Voi Tsavo",
+                "category": "Tour operator",
+                "url": "http://msherembesafaris.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXWbSYHJPVO4mxE8ULUl9uddRFvo8ITLq_1ihJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kedi Trail Adventures",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdneoW5M5ngNNf0toG2PuTrdwf0FLHNk17D8hu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsavo East National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/tsavo-east-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7sHF6Kcrssxw1DgdczNrABLMkpK-U0L6_didu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vasco da Gama Pillar",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOZwZ1kkOcAhhlEZplk3tzsppEUeIRbUz6usOQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jumba La Mtwana",
+                "category": "Historical place",
+                "url": "http://www.museums.or.ke/content/blogcategory/8/40/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPM8Fc4c5PyvaH1lnzsbONgp4ApcxiZKFhqEnVR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shri Cutch Satsang Swaminarayan Temple",
+                "category": "Hindu temple",
+                "url": "http://www.scsstmsa.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTP7xkqXq4PWiTNg3iG0oy2LK3Id43H_bYsKd9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Local Ocean Conservation",
+                "category": "Non-profit organisation",
+                "url": "http://www.localocean.co/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIC8QqsGXCIGwiLJ6xVyP2KzuqGKebh8jn3Rjl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mida Creek",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYCaDF8cyuRlA7LriPLPsPbqIE5EWDZ11Bm62z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mamba Village Centre",
+                "category": "Entertainment and recreation",
+                "url": "http://mambavillagecentre.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODSNjIRQQI2kYIoN62JE_5pHSBVuwjm-hu2QAc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Watamu Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP05Pj-hX_6ZJ3YgM6QBYB2Ce6E7jstwfUWTiIf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Town",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0F8L9Z2z3zxzVX5Y49qFpYFumWju0fUKG31RD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mnarani",
+                "category": "Administrative area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiirPzxA-fEssMNbdQ0MDfLgFseIvrMO2zuJK1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mombasa",
+                "category": "Locality",
+                "img": "https://lh4.googleusercontent.com/proxy/KQNS1FIqfT99ts1Lw5aGFlMp9dZw5f0IvYyYUj_W4bDmb11lMAuAthKYtXl8QCpOxP28CxMcRWXVEiSmWxYiXOz4fJqwumK4LlwaLMap3essBJoyw_nT-PG5rECTxrJA2K0mh9YB2QHmjYClK_0I87GQLGz-uw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mudanda Rock",
+                "category": "Rocky",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCGpQSWmW2gioWcp5_Q7o8yY94FQTGYTInxGpJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amboseli National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/amboseli-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-IIdJNmzDM5Nsw3dr5U2HhyEjhtHpJLOhA8Vb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shetani Lava Flow",
+                "category": "Lava field",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpIFdNh2yXqbqUlPKBFlVZXg8-iR4fHmGGPcKr=w148-h148-n-k-no"
+            }
+        ],
+        "Ukunda": [
+            {
+                "title": "Diani Bikes",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM18gC-oiOXzVjEcE8qEEiUXIYMRxlzLrsvxpH2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diani Beach Shopping Centre",
+                "category": "Shopping Centre",
+                "url": "http://www.dianishopping.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrXmYgSy-EnzwJvXLysgaf1FkM3yfAxAD8USKq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monika Tours & Safaris Diani Beach Kenya",
+                "category": "Tour operator",
+                "url": "https://www.monikasafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpu2wAw1VX0OafMfjv8pM7h9QdNoDc6I1-aU3o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diving The Crab - Kenya's Best Scuba Diving Centre",
+                "category": "Diving Centre",
+                "url": "https://www.divingthecrab.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXUT947xAd7kgrjFpPAktvXvjVN-FjHnDuh6gI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natural World Kenya Safaris - Diani",
+                "category": "Travel Agent",
+                "url": "https://www.naturaltoursandsafaris.com/experience/beach/diani/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOT_mB6pNRPBmFKlIXgA6rT-QzbsA1yc7Tdfehi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Surprise Tours & Safaris",
+                "category": "Tourist attraction",
+                "url": "http://www.surprisesafaris.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2Wv_SPMRGusqLOgv4Xsakktfb9HG_EPh9mH1P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dream Kenya Safaris",
+                "category": "Travel Agent",
+                "url": "https://www.dreamkenyasafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_3CvQPsPqP2PmwzjGntWjKUbjXcEG_RMEnugc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Felessy Tours and Safaris - Diani Beach",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxVpXecKucWslv21pTc9RCkEja3gQ90VefO5ni=w148-h148-n-k-no"
+            },
+            {
+                "title": "Almasi Art Agency",
+                "category": "Art gallery",
+                "url": "https://almasiartagency.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNF9XeWxrie-OQj7nJyA0TyKPnuKXbAx3Bqek3k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Travel Tamaro Adventures",
+                "category": "Tour operator",
+                "url": "http://www.traveltamaroadventures.com//",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMq-LFbEfPaRGzdvxlf5xPyJAZ6RA4IorTLvvzi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquaparadise safaris",
+                "category": "Travel Agent",
+                "url": "http://www.aquaparadisesafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY0Y-EHFEMw-MtGMaAplQK1UyIAnG4DVCWo1Hu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Top Africa Safaris",
+                "category": "Tours",
+                "url": "https://www.topafricasafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2TiXYvuOg2BT-dWHNZXuQnlN3A7KkzoAwjhZI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kite Motion Kitesurfing School",
+                "category": "Recreation Centre",
+                "url": "http://www.kitemotion.pl/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnk7ICWRoI9kmfj1tfkVvdZCv1mN55fA_uhpw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colobus Conservation",
+                "category": "Non-profit organisation",
+                "url": "http://www.colobusconservation.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCdoKilRV8ns2SEsbtgRCJijahMflVHE3zXL_0=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Bush & Beach Adventures",
+                "category": "Tours",
+                "url": "https://kenya-wildlife-safaris.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMShyCVcT3OoEThtHx5vrGaA1MCLkdoXPYmhz2I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diani Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ4pLHEM-GC_HfDBPAwze0iNrHjtOz00Nbev60=w148-h148-n-k-no"
+            }
+        ],
+        "Lang'ata": [
+            {
+                "title": "Karen Country Club",
+                "category": "Golf course",
+                "url": "http://www.karencountryclub.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWpfIa0UNjYzwjqzdceIJbWL650VUnQzjSHnGu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Nursery",
+                "category": "Animal shelter",
+                "url": "https://www.sheldrickwildlifetrust.org/faqs#visiting",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Hub Karen",
+                "category": "Shopping Centre",
+                "url": "http://www.thehubkaren.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZZPvIe6UoUzIVonYhRCio1UssaVqiyzKME1yz=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Waterfront Karen",
+                "category": "Shopping Centre",
+                "url": "http://www.thewaterfrontkaren.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8IRMrQb-uT9M64i0OxKhQWBy8qhczVcYl8-rm=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Oloolua Nature Trail",
+                "category": "Wildlife and safari park",
+                "url": "http://www.primateresearch.org/index.php/about-us/oloolua-nature-trail",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOffBkIr-X_1P5M7cuJH0ejZwodiGrY6Nt1bVD5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Mamba Village",
+                "category": "Park and Garden",
+                "url": "http://mambavillage.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhP-RbihuX3hUKbYP205WVnIMgjN2Qiulyzyu_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitengela Glass - Studio",
+                "category": "Glass blower",
+                "url": "http://www.kitengela.glass/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf-VlXjRq5Td25-OG463MZ2cRW0zYXkbvvslne=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "url": "http://www.uhuruparknairobi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "AQEEQ GALLERIA",
+                "category": "Jeweller",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGHyr4-MN0HkHYn7mwFHmqJT7A4I7ikKIapEEX=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Golden Eagle Art Gallery",
+                "category": "Art gallery",
+                "url": "https://goldeneagleartsgallery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmGyjTdhpSOjbMBHIsDMuqAfTYTx88Mvlpe65g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Utamaduni Craft Centre",
+                "category": "Artistic handicrafts",
+                "url": "https://utamadunishops.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8emSoEqQitKJiZP38JdpPM_6o0C3BTQmU6NiY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maji Magic",
+                "category": "Water park",
+                "url": "http://www.majimagic.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMg1P7elKDPVw3yUNK2LGOjfXmZu_a5jT8oGfAb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Coffee Garden and Cottages",
+                "category": "Restaurant",
+                "url": "https://www.karenblixencoffeegardens.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlgHlZP52tKReNfCJ3zbZNR5JmkQ3wvAmZZz8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yaya Centre",
+                "category": "Shopping Centre",
+                "url": "http://www.yaya-centre.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOC2pg6yJlOuQU-3j0z_vkSesDGjyaV1yRYf9ek=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bomas Of Kenya",
+                "category": "Tourist attraction",
+                "url": "https://www.bomasofkenya.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3NNyPw78pccjaSPlk2Hzo89eV0XMHwLDB1qqy=w148-h148-n-k-no"
+            }
+        ],
+        "Mbale": [
+            {
+                "title": "East Trails",
+                "category": "Travel Agent",
+                "url": "https://www.visitelgon.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnBaCstThfNVmAfrO7MQiaXzWUOb0PTH6fAeRF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mt Elgon Culture And History Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3q0K9LNAQ2lC9lM-bJR-wTu-La8hdo2bofJxl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bright safaris Uganda limited",
+                "category": "Tourist attraction",
+                "url": "http://www.brightsafarisuganda.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnt3iBcWSlJ4xkjRLNkhyPTvWBLOVd9IpgoC7S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mbale Clock Tower",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuNvxUP6Lc0dDsmB10F9p385Uq172hgzuiaT9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Elgon National Park",
+                "category": "National park",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMp3ewHnzExMOEH3Cn1J29IAmBcyTUk5SxYL0E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pearl Haven Christian Center",
+                "category": "Church",
+                "url": "http://livingwateruganda.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOxBclGqgQjZfeEnDnQjIkZJLmcR-wURk_QhxV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club el Tanjia",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvI3VLybNJknP6IEDA4y0FubkxRNr-_Ym0i6bD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sipi Falls",
+                "category": "Tourist attraction",
+                "url": "http://www.discover-sipi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdreYgi9IR93BHusjb4epgfxZgGcEksRW3oiqj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sisiyi Falls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQkk09MnG9E-mo7H60Z0pMhqqE7qEvt54oiX44=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyero Rock Paintings",
+                "category": "Historical place",
+                "url": "https://steadysafaris.com/nyero-rock-paintings",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt7AadkSfwht52I5kzfFpnvRGAFCCemqfP-HH9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mbale City Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrAvbR6vZ3X7LP5_jk-dPwB3FKAOK990Sn1QqL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mbale Sports Club",
+                "category": "Sports club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBe5-xmzrv2HoI2q1fBS1i-FtzNseiHBc2-WoO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cwmbale Wildlife Education Centre",
+                "category": "Wildlife park",
+                "url": "http://www.pont-mbale.org.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNehv_WjputoqQpNMJY5o4a9ZdcQ2kfmbMedOa6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mbale Municipal Stadium",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPen8Rm5zO1rroY9ORRHHGoWVZtbrE8ypLhRZzd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Elgon",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1iWFcxdm4h2z0zFlRYp64iZB38r10gdW0gx5L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wanale Ridge",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNd0FZwpvMA_jmmKNpK9qtCEpNQd8J8qlCMNGDJ=w148-h148-n-k-no"
+            }
+        ],
+        "Kitale": [
+            {
+                "title": "Treasures of Africa",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-3QlNimCpy2xtqpgsG_TL0MFaWEUp7DYDotJp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakamega Forest",
+                "category": "Tourist attraction",
+                "url": "http://www.kws.go.ke/content/kakamega-forest-national-reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOx2jEGWg3G3hvQ_zaHh1Yyf4_LOyG-9jYF6Tm1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Makuti Restraunt",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvZaTmeKsf2f1U8HVDDkpjKm0PnkSfxsWP8AB7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoBuWyeGz1_SG2abi7h0eEDoV-zEhPnDSEgubZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "KWS-Kisumu Impala Sanctuary",
+                "category": "Wildlife and safari park",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqp0GWHVI9_61Tv_2Oewd8VQgscZzHNHPOgvvK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kapenguria Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2kgIUJhAolCniS0YhDOBT6akxikmxIZbEd33O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Nakuru",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9VpJiOgApE1Fm_YtHYOrQkSDQ2VE4nTGY14N4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Showgrounds",
+                "category": "Scenic point",
+                "url": "https://ask.co.ke/kitale/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS07DH6yIl7gRqiY99VQlcBGU3_m63r8Z5-zVh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nakuru",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDN7e3fvneKe4fgRc0NW57P1HyVnF2m6kxoJcz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenya Wildlife Service Elgeyo/ Marakwet County",
+                "category": "Wildlife Refuge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZJw3LCqZ-HFcqaDygU6HorkeNYI0K5oa7fn_1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Elgon National Park",
+                "category": "National park",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMp3ewHnzExMOEH3Cn1J29IAmBcyTUk5SxYL0E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp83xaK38HnG3IZchzG3CZTceCP11gx48lRgOD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Nature Conservancy",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9nayuVoPa6RN-SOqGvBqdC_KvzXj3EGViQEJq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swara Resort Club",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlWAmmjuUFgFukgWgI_7-5MdHP9CLj9oANkXZk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saiwa Swamp National park",
+                "category": "National park",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoOCV-9pTVRAuVCyb1fLLHwjhqQCLh_y_Ut3xU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faith Community Church (AGC)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgVq4BAXWJPneXn4dONdVvn_nsHQKR3xAVTs31=w148-h148-n-k-no"
+            }
+        ],
+        "Embu": [
+            {
+                "title": "Deliverance Church Embu",
+                "category": "Pentecostal church",
+                "url": "http://dcbvembu.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4WEw6l0jadVsieBSWLr-aXl2p4WayAFOclcuI=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Pauls Ack Cathedral-Embu",
+                "category": "Anglican church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOQCkH3iRYoMhx8GqB40EFutZVfrs89oXnbONm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Billionaire Club",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWgnJcmfDjmF2CMDUripEXhjQcWXpqcGjj13e8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jangwani Camp Sagana",
+                "category": "Campsite",
+                "url": "https://jangwani.co.ke/web/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGq0zuBOW1mnl05dYDIWgjQkJGahCvM_t9NgpH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/karen-blixen/",
+                "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenya Railway Museum",
+                "category": "Rail museum",
+                "url": "http://www.krc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP65NBO6KEb-zGdeiqpnCtY8ToAKROnuDbqpADx=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kenya",
+                "category": "Mountain peak",
+                "url": "http://www.kws.org/parks/parks_reserves/MKNP.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9_pN6-ST-Nudm98Re3Godf3sen_qUf91OeWLV=w148-h148-n-k-no"
+            },
+            {
+                "title": "kirinyaga university school island",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQIXWxn_T7PSnmzZVMLOc4LeHaIIABoSPhwz9U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kenya Wildlife Conservancy Animal Orphanage",
+                "category": "Animal shelter",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQqmuwGaKs-asZjOAYBmyHfVvT75Xmcl078CVv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rupingazi River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-it1fa47vU7FqqIT3EHLkxdc0S7IY17lPmk_A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iveche waterfall",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQDRoRM28FDLHorDF2ihjlG7Swr843_jyZimFq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenya Forest Service Station",
+                "category": "National forest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObOAxrei3UiNjohu9LDNMaMoGfezyF-EIiDY2p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meru Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx56jNhiaHsOf2L6EAjEKIt-1Cycb_Uvrs1U-4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Equator Tortoise Park",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw6lj7gz5XFHigkapjN7YnbVmGtcg5JHIyUHo1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chuka Playing Field",
+                "category": "Stadium",
+                "url": "http://www.chuka.ac.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt_B06ClJLwOUrahGBxa_0K7ynK0wGREct0zAm=w148-h148-n-k-no"
+            }
+        ],
+        "Kimilili": [
+            {
+                "title": "Kitale Club",
+                "category": "Golf club",
+                "url": "http://www.kitaleclub.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIWuBuMK25TMCwBfQ8OrJOXMhgrzBfj7Cw4EMk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakamega Golf Club",
+                "category": "Golf club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODUVKzKcc3DbG12mJZql3avNi4FlMEYbEy1vEc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muliro Gardens",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHzUkmhJcLSpsiZ918zYHyhBBitHBGuvpLo9fo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mumias Town Hall",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzU-Gfbb10BEmf4bSpkeHjxj0PN4dXJApsomcy=w148-h148-n-k-no"
+            },
+            {
+                "title": "URA Customs Yard Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYg8DoUVfpC-Sb0HSRsdFOVKwS1NfDsA5cKK-O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp83xaK38HnG3IZchzG3CZTceCP11gx48lRgOD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Makuti Restraunt",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvZaTmeKsf2f1U8HVDDkpjKm0PnkSfxsWP8AB7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Nakuru",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9VpJiOgApE1Fm_YtHYOrQkSDQ2VE4nTGY14N4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Showgrounds",
+                "category": "Scenic point",
+                "url": "https://ask.co.ke/kitale/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS07DH6yIl7gRqiY99VQlcBGU3_m63r8Z5-zVh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thimlich Ohinga Historic Site",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvSoa_ZktBK3i52xiqL8pZ3jxj7uriGatPmlyB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lord Egerton Castle",
+                "category": "Historical place",
+                "url": "http://www.egerton.ac.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfgLRNz2mcZth8qoRJWuGaX2Bpoo6EeaT1Bili=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Crying Stone",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP13E_xl-le7L85WFfPjXoqY_gx6qs28gM3SJ1P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Subukia Shrine",
+                "category": "Religious destination",
+                "url": "http://www.subukia.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiNFRlkfZdnldL0KfEaTH5nMdvw338dmd_K1Ah=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kit-Mikayi",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOuzta9j8xURSjw8sajS9CLHfhcpoPisof7L5R=w148-h148-n-k-no"
+            }
+        ],
+        "Nairobi": [
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Safari Walk",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIXC5174E7VF3Mb_eIbcoNHQSOHEoqq6GG_h2i=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Nairobi Arboretum",
+                "category": "Environmental organization",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEFeOhQ4VzZJoZf5itHnv5gsISrH_OeaJ5etcj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Two Rivers",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObAJTTtJXC_6lywSf2fnTbRx1UmxPJwSVnwN3i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Westgate Shopping Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRzHhmfQznXWhjDeNH-0zaEPqPa0Xk92uOK0Mo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamia Mosque Nairobi",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0mCMdA5mRNy1e72FYInd1nNb22DTCJkSY1Jjk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maasai Market",
+                "category": "Handicraft fair",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4BLW5N3XVb13SfzT7LUvF4eIFtz9lNp4Mn5h4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Museum",
+                "category": "Museum",
+                "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta International Convention Centre",
+                "category": "Convention centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCHerMarLnbfCsJBiKVjsL66QQkD-TAw3CqeOB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Nursery",
+                "category": "Animal shelter",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Oloolua Nature Trail",
+                "category": "Wildlife and safari park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOffBkIr-X_1P5M7cuJH0ejZwodiGrY6Nt1bVD5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Market",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOciO6xOAPnY6sq5xE1tJrp1S6Y0ZgnoAy4CXYI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenya Railway Museum",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP65NBO6KEb-zGdeiqpnCtY8ToAKROnuDbqpADx=w148-h148-n-k-no"
+            }
+        ],
+        "Ngong": [
+            {
+                "title": "Karen Village",
+                "category": "Conference Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZvokpAPDSE6U-WyC8z9BeX75rKyzXzi68jKIf=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Waterfront Karen",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8IRMrQb-uT9M64i0OxKhQWBy8qhczVcYl8-rm=w148-h148-n-k-no"
+            },
+            {
+                "title": "E-Trails Kenya",
+                "category": "Bicycle Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIuSutwP-OG87qyBrVxsd7WQZLJ6qTY2STVVZS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ocean Sole",
+                "category": "Artistic handicrafts",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbrqSd6shlp0lGw7ZH5Wq183gsGU68UaGuuuc2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entim Sidai Wellness Sanctuary",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPav5Bl25gFQGq4CAVYx128q7Z0ca6GvrEKRsoz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Nursery",
+                "category": "Animal shelter",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maji Magic",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMg1P7elKDPVw3yUNK2LGOjfXmZu_a5jT8oGfAb=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Hub Karen",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZZPvIe6UoUzIVonYhRCio1UssaVqiyzKME1yz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bomas Of Kenya",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3NNyPw78pccjaSPlk2Hzo89eV0XMHwLDB1qqy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Langata Link Shops",
+                "category": "Gift shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMic1a1US0uAprSZVh9WZchmETE0ZvKQFdrOvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "AQEEQ GALLERIA",
+                "category": "Jeweller",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGHyr4-MN0HkHYn7mwFHmqJT7A4I7ikKIapEEX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mala mala Campsite",
+                "category": "Campsite",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVYRPRr58-7VrRUKtsSba8Yw9YTg8g3ArZtwVj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nothing Like It Spa - Hardy",
+                "category": "Day spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTjb8IvqSGausSdav4ZhJUETJR5UCkkwpIuaQS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Coffee Garden and Cottages",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlgHlZP52tKReNfCJ3zbZNR5JmkQ3wvAmZZz8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maasai Market",
+                "category": "Handicraft fair",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4BLW5N3XVb13SfzT7LUvF4eIFtz9lNp4Mn5h4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sarayu Wellness Institute",
+                "category": "Spa and health club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpnEiAitMnu-LSqDXqcZ2JDVA4uzEGd2TGe__g=w148-h148-n-k-no"
+            }
+        ],
+        "Meru": [
+            {
+                "title": "Nairobi Animal Orphanage",
+                "category": "Tourist attraction",
+                "url": "http://www.kws.go.ke/content/nairobi-animal-orphanage-0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMmmaBCxGCzrNMvVMgsvlCPhcgnFGMEaVRb2M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Makutano Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0RlXFm0i34AUn0c8E85uTFQcRjeHsYhP3QOY2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ngare Ndare Forest",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMX8s_UBlEcGU-HrAUHtM19-hkPRhiiZ9W6aehO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kinoru Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUhESWzq3UQf6jAOkiiL_u4FavnSOY5aE6sfpY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aberdare National Park",
+                "category": "Park and Garden",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtVk9E-WClncwQnmJVuot13nVNDJ2wsOv_5SM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lewa Wildlife Conservancy",
+                "category": "Nature reserve",
+                "url": "http://www.lewa.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMh4espnXyw9F86sVh9-l_Qjmsvke1ak_XTVBOJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kenya National Park",
+                "category": "National park",
+                "url": "http://www.kws.go.ke/content/mount-kenya-national-park-reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPA1j-4OR1b2ry8kyhbsnszG8DQHUs49DioX5Ki=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kenya Wildlife Conservancy Animal Orphanage",
+                "category": "Animal shelter",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQqmuwGaKs-asZjOAYBmyHfVvT75Xmcl078CVv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samburu National Reserve",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM67HxCe359vkJEfShBZXF0yMPtA2nDZSyKEQM8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meru Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx56jNhiaHsOf2L6EAjEKIt-1Cycb_Uvrs1U-4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cool Stream Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTWxZJx8N3ZQ05j5RthNWAlfBEgg8Y5-jvD3ng=w148-h148-n-k-no"
+            }
+        ],
+        "Kapenguria": [
+            {
+                "title": "People's Garden",
+                "category": "Park and Garden",
+                "url": "http://www.westpokot.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKzbpwvJ5em9hUrII-agkG9UxoQGSmWF7Y00VB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Club",
+                "category": "Golf club",
+                "url": "http://www.kitaleclub.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIWuBuMK25TMCwBfQ8OrJOXMhgrzBfj7Cw4EMk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Makutano Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZZAGufb0znhF1GcaPzX18zZm0QndA6zvK-UbT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kapenguria Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2kgIUJhAolCniS0YhDOBT6akxikmxIZbEd33O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoBuWyeGz1_SG2abi7h0eEDoV-zEhPnDSEgubZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Makuti Restraunt",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvZaTmeKsf2f1U8HVDDkpjKm0PnkSfxsWP8AB7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Showgrounds",
+                "category": "Scenic point",
+                "url": "https://ask.co.ke/kitale/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS07DH6yIl7gRqiY99VQlcBGU3_m63r8Z5-zVh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp83xaK38HnG3IZchzG3CZTceCP11gx48lRgOD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swara Resort Club",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlWAmmjuUFgFukgWgI_7-5MdHP9CLj9oANkXZk=w148-h148-n-k-no"
+            }
+        ],
+        "Malindi": [
+            {
+                "title": "Malindi marine boat excursions",
+                "category": "Tourist attraction",
+                "url": "https://youtube.com/shorts/hEzPsfjPwxY?si=BDAnNmvOXh62za5O",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP943sZKAP1Mib-1RH4pRlEk0_RmUD6CLdHfjUM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vasco da Gama Pillar",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOZwZ1kkOcAhhlEZplk3tzsppEUeIRbUz6usOQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mayungu Public Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK7N9bV8KhQLiMVjSgKtvwDIGOnCJ_O4rZVYZf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falconry Of Kenya Ltd",
+                "category": "Bird shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUS0kOhnDFbr7cs-pzVhijwN4curwoaDNfcgPj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Portuguese Chapel",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNJ8UMkgbHVnz8YIcwwKHotv1Hu2MdOrD_Tbcm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ndoro Sculpture Garden by appointment only",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNweU2rBKVx6kFwCJs48utAFgoozU9kx5tvJplb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gede Ruins Malindi... Snake Park",
+                "category": "Historical landmark",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAtf_wb4pc4b9vlF319_a3wsyreDEDSmHumBT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silversands Beach",
+                "category": "Sports",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMme3FjB6WgrxYiqmxpsB8MaETqCl9QrO3x6eZs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gede Ruins",
+                "category": "Archaeological museum",
+                "url": "http://www.tsofakelvins.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOj1t1lsDWyrmtLhmvqeHnSqiClo5CiRNQPAmPh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malik Safari",
+                "category": "Tour operator",
+                "url": "http://www.maliksafari.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPC4JG2xjxywivoZskR4aEzIGKW-ZL3RwS7fmSa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malindi Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_e6CnVU_CICaUaM5XW6KtXZSx4u-T-ne2-9o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pathway Safaris",
+                "category": "Tour operator",
+                "url": "http://www.pathwaysafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYFUH8Z-bo6F4LMw6Riyc8-14nL9dGakUyC0QV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Watamu Marine National Park & Reserve",
+                "category": "Tourist attraction",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRKm9cHWH7E_NBvGd4PxFWSApNr3LPGLk92CEf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arabuko Sokoke National Reserve",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoS5ys5JRO-uKdswdC4-4JcvD3jpp1UCT1VTtm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Che Shale Hotel & Kitesurf Center",
+                "category": "Hotel",
+                "url": "http://www.cheshale.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTwWyXztp8PglwBeFseO4zsDScuOBycwFzIxBu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stage Park",
+                "category": "Theme park",
+                "url": "https://www.facebook.com/Stage-Park-kakuyuni-415312969281601/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7uFLzfy2YO9mijv1yJwwTDOnTq_KjYIUl11YC=w148-h148-n-k-no"
+            }
+        ],
+        "Ongata Rongai": [],
+        "Kitengela": [
+            {
+                "title": "Nkasiri Adventure Park",
+                "category": "Park and Garden",
+                "url": "http://www.nkasiri.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Vzo4S05vvl4gHSc6IWUGMJs4dfySmvNiEgQO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "funland amusement park",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU7TDAOzDklFeFOdNtSnbyll7SnmsvtkDHhSsI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galaxy Resort Kitengela",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEl7k4J4B4Jz-j_oYmvYu5rwIG1CUlpsciTWxU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leleshwa Getaway",
+                "category": "Resort hotel",
+                "url": "http://www.leleshwa.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-u6lRWT0MB4oMAh38qm8NafCzOA9fT_BcXH2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maasai ostrich farm",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6xtqwgbVx1aDSyZGvtQQATrupLCw92YkHuUUY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grays Oak Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/proxy/SMXPJ0hY81jhyG_bzBzn9cKfSlVVe1CH_sBjV_lpIcLOIX6IR7WCr4VAv4tQ6yOe4LZw0UP7-n3KSxRI1MKFuyFgB0gIphX0QEuKM6ne-F8t40WQ9oTBw-2_vuch0oE5TftuQ7pr2QxXPQ8NeLw0oZlrVDyqhpA=w148-h148-n-k-no"
+            }
+        ],
+        "Juja": [
+            {
+                "title": "Seagull Gardens and Restaurant",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOv-0rGzDBD3rs1CVhX7uFsmLfEY51BtkvAM4Db=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kenya National Park",
+                "category": "National park",
+                "url": "http://www.kws.go.ke/content/mount-kenya-national-park-reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPA1j-4OR1b2ry8kyhbsnszG8DQHUs49DioX5Ki=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amboseli National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/amboseli-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-IIdJNmzDM5Nsw3dr5U2HhyEjhtHpJLOhA8Vb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Longonot National Park",
+                "category": "National park",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkyk3ibRhLmyKYXLRfkJp8LGXEkwunbzODLvo4=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Nairobi Arboretum",
+                "category": "Environmental organization",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEFeOhQ4VzZJoZf5itHnv5gsISrH_OeaJ5etcj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karunguru Coffee Estate",
+                "category": "Tourist attraction",
+                "url": "http://www.karungurucoffee.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRy0EFR0CM2tlsdK8m19HSnfjRFyswSrGhrNAO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kiambethu Tea Farm",
+                "category": "Farm household tour",
+                "url": "http://www.kiambethufarm.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhfqRyK_KmiIXgShYcjFRnUIzKmwv-qvUJTv5F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Nursery",
+                "category": "Animal shelter",
+                "url": "https://www.sheldrickwildlifetrust.org/faqs#visiting",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chania Falls",
+                "category": "Park and Garden",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2CjRBb6u8oW1Dnb4IEJPpX5HhxRWEyNnxlp_X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cherry Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEFxcny0URzJrp9V0MUAAgciu0e3ZgOIeLkH6d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karura Forest (Gate D)",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3FGrvl5oSZRJJ4MY5Wu7L6gsi5lWEjR59Ef6U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fairview Coffee Estate",
+                "category": "Dentist",
+                "url": "https://www.fairviewestate.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrkFGOuSYLMzBp12l3PrI3xbboJIO8Uw-R0a9o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nai Nami",
+                "category": "Tour operator",
+                "url": "https://nai-nami.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6Jd44UYqYQT8pdqt6q4AxIO2D1bLtDpHW8_uC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Nakuru",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9VpJiOgApE1Fm_YtHYOrQkSDQ2VE4nTGY14N4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ngong Road Forest",
+                "category": "Woods",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSPQdirjROwFQaAq_kaApJywBeufxOP7E8OC6L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Naivasha",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO52_2pUFazkOvLS3up5-_FZZUED1W3JzbUa3qV=w148-h148-n-k-no"
+            }
+        ],
+        "Ruiru": [
+            {
+                "title": "Spur Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoDimrRjwV10V393gmytIu-JInfpz6EKlELF67=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Spot Gardens",
+                "category": "Restaurant",
+                "url": "https://www.facebook.com/Greenspot-Gardens-1907972372815121/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIEPLLZWK36SeEfjh6wI88vPfWnKyGISbIxtwH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rainbow Ruiru Resort",
+                "category": "Hotel",
+                "url": "http://www.rainbowruiruresort.com/",
+                "img": "https://lh4.googleusercontent.com/proxy/BjhztwMXdC0zbuvyrpFCxzfiyixB53i4DFMqp5iIrF6TUHDbPG08c-JoEbbnkcP1hb7eJq6VT2V92Nc9534vEzYobsS23gWTyL3cDqE9mMZ9V2FY3dNDGf5Gujw-bEkqo2n2nRLLkEPgM7n8Tp7hA3RoQfb-5Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vipe Fun Park-Ruiru",
+                "category": "Children's Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMb95HsIR5Kc75gLVClmszVEh0JwTW28Y2nXA4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tropical Gardens TG",
+                "category": "Wedding venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV2jzo1MkDZ2rjsBMtYiXGJG7VqNdKjpQI1kH4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tourite Safaris Ltd",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtDzWVimIoHhl6V17UiDE7i90sCGHdrwvet9XM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bush Mosaic Safaris",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4Z-XMiQV8_qBiLr2egY-ei0TyQ4Stkdy2W60C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Bliss Bistro, Ruiru",
+                "category": "Nightclub",
+                "url": "https://www.facebook.com/theblissbistro/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSuQxkHpSS9a93q2ncDg4q43G0LGD2tAJiVY8W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leopard Orchid Safaris",
+                "category": "Tours",
+                "url": "https://leopardorchidsafaris.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8ujd9QC62zorO4mDdBQ0IUP-UQ_U7oqQacpzK=w148-h148-n-k-no"
+            },
+            {
+                "title": "AJ Kenya Safaris Ltd - Tours and Travel",
+                "category": "Travel Agent",
+                "url": "https://ajkenyasafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOb0CfK8PDI7TaSHxNM_kJXBUBK3J7FCyy_ljHv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "url": "http://www.uhuruparknairobi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ngong Road Forest Sanctuary",
+                "category": "Park and Garden",
+                "url": "http://www.ngongroadforest.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXPDkk2Lc3mC6rq4ix_OVIVWDnQqKbjpbw4zXr=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Savannah Holiday",
+                "category": "Boat tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLJwD_3LSibBYjwlm8hynoxraIg7ezgO8nNTe1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tazama Africa Holidays",
+                "category": "Tours",
+                "url": "https://www.tazamaholidays.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_skwJY0jR02771S0qToHf0DX_Bx4q7whfPg1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beacon Safaris",
+                "category": "Tour operator",
+                "url": "http://www.beaconsafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4XBZnQAnkEWu0xoqFwPIymBPVd_1eAzOr7I5D=w148-h148-n-k-no"
+            }
+        ],
+        "Nakuru": [
+            {
+                "title": "Hidaya Africa Tours and Travel",
+                "category": "Tours",
+                "url": "http://www.hidayaafricatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMosIhRNdEsmaISfOC5q0_6sbP68oq3cbEQVlkR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malnodez Safaris",
+                "category": "Travel Agent",
+                "url": "http://malnodezsafaris.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR8vWIRMYYQZ6dTG0IdkiRgNcb9UfMytmKd2wk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Nakuru",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9VpJiOgApE1Fm_YtHYOrQkSDQ2VE4nTGY14N4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baboon Cliff View Point",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSxQQZyasq2jWjApLqJfRH29lNOr66K3sEhMbb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lord Egerton Castle",
+                "category": "Historical place",
+                "url": "http://www.egerton.ac.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfgLRNz2mcZth8qoRJWuGaX2Bpoo6EeaT1Bili=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hyrax Hill Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj-zvQ6N0QmUmM_s1po6XM-LY31MMnyVUV2743=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menengai",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrFueW6XC7Gu2Lerq3KtTb5eixQiCX0pCnJYJX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aberdare National Park",
+                "category": "Park and Garden",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtVk9E-WClncwQnmJVuot13nVNDJ2wsOv_5SM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menengai Crater",
+                "category": "Crater",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMoSpzUvmsHbuKY0hX1MoPmcZuh7rdd05nQpZym=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kariandusi Museum",
+                "category": "Museum",
+                "url": "https://www.museums.or.ke/kariandusi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgjDoVVu7PzLTwYu1FsrWZ5w2587SBFeRcdRQX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Elmenteita",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXIRN8uvTbLXDfdw-PShbVpBJHhqq7pICWqgBb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Elementaita",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPRZHEYDux2TICNxLVXCLDLNP03k0qPHQ9aoYg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kingdom Seekers Fellowship",
+                "category": "Pentecostal church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQtUL_omvjwToCu4QUgW2cAxAXnSXX9FBGoCeP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyayo Gardens Park",
+                "category": "Park and Garden",
+                "url": "http://www.nakuru.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEyXCi3cTPeGMOHVfMvbAgxElfbXsmSUcAT2wx=w148-h148-n-k-no"
+            }
+        ],
+        "Kiserian": [
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Nursery",
+                "category": "Animal shelter",
+                "url": "https://www.sheldrickwildlifetrust.org/faqs#visiting",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Nairobi Arboretum",
+                "category": "Environmental organization",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEFeOhQ4VzZJoZf5itHnv5gsISrH_OeaJ5etcj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "url": "http://www.uhuruparknairobi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Al-Huda - South B",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPomUuZm21NfdHyoc6bSAOgnN0CSayoLs2zjr_g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adams Masjid and Islamic Centre",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM43nXB4FovfJaE36KBIVl5olUnkK8jxVjruKuJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenya Railway Museum",
+                "category": "Rail museum",
+                "url": "http://www.krc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP65NBO6KEb-zGdeiqpnCtY8ToAKROnuDbqpADx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shrine of The Sacred Heart of Jesus",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk1onx7s_kGRWNoZ6KpEdTPqPTONU6DstLRF8s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ngong Hills Forest Recreational Park - Kona Baridi Gate",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZDWLf2dan7zXs8MsrFB5xoxZscuzk8iUYZnRn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parklands Mosque مسجد",
+                "category": "Mosque",
+                "url": "https://parklandsmosque.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKmdLHICCpgOThv0_fsCPWkivUHkT3VJjOdBS9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safaricom Stadium Kasarani",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXXr4Kp-SXF52291spdVxtn5LOQX1ZVn7ViGEA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Gymkhana",
+                "category": "Stadium",
+                "url": "http://www.nairobigymkhana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZWnC-oFIGLk84BEESNut308sAj5jS7NvZcuBt=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Oloolua Nature Trail",
+                "category": "Wildlife and safari park",
+                "url": "http://www.primateresearch.org/index.php/about-us/oloolua-nature-trail",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOffBkIr-X_1P5M7cuJH0ejZwodiGrY6Nt1bVD5=w148-h148-n-k-no"
+            }
+        ],
+        "Migori": [],
+        "Athi River": [
+            {
+                "title": "Nairobi Animal Orphanage",
+                "category": "Tourist attraction",
+                "url": "http://www.kws.go.ke/content/nairobi-animal-orphanage-0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMmmaBCxGCzrNMvVMgsvlCPhcgnFGMEaVRb2M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Safari Walk",
+                "category": "Animal park",
+                "url": "http://www.kws.go.ke/content/nairobi-safari-walk",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIXC5174E7VF3Mb_eIbcoNHQSOHEoqq6GG_h2i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "url": "http://www.uhuruparknairobi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anga CBD Cinema",
+                "category": "Cinema",
+                "url": "https://bit.ly/m/angacinemas",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKecm4J--9v4OvC27grEM5fl7th3i1Hh7tc7v-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maasai Market",
+                "category": "Handicraft fair",
+                "url": "https://zuriancrafts.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4BLW5N3XVb13SfzT7LUvF4eIFtz9lNp4Mn5h4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenya Railway Museum",
+                "category": "Rail museum",
+                "url": "http://www.krc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP65NBO6KEb-zGdeiqpnCtY8ToAKROnuDbqpADx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Snake Park",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAb8bYGhrCxXn-JP5tKdltFxGjdOc5Ph2c3aeJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Westgate Cinema",
+                "category": "Cinema",
+                "url": "https://www.westgate.co.ke/movies/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGHsXMeR3IYLBc--EqspEKvI-wBeXJEmLHBScX=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Heritage House",
+                "category": "Inn",
+                "url": "https://africanheritagehouse.info/",
+                "img": "https://lh3.googleusercontent.com/proxy/zcomLOlVSDZYu7fciGhVwbr6mBEzVjwxzTxPZd5BSUxumYX6hDu_lD-vY3WVHYALJl4VXh98Dfv1L5M17BYiGvtmY4FgMTxxp7NGacQ8QWykC2UXNF8SJpGcK56x_PvB35FSaJICXVCAantxLsaGi4iYNmh6mBg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Century Cinemax",
+                "category": "Cinema",
+                "url": "http://www.centurycinemaxkenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnHa4KiCg2NoN4eYVWi7YCUW2y4G_JAXmwZ6Ir=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum Hill",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWyNcMGvTjvIb_WnNoaPuHfS7xkgLbwVwWGc92=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bigfoot Adventures Kenya",
+                "category": "Tours",
+                "url": "http://www.bigfoot-adventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIX-QCGOErFj25GPdp0Ww1Q-HneJI8OD2YqbPp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nai Nami",
+                "category": "Tour operator",
+                "url": "https://nai-nami.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6Jd44UYqYQT8pdqt6q4AxIO2D1bLtDpHW8_uC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prestige Cinemas",
+                "category": "Cinema",
+                "url": "https://www.facebook.com/PrestigeCinema/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIhiGv8pvQeDPFM4E-WoNndLcJVvGg7dkkPy_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Perfect Safaris Africa",
+                "category": "Tour operator",
+                "url": "http://www.perfectsafarisafrica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmjo8R7IDX63o1sEo2WlaZ2NYP4vBaeqFn0KCH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventure 360 Africa",
+                "category": "Tourist Information Centre",
+                "url": "http://adventure360africa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ9b8hU3M1rbEqXtV3kbEmHel-9ptgcub9g1Mi=w148-h148-n-k-no"
+            }
+        ],
+        "Mlolongo": [
+            {
+                "title": "Jamia Mosque Nairobi",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/JamiaMosqueNairobi",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0mCMdA5mRNy1e72FYInd1nNb22DTCJkSY1Jjk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral Basilica of the Holy Family",
+                "category": "Catholic cathedral",
+                "url": "https://holyfamilybasilica.info/church-schedule/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNO2pvarS-NfM7LNTXZryz5-qzUk8b-kXVrnG8o=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Heritage House",
+                "category": "Inn",
+                "url": "https://africanheritagehouse.info/",
+                "img": "https://lh3.googleusercontent.com/proxy/zcomLOlVSDZYu7fciGhVwbr6mBEzVjwxzTxPZd5BSUxumYX6hDu_lD-vY3WVHYALJl4VXh98Dfv1L5M17BYiGvtmY4FgMTxxp7NGacQ8QWykC2UXNF8SJpGcK56x_PvB35FSaJICXVCAantxLsaGi4iYNmh6mBg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Don Bosco Church",
+                "category": "Church",
+                "url": "https://www.donboscochurch.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdJJuiCVWrD6V8n8cptVP2rONL6qqPLL1Re8Hk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta International Convention Centre",
+                "category": "Convention centre",
+                "url": "http://www.kicc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCHerMarLnbfCsJBiKVjsL66QQkD-TAw3CqeOB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Hill Art Gallery",
+                "category": "Art gallery",
+                "url": "http://www.redhillartgallery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmXIqilWCzS8yTaAGgqx6wEYwMffthx9UMsE5c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bomas Of Kenya",
+                "category": "Tourist attraction",
+                "url": "https://www.bomasofkenya.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3NNyPw78pccjaSPlk2Hzo89eV0XMHwLDB1qqy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Nursery",
+                "category": "Animal shelter",
+                "url": "https://www.sheldrickwildlifetrust.org/faqs#visiting",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/karen-blixen/",
+                "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Market",
+                "category": "Shopping Centre",
+                "url": "http://www.villagemarket-kenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOciO6xOAPnY6sq5xE1tJrp1S6Y0ZgnoAy4CXYI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masai Village",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8O6g05k5l0033oRym4IW14BH7xmfwnTgqTnAg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thika Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPohlORj8JdEUCO_iuDpJj95elSYYzuom5TPlJy=w148-h148-n-k-no"
+            }
+        ],
+        "Upper Gilgil": [
+            {
+                "title": "Yaya Centre",
+                "category": "Shopping Centre",
+                "url": "http://www.yaya-centre.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOC2pg6yJlOuQU-3j0z_vkSesDGjyaV1yRYf9ek=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "url": "http://www.uhuruparknairobi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/karen-blixen/",
+                "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "All Saints’ Cathedral",
+                "category": "Anglican church",
+                "url": "https://www.allsaintsnairobi.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMT_sV3Cob6j2S1mUza-V7F1I8lN9JjLDIvoha0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finix Casino",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCEymHCtj2ysnz7kp7KzWz3J_qRhFE3nwizrqI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Subukia Shrine",
+                "category": "Catholic church",
+                "url": "http://www.subukia.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwBqxawflpm_Yw69h61hbmjHfWhKyZZa4kvVLa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lord Egerton Castle",
+                "category": "Historical place",
+                "url": "http://www.egerton.ac.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfgLRNz2mcZth8qoRJWuGaX2Bpoo6EeaT1Bili=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Gallery",
+                "category": "Museum",
+                "url": "https://www.museums.or.ke/nairobi-gallery/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORSuOlDdG7o5vbZlHCR0UR2DRrfH8GRh8UW9lI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Military Baracks",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2rGOPXBYGV_E8PttqV5Ctr0czXHP7Skfhz9AG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heavens Gate stage",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ7ubrT51EtQoIFPWxmDFXoiXRqx-oOQfkBD-Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "PCEA Dr Arthur Church,nakuru",
+                "category": "Presbyterian church",
+                "url": "http://pceadrarthurparish.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTcriC-JwW70CRjmt8Ln7ic0MGz4kWWZkaqLS_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Africa Kenya Safaris",
+                "category": "Tour operator",
+                "url": "http://www.africakenyasafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLRvzsuIHcXWWizXE_Iq0T9JHhdTRMg7fsy-VU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Catholic Church, Milimani",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbJM5zXbFKlbszQWMKp4Iuncl_lxa7e0nLvmla=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aristocuts Salon Spa",
+                "category": "Beauty Salon",
+                "url": "http://www.aristocutsbeauty.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOF1vAnKaodcnJnPiBcUxt2ZPBSvbM0aBoD8G2n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Egerton Botanic Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHFqGTbwB_XNKLB-M9aEqMVqeHQS4SW7caPrUt=w148-h148-n-k-no"
+            }
+        ],
+        "Githunguri": [
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Animal Orphanage",
+                "category": "Tourist attraction",
+                "url": "http://www.kws.go.ke/content/nairobi-animal-orphanage-0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMmmaBCxGCzrNMvVMgsvlCPhcgnFGMEaVRb2M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamia Mosque Nairobi",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/JamiaMosqueNairobi",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0mCMdA5mRNy1e72FYInd1nNb22DTCJkSY1Jjk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Market",
+                "category": "Shopping Centre",
+                "url": "http://www.villagemarket-kenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOciO6xOAPnY6sq5xE1tJrp1S6Y0ZgnoAy4CXYI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/karen-blixen/",
+                "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safaricom Stadium Kasarani",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXXr4Kp-SXF52291spdVxtn5LOQX1ZVn7ViGEA=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Great Rift Valley View Point",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWxAwCeWpcPyHuYFtbBk8k5Jx1EnxI5rxo1CGL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Gymkhana",
+                "category": "Stadium",
+                "url": "http://www.nairobigymkhana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZWnC-oFIGLk84BEESNut308sAj5jS7NvZcuBt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta International Convention Centre",
+                "category": "Convention centre",
+                "url": "http://www.kicc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCHerMarLnbfCsJBiKVjsL66QQkD-TAw3CqeOB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Havilah Cornerstone Ranch",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa90-BUL2d2gwATscNzMxclrkB_RVys9ggUot3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kasarani Indoor Arena",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4nAnHzr9rFHSkdJK0hBuud_CVPphX0_WdDzyT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masai Village",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8O6g05k5l0033oRym4IW14BH7xmfwnTgqTnAg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyayo Sports Complex",
+                "category": "Stadium",
+                "url": "http://www.sportskenya.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKfko8wR5KvEg7XtDA2Tib-o7OdKWixuQSOkCr=w148-h148-n-k-no"
+            }
+        ],
+        "Kisii": [
+            {
+                "title": "Deliverance Church International Kisii",
+                "category": "Pentecostal church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXzcEsJwY52WCBE461Lc4p5E9RTa5XJ4sRraMh=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Charles Lwanga Kisii Cathedral Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCOtDotPJlIPAItliLqPYmbKkDFSlCUuM8zhN2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kisii Town PAG Church",
+                "category": "Assemblies of God church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1Q7akcIv94inq3t1ncyDq672ZO-FAkTbxOICl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gusii Stadium",
+                "category": "Stadium",
+                "url": "http://www.kisii.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiRnLwoFZ09AAWQqLgXKDfzz7Bx494hPnsspyU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gekomu II SDA Church",
+                "category": "Seventh-day Adventist church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlh3mPojgGvCMA_nH_xyQzbnb-0xCL6m3SZlvA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maasai Mara National Reserve",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM377c-jRm45TB69InvoxnNHMZ6041PP-io21fs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mara Triangle",
+                "category": "National reserve",
+                "url": "http://www.maratriangle.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOvPnSJemdt1gDF5nX9Fh3M59uhj4qw46sB_ei=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kisumu Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/kisumu",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsqPaNu_kjJxhi_Q2sHeq6_5cnn_u8SbRsjbyR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyamache Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtpEWqtT9yxsjJmyNcHIdGgmiqRNoAqpLYuMji=w148-h148-n-k-no"
+            },
+            {
+                "title": "KWS-Kisumu Impala Sanctuary",
+                "category": "Wildlife and safari park",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqp0GWHVI9_61Tv_2Oewd8VQgscZzHNHPOgvvK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Club",
+                "category": "Golf club",
+                "url": "http://www.kitaleclub.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIWuBuMK25TMCwBfQ8OrJOXMhgrzBfj7Cw4EMk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manga Ridge Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeRDuq1J4zKEy4Yn6Xnl5s4HcAWXygcAyyfy8A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamhuri Victoria Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOgP5qmd5jAtLoJKmopL8bbkhPjjZJTYrcDsig=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manga hills",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzuoHqsEZ5MKvs9vTZVA7tay3M-wV8qORCIaM5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barngetuny Plaza",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjzk4p6nNCDM0mGbso5Ll49DLWhYwQsjwk8mEq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moi Garden Kericho opposite Kebo Plaza",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAvMxMDOKj_yJF6RD2fpCHgg5uTPKHXh_pCAda=w148-h148-n-k-no"
+            }
+        ],
+        "Naivasha": [
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aberdare National Park",
+                "category": "Park and Garden",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtVk9E-WClncwQnmJVuot13nVNDJ2wsOv_5SM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elsamere Conservation Centre",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0NJ8PBCKmXHYJM4eg3guYfRgANHJf_pKkDOat=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crater Lake Tented Camp And Game Sanctuary",
+                "category": "Hotel",
+                "url": "http://www.craterlake.co.ke/",
+                "img": "https://lh6.googleusercontent.com/proxy/rgvI_Rs6ADeJfuEvODsZ2YKA9CzQCkfTl_3L6Ux446gn3V9iSkDGOvICMvhSEJtaXGqL8w1tPpc-nv2WjkY25OgKOPyuRvx7AhIOe5KaY0aRjE-UJWQqiRYhf-dYIJfDDrYlYb8_Ot5UCLsaVgrx6Jh4jmpj-bE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "url": "http://www.uhuruparknairobi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Oloidien",
+                "category": "Nature reserve",
+                "url": "https://www.oseriantwolakes.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjSnyufBkCuT-taezgg12jg7NcCVgzvMHbdIu8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maasai Market",
+                "category": "Handicraft fair",
+                "url": "https://zuriancrafts.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4BLW5N3XVb13SfzT7LUvF4eIFtz9lNp4Mn5h4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crescent Island Game Sanctuary",
+                "category": "Nature reserve",
+                "url": "http://www.crescentisland.co/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvumiK0m0moVcDP4nNGsAr5nKfTRHiNri1xqaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Animal Orphanage",
+                "category": "Tourist attraction",
+                "url": "http://www.kws.go.ke/content/nairobi-animal-orphanage-0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMmmaBCxGCzrNMvVMgsvlCPhcgnFGMEaVRb2M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gikomba Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKZ05r0ijFMg3CriiBH_pl45d_KTZXJw_rIUW6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Naivasha",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO52_2pUFazkOvLS3up5-_FZZUED1W3JzbUa3qV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kikuyu Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsgUZmQUIt2zl72h4wdN5v2BQaPuKs4ig5Ic-2=w148-h148-n-k-no"
+            }
+        ],
+        "Kericho": [
+            {
+                "title": "Sacred Heart Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNXUFBcX1y8xs4NsJg-kwq5w2SRmhg-uSGfPEI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta International Convention Centre",
+                "category": "Convention centre",
+                "url": "http://www.kicc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCHerMarLnbfCsJBiKVjsL66QQkD-TAw3CqeOB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bomas Of Kenya",
+                "category": "Tourist attraction",
+                "url": "https://www.bomasofkenya.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3NNyPw78pccjaSPlk2Hzo89eV0XMHwLDB1qqy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Safari Walk",
+                "category": "Animal park",
+                "url": "http://www.kws.go.ke/content/nairobi-safari-walk",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIXC5174E7VF3Mb_eIbcoNHQSOHEoqq6GG_h2i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/karen-blixen/",
+                "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barnyard farms",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFtPSZ2ueLa-dHiVfo-ZPPH0cvGv8i8BWSkRsA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "url": "http://www.uhuruparknairobi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elephant Hill Hiking Trail (Aberdare ) Njabini, Kenya.",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvE--UjTAv8NxGa9-n6ZbRWIQ4tmJL58XGP_KY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Naboisho Conservancy",
+                "category": "Nature reserve",
+                "url": "http://naboisho.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx3anokj9jE--fGtt94156wpH87Pup9CLxNwuJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mara North Conservancy",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEFAwwyEyU8AwNjyX0gViW5dICGOJRQjrhJRku=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khoodinc Horticulture",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMGitO0IKV5T77aWixIMWF3CryXSBdzcp3f9Rm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crescent Island Game Sanctuary",
+                "category": "Nature reserve",
+                "url": "http://www.crescentisland.co/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvumiK0m0moVcDP4nNGsAr5nKfTRHiNri1xqaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gikomba Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKZ05r0ijFMg3CriiBH_pl45d_KTZXJw_rIUW6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bigfoot Adventures Kenya",
+                "category": "Tours",
+                "url": "http://www.bigfoot-adventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIX-QCGOErFj25GPdp0Ww1Q-HneJI8OD2YqbPp=w148-h148-n-k-no"
+            },
+            {
+                "title": "KERICHO Golf Course",
+                "category": "Golf course",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNssCwqfvyT8Xp5RmA6ODdvLJ49uHWBt0ik1hcD=w148-h148-n-k-no"
+            }
+        ],
+        "Nyeri": [
+            {
+                "title": "PCEA Kamakwa Church",
+                "category": "Presbyterian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfVGQnx6ZYUDw2W66Sqg1NdjwsBBjnHeIF-EH6=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. John Catholic Church Kiamwathi",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqbo6hhV0cwbyfiJcWZsRvbonygF0zxTBSE57j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kirathimo PCEA Church Mathari",
+                "category": "Presbyterian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPb7xj3d0JGBzKLz0fFaZVw8Etc-6xB4AqCl-y-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Italian Memorial Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeHNx2b8QSIgsvsU3kUBkZ05Wgty3SdeY2tlos=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kenya Wildlife Conservancy",
+                "category": "Wildlife and safari park",
+                "url": "http://mountkenyawildlifeconservancy.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9jk-poACB0VSI8U0h3DW9pXdyArBrBA5R37ro=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baboon Budget Safaris Ltd",
+                "category": "Tour operator",
+                "url": "https://www.baboonbudgetsafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGQVGIwCOIDgbi0SD0ld_hJJPcwtqE_2VhhueV=w148-h148-n-k-no"
+            },
+            {
+                "title": "ACK St Thomas Cathedral Church",
+                "category": "Anglican church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2uHxEylbTA37uqxiH-79HGw3PXgqaB1vO7Obl=w148-h148-n-k-no"
+            },
+            {
+                "title": "P.C.E.A Mathaithi Church",
+                "category": "Christian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZGYHYujmrrEei7_DIgGpz1Q90eija5K02GUVK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baden-Powell Tomb",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMW5KOfbkfZKwwfx2BlVQa7E9p3HzhsIZL3K2Kq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kĩmathi University Wildlife Conservancy",
+                "category": "Park and Garden",
+                "url": "http://www.dkut.ac.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB5D2N-O-Wc0d6AueZMILkycFowKNlZzoxepYU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aberdare National Park",
+                "category": "Park and Garden",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtVk9E-WClncwQnmJVuot13nVNDJ2wsOv_5SM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nice Digital City",
+                "category": "Park and Garden",
+                "url": "http://www.nicedigitalcity.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrmygGSRK5CQL24I947uxOOskbUbDonMisBLIW=w148-h148-n-k-no"
+            }
+        ],
+        "Bungoma": [
+            {
+                "title": "Bungoma Bible School",
+                "category": "College",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPLmgOi3hTxMJPsMNd9xqSlFVG38vwlZp0OdYN=w148-h148-n-k-no"
+            },
+            {
+                "title": "TOWHEED MOSQUE",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLB3ZWASbl040uLuFTJJ7NgpeLczq4t0DfGNZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitale Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp83xaK38HnG3IZchzG3CZTceCP11gx48lRgOD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Drips Restaurant and Club",
+                "category": "Nightclub",
+                "url": "http://www.dripshotel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtmZ-6ZROmNTCd4bgO1QzUH9ljwx77qZXzgZof=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mumias Town Hall",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzU-Gfbb10BEmf4bSpkeHjxj0PN4dXJApsomcy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muliro Gardens",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHzUkmhJcLSpsiZ918zYHyhBBitHBGuvpLo9fo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buteyo Miti Park",
+                "category": "Park and Garden",
+                "url": "http://www.buteyomitipark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ_7IlDwtYApz_UMfnp8ujRWQrtT_mSHwaINr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falls View Resort Nabuyole",
+                "category": "Family restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_CGiRJ4fvn5IucH51J3L0BiDP5gxigLXSi5xH=w148-h148-n-k-no"
+            }
+        ],
+        "Gilgil": [
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aberdare National Park",
+                "category": "Park and Garden",
+                "url": "http://www.kws.go.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtVk9E-WClncwQnmJVuot13nVNDJ2wsOv_5SM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/karen-blixen/",
+                "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lord Egerton Castle",
+                "category": "Historical place",
+                "url": "http://www.egerton.ac.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfgLRNz2mcZth8qoRJWuGaX2Bpoo6EeaT1Bili=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Subukia Shrine",
+                "category": "Catholic church",
+                "url": "http://www.subukia.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwBqxawflpm_Yw69h61hbmjHfWhKyZZa4kvVLa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crescent Island Game Sanctuary",
+                "category": "Nature reserve",
+                "url": "http://www.crescentisland.co/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvumiK0m0moVcDP4nNGsAr5nKfTRHiNri1xqaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heavens Gate stage",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ7ubrT51EtQoIFPWxmDFXoiXRqx-oOQfkBD-Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Military Baracks",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2rGOPXBYGV_E8PttqV5Ctr0czXHP7Skfhz9AG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Egerton Botanic Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHFqGTbwB_XNKLB-M9aEqMVqeHQS4SW7caPrUt=w148-h148-n-k-no"
+            },
+            {
+                "title": "PCEA Dr Arthur Church,nakuru",
+                "category": "Presbyterian church",
+                "url": "http://pceadrarthurparish.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTcriC-JwW70CRjmt8Ln7ic0MGz4kWWZkaqLS_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Catholic Church, Milimani",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbJM5zXbFKlbszQWMKp4Iuncl_lxa7e0nLvmla=w148-h148-n-k-no"
+            },
+            {
+                "title": "The House of Worship - KITI Cathedral",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9jmLC7_67Hwl8IDMFqg9cC3D_lC5TpF3Rkytp=w148-h148-n-k-no"
+            },
+            {
+                "title": "PCEA Kiamunyeki Church",
+                "category": "Presbyterian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx-0DdnlqtMRbQBotL9R5D8rIvhyY-RSZZTTaX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Graduation Sq Flower bed",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4bdQSi3NhCxht-nsk3dF3DzQ2WrUjocUs8Uc=w148-h148-n-k-no"
+            }
+        ],
+        "Kikuyu": [
+            {
+                "title": "Cherish Africa Safaris Limited",
+                "category": "Tours",
+                "url": "https://cherishafricasafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-eHDW360HKqRC-toX2r8cLcogffWjAJg7offy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bomas Of Kenya",
+                "category": "Tourist attraction",
+                "url": "https://www.bomasofkenya.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3NNyPw78pccjaSPlk2Hzo89eV0XMHwLDB1qqy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karen Blixen Coffee Garden and Cottages",
+                "category": "Restaurant",
+                "url": "https://www.karenblixencoffeegardens.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlgHlZP52tKReNfCJ3zbZNR5JmkQ3wvAmZZz8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenya National Archives",
+                "category": "State archive",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6DQbXOwf3yOfiN7vJydhWyV7A2V6wX2xNQQv0=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Nairobi Arboretum",
+                "category": "Environmental organization",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEFeOhQ4VzZJoZf5itHnv5gsISrH_OeaJ5etcj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum Hill",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWyNcMGvTjvIb_WnNoaPuHfS7xkgLbwVwWGc92=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta International Convention Centre",
+                "category": "Convention centre",
+                "url": "http://www.kicc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCHerMarLnbfCsJBiKVjsL66QQkD-TAw3CqeOB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "url": "http://www.uhuruparknairobi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bigfoot Adventures Kenya",
+                "category": "Tours",
+                "url": "http://www.bigfoot-adventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIX-QCGOErFj25GPdp0Ww1Q-HneJI8OD2YqbPp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shanjoy Tours & Safaris",
+                "category": "Tour operator",
+                "url": "https://www.shanjoytours.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcVw7QSw4LLAPHUH16vO9XhTkZdM8XXFErWT-O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maasai Market",
+                "category": "Handicraft fair",
+                "url": "https://zuriancrafts.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4BLW5N3XVb13SfzT7LUvF4eIFtz9lNp4Mn5h4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ngong Road Forest",
+                "category": "Woods",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSPQdirjROwFQaAq_kaApJywBeufxOP7E8OC6L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karura Forest",
+                "category": "Woods",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOo19kNylpSb5sdgNydx0M3cgFMjnVMJLZIlnbX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventure 360 Africa",
+                "category": "Tourist Information Centre",
+                "url": "http://adventure360africa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ9b8hU3M1rbEqXtV3kbEmHel-9ptgcub9g1Mi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nai Nami",
+                "category": "Tour operator",
+                "url": "https://nai-nami.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6Jd44UYqYQT8pdqt6q4AxIO2D1bLtDpHW8_uC=w148-h148-n-k-no"
+            }
+        ],
+        "Kilifi": [
+            {
+                "title": "3 Degrees South",
+                "category": "Sailing club",
+                "url": "http://www.3degreessouth.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZXnLxCHwA2OTLpPrDdqNWwBI7ql9UxyO56VnY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jawamu Tours And Safaris",
+                "category": "Tour operator",
+                "url": "http://jawamusafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOksGMHJ5aU1UrrgsrCPmxgqRQCBpdwaiaJBWEg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mnarani",
+                "category": "Administrative area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiirPzxA-fEssMNbdQ0MDfLgFseIvrMO2zuJK1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Garoda Beach",
+                "category": "Nature reserve",
+                "url": "https://www.cityin360.com/the-6-best-beach-in-watamu-ultimate-guide-2024-tips#garodabeach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXmnwXUAirMvyOEK-YtYKyl_C34pTVSbFogPpm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pwani University Library",
+                "category": "Library",
+                "url": "https://library.pu.ac.ke/index.php/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhyMsuEUGqFrHpp-NkH6FO2PEPwvMEiIh_FDc1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vipingo Ridge",
+                "category": "Resort hotel",
+                "url": "https://vipingoridge.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxV5eK1jKSwn5IKj1ltraKz2wQ70kKSUWG5w-D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haller Park",
+                "category": "Park and Garden",
+                "url": "http://haller.org.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiHd1hQ-F19JcOhMt7TkXqL3E0DzFIBo7LW2pZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bofa Beach Resort",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwtA2oovU21xV-DoAK_PVz4C0G58XjL3UUZ8uU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kilifi Creek",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOn4kEj3pbJ__1btz5-xbeaiPLT3bu2CGao4WSZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsavo East National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/content/tsavo-east-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7sHF6Kcrssxw1DgdczNrABLMkpK-U0L6_didu=w148-h148-n-k-no"
+            },
+            {
+                "title": "JT SAFARIS(Julius Tact) LTD",
+                "category": "Tour operator",
+                "url": "https://www.julius-safaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMF7DQfeg0UfB2IUVOPkNB0aizmchK7qzQjOA_e=w148-h148-n-k-no"
+            },
+            {
+                "title": "A. C. K MOMBASA MEMORIAL CATHEDRAL",
+                "category": "Anglican church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlFIkLeU-L4wTMqu9dhN4CWhTbgfxNmL1TF-rR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malindi Museum",
+                "category": "Museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_e6CnVU_CICaUaM5XW6KtXZSx4u-T-ne2-9o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falconry Of Kenya Ltd",
+                "category": "Bird shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUS0kOhnDFbr7cs-pzVhijwN4curwoaDNfcgPj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safari Kenya Magique Tours",
+                "category": "Tours",
+                "url": "http://www.safari-kenya-magique.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpo0FYOKlf_FrIjo4J2DWwwy0Da3EgeHWfBjPr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Henry The Navigator Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCPkze-duBs6sRVGkA1T5aJumQd9VmmBjk-W6Y=w148-h148-n-k-no"
+            }
+        ],
+        "Mandera": [],
+        "Wanguru": [
+            {
+                "title": "Giraffe Centre",
+                "category": "Nature reserve",
+                "url": "http://giraffecentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyatta International Convention Centre",
+                "category": "Convention centre",
+                "url": "http://www.kicc.co.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCHerMarLnbfCsJBiKVjsL66QQkD-TAw3CqeOB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi Safari Walk",
+                "category": "Animal park",
+                "url": "http://www.kws.go.ke/content/nairobi-safari-walk",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIXC5174E7VF3Mb_eIbcoNHQSOHEoqq6GG_h2i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamii Executive Gardens",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnH0UVIyHz7NWDkwlhv8Yzp5CeOdIB2ZY1Ft-Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Savage Wilderness Whitewater Rafting Centre",
+                "category": "Adventure sports centre",
+                "url": "http://savagewilderness.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsGTHf3MnbJfS9qw_19ec3tE4IA-tzINKVydKV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safaricom Stadium Kasarani",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXXr4Kp-SXF52291spdVxtn5LOQX1ZVn7ViGEA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rapids Camp Sagana - White Water Rafting Centre",
+                "category": "Adventure sports centre",
+                "url": "http://www.raftinginkenya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPehfI4xaARfAGvOuF--sEsBBYyW6tY93mpxPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bigfoot Adventures Kenya",
+                "category": "Tours",
+                "url": "http://www.bigfoot-adventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIX-QCGOErFj25GPdp0Ww1Q-HneJI8OD2YqbPp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kenya Wildlife Conservancy Animal Orphanage",
+                "category": "Animal shelter",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQqmuwGaKs-asZjOAYBmyHfVvT75Xmcl078CVv=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Savannah Holiday",
+                "category": "Boat tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLJwD_3LSibBYjwlm8hynoxraIg7ezgO8nNTe1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Perfect Safaris Africa",
+                "category": "Tour operator",
+                "url": "http://www.perfectsafarisafrica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmjo8R7IDX63o1sEo2WlaZ2NYP4vBaeqFn0KCH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hot Air Safaris",
+                "category": "Balloon ride tour agency",
+                "url": "http://www.maraballooning.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSICCJH0iOJi6_B9AFoRqkms_gFuA_rVrcR0if=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyahururu Bible Baptist Church",
+                "category": "Baptist church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_Rr48U3NOHAEpzftyqLQs2a1LLEUo490dK68F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kerugoya Urban Forest",
+                "category": "National forest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUcd3flia9Q0n2eW4h7e_M0ylILJafoocuXBYP=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "url": "http://www.museums.or.ke/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nairobi National Park",
+                "category": "National park",
+                "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+            }
+        ],
+        "Kakamega": [
+            {
+                "title": "Serve Ministries International - Kakamega",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1KZ35ZAttNWKXI9OhaLHd1i6SPraKGV1FAmL2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakamega Golf Club",
+                "category": "Golf club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODUVKzKcc3DbG12mJZql3avNi4FlMEYbEy1vEc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club Signature Kakamega",
+                "category": "Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-GCdsfDrJalrDmIDEo1PLwpCg9qdfYopOqn4h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bukhungu Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4_sbE3TfHoAc7s-WwZb-TU7-AUS-dlrQdthao=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakamega Forest",
+                "category": "Tourist attraction",
+                "url": "http://www.kws.go.ke/content/kakamega-forest-national-reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOx2jEGWg3G3hvQ_zaHh1Yyf4_LOyG-9jYF6Tm1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cruise Lake Victoria",
+                "category": "Boat tour agency",
+                "url": "http://cruiselakevictoria.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOMOaNsDE6jjFitVPHvDobHhVI5V_XR2KcQrMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Governor's Balloon Safaris",
+                "category": "Balloon ride tour agency",
+                "url": "http://www.governorsballoonsafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSkzm4G9I5cjm5J1so2Vn_nI45n8UYKWBn4GZ9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muliro Gardens",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHzUkmhJcLSpsiZ918zYHyhBBitHBGuvpLo9fo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kisumu Water Sport Academy",
+                "category": "Gym",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiWinrhfEwAceejm5_HhIashSyD3glkL9NZSn0=w148-h148-n-k-no"
+            },
+            {
+                "title": "MMUST Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE1qmvAGPLE9fc3xMDvd8Ojt4RfH8JPnOFhCm5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakamega Forest Station",
+                "category": "National forest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4dvleivjAP9aWQsy6O8Q-i-HgSYwTQxVbv8KZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wembly Stadium Lurambi",
+                "category": "Video arcade",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkEirUocw7EtSaZVpB8VvjE3HKPInK6WvdeuOf=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Crying Stone",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP13E_xl-le7L85WFfPjXoqY_gx6qs28gM3SJ1P=w148-h148-n-k-no"
+            }
+        ],
+        "Wajir": [],
+        "Isiolo": [
+            {
+                "title": "Jamia Mosque Isiolo",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdT52kILyHBICvSGonWuwhm1Lelr4tl4GJVE8R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bella Lounge Isiolo",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlUjMpjWsxaR7aof9bN_grsIdwsgNM0jAN2DTv=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Cedar Mall Nanyuki",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQe4PRIawnVoSo5MGUXGUxuK3ZWqe-ImA1t5cc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hells Gate National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Nairobi Arboretum",
+                "category": "Environmental organization",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEFeOhQ4VzZJoZf5itHnv5gsISrH_OeaJ5etcj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamia Mosque Nairobi",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0mCMdA5mRNy1e72FYInd1nNb22DTCJkSY1Jjk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aberdare National Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtVk9E-WClncwQnmJVuot13nVNDJ2wsOv_5SM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral Basilica of the Holy Family",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNO2pvarS-NfM7LNTXZryz5-qzUk8b-kXVrnG8o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhuru Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlKZ6Hmf3EypH0bC752xrayS__zaJBLeqRRwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Isiolo Municipal Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9TU0eZSHqR87XT7AhGNvL0uJyv5wkpPJwE_Vt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Don Bosco Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdJJuiCVWrD6V8n8cptVP2rONL6qqPLL1Re8Hk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samburu National Reserve",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM67HxCe359vkJEfShBZXF0yMPtA2nDZSyKEQM8=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Kenya",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL-SxxP1Be9gEuAXMMxdChFDq7lAhni_dj4BaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Al-Huda - South B",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPomUuZm21NfdHyoc6bSAOgnN0CSayoLs2zjr_g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kenya National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPA1j-4OR1b2ry8kyhbsnszG8DQHUs49DioX5Ki=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Nakuru",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9VpJiOgApE1Fm_YtHYOrQkSDQ2VE4nTGY14N4=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Giraffe Centre",
+            "category": "Nature reserve",
+            "url": "http://giraffecentre.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOL49uabicK75AyYngj-gFjA16tChTXigHx84Q=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nairobi National Park",
+            "category": "National park",
+            "url": "https://www.kws.go.ke/parks/nairobi-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tsavo East National Park",
+            "category": "National park",
+            "url": "https://www.kws.go.ke/content/tsavo-east-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO7sHF6Kcrssxw1DgdczNrABLMkpK-U0L6_didu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Amboseli National Park",
+            "category": "National park",
+            "url": "https://www.kws.go.ke/amboseli-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO-IIdJNmzDM5Nsw3dr5U2HhyEjhtHpJLOhA8Vb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maasai Mara National Reserve",
+            "category": "National reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM377c-jRm45TB69InvoxnNHMZ6041PP-io21fs=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hells Gate National Park",
+            "category": "National park",
+            "url": "https://www.kws.go.ke/content/hells-gate-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNmbXQJTxtWeeUi9rvuUYUF-AyK1bYRUaBwFWEv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ol Pejeta Conservancy",
+            "category": "Nature reserve",
+            "url": "https://www.olpejetaconservancy.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPxpUDaOqMdgryyA0FBd57OSkc9wETrfYPoMDRs=w148-h148-n-k-no"
+        },
+        {
+            "title": "Karen Blixen Museum",
+            "category": "Museum",
+            "url": "http://www.museums.or.ke/karen-blixen/",
+            "img": "https://lh6.googleusercontent.com/proxy/g7Y7Mtpn4DnEAw-iLfGVR79KlQQ9NyNfm8WFyaHdZcTGldMLdR1ZLK-NuZJfAur9xRxr7s7ODQgfFn0LNim8DyX_mGliNLUMX8ak5IR8Hlm-7obHmhZNfcqYIBVlydu7ulUsf4vjM44V45u0oBltCtVDBvcBKvg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Nakuru National Park",
+            "category": "National park",
+            "url": "https://www.kws.go.ke/lake-nakuru-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO8qgKH_GrYHvT_HdnrIdpJPNMB1jq9oj2lGcCP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Elephant Nursery",
+            "category": "Animal shelter",
+            "url": "https://www.sheldrickwildlifetrust.org/faqs#visiting",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPJfLLq0l950Ng66xQN-W2hSUHET4v2ttfJhBrD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Haller Park",
+            "category": "Park and Garden",
+            "url": "http://haller.org.uk/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNiHd1hQ-F19JcOhMt7TkXqL3E0DzFIBo7LW2pZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Aberdare National Park",
+            "category": "Park and Garden",
+            "url": "http://www.kws.go.ke/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOtVk9E-WClncwQnmJVuot13nVNDJ2wsOv_5SM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nairobi",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPBhj_TjWXfvjvrZ400bNLbzSEXtlf52WGiQOBt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jamia Mosque Nairobi",
+            "category": "Mosque",
+            "url": "https://www.facebook.com/JamiaMosqueNairobi",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP0mCMdA5mRNy1e72FYInd1nNb22DTCJkSY1Jjk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Kenya National Park",
+            "category": "National park",
+            "url": "http://www.kws.go.ke/content/mount-kenya-national-park-reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPA1j-4OR1b2ry8kyhbsnszG8DQHUs49DioX5Ki=w148-h148-n-k-no"
+        },
+        {
+            "title": "Buffalo Springs National Reserve",
+            "category": "National reserve",
+            "url": "http://www.kenyasafari.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOvyXsT7Xi4U-rCEROa5IajkMWIrhC29OJMxLPF=w148-h148-n-k-no"
+        }
+    ]
+}

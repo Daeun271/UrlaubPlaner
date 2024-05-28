@@ -1,0 +1,477 @@
+{
+    "cities": {
+        "Butare": [
+            {
+                "title": "University of Rwanda",
+                "category": "University",
+                "url": "https://ur.ac.rw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhztx9WFNGiERg4q4PJaLDIcWBfAbHNR0NJ8kM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inema Arts Centre",
+                "category": "Art Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzNu4ilGhMDo4QZ-XYMw9Y5cLfhpmlB2xNRjtf=w148-h148-n-k-no"
+            },
+            {
+                "title": "King's Palace Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMF4eDwnEYBvIfnb4MzA_sLHfCWPxIBI_Xgu-zC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rwanda Gorilla Trek",
+                "category": "Travel Agent",
+                "url": "https://www.rwandagorillatrek.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9Iq9G31qnWtzgJJ_iju7KVoWxfSojYusYgBDu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyungwe Forest National Park",
+                "category": "National park",
+                "url": "https://www.nyungweforestnationalpark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMquFQt-ydbbnDh8bUMrYz-VhKlpU18a1HcpwMa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Murambi Genocide Memorial Centre",
+                "category": "Museum",
+                "url": "http://www.cnlg.gov.rw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsPk2xaZvUx27QPThxC4e7g6QS-F7eUxmdZv2N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mwima Mausoleum",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBX9HzjlDoFA8PV6pBZYRqKHWxTOUFmMZ2VzOC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnographic Museum",
+                "category": "Museum",
+                "url": "http://www.rwandaheritage.gov.rw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoIMjiIXTtQh6CVqlj6xpIvzjdg_aJlYlCJ2Lp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Kivu",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWudht88hmolfkILkVE46kEOSpbojZgNh4Cvyc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kigali Genocide Memorial",
+                "category": "History museum",
+                "url": "http://www.kgm.rw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnMiOqMebioATPH7YtcygeV4CFMvV4udJnW7w8=w148-h148-n-k-no"
+            }
+        ],
+        "Byumba": [],
+        "Cyangugu": [],
+        "Gitarama": [
+            {
+                "title": "Muhanga taxi park",
+                "category": "Car Park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY42iDfFji0T_XMHZLQUCYOiFqexjfUL0tIUDA=w148-h148-n-k-no"
+            },
+            {
+                "title": "King's Palace Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMF4eDwnEYBvIfnb4MzA_sLHfCWPxIBI_Xgu-zC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lumina Supermaket",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4RA2VpqE-haZpc0uC8EIDZupXtc6Pnpp5Q3s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fazenda Sengha",
+                "category": "Country club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNGF7igzcEnJmLbpTMuW2q7YkCjTB0MNwl8V2i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Campaign Against Genocide Museum",
+                "category": "Museum",
+                "url": "https://www.rwandaheritage.gov.rw/en/home",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyKzM79R-xX1T5wLYpq-c-ei4Rihiq70AmXqFO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kandt House Museum",
+                "category": "Museum",
+                "url": "http://www.rwandaheritage.gov.rw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN900DhG_pCn_QjL2Vzu4H434DIYcWNuyZdevZk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amahoro National Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsjjzuUgT0t_ZsFkPLkZzcoyu9b2iPK7cW9vaY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Izere Safaris Rwanda",
+                "category": "Wildlife and safari park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjboZz1huKPJPip0M2lMTAwsUtU4Lv8S7RqZ85=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plus 250 Safaris",
+                "category": "Wildlife and safari park",
+                "url": "http://plus250safaris.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPz8-4bN4jIyHealRKpp8ddlIKkbqndC3Z2vqY_=w148-h148-n-k-no"
+            },
+            {
+                "title": "BUHANGA ECO-PARK",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNstntu6BeTadIfAQ_XTfeWW-9pbStI4TrM3zOv=w148-h148-n-k-no"
+            },
+            {
+                "title": "African mountain explorer",
+                "category": "Tourist Information Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsKrZwXdKAdlSCOw-_1pwUH9cIcPNaUk4pF3-l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gashora Bird Watching Spot",
+                "category": "Bird watching area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5OFXd2ml2z6YDNamNCsfgKIvHsEiG2uy-L-DB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wood wildlife photography",
+                "category": "Wildlife and safari park",
+                "url": "https://instagram.com/r_olivier_wood?igshid=YmMyMTA2M2Y=",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8YtD2nRhjG1GEwSLUeio_P5Ty6S_3JjzuYl-H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruhango KAMEGERI Rock",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8cPFgbaJit-f9FT3tHi6NftQtpBbDxijYv7SD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rwanda Gorilla Trek",
+                "category": "Travel Agent",
+                "url": "https://www.rwandagorillatrek.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9Iq9G31qnWtzgJJ_iju7KVoWxfSojYusYgBDu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Kabuye Private Camping Site by Beyond the Gorillas Exprience (Access is 20,000 for Mzungu and 10,000 for local))",
+                "category": "Hiking area",
+                "url": "http://www.beyondthegorillasexperience.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBzOBXM5_oQA_zwoZ3DcO6einkr3viyHF-KFIj=w148-h148-n-k-no"
+            }
+        ],
+        "Musanze": [
+            {
+                "title": "Inshuti Arts and Culture Center",
+                "category": "Art Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJcg0Gl_70DHEXZdzUGQXeFK6UZBFPMbVnt_0F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorilla Guardians",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUe_pYzFtKvpPT28VWRMc2yFbNpC69sSLpzWV1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+                "category": "Environmental organization",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWdtZZovrtzRcEuR2VpShoYM7FLwE6H5tY3Wy7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Huza Agency Group",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5WREvfQt8UQHcZgjSYK0P3WYnRYZZOlShpmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Rocks Arts Centre",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXkpFYsnBJxOkm-x66D6wVYLne5mNqCrgNuIhB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorilla Remarkable Tours",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPOhXFtBzHZTDDkT5XCHg1sJcJjcp_aub7hISg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umuzabibu Mwiza - Handspun Hope",
+                "category": "Boutique",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOidl4FOoNS06iYF5USG931aMejUd-kVmiAsWVL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gahinga Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4VTYWJqt0r9NcOMP-MMD4z35tA_vNxqJ9zr46=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Sabyinyo",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-teJnMfPpzeoI64i2HDD-euFI_70_mcuRfs22=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muhavura Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5rWbOsnmRWU4FLDdMXeMMsXKInQQF6Kk9nvRX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Karisimbi",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPigGkqm_YHs-ZpOlSEyAgbCnaTOgLnan9nco7N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Volcanoes National Park Headquarters",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1WZW77CIxfjR0JzCU8S-UtcIjd2LlGP6NAq5o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Bisoke",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOIGEirHO9T5_31uVlVB1MFF7csPln67eKA3C6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bisoke Hike Volcanoes National Park",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPparEbP6D_CahFcrgPWUBbqYy_1cpAvo4EdUjI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beyond the Gorillas Experience",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBBz4hFMGm27VcsSK6--dr_VJ7OilBzF77PNk2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rwanda Gorilla Trek",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9Iq9G31qnWtzgJJ_iju7KVoWxfSojYusYgBDu=w148-h148-n-k-no"
+            }
+        ],
+        "Kigali": [
+            {
+                "title": "Kigali Genocide Memorial",
+                "category": "History museum",
+                "url": "http://www.kgm.rw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnMiOqMebioATPH7YtcygeV4CFMvV4udJnW7w8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kigali Convention Centre",
+                "category": "Convention centre",
+                "url": "https://www.radissonblu.com/en/hotel-kigali/meetings",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0-95-S-ECSGoJ8vRZJ1k7sh7PE25hxfm-zjgv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hôtel des Mille Collines",
+                "category": "Hotel",
+                "url": "http://www.millecollines.rw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1w88PZElaaw9RyDQy1J9kz3wywa7o3UlADxFD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inema Arts Centre",
+                "category": "Art Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzNu4ilGhMDo4QZ-XYMw9Y5cLfhpmlB2xNRjtf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Choose Kigali",
+                "category": "Art gallery",
+                "url": "https://www.choosekigali.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwQ6P6KVqFMm9QwHg_I6jtEaOFE7vFHsodfnEG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ikirezi Bookstore",
+                "category": "Book Shop",
+                "url": "http://www.ikirezi.biz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtWzg3_q0G2yJS_HDviiQ_tLQ-dfPDrEUDh9Hj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belgian Peacekeepers Memorial",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-T0IyEF3YZD545jyPo0kkUOXYEg60X_aD8YIO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Niyo Arts Gallery",
+                "category": "Art gallery",
+                "url": "http://www.niyoartscenter.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaiAvUtY-n-nggfUHL-MQr08_mr7LPuiwv52ZK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amahoro National Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsjjzuUgT0t_ZsFkPLkZzcoyu9b2iPK7cW9vaY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Regina Pacis Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfTO7h8Niu3D4tgRZDl9rs_sETIBaYXOLXzKor=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyandungu Urban Wetland Eco-tourism Park",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJSWFdkjMNvB4rzf5qjH1jr1FS6pPKnqG5k8Up=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ivuka Arts",
+                "category": "Art gallery",
+                "url": "https://www.facebook.com/ivukaarts",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMx7W7KsBZDnVx4XcJOiRGW9FXEsd2sgaxQU92w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Intare Conference Arena",
+                "category": "Conference Centre",
+                "url": "https://www.intare.rw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrlTVYRSmN1Ypu4CvFySTmTKiimwq66n9ZLlIB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kandt House Museum",
+                "category": "Museum",
+                "url": "http://www.rwandaheritage.gov.rw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN900DhG_pCn_QjL2Vzu4H434DIYcWNuyZdevZk=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Famille Church",
+                "category": "Catholic church",
+                "url": "http://eglisecatholiquerwanda.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEKRtUgiv04j8Girk29qTun4UsPbEiXFRYIkuu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kigali",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM7V3CuSpFfNA7EFJqo3QLwu6FN5Z6IFnT7oST=w148-h148-n-k-no"
+            }
+        ],
+        "Gisenyi": [
+            {
+                "title": "Green Hills Ecotours",
+                "category": "Tour operator",
+                "url": "http://www.greenhillsecotours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq3qdeas7pTwBey6Joog5MpN4v-nA3Evbv0r-z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Empirical Tour and Travel",
+                "category": "Tour operator",
+                "url": "http://www.empiricaltour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5r22ZrBI-MnIzYji6muYjE_PWsPD-X2pT1aDh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ames Boat & Tours",
+                "category": "Boat tour agency",
+                "url": "http://www.amestours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0nZq0GxuavBUDxe3o_yT0Raz6atLdBcxFxNZb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Go Gisenyi Tours",
+                "category": "Tour operator",
+                "url": "http://gogisenyitours.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJF5ozjNRtcF8_hwXH1WbMOY0mgYl40sZABfkp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rwandan Adventures Ltd.",
+                "category": "Tour operator",
+                "url": "http://www.rwandan-adventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOf_3a-sf-SGz5RFncnV3065agCpSBOqalPmyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyiragongo expedition LTD",
+                "category": "Tour operator",
+                "url": "https://nyiragongoexpedition.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNn7WHMMMRaEDJNsnUQssUGe6gcy3MRqvzdAHID=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sahihi Africa Tours",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYRnDJAWOJ-bIO5RYeu1RMnvMsEWNWnS7jy2Q2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Kivu",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWudht88hmolfkILkVE46kEOSpbojZgNh4Cvyc=w148-h148-n-k-no"
+            },
+            {
+                "title": "MOTORBIKING RWANDA TOURS & RENTALS Ltd",
+                "category": "Motorcycle shop",
+                "url": "http://www.motorbiking-rwanda.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5xVio9qM-Q_ZHVQCnfP-b5PqPlhqV84uTrdXk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nyamyumba Hot Springs",
+                "category": "Tourist attraction",
+                "url": "http://www.amestours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4k9uuGwO2Rd45HUWSSbgM7teL2ilglBQp-pJt=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Kigali Genocide Memorial",
+            "category": "History museum",
+            "url": "http://www.kgm.rw/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNnMiOqMebioATPH7YtcygeV4CFMvV4udJnW7w8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nyungwe Forest National Park",
+            "category": "National park",
+            "url": "https://www.nyungweforestnationalpark.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMquFQt-ydbbnDh8bUMrYz-VhKlpU18a1HcpwMa=w148-h148-n-k-no"
+        },
+        {
+            "title": "King's Palace Museum",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMF4eDwnEYBvIfnb4MzA_sLHfCWPxIBI_Xgu-zC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Inema Arts Centre",
+            "category": "Art Centre",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPzNu4ilGhMDo4QZ-XYMw9Y5cLfhpmlB2xNRjtf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Kivu",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMWudht88hmolfkILkVE46kEOSpbojZgNh4Cvyc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ethnographic Museum",
+            "category": "Museum",
+            "url": "http://www.rwandaheritage.gov.rw/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOoIMjiIXTtQh6CVqlj6xpIvzjdg_aJlYlCJ2Lp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kigali",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPrtHBIpLgPABzVOBx4siEo7V88ylhEZ1CLR1It=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hôtel des Mille Collines",
+            "category": "Hotel",
+            "url": "http://www.millecollines.rw/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO1w88PZElaaw9RyDQy1J9kz3wywa7o3UlADxFD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nyamata Church Genocide Memorial",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOieCSc7AryUrjTaCnXCNNVaA9vD19DFb-tAGHI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gorilla Guardians",
+            "category": "Tourist attraction",
+            "url": "http://cbtrwanda.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPUe_pYzFtKvpPT28VWRMc2yFbNpC69sSLpzWV1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gishwati-Mukura National Park and Biosphere Reserve",
+            "category": "National park",
+            "url": "https://www.visitrwanda.com/destinations/gishwati-mukura-national-park/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMmpx3g9u0fAkAOsKqBTQj7L1xAhWFOkKLeaz7-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Niyo Arts Gallery",
+            "category": "Art gallery",
+            "url": "http://www.niyoartscenter.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOaiAvUtY-n-nggfUHL-MQr08_mr7LPuiwv52ZK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nyungwe National Park - Rwanda",
+            "category": "National park",
+            "url": "https://www.nyungwe.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipODsr7JJk9BMDvKYt6FCuISVaE4vQcr6qqhAe86=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Bisoke",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNOIGEirHO9T5_31uVlVB1MFF7csPln67eKA3C6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ruhengeri",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMs_ZEJNP3TPcGKiJnbQKJPzVzEmLxJIHlgw7Ti=w148-h148-n-k-no"
+        },
+        {
+            "title": "Go Gisenyi Tours",
+            "category": "Tour operator",
+            "url": "http://gogisenyitours.net/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOJF5ozjNRtcF8_hwXH1WbMOY0mgYl40sZABfkp=w148-h148-n-k-no"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "cities": {
+        "Reykjavík": [
+            {
+                "title": "Hallgrimskirkja",
+                "category": "Church",
+                "url": "https://www.hallgrimskirkja.is/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOd0uslkh05Ey3auyorQ9kYVGA3dRhyIthKVcKy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sun Voyager",
+                "category": "Sculpture",
+                "url": "https://sunvoyager.is/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2UFfXi_VVNR886U8E7oeJF7FaEDVSpUQv3zP3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Perlan",
+                "category": "Natural history museum",
+                "url": "https://perlan.is/",
+                "img": "https://lh4.googleusercontent.com/proxy/njiLx5FBqL-3D61mPKo-EGrjUKnpPlL5VhJFJEmAYuCt3WDDdi2R85dQkmD-MZkjh8eev2ZrhU-d5pPo830cGw0oqXA3G-GvzPBSv13v0jpDG6UtP39b5AwZbt3q4rKfVktJB70JzOfJPR6TLH7Jq-wofMZGd7w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laugardalslaug",
+                "category": "Public swimming pool",
+                "url": "http://reykjavik.is/laugardalslaug",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-ZxVbJ5I9t5fimWgIBzjV4-z9HaRl0vLkvPcx=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Iceland",
+                "category": "National museum",
+                "url": "https://www.thjodminjasafn.is/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoBeBzzIctZrkfudgZk4IPsxsR2fYgD_8uTzod=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aurora Reykjavík - The Northern Lights Center",
+                "category": "Science museum",
+                "url": "https://aurorareykjavik.is/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5N5VUHMPGXNHcGZIpxIgGR0D3-N3TYmguKvYV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Árbær Open Air Museum",
+                "category": "Museum",
+                "url": "https://reykjavikcitymuseum.is/arbaer-open-air-museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2a2U0CSBPj9R4HA51JEU5rlYBoUc0pONWci_I=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Icelandic Phallological Museum (Hið Íslenzka Reðasafn)",
+                "category": "Museum",
+                "url": "http://www.phallus.is/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORB-lFD5hI5qIAZTeFoLiBZIc3gFGLjmDciMyv=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Settlement Exhibition",
+                "category": "Local history museum",
+                "url": "https://reykjavikcitymuseum.is/the-settlement-exhibition",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxc65lJEaVYTY02rpIW3itNsjp9Zi05cIvw2E=w148-h148-n-k-no"
+            },
+            {
+                "title": "FlyOver Iceland",
+                "category": "Tourist attraction",
+                "url": "https://www.flyovericeland.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJTczaTR--hKMhvz9COKM3uXWvmUT6BaJ0QVYo=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Einar Jónsson Museum",
+                "category": "Sculpture museum",
+                "url": "http://www.lej.is/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeepTkHJWf0va_YJzLvRTJIC8yAZByHv79tYdm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Lagoon",
+                "category": "Thermal Baths",
+                "url": "https://www.bluelagoon.com/is",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4chKt6T7FwJBHKPlN9UKyGfWUNxx2UEIg9krQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sky Lagoon",
+                "category": "Thermal Baths",
+                "url": "http://www.skylagoon.com/is",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYgzkc4Yr3DPLozPYLbQ8pCJav0Pk2d0TIDPXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thingvellir National Park",
+                "category": "National park",
+                "url": "https://www.thingvellir.is/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrjxE9qSoqu_iByGaUKbQAiCauSVjBeSKuWg0d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saga Museum",
+                "category": "History museum",
+                "url": "http://www.sagamuseum.is/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtJ4zBoWBVtMgtKnOYvqS7etsfB4U78tkWitga=w148-h148-n-k-no"
+            },
+            {
+                "title": "Whales of Iceland",
+                "category": "Museum",
+                "url": "http://www.whalesoficeland.is/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdHbSOzhafiD5vakuJZP7c3W68nmaJs5SfrUvE=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Blue Lagoon",
+            "category": "Thermal Baths",
+            "url": "https://www.bluelagoon.com/is",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO4chKt6T7FwJBHKPlN9UKyGfWUNxx2UEIg9krQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Thingvellir National Park",
+            "category": "National park",
+            "url": "https://www.thingvellir.is/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMrjxE9qSoqu_iByGaUKbQAiCauSVjBeSKuWg0d=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hallgrimskirkja",
+            "category": "Church",
+            "url": "https://www.hallgrimskirkja.is/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOd0uslkh05Ey3auyorQ9kYVGA3dRhyIthKVcKy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Skaftafell",
+            "category": "Nature reserve",
+            "url": "https://www.vatnajokulsthjodgardur.is/is/svaedin/skaftafell",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOJdBqL_50DNrU64dc-E11BSrOUbWeyJAANS8yb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Reykjavík",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOrdibic81bYDdNDpTySWw-IO7wRrxI19WKaDh8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Perlan",
+            "category": "Natural history museum",
+            "url": "https://perlan.is/",
+            "img": "https://lh4.googleusercontent.com/proxy/njiLx5FBqL-3D61mPKo-EGrjUKnpPlL5VhJFJEmAYuCt3WDDdi2R85dQkmD-MZkjh8eev2ZrhU-d5pPo830cGw0oqXA3G-GvzPBSv13v0jpDG6UtP39b5AwZbt3q4rKfVktJB70JzOfJPR6TLH7Jq-wofMZGd7w=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sun Voyager",
+            "category": "Sculpture",
+            "url": "https://sunvoyager.is/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM2UFfXi_VVNR886U8E7oeJF7FaEDVSpUQv3zP3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fjaðrárgljúfur",
+            "category": "Scenic point",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMwbtDftRX-GePOt7f6fyRh40efXGzRrNVCi06-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kerid Crater",
+            "category": "Tourist attraction",
+            "url": "http://kerid.is/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMKKYVWDfXcCIOypYCk2-lF5qy8mpwhIpgG1uoE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jökulsárlón",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNa3De-j_8mrppbuehBdq0z0tUS0E4jP4XGTgU3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Svartifoss",
+            "category": "Scenic point",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOgcrjpoIfi0vUdtE-cpEEbxEI0f49u75wyl3VX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Seljalandsfoss",
+            "category": "Waterfall",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMzeT-NU5NSLmYp9q4h0hjhOZbH4LA1zuYbpTWn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mývatn Nature Baths",
+            "category": "Thermal Baths",
+            "url": "http://www.myvatnnaturebaths.is/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMnFdSwvcPZV4fowEmQHagSrFpi5zFLuAqJX9bt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Vatnajökull National Park",
+            "category": "National park",
+            "url": "http://www.vatnajokulsthjodgardur.is/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipObYsdCVoAu0BMWzSkardoowiugTavslfn_GuVX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gullfoss Falls",
+            "category": "Waterfall",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM29QHgv24HHziX1KWfLxtv4rtep00_TW6LomfZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mývatn",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMK2o2OyAYsd3NkyeH0eo1i9LqE13Uyd9jD1h-k=w148-h148-n-k-no"
+        }
+    ]
+}

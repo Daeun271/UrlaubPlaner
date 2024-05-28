@@ -1,0 +1,180 @@
+{
+    "cities": {
+        "Fort-de-France": [
+            {
+                "title": "Jardin de Balata",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmZRzv0fj4j1tIus8NGCOM3F-inzbPKAJODcTU=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Louis Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPviumFzmEtfefs_ExDFsh-ZZCCQzpT7uHvYbc0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Annexe Monsigny PNRM",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEenUhLzYCG2PQvSQeNHw28Zxll33zG1EC94Gs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cascade Absalon",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgiFV2dT21At-NL3wZZH10Bo9ly_aypRS64SlB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Saint-Louis [visites guidées]",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-t8_RqJbeu2kPQcDGCEXQHaNeXTFbGyMjYBoR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibliothèque Schœlcher",
+                "category": "Library",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0fL_FK6uHE4ntXHlKyRR8W_NncZnpcT02rNtX=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Savane Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObmdA5MU2SXuStXxk7ML5D9avnVpu5aFqOESXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "les cascades de didier (départ)",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLSpbq8d6iUrF91y9l012ZRiQRyEXDhrOm6My8=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Favorite Distillery",
+                "category": "Distillery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMupQWqPO-FJOFC157EKQW_saofI1cCbxRT6iEl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Departmental Museum of Archaeology and Prehistory of Martinique",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQFKkN0BycfGceFWwe-C5GFwLSEXwnVkL9AXNc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fontaine Didier",
+                "category": "Mineral water company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5_XbRKynmKijtiLonGEhvmMkhQa2GcT5IOYgx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chapelle du Calvaire",
+                "category": "Calvary Chapel church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyPpxlClJs8Uw2awbB9wkB_U2k1UUsZ3VgjqIF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tropiques Atrium Scène Nationale",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXTFzUcR3-qj6QyrOmIXhVm8QRd4IwPPx4dtC-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cœur Bouliki",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRiNbgQmm13fNmZyf6oPeGqidxdGebUsAkzHI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fontaine Gueydon",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvDla8qfJ_3jHktTWK6o6TkpQ2DKK_kmi7-quV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plage de l'Anse Mitan",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSH7SiC9pzLJPrLoX3itZQRd02WShg2ZMCYfrd=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Jardin de Balata",
+            "category": "Botanical garden",
+            "url": "http://www.jardindebalata.fr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNmZRzv0fj4j1tIus8NGCOM3F-inzbPKAJODcTU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Presqu'Île Caravelle",
+            "category": "Nature reserve",
+            "url": "https://martinique.airlocal.com/fr/decouvrir/faire-voir/ilets/balade-presquile-caravelle/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOEBsIr7Afm50Uujw0b5WcmoKOe1YMT45-cF9pG=w148-h148-n-k-no"
+        },
+        {
+            "title": "ZOO Martinique HOUSING LATOUCHE",
+            "category": "Zoo",
+            "url": "http://www.zoodemartinique.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNb66kfwDAt1oQBQQnNOtWQ8zSpZAXCm70sn-Uz=w148-h148-n-k-no"
+        },
+        {
+            "title": "La Savane Des Esclaves",
+            "category": "Museum",
+            "url": "http://www.lasavanedesesclaves.fr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOYMHLI6rMsNpS62lbqIsJ456kN0-zMtBzslyZv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Habitation Clément",
+            "category": "Historical landmark",
+            "url": "http://www.habitation-clement.fr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKc-iNEIR4PXJFab_d0ULynBvJ_dldwTZt4_B4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Anse Dufour",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNnlZFliNV_4Jy9kID-5Ub8mdGuHbB-mXGX1jjz=w148-h148-n-k-no"
+        },
+        {
+            "title": "La Baignoire de Joséphine excursion Martinique",
+            "category": "Boat tour agency",
+            "url": "https://www.labaignoiredejosephine.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNiQrDgbfLeVCsIgoNG5wpy3KKoOrDVs5VknAbJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Distillerie J.M.",
+            "category": "Distillery",
+            "url": "http://www.rhum-jm-la-distillerie.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMu1TIlZU6QX2184gmrTqUFqz_HT5Zz9ytbEwaY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Anse Figuier, Martinique",
+            "category": "Beach",
+            "url": "https://www.bellemartinique.com/tourisme/lieux-a-visiter/plages-de-martinique/plage-de-lanse-figuier/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOccCYA3I6Rb1cCl2IG7Bd9ZhcLvyArErP9z8qB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Anse Michel",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPzb6u3B8T4QrDSzr2iwtpdMHr1euA6J516vnfT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Plage des Salines",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN4dIfy9x5E0SET1SzY2Sj_h0U83WfCNMifUpOW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Les fonds blancs avec Gérald - Excursion Bateau Martinique",
+            "category": "Boat tour agency",
+            "url": "http://www.fondsblancs-martinique.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPbB2qUIVjF-UEEzI9mSg1nGvT7nFKtE6IMu1QZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fort-de-France",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOcVN54ix2wGrfdM0BGzlDfMnr_HEua4a0DhFPc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mémorial Cap 110 – Mémorial de l’Anse Cafard",
+            "category": "Historical landmark",
+            "url": "https://www.reseau-canope.fr/art-des-caraibes-ameriques/oeuvres/cap-110.html",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOQg4zIlBISIWupEnfV2ykWBt3R5iOw3lUmg5mg=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. Louis Cathedral",
+            "category": "Catholic cathedral",
+            "url": "https://cathedralesaintlouis.eglisemartinique.fr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPviumFzmEtfefs_ExDFsh-ZZCCQzpT7uHvYbc0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Le Domaine De L'Émeraude",
+            "category": "Arboretum",
+            "url": "http://pnr-martinique.com/visiter/domaine-demeraude/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOwrAXPigndK_fYxFUtnhY6kHUaqLg5Njth6QsD=w148-h148-n-k-no"
+        }
+    ]
+}

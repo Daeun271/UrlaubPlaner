@@ -1,0 +1,2887 @@
+{
+    "cities": {
+        "Talca": [
+            {
+                "title": "Plaza De Armas de Talca",
+                "category": "City park",
+                "url": "http://www.talca.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcybOV21NpDRCdXPtiVCzBiW6PRcrlLXtdHnAc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maule Regional Theater",
+                "category": "Performing arts theatre",
+                "url": "http://www.teatroregional.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiTGNK2729hddyrxaFxkUSPXoSRKwnqFQAGH4t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Maule Shopping Center",
+                "category": "Shopping Centre",
+                "url": "http://www.plazamaule.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCKVGKQEh3M1AwOxwQDm2Sd7H7afFuUjsKu8Qk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall Portal Centro",
+                "category": "Shopping Centre",
+                "url": "https://www.portalcentro.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfqPn0i4a3VlGD2Vn6Sfx6h9e8nwuhau_bqEds=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo O'Higginiano Y de Bellas Artes",
+                "category": "Museum",
+                "url": "http://www.museodetalca.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeSvUUjuqppWlsZ5f3sacsf3KPm8LI9XQ8gjDd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Fiscal de Talca",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgyfepEsE1xMIzopg2PeT9xSqy8qD9YWs5Mgs8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Casa Donoso, Talca",
+                "category": "Wine shop",
+                "url": "http://www.casadonoso.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdWNrif-6WoKGDTVtB9TcTt5oBD1Peq1a2FCY4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramal Talca-Constitución",
+                "category": "Transportation service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqSO7yErMUM6T4LVoc5X48DG293sGuzaNobg64=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bernardo O'Higgins monument Independence Declaration",
+                "category": "Historical landmark",
+                "url": "https://es.m.wikipedia.org/wiki/Bernardo_O'Higgins",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHO3SoIBdizUDb98qot5BCZNmc1U99ScGoO6-3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botánico, Universidad de Talca Garden",
+                "category": "State park",
+                "url": "https://www.utalca.cl/vinculacion/jardin-botanico/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUqL4SsLFwt7SkX89bgYtO3V3Tld9H60-AZBXu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Costanera",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMHWEZDyQwYBVZoIWfKMkMHMuPw4Hn7KRvRKo4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral",
+                "category": "Church",
+                "url": "http://www.diocesisdetalca.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNp5yYVla-7mw8hZ0kqjG1eugg8mKSh-t73wcRO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Patio Rugendas",
+                "category": "Cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjjCU0g8LM3utht2Ems3_CINJ9WOCK--iuImHR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Armerillo",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0OgrmcFnnWjem53XZhQCDfCYqOR8dQLZpFVH_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Invina",
+                "category": "Vineyard",
+                "url": "http://www.invinawines.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSsasQCexAMvjZQcDceFk10rbNafznrCdXkcTC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fillkun Outdoor",
+                "category": "Paintball centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPav3e3XVV6gvax_TK60H53q7R-uknw_2TIwRHj=w148-h148-n-k-no"
+            }
+        ],
+        "La Pintana": [
+            {
+                "title": "La Chascona",
+                "category": "Museum",
+                "url": "http://www.fundacionneruda.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUSGe9dY6U5Kds5Cd-4Krq_jwuSAJUgqlMT63W=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Antonio",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXtDlSI8tJ77ON4799asvqz4hNjveTT69EjOp3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL8AWIF1I-b9vh9V4O2A5GK1KeG3b0N8Omx0M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Araucano Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjV4_WybdNIO2d0bQIVPRXlr3rE1aVQLPOhQMt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chilean Museum of Pre-Columbian Art",
+                "category": "Ethnographic museum",
+                "url": "https://museo.precolombino.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgf6RCsSV9m8AnQk5oSAscJPua7VzKANQFNPNu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santiago",
+                "category": "Colloquial city",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOYmmypgYaNvkFmVnsWP2es767NaRipWF8Gz2I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barrio Bellavista",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOKQdJxhjV20NemT3r5wPRiTKO9mnirqt1gQYe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Carlos Ossandón",
+                "category": "Park and Garden",
+                "url": "http://www.patiolareina.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNdv_Hm8ZLRJSyHgXBZFkFjHoU6ZhePH2Xp_I7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valparaíso",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlTKvQYoT3NR-2kLW2YgJYoCIrRJg2k-aE0pPE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finomarket tienda de alimentación saludable",
+                "category": "Organic Food Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5clx3UJRjsK2nVTTCvC5s8AkbneSVEUT64T3Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "CATTY Belleza",
+                "category": "Beauty Salon",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcI9tVC90boLhn-jf58J6Hwj1-7tj6zEQxhdfG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sky Costanera",
+                "category": "Tourist attraction",
+                "url": "http://skycostanera.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPniUZTImpNQ3ClPhC-MFxpYTJeXvk3kUaPJ6SF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Costanera Center",
+                "category": "Shopping Centre",
+                "url": "http://www.cencomalls.cl/costanera/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVUWyQXsZv-wF1Iy82hqaiQaxTZ9TPj471Gz1i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Memory and Human Rights",
+                "category": "Local history museum",
+                "url": "https://museodelamemoria.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl_lbwzotz2haGEYD_6M2hZVB3NQCvhVvoaiml=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Santiago",
+                "category": "Catholic cathedral",
+                "url": "http://www.catedraldesantiago.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuZHpQbS7_1aadulnPh6bbwXvq2h9SAuO8EuYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Cousiño Macul",
+                "category": "Winery",
+                "url": "http://www.cousinomacul.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTmHr9kA1c_upyBrVC_ydKth3IMZLybqI6XxIH=w148-h148-n-k-no"
+            }
+        ],
+        "Valdivia": [
+            {
+                "title": "Republic Plaza",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXjMll8k8khfAMLngBo1yd3_LbSYE-t9x3lZVx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feria Fluvial",
+                "category": "Seafood market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2pkF-iWwhYU2qpM3TGxMy0sL9QAGpR91YIF6s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Saval",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyQ5AAnLBQn7XTK2Ued6CMwRPsP3lums8B8miE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady of the Rosary Cathedral, Valdivia",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-Q3wU3wogruZktgG0gPFhJGbMif4zsoOugFLk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Torreon de los Canelos",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfcWghvbhMb8cWbCHDH3S4ntZY4uyKC-p-o_jm=w148-h148-n-k-no"
+            },
+            {
+                "title": "museo naval submarino O' Brien",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGosnvrBQOGmIG7uaQ10e_KV6YysALSRaL5H3_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Histórico y Antropológico Maurice van de Maele",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2raho4pp0DNg8TP306wNv2U_WjeFU0NIaq00g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casas y Parque Prochelle",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCDvr6jbRGp2lsNQ1QGjoHmuiWXtUyZGoNXi7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Transporte Fluvial Sustentable",
+                "category": "Transportation service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmtcB35vqA7BywhpZ3rPCngj3OG5ZWf9eGqDz4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardín Botánico UACh",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdE54CkCVV622visgsJB3NDGABTtXhZKRZl57F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Pedro de Valdivia",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJPB6lPdmS8j7_5KzojbCZ1XG_hGNqnHbY8RRP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Cultural El Austral",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFBij54DLlcjN_8iyG894dKV14PlK1yX4iHYzo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Arte Contemporáneo de Valdivia",
+                "category": "Modern art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOmnh_H7qoMQIxCPrgWusXycjFEmlgZW26IwhQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teja Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSOhGtfL5kNXsRfuUCFVe1TS_7oAUemCP2FCp9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Torreón del Barro",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOYGbtphjovekvUbVCemSKJ8w4Kt3ivZ31wuLy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Urbano El Bosque",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHtqMLCWojzEPLnqMfygXVldh9MNR485sHmvx1=w148-h148-n-k-no"
+            }
+        ],
+        "Temuco": [
+            {
+                "title": "Casino Dreams Temuco",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMoIpbp-tgcSlcBQsM_biJYDHHYmbygBkcVF8C3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cautín Island Urban Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJxbMNTSL4CwddLoZ61PRExLOxuGQEsZ3TiF1i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nacional Ferroviario Pablo Neruda",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM05jst2k9HvwQeB4rpaeFtk_TU2hYE5pMtMJCh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinépolis Edificio Paris Temuco",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPueyvd2dalp2MMgiyVKVKbvnaCSIFpSLjMBa7c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Anibal Pinto",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJsMdvZt_vTjDp7attYhNuQlFCcjLteF7HGYyD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estacion de Ferrocarriles de Temuco EFE",
+                "category": "Department of Transportation",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvkeBV84c8uNYfM5VjozJN3wY32x71C81Nl0YY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia Perpetuo Socorro",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjHaLBVm6o6SiWvSWyFWKfJHWmrA5ki3Hk5hSC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Germán Becker",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNByhZRe4qmWSGa5EDUcqD6mKuqyZHiCcLbAphR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Regional de La Araucanía",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPksr0LnUrgqXPLTVfxHC3LEhIxH4p0371G60jk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puente Treng Treng Kai Kai",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9K4P2P5AlMSYvKv6IfUJLEzNnJ540STYynURz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feria Pinto",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2KhEsohGbc1RGNloFv_X7FwYG1V7WzD_NvPPr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Villa Olímpica",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOMT2wr9j93pVI9oBH_iXupwZE90JbINx4Q8yD=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Joseph Cathedral, Temuco",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO47B7guPys-AUqckfcuJFe2zt4NNBqudepprzm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Ñielol",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyLyR-Mom6eAJs8oxGzqpWEDpnaCVZA8ZXXnGC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Labranza",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXLVsYmrihHYl2AvmZ8B4uoHv19MGa6o9XarJH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Canopy Lautaro",
+                "category": "Paintball centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPs38TWS9LkmUtDTgvKe4YbJ7p5-Mo4Nx0BuAj2=w148-h148-n-k-no"
+            }
+        ],
+        "Villa Alemana": [
+            {
+                "title": "Plaza Sotomayor",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOAnPJDkvSkB0IEKPljKFUjx7AB8hVwotrsuew=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Sebastiana Museo de Pablo Neruda",
+                "category": "Museum",
+                "url": "http://www.fundacionneruda.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUs83DPZr04s6NqGoncyqJXAmBJvkA7yDS2Q_A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Verde Mostaza",
+                "category": "Gastropub",
+                "url": "https://verdemostaza.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0SCzPA360sjZyPt3Q_u3IKRtwnn0KMUm_XC9d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fs7training",
+                "category": "Gym",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU_X6E7HRxTSV3y4EeCFiIssynprYo1fkrsdeR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cervecería Villa Alemana",
+                "category": "Homewares Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4xdtZOBw4WPiwiLbRkvXimxJHPZHuYGculJnf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spa casamuri",
+                "category": "Spa",
+                "url": "https://www.spacasamuri.com/valores",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzCTdMeZA1-jF_YhvPvmJgOCRnS5uIdhVfVd53=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diroom",
+                "category": "Restaurant",
+                "url": "http://www.diroom.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNltu2YUCNKZk7SFqz2TvFM9iTOPeFMzf8zlHXD=w148-h148-n-k-no"
+            },
+            {
+                "title": "VASPORT",
+                "category": "Fitness centre",
+                "url": "http://www.vasport.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMr_J0UasAoc01WrxBr2ArVIJNHl7HElDDKRa4n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Game Cover Restobar",
+                "category": "Bar & grill",
+                "url": "http://www.gamecover.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvmsjM_ugy-CNyadv7TqSuDt1u9IQqtqNcnDU5=w148-h148-n-k-no"
+            }
+        ],
+        "San Bernardo": [
+            {
+                "title": "Cerro de Chena",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGCrGRWHHb5tSWV8VIzrvl65IbeLsUhmunTorN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pro Woman",
+                "category": "Fitness centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHYJioFPswTqTAHJagdERtuQrJv7jgBMIloQGt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Municipal San Bernardo",
+                "category": "Amphitheatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWJ5FRe9-MPhWfh-qIIwRMIPUdK97rDetKab3J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuendo Domos",
+                "category": "Spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0xNlx2pjrmdTdnbRthaokU1xW8ffvcpU0l7Dm=w148-h148-n-k-no"
+            }
+        ],
+        "Chiguayante": [],
+        "Coquimbo": [
+            {
+                "title": "Cruz Del Tercer Milenio",
+                "category": "Monument",
+                "url": "http://www.monumentocruzdeltercermilenio.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbtj8sTicO8q4j1adu_FnPFXWilE4_GjZazMLD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Enjoy Coquimbo",
+                "category": "Casino",
+                "url": "https://www.enjoy.cl/",
+                "img": "https://lh6.googleusercontent.com/proxy/PDbfACZRvpgom40VRiW_CRYpb0PbNC1fPTfo7tZ-IApiNuAgP6e2OHQ-5T0-aNDbV23M7V4WuzV__gw6vNEcg52GCtOcUkRuPe4oq_WorDxNl7u2scBBFAUuw_ARn9dtfJFu-5Ht8JFy-T2mcWjjnwwtDoWYL7U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Stadium Francisco Sánchez Rumoroso",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqitk3Dg2xLUi_WSWR0iCb9k2r83WJqu-A73DJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fuerte de Coquimbo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_KxYWEHTUGFzPVG2z0J4Db5t8mSTqDIx6-QDh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace Cultural Center",
+                "category": "Performing arts theatre",
+                "url": "https://www.instagram.com/centroculturalpalace",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbj9ofw65e-L_BVeNiaqlvV_5HYNLPdhv-KdV_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Coquimbo",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWsj_58tcdG6-GWEwKMFvmw9cz3p2CxE0xvi-D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas Coquimbo",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOORIVGoUEnZaZHSbHBn_YpKlo8ZADOZI4XBJzH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa La Herradura",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNteuxI0BgG6An6K65ENTiiQPSD5DUiTH3KnS0M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Cultural Mohamed VI",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEsmcwklh038SM4emaAOOJhTHMyKk_jaBUdstY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cementerio Ingles",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlBSOZlRs5I0IxFqZLEfkH1_ilAaw9zesM-XFp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faro Punta Tortuga.",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6RGwX8imoUWQfleogpNMDVhcbDvMURSDsCFPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Peñuelas",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLxQJ3WgIbBxuzNrxlOPksEEXpbNjvECyMGKP7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Japonés La Serena Garden",
+                "category": "Park and Garden",
+                "url": "https://www.facebook.com/jardinjaponeslaserena/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuScDKSRpqVoH6iUC8KlAxwDS5boJNqd7ymEUF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Totoralillo",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlDhyHY7yW7BPt-U43qkmtMgP5JmemBgz2bAdd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calle Caleta de Guayacán",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJ4jcLfI1dgI9lfttt-Bv2jH4bSYioj3rE98py=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de Guayacán (Iglesia del Inmaculado Corazón de Maria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9OEdGD1Af-ZhHeDoJjByP0PUAXEzii9GVTTQ2=w148-h148-n-k-no"
+            }
+        ],
+        "Calama": [
+            {
+                "title": "Estadio Municipal de Calama",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsKtERwG06jXpmTkTmpemrdjoQsihmQnk_KSKA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall Plaza Calama",
+                "category": "Shopping Centre",
+                "url": "https://www.mallplaza.com/cl/calama",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3ZcgKLjYU-Ffr4CEckg66ITiw3g9WWJeJTXBc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque El Loa",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1cCVQqo5_M7t8cGqmj4SpoXE0JPSbCk-qTXNa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral San Juan Bautista",
+                "category": "Cathedral",
+                "url": "http://www.iglesiadecalama.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvIq1VsRjx4bu9l7tbez3ErYON7Z1Zh6fl6CPm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia San Pablo de Calama",
+                "category": "Museum",
+                "url": "https://www.facebook.com/parroquiasanpablo.apostol.357?mibextid=ZbWKwL",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9EjcK-3Ez_QB4D6KurvRVGiZMdj2WLCFIaUYt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina del Sol Calama",
+                "category": "Casino",
+                "url": "https://www.marinadelsol.cl/cal/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_50_Tt_Y4O3vY-BCw1UYlxRXueEkNFzgb5Uyt=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Tatio",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN75luSjuizHhTg1dpymFv_YDmRd_YRZnZQEQTk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chuquicamata, Codelco Ne",
+                "category": "Mining company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSxYKu_-Z7I3MeYxl778F1z_7OcZWNfrSH99ue=w148-h148-n-k-no"
+            },
+            {
+                "title": "para la Preservación de la Memoria Historica Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNqeAG_dI5gmJ1tF-OmxNOlTC96U49uUBzKEJk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunza RelaxCenter",
+                "category": "Health spa",
+                "url": "http://www.kunzaspa.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYG-8eXGSwK_Hjp-DNFVwZO9-NdufZ4pSZkHX4=w148-h148-n-k-no"
+            }
+        ],
+        "Talagante": [
+            {
+                "title": "Plaza de Armas de Talagante",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS7VQN-BCe3JqJn_yt6yIamNJ_Al1-OJtJXBQj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Santiago",
+                "category": "Catholic cathedral",
+                "url": "http://www.catedraldesantiago.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuZHpQbS7_1aadulnPh6bbwXvq2h9SAuO8EuYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Undurraga",
+                "category": "Vineyard",
+                "url": "http://www.undurraga.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwyWL83wEzl3azqPi4GwY6w-rbe2Iexqln_88E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balneario El Trapiche",
+                "category": "Park and Garden",
+                "url": "http://www.penaflor.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyL5stg8vrLf4rQJYfhaFbuH1n5TgSQPJlTbMJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Natural Quebrada de Macul",
+                "category": "Nature reserve",
+                "url": "https://www.penalolen.cl/medio-ambiente/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKcezywkBzhGoRHq8dQhUUJCHE-sUI7t5-Acye=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aguas de Ramón Park",
+                "category": "Ecological park",
+                "url": "https://asociacionparquecordillera.cl/red-de-parques/aguas-de-ramon/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6cnxI1zAjAYSvX1CPLiPgS-uAUzftgp9xmgw4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bustamante Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpmO40Vv3L1Sp28Ofj3p4hiBDwy1mINLwYKq96=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hipodromo Chile",
+                "category": "Racecourse",
+                "url": "http://www.hipodromo.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4WAxATRagoDVvMQyPeQaVHWuSdc0daJ1MQQks=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barrio Bellavista",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOKQdJxhjV20NemT3r5wPRiTKO9mnirqt1gQYe=w148-h148-n-k-no"
+            },
+            {
+                "title": "AquaBuin",
+                "category": "Aquatic centre",
+                "url": "http://www.aquabuin.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmi7fcEpmO-7LxCLLULAfaEpZ6E8gfpf6fcFaJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Carbón Hill",
+                "category": "Nature reserve",
+                "url": "http://www.parquemet.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORJ2b-zrQy9dOpNTnHsw4Bsxl_Oyd8eBG04gvg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club de Golf los Leones",
+                "category": "Golf club",
+                "url": "http://www.golflosleones.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvzv27XocBB1g7fEZtFu4bVOxkZ_GwGAOckCqa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Acuatico Acuapark El Idilio",
+                "category": "Water park",
+                "url": "https://www.acuapark.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpsgjrqp_ysd0EYYJ4VZopN3kgcSnn1cBeNIfA=w148-h148-n-k-no"
+            },
+            {
+                "title": "ChileParapente",
+                "category": "Outdoor sports shop",
+                "url": "https://chileparapente.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOl-Gx3adHur4jLvtcgPy3RCjqM31MlOJo7hQFL=w148-h148-n-k-no"
+            },
+            {
+                "title": "TourGo",
+                "category": "Sightseeing Tour Agency",
+                "url": "http://www.tourgo.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOI7CT9bYpUFej9Se3laQvV23lKzapctxEP0_ce=w148-h148-n-k-no"
+            },
+            {
+                "title": "Conexión Chile - Agência de turismo no Chile - Passeios no Chile",
+                "category": "Tour operator",
+                "url": "http://www.conexionchile.com.br/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEBcp7Z_fsaT40u8cyModG-EayQBlORuOtiOC9=w148-h148-n-k-no"
+            }
+        ],
+        "Alto Hospicio": [
+            {
+                "title": "Corbeta Esmeralda Museum",
+                "category": "Museum",
+                "url": "https://www.museoesmeralda.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjQzZNaWgx0IbGak3c283UsekJlC9yKLIpZEkF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Humberstone and Santa Laura Saltpeter Works",
+                "category": "Historical place",
+                "url": "http://www.museodelsalitre.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4XcM6ngCS5x2Uztem0lDaEq8HbapuH6a5YmII=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Cavancha",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDPb0dPl3RT5QDNWVnNyj17yqIW3U7M-bUIhdl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento Boya Esmeralda",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXq_ys3MojsfgoqkHtnh0McjjxvuL_2iTJqLhB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baquedano",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOl-5ihcNI_1OnLz9xJn8PkuvcNRxR4z8NnO4Kd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Arturo Prat",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcWmxD_LrUqTlb2rAF1-tAs6uweiJ1TmpdhBvZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clock Tower",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5kI09GApmKB2x4WY-3IxUYcQ4HG715-BDqyW4=w148-h148-n-k-no"
+            }
+        ],
+        "Concepción": [
+            {
+                "title": "Parque Ecuador",
+                "category": "Park and Garden",
+                "url": "http://www.concepcion.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcjno6ZEmSRUZ_dt292Lokwyv_imDWU2-UWHoB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall Plaza Mirador Biobío",
+                "category": "Shopping Centre",
+                "url": "https://www.mallplaza.com/cl/biobio",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs6gh1iHscXwXy3HDuodXH3s1fY8cEy-u0WUkS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Ester Roa",
+                "category": "Arena",
+                "url": "http://www.concepcion.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsrrwTwIkgdhIRBy7dd-mn51-Kv-zth21IfoBn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna Los Patos, University of Concepción",
+                "category": "Tourist attraction",
+                "url": "http://www.udec.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqA4Mgtb6lbaYML-bQQHUJpuZoU-M41wk6zmV8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acevedo Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPb1fr2UwtYjnIwGFNTP_HF-57tDITgCexno62o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Concepción Zoo",
+                "category": "Zoo",
+                "url": "http://www.zooconcepcion.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0e51UnNKbUXzqOOQVvxzQJ6idLQ7uI2qYdLBp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall Plaza El Trebol",
+                "category": "Shopping Centre",
+                "url": "https://www.mallplaza.com/cl/trebol",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaG3gQ6aZ4cQqtVkSkzH2UgxBMiM2gQ5UUlEno=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clock Tower UdeC",
+                "category": "Historical landmark",
+                "url": "http://www.udec.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP2XRmGRGBNis_P9sA1l2wSpXt3FNhFRQOdNv_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Historia Natural",
+                "category": "Natural history museum",
+                "url": "http://www.mhnconcepcion.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP13g3bVK2UK_9Ga_AqzSosFMB5cpHZuhePtPnj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Perú",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9ObaRgpBBTO519LsmOHCs2raE0F_regOZkXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Marina del Sol",
+                "category": "Casino",
+                "url": "https://www.marinadelsol.cl/tho",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHvBz6IksETgIQtcz_BNfFbsXy94kZPvrW6SY5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Del Arte José Clemente Orozco",
+                "category": "Art museum",
+                "url": "http://extension.udec.cl/pinacoteca/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxCLXvfeA4HlPPH0TqDM1hLJyfca9VmBLCm2LS=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Concepción",
+                "category": "Private university",
+                "url": "http://www.udec.cl/pexterno/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFiDzda1oiZsZicCYwDM22WORYCj_sBBm5FAwS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall del Centro Concepción",
+                "category": "Shopping Centre",
+                "url": "https://malldelcentroconcepcion.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuvdHpA-9yuNMyvvERC_9hvkBSrc_VVjmw9eBx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitano Cerro Caracol Park",
+                "category": "Wildlife park",
+                "url": "https://instagram.com/parquecerrocaracol?utm_medium=copy_link",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOWB_Z4rN99QfaPreQqFRB_J-vj9J3X-E_vUkY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galería de la Historia de Concepción",
+                "category": "Local history museum",
+                "url": "http://www.ghconcepcion.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyIdRCkjylB4Wchy-4z8_lqGeDnst2YNkyTrFd=w148-h148-n-k-no"
+            }
+        ],
+        "Melipilla": [
+            {
+                "title": "Parque Forestal",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGgXIfb2yofhFjLoE0o1u6_Jk0Qyjgr9c3KaOb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Lucía Hill",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmrIm5jNwMj7ZDmsdn0fzpSLVvpDG4cF-zqjc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas of Santiago",
+                "category": "Park and Garden",
+                "url": "https://www.munistgo.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObNhmGdiq2OulJZYO5w3SufFKFOO5jpKkfro09=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sanctuary on San Cristóbal Hill",
+                "category": "Catholic church",
+                "url": "http://www.santuariocerrosancristobal.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJrrxgOE6Ml4ZPM1TOKSgWzWbqIfuAOF4w7B2Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Santiago",
+                "category": "Catholic cathedral",
+                "url": "http://www.catedraldesantiago.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuZHpQbS7_1aadulnPh6bbwXvq2h9SAuO8EuYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barrio Bellavista",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOKQdJxhjV20NemT3r5wPRiTKO9mnirqt1gQYe=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Viña del Señor",
+                "category": "Vineyard",
+                "url": "http://www.lavinadelsenor.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4_oijgRWjVPSwANIdXok5l0xCwIVcdOE_rPKg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skydive Andes",
+                "category": "Adventure sports",
+                "url": "http://www.skydiveandes.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBXj51E4-Z8o_AVS3WvVurmjPkaNgD_lXtbJq7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Chocalan",
+                "category": "Winery",
+                "url": "https://www.chocalanwines.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSBp5iSEZlIffLmzdb60qTd1jxgL6Z7KJZaHs6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Héctor Pino Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjnKkcguRTEtpjVpEWYYD_yxICry8dirS_XOST=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Araucarias Vineyard",
+                "category": "Vineyard",
+                "url": "http://www.lasaraucariaswine.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHwWYzu8O8hs37qJl8Z06panZVdaXRpnYlMsVO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hospital San José de Melipilla",
+                "category": "Hospital",
+                "url": "http://www.hospitaldemelipilla.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0-LuRLtjdVthhieWbxqw978De15Ab-t5Cz9df=w148-h148-n-k-no"
+            },
+            {
+                "title": "Esmeralda lagoon",
+                "category": "Water",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWjQlJ01eUPOB1iwFWz5wopWLIfzqkKGyYTaED=w148-h148-n-k-no"
+            }
+        ],
+        "Lo Prado": [
+            {
+                "title": "La Moneda Cultural Center",
+                "category": "Cultural centre",
+                "url": "http://www.cclm.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmksklG8MpNtHjCtxZ6CDDLuQgUA_FsryIi7BG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Park of Santiago",
+                "category": "Park and Garden",
+                "url": "https://www.parquemet.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiY7PZV2NGdZcD4qTb38_1-f8TjTvJH9kfRHcV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Patio Bellavista",
+                "category": "Shopping Centre",
+                "url": "http://www.patiobellavista.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbU2oUVsNoRKVYEdiRUFBQbK-wfKCokS1ejmXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Ñuñoa",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6KnHiehL6mX1NIcuH3vybvTEJXLsQgM37Xxo8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Constitution Place",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAEEMcOZ3TKEY8P5xJoSKfUf3ihl9B290ta-x6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of National History of Chile",
+                "category": "History museum",
+                "url": "http://www.mhn.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbKRo8DDHXMGWVa2KOjPNAZvFC--DmYfNKJGbE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Condes Municipal Theatre",
+                "category": "Performing arts theatre",
+                "url": "https://www.tmlascondes.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOde7cgzgE8TZ2hH6UnzB7ezprwKZcTuwdJXZ_y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Cielo Abierto",
+                "category": "Open-Air Museum",
+                "url": "http://museoacieloabiertoensanmiguel.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1Kt_KmDgbDyc6HcsNH_mOgAcyRXBK11-hjdrb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hidalgo Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYPmceOEOqMLoR4cqJTUdHV6fakHWU4RVixJt7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Villa Grimaldi",
+                "category": "Heritage museum",
+                "url": "http://villagrimaldi.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPltF40gYgCocJFsT3ZrStU3gFHqrgH29C5tyEk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quinta Normal Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0cMKgkRwdQKPjcTsi_1jFerdfNpODmpM3BE6y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo Ahumada",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvulO8gMRsicNOfmjMPRcAs9OkoSHLZKn3eken=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Fine Arts",
+                "category": "Art museum",
+                "url": "http://www.mnba.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjk5GPotsRRPfUaUHMHrrqmhVtw_3NVZ_YghJF=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Chascona",
+                "category": "Museum",
+                "url": "http://www.fundacionneruda.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUSGe9dY6U5Kds5Cd-4Krq_jwuSAJUgqlMT63W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sanctuary on San Cristóbal Hill",
+                "category": "Catholic church",
+                "url": "http://www.santuariocerrosancristobal.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJrrxgOE6Ml4ZPM1TOKSgWzWbqIfuAOF4w7B2Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cementerio General",
+                "category": "Cemetery",
+                "url": "http://www.cementeriogeneral.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ7GBxcRPtORLv1yusqCLtog8mflBZHprL7emi=w148-h148-n-k-no"
+            }
+        ],
+        "Punta Arenas": [
+            {
+                "title": "Cerro de la Cruz",
+                "category": "Observation deck",
+                "url": "http://www.puntaarenas.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4U0XgIzD1hsiZW83qteRxiKtSzPxVE7TIK1wS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Armas Punta Arenas",
+                "category": "Tourist attraction",
+                "url": "http://www.puntaarenas.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGlemVJfw7NF_YIPKxJU11lPSGshMNpv66vpmH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nao Victoria",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlq36R89Dlg-DlAIZrlX9xJh2VvZdZT2mD2Sxp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Regional de Magallanes",
+                "category": "Museum",
+                "url": "https://www.museodemagallanes.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMK4sq8Jo4_SRlxxkGoBXUf1N3ru-F4P60Khs5E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento Hernando De Magallanes",
+                "category": "Monument",
+                "url": "http://www.puntaarenas.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNz3oBBkH7cPVsGR2B7FGuyVCPYNxjuBC5RPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cemetery of Punta Arenas",
+                "category": "Cemetery",
+                "url": "http://www.puntaarenas.cl/webcm/webcm.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeD7JQgH-78YdjA9UHGjZVjS9Sbpm0KFkHm35a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento al Ovejero",
+                "category": "Monument",
+                "url": "http://www.puntaarenas.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnFmN6AdU09qnNlkgVKvwPR4BhrQscy74zE2Hw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magallanes National Reserve",
+                "category": "National reserve",
+                "url": "https://www.conaf.cl/?s=a&region=magallanes&parques=reserva-nacional-magallanes",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlJeAnxKvrRe-qMDTVSOUd96EHK0odj9p8cezw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Sara Braun / Club de la Unión",
+                "category": "Museum",
+                "url": "http://www.clubunionpuntaarenas.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVK8l6T7tpp943ZbuekUpK-vLVePN-EvjGvvFz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Costanera",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLGqRGmCnGaqFL1njR-7-uupOLziRlHocyeast=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club Parque del Estrecho de Magallanes",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEgxz7wUxqagZXaj1r-fYdlqS9FgTqjD60M8fm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chocolates Ignis Terra",
+                "category": "Chocolate shop",
+                "url": "http://www.chocolatesignisterra.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMr-azZY3NR7q2pkG_TmjsCsqqUYOJ-Gs80RGyt=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Galería, tienda de arte y diseño",
+                "category": "Art gallery",
+                "url": "https://www.lagaleriatienda.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7xwjFGYdCamchOQjvGNwAMEg5wih2blwFjGhn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vieja Patagonia",
+                "category": "Antique Shop",
+                "url": "https://express.adobe.com/page/G716qOWo7v2BK/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzXdqK4b4LRjqWZXagN1gaiFpHEwxlgDCeOfbY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Maggiorino Borgatello",
+                "category": "Museum",
+                "url": "http://www.museomaggiorinoborgatello.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOW75u75mdCh5E8p9wbd19RFuBdyil9OBYndYzn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lord Lonsdale",
+                "category": "Tourist attraction",
+                "url": "http://www.sernatur.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPnM2WLJ-zuVPTSArlJs4nSyHd3y9Sxtx-xgdI=w148-h148-n-k-no"
+            }
+        ],
+        "Copiapó": [
+            {
+                "title": "Copayapu Travel",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOujcngX7byywL9Y9DMqBtPU33St816zBMVSeB_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de Copiapo",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO71jAimVSZmi5zswtKpy8B79xv2Ys65fwOogc-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Mineralógico",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaf3sQj_5MciTCbCcmLKSo7UAHYu6koll9VhQ0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valtours Ecoturismo",
+                "category": "Sightseeing Tour Agency",
+                "url": "https://www.valtours.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4CP6nZTn4MYn1kXLVcy60bShXMpRedyHvFqdv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antay Casino Hotel",
+                "category": "Hotel",
+                "url": "http://www.antaycasinohotel.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx8A3Qgn2MSFBA_6R5o2fOl6pocG57G8RlHWhg=w148-h148-n-k-no"
+            },
+            {
+                "title": "AtacamAstro",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0jGpQdLWFhEBwIg8fbb1Erh7emGSI4MZqiL1B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chillitrip Tours Informacion Turistica",
+                "category": "Tour operator",
+                "url": "https://www.chillitrip.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6kojJzQno8ohKn0POg0mDfNJij1HgDkZfd3Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahia Inglesa Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQL9iI38e8mK7DbkrakrUcZX1yPf3GBH3AJ72e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Regional Museum of Atacama",
+                "category": "Museum",
+                "url": "http://www.museodeatacama.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQgduUS4eORrlVp-h63FilR8DJZqe7juedgHYn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Geo Adventures",
+                "category": "Tour operator",
+                "url": "https://en.geoadventures.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjMKpG3_Rf_LUeHdX6qxpob-S67aiFO9n_8V5F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Geoturismo Lickanantay",
+                "category": "Tour operator",
+                "url": "https://geoturismolickanantay.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNG2uqUxA9fiz3OvmzEvxbqKfW30IUx895bUsPt=w148-h148-n-k-no"
+            },
+            {
+                "title": "parque alliyay",
+                "category": "Restaurant",
+                "url": "https://parquealliyay.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUpE5ZyjiklxguvjoQVywyHxlZygLqbkSxd8Wl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna Santa Rosa",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHi9R0f5B3zP-SYrrIFQnHFRPai0yx0_rl-aJ1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Medanoso",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWdj9JIhiK-kUJ8S2_rS7OH3wJv7cThvipW_Ii=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ojos del Salado",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkH_fol6MukumDwdL-03apaPPbWOcYtX7yIS_2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Nevado Tres Cruces",
+                "category": "National park",
+                "url": "http://www.conaf.cl/parques/parque-nacional-nevado-de-tres-cruces/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiM0J1R4UHR5Klwt3JlyvEjkUS9ui4NILKkFvW=w148-h148-n-k-no"
+            }
+        ],
+        "Puente Alto": [
+            {
+                "title": "Parque Municipal Pueblito Las Vizcachas",
+                "category": "Park and Garden",
+                "url": "http://pueblitodelasvizcachas.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjh-FRe37VY27Z8Sejus9HSEL8Y2TUXfXJ2NAv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club de Campo Las Vizcachas",
+                "category": "Park and Garden",
+                "url": "http://www.lasvizcachas.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP_2PXiYOIohRu5giHcLAP_2PPpsst3yjrdkV7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro La Ballena",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVsDQr-cYKqap_wMuiFSzc-Si6kLNoxSpwW14h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juan Pablo II Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3S81uzGnfOmsRntl04Lnx4aTuiqmvThDJ15ss=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pueblito Las Vizcachas",
+                "category": "Tourist attraction",
+                "url": "http://www.mpuentealto.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOki4GRZd70q4SKjsf2n8DXW9v_Ej__zsPEiWgl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chrystal Spa",
+                "category": "Spa",
+                "url": "http://www.chrystalspa.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAuw3Bvi_p9WVtXMAAVJcCDVZ-3vaN3Lb27v2W=w148-h148-n-k-no"
+            },
+            {
+                "title": "ChileParapente",
+                "category": "Outdoor sports shop",
+                "url": "https://chileparapente.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOl-Gx3adHur4jLvtcgPy3RCjqM31MlOJo7hQFL=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Moneda Palace",
+                "category": "State government office",
+                "url": "https://visitasguiadas.presidencia.cl/",
+                "img": "https://lh4.googleusercontent.com/proxy/vV7HHlclpj3ZkrC4qQRmqwF7opGCHo7msFO9_sqWQiXW06e8aOrwiD81jLIRKjCDfzwOs_Up1fecrR7uWS-8prZqmHXOs227wPHWpMflz5_UQ3z1uyoj2TgkGKTkXLVuIxGqyThR7WVshCd3BKOrYcqZ4L33HQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Cristóbal Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXrGh7sQkjY-wAU785melwl-SJrwX08VKZEkF-=w148-h148-n-k-no"
+            }
+        ],
+        "La Tirana": [],
+        "Coronel": [
+            {
+                "title": "Parque Ecuador",
+                "category": "Park and Garden",
+                "url": "http://www.concepcion.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcjno6ZEmSRUZ_dt292Lokwyv_imDWU2-UWHoB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinemark Mallplaza Trébol",
+                "category": "Cinema",
+                "url": "https://www.cinemark.cl/cine?tag=548&cine=cinemark_mallplaza_trebol",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwIMA_pKvDWUrqor58IqcbRjpaPaxHAM8al45b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinemark Mallplaza Mirador Bío Bío",
+                "category": "Cinema",
+                "url": "https://www.cinemark.cl/cine?tag=2302&cine=cinemark_mallplaza_mirador_bio_bio",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqQNl4eM6rMLj5nZsC6WvH8_k8V316x_Js_t5P=w148-h148-n-k-no"
+            },
+            {
+                "title": "PLAZA DE ARMAS YUMBEL",
+                "category": "State park",
+                "url": "http://www.yumbel.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVh7D70ejqsaUgIL_pGVxd1RESqJMDEU4TZe6u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de armas de Tomé",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXsRqryt0GzNDcFqhqjbCcAoLX3L4zvcGsu-z-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Jorge Alessandri",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNovGeI6SGhuFN_U4lZZrab2vfnTQQ_1F9Ktmg9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Maule",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaKtjvbdwxMpAznHoe3nMyBJ9OlZMSN1puqzNj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Canopy Playa Blanca Ltda.",
+                "category": "Outdoor activity organiser",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOj6tq7kXiTbibSaXuH8ILULm3uhL7ATMgnDSbJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Blanca",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP18WEnMU4kqwXAxz6T4aoDbKLO6OkEth_SFyIl=w148-h148-n-k-no"
+            }
+        ],
+        "Puerto Montt": [
+            {
+                "title": "Mall Paseo Costanera",
+                "category": "Shopping Centre",
+                "url": "http://www.paseocostanera.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeUdFcE0031XSMPaWz5yFYT-He6sCyIekFoKkh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador Manuel Montt",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOW6thtI2a2gOOvDAFdd13-w4YDiy5Rb5X90feA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Diego Rivera",
+                "category": "Performing arts theatre",
+                "url": "http://www.culturapuertomontt.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU5jAHkelWC4MyC_9UrzSo7QkfYLhc3W605Efg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Petrohué Waterfalls",
+                "category": "Tourist attraction",
+                "url": "http://www.conaf.cl/parques/parque-nacional-vicente-perez-rosales/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLaYgvNcsnt-4sMva3zM7GNwcV-uP7tHpm1PGZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de los Padres Jesuitas",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJPXxQivnjs_4xdyuP4OrqudR3Vl1QEIqCGBDI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Costanera Puerto Montt",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVcMGh1mQMm8jbv862WAg1G6TBPkAxm1Y2Dy1w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Navimag Ferries Patagonia",
+                "category": "Ferry service",
+                "url": "http://www.navimag.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmJ4l_DG0DveqfbRuvKcIuUqju_2m1flhTY0ep=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady of Mount Carmel Cathedral, Puerto Montt",
+                "category": "Religious organisation",
+                "url": "http://www.arzobispadodepuertomontt.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVQj4de3rh8zyB6SnRbCi0gft03OulrvQXRIlE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas de Puerto Montt",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpayCaTWFCX17vUsTq_oTs6OwaoNn8aTLA2l1S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Regional de Chinquihue",
+                "category": "Stadium",
+                "url": "http://www.dpmchile.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3yyM4tvXFI1YeMqYhQLC9yhvY3VykOZEf35cI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida Presidente Ibáñez",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdQNGEk3GoqdILR8dCQShv3VSUgUAfTiQneDMU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Angelmo Fish Market",
+                "category": "Seafood market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAQ7jQMZNVkPYdKK1A_UZWFwp5-Dmxm0jzvNA2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Angelmó",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFa30fdWJy_SKVUjnRCuroLqQzH1-zIBqqNrs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento a la Colonización Alemana",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyKvvWdDGmgcVcTuQdRN1bQHYMnTnGo5_eYeNb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Alerce Andino",
+                "category": "National park",
+                "url": "http://www.conaf.cl/parques/parque-nacional-alerce-andino/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2gJtC8t2g2-h74vD4znx_fsXtEeJRQVzI6lK8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Pablo Fierro",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe-qt1LMW9MhjXbphuwffzeBpbN9PvSbfjd4Gw=w148-h148-n-k-no"
+            }
+        ],
+        "Buin": [
+            {
+                "title": "Centro Cultural De Buin",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPz9fGP0p40OuVKqWeNAIwOPMWVOccrbnfdTfB5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buin Zoo",
+                "category": "Zoo",
+                "url": "https://www.buinzoo.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVM84FGAirZ25Yob_tz2x5iq3i64uI8ped8lkz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza De Armas De Buin",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx6x8kHEZJKEAeWGgTfoQWv0tHyC-Du1h9Oo30=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Vivo Félix Maruenda",
+                "category": "Museum",
+                "url": "http://www.fundacionfelixmaruenda.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMG0nhTb1w2Q60iipr-bS1WgQKVgQ2UJrFu-rzK=w148-h148-n-k-no"
+            }
+        ],
+        "Viña del Mar": [
+            {
+                "title": "Viña del Mar National Botanical Garden",
+                "category": "Nature reserve",
+                "url": "http://www.jbn.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCejNpN3tRfKmK5O1rmOH9Hm9T415esO4VR224=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quinta Vergara",
+                "category": "Park and Garden",
+                "url": "https://www.visitevinadelmar.cl/articulo/parques-y-areas-verdes/2/9/parque-quinta-vergara.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTWV-yk-3kUzC_fYIiwOMRsBCohDxa8rgksTo5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa del deporte",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNclIQtkPdgHjdpkoMuYqRuKVDpgAvbaGxzKrNl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa El Sol",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcdp9ZhBbl5bFYN6R80ZDorYSlkW_oLOX3GJKG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aviva Water Park",
+                "category": "Water park",
+                "url": "https://www.avivavina.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFPvF2MIK5X6fgzUef5b6KSvO5pwq6BaCpaNwe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall Marina",
+                "category": "Shopping Centre",
+                "url": "http://www.mallmarina.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEhBggNRrHg642ylgYPtFW9qilIyCiosl88CE5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Caleta Portales",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrb80edd8DfRUjgXMZq6mADM2nF0l6jcT8JyKR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Artequin Museum Vina del Mar",
+                "category": "Art museum",
+                "url": "http://www.artequinvina.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDQpvTF4zmFqoOpHlMs57qefHP486LC74dBbSP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flower clock",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfxC3KKo3VTCFxF-TWLwQBYiNuw5GLrB7Mfc7g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino de Viña del Mar",
+                "category": "Casino",
+                "url": "http://www.enjoy.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMA1faR5qgMKXXCQ84ZrEg51kmtwUqEEj-kF-de=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Arqueología e Historia Francisco Fonck",
+                "category": "Museum",
+                "url": "https://www.museofonck.cl/new_site/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIgn0WdrQpCmSl94dFvUoJM0bB_5lqWEF8kI3V=w148-h148-n-k-no"
+            },
+            {
+                "title": "PLAYA COCHOA",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKc1iksTYkmycZQ_eZrLrbJcqNt99RGzgrdk_G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Vergara",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXNwbIDL_DMRUDyWRrdD-U7Cb1cgEQc4jZJntp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Decorative Arts Museum Rioja Palace",
+                "category": "Museum",
+                "url": "http://www.museopalaciorioja.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMajLdlcxIzEWbMKnwLUxZyabBvyim9L52u_DKD=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Sebastiana Museo de Pablo Neruda",
+                "category": "Museum",
+                "url": "http://www.fundacionneruda.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUs83DPZr04s6NqGoncyqJXAmBJvkA7yDS2Q_A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wulff Castle",
+                "category": "Tourist attraction",
+                "img": "https://lh4.googleusercontent.com/proxy/IT_-VZPrB27jaAwOj2H8gDcvkSZze0dTZPVq7lswy3M_y5fVvDUZRPOkao3pq4wVJA46Pnv8lWlIR0AzPNnP8hUhYQMqLCm2kJLd7SzSPsjqswiqExstMiQSPF9WWY0YXF10GZoq8PLZRWfdlN__3X-BOh7z6A=w148-h148-n-k-no"
+            }
+        ],
+        "Peñaflor": [],
+        "Arica": [
+            {
+                "title": "Playa Chinchorro",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6RlISOYfQ9AQ-1gdFShRNFpSlVWCQTu0rC5pw=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Laucho Beach",
+                "category": "Beach",
+                "url": "http://www.destinoarica.cl/playas-de-arica/14:playa-el-laucho",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlNQ0OjY5862bXOO43IzbFrHkjoqMP8fXT2G0r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Morro de Arica",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeLuXn9IsRVShiFpVWAlAkGT62GSJGxnz76R5J=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Mark's Cathedral, Arica",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXgNTzmFmk7Z2yquVn3H5Ib2YPoy98TQKHUVs9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Terminal ASOCAPEC",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbCi8M2Sl4Guu8_bB8QsvsoZhSsl-Ih_MpTH8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Arica Luckia",
+                "category": "Casino",
+                "url": "http://www.casinoluckiaarica.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrixqq3qazAyIwH9SP1Jy5gE9nDtu9UqyzQH42=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Sitio Colón 10",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjq_uoFkHs9E6f1DkgaJhwfmTyjzreyl5IeXvk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of History and Weapon",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHkh-w0oEfYKehi4T0HqxJml0NkzGqhVpvOZsB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Machas Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHyt6FW-DjdiLiFcvR0GiRlv_R2frMMjwDyrwC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suma Inti Viajes Tour Arica Lago Chungara",
+                "category": "Bus tour agency",
+                "url": "http://www.sumainti.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt7ugSxqr_hjXba_b0DwgJJio6cjKAts6NYIvd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Port of Arica",
+                "category": "Marina",
+                "url": "http://www.puertoarica.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_QpDlU_KLpHjHnDl0BNq4bs2-XWJf6qFab1Wf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Lauca",
+                "category": "National park",
+                "url": "https://www.conaf.cl/parques/parque-nacional-lauca/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4Zy6zADPUWOUPg_qkDpspFiR9aTsX6ZYqBWLX=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Lisera Beach",
+                "category": "Beach",
+                "url": "http://www.weeds.house/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8v9tLSeTUUXnp8NdzF-uKSE0TP88-1e1quk-I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Payachatas Tours",
+                "category": "Sightseeing Tour Agency",
+                "url": "https://payachatastours.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxEuFdOKk-k-_0MtYwPndPcb0P2RM0PMb4MHr0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Raices Andinas Expediciones y Turismo",
+                "category": "Travel Agent",
+                "url": "http://www.raicesandinas.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFhk26G_4VIDwErNnSW8FMWLw61ByEOf2V-Yiq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rio Lluta Humedal",
+                "category": "Wildlife Refuge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIF88O4nWlAzlb2zzabsOJ_kniNxQ4R1c6651x=w148-h148-n-k-no"
+            }
+        ],
+        "Curicó": [
+            {
+                "title": "Mall Curicó",
+                "category": "Shopping Centre",
+                "url": "http://www.malldecurico.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMF1xhtmzc7FEAGlfvt2eCTtpYP0iWjik-yXu_A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbxrwhRurnSmkvuU3td4--tR82sW8tq-DGRl3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Carlos Condell",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-invtdUL0cQZ1w6xWc-zdFMdtg2f0wDqxSY14=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Radal Siete Tazas",
+                "category": "National park",
+                "url": "http://www.conaf.cl/parques/reserva-nacional-radal-siete-tazas/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4KB6pcSBQNed74ne7dU9INhDWthR4Vgn-L2iI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chilean Adventures",
+                "category": "Tourist attraction",
+                "url": "http://www.chileanadventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYpn4qgu1oLV2n6DwUJUZSTppWoi80Kz36TGXo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tranque la Palmilla de Rauco",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6LoUybuFLhzM-Q12VWTZ7nAkNr2zCk3zlJ3TD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Pitras/Raíces Winery",
+                "category": "Farm Stay",
+                "url": "http://www.laspitras.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6Ne-jI_ZoIWdM5jh9fFlVvrxwpt3qwezMsSH5=w148-h148-n-k-no"
+            }
+        ],
+        "San Felipe": [
+            {
+                "title": "Iglesia y Convento San Francisco de Curimón",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhx5WRTMP-ltEPBbId9hg21mE2sJGY5Xk-Opxi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Santiago",
+                "category": "Catholic cathedral",
+                "url": "http://www.catedraldesantiago.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuZHpQbS7_1aadulnPh6bbwXvq2h9SAuO8EuYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sanctuary on San Cristóbal Hill",
+                "category": "Catholic church",
+                "url": "http://www.santuariocerrosancristobal.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_q4u-2LvPMI5W_Q6qCgs_wWj7en6kHgQlNegb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Almendral",
+                "category": "Wine shop",
+                "url": "http://www.vinaalmendral.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAOhahm7-NilvXo_FRjFZHg4M9FeTN1HiWW-tD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Blessed Sacrament",
+                "category": "Catholic church",
+                "url": "https://www.iglesiadesantiago.cl/parroquias/santisimo-sacramento",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCXYDMK4QCFdILl3l_-PhbxVUZyuBwVeCOBrVj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia de la Inmaculada Concepción de Colina",
+                "category": "Catholic church",
+                "url": "http://www.facebook.com/parroquiacolina",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxC6dQhl3u3owi8-Fo_fXj4MUA2z-e_n3PtGl_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flaherty Wines",
+                "category": "Winery",
+                "url": "http://www.flahertywines.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmvghTs0-EWNDJcv_XC_onjZvoC27HjzvFm-BA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Errazuriz",
+                "category": "Winery",
+                "url": "http://www.errazuriz.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNs0WaY-yhyXZzfwbwMiS-TPEJ0Oc-Xt0kR73gh=w148-h148-n-k-no"
+            }
+        ],
+        "Ovalle": [
+            {
+                "title": "Fair Model Ovalle",
+                "category": "Cultural association",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeCZdwpvVsxhu2zOHKyF75kWS980_4W2Yj3wLf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall Open Plaza Ovalle",
+                "category": "Shopping Centre",
+                "url": "http://www.openplaza.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmUCFKSjgz1TJXyIw2yOsPrRUxs2B6nug2X5Ia=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas de Ovalle",
+                "category": "City park",
+                "url": "http://www.municipalidadovalle.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLD_lbaNQipZwwT9PUeeC44UIhtZpf0mUQqFES=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo del Limari",
+                "category": "Archaeological museum",
+                "url": "https://www.museolimari.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJ29yqhzmeqZeh7_ip4yDYI4ymhBVWNUtR2CxU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valle del Encanto",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY8hT92CAdqDhOt_OFSNyP7ztur9AlBUL_70n-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chanaral de Carén",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPY_ic8YTbM6V5ssGGgQ3OwH8okgNvQw7MO889n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Recoleta Dam",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMa8naDJU_auW9REuJxeAJdhjT33SRjxsSgBoF7=w148-h148-n-k-no"
+            }
+        ],
+        "Quilpué": [
+            {
+                "title": "RedKids Trampoline Park",
+                "category": "Amusement park ride",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiPnmn2KgngXimYuEC4hLdx72iC0eorXO29SEd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Sotomayor",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOAnPJDkvSkB0IEKPljKFUjx7AB8hVwotrsuew=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Concepcion, Valparaiso",
+                "category": "Advertising agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyGok80GO5GxrPSBgdseR-oTYcrAgiXrnOw2c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Santiago",
+                "category": "Catholic cathedral",
+                "url": "http://www.catedraldesantiago.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuZHpQbS7_1aadulnPh6bbwXvq2h9SAuO8EuYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sanctuary on San Cristóbal Hill",
+                "category": "Catholic church",
+                "url": "http://www.santuariocerrosancristobal.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_q4u-2LvPMI5W_Q6qCgs_wWj7en6kHgQlNegb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barrio Bellavista",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOKQdJxhjV20NemT3r5wPRiTKO9mnirqt1gQYe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quilpue Zoo",
+                "category": "Zoo",
+                "url": "https://zoo.quilpue.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbQ8HJW4Pym8zN7Uqq0LMLir8ZblW4L9fbiTii=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquanatura Spa",
+                "category": "Spa",
+                "url": "https://www.aquanaturaspa.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVfrAh7WF5nANCJ-XmpUSuGEWQ7CNwiXgoCZwu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Curunina Water Park - V Region",
+                "category": "Water park",
+                "url": "http://www.curunina.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtZclnANhMYrafmpvDjkmR5PjQMmG-v7J890zZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Piscina Lutjens (sólo arriendo de recinto / Local para cumpleaños infantiles y reuniones)",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhnuG5GMj4GWI-07EJtY7rLH6A-e_HwivIkhE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ecoturismo Bosque Los Perales",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbDMnreKCRWkfVHfiqBMX5UZm8H4dhRdwChP0o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alturas Del Sol Educational Farm",
+                "category": "Animal hospital",
+                "url": "http://www.alturasdelsol.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5BNVQv1LFdElKlxSntbCMtVrSkWSUxySHSDfC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Los Perales",
+                "category": "Vineyard",
+                "url": "http://www.vinalosperales.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzhEFBkL33JNcmnf1vvBpV-y2T-f5oPHOuZFtD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Cervecera",
+                "category": "Off Licence",
+                "url": "https://www.instagram.com/casa.cervecera2/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFPOPMN8IoNskD5MTRSngvttg6KouOwD8rUm_Y=w148-h148-n-k-no"
+            }
+        ],
+        "La Serena": [
+            {
+                "title": "Enjoy Coquimbo",
+                "category": "Casino",
+                "url": "https://www.enjoy.cl/",
+                "img": "https://lh6.googleusercontent.com/proxy/PDbfACZRvpgom40VRiW_CRYpb0PbNC1fPTfo7tZ-IApiNuAgP6e2OHQ-5T0-aNDbV23M7V4WuzV__gw6vNEcg52GCtOcUkRuPe4oq_WorDxNl7u2scBBFAUuw_ARn9dtfJFu-5Ht8JFy-T2mcWjjnwwtDoWYL7U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa El Faro",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOFrzjilbdzYTTUzFWqVtX_m94ajo5-iJSIgFK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Serena East Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.centrocomercialserenaoriente.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0rCLqIjj-HhJuXH4GG8zTCw9wBXmwbdT70QT0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Historia Regional Presidente Ga Briel González Videl",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOo9Wn6f6h5rUWoLubn6hdmXzc-ivtixDrSHPgh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Japonés La Serena Garden",
+                "category": "Park and Garden",
+                "url": "https://www.facebook.com/jardinjaponeslaserena/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuScDKSRpqVoH6iUC8KlAxwDS5boJNqd7ymEUF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cruz Del Tercer Milenio",
+                "category": "Monument",
+                "url": "http://www.monumentocruzdeltercermilenio.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbtj8sTicO8q4j1adu_FnPFXWilE4_GjZazMLD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ecoturismo La Serena",
+                "category": "Sightseeing Tour Agency",
+                "url": "http://www.ecoturismolaserena.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFcOpi8oOP1VnB_YT9S9bq-DS5jENGdNHx43nZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Turismo Delfines - Tour Operador & Agencia de Viajes",
+                "category": "Travel Agent",
+                "url": "http://www.turismodelfines.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6ckIZZIM_jjNSDK-Q6IOMxkn64RvSsGajVNGY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Coquimbo",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWsj_58tcdG6-GWEwKMFvmw9cz3p2CxE0xvi-D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Whale Watching Chile",
+                "category": "Whale watching tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE0geA3Z2LPu2EpVdpGfFooNEOImIReqfj4j0X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bioturismo La Serena",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYChuJh-uPsrWMPH8TxILX_0FqUNlr2QJwx2lm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viajes Mirador",
+                "category": "Travel Agent",
+                "url": "http://www.viajesmirador.com/tours/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPl-jYXAI32LcGecvoSUKKrOlE-P8oANBBNDYuY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Pinera",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAdI5LNJ8H5vm-D99RBhmdZdCQbrLdTOHbFmNR=w148-h148-n-k-no"
+            },
+            {
+                "title": "TURISMO COCHIGUAZ SHORE EXCURSIONS CRUISES EXCURSIONS PORT OF COQUIMBO CHILE",
+                "category": "Travel Agent",
+                "url": "http://www.travelturismocochiguaz.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKj_MiE5val2NfcYM8f93EtlxGlXl_GqZ7CBEV=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Recova",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNufPSJiJomEM-XfLRwiWYohdTXuYz7RUffHIWs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Pedro de Valdivia",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhXd-3Ge-WySyzPOF20ygpMbWEe6Og530FB0ej=w148-h148-n-k-no"
+            }
+        ],
+        "Rancagua": [
+            {
+                "title": "Regional Museum of Rancagua",
+                "category": "Museum",
+                "url": "http://www.museorancagua.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoO-hS5icckm5vYI-U-2zImJWWPULpTfVB3Pn4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monticello",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6Sevew2ql1lC7JfoaG5gQg-5GD_URMqXX3Wa_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chapa Verde",
+                "category": "Ski resort",
+                "url": "http://chapaverde.cl/web/contacto/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoA8zIrT7Jrl523cQ32o4zL87lJD0ameOlQ8q3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio El Teniente",
+                "category": "Stadium",
+                "url": "http://www.estadioseguro.gob.cl/estadio/estadio-el-teniente/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjUAGMEYAQDXJbwB_hkS54WchodBMjzbN48Hav=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Koke",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPr5vaMHKo6VMzZDK0Ljyc0aDY-DEVUw-fsV5gC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Cataluña",
+                "category": "Park and Garden",
+                "url": "http://www.rancagua.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMT1z9KwZBqw3kuu5feTP2qYecSC2LCS6I6XXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chile Safari Park",
+                "category": "Zoo",
+                "url": "http://www.parquesafari.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOp32rpHIXUGDf5tsac-11JtSCvVueBonvQ-4Ht=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Los Héroes",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_09m2FCCcRCjYZLLsQlGTk1q0hwZ-9Urb-TIr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de La Merced",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHMsiPzw1NtcdzZ4nnBaLROqKyeKeIy-1YKIhA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Butron Budinich",
+                "category": "Vineyard",
+                "url": "http://www.bbwinery.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPo4OiFt-7YKZxveGL3frWsQWAzYKrwGyf8keXk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estado",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPORDXA8X8dSlhIisfPjF6vz5kZYfeRCvbPqCqB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Picarquín",
+                "category": "Park and Garden",
+                "url": "http://www.picarquin.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpOgd7z2cgwUrM1ctg4W_KQ0de0Ox2qN7ztrQO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reserva Nacional Río de Los Cipreses",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNocldh69gn2dDBFzM4xYGz1nNNzWG6HyhGQYZJ=w148-h148-n-k-no"
+            }
+        ],
+        "Los Ángeles": [
+            {
+                "title": "Librería Qué Leo Los Ángeles",
+                "category": "Book Shop",
+                "url": "https://www.queleola.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPExFHoHXHGTSSASsprtNaCRmyHWDknTW6vbkzM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Memorial Mártires de Antuco",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOB6d0BZg3W8yfShgnxxgoi2iT0VhIAXaxtWtHO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magna sports",
+                "category": "Gym",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtP7cN_dwBK19w1GwPuxgETrOtExrKXRoOqEpp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna Esmeralda",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLeTYBGSUM2oVqWu_YitzP4uvBM5jEDpoWlyO3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Travel Up Adventure",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZnqDR3zgmGPbSrv5_DqLllUsE8YJa2UN7oRHu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saltos del Laja",
+                "category": "Scenic point",
+                "url": "https://www.saltosdellaja.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvJ3enbvPEAfkHD44D-Lkm9lqBLqMJ5xlFJ4XW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Pinto",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWdkeCMqXkLziB76ZsyEsJmyJXxDKI9r8mSB9X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club de Golf 7 Ríos",
+                "category": "Golf club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOe4qL7W1_dYqUbxw3J1yjD2juShtGoM6NegYqr=w148-h148-n-k-no"
+            },
+            {
+                "title": "bp lácteos - Lácteos Bello País",
+                "category": "Cheese shop",
+                "url": "https://bplacteos.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOabUqFHlJDb-Nm9_SSK4Kp8k4t2LNbzrSq63u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro De Ski Volcán Antuco",
+                "category": "Ski resort",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfALiDNPoWiY8-mrGWn5IGUIRwQyWm9F-Bkw0b=w148-h148-n-k-no"
+            },
+            {
+                "title": "RAFTING BIOBIO Kayak Las Aves",
+                "category": "Rafting",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfBr7GUq2F5ZciLfXANSZMg_7gqcydmdRo4zA=w148-h148-n-k-no"
+            }
+        ],
+        "Talcahuano": [
+            {
+                "title": "Casino Marina del Sol",
+                "category": "Casino",
+                "url": "https://www.marinadelsol.cl/tho",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHvBz6IksETgIQtcz_BNfFbsXy94kZPvrW6SY5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Huáscar",
+                "category": "Museum",
+                "url": "http://www.huascar.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOC_UHVitLIADE2kiK58eD7b43fH_UTr9h6Tbo-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza De Talcahuano",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPimZrLyn9tLEnjyuN0iWojAoqymHVbOe_n-SCi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramuncho",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuuaC2wvHK53IooGKbh2nbuhAf9A8Q7NNG0dQb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antu Circus Parque de Diversiones Talcahuano",
+                "category": "Playground",
+                "url": "https://www.antucircus.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9wzmkQKB9_h6JZfCpa-P9zHLPGsWbtPhH9Wfy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coliseo La Tortuga",
+                "category": "Gym",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQRlqiXhpLl-igk0UTes9ITCuD9nNeinuxuLKk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Terminal Pesquero Artesanal La Poza",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbvszVm5Xx04-kq2nb0q_o3PnB7csb0mdz_IMC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tumbes",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-LApADNXOAwu8X9q1R8AlD8uesqOP1LYwZ9dj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia San José (Talcahuano)",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzLzz6mhavBR83L0vyNwLfEJcf63rSkBY9cv_W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Turismo Stella Maris",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTa1Q7UoJBbomzIP0I2Z_HYrQbDAk5q2a_HsTt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza El Ancla",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvlzfqDESU5LGGrYLnL6hrqjMmFa2se72RGVvu=w148-h148-n-k-no"
+            }
+        ],
+        "Los Andes": [
+            {
+                "title": "Museum of the Convent of the Holy Spirit",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQRvUYxrkCY_1zMjFBnE5dfnjbUifuXaUtSVps=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Arqueologico de los Andes",
+                "category": "Museum",
+                "url": "https://www.instagram.com/museoarqueologicolosandes/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNd92fE9aVpAhgSXGX5g63FZiEN_jrjDdYLVVqT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Forestal",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGgXIfb2yofhFjLoE0o1u6_Jk0Qyjgr9c3KaOb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sky Costanera",
+                "category": "Tourist attraction",
+                "url": "http://skycostanera.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPniUZTImpNQ3ClPhC-MFxpYTJeXvk3kUaPJ6SF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Santiago",
+                "category": "Catholic cathedral",
+                "url": "http://www.catedraldesantiago.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuZHpQbS7_1aadulnPh6bbwXvq2h9SAuO8EuYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Arqueológico Paidahuen",
+                "category": "Theme park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBQvyoTHZt3S8oO-138FY8PMLJo_hwVUUZdlQM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas of Santiago",
+                "category": "Park and Garden",
+                "url": "https://www.munistgo.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObNhmGdiq2OulJZYO5w3SufFKFOO5jpKkfro09=w148-h148-n-k-no"
+            },
+            {
+                "title": "Observatorio Pocuro",
+                "category": "Museum",
+                "url": "http://www.observatoriopocuro.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkPV5Feqpa5wAL-ozGoJOCq1ctS1gIGEsvfaNr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sanctuary on San Cristóbal Hill",
+                "category": "Catholic church",
+                "url": "http://www.santuariocerrosancristobal.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJrrxgOE6Ml4ZPM1TOKSgWzWbqIfuAOF4w7B2Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barrio Bellavista",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOKQdJxhjV20NemT3r5wPRiTKO9mnirqt1gQYe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Lucía Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOR2CSPHWXr0fD7FcGt5T7kzPY_kWvkOpSNp60=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruta 60",
+                "category": "Highway 1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFKKMdYOsMaTPpZz9GdzkJWfekeOOb5Ixr8Rcz=w148-h148-n-k-no"
+            }
+        ],
+        "Antofagasta": [
+            {
+                "title": "Huanchaca Ruins Museum",
+                "category": "Heritage museum",
+                "url": "http://www.ruinasdehuanchaca.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPMw5g55uPpIRHLZpZ6HVpK1P3H2j79QoOvWe2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Colón",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJQR4UjSYOcJVgg0CNGm5tNdc0_22GQVa2V96T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Enjoy Antofagasta",
+                "category": "Hotel",
+                "url": "https://enjoyantofagasta.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/iwZbHHZn1gYnu6Lu_Sh_bdbBIu_BmBmnb9xddXm_Av6tb9RRMtpkP-Kjfej8N0rR5DvzUwbwl2L1QWib857SacaRDxaivYG57loKA41SpuRvfylXfZifEqXn8u5WvBxfitV58RKgzp6guJJUGRfEsiqe7tVlx_w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo del Mar Antofagasta",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdcQaG-Ty3EExUZVqaTDSIaxUD9_-0GYXpi3my=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Croacia",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkvqHyaihFYif4c2p_xEzLIv1NDuAqx9JXOdIJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Regional",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoTeDHC58euM_9oW7gAM8ajjfX0MiNxmIHkv03=w148-h148-n-k-no"
+            },
+            {
+                "title": "Japonés Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyOPy9x2OBS4A66qd0viHLFdESrwzKnoGkFCKy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balneario Municipal Antofagasta",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQowdBgnzJquW2a0Xqu_kkL8zDShPgHCEVRjOk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antofagasta Regional Library",
+                "category": "Public library",
+                "url": "https://www.bibliotecaregionalantofagasta.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFDZdWxJK7r3phMhretMkH4I-8rxpIX5bJvG21=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Regional de Antofagasta",
+                "category": "Museum",
+                "url": "http://www.museodeantofagasta.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMPsnqzDYmpGWakfulajCzpf2AkBzgvm1T4kyu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de Antofagasta",
+                "category": "Christian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE3KAN1h8kVvIIg3EeKMEaqS4SBlHTkItHQm_w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Cultural Estación Antofagasta",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrpkD-fPHBJI2vKPb2TBKwSLpvHBj_kMNed8I=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Portada",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJgjieCPjjQmN4m9yPA3ye0FmwHG_ndkwnoQOq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muelle Salitrero Compañía Melbourne Clark",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfesZVwHJ8u3avPp_QvBJlMusWTtmc1zQMVy5H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hand of the Desert",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCSFJkF4dC0eK1i2rTQkDRIzG8E0EB4FTAuNQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Blanca",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOh6c7I80fUmRoHB7IKAA8O2GT4Mp7v7Tox6kab=w148-h148-n-k-no"
+            }
+        ],
+        "Osorno": [
+            {
+                "title": "Parque Pleistocénico Chuyaca",
+                "category": "Park and Garden",
+                "url": "http://www.miparque.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPioHpk_kQ7BQWnZk3Uq5YF9pOr-MnzWCztMuuA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Marina del Sol Osorno",
+                "category": "Casino",
+                "url": "https://www.marinadelsol.cl/oso",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcLeZSrRnaKpk61IINcAK2oRY84kB8N1TM3yxK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall Portal Osorno",
+                "category": "Shopping Centre",
+                "url": "http://portalosorno.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeBOa9AzmS2IIIfTcLn8Brh1EKZqSsudkepNba=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuarto Centenario Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrIpRNjN9E_DTp9Ve7qiaSabXuMxj_MkWS5eDg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral San Mateo",
+                "category": "Cathedral",
+                "url": "https://www.iglesiadeosorno.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNROTjzD89vPgmDrxQ_JJ2kEX764U-TUxNW8rJD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rent a Car Mackenna",
+                "category": "Car rental company",
+                "url": "http://rentacarmackenna.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTwytIjHMoVsjlZB7nwi8jxnHGu9ek8iFkVgMf=w148-h148-n-k-no"
+            },
+            {
+                "title": "turismo osorno",
+                "category": "Tours",
+                "url": "http://osornoturismo.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_pbahiA6u368o6NarjaDGFun8ow40D76K8Ac=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerveceria Mandragora Osorno Chile",
+                "category": "Microbrewery",
+                "url": "https://cervezamandragora.ola.click/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoz7qCJiHcBI5h3NKaIZEcmmQUGmsrCz-JxLkX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Auto Museum Moncopulli",
+                "category": "Museum",
+                "url": "http://www.moncopulli.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnrKPgiq_aVgNiOZLl46VaQYI_PgvL83_cfM-u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beer Manía",
+                "category": "Beer shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYR_jfVXSv-v3ZeVrnVqGDVVy_suF4BdPxZOM=w148-h148-n-k-no"
+            },
+            {
+                "title": "UP_Osorno",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3tS24kO21gSaGUO8ZVDGkl_Dp3OFvhZRDeeKL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Termas Aguas Calientes",
+                "category": "Resort hotel",
+                "url": "http://www.termasaguascalientes.cl/",
+                "img": "https://lh5.googleusercontent.com/proxy/De_OMhvVLSilsLqWN8SP87gEXY98b7qpy5E36WXhAS8dOGodvoCVXAJLd4dooe5q8k9GE_vnTdkqRGqIRrLWYhpekeT4dYuGAA4m9Ir0aID5utNcvxHh5MCxnop8Xt3F6VdXeCqqFXzX3u4DrSiwsiWGSGjCCag=w148-h148-n-k-no"
+            },
+            {
+                "title": "Educational Farm Buena Vista",
+                "category": "Farm",
+                "url": "https://www.facebook.com/granjaeducativabuenavista/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNMeDMag3FXJqIhsU9kpfJmYUu68IC6jJlZ9j6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rupanco Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPu9vGDgyJG5-NM5NeF42pUsoepBQOf07sBlZd3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Caleta Huellelhue",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8JLBqPkv9qS8F0A03EndrBflp0JhY97BDMobO=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Isla Salto De La Olla Park",
+                "category": "Ecological park",
+                "url": "http://parquelaislasaltolaolla.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwmACYzZydSqpMHeWKgW0EApCRSnZ0btPO4m0V=w148-h148-n-k-no"
+            }
+        ],
+        "San Antonio": [
+            {
+                "title": "Humedal Ojos de Mar",
+                "category": "Bird watching area",
+                "url": "https://ojosdemar.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1B2WMCFs4KjgljgcTmSBHHDY_aE1mVTMZa-uu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Humedal Río Maípo Park",
+                "category": "Park and Garden",
+                "url": "http://humedalriomaipo.cl/el-parque/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8PSDWBrBh1nA--C18yEF5ZMvcRuMpBwbmGlGv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botillería La Porteña",
+                "category": "Off Licence",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpunrooQd1v_HSZ--fU8d7yuuJRIWRj1N34yYF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Enjoy San Antonio",
+                "category": "Casino",
+                "url": "https://www.enjoy.cl/#/san-antonio",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtqmywweyTSzjcy8sr8Tkjd3I4ymGKRI2nNYp3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estero Yali",
+                "category": "Distributary",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Lza27NmKurrI9Or4ATUIDoc-Baq-K2_PtqlK=w148-h148-n-k-no"
+            }
+        ],
+        "Quillota": [
+            {
+                "title": "Estadio Municipal Lucio Fariña Fernández",
+                "category": "Stadium",
+                "url": "http://sanluissa.cl/lucio-farina-fernandez/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFAqp2wUqjEICunTf5OSn-8l4XKSF1qbSQMmU-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Cultural Leopoldo Silva Reynoard",
+                "category": "Cultural centre",
+                "url": "https://www.facebook.com/centroculturalquillota/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYTSkYeOXBzjMYUd2SY_KriQK_ZX9KkmskiIW-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of National History of Chile",
+                "category": "History museum",
+                "url": "http://www.mhn.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbKRo8DDHXMGWVa2KOjPNAZvFC--DmYfNKJGbE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ascensor Reina Victoria",
+                "category": "Tourist attraction",
+                "url": "http://ascensoresvalparaiso.org/taxonomy/term/4",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMN8psfTMSplPfQVX0mLTBF_K9fz-NfFXA-QMH8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas of Santiago",
+                "category": "Park and Garden",
+                "url": "https://www.munistgo.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObNhmGdiq2OulJZYO5w3SufFKFOO5jpKkfro09=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Concepcion, Valparaiso",
+                "category": "Advertising agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyGok80GO5GxrPSBgdseR-oTYcrAgiXrnOw2c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Municipal Nicolás Chahuán Nazar",
+                "category": "Stadium",
+                "url": "http://www.lacalera.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPW62aOz4aS-GmsUybxiw_HYoBMNGcLvka-ddp3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Turistico Rapauten Parque Acuatico y Restaurante",
+                "category": "Water park",
+                "url": "http://www.rapauten.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOvve2x0UyFsDvTM54hgy0f8LbzwkFxg9Vr3yW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Sotomayor",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOAnPJDkvSkB0IEKPljKFUjx7AB8hVwotrsuew=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Sebastiana Museo de Pablo Neruda",
+                "category": "Museum",
+                "url": "http://www.fundacionneruda.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUs83DPZr04s6NqGoncyqJXAmBJvkA7yDS2Q_A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza De Armas Quillota",
+                "category": "City park",
+                "url": "http://www.quillota.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYtot0UONJK6jw_U2BIBGyOZiZACRZ2e_3-Sww=w148-h148-n-k-no"
+            },
+            {
+                "title": "TOURIST CENTER EDEN",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwBVH-NJgh-F7k6kurby6EEfosqUFKJR2uX1Uk=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZU restobar",
+                "category": "Pub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjWZmtfP3LK5GcY1L4ll2H8GYh0Wvy6XTFKGmB=w148-h148-n-k-no"
+            }
+        ],
+        "Valparaíso": [
+            {
+                "title": "La Sebastiana Museo de Pablo Neruda",
+                "category": "Museum",
+                "url": "http://www.fundacionneruda.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUs83DPZr04s6NqGoncyqJXAmBJvkA7yDS2Q_A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Naval Y Maritimo",
+                "category": "Maritime museum",
+                "url": "https://www.museomaritimo.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPk093aas6f_OivrT092zZwZwtQHje8ac7yykhM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baburizza Palace",
+                "category": "Art museum",
+                "url": "http://www.museobaburizza.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsaOEEV8unVSWmCYVZlDzi7Z8hi2-Ca8R4i6Yd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Sotomayor",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOAnPJDkvSkB0IEKPljKFUjx7AB8hVwotrsuew=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo 21 de Mayo de Valparaíso",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOYV0Dgx1IpilgtdeikBqI8-dEUKGieQGbN8sq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Caleta Portales",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrb80edd8DfRUjgXMZq6mADM2nF0l6jcT8JyKR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Alegre",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1gMp2lpO3qnwGe77YGkwLt3pKRvZ1ceGOus3x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valparaiso Cultural Park",
+                "category": "Cultural centre",
+                "url": "http://www.parquecultural.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdMBJwGHNzBHzX4tYWZqWohfOyvAWKctCgMP8H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ascensor Reina Victoria",
+                "category": "Tourist attraction",
+                "url": "http://ascensoresvalparaiso.org/taxonomy/term/4",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMN8psfTMSplPfQVX0mLTBF_K9fz-NfFXA-QMH8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Las Torpederas",
+                "category": "Public Baths",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk5HjQFf7KAq05JSqOoAR8kAqPve2Cl_o0aT9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza De La Victoria",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKyB7AgOhlc8E6bZ1EXZOKv4nffaQ6B2zOpUW4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Restaurant La Concepción",
+                "category": "Restaurant",
+                "url": "http://www.restaurantlaconcepcion.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsiZ6bUSXS7TCf2sMB-P_o5n0D8uWHjoeQjoov=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quinta Vergara",
+                "category": "Park and Garden",
+                "url": "https://www.visitevinadelmar.cl/articulo/parques-y-areas-verdes/2/9/parque-quinta-vergara.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTWV-yk-3kUzC_fYIiwOMRsBCohDxa8rgksTo5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ascensor Concepcion",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzU7DY7F6-sggXQT2LADYvUcqj-lze57GBXaz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Concepcion, Valparaiso",
+                "category": "Advertising agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyGok80GO5GxrPSBgdseR-oTYcrAgiXrnOw2c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muelle Prat",
+                "category": "Tourist attraction",
+                "url": "https://www.puertovalparaiso.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnQHlHN0vFNJdDXurWQWflh28uD0JGxi7SsSJ7=w148-h148-n-k-no"
+            }
+        ],
+        "Linares": [
+            {
+                "title": "Museo de Arte y Artesanía de Linares",
+                "category": "Art museum",
+                "url": "https://www.museodelinares.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOm9YU1_k-0enTVIQP1-PjlmVb9neKpuPIx3Wzk=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Ambrose Cathedral, Linares",
+                "category": "Catholic church",
+                "url": "http://www.obispadodelinares.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg7vWFS19Le5zTdpImsRrcpCdXFNTPF0H5e7mQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Andes Maule Travel",
+                "category": "Sightseeing Tour Agency",
+                "url": "https://andesmauletravel.wixsite.com/website",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQgwcyF8WXYsQWtwtKKy8g8VZvSirvfBtueAeC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Achibueno River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8IedYNn8pnHxPTI8JzJaEZ6B-9OUiSbUkWTK5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ancoa River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXJBOOP5sO-NLMcO-PRWFg5BxkysenrxhWOVDR=w148-h148-n-k-no"
+            }
+        ],
+        "Chillán": [
+            {
+                "title": "Plaza de Armas Chillán",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNztpv1Siq6z9SeBUH3x_UA1Zxoxh5bVrKo1YE=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Charles Borromeo Cathedral, Chillán",
+                "category": "Cathedral",
+                "url": "http://www.diocesisdechillan.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_wMWCvn7yemFbB7wXwvRsjuNqvmpEh0JZAH1q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chillán Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5dpvJI6N99d-6mgX97mZOOevy6QowY--2Zm1c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arauco Mall Chillán",
+                "category": "Shopping Centre",
+                "url": "https://www.araucochillan.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN72cmR7AhhOW83y-G0dugsNgKKXJCbDB7HoutI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club la Piedra Chillan",
+                "category": "Dance club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3SPlWiT2oAWy6LhqCIsq54Ceso7dKa3xfQkvU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Claudio Arrau",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhmWNJxs2t-cGrNTfs7RD135cgK_7sV1mq-z3N=w148-h148-n-k-no"
+            },
+            {
+                "title": "De Blancos A Tintos",
+                "category": "Wine shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM15agK133jZcON8rFCNLdZYDMWQXrPUO6mXJOP=w148-h148-n-k-no"
+            },
+            {
+                "title": "CECAL Centro de Extensión Cultural Alfonso Lagos",
+                "category": "Cultural centre",
+                "url": "https://www.cecal.udec.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhyEfSygxaAH5bjcui4kNlaHAs9CB23qPPnAWC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cervecería Wandersleben",
+                "category": "Microbrewery",
+                "url": "http://www.cervezachillan.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqpgWW0OFC5_cG1pvvYYrpkJdyLE9RkN8zpgf7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Marta Colvin",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYvSv1qBeayHpRGUq5GWpc_J5FcS_Pq-BgOnC5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Escuela Normal Chillán",
+                "category": "School",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJhWgND-gZ4u-H72cDyJWSVa5sP2i5SpYVP5hC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dona Rita Granja Museo",
+                "category": "Farm Stay",
+                "url": "http://www.donarita.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcqchG3PcAaqoDDBQzi6gQR87ZMRBCCZDZpzr4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Comunidad Edificio Patio las Terrazas",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1icDqG7vy4DejRSU-CT6Ae9G1tLOCGVLEmCsh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Lomas de Llahuen",
+                "category": "Vineyard",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAHqTlCd4OSl6hwhc_mHaq-BFfX5V1twIyIrO9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magnolia bar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfVC6N8Y4FqJzl-nskC9IryAis0Pb6TTkRktYx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Escuela Mexico",
+                "category": "School",
+                "url": "http://www.daemchillan.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMA0gygiAMGYfvn7ULO_WKVn_gFghIRhhtE4ygY=w148-h148-n-k-no"
+            }
+        ],
+        "Iquique": [
+            {
+                "title": "Clock Tower",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5kI09GApmKB2x4WY-3IxUYcQ4HG715-BDqyW4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corbeta Esmeralda Museum",
+                "category": "Museum",
+                "url": "https://www.museoesmeralda.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjQzZNaWgx0IbGak3c283UsekJlC9yKLIpZEkF=w148-h148-n-k-no"
+            },
+            {
+                "title": "PLAYAS EN IQUIQUE",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOLtnRvYVOKJpoB0L-rlcn4UjSof0iuMVhi4ay=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sparta Mall Zofri Iquique",
+                "category": "Sporting Goods Shop",
+                "url": "https://sparta.cl/?utm_source=GMB&utm_medium=organic&utm_campaign=GMB_org&utm_content=Sparta%20Zofri",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvhZ9ZrooiG2iaQoc3-W2_F9zIlslHlpWvn8ux=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parapente Sandboard Tour Buggy / Diablos Adventure",
+                "category": "Sightseeing Tour Agency",
+                "url": "https://www.instagram.com/diablosadventureoficial/?hl=es",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMPW9NINHIbWInmP_0vaR9Z1eM7r_Kq_k0Xqzo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dreams Iquique",
+                "category": "Casino",
+                "url": "http://www.mundodreams.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxZNiqoOZXZ1KG8mu6jGgThcquOX584duVmjUo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cavancha Beach",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP__dMZP87p4BS2Gg4ABzoIxTufr8NGL4RFlVLa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Huaiquique",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLUcVvF9h7pCDtV6lbPf0MUKJHM7OrIWxHOtER=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Tierra de Campeones",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgv80ozj1W0PGoB26ffGcxt-WBhDl_ryLmlGJ5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Brava",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODuvPIrkjFk6kCpAlgfEDrZdRPoO4HfteMUDFF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parapente en Iquique Purovuelo",
+                "category": "Travel Agent",
+                "url": "http://www.purovuelo.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpPmE8aGykn1XM4B1ttUy1G3GaAwvPkoIwh4iv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sandboard Iquique , tours de sandboard",
+                "category": "Adventure sports",
+                "url": "https://www.facebook.com/sandboardIquique.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0WqXTjWJ4JL3vj9mC0a5sChJyDIiPhsgLO1Yu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza 21 De Mayo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNncvcZ2sLoz58SrBZOh0wRiavUpoHznwcQWfgY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reserva Nacional Pampa del Tamarugal",
+                "category": "National reserve",
+                "url": "http://www.conaf.cl/parques/reserva-nacional-pampa-del-tamarugal/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuTLHJXOhVDuhmZA5-R_0nngwGg-Hq5HViW_Ie=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento Boya Esmeralda",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXq_ys3MojsfgoqkHtnh0McjjxvuL_2iTJqLhB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marinero Desconocido",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb0x3Jf7cKgjmCINO4d_iYZAYSbNYbIkidv0i6=w148-h148-n-k-no"
+            }
+        ],
+        "Santiago": [
+            {
+                "title": "Museum of Memory and Human Rights",
+                "category": "Local history museum",
+                "url": "https://museodelamemoria.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl_lbwzotz2haGEYD_6M2hZVB3NQCvhVvoaiml=w148-h148-n-k-no"
+            },
+            {
+                "title": "Araucano Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjV4_WybdNIO2d0bQIVPRXlr3rE1aVQLPOhQMt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chilean Museum of Pre-Columbian Art",
+                "category": "Ethnographic museum",
+                "url": "https://museo.precolombino.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgf6RCsSV9m8AnQk5oSAscJPua7VzKANQFNPNu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sky Costanera",
+                "category": "Tourist attraction",
+                "url": "http://skycostanera.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPniUZTImpNQ3ClPhC-MFxpYTJeXvk3kUaPJ6SF=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Chascona",
+                "category": "Museum",
+                "url": "http://www.fundacionneruda.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUSGe9dY6U5Kds5Cd-4Krq_jwuSAJUgqlMT63W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Costanera Center",
+                "category": "Shopping Centre",
+                "url": "http://www.cencomalls.cl/costanera/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVUWyQXsZv-wF1Iy82hqaiQaxTZ9TPj471Gz1i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bicentenario Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6WMW9LdDQMdJtAILrB8vLS4wKpToAuEO6POwB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Forestal",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGgXIfb2yofhFjLoE0o1u6_Jk0Qyjgr9c3KaOb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Santiago",
+                "category": "Catholic cathedral",
+                "url": "http://www.catedraldesantiago.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuZHpQbS7_1aadulnPh6bbwXvq2h9SAuO8EuYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gabriela Mistral Cultural Centre",
+                "category": "Cultural centre",
+                "url": "http://www.gam.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtTmEbOHwYZZHV4oKpRVwBQb30w_8WWxEPcDOi=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Fine Arts",
+                "category": "Art museum",
+                "url": "http://www.mnba.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjk5GPotsRRPfUaUHMHrrqmhVtw_3NVZ_YghJF=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Moneda Cultural Center",
+                "category": "Cultural centre",
+                "url": "http://www.cclm.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7htNhN4PT9CgMljD2wjskol4kIR97kRj_IQaB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viña Cousiño Macul",
+                "category": "Winery",
+                "url": "http://www.cousinomacul.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTmHr9kA1c_upyBrVC_ydKth3IMZLybqI6XxIH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of National History of Chile",
+                "category": "History museum",
+                "url": "http://www.mhn.gob.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbKRo8DDHXMGWVa2KOjPNAZvFC--DmYfNKJGbE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fantasilandia",
+                "category": "Amusement park",
+                "url": "http://www.fantasilandia.cl/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGUmgFqP2RC4B4CJoum88SzPgGQpQHSJxQgpuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Templo Bahá'í de Sudamérica",
+                "category": "Bahá'í house of worship",
+                "url": "https://bahai.cl/templobahai/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXl62DLzON-m43yW4plcJYGIwzxvVOBUaaC2R8=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Torres del Paine National Park",
+            "category": "National park",
+            "url": "http://www.conaf.cl/parques/parque-nacional-torres-del-paine/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMiaipjox0siEAuglXEK6tQhYtCAtGASzjmYjZU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Valle Nevado",
+            "category": "Ski resort",
+            "url": "http://www.vallenevado.com/es",
+            "img": "https://lh4.googleusercontent.com/proxy/3D_NQELb-ScyvbqGw0PAGRZ2ex9qpcrGFS8FGQ75-YKNWwimgYWWaDAR0TqnhH6_qAG2ieI1lRKNG23_xODjeDDWgtJAG0ADNjMi8DeOsmgZm96XmdyM6xU_3Ba8EIaVgYduyNP4ATMUgVott6a8uMmGcQtJ4og=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mylodon Cave Natural Monument",
+            "category": "National park",
+            "url": "http://cuevadelmilodon.cl/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMbqsnutAkh-SB5W__Ngpj1dpQSzCWZ81e-ltp7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rapa Nui National Park",
+            "category": "National park",
+            "url": "http://www.conaf.cl/parques/parque-nacional-rapa-nui/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPDPeEIxrTK5vMzww1TxoBR3CeoViDbVxr1Jy1f=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional Lauca",
+            "category": "National park",
+            "url": "https://www.conaf.cl/parques/parque-nacional-lauca/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP4Zy6zADPUWOUPg_qkDpspFiR9aTsX6ZYqBWLX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pumalín National Park",
+            "category": "National park",
+            "url": "https://www.conaf.cl/parques/parque-nacional-pumalin-douglas-tompkins/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN4I-s3w-FErMmuGBgFCEJ6X5Q-dmrYYDkccQgY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Valley of the Moon",
+            "category": "Tourist attraction",
+            "url": "https://valledelaluna.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMmZ4UQ2vriACFJVbBRh8sFTZwK6unMKuvMJle6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sky Costanera",
+            "category": "Tourist attraction",
+            "url": "http://skycostanera.cl/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPniUZTImpNQ3ClPhC-MFxpYTJeXvk3kUaPJ6SF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museum of Memory and Human Rights",
+            "category": "Local history museum",
+            "url": "https://museodelamemoria.cl/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMl_lbwzotz2haGEYD_6M2hZVB3NQCvhVvoaiml=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Fine Arts",
+            "category": "Art museum",
+            "url": "http://www.mnba.gob.cl/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjk5GPotsRRPfUaUHMHrrqmhVtw_3NVZ_YghJF=w148-h148-n-k-no"
+        },
+        {
+            "title": "La Chascona",
+            "category": "Museum",
+            "url": "http://www.fundacionneruda.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPUSGe9dY6U5Kds5Cd-4Krq_jwuSAJUgqlMT63W=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional Chiloé",
+            "category": "National park",
+            "url": "http://www.conaf.cl/parques/parque-nacional-chiloe/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMlnpkHjCdWBQEdhHpN-XC05jeG487NXIslNNFe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chilean Museum of Pre-Columbian Art",
+            "category": "Ethnographic museum",
+            "url": "https://museo.precolombino.cl/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMgf6RCsSV9m8AnQk5oSAscJPua7VzKANQFNPNu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mirador Interactive Museum",
+            "category": "Science museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP-1XQWvbJIR-1Wk_0o7MlgmfCHc9ahgStleHIk=w148-h148-n-k-no"
+        },
+        {
+            "title": "El Tatio",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN75luSjuizHhTg1dpymFv_YDmRd_YRZnZQEQTk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Los Pingüinos Natural Monument",
+            "category": "Nature reserve",
+            "url": "https://www.soloexpediciones.com/islamagdalena",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNaVmTm4XCxcziClb8WoUKftuBWo12AQziil0Ky=w148-h148-n-k-no"
+        }
+    ]
+}

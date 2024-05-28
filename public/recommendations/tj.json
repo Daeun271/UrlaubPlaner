@@ -1,0 +1,471 @@
+{
+    "cities": {
+        "Khujand": [
+            {
+                "title": "Somoni Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPgDa81UNgsAKcF70LW436QtTidSBp24ZFmMuo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kamal Khujandi Statue",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDzOTxaZZkLfZ-Hsy8xI8xJS_GCTRMjhmxlkKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arbob Palace",
+                "category": "Government",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEXk6HvS29jP_tCHtLiamiydbmZDtw1T5jMZWi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paramount Journey",
+                "category": "Travel Agent",
+                "url": "http://paramountjourney.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoQEGj4eTvt262-2oRz73bq0Ce5nV4EuDa5hDf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kairakum Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvnIn56GUm9CNaM2k4K7UClmASwdi5qYGEnMZN=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Antiquities of Tajikistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfa8Fflndy2xH15NHGqVZYaYk22CiqRl1RZHYf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rudaki Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7OTMainVm48PAxBjgEoC7e-9pU8QB43Ngmzv=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Ismaili Centre, Dushanbe",
+                "category": "Religious institution",
+                "url": "https://the.ismaili/tajikistan",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6qOLmrDjshHJovUZyl2oRDxur3FjctkLHxm4u=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Tajikistan",
+                "category": "History museum",
+                "url": "https://osorkhonaimilliidip.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNc9ttBfdKt2iJ21pLse79VIF-X66uMXqoZY541=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Tajikistan",
+                "category": "Library",
+                "url": "http://kmt.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP57-aVK91bqr2B7Eoj1QmfA2kMIvg1GDCqJ8Pv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ismoili Somoni Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4nDGbhiQsLOPwhHesUjhvD7GdD5AI2zf5jr9Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iskanderkul",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK6SN_HXXUOmvY_7oMJCpTFBTLh4uEdB6NSQVi=w148-h148-n-k-no"
+            }
+        ],
+        "Bokhtar": [
+            {
+                "title": "Qurgonteppa Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxGTTJSQ-MnPr2jnOdssFCfAehiC_6OWL9LCJV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokhi Lohuti",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKbpTvJydZ4-uRwFcTwKVr-7H8xUS203zDbFIt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechet' Posolka Lomonosova",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFYJ3gqhjc9Yr6gnOb9Oeodrln4FismWj0EnXY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadion Yunost'",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSqXCeeMERvSym7viwKAF1HaQVVCOt8ZV3f09e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Navruz Palace",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWzgLrJ4ew7PHRlwpXJsxDSR3o9UBM_O25VLeS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dushanbe Central Stadium",
+                "category": "Stadium",
+                "url": "http://fft.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUEp2IhwtrG1CfGn4o3RpeJtYZri18n0WlnYXc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hookah \"Kokhi Navruz\"",
+                "category": "Cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOscCVGjkgqtAdCfK56lAfNc9SsXlrFaO-iES8K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Қасри миллат",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOpSF9ESPpCMUROHh1NSPV73mydxIWWfEf5SAA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koulikalon Lakes",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnksI9ZaUYI7kgAjRHRaRlGf5d9PYcrqfxxy5M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yaghnob Valley",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvYh_J1moWh9zvpyZoXx8fxkfAQJbUvfc3e0uw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safed-Dara Hotel",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/hf9A3aMg2lwf_gD6CBm7fkrj-XNyg8tDAsBvgbJFvvnZiiyWnT99IcAeUNGYWV9mp8FDPYk6byHpPZAdV8ioZIEBAOXCmmIUdSCPXZ6qfUIshL-3aOm1SYGPlYPepXQC-8LEtgE9rwH2wRvWrSHqNWN0urG7Xg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nurek Dam",
+                "category": "Dam",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO505jlsU4EFGgRDDNdugQZF6dzJpGPO6VaaqnW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hаji Ya'qub Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9PiPuCPJCVm18tahu2x2ainH3PtkpAIFHZh2e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Delfin Waterpark",
+                "category": "Aquatic centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1WlszLgrTMN1pZNXg7Z_Npl5EFPOvX5_Lddfy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dushanbe",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8BqohpPf9RXi6AkZiAlhy6Af1daFUbs5fufQZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Ej12wl7bz7sP6HsUGk7vcuQ4Ug0Tu4KrytKK=w148-h148-n-k-no"
+            }
+        ],
+        "Dushanbe": [
+            {
+                "title": "Rudaki Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7OTMainVm48PAxBjgEoC7e-9pU8QB43Ngmzv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Navruz Palace",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWzgLrJ4ew7PHRlwpXJsxDSR3o9UBM_O25VLeS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayni Opera House",
+                "category": "Opera house",
+                "url": "http://www.operabalet.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHZKGh6otcXd8Sk6kJL435ihDFbNlEa4E-GrKQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Tajikistan",
+                "category": "History museum",
+                "url": "https://osorkhonaimilliidip.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNc9ttBfdKt2iJ21pLse79VIF-X66uMXqoZY541=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Antiquities of Tajikistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfa8Fflndy2xH15NHGqVZYaYk22CiqRl1RZHYf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Delfin Waterpark",
+                "category": "Aquatic centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1WlszLgrTMN1pZNXg7Z_Npl5EFPOvX5_Lddfy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Ej12wl7bz7sP6HsUGk7vcuQ4Ug0Tu4KrytKK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flagpole",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6pqDSEb5qYBrhHz2rX_9beflrHLGJ4nkuv5Gt=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Ismaili Centre, Dushanbe",
+                "category": "Religious institution",
+                "url": "https://the.ismaili/tajikistan",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6qOLmrDjshHJovUZyl2oRDxur3FjctkLHxm4u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rudaki Avenue",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMldfBu6c41uthMWP7Q6wEzx2rJ3QH0-iQvd5_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Tajikistan",
+                "category": "Library",
+                "url": "http://kmt.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP57-aVK91bqr2B7Eoj1QmfA2kMIvg1GDCqJ8Pv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ismoili Somoni Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4nDGbhiQsLOPwhHesUjhvD7GdD5AI2zf5jr9Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hookah \"Kokhi Navruz\"",
+                "category": "Cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOscCVGjkgqtAdCfK56lAfNc9SsXlrFaO-iES8K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hаji Ya'qub Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9PiPuCPJCVm18tahu2x2ainH3PtkpAIFHZh2e=w148-h148-n-k-no"
+            },
+            {
+                "title": "M41",
+                "category": "Highway 2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4JoSNr7jNvh_MRMAxC2il7driOLZJT2log-4V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Қасри миллат",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOpSF9ESPpCMUROHh1NSPV73mydxIWWfEf5SAA=w148-h148-n-k-no"
+            }
+        ],
+        "Konibodom": [],
+        "Istaravshan": [
+            {
+                "title": "Dushanbe",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8BqohpPf9RXi6AkZiAlhy6Af1daFUbs5fufQZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kairakum Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvnIn56GUm9CNaM2k4K7UClmASwdi5qYGEnMZN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rudaki Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7OTMainVm48PAxBjgEoC7e-9pU8QB43Ngmzv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hisor Fortress",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2Relv86RclzUQqyCSY8parpWq4hE0RfrKn8de=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Tajikistan",
+                "category": "History museum",
+                "url": "https://osorkhonaimilliidip.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNc9ttBfdKt2iJ21pLse79VIF-X66uMXqoZY541=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Ismaili Centre, Dushanbe",
+                "category": "Religious institution",
+                "url": "https://the.ismaili/tajikistan",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6qOLmrDjshHJovUZyl2oRDxur3FjctkLHxm4u=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Antiquities of Tajikistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfa8Fflndy2xH15NHGqVZYaYk22CiqRl1RZHYf=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Tajikistan",
+                "category": "Library",
+                "url": "http://kmt.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP57-aVK91bqr2B7Eoj1QmfA2kMIvg1GDCqJ8Pv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ismoili Somoni Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4nDGbhiQsLOPwhHesUjhvD7GdD5AI2zf5jr9Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iskanderkul",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK6SN_HXXUOmvY_7oMJCpTFBTLh4uEdB6NSQVi=w148-h148-n-k-no"
+            },
+            {
+                "title": "M41",
+                "category": "Highway 2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4JoSNr7jNvh_MRMAxC2il7driOLZJT2log-4V=w148-h148-n-k-no"
+            }
+        ],
+        "Kŭlob": [
+            {
+                "title": "Hаji Ya'qub Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9PiPuCPJCVm18tahu2x2ainH3PtkpAIFHZh2e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Delfin Waterpark",
+                "category": "Aquatic centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1WlszLgrTMN1pZNXg7Z_Npl5EFPOvX5_Lddfy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayni Opera House",
+                "category": "Opera house",
+                "url": "http://www.operabalet.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHZKGh6otcXd8Sk6kJL435ihDFbNlEa4E-GrKQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hisor Fortress",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2Relv86RclzUQqyCSY8parpWq4hE0RfrKn8de=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Antiquities of Tajikistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfa8Fflndy2xH15NHGqVZYaYk22CiqRl1RZHYf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rudaki Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs7OTMainVm48PAxBjgEoC7e-9pU8QB43Ngmzv=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Tajikistan",
+                "category": "History museum",
+                "url": "https://osorkhonaimilliidip.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNc9ttBfdKt2iJ21pLse79VIF-X66uMXqoZY541=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Ismaili Centre, Dushanbe",
+                "category": "Religious institution",
+                "url": "https://the.ismaili/tajikistan",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6qOLmrDjshHJovUZyl2oRDxur3FjctkLHxm4u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iskanderkul",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK6SN_HXXUOmvY_7oMJCpTFBTLh4uEdB6NSQVi=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Tajikistan",
+                "category": "Library",
+                "url": "http://kmt.tj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP57-aVK91bqr2B7Eoj1QmfA2kMIvg1GDCqJ8Pv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ismoili Somoni Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4nDGbhiQsLOPwhHesUjhvD7GdD5AI2zf5jr9Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "M41",
+                "category": "Highway 2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4JoSNr7jNvh_MRMAxC2il7driOLZJT2log-4V=w148-h148-n-k-no"
+            }
+        ],
+        "Isfara": [
+            {
+                "title": "Yaghnob Valley",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvYh_J1moWh9zvpyZoXx8fxkfAQJbUvfc3e0uw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pamir Mountains",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMESzZYDOdoyCV74R5f4nyvSzLqt868hhK-nLhl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safed-Dara Hotel",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/hf9A3aMg2lwf_gD6CBm7fkrj-XNyg8tDAsBvgbJFvvnZiiyWnT99IcAeUNGYWV9mp8FDPYk6byHpPZAdV8ioZIEBAOXCmmIUdSCPXZ6qfUIshL-3aOm1SYGPlYPepXQC-8LEtgE9rwH2wRvWrSHqNWN0urG7Xg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kairakum Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvnIn56GUm9CNaM2k4K7UClmASwdi5qYGEnMZN=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Rudaki Park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMs7OTMainVm48PAxBjgEoC7e-9pU8QB43Ngmzv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hisor Fortress",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP2Relv86RclzUQqyCSY8parpWq4hE0RfrKn8de=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Tajikistan",
+            "category": "History museum",
+            "url": "https://osorkhonaimilliidip.tj/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNc9ttBfdKt2iJ21pLse79VIF-X66uMXqoZY541=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pamir Mountains",
+            "category": "Mountain range",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMESzZYDOdoyCV74R5f4nyvSzLqt868hhK-nLhl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Iskanderkul",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNK6SN_HXXUOmvY_7oMJCpTFBTLh4uEdB6NSQVi=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dushanbe",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN8BqohpPf9RXi6AkZiAlhy6Af1daFUbs5fufQZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Karakul Lake",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOqNxfb7ObjXnMEoEmyvImCPHaMFaIsESDQ6jQj=w148-h148-n-k-no"
+        },
+        {
+            "title": "M41",
+            "category": "Highway 2",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM4JoSNr7jNvh_MRMAxC2il7driOLZJT2log-4V=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Antiquities of Tajikistan",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNfa8Fflndy2xH15NHGqVZYaYk22CiqRl1RZHYf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Yamchun Fort",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOWYatabauZ13M6VJ8fJcpFXXcDwz8KWWQZTaBH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Panjakent",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOcVWZSBnVtDNN92JnfWvDbNfD4TwUcaQr2J9ey=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sarez Lake",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPCBAEfScA1pzmaRieIVISdMXJonLfVL4eIsAyP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khujand",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMO8nbix9wxbdvK0FHe0knkEFa8k7vW0zl72-I7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Buddhistic cloister of Ajina-Tepa",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipObfhbwD9cTTD9uk-W5qJ-nfVvYq1Pmzdxw9FwH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kairakum Reservoir",
+            "category": "Reservoir",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPvnIn56GUm9CNaM2k4K7UClmASwdi5qYGEnMZN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Murghab",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPw8BFgANkq1rhUYRgGz2w_Mjrkj7_AZDL6JhEC=w148-h148-n-k-no"
+        }
+    ]
+}

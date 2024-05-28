@@ -1,0 +1,289 @@
+{
+    "cities": {
+        "San José": [
+            {
+                "title": "Parque Metropolitano La Sabana",
+                "category": "Park and Garden",
+                "url": "http://www.icoder.go.cr/interactivas/parques-recreativos/68-parque-la-sabana",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiXIp8WoUq-y2ASO9YPR8HiYFaCQ4jnpFizZk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Costa Rica",
+                "category": "National museum",
+                "url": "https://www.museocostarica.go.cr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmBCOhh8kIV9HdXmIGs30AyVwUej6HXILX8Zqe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Children's Museum",
+                "category": "Children's museum",
+                "url": "http://museo.museocr.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPM1zewReiXfzBJRHrg6axvuEidtui27mIDMFk7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo del Jade",
+                "category": "Archaeological museum",
+                "url": "https://museodeljade.grupoins.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbkLOcUL0ndReq9akGAipkZVZJgaX7g7oC4rxV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pre-Columbian Gold Museum",
+                "category": "Museum",
+                "url": "http://www.museosdelbancocentral.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKn2wwye0AX8Fc72DnqhQeX9M7HKac0GcxKB56=w148-h148-n-k-no"
+            },
+            {
+                "title": "San José Central Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdzT8daP-h71d3oyYI9mkm02EJtJ3moUQWia98=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of San José",
+                "category": "Catholic cathedral",
+                "url": "https://www.iglesiacr.org/catedral-metropolitana-santuario-nacional-san-jose/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgkcdnDQ89-E1jFxygRe5zyRnC_9NchLQxfJpG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Costa Rican Art",
+                "category": "Art museum",
+                "url": "http://www.mac.go.cr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZHqS9rvB8eCrIX-7pRGXiZ4XverHrDepVql0O=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theater of Costa Rica",
+                "category": "Performing arts theatre",
+                "url": "https://teatronacional.go.cr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDUBY2-0341AmYpvG1xhMdwSNuFmT9cruuC10=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Cultura",
+                "category": "Park and Garden",
+                "url": "https://museosdelbancocentral.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMtFekhKNq4ugNollYFxCMv2swRuqawd1Ml5nT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spirogyra Butterfly Garden",
+                "category": "Garden",
+                "url": "http://www.butterflygardencostarica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaVlvbbnYkcVbQFoAOu0aMdTkMP_gXMzRtQ5u6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Popular Melico Salazar",
+                "category": "Performing arts theatre",
+                "url": "http://www.teatromelico.go.cr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKwvju7bamS2ZpAaOHUkI01LsJsfUIzkBt_c75=w148-h148-n-k-no"
+            },
+            {
+                "title": "Importadora Monge",
+                "category": "Electronics Retail and Repair Shop",
+                "url": "https://www.tiendamonge.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrZvOJ8DjJtynYHc9AI_VWVe5QUtGt1dsYWF-h=w148-h148-n-k-no"
+            },
+            {
+                "title": "MADC",
+                "category": "Art museum",
+                "url": "http://www.madc.cr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTH6s_nD4fuihy6PXVWtOLirsKq_9JUILlx5BJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque de la Paz",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMXKYil6GZGB75Q3-OKXrkRy1EfL5FLmiCr9WN=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Stadium Of Costa Rica",
+                "category": "Stadium",
+                "url": "http://www.estadionacionalcr.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwjkMFl74IOwQLnxb8bWcxOtn7JR1PdnSoPRDj=w148-h148-n-k-no"
+            }
+        ],
+        "Limón": [
+            {
+                "title": "Columbus Platinum",
+                "category": "Casino",
+                "url": "http://www.grupocasinoplatinum.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBuQ2T7Z43Xxo1ISfL-fRag8OjvvhQVU0BvkSo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Bonita",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyYIisYgy4uRTb5nCjUkYQaY_T_CTRjy5zfIod=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sacred Heart Cathedral (catholic church)",
+                "category": "Cathedral",
+                "url": "https://www.diocesisdelimon.org/parroquia-sagrado-corazon-de-jesus-catedral-de-limon/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2hpAFJgb5Imax1pej37xmUu9oMtk-hsQTEC4P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Puerto Viejo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7vZXV5of9-8PjDQyodThgVpYIL9pmYpV-sSCb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sloth Sanctuary of Costa Rica",
+                "category": "Wildlife rescue service",
+                "url": "http://www.slothsanctuary.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLjAKPX6DyALeDWcoC9ukieWHW-ltywR6itmCm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Negra",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5ri_3YCoSsZnd2UvVvyDRDIY1c2bCc_jzKYRU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ara Manzanillo",
+                "category": "Tourist attraction",
+                "url": "https://aramanzanillo.org/book-now/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbrnfxfji9M3ixVsgluNKiTckcOwBChxYz9-O7=w148-h148-n-k-no"
+            },
+            {
+                "title": "CHOCORART",
+                "category": "Chocolate factory",
+                "url": "https://www.facebook.com/chocorart/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPi_h9mq4TmzmqIBu2cX9kWiXLZTyW9WW4-ktSs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Balvanero Vargas",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwh1mSXEq7o1PsvV6RUQtOR0igT6wNEH2Gyw6N=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Amazing Treehouse and Nature Observatorio in Manzanillo, Limon, Costa Rica",
+                "category": "Tourist attraction",
+                "url": "http://www.natureobservatorio.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6LGNdS4uH7nPNEQHWHhAaYyTNep3Tq1VJd7u6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Refugio Nacional Gandoca-Manzanillo",
+                "category": "Wildlife Refuge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSqWzHkI_tZEzSHlYDHRzlo9RYTXoGCc9Q0km9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Explore Limón",
+                "category": "Tour operator",
+                "url": "http://www.explorelimon.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9niu_AxlN1RZLxB9oApC73lZf039hzdfXMZUf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tortuguero",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlQ7rFh6cAzhMkB0Bs2DZwWKjtE2tis72Kk74T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Cahuita",
+                "category": "National park",
+                "url": "http://www.sinac.go.cr/ES/ac/aclac/pnc/Paginas/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXxi1rHgFDzDYDYpcl0al0C1xrpabouFAQ6NRh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Cocles",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoP_3V0QoR9RVMYmU5-YK4QhueaFjCXoq7ncos=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Punta Uva",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7rk4rBdOpWIP3ZF_4RHto4bmDnrwUQECbii4i=w148-h148-n-k-no"
+            }
+        ],
+        "San Francisco": [
+            {
+                "title": "Golden Gate Bridge",
+                "category": "Bridge",
+                "url": "https://www.goldengate.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0-mJ4M1ftzod1vtrdwMyE2fmmqxGdPxnvQMH4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alcatraz Island",
+                "category": "Historical place",
+                "url": "https://www.nps.gov/alca/index.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrsQclg7uj24wG_P-8VbciqRG7JrWqwu85boga=w148-h148-n-k-no"
+            },
+            {
+                "title": "PIER 39",
+                "category": "Tourist attraction",
+                "url": "https://www.pier39.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmRnPnDs1YKRg3pQdVPzXjCtRw1CktlXawof8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Golden Gate Park",
+                "category": "Park and Garden",
+                "url": "https://sfrecpark.org/770/Golden-Gate-Park/",
+                "img": "https://lh6.googleusercontent.com/proxy/Re_uJganG3pBk9D1SDgNoBUSZxRfsvy8OftjqwO5RWQHyy1Zv0E9fATdxXdqr158SSlyY8zEnpyn7_R8cesEpFFRVwRbgbMnfMmiGaR9bOEFWpz62sQR7tF9jewXBcdYydS3hL6kKOd7J_e290lkiG-Kl2Q0rg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Fine Arts",
+                "category": "Events Venue",
+                "url": "https://palaceoffinearts.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkShATHqxiay16ss_LGMGNp5q3PN9NUlmp5WDj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Exploratorium",
+                "category": "Science museum",
+                "url": "https://www.exploratorium.edu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMw8yXNTzF9eiQ905LPKevj7sh_QIemLRHGdoOT=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Francisco Museum of Modern Art",
+                "category": "Modern art museum",
+                "url": "https://www.sfmoma.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOveLy55yE4o-vxu0qRoohgLsmRFCZ90uhvRW_o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Twin Peaks",
+                "category": "Park and Garden",
+                "url": "https://sfrecpark.org/Facilities/Facility/Details/Twin-Peaks-384",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKHRsZBZUaNfAeWrCP5aqfEicGxbwsVwki77hR=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Walt Disney Family Museum",
+                "category": "Museum",
+                "url": "https://www.waltdisney.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMn_Bk7aZJ80y0aLg_WiUrBkOLEKvEvucPqVyNs=w148-h148-n-k-no"
+            },
+            {
+                "title": "de Young Museum",
+                "category": "Art museum",
+                "url": "https://www.famsf.org/visit/de-young",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNe_ChbqO3aJiATDTDnMYv_GiQ-rmVMLCHqoCLN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Japanese Tea Garden",
+                "category": "Garden",
+                "url": "http://japaneseteagardensf.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk3JLYfJ-lXMJ2erokUM2qLDBprVp9sLDYg0op=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ferry Building",
+                "category": "Historical landmark",
+                "url": "https://www.ferrybuildingmarketplace.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1rLybPakf9QI9AdUK8NbgBPfzfYLqa_IZ7nu9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ghirardelli Chocolate Experience",
+                "category": "Chocolate shop",
+                "url": "https://www.ghirardelli.com/storelocations-sanfranciscosquare",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSEPy_1HcHYrYZ7iO1Kt-cvZlnCHhRZw8pSmui=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Francisco Zoo",
+                "category": "Zoo",
+                "url": "https://www.sfzoo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMurKVeJILrznjiCzqSvhI5xgqxG2ZI0rmKCcuA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Union Square",
+                "category": "Historical landmark",
+                "url": "https://visitunionsquaresf.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgtdleCwXG7OGt4SgN8lTq3w2mgvpWHX10BwM9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coit Tower",
+                "category": "Historical landmark",
+                "url": "https://sfrecpark.org/Facilities/Facility/Details/Coit-Tower-290",
+                "img": "https://lh4.googleusercontent.com/proxy/M-IyY1GjFYjZhVzh8xNIW5-_t8EaCgZwDEtPJ_77wvcRoNmD8s2r2X-BarC6z6r-sIXt5at9nhf40XZUHrL-ufYrZg0jjyy1dndUxtwu9hCuSqkHcRiCqfXhXMT0njfL3_73pY2jxmwOcPITzh79CKgjG7rq6Q=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": []
+}

@@ -1,0 +1,154 @@
+{
+    "cities": {
+        "Laayoune": [
+            {
+                "title": "ساحة أم السعد Plaza Oum Saad",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyzc4RK1ToB9faMLQoceiGL7_mR042K9eyn2li=w148-h148-n-k-no"
+            },
+            {
+                "title": "Place Al Wahda",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJVrI4TcHEh46ZVJIIMW-WfkMQqXNq1jLZxvFI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Place Al Abidi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWpyA5evlEQbmpmv-YO5S9z4cbz0aCIeTuN7XS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pretty skin beauty bar",
+                "category": "Skin care clinic",
+                "url": "https://www.instagram.com/prettyskinbeautybar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXZ65OJ6WUxG6RQ-Vl33bX0gfxZlWavj-nYrKn=w148-h148-n-k-no"
+            },
+            {
+                "title": "LORO CAR Location de voiture laayoune",
+                "category": "Car rental company",
+                "url": "https://www.locationvoiturelaayoune.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjcDpPbDl5Dwv1mMozd5QB-aLDRKycIFUi4qQa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Saint Francis of Asis",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6xPxJ8P8sYnoKZQTVPZbcNI8wot_ISYxWFHqm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moulay Rachid Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6vbxfMTiAZl0CcAO6-YjoewJFpuKT6b14M35f=w148-h148-n-k-no"
+            },
+            {
+                "title": "RICHNAM",
+                "category": "Cosmetics shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhNxnKLg0KwtN5hwF7Efmte4VY-KPTzBlYMjdl=w148-h148-n-k-no"
+            },
+            {
+                "title": "SAHARA GLAMOUR BIO",
+                "category": "Cosmetics shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWcCDlOHNfRNDJXm5T5IDdRD6sa7_dqcMwpdlC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sahara Adrénaline Park",
+                "category": "Playground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7LYYqfIAtPgfMJK-UT1BP27yryB1T6ze4unLD=w148-h148-n-k-no"
+            },
+            {
+                "title": "JET SAHARA Location de voitures laayoune",
+                "category": "Car rental company",
+                "url": "https://jetsahara.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp117npjx4Y9Ab94HMvHI0rZKYDaBrJ6_Jd71d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Mohamed Laghdaf Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhNppSc_EY9O_wo6M1AJ6X7fr-m1Bh3M3aqJyg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arrahma Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNv5kO7ZjSWu2qKgLqpogcCbX3uXpo4bRJ9V1y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Électroménager Rifi",
+                "category": "Appliance Shop",
+                "url": "https://instagram.com/electromenager_rifi_amine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5-RTkrY8ptfhnltRexmgn2rSypb946ExYtIFU=w148-h148-n-k-no"
+            }
+        ],
+        "Dakhla": [
+            {
+                "title": "Le Spa de Dakhla *****",
+                "category": "Spa",
+                "url": "http://www.spadakhla.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLepQaut3cr8JzU5GqGvA28_7YphAUUBHbAI89=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dakhla Surf Travel",
+                "category": "Surf school",
+                "url": "https://www.dakhlasurftravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM64rhmLCWpSRu_fGGHGHdODiIZEhmgKByxrwSZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ocean Vagabond Lassarga",
+                "category": "Surf school",
+                "url": "https://www.oceanvagabond.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsW9oaAZiPB88JSjHxp2sWr5KjUSoY1qDJgh9G=w148-h148-n-k-no"
+            },
+            {
+                "title": "QUAD - BUGGY - CAMEL - SANDBOARD - VINTAGE SAFARI - 4X4 / DAKHLA RIDE ADVENTURES",
+                "category": "Sightseeing Tour Agency",
+                "url": "https://dakhlarideadventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTDFCvptuGVJvUqyRmfVYIrkA5PiUpvbo1Xnbf=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Dakhla",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNfOfHSW8yYWEIHAJeXNov5wiDtTIII-sXPG3KN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Laayoune",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNDhYx8lBxwj7OO-tpS_WN7DIQN6oJrEjEh-daF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Boujdour",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNQ_fKV7wiJ3rGXe-Cm4mFncPCesD9g5oAwdQdg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sahara Sailing",
+            "category": "Tourist attraction",
+            "url": "http://saharasailing.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOtg_Hriso7d0cf6qZSPFwVixDAXis7alqy-xVr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Samara",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO_8aX527ynFuhZ22zYlwtBj6re8b78nqZTh56-=w148-h148-n-k-no"
+        },
+        {
+            "title": "La Güera",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOvDBnr0O4F4XSnAXfch9xNU1dyddtyHSHonNmC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Awsard",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMM-_fjfZ7uUhM4o3Zp7xDKgAtCOXIzWrSPJME=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bu Craa",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO9umN0aSaek4e3Wpe5LZ2xBajwvepVRHfrUNLZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tarfaya",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMmwKTpk7dGZT_B97fuFoI7qZbDUr_vB4S1lIeQ=w148-h148-n-k-no"
+        }
+    ]
+}

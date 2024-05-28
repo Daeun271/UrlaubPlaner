@@ -1,0 +1,1334 @@
+{
+    "cities": {
+        "Benghazi": [
+            {
+                "title": "Al Madinah Ar Riyadiyyah",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObbsdlwXcmmlk5o0WmclS0kYKOTAeIUikVKoPE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tibesti Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoAf-FKdiTorTS0UOTMAuNu5W7mVmBrMpwhyr_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Sindibad Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqUMkdA-uIV55MYxXsv2LDL_J3gNFH5CV_pUpb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minarate",
+                "category": "Lighthouse",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK8kVUtAqE8n6KAuNnBNTMteRHqeJ-c2ftsDIe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Golden Palm Tree Resort",
+                "category": "Tourist attraction",
+                "url": "https://www.facebook.com/%D9%85%D9%86%D8%AA%D8%AC%D8%B9-%D8%A7%D9%84%D9%86%D8%AE%D9%84%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-Golden-Palm-107811324306084/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHP6K-dLpPHeNsR8kdQd_AnGB7MJTKner3dnfp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jars Roundabout",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNI8fLehpNPLkiF0d6g4rZ6kvN0x-MWMnVGtv5e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Ein Zeiyana",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuCU9FUIBqfH-p2JHtB_LRoqkEusxHTU5_rbDN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jebel Akhdar",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLBE4KpD4nKnBkt8ln4-luDYBUEahmLsB8zrdv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omar Al-Mukhtar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJDujnL2qWwz92elt0FtyTYLYbq5q6GCmYdOwh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Benghazi Zoo",
+                "category": "Zoo",
+                "url": "http://www.nwr404.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfFuGmje1GG1u8ifPmITOjt0Hxu-YiQjBOaZh9=w148-h148-n-k-no"
+            }
+        ],
+        "Al Jumayl": [
+            {
+                "title": "Saraya Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWS1mNxFvnLGyd2CbF7SWZ9LYA5YT69c_RoClx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagi Mosque",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/bagi.1936/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkdAR-nzKveThjmepygQnOCvLIE0ZrqedxMh25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Murad Agha Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPASyf3eVQLQYijgGEHIZkx1IsCAZ-CAVR5bxzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Y90VM0bw7KvsdHQfHvhy4Qv749snjaQbXcn8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nalut",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3CLi0TZrPf0fjbBQMSXCxQlHg2SJbmlKd-1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gurgi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ4T7OHmrTtSZSp7v4Cs44ceg3O7VTFppWrXqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arc of Marcus Aurelius",
+                "category": "Historical landmark",
+                "url": "https://www.facebook.com/HibaAShalabi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3dyWzJzsBTTsUPJChzs_ncNbY7O64s87b0Bc=w148-h148-n-k-no"
+            }
+        ],
+        "Sabha": [],
+        "Al ‘Azīzīyah": [
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leptis Magna",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRkzyaWlvSVW8E0lH_aXQfS_amOGS-TQy1H_Xl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misrata",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSKX9DlBL7boMLhjj4vx7QOvb8jfh5RyyKAjG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arc of Marcus Aurelius",
+                "category": "Historical landmark",
+                "url": "https://www.facebook.com/HibaAShalabi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3dyWzJzsBTTsUPJChzs_ncNbY7O64s87b0Bc=w148-h148-n-k-no"
+            }
+        ],
+        "Tripoli": [
+            {
+                "title": "Saraya Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWS1mNxFvnLGyd2CbF7SWZ9LYA5YT69c_RoClx=w148-h148-n-k-no"
+            },
+            {
+                "title": "SOOMRAN SHOP",
+                "category": "Fashion accessories shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWxO1Gp5jcw79Cmg6YXKWkq991VWtoH8U7ofp7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leptis Magna",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRkzyaWlvSVW8E0lH_aXQfS_amOGS-TQy1H_Xl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Quba Al-Falakia",
+                "category": "Planetarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORzg55rxypH9Y1WU_RoMm7Pq--TXyuUFv3wIXj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arc of Marcus Aurelius",
+                "category": "Historical landmark",
+                "url": "https://www.facebook.com/HibaAShalabi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3dyWzJzsBTTsUPJChzs_ncNbY7O64s87b0Bc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gurgi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ4T7OHmrTtSZSp7v4Cs44ceg3O7VTFppWrXqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hay Al-Andalus Corniche",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKAn5_I3bcyC7hrDMo01X9NOe6oZ71BRgX2Ej_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silphium Family Entertainment Center",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO9NfQQC7RBQhpCDEc724b1HoHoCM84ghlMR3r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Y90VM0bw7KvsdHQfHvhy4Qv749snjaQbXcn8=w148-h148-n-k-no"
+            }
+        ],
+        "Al Jadīd": [],
+        "Qaşr Bin Ghashīr": [
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagi Mosque",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/bagi.1936/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkdAR-nzKveThjmepygQnOCvLIE0ZrqedxMh25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Murad Agha Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPASyf3eVQLQYijgGEHIZkx1IsCAZ-CAVR5bxzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "The High Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtPWxd9zEemwJVSnZ8qkNpB_4r5ZqeIGxPN55Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Y90VM0bw7KvsdHQfHvhy4Qv749snjaQbXcn8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misrata",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSKX9DlBL7boMLhjj4vx7QOvb8jfh5RyyKAjG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gurgi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ4T7OHmrTtSZSp7v4Cs44ceg3O7VTFppWrXqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arc of Marcus Aurelius",
+                "category": "Historical landmark",
+                "url": "https://www.facebook.com/HibaAShalabi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3dyWzJzsBTTsUPJChzs_ncNbY7O64s87b0Bc=w148-h148-n-k-no"
+            }
+        ],
+        "Al Ajaylat": [
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "SOOMRAN SHOP",
+                "category": "Fashion accessories shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWxO1Gp5jcw79Cmg6YXKWkq991VWtoH8U7ofp7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Quba Al-Falakia",
+                "category": "Planetarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORzg55rxypH9Y1WU_RoMm7Pq--TXyuUFv3wIXj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nalut",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3CLi0TZrPf0fjbBQMSXCxQlHg2SJbmlKd-1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silphium Family Entertainment Center",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO9NfQQC7RBQhpCDEc724b1HoHoCM84ghlMR3r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hay Al-Andalus Corniche",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKAn5_I3bcyC7hrDMo01X9NOe6oZ71BRgX2Ej_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leptis Magna",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRkzyaWlvSVW8E0lH_aXQfS_amOGS-TQy1H_Xl=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gurgi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ4T7OHmrTtSZSp7v4Cs44ceg3O7VTFppWrXqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            }
+        ],
+        "Al Bayḑā’": [
+            {
+                "title": "Omar Al-Mukhtar University",
+                "category": "University",
+                "url": "http://www.omu.edu.ly/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMc8cLRm2NDbtVfGURMpzldrsbvYyDDJfhw5Ag7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Alteilal Tourism",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPYZRejzLo71WuWm5VJsgBfNmFvgGyVMRQ4r0w=w148-h148-n-k-no"
+            },
+            {
+                "title": "فندق مرحبا للخدمات السياحية",
+                "category": "Hotel",
+                "url": "https://m.facebook.com/marhaba2009",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaS8QGQ5UKOXC-fmkQbkWz81qlgQjF_oCRwJ4H=w148-h148-n-k-no"
+            },
+            {
+                "title": "فندق الهديل - Al Hadeel Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxpnwBoTu3EC_0NsiuEEgHm1MDx-TmhePAlAQo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pearl Tourist Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5lRrLhzKVsFM-21yXLslm8TD5LxYI_QQ5xUkO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Loleat Alkhalij tourism",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8mII69i6SdjIeG7SlqSW5lpmL27zLU2MqI2Ul=w148-h148-n-k-no"
+            },
+            {
+                "title": "Benghazi Zoo",
+                "category": "Zoo",
+                "url": "http://www.nwr404.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfFuGmje1GG1u8ifPmITOjt0Hxu-YiQjBOaZh9=w148-h148-n-k-no"
+            }
+        ],
+        "Msalātah": [],
+        "Tājūrā’": [
+            {
+                "title": "Bagi Mosque",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/bagi.1936/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkdAR-nzKveThjmepygQnOCvLIE0ZrqedxMh25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "The High Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtPWxd9zEemwJVSnZ8qkNpB_4r5ZqeIGxPN55Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Murad Agha Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPASyf3eVQLQYijgGEHIZkx1IsCAZ-CAVR5bxzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Quba Al-Falakia",
+                "category": "Planetarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORzg55rxypH9Y1WU_RoMm7Pq--TXyuUFv3wIXj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silphium Family Entertainment Center",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO9NfQQC7RBQhpCDEc724b1HoHoCM84ghlMR3r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hay Al-Andalus Corniche",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKAn5_I3bcyC7hrDMo01X9NOe6oZ71BRgX2Ej_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misrata",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSKX9DlBL7boMLhjj4vx7QOvb8jfh5RyyKAjG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Y90VM0bw7KvsdHQfHvhy4Qv749snjaQbXcn8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            }
+        ],
+        "Zliten": [
+            {
+                "title": "The High Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtPWxd9zEemwJVSnZ8qkNpB_4r5ZqeIGxPN55Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Murad Agha Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPASyf3eVQLQYijgGEHIZkx1IsCAZ-CAVR5bxzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkdAR-nzKveThjmepygQnOCvLIE0ZrqedxMh25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misrata",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSKX9DlBL7boMLhjj4vx7QOvb8jfh5RyyKAjG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Y90VM0bw7KvsdHQfHvhy4Qv749snjaQbXcn8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gurgi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ4T7OHmrTtSZSp7v4Cs44ceg3O7VTFppWrXqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arc of Marcus Aurelius",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3dyWzJzsBTTsUPJChzs_ncNbY7O64s87b0Bc=w148-h148-n-k-no"
+            }
+        ],
+        "Ajdabiya": [
+            {
+                "title": "Omar Al-Mukhtar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJDujnL2qWwz92elt0FtyTYLYbq5q6GCmYdOwh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jebel Akhdar",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLBE4KpD4nKnBkt8ln4-luDYBUEahmLsB8zrdv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atiq Mosque, Awjila",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDcwTHlRRNyZ9wuQk-2q0C0D2mwmU38t36xCZt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Benghazi Zoo",
+                "category": "Zoo",
+                "url": "http://www.nwr404.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfFuGmje1GG1u8ifPmITOjt0Hxu-YiQjBOaZh9=w148-h148-n-k-no"
+            }
+        ],
+        "Az Zāwīyah": [
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saraya Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWS1mNxFvnLGyd2CbF7SWZ9LYA5YT69c_RoClx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gurgi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ4T7OHmrTtSZSp7v4Cs44ceg3O7VTFppWrXqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arc of Marcus Aurelius",
+                "category": "Historical landmark",
+                "url": "https://www.facebook.com/HibaAShalabi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3dyWzJzsBTTsUPJChzs_ncNbY7O64s87b0Bc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            }
+        ],
+        "Tobruk": [],
+        "Al Khums": [
+            {
+                "title": "مركز تسوق الخمس- المدينة",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdDK_Qb2rJ3ES6BDMheQ2zNB0vhD3XKS4whnuJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "عمي عثمان الجراي للأقمشة ومستلزمات الخياطة",
+                "category": "Fabric Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO13QbGexl38u_lXuci8WuqZ42u-osY1Vz-M3eC=w148-h148-n-k-no"
+            },
+            {
+                "title": "سحيم للتسوق",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZNf1Y-Vr-GaDaxZY8APHEzCzQ7K6Ua9w4kyn0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khums Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1OgDmhmdiR2IvO4Pi5jAoglDD6sz8Sp9EUMPr=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Amphitheatre of Leptis Magna",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiKaK64rTS3Bp2iiEcD3tdyXHuJ3emhsYDFNRX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Severan Basilica",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNibRlPwyLtyUkbvQROLK6TRcSz9oi0kdcux5tw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hadrianic Baths",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPUBcbisThpP-lQpqI492hAvXC2im3lRprX8i9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leptis Magna Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhGRRXmQuHQfmOcav41S9Scy0H3X5z7soF4KwX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leptis Magna",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRkzyaWlvSVW8E0lH_aXQfS_amOGS-TQy1H_Xl=w148-h148-n-k-no"
+            }
+        ],
+        "Tarhuna": [
+            {
+                "title": "Murad Agha Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPASyf3eVQLQYijgGEHIZkx1IsCAZ-CAVR5bxzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagi Mosque",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/bagi.1936/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkdAR-nzKveThjmepygQnOCvLIE0ZrqedxMh25=w148-h148-n-k-no"
+            },
+            {
+                "title": "The High Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtPWxd9zEemwJVSnZ8qkNpB_4r5ZqeIGxPN55Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Quba Al-Falakia",
+                "category": "Planetarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORzg55rxypH9Y1WU_RoMm7Pq--TXyuUFv3wIXj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silphium Family Entertainment Center",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO9NfQQC7RBQhpCDEc724b1HoHoCM84ghlMR3r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hay Al-Andalus Corniche",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKAn5_I3bcyC7hrDMo01X9NOe6oZ71BRgX2Ej_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misrata",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSKX9DlBL7boMLhjj4vx7QOvb8jfh5RyyKAjG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leptis Magna",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRkzyaWlvSVW8E0lH_aXQfS_amOGS-TQy1H_Xl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            }
+        ],
+        "Sirte": [],
+        "Al Ḩurshah": [],
+        "Şurmān": [
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Y90VM0bw7KvsdHQfHvhy4Qv749snjaQbXcn8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gurgi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ4T7OHmrTtSZSp7v4Cs44ceg3O7VTFppWrXqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arc of Marcus Aurelius",
+                "category": "Historical landmark",
+                "url": "https://www.facebook.com/HibaAShalabi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3dyWzJzsBTTsUPJChzs_ncNbY7O64s87b0Bc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nalut",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3CLi0TZrPf0fjbBQMSXCxQlHg2SJbmlKd-1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leptis Magna",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRkzyaWlvSVW8E0lH_aXQfS_amOGS-TQy1H_Xl=w148-h148-n-k-no"
+            }
+        ],
+        "Misratah": [
+            {
+                "title": "Masjed Ahmed Zarrog",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsnEDI5uvB9TQswQjT2UoZVJeewbEQnqc56NiR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ash_shora Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUZW0CcWOxzjGCz7K9DnXS9On629VElKND3dKO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misrata International Airport",
+                "category": "International airport",
+                "url": "http://www.misurataairport.ly/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWkLvELmaAJz2kKSozYCryv_WsJL71WUA1eJe2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asheltat Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8DVkwwTQb9a9QEVOS6kKNNmpFqV5lf4EckeEs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Almasa Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTgUP7K8KWoF7KZDQiviKxw8y55k2ALWbLtO8O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Downtown Garden",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMODmvKKaj2ZyyZF6u7paKT4uUt8g9Yn46G4WI8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of the February 17 Martyrs",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPN-oPP9YQlF6Tw9UezwACRT68KLAEtxmxo5Lu=w148-h148-n-k-no"
+            },
+            {
+                "title": "ميدان الشجرة Al-shajara Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGnsugpUVrQzI-T7_Gsmp_2WwtMATQ2iY3DoBg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Almasa Park",
+                "category": "City park",
+                "url": "https://m.facebook.com/%D9%85%D9%86%D8%AA%D8%B2%D9%87-%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%81%D9%8A%D9%87%D9%8A-%D9%85%D8%B5%D8%B1%D8%A7%D8%AA%D9%87-260658437857374/about",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRtsVzAULvkk5CcQK23kYid961uvkG_f42KkSb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pisces Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK5eFubFMf2sZ7RTWyeAjIEfEQru5FxAUOWq8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Almangoush Vegetables & Fruits Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9CJI-9FC9c5qmVdBXlAB1hL2Se27BauF--Ash=w148-h148-n-k-no"
+            },
+            {
+                "title": "Murad Agha Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPASyf3eVQLQYijgGEHIZkx1IsCAZ-CAVR5bxzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagi Mosque",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/bagi.1936/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkdAR-nzKveThjmepygQnOCvLIE0ZrqedxMh25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "The High Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtPWxd9zEemwJVSnZ8qkNpB_4r5ZqeIGxPN55Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            }
+        ],
+        "Al Marj": [
+            {
+                "title": "Omar Al-Mukhtar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJDujnL2qWwz92elt0FtyTYLYbq5q6GCmYdOwh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jebel Akhdar",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLBE4KpD4nKnBkt8ln4-luDYBUEahmLsB8zrdv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Derna",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7SvLKlERmzhP04m0z2fQxz4pB5W-7yV0zmDSz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Benghazi Zoo",
+                "category": "Zoo",
+                "url": "http://www.nwr404.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfFuGmje1GG1u8ifPmITOjt0Hxu-YiQjBOaZh9=w148-h148-n-k-no"
+            }
+        ],
+        "Zawiya": [
+            {
+                "title": "Bagi Mosque",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/bagi.1936/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkdAR-nzKveThjmepygQnOCvLIE0ZrqedxMh25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Murad Agha Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPASyf3eVQLQYijgGEHIZkx1IsCAZ-CAVR5bxzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Quba Al-Falakia",
+                "category": "Planetarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORzg55rxypH9Y1WU_RoMm7Pq--TXyuUFv3wIXj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hay Al-Andalus Corniche",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKAn5_I3bcyC7hrDMo01X9NOe6oZ71BRgX2Ej_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silphium Family Entertainment Center",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO9NfQQC7RBQhpCDEc724b1HoHoCM84ghlMR3r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nalut",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3CLi0TZrPf0fjbBQMSXCxQlHg2SJbmlKd-1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Y90VM0bw7KvsdHQfHvhy4Qv749snjaQbXcn8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            }
+        ],
+        "Şabrātah": [
+            {
+                "title": "Saraya Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWS1mNxFvnLGyd2CbF7SWZ9LYA5YT69c_RoClx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Quba Al-Falakia",
+                "category": "Planetarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORzg55rxypH9Y1WU_RoMm7Pq--TXyuUFv3wIXj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silphium Family Entertainment Center",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO9NfQQC7RBQhpCDEc724b1HoHoCM84ghlMR3r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hay Al-Andalus Corniche",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKAn5_I3bcyC7hrDMo01X9NOe6oZ71BRgX2Ej_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nalut",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3CLi0TZrPf0fjbBQMSXCxQlHg2SJbmlKd-1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Y90VM0bw7KvsdHQfHvhy4Qv749snjaQbXcn8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leptis Magna",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRkzyaWlvSVW8E0lH_aXQfS_amOGS-TQy1H_Xl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gurgi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ4T7OHmrTtSZSp7v4Cs44ceg3O7VTFppWrXqF=w148-h148-n-k-no"
+            }
+        ],
+        "Janzūr": [
+            {
+                "title": "Bagi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkdAR-nzKveThjmepygQnOCvLIE0ZrqedxMh25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Murad Agha Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPASyf3eVQLQYijgGEHIZkx1IsCAZ-CAVR5bxzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratha Ancient Theatre",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "The High Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtPWxd9zEemwJVSnZ8qkNpB_4r5ZqeIGxPN55Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Castle",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyr's Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9Y90VM0bw7KvsdHQfHvhy4Qv749snjaQbXcn8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tripoli Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MDEre9EfMhn_urquaTbxrQRx9BIxUHAXICuZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabratah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP711WNi3a4vOEdrrdmP-fo3PAguuHfSMIIy_1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Yusuf Karamanli",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDT9jq38v3ruWpyxXbD3i2EENz_2I9MnabXAsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misrata",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSKX9DlBL7boMLhjj4vx7QOvb8jfh5RyyKAjG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Majidya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQaEpnhU_KdY4xz_aLEQCNo_yocbTna1HBy4wM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Park Tuesday Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYb9nsa07WVwrOG94Jj52ODdsqwyAQNAdDF-U0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gurgi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ4T7OHmrTtSZSp7v4Cs44ceg3O7VTFppWrXqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nalut",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3CLi0TZrPf0fjbBQMSXCxQlHg2SJbmlKd-1Yg=w148-h148-n-k-no"
+            }
+        ],
+        "Darnah": [],
+        "As Sawānī": []
+    },
+    "sights": [
+        {
+            "title": "Saraya Museum",
+            "category": "Archaeological museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPWS1mNxFvnLGyd2CbF7SWZ9LYA5YT69c_RoClx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Arch of Septimius Severus",
+            "category": "Historical place",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNnHjj7a-8aCh9Z8KlgFrp5zE_4ZJjt_EcND053=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nafusa Mountains",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN4zCUB5IDA00razSaxRrmJuLLMAnk4pm-rmXIF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Um el Ma",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMlY4YLfUckpklSlQPZteuyljHet7E2zpIGP5pe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jebel Uweinat",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMptdhvwOT49vmx8i9y7KYpHP7M4_f-xjQS1RJu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sabratha Ancient Theatre",
+            "category": "Historical place",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO-3ZyjSjJZwJzOgx1XYOlHFmFV7nROhNjxNDMY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Derna",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP7SvLKlERmzhP04m0z2fQxz4pB5W-7yV0zmDSz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tobruk War Cemetery",
+            "category": "Military cemetery",
+            "url": "http://www.cwgc.org/find-a-cemetery/cemetery/2020400/TOBRUK%20WAR%20CEMETERY",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO2N8z3dl4vVsH7yATIfetLNSxZJlGLs8n5q696=w148-h148-n-k-no"
+        },
+        {
+            "title": "Omar Al-Mukhtar Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPJDujnL2qWwz92elt0FtyTYLYbq5q6GCmYdOwh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tripoli Castle",
+            "category": "Compound grounds",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMxLotfgiuMxJA3Yfwaxw5-EWC1PBSMnikTnBmk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Atiq Mosque, Awjila",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPDcwTHlRRNyZ9wuQk-2q0C0D2mwmU38t36xCZt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al-Quba Al-Falakia",
+            "category": "Planetarium",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipORzg55rxypH9Y1WU_RoMm7Pq--TXyuUFv3wIXj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jebel Akhdar",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOLBE4KpD4nKnBkt8ln4-luDYBUEahmLsB8zrdv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tripoli",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPXY8JGX1jVn9MT8vjNENTS_c8AYRXm0LkxLX11=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nalut",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN3CLi0TZrPf0fjbBQMSXCxQlHg2SJbmlKd-1Yg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Martyr's Square",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO4y8wHMn56Dg8btwg8uZMjvXj89OwF0l45nb01=w148-h148-n-k-no"
+        }
+    ]
+}

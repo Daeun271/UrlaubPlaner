@@ -1,0 +1,241 @@
+{
+    "cities": {
+        "Darhan": [
+            {
+                "title": "Central Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5SBo5yHcowFikMv1JE4HjMwbgpk8W6KU0pqYl=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Buddha's Statue of Northern",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlFPBcJqYIIrXPir7LPMF6_DddBBOjBLu-KsdA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Darkhan Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO254lOLLQZc7qpuZgb5l7h8IZ6csGDYQgA-OsY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bayremedee Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNu9X6Db2TiwxPZcBf1BsuQN1DarbZiajCaTpz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amarbayasgalant Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxY0QR-yg8w2VmKt7XeoWImEP9cdyo1uabLeK-=w148-h148-n-k-no"
+            },
+            {
+                "title": "SUKHBAATAR SQUARE",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMta-_qAmgrp93QN-vpwKqPzrL324vBN8LjF-vg=w148-h148-n-k-no"
+            }
+        ],
+        "Ulan Bator": [
+            {
+                "title": "Bogd Khaan Palace Museum",
+                "category": "History museum",
+                "url": "https://bogdkhaanpalacemuseum.mn/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp9cB9p3fnZDku2DgMzkKxOketQIWH9zmyaoOy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zaisan Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNH0pd84rw9_JUfclhV1vg-CY_rcJ1Wfa_nnRLI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Choijin Lama Temple Museum",
+                "category": "Museum",
+                "url": "https://templemuseum.mn/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJkIqjK2wk88cGguvbQtO2ei2epQwK7_xVfWao=w148-h148-n-k-no"
+            },
+            {
+                "title": "Монголын Үндэсний Музей",
+                "category": "National museum",
+                "url": "http://www.nationalmuseum.mn/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoeK5fBoOhxui7FmqeSlQXU73b2R-HU8kuyXYV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gandantegchinlen Monastery",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsjZaS0_A8a6Z9_Gp65GGCX5aMeAld4VNetdCE=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Fine Arts Zanabazar Museum",
+                "category": "Art museum",
+                "url": "http://www.zanabazarmuseum.mn/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvucyWW7OPAOewcMbFzYcX1C9puZu89OP37XFA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galleria Ulaanbaatar",
+                "category": "Shopping Centre",
+                "url": "https://www.facebook.com/GalleriaUlaanbaatar/?mibextid=ZbWKwL",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvEGZGUbpE-QOSuL1hpuC2DapK2ub-AqY2ADJL=w148-h148-n-k-no"
+            },
+            {
+                "title": "SUKHBAATAR SQUARE",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMta-_qAmgrp93QN-vpwKqPzrL324vBN8LjF-vg=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Amusement Park",
+                "category": "Amusement park",
+                "url": "https://www.facebook.com/park.mongolia/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwxIJmT7OBOD1Ub40qi6Pah6Qt7sah6d3q-blG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Megjid Janraisig Datsan",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5JS5Dsi--BzN_0n2u2Zn7RKaM3185q_hTDKz8=w148-h148-n-k-no"
+            },
+            {
+                "title": "GANDANTEGCHENLING",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgTwx2ZDoWVRe19MeJvEUgj5W2Esv1t6tPFckq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mongolian National Art Gallery",
+                "category": "Art gallery",
+                "url": "http://art-gallery.mn/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHlYJF3BsW8qnZFVbJA1wN1x8_qlf2pbDXuTK3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chinggis Khaan National Museum",
+                "category": "Museum",
+                "url": "https://chinggismuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjb-MkNZs72bXlyk4ssTZ67GijET_B42w8das=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chinggis Khaan Statue Complex",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyDFoYdlg_Qw7OhllpUIcrboEgjYujnOmaElNt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Үндэсний Номын Сан",
+                "category": "Library",
+                "url": "http://www.nationallibrary.mn/",
+                "img": "https://lh3.googleusercontent.com/proxy/R_AEqDEu0rANC0R5rXNVleQlQs82XHNcEcQ-YDkfTVaOmFabLxmVQxnjfjQYcmxSz7wawu8qTXPHwsJjLf85kvx-57_tUBQdhEj4pLHoxo_B2Ho9t59F5MLsNi7E8bGs66ZorTIQugl5Ovie-XkIPHaSWe58mM3jOBktyPk0Yazq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorkhi Terelj National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXD9x7KMdr3CWFfW2lPI6CsHUW0_ITJb-Ry-6q=w148-h148-n-k-no"
+            }
+        ],
+        "Erdenet": [
+            {
+                "title": "Orkhon province main square",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTereMLQtOfww3wQgbxYu9y67bmc4j-YOKD02m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erdenet Sports Complex",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5yvdMKzlPu1bfnbnB53Hw3qa4bAZjmtRb0bvs=w148-h148-n-k-no"
+            },
+            {
+                "title": "sport khoroo",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7_oTF_ZTDM9IfUXXRiC1L9hM8cU0RNjLMYf0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erdenet museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNflq_1fUo0lkoDKo3cE27f684gyBmEQaE5mGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bulgan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf5ahfBpfIPjLNX15VAbZSSqxR6zxV3kLOnFoq=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Gorkhi Terelj National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPXD9x7KMdr3CWFfW2lPI6CsHUW0_ITJb-Ry-6q=w148-h148-n-k-no"
+        },
+        {
+            "title": "Altai Tavan Bogd National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMqh6O2QH1N-U_gjRLpSzWQ1ixeVXSmx9Vbzjwt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chinggis Khaan Statue Complex",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNyDFoYdlg_Qw7OhllpUIcrboEgjYujnOmaElNt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Erdene Zuu Monastery",
+            "category": "Monastery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOCoGw3d19e5mjAgZ8wUN0tzIaA1uev_NIGNqT4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gandantegchinlen Monastery",
+            "category": "Buddhist temple",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPsjZaS0_A8a6Z9_Gp65GGCX5aMeAld4VNetdCE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ulaanbaatar",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNH-ICy0Yx2JsLFI3uQ2KCjk9U8Aojszj1mzmA-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Choijin Lama Temple Museum",
+            "category": "Museum",
+            "url": "https://templemuseum.mn/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMJkIqjK2wk88cGguvbQtO2ei2epQwK7_xVfWao=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hustai National Park",
+            "category": "National park",
+            "url": "http://www.hustai.mn/wp/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOQDGSIySjyUO_Ek7lJsOnsx9N8PlQXfXNoWu1q=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gobi Desert",
+            "category": "Desert",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOGF6bg7O33oPc78PVcF-NGSAoUdANustSVmOpc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Amarbayasgalant Monastery",
+            "category": "Monastery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOxY0QR-yg8w2VmKt7XeoWImEP9cdyo1uabLeK-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Монголын Үндэсний Музей",
+            "category": "National museum",
+            "url": "http://www.nationalmuseum.mn/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPoeK5fBoOhxui7FmqeSlQXU73b2R-HU8kuyXYV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Altai Mountains",
+            "category": "Mountain range",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOv3OagyBJDd--6bGyl44s8d0LoUJ5-RnBhD-oH=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Fine Arts Zanabazar Museum",
+            "category": "Art museum",
+            "url": "http://www.zanabazarmuseum.mn/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPvucyWW7OPAOewcMbFzYcX1C9puZu89OP37XFA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Galleria Ulaanbaatar",
+            "category": "Shopping Centre",
+            "url": "https://www.facebook.com/GalleriaUlaanbaatar/?mibextid=ZbWKwL",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPvEGZGUbpE-QOSuL1hpuC2DapK2ub-AqY2ADJL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khuvsgul Lake",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMkdQ5v_MUT1SecbOzHpCXamO92TZm9aFdDjOQ9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Flaming Cliffs",
+            "category": "Cliff",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPOjU3d_uYBlXz_BHjOzKWMBa7gnL7W9yiLTxij=w148-h148-n-k-no"
+        }
+    ]
+}

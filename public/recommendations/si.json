@@ -1,0 +1,285 @@
+{
+    "cities": {
+        "Ljubljana": [
+            {
+                "title": "Dragon Bridge",
+                "category": "Bridge",
+                "url": "https://www.visitljubljana.com/sl/obiskovalci/aktivnosti/znamenitosti/zmajski-most/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGb47cIgbWvp0pytf-Spa0KhL8tsBqsTRhRhv9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tivoli Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHQnr2XhdR5IM4HKfcXKOUQRI7hRI7YTIwLjGO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ljubljana Castle",
+                "category": "Castle",
+                "url": "https://www.ljubljanskigrad.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIq5y_N2ppzknM4He5RkzRFqFSrsEvJf-s0eTJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prešernov trg",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNy0cX1iG5jOh_pjiyUHgeFQb-neJ6Y1Wk_DZPC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Nicholas's Cathedral",
+                "category": "Cathedral",
+                "url": "http://www.stolnica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8Vl4qfo-Avx2uo0wdf7JgX6z9KWviiMVAnZrE=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of illusions",
+                "category": "Tourist attraction",
+                "url": "https://houseofillusions.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRAncSRm5TNzMsj6FtRwsmcT9byzkVuHNNLfPN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ljubljana Zoo",
+                "category": "Zoo",
+                "url": "http://www.zoo.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4WityjOGgLarK0gVNLXMrXfVonj7Zvhig6M3g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kongresni Trg",
+                "category": "Tourist attraction",
+                "url": "https://www.visitljubljana.com/sl/obiskovalci/aktivnosti/znamenitosti/kongresni-trg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONqVv6u8oUXFexrwxnZou3G1Agh9VhIBd2Q-_b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0KQdsPDKXUbUAEkFTJKGz4nZJNWrJ5HX5fDTb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odprta Kuhna",
+                "category": "Food court",
+                "url": "https://www.odprtakuhna.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsOxojiBKOIuHemS8TawVvYJOt6eTDbQOElZw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "AKC Metelkova mesto",
+                "category": "Art Centre",
+                "url": "http://www.metelkovamesto.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJUIXD8Ir2_evwSXb6BTRYTQq0j5DxeHjhz_A_=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Gallery",
+                "category": "Art museum",
+                "url": "http://www.ng-slo.si/",
+                "img": "https://lh3.googleusercontent.com/proxy/ebHH7lfObye-w28ZFrnpCYhVtQDfeBwLIUp2RYFIJ_OmkKmm__TmM4GuaiHVMaSbFOn0-lSfhHpvWllam1Jz_fqfajWTORnKoiJmEugN5oraOtpCsybFBYEdYegylHWpZ4yP7PCwNDbzqvE0neEeax1SyMZzGQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narodni muzej Slovenije",
+                "category": "Heritage museum",
+                "url": "http://www.nms.si/",
+                "img": "https://lh6.googleusercontent.com/proxy/hJ2srcYxrJYYvuGZPJRH0VCNV30ue9EKVI6j_w2F8W_h9mND4TXou4tuIem-dRfGLgVoW-3vuaN-RJWFocvvrVhii03TPjbva1yRmRGkUmyULKnjEIfunXgFMpmtKdx_B3pQHXfO7dZ5fsTF7ViurDzsJ-5ltvY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mestni muzej Ljubljana",
+                "category": "Museum",
+                "url": "http://www.mgml.si/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ4S8tzMaSJdB0T_DmGOiiRhY2GQbqa4k43uk-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spomenik Francetu Prešernu",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYnbkfsIDAU4xqaCKzBwD6EYQeoA-T519__vnM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ljubljana Castle Funicular",
+                "category": "Castle",
+                "url": "http://www.ljubljanskigrad.si/en/castle-experiences/funicular-railway/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO0oA3acZJNHIXPOvibFj1eXbQ9TGWipU82L9u=w148-h148-n-k-no"
+            }
+        ],
+        "Maribor": [
+            {
+                "title": "Mariborsko Pohorje",
+                "category": "Ski resort",
+                "url": "https://www.visitpohorje.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxooRADtJg2ZZ6tg9BCe_-mBShx9KaKUhthDin=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping center Europark Maribor",
+                "category": "Shopping Centre",
+                "url": "http://www.europark.si/si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIhCYzF4iuz6Xjwim9uQgSg6svVthXHzfX7gQ5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stolna župnija Maribor",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCqA3TM-BypQBb28M8N8sfeNDeYEXkbcJF-5uk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pokrajinski muzej Maribor",
+                "category": "Museum",
+                "url": "https://museum-mb.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkxFEZJH_bZmNp_UFRgsdVdTkAta5IQKPggzg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vodni stolp - Water Tower",
+                "category": "Bar",
+                "url": "http://www.vinotekamaribor.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtgZ1fpH8X1-FtGE0tmiqfinyUAHJVyZKEdpXK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vinag 1847",
+                "category": "Winery",
+                "url": "https://www.vinag1847.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNADmMWJao3hz5ztZ4maSJYr6Zy8eKvOwBFkfEi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plague Column",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmLDzEKuu69N6CfTdVuVwI8HwvxgI0hWW7R5fe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stara trta, prodaja in degustacija vin, d.o.o.",
+                "category": "Vineyard",
+                "url": "https://www.staratrta.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyKeH3BLI5YoX6asgU-5JW0W8qI0YFLcqTNWY4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyramid",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCTIUQC2JIPorSZYQjM_Se3FFBRKqDztRzJkM-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Vine House",
+                "category": "Wine shop",
+                "url": "https://www.staratrta.si/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLjaOG5zj7LXoqCau4-LQhb0zC1anrRiYPo3Ie=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of National Liberation Maribor",
+                "category": "Museum",
+                "url": "http://mnom.si/sl-si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjlYKgYoVsbyNXvZpb5T9UOzN6cbORqK6nG0oE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maribor Castle",
+                "category": "Castle",
+                "url": "http://www.museum-mb.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaFqfS1j-uEvX4wN0gB3c981XJDh2rWqGeybzB=w148-h148-n-k-no"
+            },
+            {
+                "title": "VINOGRADI HORVAT - WINERY HORVAT",
+                "category": "Winery",
+                "url": "http://www.vino-horvat.eu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmiDrVUk3WxlwxuNETdZIedQ3xLV8XUWtgVZNp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ljudski Vrt Stadium",
+                "category": "Stadium",
+                "url": "http://www.nkmaribor.com/klub/stadion/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtLtPaBB3Tj8t2jZ36bfnq7Mm0CIqnfvAVcwfL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maribor Regional Museum",
+                "category": "Museum",
+                "url": "https://museum-mb.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMektXYgpokBFWgTKFBoMA-vLP5oATMeQ0l-Byq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hiša Stare trte",
+                "category": "Tourist attraction",
+                "url": "http://www.staratrta.si/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkI7JqaKUblskT5ooSBR6h2OyGjtiUSKMX3eUJ=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Postojna Cave",
+            "category": "Nature reserve",
+            "url": "https://www.postojnska-jama.eu/sl/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOsJnorLgrO0r79oJ2gkUEJXmbA_cD2CinjQTbU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ljubljana",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMkVThcDOTltaPfCydQYnX22MUKN1t1qcrzCR5y=w148-h148-n-k-no"
+        },
+        {
+            "title": "Soteska Vintgar",
+            "category": "Nature reserve",
+            "url": "http://www.vintgar.si/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO7BC0JJvhveVa4auUymi3z2-bvfkF8yrllzsgR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Triglav National Park",
+            "category": "Visitor centre",
+            "url": "https://www.tnp.si/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNwUZm1emMWdj4DkkrH0qN503zmWYa7nzAIiilt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Predjama Castle",
+            "category": "Castle",
+            "url": "https://www.postojnska-jama.eu/en/predjama-castle/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPPelBXWB7sK_bPP8Pr-rY5YCDyEHszuk2GBiFl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tivoli Park",
+            "category": "City park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPHQnr2XhdR5IM4HKfcXKOUQRI7hRI7YTIwLjGO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maribor",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNVT5f8gKaNV4_4NYS5eQ0_fmHPzdTefwhkPOoj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bled",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM6Lh_Sciy3aPu6DGh1e_oEASrB3zAyl7Lpp6Az=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ljubljana Castle",
+            "category": "Castle",
+            "url": "https://www.ljubljanskigrad.si/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOIq5y_N2ppzknM4He5RkzRFqFSrsEvJf-s0eTJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bled Castle",
+            "category": "Castle",
+            "url": "http://www.blejski-grad.si/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN7Q7R1dYxr9p4a1W11SVvESJQlftnPxhYso0X8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dragon Bridge",
+            "category": "Bridge",
+            "url": "https://www.visitljubljana.com/sl/obiskovalci/aktivnosti/znamenitosti/zmajski-most/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOGb47cIgbWvp0pytf-Spa0KhL8tsBqsTRhRhv9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Skocjan Caves",
+            "category": "Nature reserve",
+            "url": "http://www.park-skocjanske-jame.si/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMDjVFce35gNMronAgqlmA-5FkLPH3xK_rGSeTI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Prešernov trg",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNy0cX1iG5jOh_pjiyUHgeFQb-neJ6Y1Wk_DZPC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kongresni Trg",
+            "category": "Tourist attraction",
+            "url": "https://www.visitljubljana.com/sl/obiskovalci/aktivnosti/znamenitosti/kongresni-trg/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipONqVv6u8oUXFexrwxnZou3G1Agh9VhIBd2Q-_b=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tartinijev trg",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPD7DW2f_A3ypw33nqIFSbFKhQ-sDx6VPXF6n6d=w148-h148-n-k-no"
+        },
+        {
+            "title": "Waterfall Kozjak",
+            "category": "Tourist attraction",
+            "url": "http://www.dolina-soce.com/dolina_odkritij/naravne_znamenitosti/2012032815271731/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPE2BKsQYtw3ucu_kMiAUvTc4bAZXOyXzPypfh1=w148-h148-n-k-no"
+        }
+    ]
+}

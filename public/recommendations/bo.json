@@ -1,0 +1,1275 @@
+{
+    "cities": {
+        "Quillacollo": [
+            {
+                "title": "Tunari National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdP81E8HidxMC9icM4feJsQmF8VUXqIItwmmuV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corani Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf-xx-3RIrXqK9r3My-oJCbkH0sHZ8b1rCzvqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colon Square",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNijoWxTfb-iNr5MAdnJizaF8owdRTTPM3KFlQS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Mariscal Santa Cruz",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-eRKEtI87-q-5M-9GrX-3wsK6AO3wYcuEz83g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Saint Sebastian",
+                "category": "Catholic cathedral",
+                "url": "http://www.iglesiacbba.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKFMLxiP29MXt-dD4nh-TYACIhqY3fXbq-_4Oo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de la Compañía de Jesús",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1gxloVoROskXsa-TbG0tLLcLyKuvAnUlKmvPO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inkachaka",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCV3smZe4UwXmuIUp8pDToTO5c3fybUQO5tZZK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Portales",
+                "category": "Cultural centre",
+                "url": "https://patino.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFboZXK7nYK7_i_kvrJwGrPM1oRTLoTTrMOYmy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Convento Santa Teresa",
+                "category": "Heritage museum",
+                "url": "https://www.facebook.com/conventomuseosantateresacbba",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIpQuWruGGHNyWEtgQJ-yEwIQaQ1Xu7jJa5nPH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cristo de la Concordia",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeYZpIk3OMROa8Xto0GyiIfy7QVOegqEPz_lIi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Sudamericano Felix Capriles",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7GWEVD-SWTPACEtKDZKR9ijwGc8RRJD6_Em87=w148-h148-n-k-no"
+            },
+            {
+                "title": "September 14 Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYMlCFdbIp8C-e0NyYEvHLcDcvQLH4ZNtqhGXR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inkallaqta",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbfPAceNumxd3lbvWhmoOr20XbC6AR2966EsXe=w148-h148-n-k-no"
+            }
+        ],
+        "Montero": [
+            {
+                "title": "Parque Nacional Amboró",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMS0SBcQZe6Lf2pYee9qk68-lbYg8FZNMJTyyoG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Samaipata",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrbmBw7pmWUgrxwSa3Wnqu-b67IE1ltDeFJ_kY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Cruz de la Sierra Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS4vt-q3Mf3oey_jD-s9C2xVGIPoRYaH5riL1A=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Higuera",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5I-l_LTO3E0drxM9vA-oK-4oTBp5gfzhyAEuy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guembe",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkrMKcsDPTD-H2r1K662e3giy6h-95z5V1wZhD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral Metropolitana Basílica Menor de San Lorenzo de Santa Cruz",
+                "category": "Catholic cathedral",
+                "url": "https://web.facebook.com/LaCatedral.SantaCruzdelaSierra.Bolivia/?_rdc=1&_rdr",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1ZHln-bc3H62VJ7IjorGDl_yDlS7tN9_IObSB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Biocentro Guembe Mariposario",
+                "category": "Ecological park",
+                "url": "http://www.biocentroguembe.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLjk53Rr-YCYapm0_XyJNGWUGVo1wOuWJZF71K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lomas de Arena Regional Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9z8bi9R2nNT3j6zU6bF1_RfkGf1pA55wUn8FC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samaipata",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMLxCSD3hy7KUnR4jRiEJUWt4p49SiE_WfHKyF=w148-h148-n-k-no"
+            }
+        ],
+        "Colcapirhua": [
+            {
+                "title": "Laguna de la Angostura",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORn90KxQ8zwVf89tSaOauuQeMrf8Br_I2m_3vO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de la Compañía de Jesús",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1gxloVoROskXsa-TbG0tLLcLyKuvAnUlKmvPO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Arqueológico de la Universidad",
+                "category": "Museum",
+                "url": "https://museo.umss.edu.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLlguTWaW7XwC3HoLzgea5txKnT4L1Xsn42FGD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Torotoro",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNz2iYAMcrwPD77vXMDfOtaGgT8Na7z5vsrnXWY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Saint Sebastian",
+                "category": "Catholic cathedral",
+                "url": "http://www.iglesiacbba.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKFMLxiP29MXt-dD4nh-TYACIhqY3fXbq-_4Oo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inkachaka",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCV3smZe4UwXmuIUp8pDToTO5c3fybUQO5tZZK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Sudamericano Felix Capriles",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7GWEVD-SWTPACEtKDZKR9ijwGc8RRJD6_Em87=w148-h148-n-k-no"
+            },
+            {
+                "title": "Familia Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcpqzVXzJa_iA9qJtUOEky0upIWSe4m5xVBpeC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Carrasco",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN79wy2iuDlOXyr5yssB_kWj-DMnjCoogsxQwtC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tunari",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPu_USxpsdyzV7qaSR1tEHFuwVhvSaC91lU52EA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corani Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf-xx-3RIrXqK9r3My-oJCbkH0sHZ8b1rCzvqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Convento Santa Teresa",
+                "category": "Heritage museum",
+                "url": "https://www.facebook.com/conventomuseosantateresacbba",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIpQuWruGGHNyWEtgQJ-yEwIQaQ1Xu7jJa5nPH=w148-h148-n-k-no"
+            },
+            {
+                "title": "September 14 Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYMlCFdbIp8C-e0NyYEvHLcDcvQLH4ZNtqhGXR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Portales",
+                "category": "Cultural centre",
+                "url": "https://patino.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFboZXK7nYK7_i_kvrJwGrPM1oRTLoTTrMOYmy=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Angostura Lake",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDBS2Hwm8eOpgtAcknoy38idR7BGl4TmfSEKpU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cristo de la Concordia",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeYZpIk3OMROa8Xto0GyiIfy7QVOegqEPz_lIi=w148-h148-n-k-no"
+            }
+        ],
+        "La Paz": [
+            {
+                "title": "Valle de la Luna",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtx9Pr3_ZgKmYmerq5OA-Wgv9Ae5Zaknw3a-zW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of Saint Francis",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNy8WY248-YC8d6yrtEqocj2YL2E3ERWoRLuyQW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador Killi Killi",
+                "category": "Viewpoint",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM1OyZLIe0on2Pf4zBNIMSP6uqK4aYFz1r8yYk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Murillo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/proxy/fvTO_aUk17XK_Ubrql-5rIaxFG42i19h1vMiN8KQHDFFBYAlr-QrJwmFJNBf2WagGaJgKnfT1YBiUFvwyMDIgCZx0femYPjmQFqYJ05Z4xxhzrMks8hWZzQn8xihfuXfn2wSEaB8FhM35AX3q7yeUPHa4pqGWw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnography Museum",
+                "category": "National museum",
+                "url": "http://www.musef.org.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7pIC-FUQbIKruIK09R9TO1raJQ6E07Z7VMYgL=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Witches Market",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtwod6KYwCnd4bOOzTN_lfW5yvOPidtgg_lNz4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coca Museum",
+                "category": "Museum",
+                "url": "http://www.cocamuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpiceWe4IFJz6q6xZ92B--wBSj8PvKG3i_5qdJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valle De Las Animas",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdSxJ7ryOFH5wrrUtxHGJ9rMXezkx1ID9xvVW0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Urban Rush",
+                "category": "Tour operator",
+                "url": "https://www.urbanrushbolivia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtCH_v6UF563rbK6SiVwgBrjHOLzXqrfRHil9H=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Art Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHV2td10yMYPo9OkvkMfhMPz1_2Yc8KNHLNTsF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de Murillo",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQVeZ84-rCv7lDrEnyLfcKWeuavuEBE_A1kAgO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Bolivian Andean Textiles",
+                "category": "Museum",
+                "url": "http://www.museodetextiles.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkg4BeVkXDXZHNgVg_bGp0qQJwCp1XOq4k2riX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calle Sagarnaga",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHZoZCQie7AmZhCKNdFZGRQMRc6NEtLFYOhAEN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pre-Columbian Precious Metals Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaU0LnWzdVeN9K8hokcB37t4bZjgIuHPheOPf9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Costumbrista Juan de Vargas",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnfYedUBNadsyoxdqMU1aoG6rEZJTbvvv20ieF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hernando Siles Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw6FabNo0GdafUkCE3VE8nlaUqs7Z11WCu-Qs_=w148-h148-n-k-no"
+            }
+        ],
+        "Cochabamba": [
+            {
+                "title": "September 14 Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYMlCFdbIp8C-e0NyYEvHLcDcvQLH4ZNtqhGXR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cristo de la Concordia",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeYZpIk3OMROa8Xto0GyiIfy7QVOegqEPz_lIi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Familia Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcpqzVXzJa_iA9qJtUOEky0upIWSe4m5xVBpeC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Portales",
+                "category": "Cultural centre",
+                "url": "https://patino.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFboZXK7nYK7_i_kvrJwGrPM1oRTLoTTrMOYmy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colon Square",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNijoWxTfb-iNr5MAdnJizaF8owdRTTPM3KFlQS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Convento Santa Teresa",
+                "category": "Heritage museum",
+                "url": "https://www.facebook.com/conventomuseosantateresacbba",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIpQuWruGGHNyWEtgQJ-yEwIQaQ1Xu7jJa5nPH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Saint Sebastian",
+                "category": "Catholic cathedral",
+                "url": "http://www.iglesiacbba.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKFMLxiP29MXt-dD4nh-TYACIhqY3fXbq-_4Oo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de la Compañía de Jesús",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1gxloVoROskXsa-TbG0tLLcLyKuvAnUlKmvPO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Proyecto mARTadero",
+                "category": "Cultural centre",
+                "url": "https://martadero.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnhXG0ihp7v9DsNgMGMb2dQS2-unh9NqJW6mIm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia Santa Clara",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_mlELo9PNY6sr8v9aLl2Ax0BuRZOBHThTC0I6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natural History Museum \"Alcide d'Orbigny\"",
+                "category": "Natural history museum",
+                "url": "http://www.museodorbigny.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPThUKpM_bPsULWGbWYwarraCRewPTfXcU4_Vg1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Sudamericano Felix Capriles",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7GWEVD-SWTPACEtKDZKR9ijwGc8RRJD6_Em87=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna Alalay",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMB-5XFdX6sZll1IkASOWngcAQIJVIYNqbGFg6a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Arqueológico de la Universidad",
+                "category": "Museum",
+                "url": "https://museo.umss.edu.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLlguTWaW7XwC3HoLzgea5txKnT4L1Xsn42FGD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque de Aves Agroflori",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNngj26-DbSQZ70szTu5UbnSYlhjuf7ZC_zVnJK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Mariscal Santa Cruz",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-eRKEtI87-q-5M-9GrX-3wsK6AO3wYcuEz83g=w148-h148-n-k-no"
+            }
+        ],
+        "Sucre": [
+            {
+                "title": "Freedom House",
+                "category": "National museum",
+                "url": "https://www.casadelalibertad.org.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO68V5ClWnnOmJ6xeA3zO3m_Gc4NF8-3l06Tw3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simon Bolivar Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVA-kb7wOll_y6ZMCUyxfPu0weqRQl-78GQiSP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de San Felipe de Neri",
+                "category": "Catholic church",
+                "url": "http://www.soysucre.info/templo-de-san-felipe-neri/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIzkC6B1KY0VlZ5OTtMwyc1PKeMtPwaJYeJhEX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Cretácico",
+                "category": "National museum",
+                "url": "http://www.parquecretacicosucre.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNolv4-j8je6c-rp5e8QyyWjVveWEVVi0Py5qG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Treasure Museum",
+                "category": "Museum",
+                "url": "http://www.museotesoro.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgPRKXrjBL0QvtmyS7D5bgG64uhU8PAA7tjXOJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monasterio de La Recoleta",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND6zgUR0DLFUcatOKzeDAdLsKpOfb0cIrMEq8s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo del Convento de Santa Clara",
+                "category": "Museum",
+                "url": "http://www.soysucre.info/convento-y-monasterio-de-santa-clara/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQIBtg6opq-6eYym5BgQiCiwn2mrKqcDhIr2xK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saint Francis",
+                "category": "Museum",
+                "url": "http://www.soysucre.info/templo-de-san-francisco/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_ReDdVCfL83jtJ9Qt1lH67KGHt2RYbuwZK0IG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza 25 de Mayo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMjsA6IfqMNWnxyU2qWuXnoxF2lI3cOJS_7rs_=w148-h148-n-k-no"
+            },
+            {
+                "title": "General Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfInon39h6dmR16_eTVzbj4JA3Y9E_PMIxbdAU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral Basilica of Our Lady of Guadalupe",
+                "category": "Catholic cathedral",
+                "url": "http://www.soysucre.info/catedral-metropolitana/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5zjb_PJV-6dhQ-imeFkAhNg_pmTeIcICEI2yG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the Recoleta convent",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4oVkfYLb29bnoVMQ53Snl5CBhmgAAIMPnC5U9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Arte Indígena",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMudVjmFAkoVVZSNcW-M07mKeAVllmYAQeP6MvS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Glorieta Castle",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfUdEBjAH6wPGkzs9AUE9097z16bVL2bYw8Wxl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadium Patria",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3AbkKOZnyaypMdY0hc1UmRqw2zS9y0HameQr5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fuente del Bicentenario",
+                "category": "Fountain",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxDFlueGsqhkvFcRSB1U7egNks9dq4YOxmflpU=w148-h148-n-k-no"
+            }
+        ],
+        "Tiquipaya": [
+            {
+                "title": "Estadio Sudamericano Felix Capriles",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7GWEVD-SWTPACEtKDZKR9ijwGc8RRJD6_Em87=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Arqueológico de la Universidad",
+                "category": "Museum",
+                "url": "https://museo.umss.edu.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLlguTWaW7XwC3HoLzgea5txKnT4L1Xsn42FGD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Familia Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcpqzVXzJa_iA9qJtUOEky0upIWSe4m5xVBpeC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Convento Santa Teresa",
+                "category": "Heritage museum",
+                "url": "https://www.facebook.com/conventomuseosantateresacbba",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIpQuWruGGHNyWEtgQJ-yEwIQaQ1Xu7jJa5nPH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Portales",
+                "category": "Cultural centre",
+                "url": "https://patino.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFboZXK7nYK7_i_kvrJwGrPM1oRTLoTTrMOYmy=w148-h148-n-k-no"
+            },
+            {
+                "title": "September 14 Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYMlCFdbIp8C-e0NyYEvHLcDcvQLH4ZNtqhGXR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Carrasco",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN79wy2iuDlOXyr5yssB_kWj-DMnjCoogsxQwtC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cristo de la Concordia",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeYZpIk3OMROa8Xto0GyiIfy7QVOegqEPz_lIi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tunari",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPu_USxpsdyzV7qaSR1tEHFuwVhvSaC91lU52EA=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Angostura Lake",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDBS2Hwm8eOpgtAcknoy38idR7BGl4TmfSEKpU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corani Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf-xx-3RIrXqK9r3My-oJCbkH0sHZ8b1rCzvqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inkallaqta",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbfPAceNumxd3lbvWhmoOr20XbC6AR2966EsXe=w148-h148-n-k-no"
+            }
+        ],
+        "Oruro": [
+            {
+                "title": "Church of Saint Gerard",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-1dUBxZS_l3698HwOV8rrLCHOzw-UHnsyjLTs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento a la Virgen del Socavon",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt4yzm_VvLsWV6TZD1E5L4FseVG31hQTwBAREO=w148-h148-n-k-no"
+            },
+            {
+                "title": "infantil temático Villa Dolores Park",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNni5OM68O1OfYZiJDdOEu-tdEVOuPrqJhZLy_1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Main Square 10th Of February",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAtrcXiQVIjsMenXtObhl8ix7CtN3CZFw6P3m5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faro de Conchupata",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2UDxvBYDtIUr-9-EJQ4fVvPJI-X9WvcovYRs0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Jesús Bermudez",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv8MRUZ6WOLq01JzwGeC7oe9ofNXAiZa3TpCR2=w148-h148-n-k-no"
+            },
+            {
+                "title": "P'isko Ujyana Eco Park Oruro",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-HpoPljwZla71jreawvV7d0BVwGYAScmdSd7Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manuel de Castro y Padilla",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxq1tR6ssvCaAvkFPoM4BE7044lg6guQGgnKl2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Andean Railway Company S.A.",
+                "category": "Shipping service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuvdWa8xjygaaJpUUmTj5o30ck6t7GBbZ39EZH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Sebastian Pagador",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDtrY08j41CtD4m1NQ7Yr3OfIwvdvzGtmX7nn_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casco del Minero",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO115j7Vk5-FRj6jolQuEbclEpCX_BD03hV6jVU=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Union Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0dmh0Mh8zmu6KxC8h_zut-CsHw2UvIXaiylNB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza, Sucre, Oruro.",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOtWsKO8EBam6i2rdbDBIY_7UsTLgL5bWjQ-SA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sajama National Park and Natural Integrated Management Area",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMu-eMI2h58gry6BNsg52C2smlkIPRyuLXCwOe-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum Socavón",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoAScPa24beuqY3ETIp73nwLAKjV5FqNqRyute=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nevado Sajama",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxbg79rBXLD_NgZ0r_UCp9mfHAxtjTBoN6MW-F=w148-h148-n-k-no"
+            }
+        ],
+        "Potosí": [
+            {
+                "title": "Church of Saint Lawrence of Carangas",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMpknQAX-JGQxSvDtlo_644bWV_geNytNf1kpT=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Mint of Bolivia",
+                "category": "National museum",
+                "url": "http://www.casanacionaldemoneda.bo/",
+                "img": "https://lh6.googleusercontent.com/proxy/HjVrgyEn_2v1vsH-9RWzj_2gL61I3t-evXgSPVm6D2aSl974O_zMth9TmIZEWUy9qyCijaG40P2tnreYz15dNsX1QBzNeLdSvYIqAqkv71SUFCFhtPjNRuSOo_iU4MYA_UVvTPRy3TeOIeVkwD3FpTwmgBlEdmE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koala Tours Potosí Bolivia",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO76TXz5vidRF0RWPtVtoofVvQfP5TXge4cI_m6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Toro Toro National Park",
+                "category": "National park",
+                "url": "http://sernap.gob.bo/torotoro/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpzpYzuQxmScKKApSLXWeNLM2Wmzw2JJcs2CcG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Big Deal Tours",
+                "category": "Tours",
+                "url": "http://bigdealtours.blogspot.fr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPm-ICtNs2ceSIqLn08GYkXjwzgAE2AXK-1foA1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Theresa Museum",
+                "category": "Museum",
+                "url": "http://museosantateresa.blogspot.com/?m=1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrmNrlkepz7SssJLWVVhaut_hJw616crTfMBlk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral Basílica de Nuestra Señora de la Paz, Potosí",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmygTpRGBgLY-jB_JNh2NaVzFiUrmHJQXINg7g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza 10 de Noviembre",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYlmrqmTTeKxs9y4sAF0C62OqIJYQke8GzwtEA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uyuni Salt Flat",
+                "category": "Salt flat",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpVUM8hoUMvpKTtkQatovM_D5-p36mdRL-6_Rr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coliseo Ciudad de Potosí",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi4Ab4kix86VHHdf_aKoLTl8rKSnzYVnevg2IG=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Prado Potosino",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1hCXnIDZobRb4cf-245hFYiIjT_TxNQ-UVPCW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Los Pinos - Recreational Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOz2hbBze0E76I4EtHjauFnm0P5XhR5mD-nCwz2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Train Cemetery",
+                "category": "Open-Air Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPngmOzwGaTGtq9_0_R-bo3Z87kOIr3CBLR2hR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Rico",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNo2P-7sM97H7n6GHpy8EMESvwAFrDXSontl9Ht=w148-h148-n-k-no"
+            },
+            {
+                "title": "Potosí - Los Pinos",
+                "category": "Park and Garden",
+                "url": "http://www.senamhi.gob.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP3tz90vx-AcunjAqtJezDSDTifefIf8nctPnK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arco de Cobija",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCraZW29k3gsTbVcj5pXaexdYosAYjYvGOTMpH=w148-h148-n-k-no"
+            }
+        ],
+        "Riberalta": [],
+        "Sacaba": [
+            {
+                "title": "Colon Square",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNijoWxTfb-iNr5MAdnJizaF8owdRTTPM3KFlQS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Arqueológico de la Universidad",
+                "category": "Museum",
+                "url": "https://museo.umss.edu.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLlguTWaW7XwC3HoLzgea5txKnT4L1Xsn42FGD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Saint Sebastian",
+                "category": "Catholic cathedral",
+                "url": "http://www.iglesiacbba.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKFMLxiP29MXt-dD4nh-TYACIhqY3fXbq-_4Oo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de la Compañía de Jesús",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1gxloVoROskXsa-TbG0tLLcLyKuvAnUlKmvPO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inkachaka",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCV3smZe4UwXmuIUp8pDToTO5c3fybUQO5tZZK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Familia Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcpqzVXzJa_iA9qJtUOEky0upIWSe4m5xVBpeC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Sudamericano Felix Capriles",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7GWEVD-SWTPACEtKDZKR9ijwGc8RRJD6_Em87=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Carrasco",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN79wy2iuDlOXyr5yssB_kWj-DMnjCoogsxQwtC=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Angostura Lake",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDBS2Hwm8eOpgtAcknoy38idR7BGl4TmfSEKpU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corani Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf-xx-3RIrXqK9r3My-oJCbkH0sHZ8b1rCzvqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tunari",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPu_USxpsdyzV7qaSR1tEHFuwVhvSaC91lU52EA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Portales",
+                "category": "Cultural centre",
+                "url": "https://patino.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFboZXK7nYK7_i_kvrJwGrPM1oRTLoTTrMOYmy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Convento Santa Teresa",
+                "category": "Heritage museum",
+                "url": "https://www.facebook.com/conventomuseosantateresacbba",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIpQuWruGGHNyWEtgQJ-yEwIQaQ1Xu7jJa5nPH=w148-h148-n-k-no"
+            },
+            {
+                "title": "September 14 Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYMlCFdbIp8C-e0NyYEvHLcDcvQLH4ZNtqhGXR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cristo de la Concordia",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeYZpIk3OMROa8Xto0GyiIfy7QVOegqEPz_lIi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inkallaqta",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbfPAceNumxd3lbvWhmoOr20XbC6AR2966EsXe=w148-h148-n-k-no"
+            }
+        ],
+        "Viacha": [
+            {
+                "title": "Urban Rush",
+                "category": "Tour operator",
+                "url": "https://www.urbanrushbolivia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtCH_v6UF563rbK6SiVwgBrjHOLzXqrfRHil9H=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Art Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHV2td10yMYPo9OkvkMfhMPz1_2Yc8KNHLNTsF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coroico",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN86F-fPQuteSHS-VJaKMU1rbWc70zCGLInVlts=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sorata",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPef1aGNMKiknE1F59q2kAdTL9tEp8SLI-74fCw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of Saint Francis",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNy8WY248-YC8d6yrtEqocj2YL2E3ERWoRLuyQW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Copacabana",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMxiDOEHpZa_j8j2Swz5BYlqxQP8lfJS13ojhe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oruro",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPy8eDXjmhSLOyeg_TgmQ9k5KqLJ6VoT14P8M1-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calle Sagarnaga",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHZoZCQie7AmZhCKNdFZGRQMRc6NEtLFYOhAEN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador Killi Killi",
+                "category": "Viewpoint",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM1OyZLIe0on2Pf4zBNIMSP6uqK4aYFz1r8yYk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Murillo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/proxy/fvTO_aUk17XK_Ubrql-5rIaxFG42i19h1vMiN8KQHDFFBYAlr-QrJwmFJNBf2WagGaJgKnfT1YBiUFvwyMDIgCZx0femYPjmQFqYJ05Z4xxhzrMks8hWZzQn8xihfuXfn2wSEaB8FhM35AX3q7yeUPHa4pqGWw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sajama National Park and Natural Integrated Management Area",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMu-eMI2h58gry6BNsg52C2smlkIPRyuLXCwOe-=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Witches Market",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtwod6KYwCnd4bOOzTN_lfW5yvOPidtgg_lNz4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Isla del Sol",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0NoGdRD2QDht0tksuN6QuyGhj6goZurubXe9i=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Paz",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsU0AeJcDWlS71LKCNf9IhlC9KIvwEDxFHdFLR=w148-h148-n-k-no"
+            },
+            {
+                "title": "North Yungas Road",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiPvYink_SnDq7CRhUTKgUQYRhxR0OqLn3PwFt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tiwanaku",
+                "category": "Ruin",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOByrPq0Q3k6CC61C7Lp6rdu1UasfhdV2BTpovt=w148-h148-n-k-no"
+            }
+        ],
+        "Yacuiba": [
+            {
+                "title": "Rotonda Los Libertadores",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFu7yLmDUAG9fwXkFzwEqzga9X6rz5b31FGJ8U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza 12 de Agosto",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTzGeRB6DY9VY4YZXGxVukBt57Bp5aKE0Yatiy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Provincial estadium Yacuiba",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNgKdBrwxxcHY04NzDYspRoqMC4n-UqiPnGV9S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karaoke - Disco \"Melody\"",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_1sE3Lq4qL_vJTrcos5fa6yReRRj2rHIzHu4c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque vial",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw12NKE0U4o4Muy89LBGqQl7Wu-G35kHF67jnw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plazuela San José Obrero",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOA3nHIyZwmPD4pQhH4GYi2PDqXON_S4ppuZcsT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza \"El Porvenir\"",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwIoOuEc5CChqQ_pvEyhXUdeMq980nQGwFBOT8=w148-h148-n-k-no"
+            },
+            {
+                "title": "GAMY - Pocitos Pedestrian Walkway",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhAhoW1SSeFSgZfqj9czACK7rtTyz6CNXqbP3B=w148-h148-n-k-no"
+            }
+        ],
+        "Trinidad": [
+            {
+                "title": "Queen's Park Savannah",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMo0NN7vyT-OdGiML3wN3uROH2rK388fSfqp82r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort King George",
+                "category": "Historical landmark",
+                "url": "http://nationaltrust.tt/location/fort-king-george-tobago/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9OHHtu4jx4t7wCAr4Qs3SaZ29qOpQAXvXCsAs=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Brea Pitch Lake",
+                "category": "Tourist attraction",
+                "url": "http://en.wikipedia.org/wiki/Pitch_Lake",
+                "img": "https://lh6.googleusercontent.com/proxy/ms7j952t799RmimVw05Z4P9On7_WV0z2yhL7sHmO5QWz7Gf-M7ywhiAg1uYICox5upv6vYMF5J4Fb8vaXCimYdpTdkg_aRLyE-CrDjzEplR53aORB33NKCh1CgdT-eO1CX7gKRpc8y21aLxX1XoznCq-msFfIQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Caroni Bird Sanctuary",
+                "category": "National park",
+                "url": "http://www.caronibirdsanctuary.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvk2-qAhOZxlkxCHsKHzJzIKxjuPWhT6kNfw-t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Argyle Falls",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_zM0p8dZ8NkEQye0wpY78aBm9TRNFyU22mQjO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emperor Valley Zoo",
+                "category": "Zoo",
+                "url": "https://www.facebook.com/EmperorValleyZoo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPI3EHA-vvDG9sHXPgAPN6jGOKj8AzRrMJW9I8u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pointe-a-Pierre Wildfowl Trust",
+                "category": "Environmental Protection Organization",
+                "url": "http://www.papwildfowltrust.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOg6ItPE5a5WJ2ggCE1PUMqdGIERmrlt7qoJ4aD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort George",
+                "category": "Historical place museum",
+                "url": "https://nationaltrust.tt/location/fort-george/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAC26MAi9MnkQLV4nThL_jlBW2nX13lQVlN0TN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Port of Spain",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEV73w_Zt2XybDeHe8-8xvpdLSow3vIFyn1DE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yerettê - Home of the Hummingbird",
+                "category": "Bird watching area",
+                "url": "http://www.yerettett.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNip-lVvwywvpUqp51blBhlne2qoJb3Z1zi8uY=w148-h148-n-k-no"
+            },
+            {
+                "title": "HADCO Experiences at Asa Wright Nature Centre",
+                "category": "Lodge",
+                "url": "https://hadcoexperiences.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/YK01aoP7r6lVutxn0M4sSLb8uaBdvbyMOgfTHyPlp-IIzL9zYaBV3AzE7ECkIx4b-7JUSaEqPPTr5Vsds3ONgVUqofFZ69M__6aafQpIe0d1iMw3r6TFR3ZtOSogwQ2vgfcq34q-Z7vlHxpRiQgn_FiZxOy-7A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maracas Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQ3zSBneb3Rk53XyGdIHSwmVVJlpm0TPSeuDzA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stollmeyer’s Castle Killarney",
+                "category": "Heritage Building",
+                "url": "http://nationaltrust.tt/location/stollmeyers-castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHbdCFB5080zQUEmxwScz7tVFX2aI7qTwu8fnv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Englishmans Bay",
+                "category": "Bay",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy7_kjfxPRZKWyl1nO0qwwN2TFaM-1JvWHpdGV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corbin Local Wildlife",
+                "category": "Nature reserve",
+                "url": "http://www.tobagowildlife.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNns4MNls6Nw33hB_ZU19pAwKFRvIK74gyu6RLO=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum & Art Gallery",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgGWwcmZtfO2NyqP0qQu54kyLuVYoEWvf_rs0o=w148-h148-n-k-no"
+            }
+        ],
+        "Vinto": [],
+        "Tarija": [
+            {
+                "title": "Main Plaza Tarija",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgEX4Q72bbELm7W6n4d6u24Ia6f_1_qeF8xEDq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Bolívar",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNtjpBQZRO2cO8MyQxg1vgNQOHxigloqVbl3IE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Dorada",
+                "category": "National museum",
+                "url": "http://casadelaculturatarija.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIoL0MoAtuOh7GmdZqBEyr8dn1kHrl9wNJ5Onh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia San Roque Tarija",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqbKs4k4_taSx8u4Nct9zWSnNIPOHAgnWm677W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tobogán Oscar Zamora Park",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6JKVO80TEelBuOQnn6R5HFCcXKW0wJemu_O3h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sur Bike",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODTGj7Xbnh_ldlZ04D_bHWkZBnmzYKNsZ_YNsX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nacional Paleontológico Arqueológico",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2u3_r4WiPlslFCh-CR3dT3cHXdxn1oNSthb0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Piscina Panlong Park Tarija",
+                "category": "Indoor swimming pool",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1AAkqmgMM0TeiC1_hrkLkGAcBHg1gbA7P4puL=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Museo De San Roque De Tarija",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsXR_4qCatcPg58BuWu4DgF7H0Q-FEBOPMSsOD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sucre Plaza",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBPeeneY8EM3ru9FYglgzL-VXgHOqIIAZ89ITF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Saint Bernard of Tarija",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgbJMT7e0a35tm-1hQg8zS8A0HY97w5GSIhV3O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Vinícola El Potro",
+                "category": "Winery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPBO95lMkjRzR6oQQJ9JWY9MkRA-lNFyIFpuZm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza 12 de Agosto",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTzGeRB6DY9VY4YZXGxVukBt57Bp5aKE0Yatiy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador de los Suenos",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxZ3ht6q_0Fhvlh_I_E9VoJ_xF97xFbadwZ_GF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bodega Aranjuez",
+                "category": "Wine shop",
+                "url": "https://www.vinosaranjuez.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlI50DeWUDP580ORh1IGXdFe8tQau_cwZET2WG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque La Costanera",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7AKjuf9G4Ui_rPJO4BPh3jyXdoRlMwEZvf4s=w148-h148-n-k-no"
+            }
+        ],
+        "Santa Cruz de la Sierra": [
+            {
+                "title": "Ventura Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.venturamall.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSwT9pet8H4jv-AS18sH3pZoXaro9hd25oEESt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ the Redeemer Monument",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJbcNt6NoriZoV63RMGiVxFCcH-b-85w9EyfxW=w148-h148-n-k-no"
+            },
+            {
+                "title": "September 24 Square",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO53PMuHeR25noUhUARSEdbGUlgYQ7caQRMs_at=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manzana Uno Espacio de Arte",
+                "category": "Art gallery",
+                "url": "http://www.manzanauno.org.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP09UH-a5by5iDc-3AqZw-6Cn7iU7j5Lzrb6NEx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral Metropolitana Basílica Menor de San Lorenzo de Santa Cruz",
+                "category": "Catholic cathedral",
+                "url": "https://web.facebook.com/LaCatedral.SantaCruzdelaSierra.Bolivia/?_rdc=1&_rdr",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1ZHln-bc3H62VJ7IjorGDl_yDlS7tN9_IObSB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Cruz de la Sierra Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS4vt-q3Mf3oey_jD-s9C2xVGIPoRYaH5riL1A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Cruz Municipal Zoo",
+                "category": "Zoo",
+                "url": "https://www.facebook.com/ZooMunicipal/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqgRf8zDJilXfqvFdHXDyVERrYzcYDyHYSnusn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Ramon Tahuichi",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2X-0fPUryaHGAzYt6dL4veg2Ik66QiL7ldrjY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Noel Kempff Mercado Natural History Museum",
+                "category": "Natural history museum",
+                "url": "http://museonoelkempff.org/museo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZPLSBtpOJJQ8dHd5ig34nJGN-VkYC0pjcWGcY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Biocentro Guembe Mariposario",
+                "category": "Ecological park",
+                "url": "http://www.biocentroguembe.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLjk53Rr-YCYapm0_XyJNGWUGVo1wOuWJZF71K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Melchor Pinto House Cultural Center",
+                "category": "Museum",
+                "url": "https://casamelchorpinto.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg-D1AUFNLOL8gwepE-F2iwMDVg5DxFb9fSGMI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guembe",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkrMKcsDPTD-H2r1K662e3giy6h-95z5V1wZhD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Urbano",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxJe6RUXdCatoqvQmIBFR70Yfv9ntNBobS5DW2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lomas de Arena Regional Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9z8bi9R2nNT3j6zU6bF1_RfkGf1pA55wUn8FC=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Rinconada Ecoparque y Restaurante",
+                "category": "Ecological park",
+                "url": "http://www.larinconada.com.bo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOa23KuwSpUhF8SrjuXCQFriPgerUYzlOHw_1tK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Amboró",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMS0SBcQZe6Lf2pYee9qk68-lbYg8FZNMJTyyoG=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Biocentro Guembe Mariposario",
+            "category": "Ecological park",
+            "url": "http://www.biocentroguembe.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPLjk53Rr-YCYapm0_XyJNGWUGVo1wOuWJZF71K=w148-h148-n-k-no"
+        },
+        {
+            "title": "Freedom House",
+            "category": "National museum",
+            "url": "https://www.casadelalibertad.org.bo/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPO68V5ClWnnOmJ6xeA3zO3m_Gc4NF8-3l06Tw3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional Amboró",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMS0SBcQZe6Lf2pYee9qk68-lbYg8FZNMJTyyoG=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Mint of Bolivia",
+            "category": "National museum",
+            "url": "http://www.casanacionaldemoneda.bo/",
+            "img": "https://lh6.googleusercontent.com/proxy/HjVrgyEn_2v1vsH-9RWzj_2gL61I3t-evXgSPVm6D2aSl974O_zMth9TmIZEWUy9qyCijaG40P2tnreYz15dNsX1QBzNeLdSvYIqAqkv71SUFCFhtPjNRuSOo_iU4MYA_UVvTPRy3TeOIeVkwD3FpTwmgBlEdmE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Iglesia de San Felipe de Neri",
+            "category": "Catholic church",
+            "url": "http://www.soysucre.info/templo-de-san-felipe-neri/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPIzkC6B1KY0VlZ5OTtMwyc1PKeMtPwaJYeJhEX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Monumento a la Virgen del Socavon",
+            "category": "Monument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMt4yzm_VvLsWV6TZD1E5L4FseVG31hQTwBAREO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Cretácico",
+            "category": "National museum",
+            "url": "http://www.parquecretacicosucre.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPNolv4-j8je6c-rp5e8QyyWjVveWEVVi0Py5qG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Uyuni Salt Flat",
+            "category": "Salt flat",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMpVUM8hoUMvpKTtkQatovM_D5-p36mdRL-6_Rr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional Madidi",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPWr5ThQR55BPS5bhWn5eq-VwdrzDVcJTKQgLcw=w148-h148-n-k-no"
+        },
+        {
+            "title": "La Paz",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMsU0AeJcDWlS71LKCNf9IhlC9KIvwEDxFHdFLR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sun Gate",
+            "category": "Archaeological site",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMWJCXb_7JGHppG9mAiMKwOzLhR-yI3QuEAq_Ul=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ethnography Museum",
+            "category": "National museum",
+            "url": "http://www.musef.org.bo/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO7pIC-FUQbIKruIK09R9TO1raJQ6E07Z7VMYgL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Valle de la Luna",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNtx9Pr3_ZgKmYmerq5OA-Wgv9Ae5Zaknw3a-zW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gustu",
+            "category": "South American restaurant",
+            "url": "http://www.gustu.bo/home/gustu",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPxPiFOmyqiExhcC1PMci4q7H4HP358xxF4_CtS=w148-h148-n-k-no"
+        },
+        {
+            "title": "Reserva Nacional de Fauna Andina Eduardo Avaroa.",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOWBHtzsNIabLFT0nCHd7NaRgpxzeVMuQMeaGxx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Toro Toro National Park",
+            "category": "National park",
+            "url": "http://sernap.gob.bo/torotoro/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPpzpYzuQxmScKKApSLXWeNLM2Wmzw2JJcs2CcG=w148-h148-n-k-no"
+        }
+    ]
+}

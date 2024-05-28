@@ -1,0 +1,830 @@
+{
+    "cities": {
+        "Ar Rumaythīyah": [],
+        "Ḩawallī": [
+            {
+                "title": "Bait Al Othman Museum",
+                "category": "Museum",
+                "url": "https://www.nccal.gov.kw/pages/monumentsandmuseums/%D9%85%D8%AA%D8%AD%D9%81-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgjU79fkPszdh9CR05_SI-oJgsHEFj4NGqjwRW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hawally Park",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgcNpjQn9jEAIk0il-4fnOGMrOR0rzuAGKw0Zg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Othman Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7aDDmUgWRmi-D1maz1vBFvFKKOoetvn-jvIfe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bayan Palace",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5cpg9JYRdIJfjjwB3JCIcRE6B9x0nz25ZTBu5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beirut Street",
+                "category": "Highway 2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdvEJuhL0tMJvQJbGF2a9WqNEFaLy7Nmi-H59V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tunisia Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPY8tFpnIGw4rR0ylNHGg2TSeZdbgw71fXIf-2U=w148-h148-n-k-no"
+            },
+            {
+                "title": "eMall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMC-rwKUMrEDXpIHCiXFsQ07FrH3dmPB1DHvuyX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinescape Muhallab",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP03IWpUjxBjGiUnNZFaNg31wXKBBskMoOo6O54=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beirut Complex مجمع بيروت",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY7boxmnOH4s6tqgbw6c0SV8usbDJyoAcydJIp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Bahar Center",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZuoVOP1FPZxM30wQOZtYzcke-8hrgJNwfiqV0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Abdullah Al Salem Cultural Centre",
+                "category": "Cultural centre",
+                "url": "http://www.ascckw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOswiNUk1PNx7cjnhRx7wdg7GLc7aNJkBBLIx4X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blajat",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMArpzvLVUgKJCIRufmW17T3cZhOOQcFimxwQtD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Zahem Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEree5edFdlSjMCXjFlguvZT08s6nvaryzgrQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Promenade Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.thepromenadekw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZhkDVa0yPvbzhCzZM4db54RqphQfPUQUlU5bt=w148-h148-n-k-no"
+            },
+            {
+                "title": "AlSalam Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKokjHgNpE3Erg5jR8sVNTRW8esJLN4Gbzk2PU=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Cube Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqCWTF-nFjhAhBgLCZ-CvCQ_FcBpTbZpfvnUfx=w148-h148-n-k-no"
+            }
+        ],
+        "Kuwait City": [
+            {
+                "title": "Kuwait Towers",
+                "category": "Tourist attraction",
+                "url": "http://tec.com.kw/",
+                "img": "https://lh6.googleusercontent.com/proxy/5QOLAKcmf8L3G2rgVXpJg7bit7NEqVdS-Hgfc39jeljY9QpVdEuOWa8fLnFXVTxW8_xZqQEK8CCRI0u6xYNr5odg1Ap1V4AT_e_qb6eAC5qORC6l_g3bH9_F0uusoySItN_A7QMdphbzY5nxxzMcB3Sd76yo-A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shaheed Park",
+                "category": "Park and Garden",
+                "url": "http://alshaheedpark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRhXMmMCyvU4emv3CGndp3VDC39z2SJFYrcov3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mubarakiya",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwwO5zsyZdur-IE0gda-v9Ems2558fsyMz1_Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Mosque of Kuwait",
+                "category": "Mosque",
+                "url": "https://eservices.awqaf.gov.kw/MinistryServicesGate/index",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO63O3H98QrkK0YqgSSQZOPDVGYmytAL-nd6Ae=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Jaber Al-Ahmad Cultural Centre",
+                "category": "Cultural centre",
+                "url": "https://www.jacc-kw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzaFq2WPwoWS1lQo0_3aafMeXCcLcg0LFo7vNz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souk Sharq",
+                "category": "Shopping Centre",
+                "url": "http://www.souksharq.com/Ar/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOObe5m4ukqkD_1ws82ckwQdt-xo7yalZeTKFd-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liberation Tower",
+                "category": "Government office",
+                "url": "http://www.liberationtower.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO1FgSQVynUXy5-UQ_oaI5_Ii5P-YcOv9--MX9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safat Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXKGQ3IBg1ymdP9EWs9BVgbPpp-Hk0qMp3waMb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuwait National Museum",
+                "category": "National museum",
+                "url": "http://kuwaitnationalmuseum.weebly.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkRuymQ2g6hZOATt2I0oupLYr5EWovPCeeGX_-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sadu House",
+                "category": "Museum",
+                "url": "https://alsadu.org.kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_hfCM3NkQDKezi_oUaI-EfQLh9inP6eue3OHk=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Avenues Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.the-avenues.com/kuwait/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO45LLsvikjuSF4h-idO5AIRNwlDDufW2yRtaDK=w148-h148-n-k-no"
+            },
+            {
+                "title": "360 Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.360mall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfrAA8hhL72ap52PVIn9Q7VX5Bh9s0KDQRJNC3=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Scientific Center",
+                "category": "Science museum",
+                "url": "https://www.tsck.org.kw/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhQ_sUJlLHvy6VRXKl2nrW-GWjbJMRYmGkB3g9=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Amricani Cultural Centre - Dar al-Athar al-Islamiyah",
+                "category": "Cultural centre",
+                "url": "https://darmuseum.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQsAL77rTNFKrKmw5EIN-2OsxLdyqZMtDU-c6w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.marinaworld.com.kw/store-directory",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMpqyLo_zacj6lToPRciwnEFLNk3yH_MGmP523=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shaab Gate - Dirwazat Alburay’asy",
+                "category": "Historical landmark",
+                "url": "https://www.nccal.gov.kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP2aLP0evVziNnxeAKvMNcCzIbgIUnHZqK6so7=w148-h148-n-k-no"
+            }
+        ],
+        "Al Faḩāḩīl": [
+            {
+                "title": "Lulu Hypermarket",
+                "category": "Hypermarket",
+                "url": "https://www.luluhypermarket.com/en-kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqDsP1CeHIGY7ychlnWyWu2jwVIy4ZRBwzbg06=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fahaheel Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOu2nAXQ1g93YmB-GTwiP4eLVYDrPDyDN_GnBIS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mubarakiya",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwwO5zsyZdur-IE0gda-v9Ems2558fsyMz1_Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mindmaze Kuwait",
+                "category": "Escape room centre",
+                "url": "http://www.mindmaze-kw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk5D-fLHcjzXqcBxv0CjlxF6oSh8oJMEbmA0Ox=w148-h148-n-k-no"
+            },
+            {
+                "title": "Egailah Public Beach Park",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkAivu5B-MEl4jlITBDoElJYZCPu1G8rjSONor=w148-h148-n-k-no"
+            },
+            {
+                "title": "Egaila Beach Club",
+                "category": "Park and Garden",
+                "url": "http://www.kuwaittourism.com/ar/OqialahBeach.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8DmcjfUNis6-FfAVewcHmPtfeLTI1-HmwuagP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Kout Beach Hotel",
+                "category": "Hotel",
+                "url": "http://www.alkoutbeachhotel.com/",
+                "img": "https://lh4.googleusercontent.com/proxy/VxnFKQFdhoPRpM-OkhmUX6_qNJDJz00yOeqqkEUUR3QM2-Y6j9n1btSV-22_dYROig4VaI7sY63jjAKoxOAx0v73A6o1-umIXkksv1KIPNi1eTuAelUO0oZvjTidTUu7R1HqfdKp9Q-G72kzwpoiKflG4JMUGgg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shaheed Park",
+                "category": "Park and Garden",
+                "url": "http://alshaheedpark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRhXMmMCyvU4emv3CGndp3VDC39z2SJFYrcov3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuwait Towers",
+                "category": "Tourist attraction",
+                "url": "http://tec.com.kw/",
+                "img": "https://lh6.googleusercontent.com/proxy/5QOLAKcmf8L3G2rgVXpJg7bit7NEqVdS-Hgfc39jeljY9QpVdEuOWa8fLnFXVTxW8_xZqQEK8CCRI0u6xYNr5odg1Ap1V4AT_e_qb6eAC5qORC6l_g3bH9_F0uusoySItN_A7QMdphbzY5nxxzMcB3Sd76yo-A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Abdullah Al Salem Cultural Centre",
+                "category": "Cultural centre",
+                "url": "http://www.ascckw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOswiNUk1PNx7cjnhRx7wdg7GLc7aNJkBBLIx4X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Mosque of Kuwait",
+                "category": "Mosque",
+                "url": "https://eservices.awqaf.gov.kw/MinistryServicesGate/index",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO63O3H98QrkK0YqgSSQZOPDVGYmytAL-nd6Ae=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Qurain Martyrs Museum",
+                "category": "War museum",
+                "url": "http://www.nccal.gov.kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHd9EItAf6XiQ85pWjQzXbpyQsUT83nDAkE_jP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ahmadi Park",
+                "category": "Park and Garden",
+                "url": "http://www.kockw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtgBYghjxzdjq1LYps2iKgLNTlDQULqunMN86S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuwait National Museum",
+                "category": "National museum",
+                "url": "http://kuwaitnationalmuseum.weebly.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkRuymQ2g6hZOATt2I0oupLYr5EWovPCeeGX_-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fintas Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbVdrKC1LE7wz1Ikg3567T4MhLVaTH1Mzmj-uf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuwait Magic Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6xeK5Ra6WTW657h_ynnpTGhExH-LQnIqr1Y5-=w148-h148-n-k-no"
+            }
+        ],
+        "Al Aḩmadī": [
+            {
+                "title": "Kuwait Towers",
+                "category": "Tourist attraction",
+                "img": "https://lh6.googleusercontent.com/proxy/5QOLAKcmf8L3G2rgVXpJg7bit7NEqVdS-Hgfc39jeljY9QpVdEuOWa8fLnFXVTxW8_xZqQEK8CCRI0u6xYNr5odg1Ap1V4AT_e_qb6eAC5qORC6l_g3bH9_F0uusoySItN_A7QMdphbzY5nxxzMcB3Sd76yo-A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shaheed Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRhXMmMCyvU4emv3CGndp3VDC39z2SJFYrcov3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mubarakiya",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOql47TYUFQLWXXX02Bv5pxa7hQHln5_mL_VeEc=w148-h148-n-k-no"
+            },
+            {
+                "title": "ملعب الهيئة - المنقف Government Football Field",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnXh8QAkR6kR0OEFFS_98GORC9ezhTnVGSrdgd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Sahel Sports Club",
+                "category": "Sports club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPkDmJQbIWjyqsBY4T4KJ0w-JJYMZN34xvwuKN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Egailah Public Beach Park",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkAivu5B-MEl4jlITBDoElJYZCPu1G8rjSONor=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Mosque of Kuwait",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO63O3H98QrkK0YqgSSQZOPDVGYmytAL-nd6Ae=w148-h148-n-k-no"
+            },
+            {
+                "title": "KOC Ahmed Al Jaber Oil & Gas Exhibition",
+                "category": "Exhibit",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNd5AUG3pEb6s58iK0AB2fo9s_wtOyAZ5fk95Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fintas Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbVdrKC1LE7wz1Ikg3567T4MhLVaTH1Mzmj-uf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Egaila Beach Club",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8DmcjfUNis6-FfAVewcHmPtfeLTI1-HmwuagP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fintas Beach",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbxhrGrksr__2h4pckj4qOfYhA4zQZWDRIkbE2=w148-h148-n-k-no"
+            },
+            {
+                "title": "DAR SHAIKHA",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAonZzOTWbnR-vpsTQurAU73ZGfn4ivG3NmVdy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mahboula Public Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvnGT74yc_XHSvVvVyXb1dloat-RC8DpQkjVRS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dalal mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTxQM8_ROqpEcCzdWkv3fbQpEJXTmo-BhVoRwX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Liwan Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipProYpMnGEv2t9YWjAO3Fqt34SVVJkl9aNJdsNL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuwait Magic Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6xeK5Ra6WTW657h_ynnpTGhExH-LQnIqr1Y5-=w148-h148-n-k-no"
+            }
+        ],
+        "As Sālimīyah": [
+            {
+                "title": "The Scientific Center",
+                "category": "Science museum",
+                "url": "https://www.tsck.org.kw/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhQ_sUJlLHvy6VRXKl2nrW-GWjbJMRYmGkB3g9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.marinaworld.com.kw/store-directory",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMpqyLo_zacj6lToPRciwnEFLNk3yH_MGmP523=w148-h148-n-k-no"
+            },
+            {
+                "title": "Winter Wonderland",
+                "category": "Amusement park",
+                "url": "https://winterland.kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMuKNRrOZLXZR2IAwaolcI0j27uXQQeNntYy-Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dream Factory",
+                "category": "Escape room centre",
+                "url": "https://dreamfactorykwt.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWFy4wwZkL00QtMGGzNssmjXVtGlswj6Cbg_qE=w148-h148-n-k-no"
+            },
+            {
+                "title": "VENUE 56",
+                "category": "Amusement Centre",
+                "url": "https://www.venue-56.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJzTEMmbcnKdRqCPIXEWpi5dhVJbKooFuNCwzB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Future Kid - Salmiya - City Center",
+                "category": "Game Shop",
+                "url": "https://www.futurekid.com.kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNezCWhUzxqAlZP6cnM6OwOIB0dK6IRmsLh_xvM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pokiddo Play Park Kuwait",
+                "category": "Indoor playground",
+                "url": "http://pokiddokw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJvxOZvUzxf602hR8K5dOWtQt_ba-eW3iDhaqO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vendome Amusement - Layla Gallery",
+                "category": "Internet cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6Up7ZhxPRJm_IE5bF7gwLCM_3V6OoeoeXuCs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sky Cinema",
+                "category": "Cinema",
+                "url": "http://www.skycinemaskw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRO6WBomFHh8FznGXmASvc8L6Gvl1IWZUivI3W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgGkRLt6LmpLUSUHNCSNPD0xEcyWnqjtBdrpm5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPTXFK5SZIWLh4BYJbzMD0ebieZAuCig_uPajA=w148-h148-n-k-no"
+            },
+            {
+                "title": "#Teamescape kuwait",
+                "category": "Escape room centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-Tg7cRi9trICVOhehk_GDxP4k8NA-r4QaArIZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tareq Rajab Museum of Islamic Calligraphy",
+                "category": "Museum",
+                "url": "https://trmkt.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6DoipYi8UrEOdQYVuEKuZg-8RQU2AZz5sMIJH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Salmiya Catholic Church",
+                "category": "Catholic church",
+                "url": "https://salmiyachurch.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOga2k0Fs7QRe0elAAD_fa3uWLnUTpl5TNjEetR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Jaber Al-Ahmad Cultural Centre",
+                "category": "Cultural centre",
+                "url": "https://www.jacc-kw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzaFq2WPwoWS1lQo0_3aafMeXCcLcg0LFo7vNz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirror House",
+                "category": "Art museum",
+                "url": "http://www.mirrorhouseq8.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPc1--keiVAJ_1RdvBSYeKRSZxFnE62262CwnYd=w148-h148-n-k-no"
+            }
+        ],
+        "Al Farwānīyah": [
+            {
+                "title": "Cinescape",
+                "category": "Cinema",
+                "url": "https://www.cinescape.com.kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOq64ExjIpFQLlX0prPnBGITuNIKw4Np_VUGyRN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tadamon Club Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNEEdB8jEQhYE3NXMiUIk7wDKdlMYGlngc4B8O=w148-h148-n-k-no"
+            },
+            {
+                "title": "VOX Cinemas",
+                "category": "Cinema",
+                "url": "https://kwt.voxcinemas.com/cinemas/the-avenues-kuwait?utm_source=google&utm_campaign=local_search&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsn6Sisc3s75Gowg95IwgNuoszf9iL4y8qaXpi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bait Al Othman Museum",
+                "category": "Museum",
+                "url": "https://www.nccal.gov.kw/pages/monumentsandmuseums/%D9%85%D8%AA%D8%AD%D9%81-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgjU79fkPszdh9CR05_SI-oJgsHEFj4NGqjwRW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mubarak Al Hasawi Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnZFK7jSQZXaLXlZzg2LTw5YGTscqHOVf0PLDJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Qurain Martyrs Museum",
+                "category": "War museum",
+                "url": "http://www.nccal.gov.kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHd9EItAf6XiQ85pWjQzXbpyQsUT83nDAkE_jP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuwait Towers",
+                "category": "Tourist attraction",
+                "url": "http://tec.com.kw/",
+                "img": "https://lh6.googleusercontent.com/proxy/5QOLAKcmf8L3G2rgVXpJg7bit7NEqVdS-Hgfc39jeljY9QpVdEuOWa8fLnFXVTxW8_xZqQEK8CCRI0u6xYNr5odg1Ap1V4AT_e_qb6eAC5qORC6l_g3bH9_F0uusoySItN_A7QMdphbzY5nxxzMcB3Sd76yo-A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Historical Vintage & Classic Cars Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlm7DqFgciE97x_6JgFcFh4JpU49GpqHsn8d44=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirror House",
+                "category": "Art museum",
+                "url": "http://www.mirrorhouseq8.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPc1--keiVAJ_1RdvBSYeKRSZxFnE62262CwnYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hashemi Marine Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPX0J_f2td8beHw9Q0xzwfNIWvYX37C_mVKPOGC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Abdullah Al Salem Cultural Centre",
+                "category": "Cultural centre",
+                "url": "http://www.ascckw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOswiNUk1PNx7cjnhRx7wdg7GLc7aNJkBBLIx4X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Upside Down House",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnpi_XaegRShbpvJMeiUSsopb82NAX1jnkCkDQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Amricani Cultural Centre - Dar al-Athar al-Islamiyah",
+                "category": "Cultural centre",
+                "url": "https://darmuseum.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQsAL77rTNFKrKmw5EIN-2OsxLdyqZMtDU-c6w=w148-h148-n-k-no"
+            },
+            {
+                "title": "KidZania",
+                "category": "Theme park",
+                "url": "https://kuwait.kidzania.com/ar-kw",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCf78HDpdAO5NW715Csk-sIcPsGSAH2YIQpsP0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinescape Avenues Mall",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN875xkymbRuuSBCK8E4fPagFzzqdMpN4D7UbVi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tareq Rajab Museum of Islamic Calligraphy",
+                "category": "Museum",
+                "url": "https://trmkt.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6DoipYi8UrEOdQYVuEKuZg-8RQU2AZz5sMIJH=w148-h148-n-k-no"
+            }
+        ],
+        "Ar Riqqah": [
+            {
+                "title": "Mirror House",
+                "category": "Art museum",
+                "url": "http://www.mirrorhouseq8.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPc1--keiVAJ_1RdvBSYeKRSZxFnE62262CwnYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Avenues Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.the-avenues.com/kuwait/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO45LLsvikjuSF4h-idO5AIRNwlDDufW2yRtaDK=w148-h148-n-k-no"
+            },
+            {
+                "title": "360 Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.360mall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfrAA8hhL72ap52PVIn9Q7VX5Bh9s0KDQRJNC3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Zayed Bin Sultan Al Nahyan Road",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfQp1IbUSBYYJ-HWpbM_OvKn9hmctyLCu-FqWX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shaheed Park",
+                "category": "Park and Garden",
+                "url": "http://alshaheedpark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRhXMmMCyvU4emv3CGndp3VDC39z2SJFYrcov3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mubarakiya",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwwO5zsyZdur-IE0gda-v9Ems2558fsyMz1_Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souk Sharq",
+                "category": "Shopping Centre",
+                "url": "http://www.souksharq.com/Ar/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOObe5m4ukqkD_1ws82ckwQdt-xo7yalZeTKFd-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tareq Rajab Museum of Islamic Calligraphy",
+                "category": "Museum",
+                "url": "https://trmkt.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6DoipYi8UrEOdQYVuEKuZg-8RQU2AZz5sMIJH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shaab Gate - Dirwazat Alburay’asy",
+                "category": "Historical landmark",
+                "url": "https://www.nccal.gov.kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP2aLP0evVziNnxeAKvMNcCzIbgIUnHZqK6so7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Family Cathedral",
+                "category": "Catholic church",
+                "url": "http://www.avona.org/kuwait/cathedral_kuwait.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6yQBSjCinGYreUWeWAU0oeIfLYVoScujMlRCe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albohayra Farm | مزرعة البحيرة",
+                "category": "Tourist attraction",
+                "url": "http://www.orderalbohayra.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNJW7pHuSeiFpRMMEatQnqBdHuewQ8PyOdbc-r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Palace",
+                "category": "Historical place",
+                "url": "https://www.nccal.gov.kw/pages/monumentsandmuseums/%D8%A7%D9%84%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWx0020S7JLM5f9Vum4uGkkTlmxqWvZQusEfLY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Mosque of Kuwait",
+                "category": "Mosque",
+                "url": "https://eservices.awqaf.gov.kw/MinistryServicesGate/index",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO63O3H98QrkK0YqgSSQZOPDVGYmytAL-nd6Ae=w148-h148-n-k-no"
+            },
+            {
+                "title": "KOC Ahmed Al Jaber Oil & Gas Exhibition",
+                "category": "Exhibit",
+                "url": "http://www.kocexhibit.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNd5AUG3pEb6s58iK0AB2fo9s_wtOyAZ5fk95Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "برج الوقف",
+                "category": "Business Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEkukHafXfDNmz3ICAM2Au51noipGLDd8pdjRk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jaber Al-Mubarak Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJuDe6EFRqTo0y2B7vfioxbdKrZ0E48zLecAp_=w148-h148-n-k-no"
+            }
+        ],
+        "Şabāḩ as Sālim": [
+            {
+                "title": "Mishref's Oasis",
+                "category": "Park and Garden",
+                "url": "https://apps.apple.com/kw/app/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D9%85%D8%B4%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A9/id549074623",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmF_jPGBoSOhgxHk67ubI5GAo1-SL7RKHSHpyG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bayan Palace",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5cpg9JYRdIJfjjwB3JCIcRE6B9x0nz25ZTBu5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Jaber Al-Ahmad Cultural Centre",
+                "category": "Cultural centre",
+                "url": "https://www.jacc-kw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzaFq2WPwoWS1lQo0_3aafMeXCcLcg0LFo7vNz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Qurain Martyrs Museum",
+                "category": "War museum",
+                "url": "http://www.nccal.gov.kw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHd9EItAf6XiQ85pWjQzXbpyQsUT83nDAkE_jP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Al Imam Al baqer",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIO4NoCrL6YtxW-rAKwq0TK3iI0VXN9peSfjee=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jaber Al-Ahmad International Stadium",
+                "category": "Stadium",
+                "url": "https://stadjaber.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2OmEtsYXx1_4G4Vi_rgwc55ZXhWJ35xGQPI8J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salmiya Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOmx45Jo6DrUEtzKuGY0U0WgPvBS_JlTkSHkdm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liberation Tower",
+                "category": "Government office",
+                "url": "http://www.liberationtower.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO1FgSQVynUXy5-UQ_oaI5_Ii5P-YcOv9--MX9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hawally Park",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgcNpjQn9jEAIk0il-4fnOGMrOR0rzuAGKw0Zg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mubarakiya",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwwO5zsyZdur-IE0gda-v9Ems2558fsyMz1_Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mindmaze Kuwait",
+                "category": "Escape room centre",
+                "url": "http://www.mindmaze-kw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk5D-fLHcjzXqcBxv0CjlxF6oSh8oJMEbmA0Ox=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuwait National Museum",
+                "category": "National museum",
+                "url": "http://kuwaitnationalmuseum.weebly.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkRuymQ2g6hZOATt2I0oupLYr5EWovPCeeGX_-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Abdullah Al Salem Cultural Centre",
+                "category": "Cultural centre",
+                "url": "http://www.ascckw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOswiNUk1PNx7cjnhRx7wdg7GLc7aNJkBBLIx4X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuwait Towers",
+                "category": "Tourist attraction",
+                "url": "http://tec.com.kw/",
+                "img": "https://lh6.googleusercontent.com/proxy/5QOLAKcmf8L3G2rgVXpJg7bit7NEqVdS-Hgfc39jeljY9QpVdEuOWa8fLnFXVTxW8_xZqQEK8CCRI0u6xYNr5odg1Ap1V4AT_e_qb6eAC5qORC6l_g3bH9_F0uusoySItN_A7QMdphbzY5nxxzMcB3Sd76yo-A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Mosque of Kuwait",
+                "category": "Mosque",
+                "url": "https://eservices.awqaf.gov.kw/MinistryServicesGate/index",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO63O3H98QrkK0YqgSSQZOPDVGYmytAL-nd6Ae=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shaheed Park",
+                "category": "Park and Garden",
+                "url": "http://alshaheedpark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRhXMmMCyvU4emv3CGndp3VDC39z2SJFYrcov3=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Kuwait Towers",
+            "category": "Tourist attraction",
+            "url": "http://tec.com.kw/",
+            "img": "https://lh6.googleusercontent.com/proxy/5QOLAKcmf8L3G2rgVXpJg7bit7NEqVdS-Hgfc39jeljY9QpVdEuOWa8fLnFXVTxW8_xZqQEK8CCRI0u6xYNr5odg1Ap1V4AT_e_qb6eAC5qORC6l_g3bH9_F0uusoySItN_A7QMdphbzY5nxxzMcB3Sd76yo-A=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Shaheed Park",
+            "category": "Park and Garden",
+            "url": "http://alshaheedpark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNRhXMmMCyvU4emv3CGndp3VDC39z2SJFYrcov3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Mubarakiya",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOwwO5zsyZdur-IE0gda-v9Ems2558fsyMz1_Q=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Avenues Mall",
+            "category": "Shopping Centre",
+            "url": "https://www.the-avenues.com/kuwait/en",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO45LLsvikjuSF4h-idO5AIRNwlDDufW2yRtaDK=w148-h148-n-k-no"
+        },
+        {
+            "title": "360 Mall",
+            "category": "Shopping Centre",
+            "url": "http://www.360mall.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOfrAA8hhL72ap52PVIn9Q7VX5Bh9s0KDQRJNC3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Grand Mosque of Kuwait",
+            "category": "Mosque",
+            "url": "https://eservices.awqaf.gov.kw/MinistryServicesGate/index",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPO63O3H98QrkK0YqgSSQZOPDVGYmytAL-nd6Ae=w148-h148-n-k-no"
+        },
+        {
+            "title": "Marina Mall",
+            "category": "Shopping Centre",
+            "url": "https://www.marinaworld.com.kw/store-directory",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMMpqyLo_zacj6lToPRciwnEFLNk3yH_MGmP523=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Scientific Center",
+            "category": "Science museum",
+            "url": "https://www.tsck.org.kw/en/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPhQ_sUJlLHvy6VRXKl2nrW-GWjbJMRYmGkB3g9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sheikh Jaber Al-Ahmad Cultural Centre",
+            "category": "Cultural centre",
+            "url": "https://www.jacc-kw.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMzaFq2WPwoWS1lQo0_3aafMeXCcLcg0LFo7vNz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Souk Sharq",
+            "category": "Shopping Centre",
+            "url": "http://www.souksharq.com/Ar/index.html",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOObe5m4ukqkD_1ws82ckwQdt-xo7yalZeTKFd-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sheikh Abdullah Al Salem Cultural Centre",
+            "category": "Cultural centre",
+            "url": "http://www.ascckw.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOswiNUk1PNx7cjnhRx7wdg7GLc7aNJkBBLIx4X=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tareq Rajab Museum of Islamic Calligraphy",
+            "category": "Museum",
+            "url": "https://trmkt.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN6DoipYi8UrEOdQYVuEKuZg-8RQU2AZz5sMIJH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mirror House",
+            "category": "Art museum",
+            "url": "http://www.mirrorhouseq8.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPc1--keiVAJ_1RdvBSYeKRSZxFnE62262CwnYd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Liberation Tower",
+            "category": "Government office",
+            "url": "http://www.liberationtower.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPO1FgSQVynUXy5-UQ_oaI5_Ii5P-YcOv9--MX9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Safat Square",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMXKGQ3IBg1ymdP9EWs9BVgbPpp-Hk0qMp3waMb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sadu House",
+            "category": "Museum",
+            "url": "https://alsadu.org.kw/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP_hfCM3NkQDKezi_oUaI-EfQLh9inP6eue3OHk=w148-h148-n-k-no"
+        }
+    ]
+}

@@ -1,0 +1,3158 @@
+{
+    "cities": {
+        "Políchni": [
+            {
+                "title": "Roman Forum of Thessaloniki",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNI4ACkiqonSWC0z-8WP6sWf0DR3UMHwJK4kby_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of the Holy Apostles",
+                "category": "Greek Orthodox church",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=1682",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4vwZnOhPzoFBsMhE-ptTr8gltF5zXYPykNfxx=w148-h148-n-k-no"
+            },
+            {
+                "title": "The MindTrap Tsimiski",
+                "category": "Escape room centre",
+                "url": "https://tsimiski.themindtrap.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyTzxKx_AwisYuOdMalYSFkQPKTbg4ZHTHrSgG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kleanthis Vikelidis Stadium",
+                "category": "Stadium",
+                "url": "https://arisfc.com.gr/index.php/gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJeEv50zZgnnqqhRq60ygNpVuZiSIFfcSsFQrP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the Macedonian Struggle",
+                "category": "History museum",
+                "url": "http://www.imma.edu.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMraufJcHGwBATEqBV4Swtzc2jgPHPb4vd82JJi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brain Game",
+                "category": "Escape room centre",
+                "url": "http://www.braingame.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2GIR0OKKzy12eFwmvS6ODLauZgFw9pVl-oPLK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statue of Aristotle",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWRZ0cYpZxG48YSaF3GgNWxiiRjfzFHNivEZrX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thessaloniki",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuhhIJWJ2egdN310jGiOvrbu7ftYKuqSlzltfd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Battlenet 3D Polichni",
+                "category": "Internet cafe",
+                "url": "https://battlenet.gr/katastimata/battlenet-3d-polichni/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVAFv-JwWLQeoiyHjoEdzQ2ZfNmnb_Hlp2n_IR=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Umbrellas Sculpture by Zongolopoulos",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSVhCkWnjvMDQNQwZXwdxniX6x6lWzUsYlcqIq=w148-h148-n-k-no"
+            },
+            {
+                "title": "UYiLO MUSEUM",
+                "category": "Museum",
+                "url": "https://uyilomuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNBGtWBKKfZJ8KVxAlpN8DnKbr4ko6VGkfZXah=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of the Virgin Mary Acheiropoietos",
+                "category": "Greek Orthodox church",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=6970",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNC32Jez0zCxZnNo-kmXrAGhQllzOsCy3NZQiYK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bezesteni Ottoman Market",
+                "category": "Historical landmark",
+                "url": "https://inthessaloniki.com/el/item/%CE%B1%CE%B3%CE%BF%CF%81%CE%AC-%CE%BC%CF%80%CE%B5%CE%B6%CE%B5%CF%83%CF%84%CE%AD%CE%BD%CE%B9/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb5ezQxT7mV7tOahU56BRk9efQ_kJ7zJbGRMh0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thessaloniki Waterfront",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4sWy_utxX-hV3keGuNnGd_Dz-2u4WywwjMc1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Latomos Monastery - Holy Church of Hosios David",
+                "category": "Greek Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfKnIB3BcGBC1wi_wvBzbdEJFvzp1OaNk6_rbB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of Saint Nicholas Orphanos",
+                "category": "Greek Orthodox church",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=473",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0EJRlV3HwVQfMfGcOglfAUllcWxd90nuJ3ikQ=w148-h148-n-k-no"
+            }
+        ],
+        "Tríkala": [
+            {
+                "title": "The Mill of the Elves",
+                "category": "Theme park",
+                "url": "https://milosxotikon.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSkxx1aNvaHPh41SVGiwUd9ZEvGDAJHdAhSe_R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Κέντρο Έρευνας - Μουσείο Τσιτσάνη",
+                "category": "Museum",
+                "url": "http://www.mouseiotsitsani.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdIiRRIqDWwcrlp23bwmVBwZrAqVqDB1Qp_cq4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matsopoulos Park",
+                "category": "Park and Garden",
+                "url": "https://trikalacity.gr/building/polychoros-technis-ke-politismou-mylos-matsopoulou/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFEMP5l6A-cRnvrAHMKdJONV0e3zWEp9_gR_qO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trikala City Center Square",
+                "category": "Tourist attraction",
+                "url": "http://trikalacity.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMerDuBbjsK_PiGr7bU1kMdm3AXph1Bnv4_ZU89=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matsopoulos Mill",
+                "category": "Local history museum",
+                "url": "https://mylosmatsopoulou.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCuZ5OitZvrjLxf4zPnlmR6pzh9-NFIcRLITB5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Byzantine Castle of Trikala",
+                "category": "Castle",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=2005",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg-25O6mXp8y1-wI0po0F27TdVlzfh6RisSwqz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meteora",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPy5TQXHCSEbjS7U5yRpw6iY_Kx4fQ1cOF9Sltm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Agios Nikolaos",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQv1Mxy-Ztx4UQAjYxmb9REMUk17qlA3Pd2_XY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Monastery of Saint Stephan",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKvMJlyVe09VfBx3P4mbn5dNnjO5UmaV5-HwmS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Monastery of Rousanos - Saint Barbara",
+                "category": "Convent",
+                "url": "http://www.roussanou.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSusL8D66-Snge7NrYsh2qvULgN8wbU2fY1oWp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natural History Museum of Meteora and Mushroom Museum",
+                "category": "Natural history museum",
+                "url": "http://www.meteoramuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOowNgYJAkmsV7FHMc64mkGsUOkx438k2arKIi9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastery of Varlaam",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-w25yxRS7BcCVQkDXmOI3kU8tHuUH6YmOhsoT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Monastery of the Great Meteoron -Transfiguration of the Saviour",
+                "category": "Monastery",
+                "url": "https://www.meteoromonastery.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtVSpphrazmPhiWhyy4rs6DRO7-CL39WYs4u_Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastery of the Holy Trinity at Meteora",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOag6xJeGTYiYUFQiJ6gmLOGvm5DmBr38paLfZB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Theopetra Cave",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=1616",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKd6GtVjNjm5lzZNc8BLgB26t-grKUpQKXFfZJ=w148-h148-n-k-no"
+            }
+        ],
+        "Évosmos": [
+            {
+                "title": "Holy Church of Saint Demetrius, Patron Saint of Thessalonica",
+                "category": "Greek Orthodox church",
+                "url": "http://agdimitriosthes.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCTVfO6g1xgZQZfJytiUOyu9L6mEdvp-pglcMK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Genius Travel",
+                "category": "Travel Agent",
+                "url": "http://www.travelgenius.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOC1nbU6bA6GCUANrVekDsO0JSiybzaPOKrGPuk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atatürk Museum",
+                "category": "History museum",
+                "url": "https://www.kultur.gov.tr/TR,96346/selanik-ataturk-evi.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrj3TJPoHKIF-TEyryQzFlyfQffJe_fSZ2w2fp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heptapyrgion of Thessaloniki",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGR_sFKD8KrDLjU72jrzOyfrThLL2mE8gb6Ksx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of Hagia Sophia",
+                "category": "Cathedral",
+                "url": "http://www.agiasofia.info/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_0e6PinXzVI-BCsweHd1x2BHTc0RQY818Ta0L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jewish Museum of Thessaloniki",
+                "category": "History museum",
+                "url": "http://www.jmth.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOD80UJifx1l64DPzifEhqq1XjUGCCIG_bS06mp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zeitenlik",
+                "category": "Military cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5oOf3rRPCx3RTDK5CjmBvw2bJvCgSEO6pTpwt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Animus massage",
+                "category": "Facial spa",
+                "url": "http://www.animusmassage.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP418ICeltkjPvPnf9YgJ7aYDFwJiHi0vyBcIKo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trace Your Eco",
+                "category": "Outdoor activity organiser",
+                "url": "https://www.traceyoureco.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjxOMyIZ9-xm-SnY08tf16Dv0bvSRma6mp2VUL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Escape Rooms Thessaloniki",
+                "category": "Amusement Centre",
+                "url": "https://great-escape-rooms-thessaloniki.gr/el/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKQfPo5czzzazzqHDFfwVsg_l1CsYiPohNJX53=w148-h148-n-k-no"
+            },
+            {
+                "title": "The MindTrap Tsimiski",
+                "category": "Escape room centre",
+                "url": "https://tsimiski.themindtrap.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyTzxKx_AwisYuOdMalYSFkQPKTbg4ZHTHrSgG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tabya",
+                "category": "Coffee shop",
+                "url": "https://m.facebook.com/TABYA-1467117063556485/?locale2=el_GR",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmtKjvtn4nd9OiNyGZkGXDw51jUpoqkAMvlpO7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Olicatessen",
+                "category": "Gourmet Grocery Shop",
+                "url": "https://www.olicatessen.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnQl-A54mH1RKaE0OwJx_KdPYPDbuzTrDSv4gb=w148-h148-n-k-no"
+            },
+            {
+                "title": "MitakosBooks",
+                "category": "Book Shop",
+                "url": "http://www.mitakosbooks.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE00r5wvXHLl4kSsJE_SPGyZi1gOGX7qjll__a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of Saint Nicholas Orphanos",
+                "category": "Greek Orthodox church",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=473",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0EJRlV3HwVQfMfGcOglfAUllcWxd90nuJ3ikQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Galerius",
+                "category": "Historical landmark",
+                "url": "http://galeriuspalace.culture.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpRS5yxR9sqzYuxvaG3OcTg5vDYVCX0DrS4jl6=w148-h148-n-k-no"
+            }
+        ],
+        "Glyfáda": [
+            {
+                "title": "Asteras Beach",
+                "category": "Beach",
+                "url": "http://www.asterascomplex.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIHyXVIbu_9zfKcM1Zm0FOm4A3nWIIrHZFY_0P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.theacropolismuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Town Cinemas",
+                "category": "Cinema",
+                "url": "https://www.towncinemas.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1WV42wv7rxjCi2ZMRZhRTohBrtzNnD4cHzp5g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arian open air cinema",
+                "category": "Outdoor cinema",
+                "url": "http://www.ariancinema.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOXg1ZuQZi_5a3P4RArcg5Bmskkj0zg9-8IvUM=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Archaeological Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.namuseum.gr/",
+                "img": "https://lh4.googleusercontent.com/proxy/9fnkLZjTmB_oI1C9jP869sfP5njfitK4S5nF0V6xHJgIwz3FZP9kz2lnTk_yYHYb0N3PQN-91YKm7oXmcsZdOtGYniFTlANVD4hzYwiIr7IIMEUtExXhyk7M2BGQVJINJUuSiDPJa2dilXJKGORYQad7fjR3MNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maze Games - Glyfada",
+                "category": "Escape room centre",
+                "url": "https://www.mazegames.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLlcCHO2ExH02TYIb6TJd8uU4Uf3pfw694tUm_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Private Best Travel",
+                "category": "Transportation service",
+                "url": "https://www.besttravel.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL_VeVrgKfI_Giw8sG9JoKZM5XAWzfP_2xZ4Ak=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis of Athens",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2384",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masazaki Glyfada",
+                "category": "Massage therapist",
+                "url": "https://www.masazaki.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPicsJFF-B-6W09cyxyy-bYQMY9Q-MGRwVI1GC6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Knot The Bar",
+                "category": "Bar",
+                "url": "https://www.facebook.com/KNOT-The-Bar-175715072523752/?modal=media_composer",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbF3akJZHl6E5ZvuBjBtmEdIxU-ucLXpOCVYc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parthenon",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=912",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Glyfada Beach",
+                "category": "Beach",
+                "url": "http://www.glyfada.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqSpOgl-b3yhS5-Jl_XUC6Wel0BVtZEewbtH_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of Agios Panteleimonas Glyfada",
+                "category": "Greek Orthodox church",
+                "url": "http://www.agiospan.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqFMm0cja-HDDzZzsTWo6a8ZTOrg5vixbcnxO6=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Blender Gallery",
+                "category": "Art gallery",
+                "url": "https://www.theblendergallery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKvXT9e_CUogkZk0UVOkbdP2KK_T4SWfGRRcPR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Posidonio Music Hall",
+                "category": "Live music venue",
+                "url": "http://posidonio.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMixibsfCOvDYJtW1FOSweXvnOxBLhC--TFulJ1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erechtheion",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=973",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcwaKnokZp9kPXEAmxJK88WUHYh6-OrJlIgX2V=w148-h148-n-k-no"
+            }
+        ],
+        "Kavála": [
+            {
+                "title": "Tobacco Museum of Municipality of Kavala",
+                "category": "Museum",
+                "url": "http://www.tobaccomuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7tLjlSF5gR4309VYSIVf0p4RpwtaEWERbkOTx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kavala Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP25bsC1XW5K86qhuj1xs1J9XpzIXHe4rk7FRrn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rapsani Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMT-rPnbLCUuNi-Fj15pcb7m2y3ysPbN9EJ0lHt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Site of Philippi",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2387",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdw9WTVza0amLWe3OlQTPGmhCvKTX9Vmw4ruE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Keramoti Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMu0kwq4QuP3QWm26caTRLLFdJVY6-M01CMIjSQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ammoglossa beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbAQDeXCAichez0nu8bf2VWQJLPJ-m8oXSa3pF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kasta Tomb",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmP2Xf3YeghwimwKgT0JGbX0yHzSRo8UDkwkLe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thasos",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuxiSeWF4eL8_tOHYzdQ5qlLUmHioY9Q8U0JCM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koo Beach Bar",
+                "category": "Bar",
+                "url": "https://menu.koobeachbar.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJOM2bJ6XiPBBllkmJY_viyNy_9X60G3g7hF99=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panagia",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsU0KvnNLHypW35FrV-z02hSV6Yqci1t7IlSbp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Breeze Beach Bar",
+                "category": "Bar",
+                "url": "https://menu.breezebeachbar.gr/el/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBVMZpz1jRTnZ4n5icditiEJxLN32dLc3ayfjd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nea Iraklitsa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlD-txVKBjI18pFRCR-LMAJAkF8HY6loyUSOa-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Medalia Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOa-8OOUckR-OsWCR4H5cSb2T4cYSQKs3SCkpOs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kavala Archaeological Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOT_Ufx2TYUtAi_Q8ELvNnBLzJ22nbjd2Wmqom5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kavala Fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEd_JBWd7GPVXEnCYSV1R4UlfZ7TBbh5sAN4jf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Baptistery of Saint Lydia of Philippi",
+                "category": "Greek Orthodox church",
+                "url": "https://www.im-philippon.gr/index.php/mitropoli/topiki-agiologia/ieres-mones/131-ludias",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNrWm-rP47WdGHFMqggcX4b6uB2wzwf_ZyWeeh=w148-h148-n-k-no"
+            }
+        ],
+        "Khalándrion": [
+            {
+                "title": "Golden Hall",
+                "category": "Shopping Centre",
+                "url": "http://www.goldenhall.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbg0ivoGuTgGez4QgzmS6d-fZhi0T5RvLzMMpZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "White Monkey",
+                "category": "Cocktail bar",
+                "url": "https://www.facebook.com/whitemonkeybar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEiyfa-uqIFYdJTt1LVWaduVCjQFkGs5FDpn9I=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Archaeological Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.namuseum.gr/",
+                "img": "https://lh4.googleusercontent.com/proxy/9fnkLZjTmB_oI1C9jP869sfP5njfitK4S5nF0V6xHJgIwz3FZP9kz2lnTk_yYHYb0N3PQN-91YKm7oXmcsZdOtGYniFTlANVD4hzYwiIr7IIMEUtExXhyk7M2BGQVJINJUuSiDPJa2dilXJKGORYQad7fjR3MNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.theacropolismuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Olympian Zeus",
+                "category": "Historical place",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=12863",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRvFoAD8h9fuFSDDP-uhG_xPkIexwnK0EXLVqw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panathenaic Stadium",
+                "category": "Stadium",
+                "url": "http://www.panathenaicstadium.gr/%CE%91%CF%81%CF%87%CE%B9%CE%BA%CE%AE/tabid/40/language/el-GR/Default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFWTNgdoMNsj5aBHkcckgIRCTmLua69_lXiVMe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens National Garden",
+                "category": "Garden",
+                "url": "https://www.cityofathens.gr/who/ethnikos-kipos/",
+                "img": "https://lh3.googleusercontent.com/proxy/oihdIXi4o3tP2PXNeHRb7LkxMChTDW1w7dsK3MCiDLSlK35KL1hQQ9Xefp1Zgvzdb4GlpAHMTC7BsPG8ZraNcAM5qbsA2JYF3zyOzOOQP-VdZbNxRX_S75EzxWRyzNJaIaO24T1oHLLCTqskrHdHKkIWZSYGQ8k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological site of Mycenae",
+                "category": "Archaeological site",
+                "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2573",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4N07Xixln-y7lnT5U1T2Edj86Ixh3HlRscFPh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to the Unknown Soldier",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUpDyca3d6dO8sv8DA00dYy3cjzrkPu6ju-0io=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Apollo",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDq6uqYfbGjIWx37ZFC4i81CXywlXPwpdM5K0c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Acropolis Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZTKrOEycMDeuYT0gQt56x8ZyW2ghU_t9zfSvm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaka",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtFpP_VssXmgc8V9tvMXMYByHfkWOxFEl7egc-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastiraki",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSYpfY4AxYfFiTKQFkNQk05TRsL8BB3VJxLm58=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parthenon",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=912",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mykonos",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBjIXbifXvmuOF3j6mLzKC2__mBRpO1C8lZvo6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hydra",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM04WhqbgkZehu5mmmpR_T8cfzcaiGUakFr6AqQ=w148-h148-n-k-no"
+            }
+        ],
+        "Lárisa": [
+            {
+                "title": "Πλαταμώνας",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQuvMIWglbKJ7u8D5vNs36bYOTz3dyQfYTFeDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Art Gallery of Larissa G.I. Katsigras Museum",
+                "category": "Art museum",
+                "url": "http://www.katsigrasmuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw-mmIdx_SdoC9xjexYlvHpHCGYK5JJSq1mpc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ancient Theatre of Larissa",
+                "category": "Historical landmark",
+                "url": "http://www.larissa-theatre.com/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfvECFXCdF2wh8eTUKZES4f1KUx8nEPUTdOKGi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Wishes",
+                "category": "Theme park",
+                "url": "http://www.parkoefxon.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuAT5NB1Qdeaw3hcyt9_meOJzQxK60yNa-SLif=w148-h148-n-k-no"
+            },
+            {
+                "title": "Folklore Museum of Larissa",
+                "category": "Heritage museum",
+                "url": "http://liml.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5bo5JTdJAlTXAoYp9uf2z2V4FukU6nkJWhT-s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Shrine of Saint Paraskevi at Tempe",
+                "category": "Greek Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYhgr81AcbUUcXJqwrJNthP-ySBb_NuKrg42Wa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koutsoupia",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7fZoObF7gtqJEYtcIqmlHuDhkcMSQzcedL-I_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nea Mesangala",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeQblcGYHLlUN1_O5_R1JfTPUw_GAMgue6qe36=w148-h148-n-k-no"
+            },
+            {
+                "title": "Καστρί-Λουτρό Λάρισας",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzvaxKWyny0VqwT9RM6u1NTcNwhne1YfGn1Rgp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rakopotamos",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMPJHPU8M_Q6mc87LWa-uoG-P6nR4-uS7rFw43=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kouloura Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONeD3TGvldtg1d5Wwf-yXEr_V7NdL52e5cHQ1d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Γενί Τζαμί Λάρισας",
+                "category": "Historical landmark",
+                "url": "http://larisa.culture.gr/index.php/arxaiologikoi-xoroi-kai-mnimeia/9-uncategorised/78-arxaiologikos-xoros-2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMa9Ktmvq_mJpQL_1jc8JCfRII4N2S25QSI_iYu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Ossa",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0D8H6qgTwXtgjjAtLb1xGfJhgKR0xGPPhSzJW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vale of Tempe",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2jKUKsc-7OLrXIcGkrD2WQlnhNfqMRRW_NtMV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Agiokampos",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQUAnPdAJrChd3Z94l1TA2_7AklNhI0t59hFv4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Local Comic Shop",
+                "category": "Art studio",
+                "url": "https://projectippokampos.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWzBSahaoh7Oav2dhh0GbPUwWTTUPyEiovrMMi=w148-h148-n-k-no"
+            }
+        ],
+        "Acharnés": [
+            {
+                "title": "Μουσείο Πολεμικής Αεροπορίας",
+                "category": "Museum",
+                "url": "https://www.haf.gr/history/museum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE2I5PxCh0xdqe3PAJA_YTASUgiFKAgaCdK0xa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Golden Hall",
+                "category": "Shopping Centre",
+                "url": "http://www.goldenhall.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbg0ivoGuTgGez4QgzmS6d-fZhi0T5RvLzMMpZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Goulandris Natural History Museum",
+                "category": "Natural history museum",
+                "url": "http://www.gnhm.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY17cckgjBpbotJYkv_zJrDs1t1HSHVZQeY1Kz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Queen Amalia’s Tower Estate",
+                "category": "Castle",
+                "url": "http://www.pyrgosvasilissis.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUVKG2kQNrDg3foeRqdlYF7FvWAEmj4t38V991=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nail me Up!",
+                "category": "Nail salon",
+                "url": "http://www.nailmeup.eu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaf9PBbCH9wE-Jn4IF3v1gLdEsUgy3Oa6731tV=w148-h148-n-k-no"
+            },
+            {
+                "title": "B-KOUTI",
+                "category": "Cafe",
+                "url": "https://www.facebook.com/BKoutiArtBarCafe/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJAC3t4Zp6vwDE4C-GNu2idkmqjv3KNzfFId17=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Mall Athens",
+                "category": "Shopping Centre",
+                "url": "https://themallathens.gr/gre/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOf-HjIQrMuJNP-UU3FxoZBqzTp0Ca5ORNvtfme=w148-h148-n-k-no"
+            },
+            {
+                "title": "Olympos Express",
+                "category": "Transportation service",
+                "url": "https://www.olymposexpress.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk9zA0Tcgjl0l0Gp2PKZidJ1mmYO3SY9y4sXU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens Olympic Stadium",
+                "category": "Stadium",
+                "url": "http://www.oaka.com.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiNF7n-S3iHirB0jfzRH4Xr7eaveh4DhSc35uh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salon De Massage",
+                "category": "Massage therapist",
+                "url": "http://www.salondemassage.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzkvaDWFGp1C7jZh8ETH2YVd2nINMD7JuiTkqa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Theodores Private Tours - Theodores Travel",
+                "category": "Travel Agent",
+                "url": "http://www.theodores-travel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTQtc_qD_zopGy4u-i6SRFGabOzJ1KMoQTqMxx=w148-h148-n-k-no"
+            },
+            {
+                "title": "CATTaxi.com.gr",
+                "category": "Travel Agent",
+                "url": "http://www.cattaxi.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5Gua4kmykqudF3_Ih6sB2ZAssXnIvGZ5OKm6S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crispy Local",
+                "category": "Tours",
+                "url": "https://crispylocal.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCa6Y1DaAb_ZbAzvlmtVqmeo5pp_yfaiFklMK7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taxi Transfer Athens",
+                "category": "Taxi service",
+                "url": "http://www.taxitransferathens.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHhXOVcS_iQIhmE_uWpG2nY3c3TERN8wMXFbk6=w148-h148-n-k-no"
+            }
+        ],
+        "Peristéri": [
+            {
+                "title": "Acropolis of Athens",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2384",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ancient Agora of Athens",
+                "category": "Archaeological museum",
+                "url": "http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2485#_=_",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgsZaLvoeHjp9PSIih5QDve_iPBfYCKBfGU3EK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Bowling",
+                "category": "Bowling Alley",
+                "url": "http://www.royalbowling.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIHb0F_-K-VNsSKNkxPaU5MSFRPYTbwEFaTitP=w148-h148-n-k-no"
+            },
+            {
+                "title": "SherlockedHomes-escape rooms",
+                "category": "Escape room centre",
+                "url": "https://sherlockedhomes.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcA-ZyoJj-df3n1dWNGaeHacrzNU6s-_BAFpO3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hookah Bliss Athens",
+                "category": "Shisha bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhnM7kb_j1_CMxQGkhs-iuJ3_RCyVeeUEcz1fS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sergiani Travel Εκδρομές Ελλάδα",
+                "category": "Travel Agent",
+                "url": "http://sergianitravel.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkbWb0GvflRvzsOBhHPys3OAEB08QCPXO1UBHV=w148-h148-n-k-no"
+            },
+            {
+                "title": "City massage",
+                "category": "Massage spa",
+                "url": "https://citymassage.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOD48FUDpkMqTTwLbObtuula4YuKjCjLa6cYcPu=w148-h148-n-k-no"
+            },
+            {
+                "title": "VANSA Escape Room 3",
+                "category": "Escape room centre",
+                "url": "http://www.vansa-escape.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH_sIYivnHNw9f2KNXAbGqRQgqZv-6T5Z8-p0c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calma Spa Athens",
+                "category": "Massage spa",
+                "url": "http://www.calmaspaathens.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNapP3Dundkt8l6L8mx_X2iL8dVBUIm2aR_WYOo=w148-h148-n-k-no"
+            },
+            {
+                "title": "thai Sumbai Massage",
+                "category": "Thai massage therapist",
+                "url": "http://www.thaisumbaimassage.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbaz_7Xqwf3Nh0-mAN1LG1NOCS5gKldAw_MKJw=w148-h148-n-k-no"
+            }
+        ],
+        "Ródos": [
+            {
+                "title": "Agia Agathi Beach (Golden Sand)",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEd9efaTAxDQvukcCdt_l_VDQYXU8TBEKq7-Pz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stegna Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_cFh0_AoV7VLit-ZPylYEU4M4pIwrmLY5jjgZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kallithea Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHJHmzdmzi4r-82NjDpUc0n7AqpfwdusbdKRLO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prasonisi Beach",
+                "category": "Beach",
+                "url": "http://wind4fun.pl/rrd-prasonisi-kontakt-z-nami/o-prasonisi.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPak4EiOQthjHYIuhZ5-B65qpshLJ51-6tIg5IB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bee Museum of Rhodes",
+                "category": "Museum",
+                "url": "http://beemuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUUKuZyNIMVpDEmYXLEfHKqZuetNfyzWF3R6EX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afandou Beach main public beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3XpbeTGHuJZV37qFIyySh-u8tACb-2nKABvkK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kathara Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLiTUDdJ6m5wjiqAXnoZkBNDRfXQCyMDi4PLLV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feraklos Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9V58ysLoN593bw2Peotc6x-eS7tFxSUb3OWvi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gennadi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfR-vqdZ-PZ7bUNxuKq7RXFeuBmcxym0o58nek=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lardos Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpxbTGPy9nYpkJyVPxYI_OLEzxxKd3e88OW0Is=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rhodes Toy Museum",
+                "category": "Toy museum",
+                "url": "http://www.toymuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVoeAJuXo5OYyb3wGOEjJnH2Z7LD5uOxLFsHp3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ialysos beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcGwBvgOaw7by8bt2RTdX5QAsGY9LyG-b_jSd1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Nicholas Fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP10SjkIiVYBvfh3ss36Z9bMx411SbueedFSkIp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prasonisi",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrVD8M4xDGFUhmQDozYt7ts_TEXD0lg-9f30ln=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rhodes",
+                "category": "Locality",
+                "img": "https://lh3.googleusercontent.com/proxy/yCKgwyWqfjBRJWFht1t4FFnGEhTdO3jeZjymiDMeEKJBrvTNJaND-IJweoio5HL3OTV-SzyyMbj-LZMwwB7omVK-Mwj19LHb5EQaOyjhzKE2oNngvdOlPD1KXPCdmcnRxGmMeVu_0MjhO4qt0t7wSdPhMRTck78=w148-h148-n-k-no"
+            },
+            {
+                "title": "Filerimos",
+                "category": "Mountain peak",
+                "img": "https://lh4.googleusercontent.com/proxy/p8QKCKPXR-C3kHHhZoY4lMfu0CCl_X6j6ouYtPMKf9E8D_SJBLgxga8ECSHEtA6ZGHJGlktkbZ_IYLaEKOrNQbvxTTZKBQd9_pd7n9t2aKJxEMsiuR0LMBs86Uc7EsK870arehPd5aAxq-JHb41RsJRZ19kjmQ=w148-h148-n-k-no"
+            }
+        ],
+        "Chalkída": [
+            {
+                "title": "Old Evripos Bridge",
+                "category": "Bridge",
+                "url": "http://dimoschalkideon.gr/egkatastasi/i-palea-gefyra-tou-evripou/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-DFqZyLohQLAQhtjE8E_2moBkHesCldiOgk_F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Πολεμικό Μουσείο Χαλκίδας",
+                "category": "War museum",
+                "url": "https://warmuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMCV0HeElcEgHsCZwlKs9_vxw1es81DEXPSo5O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alykes Drosia",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3NgYjHryxIsbqhP6ldjM7pvrNwFACWLnlOG4L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Travel the Greek Way",
+                "category": "Travel lounge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZJ_dmjjtXnUcyK_QVsd0er1QaSHVNPL-FQoAC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parthenon",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=912",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Olympian Zeus",
+                "category": "Historical place",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=12863",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRvFoAD8h9fuFSDDP-uhG_xPkIexwnK0EXLVqw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Theatre of Dionysus",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=10341",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP58J0KcTkT-LWbOXrPhheBEJH_dphaKEZO51bv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis of Athens",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2384",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.theacropolismuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Archaeological Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.namuseum.gr/",
+                "img": "https://lh4.googleusercontent.com/proxy/9fnkLZjTmB_oI1C9jP869sfP5njfitK4S5nF0V6xHJgIwz3FZP9kz2lnTk_yYHYb0N3PQN-91YKm7oXmcsZdOtGYniFTlANVD4hzYwiIr7IIMEUtExXhyk7M2BGQVJINJUuSiDPJa2dilXJKGORYQad7fjR3MNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaka",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtFpP_VssXmgc8V9tvMXMYByHfkWOxFEl7egc-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Lycabettus",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUHFw6WX-P7Ypd8MoAR2QKjcvoxTuqOePIGy3T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Syntagma Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLcjNTs3V65AKXCnQV7U8qaBS9Q921k0x2Yyun=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Archaeological Museum of Chalkis Arethousa",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTMhNhaFo3mwSRvwZTGMwTnPBkQBYWCoqcik5B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emir Zade Mosque",
+                "category": "Historical landmark",
+                "url": "http://dimoschalkideon.gr/egkatastasi/tzami-emir-zade/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6jYX9ytPaxCsQaIz_B4QYs5uKWHdTEguga0tz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karababa Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2JMiR7E24ABoutwDOKQVC7a1cntbkQc2DYriH=w148-h148-n-k-no"
+            }
+        ],
+        "Pátra": [
+            {
+                "title": "Gribovo Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKdSYJ1RmHB4u7Sw7Lf8yWAzyrCBwHjzQlyN1g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of Saint Andrew",
+                "category": "Greek Orthodox church",
+                "url": "http://i-m-patron.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtKDGRH7TJoqNWMWEdzEhbfP1Ky4DjpZtxfZdh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Petite Boutique",
+                "category": "Children's Amusement Centre",
+                "url": "https://www.facebook.com/PetiteBoutiquePatra/?ref=aymt_homepage_panel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHOwatub2NMbsncr-cYsGGVjYHLrVZNoYG3PHB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Edem Spa Χαμάμ & Μασάζ",
+                "category": "Massage spa",
+                "url": "http://www.edemspa.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM37gEYZriISxoNVGLpJUbDi-PHmVrkxEaGx5x9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Agiou Nikolaou",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7EQEiU5w_jcVKQa1te2r1rhaN4ODK2RVbrsV5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Strofylia National Park",
+                "category": "State park",
+                "url": "https://strofylianationalpark.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwWyL3WrEo6B-F2jn91PBC6yHWt_gVWHdFPuN4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tetramythos Winery",
+                "category": "Winery",
+                "url": "http://www.tetramythoswines.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5XL_ZscOoo2_Xn1alz4M_f8miAYoAuapPO9ST=w148-h148-n-k-no"
+            },
+            {
+                "title": "UNDER VR",
+                "category": "Amusement Centre",
+                "url": "http://undervr.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMURA8-grw5kEMpNJ2AcU4kjWR09-222D8uy7Xs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gerokostopoulou",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO8y7T1gLtR-jadLeRaqU4kg4A6qXfRxL3Ba7w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Varasova",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxrT140IcneFsUNjYXIeHwOLwUPBDLgVl7Cng8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lakopetra Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf4_2sVUhOQ4-pnPrqZ32q4NojiwjGx1vZIAVy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Charilaos Trikoupis Rio - Antirrio Bridge",
+                "category": "Bridge",
+                "url": "http://www.gefyra.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKY8dKCqJj58eIZdlGUHbcxAmDLTJT_tbu4a60=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kotýchin laguuni",
+                "category": "Lagoon",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0vR_cT4DvmTS-54__oC_ZpLZv9wSnaiEyn8JV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laser Tag Arena Patras",
+                "category": "Laser Tag Centre",
+                "url": "https://lasertagpatras.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqz62AUneySTSRgfpm9JNQ14PTvQkrO4hLEok=w148-h148-n-k-no"
+            },
+            {
+                "title": "KiteBoardingSchool Cape Drepano",
+                "category": "Sailing event area",
+                "url": "http://www.kiteboardingschool.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPU1iSKURDEqcpx72fFu3ENU_oGMvLn4wSWmN1x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Patras' South Park - Notio Parko Patras",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFj3igoLBJqaIWevrEA-1qMPGFXuWNAawX17qD=w148-h148-n-k-no"
+            }
+        ],
+        "Irákleion": [
+            {
+                "title": "Herakleion Venetian Port",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcF66M-UOBZc_MVpNGCfOyp_3pVisbWcnkG37M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Ancient Greek Technology by Kotsanas",
+                "category": "Museum",
+                "url": "https://kotsanasmuseum.com/our-museum-in-crete/?lang=en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBVyMoS5yxnLxHy-Z3HgIGHy2UtZN0HRirp6J-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heraklion Archaeological Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.heraklionmuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVnojSmIpWBzrfoeHFrCftF4HDowR3dIytZMEB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Morosini Fountain",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQTrFX1VH1DhWGqXBtm1HkvhbpFSKARsUf1fg=w148-h148-n-k-no"
+            },
+            {
+                "title": "1866 Street Coffee Bar",
+                "category": "Cafe",
+                "url": "http://1866.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONEXQGUiLWeUp3KtRaG6DUH2NuU4-Jj8o9eLbJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Historical Museum of Crete",
+                "category": "History museum",
+                "url": "http://historical-museum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSIZ4p6nmcqaH2R0KEhtdMgJuG1ZQC1lWB4KDg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Titus Herakleion Holy Orthodox Cathedral Church",
+                "category": "Cathedral",
+                "url": "http://www.agiostitos.gr/",
+                "img": "https://lh6.googleusercontent.com/proxy/uV5PJNxbe8EJlW4miiQ-gQhV-zKYwVu-oHCOu4PjJMaHW22_pDTHqcRX33m3orFqxdwnvDPiE2Igm8cpKpnDZyunG_lHPOW2jkEnJM63hpvlcHl5Zvj6Ck06_GbGh4-F_-Dyq6MqllHpf0-yMY1ivXxWx2C8-XA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rocca a Mare Fortress",
+                "category": "Fortress",
+                "url": "http://koules.efah.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzou4I4XJx5VPEFMVZp7WDZBbwb24-cCqAEnjS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natural History Museum of Crete",
+                "category": "Natural history museum",
+                "url": "https://www.nhmc.uoc.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNydG7gpzu5Fd4o8PfaDxIlMPtL_N6oUETwyBbR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Agios Minas",
+                "category": "Cathedral",
+                "url": "http://www.iak.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlbtidRNqHZhpiMH_R5iCWrwX-NThnduNmrNf-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ammoudara Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTEFOlQmB1SUX7H3kcnRVmVH6ZeMP2qvESpFqk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statue of Eleftherios Venizelos",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjw8OHkKhVANua62DWAdJ7nH6NLMiVMyNfkFoO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Knossos Palace",
+                "category": "Open-Air Museum",
+                "url": "https://hhticket.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMX1mlp1jYdrwcD4itHkJVd87Mut0RHyCd1ltwL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Venetian Shipyards / Vechi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKCXgtJpAIVR4MV3eyre-4nKf36S1uK50_S0hL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wines of Crete",
+                "category": "Wine club",
+                "url": "http://www.winesofcrete.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOW9msMEm3XSPBrrQGn9NoXlNUQ2zSusCK6T00C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acqua Plus",
+                "category": "Water park",
+                "url": "http://www.acquaplus.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMH3apT9P2vPdx_eOn_62awqYdM3PETRi0XHKCc=w148-h148-n-k-no"
+            }
+        ],
+        "Agios Dimitrios": [
+            {
+                "title": "EXITWAR Άγιος Δημήτριος",
+                "category": "Laser Tag Centre",
+                "url": "https://www.exitwar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbhrLB5tdkXAXgh1619CIodC4pcyW20-lOHbZq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Azzurro Diving",
+                "category": "Diving Centre",
+                "url": "https://www.azzurrodiving.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZop98AsMUB5hDEzkrsvYX-1kDA_V9JdeG-Oh_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Get Out Escape Rooms",
+                "category": "Escape room centre",
+                "url": "http://www.getoutescaperooms.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdhtw3EQxsTRC3jhQkZ0MiXerd109-9joVR9-b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens Metro Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.athensmetromall.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9LToIOwi5NJbofRI3mzcgAPJJZmX-Cc5mNixG=w148-h148-n-k-no"
+            },
+            {
+                "title": "HolyWood Stage",
+                "category": "Live music venue",
+                "url": "http://www.holywoodstage.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDj_Ppbj7Yrp7si9VgAK79OWIBKdAmXF60-Bk6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mazer Anais beauty salon",
+                "category": "Hairdresser",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpS78ussAF9dLeKF6Zxm-bXUhBm40_dqtGiq3u=w148-h148-n-k-no"
+            },
+            {
+                "title": "VR UTOPIA Virtual Reality",
+                "category": "Amusement Centre",
+                "url": "http://www.vrutopia.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFPjFrZQN0xn0OqoF3xmb0NqCaOCvIebCt8vvt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Culinary Center and Cookery Club - Athens",
+                "category": "Educational institution",
+                "url": "http://www.mathimatamageirikis.gr/el/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPa2llLj-PFbjPkf5goku6LCKtm-VS-yK1LL1tN=w148-h148-n-k-no"
+            }
+        ],
+        "Galátsi": [
+            {
+                "title": "THE RUBICON escape rooms",
+                "category": "Board game club",
+                "url": "http://www.therubicon.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzW0Kbk2hjOTv_NnI2cSo8NxhIYnjlSwO3WO1p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Veikou Grove",
+                "category": "Park and Garden",
+                "url": "https://www.galatsi.gov.gr/building/alsos-veikou/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNynqh9qUEzaSJu11MqrAgLKm6ugDc44v06vRL2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galatsi Olympic Hall",
+                "category": "Sports complex",
+                "url": "https://www.galatsi.gov.gr/building/olybiako-gymnastirio-galatsiou-pale/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeGZtoPWpPcVIQxmVgMwrPvZxRTtHG-vgAMOgZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christmas Theater",
+                "category": "Performing arts theatre",
+                "url": "https://ct.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOv1Wg9BB5VA4tmW0P6CXLNeddRhjz8k1xsJ4oI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fuzz Massage",
+                "category": "Massage therapist",
+                "url": "https://fuzzmassage.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoxQVW997R6iSk6FXs_U4TnCCJFfzBBmEADSCx=w148-h148-n-k-no"
+            }
+        ],
+        "Zográfos": [
+            {
+                "title": "National Archaeological Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.namuseum.gr/",
+                "img": "https://lh4.googleusercontent.com/proxy/9fnkLZjTmB_oI1C9jP869sfP5njfitK4S5nF0V6xHJgIwz3FZP9kz2lnTk_yYHYb0N3PQN-91YKm7oXmcsZdOtGYniFTlANVD4hzYwiIr7IIMEUtExXhyk7M2BGQVJINJUuSiDPJa2dilXJKGORYQad7fjR3MNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Byzantine and Christian Museum",
+                "category": "Art museum",
+                "url": "http://www.byzantinemuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd-EIk4sUbpRfvUNLpGJX6O_UvnKOBlQsZqyd_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Μουσείο Γ. Γουναρόπουλου / G. Gounaropoulos Museum",
+                "category": "Museum",
+                "url": "https://gounaropoulos.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAYOiWnCbNrY67J6hiq97KYZp5tiK0JVvvoiNV=w148-h148-n-k-no"
+            },
+            {
+                "title": "FIGHT BOX",
+                "category": "Gym",
+                "url": "http://www.fightbox.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK6uUuBVwscHIB2OSnpNZx4krUX6vdQxuvpSpu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hellenic Motor Museum",
+                "category": "Museum",
+                "url": "http://www.hellenicmotormuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMS-OdYebev4f81Nzt5nNejtPIxwmw5sBSzZ_qj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalamos beach",
+                "category": "Beach",
+                "url": "http://www.beachrex.com/en/greece/sterea-ellada/kalamos-beaches/paralia-kalamos",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOV5JgiBFYM4y_E8tWcZWS4G1tKZ6yolJ-lTs-B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.theacropolismuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Acropolis Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZTKrOEycMDeuYT0gQt56x8ZyW2ghU_t9zfSvm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Site of Delos",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/3/eh351.jsp?obj_id=2371",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5pCWUjtyhHBwN53kN5WuNyMJh2oF6yXJyxI_y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Syntagma Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLcjNTs3V65AKXCnQV7U8qaBS9Q921k0x2Yyun=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSYpfY4AxYfFiTKQFkNQk05TRsL8BB3VJxLm58=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Olympian Zeus",
+                "category": "Historical place",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=12863",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRvFoAD8h9fuFSDDP-uhG_xPkIexwnK0EXLVqw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaka Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDj-ufnasv1DPWZwXG0yqXZhWMFycnqiq0eVvG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Benaki Museum",
+                "category": "Museum",
+                "url": "https://www.benaki.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUcZXRJ2FRu9KwWTDQ4jRDlejF3SCnOj9Tun5r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Drimona",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhYQs0WsM540pzY3BB5xfvwCruGDJojTbLny3K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matogianni Hotel",
+                "category": "Hotel",
+                "url": "https://matogianni.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwEtzm3H31Nw1dzIWCaSAumaEt3Xieg-tCHcRU=w148-h148-n-k-no"
+            }
+        ],
+        "Maroúsi": [
+            {
+                "title": "Golden Hall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbg0ivoGuTgGez4QgzmS6d-fZhi0T5RvLzMMpZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "XPLORE Entertainment Center",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLVglSWnzsG4U3SvdGMJNKuQ6BL1DW2Y5qHOwi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parthenon",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Archaeological Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh4.googleusercontent.com/proxy/9fnkLZjTmB_oI1C9jP869sfP5njfitK4S5nF0V6xHJgIwz3FZP9kz2lnTk_yYHYb0N3PQN-91YKm7oXmcsZdOtGYniFTlANVD4hzYwiIr7IIMEUtExXhyk7M2BGQVJINJUuSiDPJa2dilXJKGORYQad7fjR3MNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens Olympic Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9W2UmSuumQPSLuqUBFFbnmxbdiYHXijUUFejV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Olympian Zeus",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRvFoAD8h9fuFSDDP-uhG_xPkIexwnK0EXLVqw=w148-h148-n-k-no"
+            },
+            {
+                "title": "LEGENDARY RIDES",
+                "category": "Motorbike rental agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCj0TUVjJqaMki8SAD8p0_BDs1ukYRtb04AdNY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinema Chloi (Therinos)",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEmqZ0_kTDiSGHvXHgsv5UT0dL7NEThhSa3PSW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amphibious Diving Center",
+                "category": "Dive shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQOUZtg-7mOGHhmyOCKXyDmU9e7inu9uDNg-ia=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mamush Gallery",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt4GTOkkyWb4cbZBqw7ycZNlQ6PnWbWn7Ob_Ef=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kifisia",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjbQIDdbb6B0nSQqzlDtwLF4dKe8TBzS8OVWA4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens Olympic Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiNF7n-S3iHirB0jfzRH4Xr7eaveh4DhSc35uh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaka",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtFpP_VssXmgc8V9tvMXMYByHfkWOxFEl7egc-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Syntagma Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLcjNTs3V65AKXCnQV7U8qaBS9Q921k0x2Yyun=w148-h148-n-k-no"
+            },
+            {
+                "title": "Like Picasso Events",
+                "category": "Painting",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNI0W_4fLsBUWI9Jwi9IAHNNLIfcmsYt6Pqwv6g=w148-h148-n-k-no"
+            }
+        ],
+        "Kalamariá": [
+            {
+                "title": "Thessaloniki Concert Hall",
+                "category": "Philharmonic hall",
+                "url": "http://www.tch.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKg8SwvFaaDL5wBI6IfNIQloDwfUq8rFej29d4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of Saint Demetrius, Patron Saint of Thessalonica",
+                "category": "Greek Orthodox church",
+                "url": "http://agdimitriosthes.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCTVfO6g1xgZQZfJytiUOyu9L6mEdvp-pglcMK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mediterranean Cosmos",
+                "category": "Shopping Centre",
+                "url": "https://mediterraneancosmos.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYpTTvAiKenTipOkoCYCQ2g_ensQl6R8k7oLh5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Waterland",
+                "category": "Water park",
+                "url": "http://www.waterland.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxTQiqFpU19_YWEH9h8X_ihGng8_Z9rohFeGJD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Battlenet 3D Kalamaria",
+                "category": "Internet cafe",
+                "url": "https://battlenet.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgBMzKW44dLpqXlQmtEibm5PQHmR5PAYkI1FHZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Thessaloniki",
+                "category": "Archaeological museum",
+                "url": "http://www.amth.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNI9anD-AFD86lUX0pkNUGjI0aGJUEZ0j7Cgj7O=w148-h148-n-k-no"
+            },
+            {
+                "title": "MOMus-Μουσείο Φωτογραφίας Θεσσαλονίκης / Thessaloniki Museum of Photography",
+                "category": "Art museum",
+                "url": "http://www.momus.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGtnM3naarhDeqbeQ50osTJUmo0PAjUDOqiZsY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rotunda",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsLg0ysc7rKGB3NidnPaBButLFo5-0-avGksMd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atatürk Museum",
+                "category": "History museum",
+                "url": "https://www.kultur.gov.tr/TR,96346/selanik-ataturk-evi.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrj3TJPoHKIF-TEyryQzFlyfQffJe_fSZ2w2fp=w148-h148-n-k-no"
+            },
+            {
+                "title": "White Tower of Thessaloniki",
+                "category": "Historical place",
+                "url": "http://www.lpth.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoi0K2CT4mSU4m5z12X5lI9teFZvPgDhXkkZrk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch of Galerius",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=1425",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPARdydXvO2-w-TQfuGh6ceQPhlUSJDaGE4R8gE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thessaloniki City Center",
+                "category": "Holiday Flat",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBGuLtcF8Y3c8u2s3p7ITv7B3UcpoUFQo6W7g1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anahata Yoga Studio",
+                "category": "Yoga studio",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDRFXEviviJiUyCaj3lYIK4Mpwr1li8dhWnZVA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aretsou Marina Thessaloniki",
+                "category": "Marina",
+                "url": "http://www.thessaloniki-marina.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyza_31Qu3pG2-nMPuAXCXO335M1aqqX6RJkLl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Keleon Olive Products",
+                "category": "Novelty shop",
+                "url": "https://www.keleon.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlwk2rdheXYYUuJjmz6dnAquKVY_8D-ZLsrnaT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cafe Bar 51",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNglPObyTjm59okYv0rjKQsWh0HYs0Kv956g-eL=w148-h148-n-k-no"
+            }
+        ],
+        "Ílion": [
+            {
+                "title": "Escape-land",
+                "category": "Escape room centre",
+                "url": "http://www.escape-land.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWnkHxdL6jE2R5O9KG7ZRGsX28z-tTLz1QJ0Yd=w148-h148-n-k-no"
+            },
+            {
+                "title": "School of diving",
+                "category": "SCUBA instructor",
+                "url": "http://www.schoolofdiving.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrtY4OqMr6ix5rmaWM7Tdhuwn9HU3LgqhZy5Tz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antonis Tritsis Metropolitan Park",
+                "category": "Park and Garden",
+                "url": "http://parkotritsis.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmyHSEYmHU3e-m8UM0pRZtKEEj9h3hqURUfHoS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skitso Cafe",
+                "category": "Cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5YPzLwp_ZDQiDlzoovyIaVo-5zK8ovXS7nTZM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Queen Amalia’s Tower Estate",
+                "category": "Castle",
+                "url": "http://www.pyrgosvasilissis.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUVKG2kQNrDg3foeRqdlYF7FvWAEmj4t38V991=w148-h148-n-k-no"
+            },
+            {
+                "title": "vidulus.gr",
+                "category": "Luggage Shop",
+                "url": "https://www.vidulus.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgRq2DRt-Jo0Cv8yO7JSPLXJGQFa-jgrtf9rLQ=w148-h148-n-k-no"
+            }
+        ],
+        "Ioánnina": [
+            {
+                "title": "Castle of Ioannina",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv8og3MLwff_d7qeVTerv1HXXt9R6sM0a5ItTt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silversmithing Museum",
+                "category": "Heritage museum",
+                "url": "http://www.piop.gr/el/diktuo-mouseiwn/Mouseio-Argyrotexnias/to-mouseio.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPruIXfyyTKH1GIsDtRWmaqfhNhv2F56KrdoSZP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum \"Arslan Pasha\"",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOHKY77UK1PwbdJmRljHCF7frtesJPBn8HyXTl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ali Pasha and Revolutionary Period Museum",
+                "category": "Museum",
+                "url": "http://museumalipasha.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVMvbHWof61vlqRj9ZqVLR27emtQa6pCNkvTzJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Ioannina",
+                "category": "Archaeological museum",
+                "url": "https://efaioa.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBiOqxiSh6n9F4NfMH1MJzMTvYkoDtbn1s4BL9=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Clock Tower of Ioannina",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1Nm_vc-ghSXD7_c5LcpwzjGpU414Zwbfyc2t_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Katsari park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmBDX_tgR3C1bmeFqFXewlLyE6l24zvuzovvj7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Its Kale Boutique Hotel",
+                "category": "Hotel",
+                "url": "http://itskale-hotel.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4_TpV6CEjEdQHUNv4EvY_nan0t-RN7VN5tiL7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Ethnographic Museum of Ioannina",
+                "category": "Ethnographic museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9EPLTyJlU3CzJX526VmWSyFZYS3wB86tkd5tz=w148-h148-n-k-no"
+            },
+            {
+                "title": "\"Zosimades\" National Stadium of Ioannina",
+                "category": "Stadium",
+                "url": "http://www.peaki.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN03VECfYbeqLRQ7RMZf9iAoE-UMko5oTwss3rH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odeon Cineplex Paralimnio",
+                "category": "Cinema",
+                "url": "https://www.odeon.gr/grs/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6aUuHmI4PwlaKW0P8dPDV8WBwCHnIVeygPqM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vikos Gorge",
+                "category": "Nature reserve",
+                "url": "http://www.pindosnationalpark.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6Zo9nR3G2gP5NJmEmFycb30NLAC4WOCN9IDbc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Enjoy paragliding",
+                "category": "Skydiving Centre",
+                "url": "http://www.enjoyparagliding.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPM6KEGXZNTWx7UBIN-2yIoNq0SS_XAaX8bj45O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Monastery of the Great Meteoron -Transfiguration of the Saviour",
+                "category": "Monastery",
+                "url": "https://www.meteoromonastery.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtVSpphrazmPhiWhyy4rs6DRO7-CL39WYs4u_Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bikewise Travel",
+                "category": "Travel Agent",
+                "url": "http://www.bikewisetravel.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWmEA9Vi2XN3JIbYc_ZBY6ZisPiWzJuCiVaPkR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Μουσείο Ελληνικής Ιστορίας Παύλου Βρέλλη",
+                "category": "Museum",
+                "url": "https://vrellis.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPueo7dJTnn5zCTwWdxYuSpiySxtO6z2PaPsjCE=w148-h148-n-k-no"
+            }
+        ],
+        "Palaió Fáliro": [],
+        "Níkaia": [
+            {
+                "title": "Zempi Place",
+                "category": "Bar",
+                "url": "https://www.facebook.com/ZempiPlace",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfIVbIiEByfSGHoGVb0nSu4noJ4vMR_OKe1NHy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens International Airport \"Eleftherios Venizelos\"",
+                "category": "International airport",
+                "url": "https://www.aia.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxgZIeCT91bGm-jizUK7tk0Gk172cYmXPdI66V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odyssey escape rooms",
+                "category": "Escape room centre",
+                "url": "https://odysseyescaperooms.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNFEU9anNcJTapminju9MneH8QdeuSHiwPXs-L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSYpfY4AxYfFiTKQFkNQk05TRsL8BB3VJxLm58=w148-h148-n-k-no"
+            }
+        ],
+        "Výronas": [
+            {
+                "title": "Panathenaic Stadium",
+                "category": "Stadium",
+                "url": "http://www.panathenaicstadium.gr/%CE%91%CF%81%CF%87%CE%B9%CE%BA%CE%AE/tabid/40/language/el-GR/Default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFWTNgdoMNsj5aBHkcckgIRCTmLua69_lXiVMe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basil & Elise Goulandris Foundation",
+                "category": "Art museum",
+                "url": "https://goulandris.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe9PAMgfPMg5fxYruE5Kv7IbVxkMxYu8c4ly3s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Byzantine and Christian Museum",
+                "category": "Art museum",
+                "url": "http://www.byzantinemuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd-EIk4sUbpRfvUNLpGJX6O_UvnKOBlQsZqyd_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Cycladic Art",
+                "category": "Art museum",
+                "url": "http://www.cycladic.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqS5VPj3ZDoL_RLFfi1ADU7JczXJp0ufu_rKL0=w148-h148-n-k-no"
+            },
+            {
+                "title": "War Museum Athens",
+                "category": "War museum",
+                "url": "http://warmuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7IIo5gZ1w12XDeegNJujvJVjGerms9ePrK8L1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panos Rent a Scooter",
+                "category": "Motorbike rental agency",
+                "url": "http://www.rentascooter.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzZMxNrcbxFEIY9YNi6CCMKblVlBMNawcol9PM=w148-h148-n-k-no"
+            },
+            {
+                "title": "First Cemetery of Athens",
+                "category": "Cemetery",
+                "url": "https://cem.cityofathens.gr/1st_cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSRp0lMitp0lBBtG6wx-0yBkqI3Am38Md9TBWH=w148-h148-n-k-no"
+            },
+            {
+                "title": "MotoGreece - Motorcycle Tours & Rentals",
+                "category": "Motorbike rental agency",
+                "url": "https://motogreece.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_amkbcJhcHnX0-qp9EdTSbKz5vM8jXaHWe3BL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens Taxi Wagon Service",
+                "category": "Taxi service",
+                "url": "https://www.athenstaxiwagon.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAIFxr_FQDysKHNCO3ZvPkzdX1grMLMW1bRp2L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Brauron",
+                "category": "Archaeological museum",
+                "url": "http://odysseus.culture.gr/h/1/gh151.jsp?obj_id=3359",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBUDdXv8UvJk6GnNLzDDmUdq0lJLRHwPBUYpdB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Benaki Museum Cafe Restaurant / Benaki Museum of Greek Culture",
+                "category": "Cafe",
+                "url": "https://www.benaki.org/index.php?option=com_buildings&view=building&id=11&Itemid=532&lang=en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXFg_w4mBagOYEaNxOdWxzpgGr10iOACHJl82P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Artemis at Brauron",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaHuae8_SplZGWkqDbtMXFwgE7wrwuWfzGTbwb=w148-h148-n-k-no"
+            },
+            {
+                "title": "ATHENS TAXI DRIVER",
+                "category": "Taxi service",
+                "url": "https://athens-taxi-driver.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAqG5deKL_1e4S2DX5EdknixwG5V6o-5MFn02d=w148-h148-n-k-no"
+            }
+        ],
+        "Néa Smýrni": [
+            {
+                "title": "Acropolis Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.theacropolismuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parthenon",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=912",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odeon of Herodes Atticus",
+                "category": "Amphitheatre",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=6622",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEMVXT7-1Z4gpjvOFr-CSBUyes015tTUsLNrOP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens National Garden",
+                "category": "Garden",
+                "url": "https://www.cityofathens.gr/who/ethnikos-kipos/",
+                "img": "https://lh3.googleusercontent.com/proxy/oihdIXi4o3tP2PXNeHRb7LkxMChTDW1w7dsK3MCiDLSlK35KL1hQQ9Xefp1Zgvzdb4GlpAHMTC7BsPG8ZraNcAM5qbsA2JYF3zyOzOOQP-VdZbNxRX_S75EzxWRyzNJaIaO24T1oHLLCTqskrHdHKkIWZSYGQ8k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Theatre of Dionysus",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=10341",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP58J0KcTkT-LWbOXrPhheBEJH_dphaKEZO51bv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flowershopping.gr (Ανθοπωλείο Αθήνα)",
+                "category": "Florist",
+                "url": "https://flowershopping.gr/el",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx0TwGXSJ84i4VVCaaZwbRMXni5KC_GfLWPIDT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaka",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtFpP_VssXmgc8V9tvMXMYByHfkWOxFEl7egc-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis of Athens",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2384",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Olympian Zeus",
+                "category": "Historical place",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=12863",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRvFoAD8h9fuFSDDP-uhG_xPkIexwnK0EXLVqw=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Archaeological Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.namuseum.gr/",
+                "img": "https://lh4.googleusercontent.com/proxy/9fnkLZjTmB_oI1C9jP869sfP5njfitK4S5nF0V6xHJgIwz3FZP9kz2lnTk_yYHYb0N3PQN-91YKm7oXmcsZdOtGYniFTlANVD4hzYwiIr7IIMEUtExXhyk7M2BGQVJINJUuSiDPJa2dilXJKGORYQad7fjR3MNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "THE MASSAGE PROJECT",
+                "category": "Massage spa",
+                "url": "https://themassageproject.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMB5wMc93tsqPBg0gZAAtZXanbn-RGI9VrnM71=w148-h148-n-k-no"
+            },
+            {
+                "title": "Poros",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXD9OxnQLi3910ecu1ehoLNBLGu09MDWA7fAvw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paradox Project",
+                "category": "Escape room centre",
+                "url": "http://www.paradoxproject.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-DndYIhNqSKFf5cz_7V0rcFCPUfByC38_lSnM=w148-h148-n-k-no"
+            },
+            {
+                "title": "ATS - Athens taxi services",
+                "category": "Travel Agent",
+                "url": "http://www.athenstaxiservices.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNA5WwzmElGXRy2786I62NurFH2Z6VtwFu5npZQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSYpfY4AxYfFiTKQFkNQk05TRsL8BB3VJxLm58=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jackals Tattoo Athens",
+                "category": "Tattoo and piercing shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO09pscaXaHRkDQSUa3ptVkHRSIdC15H7hF_aBn=w148-h148-n-k-no"
+            }
+        ],
+        "Volos": [
+            {
+                "title": "Athanasakio Archaeological Museum of Volos",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ6UXGwciYQ9LfE7OxroW9CKoYsAPA9P0A8Me7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entomological Museum",
+                "category": "Museum of zoology",
+                "url": "http://entomologikomouseio.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiXCUGl8t6i7RhbWgFsrvQDq7iKxN2owo0UGFO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centaurs' path",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO61YbFcsqeg7irhmk5vDlPxImdE0FVLbE9cYjv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Μουσείο Πλινθοκεραμοποιίας Ν. & Σ. Τσαλαπάτα",
+                "category": "Heritage museum",
+                "url": "http://www.piop.gr/el/diktuo-mouseiwn/Mouseio-Plinthokeramopoieias-Tsalapata/to-mouseio.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRs6ZP9Nna-mn8nYa4OToc46wYH5dp9EfZiah9=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Nicholas Metropolitan Cathedral",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMX7HzfOM02Ko5vYCREeNrHJd3Do0F7LZXVey4F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis of Athens",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2384",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panagia Portarea church",
+                "category": "Greek Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj34EUao57MDgjmEaMLXBmJ8EUxd4ZUvE9pmFP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Agiou Konstantinou",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMN13NJYoY1tZHd7gmBlWinPOV30S_Ct66Cj_PO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spring Of Manas",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5iHjch-crOJnUCbANkCKzS9MOzGUuoB6u4u9y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pelion",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAhJgjb3d2cSjSxcouTgRx8FWr6qgi6zMqah7N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Karla",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4WlnT6fK_bEPsTucy5MYK_3lOvC00vB4j1Om8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paralia Ampovos",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3Q1vwTnpsKV1l-YbNOQwmxK1Wsp914F-2R7Ei=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paralia Paltsi",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMT08ant7DXXdAhugMNxJW4sq77FDP62vF0QuvW=w148-h148-n-k-no"
+            }
+        ],
+        "Thessaloníki": [
+            {
+                "title": "White Tower of Thessaloniki",
+                "category": "Historical place",
+                "url": "http://www.lpth.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoi0K2CT4mSU4m5z12X5lI9teFZvPgDhXkkZrk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Thessaloniki",
+                "category": "Archaeological museum",
+                "url": "http://www.amth.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNI9anD-AFD86lUX0pkNUGjI0aGJUEZ0j7Cgj7O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch of Galerius",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=1425",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPARdydXvO2-w-TQfuGh6ceQPhlUSJDaGE4R8gE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aristotelous Square",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdCRcXyZWl8aO9pdUpHzBFrwSqWuIzitf5_6Mo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of Hagia Sophia",
+                "category": "Cathedral",
+                "url": "http://www.agiasofia.info/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_0e6PinXzVI-BCsweHd1x2BHTc0RQY818Ta0L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rotunda",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsLg0ysc7rKGB3NidnPaBButLFo5-0-avGksMd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Byzantine Civilization",
+                "category": "Museum",
+                "url": "https://www.mbp.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXkTcPfKWoRJhsQOpyrYilCO5kDaLuVrCNtw6U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atatürk Museum",
+                "category": "History museum",
+                "url": "https://www.kultur.gov.tr/TR,96346/selanik-ataturk-evi.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrj3TJPoHKIF-TEyryQzFlyfQffJe_fSZ2w2fp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Church of Saint Demetrius, Patron Saint of Thessalonica",
+                "category": "Greek Orthodox church",
+                "url": "http://agdimitriosthes.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCTVfO6g1xgZQZfJytiUOyu9L6mEdvp-pglcMK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vlatadon Monastery",
+                "category": "Monastery",
+                "url": "http://pipm.gr/el/node/925",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXDz95bklDkYva9fzYied3u5lJirrLZfkk9KXS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jewish Museum of Thessaloniki",
+                "category": "History museum",
+                "url": "http://www.jmth.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOD80UJifx1l64DPzifEhqq1XjUGCCIG_bS06mp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thessaloniki Concert Hall",
+                "category": "Philharmonic hall",
+                "url": "http://www.tch.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKg8SwvFaaDL5wBI6IfNIQloDwfUq8rFej29d4=w148-h148-n-k-no"
+            },
+            {
+                "title": "MOMus-Macedonian Museum of Contemporary Art",
+                "category": "Museum",
+                "url": "http://www.momus.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeASgfeZd_l-yKjZlIAhgIOUBKEzyRCwgkQvKg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thessaloniki Waterfront",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4sWy_utxX-hV3keGuNnGd_Dz-2u4WywwjMc1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Agora Modiano",
+                "category": "Market",
+                "url": "https://agoramodiano.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaR-bgyppls_6pD9l0K1abfbAMW8h3RqrzaUi5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trigoniou (Chain) Tower",
+                "category": "Historical landmark",
+                "url": "https://web.facebook.com/%CE%95%CF%86%CE%BF%CF%81%CE%B5%CE%AF%CE%B1-%CE%91%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CF%84%CE%AE%CF%84%CF%89%CE%BD-%CE%A0%CF%8C%CE%BB%CE%B7%CF%82-%CE%98%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7%CF%82-171313346857754/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNh59c7Rn967k5mdYTngEZJLnRgyOT2bRg1BPvP=w148-h148-n-k-no"
+            }
+        ],
+        "Chaniá": [
+            {
+                "title": "Archaeological Museum of Chania | Αρχαιολογικό Μουσείο Χανίων",
+                "category": "Archaeological museum",
+                "url": "https://www.amch.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5NO8a03VY9ORfrGoD0jzIlL_a2oKHNgcuDV9m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eleftherios Venizelos House",
+                "category": "Museum",
+                "url": "http://www.venizelos-foundation.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoXK0eAhBxcqiAi-_83YlyrJD8XEOeQrlb_SIQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Art Gallery",
+                "category": "Art Centre",
+                "url": "http://pinakothiki-chania.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN51l3e_daKrAUshMN1LUL8GJnn4xsUSJv5pSUP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koum Kapi Beach",
+                "category": "Beach",
+                "url": "http://www.cretanbeaches.com/el/%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%CE%B9%CE%BF%CF%82-%CF%84%CE%BF%CF%85%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B5%CF%82-%CE%B4%CF%85%CF%84%CE%B9%CE%BA%CE%AE%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1-%CE%BA%CE%BF%CF%85%CE%BC-%CE%BA%CE%B1%CF%80%CE%AF",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkLkMSYu5GHZhHpKmPsmdSmT_9V31aldejcPKS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Folklore museum of Chania",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBNX1Eqkhr19HWKIqdm5ZHTUdzBcmM-24Z8aWw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tampakaria",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXo112hoP1wMS85KHgPvf2J2ujT4xvdLqmU-hE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Byzantine/Post-Byzantine Collection of Chania | Βυζαντινή/Μεταβυζαντινή Συλλογή Χανίων",
+                "category": "Archaeological museum",
+                "url": "http://odysseus.culture.gr/h/1/gh155.jsp?obj_id=3334",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTHO317nLvCtdSX6LQ9yxBO1GDaKrFpYhOGeVl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Splantzia Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8WJGhlFB8s46sRJgvbzx_zT3jOzesoz18Dhw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanical Park & Gardens Of Crete.",
+                "category": "Botanical garden",
+                "url": "https://www.botanical-park.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4CvRrCm3BfA97BsVvOTCIhEqEBDznS5jhCCDw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Golden beach",
+                "category": "Beach",
+                "url": "http://www.cretanbeaches.com/Beaches/Chania/golden-beach/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5HOHe0wsuk5UVZlrciGuv7XTiSgeNDoSUiKRR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Venizelos Graves",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND6XyRNZg30qmyGWITPqHp6Ugcj48YQQyCFSpO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum Of Typography",
+                "category": "Museum",
+                "url": "http://www.typography-museum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6OIh8JyVoClmWcojo9RhpL5_b8hbWfRR04b0N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Limnoupolis",
+                "category": "Water park",
+                "url": "https://www.limnoupolis.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv7KbCDJu_lOsFsjwLi6JGLrMpVQnmaPCsrLGR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marathi Beach",
+                "category": "Beach",
+                "url": "http://www.cretanbeaches.com/el/%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%CE%B9%CE%BF%CF%82-%CF%84%CE%BF%CF%85%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B5%CF%82-%CE%B4%CF%85%CF%84%CE%B9%CE%BA%CE%AE%CF%82-%CE%BA%CF%81%CE%AE%CF%84%CE%B7%CF%82/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1-%CE%BC%CE%B1%CF%81%CE%AC%CE%B8%CE%B9-%CE%B1%CE%BA%CF%81%CF%89%CF%84%CE%AE%CF%81%CE%B9",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbAmMfk8BXFaxIKplmIdvuCcxHZh2a09Op5LTs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Chania Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5pJmk4UthpQQ4vLcq7tLaY3TkcWxU2xYkjbzt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kucuk Hasan Mosque",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAQoroPSi6_0Z2iXM4WA4Mr-1RlXyhDlEwBuhD=w148-h148-n-k-no"
+            }
+        ],
+        "Kateríni": [
+            {
+                "title": "Katerini Municipal Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJTmyqdqUjVHu5gZM29ZcxLP2S6AAQoFJX_Txe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Intercity Bus Pieria",
+                "category": "Bus company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO7KmKoWkZrd72z91_oOk5LUVUpM3ObV9QQc2B=w148-h148-n-k-no"
+            },
+            {
+                "title": "White Tower of Thessaloniki",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoi0K2CT4mSU4m5z12X5lI9teFZvPgDhXkkZrk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aristotelous Square",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdCRcXyZWl8aO9pdUpHzBFrwSqWuIzitf5_6Mo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Esodeia Agriculture",
+                "category": "Fruit and vegetable shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-0_vDaUopcskr6iv0TFFnA9AVP35OVcHBm5us=w148-h148-n-k-no"
+            },
+            {
+                "title": "RAVAL cocktail yard",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCXpHeU9m4LRvTpwU2S51M8sBVf9psgg9ahp-7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Padma Shala",
+                "category": "Yoga studio",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzduuFeLmHaT7ywfFed6wgU9TiayTWiJwUZHxN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Olympus",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMi5nIS1b5AN0M_lqn8fGuB-4H08q1CFUX06ls=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kourtis Winery",
+                "category": "Winery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO07taaz4bggbijGQJAWG0ip9IPrZtoxcD7bUs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skotina Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMboeGzQJ-6bhIXGovVhUeLBDN_uK-ibapsxkKC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Πλαταμώνας",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQuvMIWglbKJ7u8D5vNs36bYOTz3dyQfYTFeDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Olympiaki Akti",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjaidgyPdJnNE7V5zLgQWCdKaGljlxB6Lpv0z1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Korinos beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJrLoOO6RQJmO9FNMcVcxGJw9y0WJWZOHsiQsI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Site of Dion",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZNoc1UFT2Mj2_-xWgoxDTWWgPwUclJtTB2xXh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paralia Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPojH7EUZlq3bXMm3HFDbRXTLj5c2LeKkfp_MLe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Dion",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfesfJTCa75tMlZ5PT6gx5uUJ01NCrjghONgYN=w148-h148-n-k-no"
+            }
+        ],
+        "Petroúpolis": [
+            {
+                "title": "Miaouli Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTYi5O7AhFcbJ353-36KLRUSvjq0Ny4mCY2mM=w148-h148-n-k-no"
+            },
+            {
+                "title": "National and Kapodistrian University of Athens",
+                "category": "University",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbToEQ7SQsLPS2yjU7I4-IN88Us2zsvyPPj_C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apollon Theater",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwxedfW2QBNAmvEKBxRRyvXLpsrwbau2J_s3BA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Town Hall of Ermoupolis",
+                "category": "Town Hall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgJztPBkCDpyMtz7Kdl1D4OivEzrboXvR5zdPK=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Resistance Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtDIH_kE8t8dgUEV0v4d8_kvWGnh3BLQc-hP6G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Syros",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Po4g_MuiMfoVC5IulfEw-eInjainRgGYn-42=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kyveli Institute",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrrmxvDz8fHqvuZax95L47mbPUgtRcc-qYsM5I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis of Athens",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parthenon",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odeon of Herodes Atticus",
+                "category": "Amphitheatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEMVXT7-1Z4gpjvOFr-CSBUyes015tTUsLNrOP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Olive Tree Store",
+                "category": "Gift shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXGlDExAeGzIi9Zh3W78wvZPqYCCSGCm4k5Cob=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roman Forum of Athens (Roman Agora)",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7YDPMMsY3Lc1kBtYwm2Y7R78TXuNsXwx15v_k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Theatre of Dionysus",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP58J0KcTkT-LWbOXrPhheBEJH_dphaKEZO51bv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brettos bar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDGaD01Il8vdn8PMbndfpHPpJSIyis-zsu0FzQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erechtheion",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcwaKnokZp9kPXEAmxJK88WUHYh6-OrJlIgX2V=w148-h148-n-k-no"
+            }
+        ],
+        "Aigáleo": [
+            {
+                "title": "Cafe \"PLAyCE\"",
+                "category": "Coffee shop",
+                "url": "http://www.playce.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHmdJKjf7WXNbgUsnslDdNz4AnZeEF-16LKMgd=w148-h148-n-k-no"
+            },
+            {
+                "title": "RΙVER WEST",
+                "category": "Shopping Centre",
+                "url": "http://www.riverwest.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8mR_d2zfqPt-ntOhxyWy01BMJbz9qGgPLN8JA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marok",
+                "category": "Shisha bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFNZuHfTIis4Rp2mHdmzcseaRuAz1ebK54K-QX=w148-h148-n-k-no"
+            },
+            {
+                "title": "GAME OVER Escape Rooms - Αιγάλεω",
+                "category": "Escape room centre",
+                "url": "http://www.escapegameover.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSHeTbW7LqFTaYc9v7er_OOBs3tXLGCRCi5Enj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ice 'n' Skate",
+                "category": "Ice skating rink",
+                "url": "http://www.icenskate.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpsxEUGOEdtB1rKSbUtUhGhuI5l5b-zQZTXW7N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Utopia Massage Spa",
+                "category": "Spa and health club",
+                "url": "https://www.facebook.com/profile.php?id=100090768510030",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQJHRLIZr9hG-S44zZztoVotxIFaDQMrdcmXHx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dark Maze Escape Rooms",
+                "category": "Escape room centre",
+                "url": "http://www.darkmaze.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRyLbEB2847_wN1yK9jx1A6IvWOTWGkf2PaBbN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Etam Travel Services S.A.",
+                "category": "Travel Agent",
+                "url": "http://etamtravel.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzD75sgDFUOTdeHcN-gwPQrxklD40AxIcFkMML=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Habits",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXM1nO79rBAFVOlIHgJdTcJ7IAUYY42YjdkRpl=w148-h148-n-k-no"
+            }
+        ],
+        "Kallithéa": [
+            {
+                "title": "Temple of Ammon Zeus",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODd_o8uj_Viy4ranjeQohPSaNL5QlqOEWyHWij=w148-h148-n-k-no"
+            },
+            {
+                "title": "Terra Azapiko Extra Παρθένο Ελαιόλαδο Χαλκιδικής",
+                "category": "Food court",
+                "url": "https://www.terraazapiko.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVhhkEL8arZeZW0SYwMfyfRsYu_2yfsAR0edLk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Space Bowling",
+                "category": "Bowling Alley",
+                "url": "https://spacebowling.wixsite.com/spacebowl",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR7Jl-cTHB1-dHOHB1ZkHmXr3Lqcv7ToDER3gy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Daysailing",
+                "category": "Boat tour agency",
+                "url": "http://www.daysailing.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdh-y1_IxjdY7iEpQ9objv2YMBvSEhhHpJ95bB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Varkes Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtFNudsOwdk0OP7a59cvfvbiM3bdTlOmajqa32=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liosi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFiZuDggkrkwbJAASAsaEXNzFtIiq6_TISfSoZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paliouri Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJAzUhjTuk5K1FBt6d-ZDq6BMP1w9lc9P6oPt9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sani Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_vcPmcn51cr61OviliMK2B-UCN0v7d20j_w7s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skala Fourkas Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEHxyNP6oG_vyM8yMyWnh92iqqOwvXj92i1aDJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Possidi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrarlbiwsUA9xuwzCr7a0Y4nnIEs-RKctxyoip=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elia Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODpnTcKf7YN6q7c7aNz7MPVjdmy7-SR-vXIqgG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nea Skioni Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfrlIw10O_bl-1aWpMwwy1dqHkS2EGG0tBJXlO=w148-h148-n-k-no"
+            }
+        ],
+        "Agía Paraskeví": [
+            {
+                "title": "Vouliagmeni Lake",
+                "category": "Swimming lake",
+                "url": "http://www.lakevouliagmeni.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqFYI1fXpbKKPmUoxNRIr8qIW6FC3Qrra0UtZK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Phyle Cave",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxix5jQPwj7bVn6kxVYySc0mT4kTdyTqdfPTbb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Esc Rooms",
+                "category": "Escape room centre",
+                "url": "http://www.esc-rooms.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcAZYa0YeybcKZMQnMtW2kSQNcSyTO4tk-XOEa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Armonia Wellness",
+                "category": "Beauty Salon",
+                "url": "http://www.armoniawellness.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJWbjK3LdWGVkGZutniaZcVh7CsC5NNCgOunOB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pléei",
+                "category": "Cocktail bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpRZooyEQENEwX8KaIVWNyniD7eq05liF0Xzlf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clock Escape Rooms",
+                "category": "Escape room centre",
+                "url": "https://www.clockescaperooms.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0yuAcHS76w6zGVRoIKO7QcmGWVJTCPfDGcJL6=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Lock Escape Games",
+                "category": "Escape room centre",
+                "url": "http://www.thelock.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOB6FuwN--DlDGglb1dz-sKVWHVqS4xaNwDLYG_=w148-h148-n-k-no"
+            }
+        ],
+        "Ilioúpoli": [
+            {
+                "title": "Amazing Chocolate",
+                "category": "Patisserie",
+                "url": "http://www.facebook.com/pages/Amazing-Chocolate/27491196877",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPND7rEUDMI89PnRK28wyHTEVV44yN5BB3xq0XU=w148-h148-n-k-no"
+            },
+            {
+                "title": "No Exit Escape Rooms",
+                "category": "Escape room centre",
+                "url": "http://noexit.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8BV3ZWnvFaZfni88oK596_HrISsXInCYI14Pn=w148-h148-n-k-no"
+            },
+            {
+                "title": "ATHENS TAXI DRIVER",
+                "category": "Taxi service",
+                "url": "https://athens-taxi-driver.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAqG5deKL_1e4S2DX5EdknixwG5V6o-5MFn02d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nautilus Dive Center",
+                "category": "Dive shop",
+                "url": "http://diveinathens.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfgFqSxzkdkPgrsThOBpX2ap-gIlksIG_AsWD5=w148-h148-n-k-no"
+            },
+            {
+                "title": "No Exit Escape Rooms",
+                "category": "Escape room centre",
+                "url": "http://noexit.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRa9TmEYQbX-t4VPJN6iEt5D1aT8Y7D_wcXHtJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paragon Brewery & Taproom",
+                "category": "Microbrewery",
+                "url": "https://m.facebook.com/paragonbrewery/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQO8FefyA6GgLKAZKjPZVBgYKm9SYaPTqwutbc=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Pilot Center",
+                "category": "Amusement Centre",
+                "url": "https://pilotcenter.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv0mlwPxn_FWECu2dQPiFf5bE1sFJvc4lbEOkd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kotzia Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOw9Jt5FKM9mnU2ddEwEnCXElSOLZdNTUsNch2b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amaze by Alice Hair Nails & Tattoo",
+                "category": "Hairdresser",
+                "url": "https://amazebyalice.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZX7J251q3RU48lrq0K-nFDDIwmVYNlf0nnYGV=w148-h148-n-k-no"
+            }
+        ],
+        "Athens": [
+            {
+                "title": "Acropolis of Athens",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2384",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parthenon",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=912",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.theacropolismuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Archaeological Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.namuseum.gr/",
+                "img": "https://lh4.googleusercontent.com/proxy/9fnkLZjTmB_oI1C9jP869sfP5njfitK4S5nF0V6xHJgIwz3FZP9kz2lnTk_yYHYb0N3PQN-91YKm7oXmcsZdOtGYniFTlANVD4hzYwiIr7IIMEUtExXhyk7M2BGQVJINJUuSiDPJa2dilXJKGORYQad7fjR3MNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Olympian Zeus",
+                "category": "Historical place",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=12863",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRvFoAD8h9fuFSDDP-uhG_xPkIexwnK0EXLVqw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ancient Agora of Athens",
+                "category": "Archaeological museum",
+                "url": "http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2485#_=_",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgsZaLvoeHjp9PSIih5QDve_iPBfYCKBfGU3EK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odeon of Herodes Atticus",
+                "category": "Amphitheatre",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=6622",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEMVXT7-1Z4gpjvOFr-CSBUyes015tTUsLNrOP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Athens National Garden",
+                "category": "Garden",
+                "url": "https://www.cityofathens.gr/who/ethnikos-kipos/",
+                "img": "https://lh3.googleusercontent.com/proxy/oihdIXi4o3tP2PXNeHRb7LkxMChTDW1w7dsK3MCiDLSlK35KL1hQQ9Xefp1Zgvzdb4GlpAHMTC7BsPG8ZraNcAM5qbsA2JYF3zyOzOOQP-VdZbNxRX_S75EzxWRyzNJaIaO24T1oHLLCTqskrHdHKkIWZSYGQ8k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Hephaestus",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8ARtX1boKZba3EZ3Jas5TVJWUu9w8FHt4LDbT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panathenaic Stadium",
+                "category": "Stadium",
+                "url": "http://www.panathenaicstadium.gr/%CE%91%CF%81%CF%87%CE%B9%CE%BA%CE%AE/tabid/40/language/el-GR/Default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFWTNgdoMNsj5aBHkcckgIRCTmLua69_lXiVMe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roman Forum of Athens (Roman Agora)",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7YDPMMsY3Lc1kBtYwm2Y7R78TXuNsXwx15v_k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Benaki Museum",
+                "category": "Museum",
+                "url": "https://www.benaki.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUcZXRJ2FRu9KwWTDQ4jRDlejF3SCnOj9Tun5r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Byzantine and Christian Museum",
+                "category": "Art museum",
+                "url": "http://www.byzantinemuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd-EIk4sUbpRfvUNLpGJX6O_UvnKOBlQsZqyd_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Cycladic Art",
+                "category": "Art museum",
+                "url": "http://www.cycladic.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqS5VPj3ZDoL_RLFfi1ADU7JczXJp0ufu_rKL0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erechtheion",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=973",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcwaKnokZp9kPXEAmxJK88WUHYh6-OrJlIgX2V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Theatre of Dionysus",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=10341",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP58J0KcTkT-LWbOXrPhheBEJH_dphaKEZO51bv=w148-h148-n-k-no"
+            }
+        ],
+        "Néa Ionía": [
+            {
+                "title": "Tourkovounia",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5OTFy5-lPyWerFW63be7DZ2RV1ASPOcw6nHPQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "My Massage",
+                "category": "Massage spa",
+                "url": "https://my-massage.gr/nea-ionia/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjcScTboq9NbVn2Utu5HP289eaY7ygtvpaHiKb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Golden Gym",
+                "category": "Gym",
+                "url": "http://www.goldengym.gr/neaionia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOr5GcNa8vLA3fCUg1NaJNAAuV5AbIUWQANrmto=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sweet Bliss Events",
+                "category": "Event Planning Service",
+                "url": "http://www.sweetblissevents.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeIEDDQ1L62N4MaoWL2K15WcpVaLiu_9LPYlCD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Battlenet Arena Pefkakia",
+                "category": "Internet cafe",
+                "url": "https://www.facebook.com/battlenetpefkakia/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt2Q3LkkhmCd6FdquapX85iWWPHfTK4uete3g=w148-h148-n-k-no"
+            },
+            {
+                "title": "DESTE Foundation for Contemporary Art",
+                "category": "Art gallery",
+                "url": "http://www.deste.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNLqTq7qs351gp_b1l3NkDKHgjceDQfReEPGMB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Theodores Private Tours - Theodores Travel",
+                "category": "Travel Agent",
+                "url": "http://www.theodores-travel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTQtc_qD_zopGy4u-i6SRFGabOzJ1KMoQTqMxx=w148-h148-n-k-no"
+            }
+        ],
+        "Alexandroupoli": [
+            {
+                "title": "Lighthouse of Alexandroupoli",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0prR3Ec850zKjpFvXXWYe1_yoRwqL5wAEFdRy=w148-h148-n-k-no"
+            },
+            {
+                "title": "GEORGIADIS ACCESSORIES & SOUVENIRS",
+                "category": "Fashion accessories shop",
+                "url": "https://www.georgiadisaccessories.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQPOHsGPkcEViIwun1YldXjbaWVNFHZrCfB1kB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnological Museum of Thrace",
+                "category": "Museum",
+                "url": "http://www.emthrace.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjnEI3YTM9MjwD6Thclx0NxjchawNmPFZa1e8Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Art of Silk Museum",
+                "category": "Heritage museum",
+                "url": "https://www.silkmuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6swtT-sjjOggAbnq_EZLRIQAPRhCF2963RMN6=w148-h148-n-k-no"
+            }
+        ],
+        "Piraeus": [
+            {
+                "title": "Municipal Theatre Of Piraeus",
+                "category": "Performing arts theatre",
+                "url": "http://www.dithepi.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvuiLo3gUMRPzkJhlcM0fy-RTeleYT9W7axWE4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Georgios Karaiskakis Football Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU2lOUdXkfoCml2j6llCNe8bnF5Nytqjh4wlZP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Piraeus",
+                "category": "Archaeological museum",
+                "url": "https://www.piraeus.org/museum.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNo3nPZT5m-q026l3-02vE5gHg-erDh8sbApvqN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hellenic Maritime Museum",
+                "category": "Maritime museum",
+                "url": "http://www.hmmuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXf-khK_jpG5A8DUNUEHFLinpdl567Cr3UMpsJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mikrolimano",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVyujJ8vQ25GKnQVMc7HvWAFAhIKTA2TG-wYT8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Piraeus Harbour",
+                "category": "Harbour",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIX3pzBcjDuxWHYp3KrvdGRgLhK4qZxaFukzys=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity",
+                "category": "Cathedral",
+                "url": "http://agiatriadapeiraios.blogspot.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6DEJChbAwU_cr3pL3HPrs42NpFdFoTGQDi74I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Peace and Friendship Stadium",
+                "category": "Stadium",
+                "url": "https://www.sef-stadium.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQuPA67FA8-jzwL5AZ5w-V-X8fBrpmivnFJuif=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis of Athens",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2384",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Olympiacos REDmuseum",
+                "category": "Heritage museum",
+                "url": "http://www.olympiacos.org/olympiacos-museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGdYe8EAGtQmFopIP6AG7MS24jLioY_v_-6uO4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parthenon",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=912",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Zeas",
+                "category": "Harbour",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFA-LS4oNjahznlEAVU3S4y8dVqdYyIzILRM0t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.theacropolismuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Archaeological Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.namuseum.gr/",
+                "img": "https://lh4.googleusercontent.com/proxy/9fnkLZjTmB_oI1C9jP869sfP5njfitK4S5nF0V6xHJgIwz3FZP9kz2lnTk_yYHYb0N3PQN-91YKm7oXmcsZdOtGYniFTlANVD4hzYwiIr7IIMEUtExXhyk7M2BGQVJINJUuSiDPJa2dilXJKGORYQad7fjR3MNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Electrical Railway Museum",
+                "category": "Rail museum",
+                "url": "https://www.museum-synt-isap.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQRTruJm2zh7UzZ7ENvbztsdruqVEsjjR1r1Hj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum Ship Averof",
+                "category": "Army museum",
+                "url": "https://averof.hellenicnavy.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCkxD0YWKydjMK_TjcWjlyo9Lqe3qgJekSgEbr=w148-h148-n-k-no"
+            }
+        ],
+        "Korydallós": [
+            {
+                "title": "Temple of Olympian Zeus",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRvFoAD8h9fuFSDDP-uhG_xPkIexwnK0EXLVqw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ancient Agora of Athens",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgsZaLvoeHjp9PSIih5QDve_iPBfYCKBfGU3EK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panathenaic Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFWTNgdoMNsj5aBHkcckgIRCTmLua69_lXiVMe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odeon of Herodes Atticus",
+                "category": "Amphitheatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEMVXT7-1Z4gpjvOFr-CSBUyes015tTUsLNrOP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Hephaestus",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8ARtX1boKZba3EZ3Jas5TVJWUu9w8FHt4LDbT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Site of Olympia",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO70HaQqG8Mg42TMufUgOi8Qt96QweR9-kpUGED=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortress of Palamidi",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBbw1se1Fo8ewRhUFkR4_cnf1vWTF2f0hxeQCM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erechtheion",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcwaKnokZp9kPXEAmxJK88WUHYh6-OrJlIgX2V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Apollo",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDq6uqYfbGjIWx37ZFC4i81CXywlXPwpdM5K0c=w148-h148-n-k-no"
+            },
+            {
+                "title": "ClueWars - Escape Rooms Athens",
+                "category": "Escape room centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3iPyj-DoQUesrqrU8Cx6ov2jfWpWttG_tUgHE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parthenon",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nativis Natural Cosmetics",
+                "category": "Cosmetics shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpWY-22S9WnXUCNVk5geXOHZNAECAhMkUBGd8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastiraki",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSYpfY4AxYfFiTKQFkNQk05TRsL8BB3VJxLm58=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mad House Quality",
+                "category": "Shisha bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJaWicuz6jgglrW17hQzXlqSNN_-CgZmBexCix=w148-h148-n-k-no"
+            },
+            {
+                "title": "Delphi",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODen2FumjZvm91foKZ1WNuHwre6QKqTfck_5ys=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acropolis of Athens",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+            }
+        ],
+        "Lamía": [
+            {
+                "title": "Castle of Lamia (Akrolamia)",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaBmQqrnYxpzh-KwKN2JfB62mrQpykzPsN0DwC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Delphi Archaeological Museum",
+                "category": "Art museum",
+                "url": "https://delphi.culture.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSuV3wqDLUa6aCdgnWUd4J-8SHks00gXuNTqUh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Sports Center of Lamia",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx1voaGSvzJ_76mmeawc71wAmZ2or8-dC8rQBI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Apollo",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHQVWZ_eAgHRKtWll2MpjBfvepr_Y7wf3DPmHy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krya Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxAHYZhsn4Q_V62Tc0LPAzUVF2DhBr90CANRXK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Historical Information Center for Thermopylae",
+                "category": "Museum",
+                "url": "https://el-gr.facebook.com/historicalcenterofthermopylae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOisf20pEUH1Qfl6MweoITFjy8QmfJFfbcVfpEP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corycian Cave",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHk6Z5KKeJeo0diCS-_PrZcaCpku0RxD4bXqh6=w148-h148-n-k-no"
+            },
+            {
+                "title": "beach Nisiotissa",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSBTtaOc312eu7n8nnGxLLlnWykDi_OfaIsTCF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pelasgia Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhZhItVMgyIMbqj2_7Iz45yMCbV4_Onhtvjftj=w148-h148-n-k-no"
+            },
+            {
+                "title": "coast Vrachakia",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5ZoUWFxJ6TKiSb2WKeVD3d7kg-Jbh52GKyFnk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Porto Katsiki",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiXMctGvL_mYiM5ZKTHoC0PN8aHe_1zLOm6pj_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastery of Agathon",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4Y48P-_cKAtOR_-8lEomnVeOfYXgsw5GzNEtg=w148-h148-n-k-no"
+            },
+            {
+                "title": "ΤΑΞΙ ΛΑΜΙΑΣ",
+                "category": "Taxi service",
+                "url": "https://www.taxilamias.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtLtExY6R8NEbGBKNaEJifkPYv0KYTZCmq2s12=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Lamia",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2-tgD_omFlatg-0E1qcB175N8_r6DxyKa-47u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statue of Aris Velouchiotis",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_BPUXy778KkLdEGdcuLYQYWRzZvg_OjK-uyUO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loutra Thermopilon",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJ0qSJ48wLFcm-6JrsMPdx2dCtkzYa9rCtqVjd=w148-h148-n-k-no"
+            }
+        ],
+        "Keratsíni": [],
+        "Kalamata": [
+            {
+                "title": "Kalamata's Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO3dwXNPMzz3xbibd45Og3-gqX72CgI7XwrknR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalamata Municipal Railway Park",
+                "category": "Theme park",
+                "url": "https://www.kalamata.gr/el/component/gmapfp/28:mouseio-sidirodromon?view=gmapfp",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9zHQPRhG3J5pC4r8sMDfkr5GhWAe5p-9qaRWd=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Metropolitan church of Ypapanti- Kalamata",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrEsJlX80UZ-WqXcO6aMLTJ4x8UHfDgvQVBFfN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Messinia",
+                "category": "Archaeological museum",
+                "url": "https://www.kalamata.gr/el/katoikoi/politismos/mouseia/arxaiologiko-mouseio-messinias",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOW2cntHjAyVLEJCzgLwTIzKpOT3Ziap5wRwSzy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Railway Park of Kalamata",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkqZGCFzN8ZeRWIOZVm1RLYPenFaLENgtw-3gk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalamata Military Museum",
+                "category": "War museum",
+                "url": "https://warmuseum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXR4UMBLnBFFmZxoPb3Ky6reN7gO0mg4PdJhJw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Radiotaxi Kalamatas",
+                "category": "Taxi service",
+                "url": "http://www.radiotaxi-kalamatas.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWeiEs71EShzyWtPBOeg4y7vl1ZtBzhF4v0OOx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victoria Karelias Collection of Traditional Greek Costumes",
+                "category": "Heritage museum",
+                "url": "http://www.vgkareliascollection.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyx7CKhLew1z8lo4EDaCUDOhVO0Jl-Pc5m7zNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aristomenous",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwE1x8RqORBUMgwHd77pY3yT0Qyy7xcYFN__S2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rodanthos Rock n Roll Beer Bar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNePiRPTUIImLiheWdKETOgsaTlj5XvjyJMb2aP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ephorate of Antiquities of Messenia",
+                "category": "Historical society",
+                "url": "http://www.efames.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMxkdsLXpup9EeICQB7LWgQ-VsNmXl_rJE_oIr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalamata Beach Volley",
+                "category": "Cafe",
+                "url": "https://www.facebook.com/KBV.Courts.Sea.Bar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZLvMi42d69RsVU1fHZtrBJ1YLtz2yVN2mOTm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stoupa beach",
+                "category": "Beach",
+                "url": "http://stoupa-properties.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWT60YUfdNSn3MS-cmRHAXHJBchbNAnBfttn9U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Foneas beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmKeDON4eU_6gCjv_mXBD8oAGC8rLP5-8iIy4V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paralia Kalamatas",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzKOCy-oHVWlEMBzjb6PoA7X1GfEOd1Xcr-y_h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Site of Ancient Messini",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORC75hbKvLTGOLJpPqXieykuPMfb9bChAXHuFu=w148-h148-n-k-no"
+            }
+        ],
+        "Sérres": [
+            {
+                "title": "Kasta Tomb",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmP2Xf3YeghwimwKgT0JGbX0yHzSRo8UDkwkLe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aggitis River cave",
+                "category": "Tourist attraction",
+                "url": "https://www.caveaggitis.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4CU23oBP1l0kf71GJcWeloTbnEN6cL4fqGFQa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kerkini Lake National Park",
+                "category": "National reserve",
+                "url": "http://kerkini.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-EDbEjtZb8XtN_jhCk-Ld5ci5M-oq7uxVObUt=w148-h148-n-k-no"
+            },
+            {
+                "title": "SIRIS MICROBREWERY E.E.",
+                "category": "Brewery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCF-n5jgPC47m8Eb2BWdqUsn5C-nPAAqeC2n3A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Amphipolis",
+                "category": "Archaeological museum",
+                "url": "http://odysseus.culture.gr/h/1/gh151.jsp?obj_id=3250",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeue6MB6bJgNskWZU8QhNUTtI5YgGP5mdInR5I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sarakatsani Folklore Museum",
+                "category": "Museum",
+                "url": "http://www.sarakatsani-folk-museum.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGwgGTeW0ZXP50vW4Kgtbq12m_Qcq-8ivsHnc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sidirokastro baths",
+                "category": "Medical spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO07t-q1N9Swjm-Qn1B-tGDgqxGQz1Dabd4vfQ6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Serres Racing Circuit",
+                "category": "Racetrack",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMx9plb-Ryo8CMoVwiNk3gQXX-wOyiwMdqvXiUN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lailias Ski Center",
+                "category": "Ski resort",
+                "url": "https://el-gr.facebook.com/LailiasSki/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv8MNQX0Aq4kyyGEh7tmAiGLckYVZ3ekT5_wIE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Kerkini",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGmUIxEQIPfna0T81Eoovuiigvl4ZG7k4fjUWY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alistrati Cave",
+                "category": "Tourist attraction",
+                "url": "http://www.alistraticave.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgVUMOw6i69ZEkwqPflDckSo7bwY3EG0rZQk16=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lion of Amphipolis",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPACVgQmjyE4a-6O3DVUQdLIqbcq5KB7LdXGIWT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Τέμενος Ζιντζιρλί",
+                "category": "Historical landmark",
+                "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=5902",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsH8dIuVPgFasaMIsDnV8UxJewGu5-nj74UcOc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Roupel",
+                "category": "Historical landmark",
+                "url": "http://roupel.gr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3slqmS4SarphYtQU2CV3Ji0km9xYbApTQpg9Z=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Acropolis of Athens",
+            "category": "Historical landmark",
+            "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2384",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPSpG5USMnJSQJqc3E9gdfrsCwBGTihXR0eE0eQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parthenon",
+            "category": "Historical landmark",
+            "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=912",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMQ_urwoVK84i4xjjmau3l6L860bZmmP8F19rjz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Acropolis Museum",
+            "category": "Archaeological museum",
+            "url": "https://www.theacropolismuseum.gr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPAr-sQabFXOGgrzLrsiNpEnaFOBRZEMDmRvvGp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Temple of Olympian Zeus",
+            "category": "Historical place",
+            "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=12863",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPRvFoAD8h9fuFSDDP-uhG_xPkIexwnK0EXLVqw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ancient Agora of Athens",
+            "category": "Archaeological museum",
+            "url": "http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2485#_=_",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPgsZaLvoeHjp9PSIih5QDve_iPBfYCKBfGU3EK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Meteora",
+            "category": "Monastery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPy5TQXHCSEbjS7U5yRpw6iY_Kx4fQ1cOF9Sltm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Odeon of Herodes Atticus",
+            "category": "Amphitheatre",
+            "url": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=6622",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNEMVXT7-1Z4gpjvOFr-CSBUyes015tTUsLNrOP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Archaeological site of Mycenae",
+            "category": "Archaeological site",
+            "url": "http://odysseus.culture.gr/h/3/gh351.jsp?obj_id=2573",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP4N07Xixln-y7lnT5U1T2Edj86Ixh3HlRscFPh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Heraklion Archaeological Museum",
+            "category": "Archaeological museum",
+            "url": "https://www.heraklionmuseum.gr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNVnojSmIpWBzrfoeHFrCftF4HDowR3dIytZMEB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Knossos Palace",
+            "category": "Open-Air Museum",
+            "url": "https://hhticket.gr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMX1mlp1jYdrwcD4itHkJVd87Mut0RHyCd1ltwL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Elafonissi Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOfSW1rnoX9d0ZoZ3j268Yy8c0hyvms845fN-xE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lindos Acropolis",
+            "category": "Historical landmark",
+            "url": "https://lindos-rhodes.gr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO8bVtUOouBWolRCmCC5uu8o8UlQMLwSTh0ATDd=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Archaeological Museum",
+            "category": "Archaeological museum",
+            "url": "https://www.namuseum.gr/",
+            "img": "https://lh4.googleusercontent.com/proxy/9fnkLZjTmB_oI1C9jP869sfP5njfitK4S5nF0V6xHJgIwz3FZP9kz2lnTk_yYHYb0N3PQN-91YKm7oXmcsZdOtGYniFTlANVD4hzYwiIr7IIMEUtExXhyk7M2BGQVJINJUuSiDPJa2dilXJKGORYQad7fjR3MNA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Panathenaic Stadium",
+            "category": "Stadium",
+            "url": "http://www.panathenaicstadium.gr/%CE%91%CF%81%CF%87%CE%B9%CE%BA%CE%AE/tabid/40/language/el-GR/Default.aspx",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMFWTNgdoMNsj5aBHkcckgIRCTmLua69_lXiVMe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Benaki Museum",
+            "category": "Museum",
+            "url": "https://www.benaki.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOUcZXRJ2FRu9KwWTDQ4jRDlejF3SCnOj9Tun5r=w148-h148-n-k-no"
+        },
+        {
+            "title": "Stavros Niarchos Foundation Cultural Center",
+            "category": "Cultural centre",
+            "url": "http://www.snfcc.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOffqY7K4yeKYyPn1Mr7-U0kT31FTARamPZZBjn=w148-h148-n-k-no"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "cities": {
+        "São Tomé": [
+            {
+                "title": "Equator Landmark",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMseZyUMenN1MEMZrKmxJBiC6xUsDjkokaYidCt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Nicholas Waterfall",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGr-Lc3MhZ1f_tdfEhA40_RrBA99743yH99iMo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rolas Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6s2oP95bU5GLStHwGBvWlgGj8lZDgcmmThVJI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pico de Sao Tome",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKkxFsePLPkwBbDrcsTC_al0huKdsIyJQ1N3rl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia Jale",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV8u5Hoa9KwyjOfGqgUP-ZqCbjvpVLKlcTZxt7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Obo National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEAHCHJj9nhsnl1TCbKZ_avQY9MSamtcuvu20Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia Piscina",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNzTY19wyxmDkmp4TnUJe8crjoPvt9V2zB1Z_v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia dos Tamarindos",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwXWkDeJhSLu_bJ2mmxSATMUC6rQRCXSnP3lfW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lagoa Azul",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5_tzORGpPd6ZSHFgJGS1_1z83s810NHFR7w0A=w148-h148-n-k-no"
+            },
+            {
+                "title": "L'Atelier Vanilha (Vanilha Factory)",
+                "category": "Agricultural production",
+                "url": "http://www.vanilha.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpfcqgqIJxSf_oDt1xw3mmnUNE6X81lo2SD5Jx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia das Bananas",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMa2lQelI_V6M6Z79_V0MPfRR7WwNWMpmWjmwIy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cão Grande Peak",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS0U0Tf4ImyQyyGv-bFcXxblx1K9oRSQtKb0DC=w148-h148-n-k-no"
+            },
+            {
+                "title": "São Sebastião Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgtyX8IOZA8Ij4EaonqKOL18BwVu87a7Aqw1fM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia das Sete Ondas",
+                "category": "Beach",
+                "url": "http://www.servicosturisticos.st/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPa6TnRVMdgHpuZUpbwQtCFYV59u3rOucjIvQDe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roça Sundy",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKArzusCbSvBqRTXBWvSvOoIVuJ32MYlF0EP53=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bom Bom Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdGBNfmSnwHSwRjifcaufOTqnNlxYXUaTHp_N3=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Saint Nicholas Waterfall",
+            "category": "Scenic point",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNGr-Lc3MhZ1f_tdfEhA40_RrBA99743yH99iMo=w148-h148-n-k-no"
+        },
+        {
+            "title": "Equator Landmark",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMseZyUMenN1MEMZrKmxJBiC6xUsDjkokaYidCt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rolas Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP6s2oP95bU5GLStHwGBvWlgGj8lZDgcmmThVJI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pico de Sao Tome",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPKkxFsePLPkwBbDrcsTC_al0huKdsIyJQ1N3rl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praia Jale",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPV8u5Hoa9KwyjOfGqgUP-ZqCbjvpVLKlcTZxt7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Obo National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPEAHCHJj9nhsnl1TCbKZ_avQY9MSamtcuvu20Y=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praia dos Tamarindos",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOwXWkDeJhSLu_bJ2mmxSATMUC6rQRCXSnP3lfW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praia Piscina",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNNzTY19wyxmDkmp4TnUJe8crjoPvt9V2zB1Z_v=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praia das Sete Ondas",
+            "category": "Beach",
+            "url": "http://www.servicosturisticos.st/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPa6TnRVMdgHpuZUpbwQtCFYV59u3rOucjIvQDe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praia das Bananas",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMa2lQelI_V6M6Z79_V0MPfRR7WwNWMpmWjmwIy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lagoa Azul",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO5_tzORGpPd6ZSHFgJGS1_1z83s810NHFR7w0A=w148-h148-n-k-no"
+        },
+        {
+            "title": "L'Atelier Vanilha (Vanilha Factory)",
+            "category": "Agricultural production",
+            "url": "http://www.vanilha.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMpfcqgqIJxSf_oDt1xw3mmnUNE6X81lo2SD5Jx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cão Grande Peak",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPS0U0Tf4ImyQyyGv-bFcXxblx1K9oRSQtKb0DC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Roça Sundy",
+            "category": "Compound grounds",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOKArzusCbSvBqRTXBWvSvOoIVuJ32MYlF0EP53=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bom Bom Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdGBNfmSnwHSwRjifcaufOTqnNlxYXUaTHp_N3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praia Lagarto",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNDKi51NV-XwGUK6F_pjx9qnmldYhwy-MIIg0C2=w148-h148-n-k-no"
+        }
+    ]
+}

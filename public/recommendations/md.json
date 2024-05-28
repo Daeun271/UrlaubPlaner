@@ -1,0 +1,385 @@
+{
+    "cities": {
+        "Bender": [
+            {
+                "title": "Отель-ресторан \"Старый бастион\"",
+                "category": "Hotel",
+                "img": "https://lh4.googleusercontent.com/proxy/rj661VxtRtgev4T5-C3FJCDCPsoOu7h6LjRfZ2IIri6MwJo3AQqTbSJLd6hI5PkegGuuAkq0OdME3mrvw9b2qNqtu1avmH7WhSwqrfaHb2B0DPx5fcY368Hn1I46Gh9qQez4Bg_BWyi4Eb8zgM4o4umyjpu8vv8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Military Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcDc-0CnKO4nWHTSj_Z4nLgMYEFqpnXyq6rNx_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oasis Park",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMj21gJPJcDWniJhVWFzGqatSwscpfx73b5ShnP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laleaua Neagră",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoqBeFg4pIVkV0SBRaahnxnYE8W6zD4Lspf3Zg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to Russian Glory",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0ZGV_N0Lr7Spr_a7wLpaVINsekZ_XOlGZDVsN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cricova",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMa58a670Nh9vEdoQXvv8oa7ty-Q6mjFlEeM2L8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tighina Fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgSwM_kAwkG5JOT0L1_b4HhyI7JQZFE8Y_wL1Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Transfiguration Cathedral, Bender",
+                "category": "Russian Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6Y956BeG8iNoAwPkJtGy_Yszg3pIf5QwQY0FI=w148-h148-n-k-no"
+            }
+        ],
+        "Chisinau": [
+            {
+                "title": "Shopping MallDova",
+                "category": "Shopping Centre",
+                "url": "http://www.shoppingmalldova.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP-p4KzX9M6dwyp1T6TfwB_XRnYDt2aVmpjFp0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eternity Memorial Complex",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUqAkKQtsKWoG5z3OVgfLJl3rMxzRLFJJNw1GI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rose Valley Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPW7-kskI0O3xjUfur8ZXkFpAY-UN3DhJmIx7uS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dendrariu Park",
+                "category": "Park and Garden",
+                "url": "http://www.dendrariu.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDIvPXxVrWft3nZapedxGoYwvlQgNIYzv3ybwc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Museum",
+                "category": "Ethnographic museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsoseGd_ZQ3DZziB-QwV34ZKb5P8WUvcwCgLPQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valea Morilor Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPu7HdhGUg1a3Vc2-pUaDGPIWOVz81F3w2YbQ9j=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ethnography and Natural History",
+                "category": "Museum",
+                "url": "http://www.muzeu.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTh4TeJPMrx8RbL5ARsl6YoJhnnElg24hMfDFu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ciuflea Monastery",
+                "category": "Monastery",
+                "url": "http://www.ciuflea.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPRpNnPyOax1S3502ZjxdaWoOF4zdjUmdV7Mww=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stephen the Great Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyRM4M2Wt4MdCQ06xchhQ5MMBwiLJ6995Y-9YT=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Fine Arts of Moldova",
+                "category": "Art museum",
+                "url": "http://www.mnam.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgjc-ibOH4Z945Bi0pxBjsFXR6Sh7P9nDDitfC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Building of The National Art Museum",
+                "category": "Art museum",
+                "url": "http://www.mnam.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ_UJVj-gTjQOdVBVVbYmAYzPHLE16qfYmPVBa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zentrum ApartHotel",
+                "category": "Hotel",
+                "url": "http://zentrum.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNweVXM-9wl3lt54_J8X9Rfgu1HOxXnA-ooQ0Ad=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Triumphal Arch",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzFz0Akz6G3161md5H_RMOxWcjS9QrohuP803K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral of Christ's Nativity",
+                "category": "Cathedral",
+                "url": "http://www.mitropolia.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6o47H9C4MvAOnj2k460FwnsQ99WqfRWuU37D8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoo of Chisinau",
+                "category": "Zoo",
+                "url": "http://zoo.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5BD5SHVEO0vkCDxovbSbvWRVHyJ0PTBRdanXt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alexandru Ciubotaru National Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0m2d0Zk7d8VMDEE2BYXsZiKsnhK5YiDJbGA3R=w148-h148-n-k-no"
+            }
+        ],
+        "Bălţi": [
+            {
+                "title": "Tighina Fortress",
+                "category": "Fortress",
+                "url": "http://www.bendery-fortress.com/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgSwM_kAwkG5JOT0L1_b4HhyI7JQZFE8Y_wL1Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Combinatul de Vinuri „Cricova”",
+                "category": "Winery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN98C4T1ZdlPU-dHB2ijB3xeAgtBbjmE0yVrXP0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soroca",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfLcdowJrPINWxzdOOjHllgot5IP2YQ5t0ePls=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Orhei",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMge5IXrLIX4E3dAZe2f2pzqFoN5hSCcFPbjy8B=w148-h148-n-k-no"
+            }
+        ],
+        "Tiraspol": [
+            {
+                "title": "Three Moldavians",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNuAHy5-LSOk8ggJ63eX_rY76x8cU6g9ufAIcg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castel Mimi",
+                "category": "Winery",
+                "url": "http://www.castelmimi.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8X_7Px4i9Jki_DcR9tVSiWZKT-1uzvUDjglGG=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Church of the Protection of the Mother of God",
+                "category": "Orthodox church",
+                "url": "http://pokrovka-tiras.cerkov.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNwaC-9_T7v9a11Wri1GHSOOkaQCF4Oz_MjH4g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to Kotovsky",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD1q3qeTHF-FGn4cvlF8ZwhDErofNJ9brVjnUH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suvorov Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMW4GIZp9XTb3Zwb0cpgiioR52s_0RoV07wneJQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheriff Sports Complex",
+                "category": "Sports complex",
+                "url": "http://sheriff-sport.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFP7f714dtgfbxGLIcCxqUM9ArLuioUhKk0DUk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Noul Neamt Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwwRmyVdwrt9Bgrvm-AwWwPNKBU3wlsLOpEj2q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chitcani",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5Z9L9TXMhUEWAgbFAuYE2SLKdjexFT8Ztu6Me=w148-h148-n-k-no"
+            }
+        ],
+        "Rîbniţa": [
+            {
+                "title": "Alexandru Ciubotaru National Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0m2d0Zk7d8VMDEE2BYXsZiKsnhK5YiDJbGA3R=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Fine Arts of Moldova",
+                "category": "Art museum",
+                "url": "http://www.mnam.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgjc-ibOH4Z945Bi0pxBjsFXR6Sh7P9nDDitfC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tipova Waterfall",
+                "category": "Nature reserve",
+                "url": "http://www.visit.md/tour/tsipova/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyEl2Fp9MyznMquNcDVS2hr-H-lSz8lNh8e8Oo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Building of The National Art Museum",
+                "category": "Art museum",
+                "url": "http://www.mnam.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ_UJVj-gTjQOdVBVVbYmAYzPHLE16qfYmPVBa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saharna",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAUgU2mHekosaCdiJd9aY9tBLeQgkISpt76C5W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Căpriana",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORHIc4myWHOm9GUlH2n03qsoABAkM-2k7tOfaf=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Monument to the Deportees",
+                "category": "Sculpture",
+                "url": "https://wikip.one/rTFtia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiNYZIfLa8ygmD8YOogb_juH7XI4n3D6LCU2-X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bender",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyXqLbK33JLNfo2DDIvo6jaV7c8VQ1DUecisYN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping MallDova",
+                "category": "Shopping Centre",
+                "url": "http://www.shoppingmalldova.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP-p4KzX9M6dwyp1T6TfwB_XRnYDt2aVmpjFp0=w148-h148-n-k-no"
+            },
+            {
+                "title": "ASCONI Winery",
+                "category": "Winery",
+                "url": "http://www.asconiwinery.com/",
+                "img": "https://lh5.googleusercontent.com/proxy/XG_VMad258AvvhzUOiJ_APsfFcLpNVHcf3V5In5Kcwna9qI7wFICxNCuPVE-pyCPBC0G5CGeX8MB8RMR94tFs6FIsuBwKXE4bUVZvvQuRZ3gRaypzTRec_DXngd96ZHKzPL8aUF2MoLV8TbwwhnVfeBV_AftbOo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Piața Centrală",
+                "category": "Market",
+                "url": "https://www.piatacentrala.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzt6pE_Yn5Fp6fyXlIcOj1bD4TVxqbJn6b5LN0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dendrariu Park",
+                "category": "Park and Garden",
+                "url": "http://www.dendrariu.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDIvPXxVrWft3nZapedxGoYwvlQgNIYzv3ybwc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stephen the Great Central Park",
+                "category": "Memorial park",
+                "img": "https://lh4.googleusercontent.com/proxy/FMS5FVIA37SZGnzspb7XXTfIyNYRG7Gof6mTiyxzbZFaGiRtcWrKF4yg8QtUpWj6Ji_vqjTdVLa-b8uECoNxANePzLhLYGxkU4-ScUKkQr00xbpjT9wXqBGsxxWpcO20kxYQvjPGduNbqcBuqGZpGRnvjfCq2Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ethnography and Natural History",
+                "category": "Museum",
+                "url": "http://www.muzeu.md/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTh4TeJPMrx8RbL5ARsl6YoJhnnElg24hMfDFu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manuc Bey Mansion",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5s_8QQCnEtibAgM7gCawloPhR4ptAqgTy3MwC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suvorov Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMW4GIZp9XTb3Zwb0cpgiioR52s_0RoV07wneJQ=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Valea Morilor Park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPu7HdhGUg1a3Vc2-pUaDGPIWOVz81F3w2YbQ9j=w148-h148-n-k-no"
+        },
+        {
+            "title": "Stephen the Great Central Park",
+            "category": "Memorial park",
+            "img": "https://lh4.googleusercontent.com/proxy/FMS5FVIA37SZGnzspb7XXTfIyNYRG7Gof6mTiyxzbZFaGiRtcWrKF4yg8QtUpWj6Ji_vqjTdVLa-b8uECoNxANePzLhLYGxkU4-ScUKkQr00xbpjT9wXqBGsxxWpcO20kxYQvjPGduNbqcBuqGZpGRnvjfCq2Q=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dendrariu Park",
+            "category": "Park and Garden",
+            "url": "http://www.dendrariu.md/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMDIvPXxVrWft3nZapedxGoYwvlQgNIYzv3ybwc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rose Valley Park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPW7-kskI0O3xjUfur8ZXkFpAY-UN3DhJmIx7uS=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Triumphal Arch",
+            "category": "Monument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNzFz0Akz6G3161md5H_RMOxWcjS9QrohuP803K=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cathedral Park",
+            "category": "City park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN4auRNJ-oVM0wCsyAjiEC6xKm45usHeYHC_aQF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Curchi Monastery",
+            "category": "Monastery",
+            "url": "https://manastireacurchi.md/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPKNJTEETStgoQ9AWLtozZ19gAJTO4q6My0wvdR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Eternity Memorial Complex",
+            "category": "Memorial park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNUqAkKQtsKWoG5z3OVgfLJl3rMxzRLFJJNw1GI=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Ethnography and Natural History",
+            "category": "Museum",
+            "url": "http://www.muzeu.md/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNTh4TeJPMrx8RbL5ARsl6YoJhnnElg24hMfDFu=w148-h148-n-k-no"
+        },
+        {
+            "title": "ASCONI Winery",
+            "category": "Winery",
+            "url": "http://www.asconiwinery.com/",
+            "img": "https://lh5.googleusercontent.com/proxy/XG_VMad258AvvhzUOiJ_APsfFcLpNVHcf3V5In5Kcwna9qI7wFICxNCuPVE-pyCPBC0G5CGeX8MB8RMR94tFs6FIsuBwKXE4bUVZvvQuRZ3gRaypzTRec_DXngd96ZHKzPL8aUF2MoLV8TbwwhnVfeBV_AftbOo=w148-h148-n-k-no"
+        },
+        {
+            "title": "Căpriana Monastery",
+            "category": "Monastery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjiGyBSHo8Bt-hbPx4hkgiWXOBulq8oSJQ0c6U=w148-h148-n-k-no"
+        },
+        {
+            "title": "Combinatul de Vinuri „Cricova”",
+            "category": "Winery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN98C4T1ZdlPU-dHB2ijB3xeAgtBbjmE0yVrXP0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Saharna Monastery",
+            "category": "Monastery",
+            "url": "https://manastirea-saharna.md/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOXaDdDULHlDb98dC4D0yb0oqKq24alq4g5GqoX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chișinău",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOJdW5KR8VN0s40MO9FC058Sa9gXo80rIddoIeE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Castel Mimi",
+            "category": "Winery",
+            "url": "http://www.castelmimi.md/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO8X_7Px4i9Jki_DcR9tVSiWZKT-1uzvUDjglGG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tighina Fortress",
+            "category": "Fortress",
+            "url": "http://www.bendery-fortress.com/en",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPgSwM_kAwkG5JOT0L1_b4HhyI7JQZFE8Y_wL1Z=w148-h148-n-k-no"
+        }
+    ]
+}

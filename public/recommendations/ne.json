@@ -1,0 +1,412 @@
+{
+    "cities": {
+        "Tessaoua": [],
+        "Maradi": [],
+        "Birni N Konni": [],
+        "Dosso": [
+            {
+                "title": "Lotus SPA Beauty & Health center Niamey",
+                "category": "Spa and health club",
+                "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-conference-niamey",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxKR0obsviQfCz4l3GrC3noa3_KXRbWYpYdctd=w148-h148-n-k-no"
+            },
+            {
+                "title": "CanalOlympia Hippodrome",
+                "category": "Cinema",
+                "url": "https://www.canalolympia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKUVGVYzb4b8lZV5FePCbhwSKHHaro-ot1FO2J=w148-h148-n-k-no"
+            },
+            {
+                "title": "W National Park Benin",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEwdotnzP2BcVxtE_g6YmMPFuA49IzssFg4KmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koure",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8828tGV-IMO57y8y-x8nLl0Sf3dUe8RtKaxou=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baleyara",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT7hPerFkobgCurbA-3pcxt8VKuhe7Xj3Gg-gj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Niamey",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6ySGbvI9ZPjUu3ffpQeBHNKmSuXLFdgdmwfj3=w148-h148-n-k-no"
+            },
+            {
+                "title": "LEVEL CLUB & LOUNGE",
+                "category": "Nightclub",
+                "url": "https://www.facebook.com/LevelNiamey/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMN8pPLlSPmDpxdUqbKe_pPYeO89pnrXxK6sVq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Cité Caisse",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-FZdCCzzTi5i3GEmPeaL9Y2iP5Jtl6t_1zSB6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Market Niamey",
+                "category": "Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfJQYePGOL3nZhsUntY3y5TGR_v3694WG1UVHo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boubou Hama National Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkfb423R4pA0uzT9wjhBlJ4OyXd921Bar9ZBDb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Mosque of Niamey",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkLmzD_0Kps2OVnw6b09Nq397ZquAaPkYlwEvi=w148-h148-n-k-no"
+            },
+            {
+                "title": "FERME YOUYOU",
+                "category": "Farm household tour",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5H722CQBthmEO0HQmMivuI5bmCljJ3cBNNKXP=w148-h148-n-k-no"
+            }
+        ],
+        "Zinder": [],
+        "Gaya": [
+            {
+                "title": "Mangla Gauri Shakti Peetha [GAYA]",
+                "category": "Hindu temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPaxtDZqiDgjrZg8_HJG_gvIttvTDfP8u3cVgh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pind Daan Gaya",
+                "category": "Dharamshala",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE77puqJB7kAZB3YRTLzPI9g4Y46i3EKIUIi2b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sita Kund",
+                "category": "Hindu temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhN5ceb0Op-mp1Xmg4TFbJTqhq0OtXpi9cuSel=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pind Daan in gaya",
+                "category": "Priest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrvL8c7sEVTwxWAEeIdqXBUfi5vai2E66Mglfq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brahmayoni Hill",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlEhLuhn6jFVwAIXy3ir5928iqM9UWFyltXs34=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vishnupad Temple",
+                "category": "Hindu temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMb5b6Hf501DgzlvNWDa7dvqO2DtBAZ0dUy75Re=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramshila Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrMMRRFAFVPt57ABiLOfPnQIDojXU4_aK7PZSq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mahabodhi Temple",
+                "category": "Buddhist temple",
+                "img": "https://lh6.googleusercontent.com/proxy/8xXeNZuLU-ZgF8SpOffguic82EC_UJXWeISEIuS3y48a95RxaluwZ4MxmSSxtN7-uXeo93zoSSZfVomMuVU_nX7z9olw0-haunueDhh5VV_IEU1JMckqBJMWEon8-NLKbKPenSVrfNd78xNuU2FnhZTwU4U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barabar Caves",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXgh-A_rmmEj5ntVeKXFWsZYFuZASZn_JRDd-i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dungeshwari",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaaSq4Gh_Sc7blFMgAyhnQ0fKrtt2lFpTybLr3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Falgu River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRwiGeVRDG7_AfFPrlj5NNxktwLMZTnvWcmNYU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chhatta Masjid (چھتّا مسجد)",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7c7jSEycvDA54iGqqMalTsr350-XmlLBGD91Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum Bodhgaya",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeZp2JKe0YEurYv7vudxYHzw3IsJR-PJtZhKaw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bodhgaya water park",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB54dc11-u7lPT5o1oaIamSbKn1BbpcYqhgBYv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Daijokyo Buddhist Temple",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJAz-N2TbeEqCuy7SSc4ROtULmeKJm9X_vOdhz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sujata Stupa",
+                "category": "Ruin",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSHl8OqhXlb_34IpJCrcFDe5nW3jByb05hKnZ8=w148-h148-n-k-no"
+            }
+        ],
+        "Dogondoutchi": [
+            {
+                "title": "Baleyara",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT7hPerFkobgCurbA-3pcxt8VKuhe7Xj3Gg-gj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dosso",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGI-ZgtCYXcHCwG3JmaTElj3ggbV7cMvSpAW1A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tahoua",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQ6WVHu5_TSBRZSw4-3plHtBRgRYv9lgJvwlmo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koure",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8828tGV-IMO57y8y-x8nLl0Sf3dUe8RtKaxou=w148-h148-n-k-no"
+            }
+        ],
+        "Alaghsas": [
+            {
+                "title": "Sedgwick County Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWLRePLgedGeVt220CwWpKPJGzvcxoGqy2Xo73=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanganyika Wildlife Park",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzK1srRLtPlV3tqVJpqGp26NcxlqyxF_u5ciBl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Overland Park Arboretum & Botanical Gardens",
+                "category": "Arboretum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMfGt7I-CblUf8CENsSBimk4kDYBr8uJhSinmP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanica, The Wichita Gardens",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGoUi0PDzOgjV7yx8KVXLPQJD0UdzR8UgdPA70=w148-h148-n-k-no"
+            },
+            {
+                "title": "National WWI Museum and Memorial",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMc8jPi0hbV3HnWJxmkVGmXLRb0thD7gKIm2_8k=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Nelson-Atkins Museum of Art",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJc7Wi9myqEedsj1tUp7cK5wiUXPCByetTOWKX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Country Club Plaza",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWHCUYHX_yXkNSzGu37D4nBhViyiu01WrV4bp3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Exploration Place",
+                "category": "Science museum",
+                "img": "https://lh4.googleusercontent.com/proxy/08RNAenU_ih0KThc8DjYOO9T32W0OQKPKiGwDcC4RGcInYcvBS8ENwPMJD7UBWid6RaAZjs0_RZWP1FZ-D8iz5jo86OJlk9WMmHGLlMjp7IDgPmoSx0-fAQ8Hmr3yFi52SYvh1pIYkGWujCuJk1PzGLgfFtH0Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deanna Rose Children's Farmstead",
+                "category": "Children's farm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3ZpdFaqBD0pvTYyrNlwQutMZHQYbpf22tBSB4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boot Hill Museum",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_gPpAgqXkTU9v7qsnP25ShVhheg1I2jYNkgxz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cosmosphere",
+                "category": "Science museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBHLYn57Ins_H5NtfFxmb5hV7iNy5ODkgDRINB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kansas City Zoo & Aquarium",
+                "category": "Zoo",
+                "img": "https://lh3.googleusercontent.com/proxy/JKIfEqniDkeO8vUXWnlrpk4nzvBM2CAghB6pwVV5Ysp1OdxszuqJiuJAtC45-1PmNsNbtYfU2kB7uFvV26Ur9X3AxOukAhgZoikiK3FEckcLBSsighoJ8UC5xCJ_A-k4jlsnNOQ7yw5NtEeVfe780Rx-nHNavoM=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Keeper of the Plains",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9tBabHTke9xtQRNHhnPO4A4q02gc0GdL_ReO3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tallgrass Prairie National Preserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOys18IidxqfhSIr0jPE0WUUQyDcLNCaHHMZ537=w148-h148-n-k-no"
+            },
+            {
+                "title": "Union Station Kansas City",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTb8CV6YlwTs5pRKSGdiwW1sjpudiQyES15TDh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wichita Art Museum",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6Uqx-7MZzHei8EaPEfWt1Z_Ejpipbe2IVS3P5=w148-h148-n-k-no"
+            }
+        ],
+        "Tahoua": [],
+        "Agadez": [],
+        "Niamey": [
+            {
+                "title": "Lotus SPA Beauty & Health center Niamey",
+                "category": "Spa and health club",
+                "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-conference-niamey",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxKR0obsviQfCz4l3GrC3noa3_KXRbWYpYdctd=w148-h148-n-k-no"
+            },
+            {
+                "title": "CanalOlympia Hippodrome",
+                "category": "Cinema",
+                "url": "https://www.canalolympia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKUVGVYzb4b8lZV5FePCbhwSKHHaro-ot1FO2J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Market Niamey",
+                "category": "Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfJQYePGOL3nZhsUntY3y5TGR_v3694WG1UVHo=w148-h148-n-k-no"
+            },
+            {
+                "title": "LEVEL CLUB & LOUNGE",
+                "category": "Nightclub",
+                "url": "https://www.facebook.com/LevelNiamey/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMN8pPLlSPmDpxdUqbKe_pPYeO89pnrXxK6sVq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boubou Hama National Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkfb423R4pA0uzT9wjhBlJ4OyXd921Bar9ZBDb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Mosque of Niamey",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkLmzD_0Kps2OVnw6b09Nq397ZquAaPkYlwEvi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Cité Caisse",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-FZdCCzzTi5i3GEmPeaL9Y2iP5Jtl6t_1zSB6=w148-h148-n-k-no"
+            },
+            {
+                "title": "FERME YOUYOU",
+                "category": "Farm household tour",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5H722CQBthmEO0HQmMivuI5bmCljJ3cBNNKXP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Koure",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8828tGV-IMO57y8y-x8nLl0Sf3dUe8RtKaxou=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady of Perpertual Help Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtwCxw8yr4Z-vR3BY_G6kw_qsrPCeSTeRE62pC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayorou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGxcBss5Bk3Br7puSoEQZsGdiwk7x-CDz0kdHv=w148-h148-n-k-no"
+            },
+            {
+                "title": "W National Park Benin",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEwdotnzP2BcVxtE_g6YmMPFuA49IzssFg4KmK=w148-h148-n-k-no"
+            }
+        ],
+        "Diffa": [],
+        "Arlit": []
+    },
+    "sights": [
+        {
+            "title": "Lotus SPA Beauty & Health center Niamey",
+            "category": "Spa and health club",
+            "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-conference-niamey",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNxKR0obsviQfCz4l3GrC3noa3_KXRbWYpYdctd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Great Mosque of Niamey",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMkLmzD_0Kps2OVnw6b09Nq397ZquAaPkYlwEvi=w148-h148-n-k-no"
+        },
+        {
+            "title": "Agadez",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPlD7fyum46H1l8Xco5-gi0x_K6nT_YxvSauX1q=w148-h148-n-k-no"
+        },
+        {
+            "title": "Grand Market Niamey",
+            "category": "Shop",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMfJQYePGOL3nZhsUntY3y5TGR_v3694WG1UVHo=w148-h148-n-k-no"
+        },
+        {
+            "title": "FERME YOUYOU",
+            "category": "Farm household tour",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP5H722CQBthmEO0HQmMivuI5bmCljJ3cBNNKXP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque nacional W de Níger",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMlLVu-0GmCcC7uRB0B-hP9FJPDUmX0Scdlg7l7=w148-h148-n-k-no"
+        },
+        {
+            "title": "General Seyni Kountche Stadium",
+            "category": "Stadium",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOcbR7L7R2ZhA_3_kIcTp-bJtM13RdkLYDmucJi=w148-h148-n-k-no"
+        },
+        {
+            "title": "Boubou Hama National Museum",
+            "category": "Local history museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMkfb423R4pA0uzT9wjhBlJ4OyXd921Bar9ZBDb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Timia",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNpZHBUUnTe6EI-Db36ELjvJBeLTjh5sI6cuUoy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maradi",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPfGv7sVr95DWhlSwQ0FIbPlmaysbUyrGKMgJvo=w148-h148-n-k-no"
+        },
+        {
+            "title": "N'Guigmi",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM4C8M8D7nUBB09uct9X5Ow-wQoazL63FXl9V4X=w148-h148-n-k-no"
+        },
+        {
+            "title": "Baleyara",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNT7hPerFkobgCurbA-3pcxt8VKuhe7Xj3Gg-gj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tahoua",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPQ6WVHu5_TSBRZSw4-3plHtBRgRYv9lgJvwlmo=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dosso",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNGI-ZgtCYXcHCwG3JmaTElj3ggbV7cMvSpAW1A=w148-h148-n-k-no"
+        },
+        {
+            "title": "LEVEL CLUB & LOUNGE",
+            "category": "Nightclub",
+            "url": "https://www.facebook.com/LevelNiamey/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMMN8pPLlSPmDpxdUqbKe_pPYeO89pnrXxK6sVq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sixième Square",
+            "category": "Monument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNQFCoqnzgt_1taH8FGKYGvMKzcOK11V9CNTwAp=w148-h148-n-k-no"
+        }
+    ]
+}

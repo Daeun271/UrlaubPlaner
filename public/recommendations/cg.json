@@ -1,0 +1,321 @@
+{
+    "cities": {
+        "Nkayi": [
+            {
+                "title": "Zongo Falls",
+                "category": "Tourist attraction",
+                "url": "http://www.selisafari.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMb6koHYvN9RuIohDMkaBUNeYflDR56L5G_6EJT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pointe-Noire",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcSzvYIbwkMGBMjJAOBzNMDL4QaIskCgimLpZI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akwaba Tours And Travel",
+                "category": "Tourist Information Centre",
+                "url": "https://akwabatoursandtravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSHvfd0ye4TyaQ2VSnTawSKYfdOyVqMe_vGVCg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rituel Thai",
+                "category": "Thai massage therapist",
+                "url": "https://www.instagram.com/rituelthai/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYexcAbN7qqwgI3vCga_NPUFdBa_WP7RQpenIj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorges de Diosso",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpchE1-TG6JjCwbDkLdN5j3gGWlJuAOP9Ao-HU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Côte sauvage",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYppWeVBQsx7tfEzaEA1OTg8-5jFS-Pj7DnB0O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lawanda Tours & Adventure",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0cMTNA7xhpU21XxDVUXWCH5r0zTeGtD0Js4HW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chutes de Loufoulakari",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFPjvtRSaI8yidjMpwjp9P1mIshjlQVql4FmGI=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Circle Museum of Pointe-Noire",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7m6TycLRCcSoX5kzFoM5pVrXb-mmkTSA6-gw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Salut",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQsNvgz_G2rfrWej2rnY8BvAk3NXtQXmja2t_K=w148-h148-n-k-no"
+            },
+            {
+                "title": "PONTON PLAGE",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSo74Y6WzAcoEF-3bSRrNCQGdM3wOA1lGIQzzA=w148-h148-n-k-no"
+            }
+        ],
+        "Brazzaville": [
+            {
+                "title": "Marché TOTAL Bacongo",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP05EBqVgsoPpqlb-dyr17NsYJUEqfCTZlQrxiF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Tele",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNiOSNN5YwldiQDI8APtldNq4UEdNpwi_atZOt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nabemba Tower",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUnNI7YpsZDpM6eSRASw6kZCmnp7WX3-IiIAI9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maiombe",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeF_EI_XySZ4Zkas4CpjhJ94Ia6UbEf729tnqC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Batéké Plateau",
+                "category": "Plateau",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxKoV5ThfrtWa3FrhBsysnU3QqP4SnyK5PCySV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Санга",
+                "category": "National forest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnqGFWa-9_kTKnpHyms4gJZJCVwpi-8nZ5P4G-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sakana - Île M'bamou",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbVyG91rQ1wMOKMdn99WMy6yHZLCFycRF9ESjM=w148-h148-n-k-no"
+            },
+            {
+                "title": "People’s Palace of the Democratic Republic of the Congo",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIKUuyhA-7gx3El0Nz3L8jR_TH3Hz9ms--kzK6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rituel Thai",
+                "category": "Thai massage therapist",
+                "url": "https://www.instagram.com/rituelthai/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYexcAbN7qqwgI3vCga_NPUFdBa_WP7RQpenIj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lesio-Louna Wildlife Reserve",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVXMt0qTuRg6MH5-I2CeddhVqW9aiCq4EDk2kq=w148-h148-n-k-no"
+            },
+            {
+                "title": "CASINO ETOILE",
+                "category": "Casino",
+                "url": "https://www.linkedin.com/company/casino-salut-international?trk=blended-typeahead",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOla8mzTJ7_Jvx4xPt24v8AFAuf53_L92MXl_b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Salut",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQsNvgz_G2rfrWej2rnY8BvAk3NXtQXmja2t_K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odzala-Kokoua National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4Tnn0FV7u6OqSFRp49QTstQaKEo2BN7oApYb9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilique Sainte Anne du Congo",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4ui0ADS_PaJCHnoxmma4OKN9PoUXpNP7-BivL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nouabalé-Ndoki National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVQlJ4_gFB_q84-8Q_BhME-VK1pcv0Z-Lk-OAW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pierre Savorgnan de Brazza Memorial",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdJmHhq73RELqTXCX5SbspmnGFNQHNX3crSv7X=w148-h148-n-k-no"
+            }
+        ],
+        "Kayes": [],
+        "Dolisie": [
+            {
+                "title": "Rituel Thai",
+                "category": "Thai massage therapist",
+                "url": "https://www.instagram.com/rituelthai/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYexcAbN7qqwgI3vCga_NPUFdBa_WP7RQpenIj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akwaba Tours And Travel",
+                "category": "Tourist Information Centre",
+                "url": "https://akwabatoursandtravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSHvfd0ye4TyaQ2VSnTawSKYfdOyVqMe_vGVCg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Côte sauvage",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYppWeVBQsx7tfEzaEA1OTg8-5jFS-Pj7DnB0O=w148-h148-n-k-no"
+            },
+            {
+                "title": "PONTON PLAGE",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSo74Y6WzAcoEF-3bSRrNCQGdM3wOA1lGIQzzA=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Circle Museum of Pointe-Noire",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7m6TycLRCcSoX5kzFoM5pVrXb-mmkTSA6-gw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Salut",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQsNvgz_G2rfrWej2rnY8BvAk3NXtQXmja2t_K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lawanda Tours & Adventure",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0cMTNA7xhpU21XxDVUXWCH5r0zTeGtD0Js4HW=w148-h148-n-k-no"
+            }
+        ],
+        "Pointe-Noire": [
+            {
+                "title": "Côte sauvage",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYppWeVBQsx7tfEzaEA1OTg8-5jFS-Pj7DnB0O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lawanda Tours & Adventure",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0cMTNA7xhpU21XxDVUXWCH5r0zTeGtD0Js4HW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rituel Thai",
+                "category": "Thai massage therapist",
+                "url": "https://www.instagram.com/rituelthai/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYexcAbN7qqwgI3vCga_NPUFdBa_WP7RQpenIj=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Circle Museum of Pointe-Noire",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7m6TycLRCcSoX5kzFoM5pVrXb-mmkTSA6-gw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akwaba Tours And Travel",
+                "category": "Tourist Information Centre",
+                "url": "https://akwabatoursandtravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSHvfd0ye4TyaQ2VSnTawSKYfdOyVqMe_vGVCg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Salut",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQsNvgz_G2rfrWej2rnY8BvAk3NXtQXmja2t_K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorges de Diosso",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpchE1-TG6JjCwbDkLdN5j3gGWlJuAOP9Ao-HU=w148-h148-n-k-no"
+            },
+            {
+                "title": "PONTON PLAGE",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSo74Y6WzAcoEF-3bSRrNCQGdM3wOA1lGIQzzA=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Virunga National Park",
+            "category": "National park",
+            "url": "https://virunga.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMnw7KZi6xev1kjr_NaSzMyftsdkrlv5CUXMsCT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Garamba National Park",
+            "category": "National park",
+            "url": "https://www.african-parks.org/the-parks/garamba",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMbAGVmc5bmQSaL5QsUuu4117A4x2muMR-vQMOl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kahuzi-Biega National Park",
+            "category": "National park",
+            "url": "https://www.kahuzi-biega.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOzz10DbGes6DFA98saqwARWnUeeWgWOS_B6zxa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Salonga National Park",
+            "category": "National park",
+            "url": "https://salonga.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMsynziGE5nJdaxnEW_T7O31P28lEnLQMnotEWy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lola ya Bonobo Sanctuary",
+            "category": "Animal park",
+            "url": "http://www.bonobos.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMV0x7Svw8ne3h_T7CJ0QgFQ36VbT0ETNQBfnoq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Nyiragongo",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMJ6ZIN1upffQJQWd62swxKaa605FVaivADUjQY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kinshasa",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMFEDOswDabR0SpbKHReR-v8z84-Fxgtkufk5co=w148-h148-n-k-no"
+        },
+        {
+            "title": "Okapi Wildlife Reserve",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdr7-ofkmQHpELG-vWkeOlUSDQvfHkv7kFM07Z=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maiko National Park",
+            "category": "National park",
+            "url": "http://www.maikonationalpark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMiro0EAT8vFeI4VHkMYTZ0aJ1KS7jz98plau6D=w148-h148-n-k-no"
+        },
+        {
+            "title": "Upemba National Park",
+            "category": "National park",
+            "url": "https://www.upembanationalpark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMYIZY0YNIrN2mrSj64aaep33ZtgFrRpx3tdEmf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lualaba",
+            "category": "Water",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNwhzlP7F9ZdTwzdiCVN6YtR4JF7KZL-ZvcaMEU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Boyoma Falls",
+            "category": "Waterfall",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOmGN-uiqE67r5CKl1yv73kwQKQB0SjPOyPk4ff=w148-h148-n-k-no"
+        },
+        {
+            "title": "Idjwi Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPlRcjSQcY5tqeuoCrSXA93WgL_5bWiqlIgJdlW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Kivu",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMWudht88hmolfkILkVE46kEOSpbojZgNh4Cvyc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kundelungu National Park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOkhb3d3AHRohV2Hj-BvaGm-JaETXzvaloFph16=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Sabyinyo",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM-teJnMfPpzeoI64i2HDD-euFI_70_mcuRfs22=w148-h148-n-k-no"
+        }
+    ]
+}

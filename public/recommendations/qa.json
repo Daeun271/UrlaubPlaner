@@ -1,0 +1,294 @@
+{
+    "cities": {
+        "Doha": [
+            {
+                "title": "National Museum of Qatar",
+                "category": "National museum",
+                "url": "https://nmoq.org.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvslxxYYuexs3ARiVS_hxB18a4VQS5ma_oVZWv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Waqif",
+                "category": "Traditional market",
+                "url": "https://souqwaqif.qa/ar/main-home-ar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUXY0E9kRjKcSanTicNQT8wFhKjYudw3XyTcS2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Islamic Art",
+                "category": "Art museum",
+                "url": "http://www.mia.org.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9NznDgXT5NgnxQ7d9xoDM9yC_J2CRb1zf1x89=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aspire Park",
+                "category": "Park and Garden",
+                "url": "http://www.aspirezone.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN15x6P_p67sStt2mtZPhNC_JZtF4c_jzR9ohba=w148-h148-n-k-no"
+            },
+            {
+                "title": "Katara Cultural Village",
+                "category": "Cultural association",
+                "url": "http://www.katara.net/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOP-OS7n2lhEZs3YkaXjQd8khv4IIsfI9CFfN1_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Villaggio Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.villaggioqatar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEgf8fYMD7rEM4t6RoHTSCIyVK_IFCBZOqe55F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Bidda Park",
+                "category": "Park and Garden",
+                "url": "http://www.visitqatar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2-tvsOa74ohWpOB6yQeG8uXcajYYNBD2VATiq=w148-h148-n-k-no"
+            },
+            {
+                "title": "MIA Park",
+                "category": "Park and Garden",
+                "url": "http://www.mia.org.qa/en/mia-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTJO5R5Ra1pK5gs58vuBUzh7QjU8jazqegBR4j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Imam Muhammad bin AbdulWahhab Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaijHx_QSo7rfMQ43YIccLHt8B_QlzV6yetIvX=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Pearl Monument",
+                "category": "Tourist attraction",
+                "url": "http://www.facebook.com/profile.php?id=61555892433211",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl2tBYzLsaLutVDF-MG5zLGgYo0JSj8XXDmcvT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Park",
+                "category": "Park and Garden",
+                "url": "http://hotelparkdoha.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUF0-igRBDPz9UpuF8gZoW3PEEvYiKf0RnWb3y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Doha Quest",
+                "category": "Theme park",
+                "url": "http://dohaquest.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO52so_8hfdiXeCnXmzHlXCZDjyK_HA7L7884o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qatar National Library",
+                "category": "National library",
+                "url": "https://www.qnl.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwy8hd00UUFi0qJb98LZyuKdvhR_Cz3hfCiE1H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Doha Golf Club",
+                "category": "Golf course",
+                "url": "http://www.dohagolfclub.com/",
+                "img": "https://lh4.googleusercontent.com/proxy/SPVyh8cuvJm0qWDSmGNHNSGLOwsLmZl1bKYqnNve3jQM7rheZ67Q5dI7RGRGORUZu31wledPg_5jVy5J7aJriGWG1LujVVnPZkW5f-NmTmJifk0cwNcggl5HNgIndT9k1bshNf9m6k1Aw5IAVMCjgxD6ChxXsw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Illusions Doha",
+                "category": "Museum",
+                "url": "https://www.museumofillusions.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPW1Bf07u5t6ihzR49XM9ZzffXkXDIUeQWLDuXv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Waqif Falcon Hospital",
+                "category": "Hospital",
+                "url": "http://www.swfh.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDIP96s2YrVEwAjqu9dH_H1tIH2RLz_EM4aNFC=w148-h148-n-k-no"
+            }
+        ],
+        "Ar Rayyān": [
+            {
+                "title": "Villaggio Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.villaggioqatar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEgf8fYMD7rEM4t6RoHTSCIyVK_IFCBZOqe55F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aspire Park",
+                "category": "Park and Garden",
+                "url": "http://www.aspirezone.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN15x6P_p67sStt2mtZPhNC_JZtF4c_jzR9ohba=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oxygen Park",
+                "category": "Park and Garden",
+                "url": "http://qf.org.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLTLL-c2KXtl2tX745phLt0CNCUw9Nf1ThdSjE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qatar National Library",
+                "category": "National library",
+                "url": "https://www.qnl.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwy8hd00UUFi0qJb98LZyuKdvhR_Cz3hfCiE1H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Desert Falls Water & Adventure Park",
+                "category": "Water park",
+                "url": "https://www.salwabeachresort.qa/desert-falls-water-adventure-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhttKd6bJI0pqdqeqpXk_3V1kN66IArWr-N2-V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jungle Zone",
+                "category": "Theme park",
+                "url": "http://www.junglezone.com.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbxT0zi0LdiQDuL2dwi688LOJrfPFkghjl6LQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gondolania",
+                "category": "Theme park",
+                "url": "http://www.gondolania.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN962rRfRHGVNBjk1KmBAen2XdiEVq67aUJHZLf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Education City Golf Club",
+                "category": "Golf course",
+                "url": "https://www.ecgolf.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpnIlwwy2nefcOnw66gNjlAbexTRv18csPl1fj=w148-h148-n-k-no"
+            },
+            {
+                "title": "West Walk",
+                "category": "Tourist attraction",
+                "url": "https://westwalk.qa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlRyHq9jGZkEmx5Bd25jPG4LjVd6TVqO-dGbQ9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aspire Tower",
+                "category": "Building",
+                "url": "http://www.aspirezone.qa/be/OurRooms.aspx?vid=23",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwqCjxDwIgKqMXg-JJMj-3TOfscr8I65skhhZu=w148-h148-n-k-no"
+            },
+            {
+                "title": "3-2-1 Qatar Olympic & Sports Museum",
+                "category": "Museum",
+                "url": "http://www.321qosm.org.qa/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPRCd7GmnBv0VG6154FGHf5XHScIp9ntFEAB9Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Waqif",
+                "category": "Traditional market",
+                "url": "https://souqwaqif.qa/ar/main-home-ar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUXY0E9kRjKcSanTicNQT8wFhKjYudw3XyTcS2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ansar Gallery Prayer Room",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxdilC8HDtJg2r5wykz0o-dOPvj53IEBlataJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lusail Stadium",
+                "category": "Stadium",
+                "url": "https://www.lusail.com/city-football-main/lusail-stadium-fan-zone/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOPkWGtvLKOR76ey0EskiAScKLa15kWMkU_9Xm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Msheireb Museums",
+                "category": "Museum",
+                "url": "https://www.msheirebmuseums.com/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP47tS3_5cpDGWwt4CG1KIng0QUtNexJ8YjSoJV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Rayyan Al Qadeem",
+                "category": "Underground Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7kGdxoAzqE3-VufbvKWPDgyhlSLlnn2Vx1Qm5=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Museum of Islamic Art",
+            "category": "Art museum",
+            "url": "http://www.mia.org.qa/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO9NznDgXT5NgnxQ7d9xoDM9yC_J2CRb1zf1x89=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Qatar",
+            "category": "National museum",
+            "url": "https://nmoq.org.qa/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMvslxxYYuexs3ARiVS_hxB18a4VQS5ma_oVZWv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Souq Waqif",
+            "category": "Traditional market",
+            "url": "https://souqwaqif.qa/ar/main-home-ar/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMUXY0E9kRjKcSanTicNQT8wFhKjYudw3XyTcS2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Villaggio Mall",
+            "category": "Shopping Centre",
+            "url": "http://www.villaggioqatar.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOEgf8fYMD7rEM4t6RoHTSCIyVK_IFCBZOqe55F=w148-h148-n-k-no"
+        },
+        {
+            "title": "Katara Cultural Village",
+            "category": "Cultural association",
+            "url": "http://www.katara.net/en",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOP-OS7n2lhEZs3YkaXjQd8khv4IIsfI9CFfN1_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Aspire Park",
+            "category": "Park and Garden",
+            "url": "http://www.aspirezone.qa/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN15x6P_p67sStt2mtZPhNC_JZtF4c_jzR9ohba=w148-h148-n-k-no"
+        },
+        {
+            "title": "MIA Park",
+            "category": "Park and Garden",
+            "url": "http://www.mia.org.qa/en/mia-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMTJO5R5Ra1pK5gs58vuBUzh7QjU8jazqegBR4j=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Bidda Park",
+            "category": "Park and Garden",
+            "url": "http://www.visitqatar.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP5ddFoOWQMkwld7oVCFWoFnLmfA7AmkoTxR8ml=w148-h148-n-k-no"
+        },
+        {
+            "title": "Qatar National Library",
+            "category": "National library",
+            "url": "https://www.qnl.qa/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPwy8hd00UUFi0qJb98LZyuKdvhR_Cz3hfCiE1H=w148-h148-n-k-no"
+        },
+        {
+            "title": "City Center Doha mall",
+            "category": "Shopping Centre",
+            "url": "https://www.citycenterdoha.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMc0u1VX-cB9FZLWPcHJdaasIQguQrtW8k0d2hg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Desert Falls Water & Adventure Park",
+            "category": "Water park",
+            "url": "https://www.salwabeachresort.qa/desert-falls-water-adventure-park/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOhttKd6bJI0pqdqeqpXk_3V1kN66IArWr-N2-V=w148-h148-n-k-no"
+        },
+        {
+            "title": "Doha Festival City",
+            "category": "Shopping Centre",
+            "url": "https://www.dohafestivalcity.com/home/?utm_source=gmb&utm_medium=organic&utm_campaign=GMB",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPrkzer1YhNcVzSi_YlCFyDfd3e-WJjfQkCT8Mu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Imam Muhammad bin AbdulWahhab Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMaijHx_QSo7rfMQ43YIccLHt8B_QlzV6yetIvX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Souq Waqif Falcon Hospital",
+            "category": "Hospital",
+            "url": "http://www.swfh.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNDIP96s2YrVEwAjqu9dH_H1tIH2RLz_EM4aNFC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Place Vendôme Mall",
+            "category": "Shopping Centre",
+            "url": "http://www.placevendomeqatar.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMZjGuYQPiLnKhpC96pMJTYs4ZXoIsBAgrnZBJZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sheikh Faisal Bin Qassim Al Thani Museum",
+            "category": "Museum",
+            "url": "http://www.fbqmuseum.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPHDfg8ORCBLPG-J7Z7Omof3fDpMpYWrSvNbNnQ=w148-h148-n-k-no"
+        }
+    ]
+}

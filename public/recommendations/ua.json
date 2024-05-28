@@ -1,0 +1,3568 @@
+{
+    "cities": {
+        "Drohobych": [
+            {
+                "title": "Museum \"Drohobych\"",
+                "category": "Museum",
+                "url": "https://m.facebook.com/drohobych.museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIevv54tbvy7kaQden8mT2b55bP9v15by93JzX=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. George's Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD9ZkLwXmU9OO3ByxIn96sx1UkM1qmycym_F5l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to Yuri Drohobych",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHjuTDu6rwaaeJW1sJiqPHJKQTc25OBbgltupt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of Stepan Bandera",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJCnmi1bmzOSIj89X4-wJLbjmg6POMfUm33QW9=w148-h148-n-k-no"
+            }
+        ],
+        "Poltava": [
+            {
+                "title": "Museum of the History of the Poltava Battle",
+                "category": "Museum",
+                "url": "http://battle-poltava.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7rL_vPq-6YkiMqlld350_mmRVUGxywIPALudA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Poltava Local Lore Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2PswF2VfemISYU6OdHrY--NMoOgJGx0R-KHba=w148-h148-n-k-no"
+            },
+            {
+                "title": "Memorial Sign to the Poltava Galushka",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOScJOgCJybrIyPWmXH_X4V0jT4psli47XOGAq2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rotunda of Peoples Friendship",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpyP4Hk1RPQrLODTsOj1D63JFywACllbL2lcRl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natsionalʹnyy Muzey-Zapovidnyk Ukrayinsʹkoho Honcharstva V Opishnomu",
+                "category": "Art museum",
+                "url": "http://www.opishne-museum.gov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5tOGpo1ND46PDFbZcq6axncwXHCLVMQOupiyC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Poltava Art Museum",
+                "category": "Art museum",
+                "url": "https://www.gallery.pl.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIGjHX61K84X1ALYcE1Yyf2Opvig5nnbC1_YEj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum-estate of Ivan Kotlyarevskyi",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHnnm8jm7EwMfzkKHA1A-O1h2ua61SXqODUM7L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Poltava Museum and long-range strategic aviation",
+                "category": "History museum",
+                "url": "http://mvba.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2S4AVn6-xU1fq68uPuWwjfpBpDZEdWDn1II0c=w148-h148-n-k-no"
+            }
+        ],
+        "Sloviansk": [
+            {
+                "title": "Slov'yansʹkyy Kurort",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuCoYvl3HOBXhF4odT9ZT-M8iux0V4yfX2LEgH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/Idris2019m/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            },
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLDnckvOkkotNeSRJs65olWVZ-AaD5Jr2VbKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            }
+        ],
+        "Melitopol": [
+            {
+                "title": "Pam'yatnyk Tarasovi Shevchenku",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPM_bj5I1ds11zTDJX2x0ySLanLGx0FZ1jD5EdS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to tank T-70",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS0JVa5ZLpNuK06bw20QZOSJb141UzRAOFrIvj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zaporozʹka Sich Istoryko-Kulʹturnyy Kompleks",
+                "category": "Cultural centre",
+                "url": "http://ostriv.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPw26dzBD00hOc-VJ48damSq18EYAPRsxJ1HY4u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kyrylivka",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQRKhdSW1II2sVX5k0ClOXSEcuGupcvSNT4mwC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Развлекательный центр Fly Kids",
+                "category": "Children's Amusement Centre",
+                "url": "https://flykids.ua/melitopol/trts-amstor",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOp7onQzOib2eAm6QmiHDNULqqRcI6Dl803s5eb=w148-h148-n-k-no"
+            }
+        ],
+        "Dovzhansk": [],
+        "Ivano-Frankivsk": [
+            {
+                "title": "Івано-Франківська ратуша",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVv8BIIpqK9v9td-9I2VEFH9Ngm21HA9uhgejz=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Holy Resurrection Cathedral",
+                "category": "Cathedral",
+                "url": "http://katedra.if.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsvwMPncF7ju4F_h-zdvr7r_VJKWfjxuq4MbzJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ivano-Frankivsk Regional Art Museum",
+                "category": "Art museum",
+                "url": "https://artmuseum.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5FcwjQVVTN5ieCAGy4A2oj20Ualx6RzOTWA50=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rynok Square",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNH2sJ-GIx06UnkbcLwj_N02SFkLSqH9lESdwrH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misʹke Ozero",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuKnn3mDAlChpVi_wYc3EhcfqIWbXNvmxl0h8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Im. Tarasa Shevchenka",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNsmc_xLTvn7kRP3FFi0tXStUOLIaEP3cXERDM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ratusha",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhk56BuuraSdcmz3T98rs51psZc1aiWeE-vJwo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stometrivka",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9i8xWl86fpaH0pgbKqaMNxJbFbtb8IZPo23T1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dem'ianiv Laz",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4_HT6LifwiUDJi6MMTpmkHXlt5XX6QvxIbpGl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dovbush rocks",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPphf2doIKvKu1m2GExPy-C_LPezk7qxOM2bKJT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Potocki Palace",
+                "category": "Historical landmark",
+                "url": "http://lvivgallery.org.ua/museums/palac-potockyh",
+                "img": "https://lh6.googleusercontent.com/proxy/pghl7yWud-iPK3xSg3so78Hcbd2lLS81grqEopan_KhtYbG_E33Zbb6HOMqy5ba5K18o-O-_kQpnxYk5QEuRwGPMkoMOL9Plv7PR2-qcxNCvsDP-Mx7RHf7lrNHrkjyF3iT3jHtTGSkmoe0ARL-N9KpkaN3QDxE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ratusha",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7QZFgphrIIchmStzpnYb_Tou5rzJcdU11rX6e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rynok Square",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8bDoR-Rzo6bqJVx210DrHod6MCaHbdkD9mGmH=w148-h148-n-k-no"
+            }
+        ],
+        "Berdychiv": [
+            {
+                "title": "Roman Catholic Church",
+                "category": "Catholic church",
+                "url": "https://sanctuary.karmel.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpFOjETcTD6f227Kl-2bF1gLxVZQLlTW2NpFi4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastyr Ordena Bosykh Karmelitiv",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzlvgzaobx-YP9UeIOqUYMmtIJBTv3ECJHBSzl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Nicholas Cathedral",
+                "category": "Orthodox church",
+                "url": "https://www.soborberdychiv.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHi_uR1Y7NZopS84vNlNjAemVN0lSJt6BXV8A6=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Barbara's Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMNEwRi0y02NVcM7iDNz8d9kW-4sLoGQrcM9jT=w148-h148-n-k-no"
+            }
+        ],
+        "Chornomors’k": [],
+        "Antratsyt": [],
+        "Zviahel": [
+            {
+                "title": "Kiev Zoo",
+                "category": "Zoo",
+                "url": "https://zoo.kyiv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZRCoOUkGGvNqnfuWSCYGZeb9-vqRGDhzF1kMi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Парк \"Олександрія\"",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6pkhcealiwaCH2yKkjoRQJ5uTJczo9uGg_SFj=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Cyril's Church",
+                "category": "Museum",
+                "url": "http://stcyrilschurch.sophiakievska.org/uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiQ8Q4PYPqddySAC_ExIV1XvwE3V9UF3kKi0ng=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babin Yar",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcsUufxHbZ0hIvFSiV1q3rbRLr50g2ROhxxB5Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushcha-Vodytsya",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyZXp6aTz1U542aegS_F4b6gQsduNkRdpdCvdF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anatoliy Kuznetsov monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPM89Tzh8oa-5UhQXvmVFUKesFk9y0nEc1BPLrF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Syretskyi Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2I7bhtNtokXFHNlcvXGJX_HdoXgED34Zu2muN=w148-h148-n-k-no"
+            }
+        ],
+        "Sievierodonetsk": [
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOp7fKW2i9QEQ0bbQgQFGNzXkdgHxlRTkDEfYgx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            }
+        ],
+        "Druzhkivka": [
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/Idris2019m/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLDnckvOkkotNeSRJs65olWVZ-AaD5Jr2VbKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            }
+        ],
+        "Zaporizhzhya": [
+            {
+                "title": "Zaporozʹka Sich Istoryko-Kulʹturnyy Kompleks",
+                "category": "Cultural centre",
+                "url": "http://ostriv.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPw26dzBD00hOc-VJ48damSq18EYAPRsxJ1HY4u=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Reserve Khortytsia",
+                "category": "National reserve",
+                "url": "https://ostriv.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8cb92eOB_bKxavwx5qvyLloCQf1CC7kZNM81j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faeton museum",
+                "category": "Museum",
+                "url": "http://faeton.zp.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNILkwsU5PBIg3aFYVhKBzJA1S-5lZT3YDysFsc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muzey Istoriyi Zaporizʹkoho Kozatstva",
+                "category": "History museum",
+                "url": "http://ostriv.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzcz1J9TNvxL9jkpnpVhEkDo0o-zQva1iKZ8li=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zaporizhzhya Regional Museum",
+                "category": "Local history museum",
+                "url": "http://museum.zp.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmFB4457ql8insIHoL1vXRbNEEp1TNxUuxxmXp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skifskyi stan",
+                "category": "Tourist attraction",
+                "url": "http://ostriv.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8XshS8i_Kl4mBUlbY0OJJB1s9jB8wn8e5CMo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Protovche",
+                "category": "Tourist attraction",
+                "url": "http://ostriv.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOFBqX7B6OiKWoriPib74WpZkR_Sqzpdve1SWK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Музей Остров Хортица",
+                "category": "Museum",
+                "url": "http://hortica.zp.ua/guide/north/91-museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1NmE11ee-9oYR2XwSARk79f_TAkrvn_nsBqmG=w148-h148-n-k-no"
+            },
+            {
+                "title": "\"Slavutich - Arena\" Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjFKJGE8-Y3vmku_XhKbi6jpy1Py7eqUJbBxq-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubovyy Hay",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUzg2SAnvXuAoaUQBJ0e6NOS53qsV-yuUZcCZP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bayda",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMm6aB19UKL3F2XqnXicJY_3fJTno058yL_WsxM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the History of Weapons",
+                "category": "Museum",
+                "url": "https://www.museum.diana-92.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUb1UoVRuaGeVOkwAvfuzAHGlrV4oqXdDHsdLG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mist Preobrazhensʹkoho",
+                "category": "Bridge",
+                "url": "http://zaporizhzhia.city/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuEXNFJcoGa7bsa6hNhLfw_pdOP3gQYgAPGIUV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khortytsia",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtJnml6VWHj7eYjHACYkRzzQkFNwHXHPlqjy_c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dnipro Hydroelectric Power Plant 1569MW",
+                "category": "Hydroelectric power plant",
+                "url": "http://uhe.gov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4-yf-a4gauZGRIqHCdJlNMwtqnPgYyDKOL0Kn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sobornyi Avenue",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfI9NrzbmankZIttDxfJRThimGFrvxYJAQtiQ-=w148-h148-n-k-no"
+            }
+        ],
+        "Novomoskovsk": [],
+        "Korosten": [
+            {
+                "title": "Chernihiv Dytynets Park",
+                "category": "Park and Garden",
+                "url": "https://oldchernihiv.com/chernigivskiy-ditinets-val/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsX-XYTZATRNGMdzIKiFyi8VVtT5M_VNs0a0ML=w148-h148-n-k-no"
+            },
+            {
+                "title": "Historic cannon Val",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEkh9Grbv0GAitBnO_NwxnhFPBjygI9Yzblv1n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krasna Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlU732F17AuFz9rO69CUIfKU9NjgqdeuHm7Tqc=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Paraskevi's Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7XyzR0MneczenES2wYWv9Qq6x2NcnW-XR1egG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yalіvshchyna Regional Landscape Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLXjvDdNLNbD8-Qjar41nAvNZc-a_gqUfV6Sbe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of precious and decorative stones",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIFiB43ka3E1Ikil8FHqEzWBUlaR6N95Jp6FD5=w148-h148-n-k-no"
+            }
+        ],
+        "Kramatorsk": [],
+        "Lozova": [
+            {
+                "title": "Menorah Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKKITGA0bJZ8tLeimr-l_8GMhvQolylnJjQYez=w148-h148-n-k-no"
+            },
+            {
+                "title": "Центральний ринок",
+                "category": "Underground Station",
+                "url": "https://www.metro.kharkov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0yDmEjYgAJD01Uu_tEMdT5RdA6tjFmPgv-WD1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Svobody Square",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOX_tGx3MTqg407-L3mGoihP7zqsX8hms-foS79=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metalist",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcGC22oCBQnC09ZrbNccAczJTYfzXthpR2iupd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shevchenko City Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD4NYVlzEBvqG-TGYccG3kZtPnZv6XuKKjjc7F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kharkiv Zoo",
+                "category": "Zoo",
+                "url": "http://zoo.kharkov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8D6ApI2TWyk24QX8cKfU202ybYlT028Tc3TGg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blahovishchensʹkyy Kafedralʹnyy Sobor",
+                "category": "Orthodox church",
+                "url": "http://kharkiv-sob.church.ua/",
+                "img": "https://lh4.googleusercontent.com/proxy/AUbtJpbcouC5SvHYa5dHKHH_L4fQkF1_z9k1TLbfXkyut9dKV7CZqW_KYl6IjUOqCfsMSGhk9TMDGuRmBMFQ2lX1zWXj9gEiefzoBEbTrlWX0_mMdkGXDadHJ-_CH3aIy5Lb1knd38BKid6KjIxvbfKQCzBPnhg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirror Stream",
+                "category": "Fountain",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMx4nLA4bhROfE6EfZKPBgKm3vY39TDAjC1WxQn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kharkiv",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWF04rB6oFF3JtRHKlMp4HJLeL556p5RVi3ez_=w148-h148-n-k-no"
+            }
+        ],
+        "Pervomaysk": [],
+        "Konotop": [
+            {
+                "title": "Muzey Aviatsiyi",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXHA9w0wQGZnHvp_74jE78eu_V2h51QYhEkg0a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apple-Tree Colony",
+                "category": "Garden",
+                "url": "https://goo.gl/liiEJv",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZot65bHwHBdWemcXlnpPCUmfZMHPOhqL28_Zo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krolevets Weaving Museum",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVc0zSzL52-LccEuGWnjmV_QlI98JIz2_s0J4w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tserkva Mykoly Kozatsʹkoho Upts",
+                "category": "Russian Orthodox church",
+                "url": "https://www.facebook.com/%D0%9F%D1%83%D1%82%D0%B8%D0%B2%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D1%80%D0%B0%D0%BC-100144502387142/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOr9zI2P8UkzyXH3aiaoVuTZ1j9LhnSrTrdKpjI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muzey Horyunsʹkoyi Kulʹtury",
+                "category": "Open-Air Museum",
+                "url": "https://youtu.be/-VDyhShgSSs",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWggpKFeP2hgfmVATlUFLuk_OVDv5BlqPuTlME=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dzvin skorboti",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFyELpETRLulmgO6dihTuAnozS2fYr72iL8VTG=w148-h148-n-k-no"
+            }
+        ],
+        "Pavlohrad": [
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviati Hory National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOf8IFNX0Dc4vNFbjW9ffxg_pWv0SjckxxLBl08=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pam'yatnyk Artemu",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRo8U5aoxDN_elKa7GYAE9O0KA3JALVL_ZxGq1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Forged Figures Park",
+                "category": "Theme park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLs08l0RRJtLK14kw0XdKBEVWijou-RGVBhbaQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slov'yansʹkyy Kurort",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuCoYvl3HOBXhF4odT9ZT-M8iux0V4yfX2LEgH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ferma Strausiv Ostrich Farm",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeCh8WLMKFv1hFt8kjIILSS7g2kmbPq6jSxINA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLDnckvOkkotNeSRJs65olWVZ-AaD5Jr2VbKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Siverskyi Donets River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUiZ6TURECMDySVEzrUawLxSP3PsNKUfBz0wky=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirror Stream",
+                "category": "Fountain",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMx4nLA4bhROfE6EfZKPBgKm3vY39TDAjC1WxQn=w148-h148-n-k-no"
+            }
+        ],
+        "Alchevsk": [],
+        "Shostka": [
+            {
+                "title": "Historic cannon Val",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEkh9Grbv0GAitBnO_NwxnhFPBjygI9Yzblv1n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Transfiguration Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKgM3uuTcTUEd7B76AIUjMgAwvHVXdA62t9eW7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsytadelʹ Baturynsʹkoyi Fortetsi",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgpsCt_B9VOn5fEPQ7vnjBeJFtZgannS2gf9Wa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of Princess Euphrosyne Yaroslavna",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM01VgLACtU7-3zofjuzZ0iAy6jD6kRlCdji2Jf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hlukhiv Water Tower",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKH6N-PvBsuKSpdCVXBD1EiiRVMMHou3ilUor-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pam'yatnyk Partyzanam Hlukhivshchyny",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM45tIpa2LtFlZNdarSl44f5uH56fS6Mhcn1QWz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kyiv fortress city gate",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfsg3thTfYKacNbVaAelRnweFjkIZk15k-Exvq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping malls",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOI91pWyCi6TPSb1jdnD_Yu49m5FzyOhdsGBBnV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pam'yatnyy Znak Tarasovi Shevchenku",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5618JY_OoIbYOmQ1duJ_RKz_XZCSwlCplcYi4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dzvin skorboti",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFyELpETRLulmgO6dihTuAnozS2fYr72iL8VTG=w148-h148-n-k-no"
+            }
+        ],
+        "Horlivka": [],
+        "Yalta": [
+            {
+                "title": "Yalta, Naberezhnaya",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLocqcI1nmhVcA_IqdNXPxvNRA4Wr0NW74yZTK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Primorskiy Plyazh",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUrx_c8HhKQvDIdmtKmBay2ilXl19tcIY8kn0f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Water park-hotel \"Atlantis\"",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPuqc99dae_Tyds50wdsEdc3kM8Cnk298dVdFB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dom-Muzey A.p. Chekhova",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlWob_I7nTZU9UGQabO8OHxpSyaah-YwoLE1NL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kanatnaya Doroga \"Yalta - Gorka\"",
+                "category": "Amusement park ride",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfJzJl3nOElFHXT22u6i5Vc_AEnL4Z4XArFIAF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vinzavod Masandravskiy",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOq_6cPxZPawkjVbhotBZuivoQe0L75nYA0vLKY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Массандровский парк",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGPKoCDGhgiAkWPXM0RMPByQulYXaiUweEqAom=w148-h148-n-k-no"
+            },
+            {
+                "title": "Glade of Fairy Tales",
+                "category": "Open-Air Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlvtPlXQufMKuxN-b4LHjP_wrsarFmSb6GI4IU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Massandrovskiy Dvorets",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND6KlglKreTlL1wJ0tN6jS00MiOag253WAhlUX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vodopadna river",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR3VwCdG7bbFHnCH8UP3YhY4Z_Koxtw9WQxVcQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bukhara Emir Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPq6KUQ5kzbRID6ekwZFCmenT4ipojLFFYd6_mk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miskhorskiy Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTWWSdaWVTloxI9vy3CyXKeCh4kPx4iqEr5CdI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Massandrovsky beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6mcosxDuY6cdhncrMgh7PAsMjbDBmOutcqhs0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yusupov Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7nrNOGPt8g3r-J_5CVGk7xF5eXt3ro8oiiGkE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Solnechnaya Tropa",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6E88UolruIbu0zyvgQmr-zPhJf_WlWBgAhrJ9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yalta Inturist",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/proxy/1WVBp4aq01iDnJELqHbl4nF2TywvqSWbHrGgKA18hIl_ZVv8c5KgZC3OBNVhDdvXHyBb9xmxK3ErL-sBkgNGisYntPcJkAmjXxJ-yAc84FnpFNTtVgp4vWvX2g8KvLkNCxhYTLJ1Ht3_sNAuxaYM8cwXYN3s578=w148-h148-n-k-no"
+            }
+        ],
+        "Uzhhorod": [
+            {
+                "title": "Uzhhorod Сastle, Transcarpathian Museum of Regional History named after Tyvodar Lehotsky",
+                "category": "Castle",
+                "url": "https://www.zkmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2F20AJrmAA6hTXzdom3CGGUBVnwUNhMP2sii_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Cross Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://cathedral.uz.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJLcx8AC_HFl7APJAdPJPJSsrcNoK8OoY13Opw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Folk Architecture and Rural Life",
+                "category": "Open-Air Museum",
+                "url": "https://www.facebook.com/uzhskansen",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPExpR0Qf_FPfxNBBvkBNdgVjrYmFzZ2LVGV3eK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Transcarpathian Regional Art Museum of Joseph Bokshay",
+                "category": "Art museum",
+                "url": "http://bokshaymuseum.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEA7qXGxS6sHUcKyj2wiLeToD96w6lsXspuPlO=w148-h148-n-k-no"
+            },
+            {
+                "title": "UzhNU Botanical Garden",
+                "category": "Botanical garden",
+                "url": "https://www.uzhnu.edu.ua/uk/cat/museums-bot_garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjpf_SZ4ZD3aX8DoR_tGFGsAZAYp47o-hdyOF4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nevytske Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFJz9CAdgAdHP-oTf-iy_X_cOT4g2ONL3OdlGm=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Miklos Castle",
+                "category": "Castle",
+                "url": "https://www.stmiklos.com.ua/about/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4kULwPpMXDsFW-K08FyaVlNdwyV989KbxgTdH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Serednyansʹkyy Zamok",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv9Y8v5NY_dP1MWJTo9IZMvmWmYkrTlKJzsIxW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Аквапарк «Карпатія»",
+                "category": "Water park",
+                "url": "https://mssg.me/aqua.park.karpatia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN39y6flTLbnS_eOyFx4Cbn-uqSqp26EqTnvzh1=w148-h148-n-k-no"
+            }
+        ],
+        "Kremenchuk": [
+            {
+                "title": "Prydniprovsʹkyy Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ3g6k1lc2kG6RMZd4HUJi8d1kbXH4v8eD6mEE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park named after Oleg Babayev",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_qX4xMo-ti_pgPQMjCpqBFtXiRMMFa5ule6mb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misʹky",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIc81s_-tLqyO-bXVImNR-CekC-xBjLIW7nkLf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Peace Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOK00bZQOelxeZ5hh-FDNIm1f88is2pfwcQr6II=w148-h148-n-k-no"
+            },
+            {
+                "title": "park Voiniv-Internatsionalistiv",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNy-Jc4XemyOK19ovKIy_AEWESHsA1WPn7zlLbQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yuvileynyy Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPunH2T7hEFSaiRVMIRNnOaFNA1qNr0cf13q3ad=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atraktsiony",
+                "category": "Amusement park ride",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGUnsuOvv4FuzX8_4uzS876w1lR8KYRlIUZ0rm=w148-h148-n-k-no"
+            }
+        ],
+        "Vinnytsya": [
+            {
+                "title": "Leontovych сentral park of Vinnytsia",
+                "category": "Park and Garden",
+                "url": "http://parkgorky.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD4cG4d6EJ4gycS-1-vgmrAlvUhoj3Ecy57LDb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Podilʹsʹkyy Zoopark",
+                "category": "Zoo",
+                "url": "https://zoo.vn.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQhfo5AZkIrTgjHJF66idml4AiCMbedKSlgOQD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vinnytsia Local History Museum",
+                "category": "Local history museum",
+                "url": "http://vinnytsia-museum.in.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsnYHRcPI3ac-u6hTWIh4jCNTcW0X4wEQY2mJK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of memory of warriors of Vinnytsia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFdwYNlFa022AtPeOpLUzTM4oj3vCRXBQsd7QH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vinnytsia Regional Museum of Art",
+                "category": "Art museum",
+                "url": "http://artmuz.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPH4X9zla828G7jaNFC5fd_KAD7UJ8UzsPN_HDt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Werwolf",
+                "category": "Historical place museum",
+                "url": "http://vinnytsia-museum.in.ua/facts/wehrwolf",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO378qJrudOkXbGCy7HLE6eshBhnjjJrh7PqYVc=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Pirogov's Estate Museum",
+                "category": "Museum",
+                "url": "http://pirogov.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4LuwH6aU_cJ2UdZ8yj1rBCAIPKgjj9h9L9OMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Transport Models",
+                "category": "Museum",
+                "url": "http://www.vinnitsa.info/news/u-vinnitsi-vidkrili-unikalniy-muzey-modeley-transportu-kolektsiyu-zanesli-do-knigi-rekordiv-ukrayini-fotoreportazh.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhd0zU6kY1G7zgpUvT7n2NLJ8FY-1Hm4LVV7nH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Transfiguration Cathedral",
+                "category": "Cathedral",
+                "url": "http://orthodox.vinnica.ua/parafiya/i-vinnitske-miske-blagochinnya/spaso-preobragenskiy-kafedralniy-sobor/#parentHorizontalTab2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHKzjUMa7L4dxhdhURrGVloY6IYcxAyJ4ESMnJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vodonapirna Bashta",
+                "category": "Clock tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGIy5qMlrCAYVNnlnIvAo5VEmovFM9flcGaLUy=w148-h148-n-k-no"
+            }
+        ],
+        "Kadiyivka": [],
+        "Bila Tserkva": [],
+        "Boryspil": [
+            {
+                "title": "Feofaniya Park",
+                "category": "Park and Garden",
+                "url": "http://www.feofaniya.kiev.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM40p6M_ZDJnS6ysG-qIeIv2jZTlz0LOuKIM4_V=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Opera of Ukraine",
+                "category": "Opera house",
+                "url": "https://www.opera.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5RsZC5wdyWyioVwRRXMstv2AL_LafgUv0axAI=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Folk Architecture and Life of Ukraine",
+                "category": "Museum",
+                "url": "http://www.pyrohiv.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKzBmtipAbcoybrF8RVjgkprkYEiDVLLAzdtLW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kiev Funicular",
+                "category": "Transportation service",
+                "url": "https://kpt.kyiv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuPwSg3KYx8K-LjvHpaErbSBcCumqN5uFQBeKl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oleg Antonov State Aviation Museum",
+                "category": "Open-Air Museum",
+                "url": "http://aviamuseum.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqX4OkEkDiG_K1u-P-nHmFpvflwZAbbV-pO4pv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mystetskyi Arsenal National Art and Culture Museum Complex",
+                "category": "Modern art museum",
+                "url": "https://artarsenal.in.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwfRw3zW-H68U9fTeXKAX2bUYkpRQIXMA_B9FN=w148-h148-n-k-no"
+            },
+            {
+                "title": "BULGAKOVA MUSEUM",
+                "category": "Museum",
+                "url": "https://bulgakovmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQnb5NyNlpx9nzfjWYSmo84Nn-bo-gGsd-M3Ct=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mariyinsky Palace",
+                "category": "Government office",
+                "url": "http://m-palace.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbtDauWHVu8qFIppWghihp0JQ0DwSW263Bg0HN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kyiv Fortress",
+                "category": "Museum",
+                "url": "https://www.kyiv-fortress.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkjOmFoBEyKH-KhbviF6qj7KFsUmUAh2o-RINb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ukrainian National Chernobyl Museum",
+                "category": "National museum",
+                "url": "http://chornobylmuseum.kiev.ua/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvBks9rX4tzmyRryOAFJYBn_oVqXXez5gHKNC7=w148-h148-n-k-no"
+            },
+            {
+                "title": "One-Street Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAfNIE51kkDN4zrmvW2Do4MKK4xvtjMPyXroep=w148-h148-n-k-no"
+            },
+            {
+                "title": "TSEKH contemporary art gallery",
+                "category": "Art gallery",
+                "url": "http://www.tsekh.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2B-ucqomSSp50zvEhZJ5LrHoeK64l3HV5wHsN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nebesna Sotnya",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBjU_1Q9e61Rn0pE_oj1ZEvMob-iPP2Dfshi0f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Lavra Bell Tower",
+                "category": "Historical landmark",
+                "url": "http://lavra.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9adMBTePv9g9rZJEXUWr-eV-JX4IdUgiOgCWc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anatoliy Kuznetsov monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPM89Tzh8oa-5UhQXvmVFUKesFk9y0nEc1BPLrF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mezhyhirya Residence",
+                "category": "Museum",
+                "url": "https://mnp.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-7GeCTcW8igPDhZdDhkgy28oEFzSOQMO8-KCf=w148-h148-n-k-no"
+            }
+        ],
+        "Makiivka": [],
+        "Chernivtsi": [
+            {
+                "title": "Park Zhovtnevyy",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPi7y4lmcL2FEO5ZhNe27OouCrOZtShMye6rJe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shevchenko Park",
+                "category": "Park and Garden",
+                "url": "http://centerpark.at.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEgRUafMc1DEcT-WI3keEfvIE_NbbC_PYso7GW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Theater Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5ig5xLahEMMcRBWESvydA1qYWDLOh6gIcIGU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Свято-Миколаївський собор (УПЦ)",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY9B1moxg6xRrvia-9UAcPdlAKnS3XhEQw7bZP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chernivtsi Regional Local Lore Museum",
+                "category": "Local history museum",
+                "url": "https://regmus.cv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOss4DBZsVUh141ELEEtv4Od23anTVXNe8bmWmp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chernivtsi Regional Art Museum",
+                "category": "Art museum",
+                "url": "http://artmuz.cv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMZLQV9GfPgfQlTIkNuxHXhtjY4vuh9LkJjJ_d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Armenian Church",
+                "category": "Armenian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOazyTJI9c4-ZKH1oQ_tIFW-Nu6G1_tYEn4yPWO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chernivetsʹkyy Oblasnyy Muzey Narodnoyi Arkhitektury I Pobutu",
+                "category": "Museum",
+                "url": "http://skansen.cv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWwyQMas4G4FlVAvkxGLHLzS4HA9hhcEMNDUFo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ship House",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPdIfIepOVdxMXboMHg80HUC5skhrmH8LrlcSN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chernivtsi National University",
+                "category": "University",
+                "url": "http://www.chnu.edu.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8yOcHZNk2eVBMe3lqMmv3mvImoowiTyFNvb-K=w148-h148-n-k-no"
+            },
+            {
+                "title": "German House",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6DK6hu1XX22EtabvE2gT7A067pVbJtCiDkyQK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Filarmonii Square",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMgvDCPem4BhoA1cct6vh8HqCH-ccHhS2YTLNX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Jewish history of Bukovina",
+                "category": "Museum",
+                "url": "http://muzejew.org.ua/Kontakt-Ukr.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhjpi8gVb_Dz5QW8yQzy53AOqBndF1yiDB6drU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatral'na Square",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqqCaoKhRyKFzDewOZzbc8sHFF_4FKSdeBTvJQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Historical and Architectural Reserve Khotyn fortress",
+                "category": "Fortress",
+                "url": "http://khotynska-fortecya.cv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUCNZMyv1PeIpt-FgrovH-WDX7t5Chs0TF2ryl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kobylyans'koi Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMulELHrmYilgn3oJJuPLyR2rdccKivLGajYLxD=w148-h148-n-k-no"
+            }
+        ],
+        "Stryi": [
+            {
+                "title": "House of Scientists",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUNb0fGJiNKpdwhdRMSjiii_pLxpL506WGAzdd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Храм Свв. Ольги і Єлизавети УГКЦ",
+                "category": "Catholic cathedral",
+                "url": "http://olha-church.org.ua/web/page/grafik-vidviduvannja-ogljadovogo-majdanchika-vezhi",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHk93Ksg7DsjgzPgWI_YPI8thFs3DMftZuMleG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palazzo Bandinelli",
+                "category": "Museum",
+                "url": "https://lhm.lviv.ua/location/bandinelli.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8vcDhJCGEYY6r4WlBPe377DVzlOCK9NE-TNdw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to Leopold von Sacher-Masoch",
+                "category": "Historical landmark",
+                "url": "https://ua.igotoworld.com/ua/poi_object/66810_pamyatnik-leopoldu-fon-zaher-mazohu.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUV3ZkPpld38omRCWhrny3UZE9Vev8iEJ6JMnh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lviv Railway Station",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNP6UK-v2AM2dnsTTbAG9pCPurvu1SLumQCyLVI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Svobody Avenue",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIl5J1KHQB5CVM12VQJFZXcCEVNpCJNZkSeW7q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lviv National Opera",
+                "category": "Opera house",
+                "url": "https://opera.lviv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9KihZDt4IUsfn1ELLGqoV_RYGHpBRz9p_cfCG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lychakiv Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMecjjGTaCQLfaok1AnwmAw22ba5S1w37Ix4egT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boim Chapel",
+                "category": "Chapel",
+                "url": "https://lvivgallery.org.ua/museums/muzey-kaplycya-boyimiv",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgIlDCOH0qMZAZdnIAv1335UQMzkWnwJyegWN_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lviv",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZH7LOJSxe8XUkENkwKXc_cXwhFB7iWuR_PBJ5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rynok Square",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8bDoR-Rzo6bqJVx210DrHod6MCaHbdkD9mGmH=w148-h148-n-k-no"
+            }
+        ],
+        "Nizhyn": [
+            {
+                "title": "Bohdan Khmelnytsky Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5ITwtLpDLjd1tv1RlF8Tlbnxqte-1-FEGdyTr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kyiv Founders Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwnt9TwGm_Rq28m1WjOPi1oubgDJHbv33BWrVQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Jellyfish",
+                "category": "Museum",
+                "url": "http://www.jellyfishmuseum.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdOlPTmOtiBKhJYpR4eSCOfwrqMBoH4-J10N9K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musical Fountains",
+                "category": "Tourist attraction",
+                "url": "https://kyivcity.gov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6mcct2_4CO-6GNhSwVA-wN9b73D2K6S9KCEja=w148-h148-n-k-no"
+            },
+            {
+                "title": "P'yana Vyshnya",
+                "category": "Wine bar",
+                "url": "https://pianavyshnia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtPJfYsIArjl0Lh8tkMaOeb347xXLFrxFLJnK2=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum \"Kyiv Picture Gallery\"",
+                "category": "Art museum",
+                "url": "https://knag.museum/index.php/uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSAw6cs9PXox87VMWLIO1d-_CG7jocTP5OWevj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDADG4bmClkBVJHz9lj0WmeHhSqKu_0WvezLVY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Insomnia Кімнати Страху",
+                "category": "Amusement Centre",
+                "url": "https://insomnia.in.ua/golovna-kyiv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCeDPJyRW-rNitOvM-yzUYby14zO8RPqSq1Qdm=w148-h148-n-k-no"
+            },
+            {
+                "title": "N::B Cocktails Bar",
+                "category": "Cocktail bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzg_-Vf1ZDvCc5WoCKDOZOnahCf7iwuU9SKWYb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narodniy Dim Ukraina",
+                "category": "Clothing Shop",
+                "url": "http://nd-ukraine.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVasLvE4rSP1pbffAd1d0D9KKVbeQJ0blFcpaK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shcherbenko Art Centre",
+                "category": "Art gallery",
+                "url": "http://shcherbenkoartcentre.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMivMdE54GoVjuMCObG3SoVVmpsNfd0GrUrF7uz=w148-h148-n-k-no"
+            },
+            {
+                "title": "ES Beauty Bar",
+                "category": "Beauty Salon",
+                "url": "https://b320931.alteg.io/company/308901/menu?referrer=https:%2F%2Fapp.alteg.io%2F&o=",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7HGH-iEmY7lp4lqUrgXzYZAwQ-DxnMlfn_ZdO=w148-h148-n-k-no"
+            },
+            {
+                "title": "JP Massage",
+                "category": "Massage therapist",
+                "url": "https://www.jp.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeTwqbbKv5DDgHqXF14-ZKuHpMT39ftMvFZkdY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to Victims of Famine in 1933",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrw8VHmodpXf068efteBkE86oxVCcn2EVp8U7p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mariinsky Park",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXoBIZTCAJh5SFfya71r-QY04df_neKf1dBDgH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trade Unions Building",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIUMFQGYXG2Stq50ajTm9FISsg5nJm6JonWWoH=w148-h148-n-k-no"
+            }
+        ],
+        "Kostiantynivka": [],
+        "Dnipro": [
+            {
+                "title": "Green grove park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxGFubM-fT-x6FeB1s5nw9DzvAzmiZYIipP_5u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dmytro Yavornytskyi National Historical Museum",
+                "category": "History museum",
+                "url": "http://museum.dp.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjYCXelscTPUYRlmthmVFXVOZIVKnInVJUBqzm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dnipro embankment",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_7Vbqj4lo1zolvwYHcqbG9bYMOsr0z1xIA_Sr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Ukrainian Painting",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNETbx6kYzujU8BLbX3Lhaw8qzrr5QF5_9FOiFX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diorama «Battle for the Dnipro\"",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNid0PsdYuxt12bPuDzDYo25nMhHaBvs7c5Q6LJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Art Museum",
+                "category": "Art museum",
+                "url": "http://artmuseum.dp.ua/?lang=ru",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDSsraS_xgojqYxz9Ey2-lgIaX9syGwCU7hAYo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of the Transfiguration of the Saviour",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSS9QHr-014p1lmv5SXFJ1M0NL3-o-2m9A3IGI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dnipro Museum of History",
+                "category": "History museum",
+                "url": "https://midnipro.museum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSjYJzL8UXldyddJ37-vx4geV-UXL6wUod3LgU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kodak Fortress",
+                "category": "Fortress",
+                "url": "http://goo.gl/aru7Fq",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMp32OUpYf6MthK60VNyEjk1zwhUjDzkugi9QsD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menorah Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKKITGA0bJZ8tLeimr-l_8GMhvQolylnJjQYez=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Palace of students",
+                "category": "Cultural centre",
+                "url": "http://palac.dp.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaxofBOmAhrWqM9IfQBSNN_oNXv1DmkjxfUmu5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastyrsʹkyy Ostriv",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMF0F9VmLCWjU1freyZ7izhdY8Dbm6TW_Y_x9g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Kulʹtury Ta Vidpochynku Im T. H. Shevchenka",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgRz6qEEkfb2ak-jI1MMCS5JQdT2grxOFMa-SO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nedobudovanyy Hotelʹ \"Parus\"",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZV6-KD7iVE0m5GzTyjPQxthvrE04_9h3mA_qI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dmytra Yavornytskoho Avenue",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMZbFAJCfh7yCRdQkPxSIqkV72h-onjCJM7pBk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oles Honchar Dnipro National University",
+                "category": "University",
+                "url": "http://www.dnu.dp.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxOsCXLZLbnLl3Z2cwuto1q4An0muDCsfFrDQW=w148-h148-n-k-no"
+            }
+        ],
+        "Khrustalnyi": [],
+        "Mariupol": [
+            {
+                "title": "park Veselka",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_whU4BbKa2tm-vGVi0ogDgbf2VSP5KJpMbfcB=w148-h148-n-k-no"
+            },
+            {
+                "title": "City Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOw7-D6ahPOl4aD580gAhhJtjCC1Uic7cbzICyc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsentralʹnyy Park Kulʹtury I Vidpochynku",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOE5OPHZmn16CJCY7ekNVQYi9eTLAke7DCLWvBL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pam'yatnyk Vysotsʹkomu",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPliyQSHhXL2pwxX8XFr7GcOpfBSg79TXccWQkQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadion Azovstalʹ",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnaM6047pxizeaOaQCvijxJGjcUtidFQKqX-U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reikartz",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPF7SPRioJnkoIRLUww-2zwdQFljU8EA5Lxr6AH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/Idris2019m/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            }
+        ],
+        "Ternopil": [
+            {
+                "title": "National Revival Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvbTX67b98QAMWVgz_VgmF8moFeBdW1H9SRSuQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taras Shevchenko Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYdn3l8pzYan8cxorVKWZIu5NK_J9lljnDlJ6l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ternopil Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZUm8WO-4f7uei4V9zkNI_GCXw6kJxAoCP809t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Тернопільський обласний краєзнавчий музей",
+                "category": "Local history museum",
+                "url": "http://tokm.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlaz11STqV8lTzF_Ib1tb-_Mx2miJu1m4ZZ_6o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Savych Park",
+                "category": "Ski resort",
+                "url": "https://savich-park.te.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbOK4p_asUj9MNaitp3mjvmsam-hL6z9w_250q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ternopil's'kyi Pond",
+                "category": "Pond",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlVSudXZjw8HOM1Nj_g_KFmOn-B89YmjFkDrsd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Terebovlia Сastle",
+                "category": "Castle",
+                "url": "https://zamky.te.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6_DhIqKwuKL4PyKlu0aGB2BQVQ-zgLmz1tqzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vyshnivets Palace",
+                "category": "Castle",
+                "url": "https://vyshnevetspalace.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPX9l6ZWfuQbMhjASku9OkM-0ouCOXnGu54PPGt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skalat Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8_XJ0AR2DFTjanqZCiEWAa4gSxoGjn56IhN-R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zbarazh Castle",
+                "category": "Castle",
+                "url": "https://zamky.te.ua/zamki/zbarazkij-zamok",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHxPaIgVrWFt202o7pASaWBH0EJogFxqcPwzyl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kremenets Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGE5ajiIYXt7-w1P69cooZs4JxtikEWcvE2oSb=w148-h148-n-k-no"
+            }
+        ],
+        "Donetsk": [
+            {
+                "title": "Donetsk Regional Museum of Local History",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGD8vUNaedBrRkf1o1k5cKJV-ANC6ctWSGu9n-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSXyFiC0wAwwsLxKYVyM1e2Va5cMOYI_YHsDH0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donbass liberators monument and museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm8SC6YCdUJREmsaNT7-zEuFDezXOir9NbeUyH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsar Cannon",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPYYNVuDesOr2e-4TewWhnbm53bQhIbcKB6XEA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Slavic Culture and Literature",
+                "category": "Park and Garden",
+                "url": "https://donbass-info.com/content/view/2062/2069/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHzS001MPz6vpFQUA08dGEFx8RyWioOd2Zg-3D=w148-h148-n-k-no"
+            },
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLDnckvOkkotNeSRJs65olWVZ-AaD5Jr2VbKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Forged Figures Park",
+                "category": "Theme park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLs08l0RRJtLK14kw0XdKBEVWijou-RGVBhbaQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/Idris2019m/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            }
+        ],
+        "Pryluky": [],
+        "Chystyakove": [
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/Idris2019m/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOp7fKW2i9QEQ0bbQgQFGNzXkdgHxlRTkDEfYgx=w148-h148-n-k-no"
+            }
+        ],
+        "Smila": [
+            {
+                "title": "Christ Church, Shimla",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfwxTe4_52xBJf2nBvLKbxMCQYukX8ltFAocLf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Himachal State Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKrIjwJd6s3mDzMNyRtNu4bKPfcAJ-WR4RkXTH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Army Heritage Museum",
+                "category": "Museum",
+                "url": "https://shimlatourism.co.in/annandale-army-heritage-museum-shimla",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFHb2SHtzGrZcvR0IglX9BilkbI0YjkKx53-ZE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tara Devi Temple",
+                "category": "Hindu temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcEeW2KU4pUPuxXil0W1JfrBr51vWphTyjTbUw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall Road",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8bI793nsIiXJVuNapLO9YhkCcwa4pVVMKftU_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shri Hanuman Mandir Jakhoo",
+                "category": "Hindu temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1b5I990QOpGV0DkrVzbXyhitAPNWrj-DQ3JW5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorton Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDOlefhGT6Inc2v9rdDQJIFov9w8roFH7z8Fh5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shimla Tourist",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLrJZmIjZRjCubJTKIbak0-g6YodkAmpgD9AwA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Scandal Point",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfizIJbN1qIgx2qgx_J_B5OCFMaW6UpvpuBoVi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Summer Hill",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMh6SiE60j94_bHnay-sZ_L3ichHH0UGLmw8td3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Annadale",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlZLW_J2DDEVfQVOelpdJy4tpOfwZKfjWpAiwN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Himalayan Bird Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqPLiHD0lxzBQxx9QZwX2EO0ooiDj8IysnXX_7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jakhu Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAfYlHw_WhXucMmc5dV4JlA9YSy_qMi3-bZkQP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viceregal Lodge",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQS4Mj_rjlPlPK_u2tHsm-g1r7TWLFU-qjNLrN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baba Bhalku Rail Museum",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5xVwRLO0qylncAMqdQhPPXmAvoV5xU225N8XT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kali Bari Temple, Shimla",
+                "category": "Hindu temple",
+                "url": "http://www.simlakalibari.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNFphC__ykqtzAe3YJYMlM6B3x5amIpmIKdSlv=w148-h148-n-k-no"
+            }
+        ],
+        "Lutsk": [
+            {
+                "title": "Central Park of Culture and Rest",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsI_xRlpnc4F_REN7vjAI6jaEkST2g5VgeWDZJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Korsak Art Museum",
+                "category": "Museum",
+                "url": "http://msumk.com/ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLCxFHN0Kbk5RzOwo11ZLIugELyz3DpaEHgVkF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of the St. Peter and Paul",
+                "category": "Catholic church",
+                "url": "http://www.catholic.volyn.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrNWYfogsvzbn7TxdBtJZxGLcu7GTAIwJp2ohh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Volyn Regional Historical Museum",
+                "category": "Heritage museum",
+                "url": "https://volynmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuUb8xwdTYXaWT0GSm2YO_dC5aR459gnz7m1x4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lutheran Church, Lutsk",
+                "category": "Lutheran church",
+                "url": "https://instagram.com/gospelhouselutsk?utm_medium=copy_link",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcZ_FLeUnXD-iKwmxdXPoxv4e55AHf2vkgFo7r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lubart's Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-F5QdfyVH_F8mMN0kQtq7CCF7-F1b7LXY_2s2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lutsk Zoo",
+                "category": "Zoo",
+                "url": "http://www.facebook.com/zoolutsk",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0JN0Xa3yl_zGTL4lpFB7NFwZYZ6cg056iHHol=w148-h148-n-k-no"
+            },
+            {
+                "title": "House with Chimeras",
+                "category": "Tourist attraction",
+                "url": "https://www.volart.com.ua/art/holovan_mykola/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMV3ATNTMqtkpKOXIuxSziPnBHR2gJCbEjyUI14=w148-h148-n-k-no"
+            },
+            {
+                "title": "Olyka Castle",
+                "category": "Castle",
+                "url": "https://volynmuseum.com/department/olytsky_castle?fbclid=IwAR3mYIvy8HIKsoBvlJcyGsSuybhDlVQqSHFUsiq06rrKE8uIU588m91GO94",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNd7gGK9NnCOLEbRY175f4Ntn8e5BvC1_Yd_3MW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the History of Agriculture",
+                "category": "Open-Air Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYK2YgCJvoBoNooMlM7MvD777wCbLJQN_u8HDu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Lesya Ukrainka",
+                "category": "Museum",
+                "url": "https://volynmuseum.com/department/kolodyazhne_literary_memorial_museum_lesya_ukrainka",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOm6bW3cUHyx6pRZAMPcBNE1H3Lmd31esffZTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Volyn Icon",
+                "category": "Museum",
+                "url": "http://volyn-kray-mus.at.ua/publ/pidrozdili_vkm/muzej_volinskoji_ikoni_viddil_volinskogo_kraeznavchogo_muzeju/5-1-0-2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOOMgnoTDQGPb2DNAOfuNxe5Gjv5-DQAu7U58l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsumansʹka Pushcha",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOVzwNQTABDxf-2zop-i5G5FYWpjqCFtFqxst6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eternal Glory Memorial Park",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLwQ517qBOy0hN6LzmAGlupHny6wEOmnU2yyw1=w148-h148-n-k-no"
+            }
+        ],
+        "Kolomyia": [
+            {
+                "title": "Pysanka Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5plCS4i8ZUOsLzMWy45mhvs0CID79mX_lOtqP=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Hutsulshchyna and Pokuttya Folk Arts",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCQYxQ3yzWl7bKGcumSNUnp0R03HhVpcZWJu_m=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Historical and Architectural Reserve Khotyn fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUCNZMyv1PeIpt-FgrovH-WDX7t5Chs0TF2ryl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fountain Square on Vicheva",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS1EI5ryZj1dMlPxW82lxX0t-IRf3TTuX_chCV=w148-h148-n-k-no"
+            }
+        ],
+        "Yevpatoriya": [
+            {
+                "title": "tsentral'nyi park kul'tury i vidpochynku imeni Frunze",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5wiWCntz23o30Uk23RPAi2onxjm0jxlD_ZF2B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yevpatoria Dolphinarium",
+                "category": "Amusement park ride",
+                "url": "http://dolphinevpatoria.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuFd6UQclRdxbn7rNg1T_NpCgIcdifJn45hT_N=w148-h148-n-k-no"
+            },
+            {
+                "title": "U Lukomor'ya",
+                "category": "Water park",
+                "url": "http://aqua-evpatoriya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJX8T0eTtDAAlBfkR1R3UwWjzdJqAtLLIoEzc8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malyy Iyerusalim",
+                "category": "Museum",
+                "url": "https://little-jerusalem.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTv6jEP6G3wsHhZRjLXkWYt4U7b7b_iNb1oNdE=w148-h148-n-k-no"
+            },
+            {
+                "title": "sad imeni Karajeva",
+                "category": "Garden",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kompleks Karaimskikh Kenas",
+                "category": "Cultural landmark",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Svyato-Nikolayevskiy Sobor",
+                "category": "Cathedral",
+                "url": "http://sobor-evpatoria.ru/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Lviv": [
+            {
+                "title": "Lviv National Opera",
+                "category": "Opera house",
+                "url": "https://opera.lviv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9KihZDt4IUsfn1ELLGqoV_RYGHpBRz9p_cfCG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stryiskyi Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfYOxqXbDJU2JqQ5GQ80eavAUfbe3_bRw--spF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pharmacy Museum",
+                "category": "History museum",
+                "url": "http://lvivpharmacy.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjGvB0Cg7u8_WmbUjZ_a_HQ-qJmkKUxFsLfrYb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum-Arsenal",
+                "category": "Museum",
+                "url": "http://lhm.lviv.ua/location/arsenal.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAi0-nctnXClfYZcGjhgoqqv_rmBWK1OvLcpNb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shevchenkivskyi Hai Park Museum",
+                "category": "Museum",
+                "url": "http://lvivskansen.org/",
+                "img": "https://lh4.googleusercontent.com/proxy/cnQD-PKBIEKz4-zeZyuy8-Ouqj6UjhbDCSclNR2P2EbVfeZJKEmLkn4igiw94iiWmRIr8WkkozSKKT5iZLA6JUT8oeZprz4Jwhj2LkhMIJAdKq0-G4439uO7KU4VSxiHDn9uIg3COD_EzDrnoL2p6oWs7WdBsQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ivan Franko Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPNdk3wrMOPlpZIaFqI1ugvP1OQkh0YiLv3sm2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taras Shevchenko Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfQKFyyGhBz3Rk8TupC8kMEIX1D4ZxqyP968Q7=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Scientists",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUNb0fGJiNKpdwhdRMSjiii_pLxpL506WGAzdd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muzeyno-Kulʹturnyy Kompleks Pyvnoyi Istoriyi - Lʹvivarnya",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOw3g9e869E_jKseL3w6Xk6vlEDugOvQ93YC0-G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lychakiv Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMecjjGTaCQLfaok1AnwmAw22ba5S1w37Ix4egT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Львівський історичний музей",
+                "category": "Museum",
+                "url": "https://lhm.lviv.ua/home.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORkFp2TNyLDZuCXGKbmyJEdjQnQSQt6NPiCcXV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Transfiguration in Lviv",
+                "category": "Catholic cathedral",
+                "url": "http://www.hramspasa.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOr1sLwRGWSHicTXA5xLCzfCCEQw9jP-HcjRnwX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Pohulyanka",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiYACFpd0RSG1PVYpFxZZpe93goYiGi_h6sdw6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meat and Justice",
+                "category": "Bar & grill",
+                "url": "https://www.facebook.com/meatandjustice",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLwGDfMdSZNPoxwWfvcV4EURB7f3aiPakb-Qff=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lviv National Art Gallery - Borys Voznytsky",
+                "category": "Art museum",
+                "url": "http://lvivgallery.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiFJ6q5GjnisqV5bFP9b3Bv7meGr2Tps7D79aH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquapark Pliazh",
+                "category": "Water park",
+                "url": "http://www.aqualviv.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8vhDYzWbgCZohta0YJVxWftLl6Xw_JzxoAkwG=w148-h148-n-k-no"
+            }
+        ],
+        "Mukachevo": [
+            {
+                "title": "Mukachevo City Council",
+                "category": "Government office",
+                "url": "https://mukachevo-rada.gov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNxs460k6wnu3ebOdA6_hMENfcE4gc8C6KPIwR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palanok Castle",
+                "category": "Castle",
+                "url": "https://www.facebook.com/Palanokmuseum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTTJBI-ccEzU9sAYDAUo4JCJvMEIrYLgDc5GcD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Аквапарк «Карпатія»",
+                "category": "Water park",
+                "url": "https://mssg.me/aqua.park.karpatia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN39y6flTLbnS_eOyFx4Cbn-uqSqp26EqTnvzh1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mukachevo Historical Museum",
+                "category": "History museum",
+                "url": "http://palanok.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVqB07dKtT0sQomxoEs2in7D8sE-_glAC3-5BW=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Miklos Castle",
+                "category": "Castle",
+                "url": "https://www.stmiklos.com.ua/about/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4kULwPpMXDsFW-K08FyaVlNdwyV989KbxgTdH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shenborn Palace",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEFEtV76wQLdsjcHxaSUilk4rf6dHVYUZ8krb4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nevytske Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFJz9CAdgAdHP-oTf-iy_X_cOT4g2ONL3OdlGm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Serednyansʹkyy Zamok",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv9Y8v5NY_dP1MWJTo9IZMvmWmYkrTlKJzsIxW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Didove",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKr1t86Bcc4mArE43gCiKJuM755H45ZiOCw1w=w148-h148-n-k-no"
+            }
+        ],
+        "Bakhmut": [
+            {
+                "title": "Stadion Avanhard",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRO-2FjBB8YKUeMMhwZPunmSFT94DekYnv8Dcs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bernatsky Garden",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4cWRAHZv3sm_8Cht41YcmzdsLGrsNGjXouzJp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fountain Kramatorsk",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf7RF1CT2F3MIyu_Y7UbTpP8pDXn5nGNYvtHLR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pam'yatnyk Artemu",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRo8U5aoxDN_elKa7GYAE9O0KA3JALVL_ZxGq1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Entertainment complex \"Rodina\"",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNA7oh0BEMxSvO6gYQ-9FmT2D5LiPCp-myNFICc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviati Hory National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOf8IFNX0Dc4vNFbjW9ffxg_pWv0SjckxxLBl08=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Siverskyi Donets River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUiZ6TURECMDySVEzrUawLxSP3PsNKUfBz0wky=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLDnckvOkkotNeSRJs65olWVZ-AaD5Jr2VbKI=w148-h148-n-k-no"
+            }
+        ],
+        "Irpin": [],
+        "Lysychansk": [],
+        "Snizhne": [
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLDnckvOkkotNeSRJs65olWVZ-AaD5Jr2VbKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            }
+        ],
+        "Rubizhne": [],
+        "Uman": [],
+        "Berdyansk": [],
+        "Brovary": [
+            {
+                "title": "Park Peremohy",
+                "category": "Park and Garden",
+                "url": "http://brovary-rada.gov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdT5DhMlueK9sq9tr03a0ydL6YoElcb4fgfEWg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akvapark Terminal",
+                "category": "Water park",
+                "url": "https://trc-terminal.com.ua/rozvagi/akvapark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCGTs64W4Vm0cKrrmt3fw01Sm_eiemxQJ2MT8i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shevchenka",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPppslaXlqTqmiRZSQqsP9fL_EdwmO1HLD09j3o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Pryozernyi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-ybjhnnQ42kh2wVrV662DfkNi99Vcna0nYjt5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arka Svobody Ukrayinsʹkoho Narodu",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAX5Ox99iPKulX-fM2CvEjFgCrAxLpFSwdgFzX=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Sophia's Cathedral",
+                "category": "Cathedral",
+                "url": "https://st-sophia.org.ua/uk/golovna/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0pcZDUME24b0pxlZNGJc4OJARVMDWmDLNh7OE=w148-h148-n-k-no"
+            }
+        ],
+        "Odesa": [
+            {
+                "title": "Potemkin Stairs",
+                "category": "Landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/s6Zd3sNmGKP4kAnkfFe1sOMj0FCGKEVWuyW0LN_o8hS1V7EljrOpZCReaGRsbIWk7uWSl5sbC0IpcIb4_G3FCsjXKe6xhTWpNmyTdQnsEBSvdq61E0JPHER6hNSvL29-6aZBER2WSFZJklN8fKRxIyZP3i5Twg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odesa Dolphinarium Nemo",
+                "category": "Aquarium",
+                "url": "http://www.nemo.od.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR2SBf02OjXH4uIMRtUx8J4ITdOfOC4z6wUje8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taras Shevchenko Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO80g0n0MOyGj6zO162oerRtQxPghhjMT8kOOsI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorky Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk-3M3b3sxZMevG4EkaEXeoIzfyQxzp8zgs2jo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Arboretum",
+                "category": "Arboretum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPn82bREFqcmiWXFyASgqLOkw8MRWvB502M4lX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odessa National Academic Theater of Opera and Ballet",
+                "category": "Performing arts theatre",
+                "url": "https://operahouse.od.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzLccTQxaRAFivHuAWsw25RfUt_OpLJjcuP6fu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Theatre",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNehCZr6GwZcyPVQQEVxm-SJkFFBkvLBS415R5n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odesa Fine Arts Museum",
+                "category": "Art museum",
+                "url": "http://ofam.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvbCL6k4cbaGIV-8FKrPEK7ax9FB2icu1-phSg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Interesting Science",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOSn5zWq4kYZySWko0pewoDHdYA2yphEEKATFH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spaso-Preobrazhensky Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNblrQ0f50bnJILe0c4ruY5m-oOmpD5J2cqCc3L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odesa Museum of Western and Eastern Art",
+                "category": "Art museum",
+                "url": "https://www.facebook.com/Odessa.Museum.Western.Eastern.Art",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1U4Xsqdp1o5z4GSdyaAN00vonRsZ7dKUIV2y1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum “Secrets of underground Odessa”",
+                "category": "History museum",
+                "url": "https://odessakatakomby.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWwy7rJq7JEb1qUjR9Pb8k0qW6HzfV5oK3aPwT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to Alexander Pushkin",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUm72KhAQUxul-DGnDhP86NGSh6jY7Sx8VwlqX=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Elijahs Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMEQGLDMbgvyNKPbMuf1x432ghqCeztsdIkUdc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Biopark",
+                "category": "Zoo",
+                "url": "http://biopark.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNATk6wIldA-hgjjByRii20dj2n4mBl5C-DdKvM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odessa Zoo",
+                "category": "Zoo",
+                "url": "http://www.zoo.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkYTgwliQeKI68EGhA72fdgnja9Qglyd0y77mD=w148-h148-n-k-no"
+            }
+        ],
+        "Cherkasy": [
+            {
+                "title": "Cherkasy Regional Museum",
+                "category": "Local history museum",
+                "url": "http://ckoblmuz.ck.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUD-YRy552Yr8oAzmUVsJgwvgAv8sfuczrsdwE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cherkasy Regional Arts Museum",
+                "category": "Museum",
+                "url": "https://muzey.ck.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtlWc1vlGo7S394seaJkw_1tCdG9RK1Pjz1qzz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Черкаський зоопарк",
+                "category": "Zoo",
+                "url": "http://zoocity.ck.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOM9F7xKWQBrNIy3WwSX6kirKDF1DDyfPQ0aDxI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Sosnovyy Bir",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMSYTJpxVq8uO1zYNt--VPzsh83okJxMAxCJGW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arboretum Sofiyivka",
+                "category": "Arboretum",
+                "url": "http://www.sofievka.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhWr9sQFnfvuETx9xagGDmXPjAZ_YiM25QMFVy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buky Canyon",
+                "category": "Nature reserve",
+                "url": "https://buky.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVP8v53EBQRWyKHvmzMlO_Q3op07XkplQJhiv7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shevchenko National Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzCWT8VVOynenlp6CdNL2WQQPdPE-TuDjqhUwj=w148-h148-n-k-no"
+            }
+        ],
+        "Sumy": [
+            {
+                "title": "Regional Museum of Art",
+                "category": "Art museum",
+                "url": "http://artmuseum.sumy.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpyYQsoJCaVXGXhFm-4YFOJPBinZ5yUDlYXVAP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sumy Regional Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmyN44eGFbCzjI3PKMGtWtfqghf1fVW_E4LzZM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Children's Park Kazka",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSZxMrA6ZF2OjCT1M02DBxjP8txUJ31CLc_VoU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kozhedub Culture and Recreation Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXpGDFqjmE7H17l3In1d8f4Ho3vEkwzs7-_YLK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Resurrection Cathedral",
+                "category": "Orthodox church",
+                "url": "http://www.pravoslavya.sumy.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwqHfl45fCv3wM9Qn_mt4dba3f9H1ZZ2Dgg4b0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khalabuda",
+                "category": "Children's Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL9maWz_vuSFCS76tURRt-UnsiacpGOzhADEKS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asmolov Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTc0YvB3p-VLpw3iL-ZFsXAfUUebWgby4Choru=w148-h148-n-k-no"
+            },
+            {
+                "title": "USAD'BA",
+                "category": "Estate Agent",
+                "url": "https://www.facebook.com/usadba.sumy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsq2eBHS_ifW4dV5JIV-0Hygg0YUKkAsePZznp=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Round Court",
+                "category": "Historical landmark",
+                "url": "https://travel.trostyanets.com/kruglyj-dvir-2/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlOAEvw_fyl-72hwSBOxgVyQDZtbtgFRaxWL3g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Memorial of Glory",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWsfzMAZgEQ9kR4G62Iy9CG601lM14ilrXn0uu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Regional Landscape Park Seymskiy",
+                "category": "Wildlife park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPW9yp0NX6zeVu5Df81Z06QW4Loz6Zlczn1YGqc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hetman National Park",
+                "category": "National park",
+                "url": "http://getmanski.info/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKtVdQh9JVxEOYjKx7rkfwvs84t4b5aPleZkyc=w148-h148-n-k-no"
+            }
+        ],
+        "Pokrovsk": [
+            {
+                "title": "Park Yuvileynyy",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAeW1yhWeHBURnhrW5d4jFWQa1v804m-MAIhea=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bernatsky Garden",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4cWRAHZv3sm_8Cht41YcmzdsLGrsNGjXouzJp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Slavic Culture and Literature",
+                "category": "Park and Garden",
+                "url": "https://donbass-info.com/content/view/2062/2069/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHzS001MPz6vpFQUA08dGEFx8RyWioOd2Zg-3D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Forged Figures Park",
+                "category": "Theme park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLs08l0RRJtLK14kw0XdKBEVWijou-RGVBhbaQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/Idris2019m/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLDnckvOkkotNeSRJs65olWVZ-AaD5Jr2VbKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            }
+        ],
+        "Kropyvnytskyy": [],
+        "Kyiv": [
+            {
+                "title": "Kiev Pechersk Lavra",
+                "category": "Monastery",
+                "url": "https://www.lavra.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4dc2vPy9ch3Js7ZldS-SMpFa7meXNaaOHfFUV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kyiv National Botanical Garden",
+                "category": "Botanical garden",
+                "url": "http://www.nbg.kiev.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6hPsmw4dVyC-3rST5zzZGDkOejhsZvcN7d0Bp=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Andrew's Church",
+                "category": "Eastern Orthodox Church",
+                "url": "http://andriyivska-tserkva.kiev.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMz1hiex8FFiErDesUmAJnmPX4H9cuFaFSh3dSJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of the History of Ukraine in the Second World War",
+                "category": "Museum",
+                "url": "https://warmuseum.kyiv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPd47LyrItEZyo8-9LVCJETW93IfoUaOtw9DKAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ukrainian Motherland Monument",
+                "category": "Historical landmark",
+                "url": "https://warmuseum.kyiv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWa184BnKbijP_iyKG0SHUtX0VyyEquR0csL-R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Golden Gate",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRaswuyTrP8ES6BBj7dzPAWT1oNnJcfnjYyohX=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Sophia's Cathedral",
+                "category": "Cathedral",
+                "url": "https://st-sophia.org.ua/uk/golovna/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0pcZDUME24b0pxlZNGJc4OJARVMDWmDLNh7OE=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Michael's Golden-Domed Monastery",
+                "category": "Monastery",
+                "url": "https://www.archangel.kiev.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlMi0jYlL92fqhheWbeFs_Cvo1ANVhAqVMhgwe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oleg Antonov State Aviation Museum",
+                "category": "Open-Air Museum",
+                "url": "http://aviamuseum.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqX4OkEkDiG_K1u-P-nHmFpvflwZAbbV-pO4pv=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Volodymyr's Cathedral",
+                "category": "Cathedral",
+                "url": "http://katedral.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiziJty9QwBR4qb8sDkbAaswNy5RM8CqXvUW-E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arka Svobody Ukrayinsʹkoho Narodu",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAX5Ox99iPKulX-fM2CvEjFgCrAxLpFSwdgFzX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Landscape Alley",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPunQ6zD-oHAHYlNVFvFRTRgoSs8hVMbSgH-ObM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Feofaniya Park",
+                "category": "Park and Garden",
+                "url": "http://www.feofaniya.kiev.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM40p6M_ZDJnS6ysG-qIeIv2jZTlz0LOuKIM4_V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pinchuk Art Centre",
+                "category": "Art gallery",
+                "url": "https://new.pinchukartcentre.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgwLs-daxvnELBgGhlsUnbg4_SUWXj_TD08QEQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Art Museum of Ukraine",
+                "category": "Art museum",
+                "url": "https://namu.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7s2VXk7sodyeIs5ZkvBkIlvuLxn6Zvsffpmw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kiev Funicular",
+                "category": "Transportation service",
+                "url": "https://kpt.kyiv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuPwSg3KYx8K-LjvHpaErbSBcCumqN5uFQBeKl=w148-h148-n-k-no"
+            }
+        ],
+        "Nikopol": [],
+        "Khmelnytskyi": [
+            {
+                "title": "Medzhybizh Fortress",
+                "category": "Tourist attraction",
+                "url": "https://facebook.com/Mezhybizh",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV0hkPJ9YEipFzuhezsqY6vmGaA5ToLXj9Dzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Starokostiantyniv Castle",
+                "category": "Museum",
+                "url": "https://zamokst.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJFxJd60v5mcpZiKCvsiMnQ5cgPVNQuSZTU72H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Kulʹtury I Vidpochynku Imeni Mykhayla Chekmana",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXRtzW6nT-T14EJiUTJgiG90dpCEcPFReawKuL=w148-h148-n-k-no"
+            },
+            {
+                "title": "7 ocean",
+                "category": "Water park",
+                "url": "https://7okean.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzTZ3AAqQKqS1etQO5lx3h6hcpiJX5xfwnTKwi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Imeni Chekmana",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3uYK0yx6DY9fQTn5Gq31yHWcSkKbg_4ZGD9Ym=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khmelnytskyi Regional Museum of Art",
+                "category": "Art museum",
+                "url": "https://xoxm.art/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVLKUAYxqqYuufaWYpmgq8B7QUcEi8b16cW5yv=w148-h148-n-k-no"
+            }
+        ],
+        "Kamianets-Podilskyi": [
+            {
+                "title": "Smotrytsky Canyon",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGGy1VS4hl01oCbK8Q9Nf1pMREZvg9sWijIkTJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Town Hall",
+                "category": "History museum",
+                "url": "http://muzeum.in.ua/miska-ratusha.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYiYUPMSaKLOOMa67mSaw0br0mnTTWFFUZUUDS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kam'yanets'-Podil's'kyi Derzhavnyy Istorychnyy Muzey-Zapovidnyk",
+                "category": "History museum",
+                "url": "http://muzeum.in.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYTDc_pwf7dhLm5eDv06kRrV-cJ-MSuAIT1KY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kamianets-Podilskyi Castle",
+                "category": "Fortress",
+                "url": "http://muzeum.in.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPa4K6Gci1AS7m9YtDvbkv-9zQNq5yvCUwmnbqK=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Historical and Architectural Reserve Khotyn fortress",
+                "category": "Fortress",
+                "url": "http://khotynska-fortecya.cv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUCNZMyv1PeIpt-FgrovH-WDX7t5Chs0TF2ryl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Bridge",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPh727HUDNDUImR81ZmS5LNCTDgiF6bpskVw0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dominican Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0rw1ZM-zdy4vjnDBGMqP5jYkZ2I79N90LCHik=w148-h148-n-k-no"
+            },
+            {
+                "title": "Podilski Tovtry National Park",
+                "category": "National park",
+                "url": "http://www.npptovtry.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMICB0rV7KpTMNZsZ_3HOm4VziSpsIz2g2muF4T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bridge \"Running deer\"",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrlBOlWn3YfCzMRqU0_CErVq-BJ5rROLAJFXu0=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Historical and Architectural Reserve \"Kamenetz\"",
+                "category": "Nature reserve",
+                "url": "http://niazkamenec.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDKXvf783iP7H9LM_gIqhsfPdyGzeD_bAFDtNH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pechera Atlantyda",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOWUWI23K_KuIMQy9akBPfaoxh0mnDn1mCLrL1=w148-h148-n-k-no"
+            }
+        ],
+        "Zhytomyr": [
+            {
+                "title": "Multiplex Global UA",
+                "category": "Cinema",
+                "url": "https://multiplex.ua/cinema/zhytomyr/globalua",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAUWTqdF64iCWSybEI1NXwkL-FMK-Ir14iGetg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park named Y. Gagarina",
+                "category": "Park and Garden",
+                "url": "http://zt-rada.gov.ua/pages/p599",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCPLU0GmmibpVCgtBgQkVdlNmY6bLyv8Ptiak=w148-h148-n-k-no"
+            },
+            {
+                "title": "Korbutivka Hydropark",
+                "category": "City park",
+                "url": "https://discover.net.ua/locations/korbutivskiy-gidropark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmDEc7mAq_bbDjp_TtFoKHEdsu0cXMjcdN-IB2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zhytomyr Region History Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNp7Ayt5P4H32D2IOCijO3i-uWimWTlMPDQCue2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sergei Pavlovich Korolyov Museum of Cosmonautics",
+                "category": "Museum of space history",
+                "url": "https://cosmosmuseum.info/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOws2L0_7LJkVP8v7Bj4qqyKX1R1X8nYAXILqQ0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zhytomyrsʹkyy Oblasnyy Ukrayinsʹkyy Muzychno-Dramatychnyy Teatr Imeni Ivana Kocherhy",
+                "category": "Performing arts theatre",
+                "url": "https://zt-teatr.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5JJ6gzqM2PpSl9JItFoe5iEO_5Ihm-ssqy7PI=w148-h148-n-k-no"
+            }
+        ],
+        "Kerch": [
+            {
+                "title": "Yeni-Kale Fortress",
+                "category": "Historical landmark",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Cathedral of Prophet St.John the Baptist",
+                "category": "Church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Komsomol's'kyi park",
+                "category": "Park and Garden",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Tsarskiy Kurgan",
+                "category": "Historical landmark",
+                "url": "http://www.kerchmuseum.ru/ru/obekty/tsarskij-kurgan.html",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Stadium 50th anniversary of October",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Fontan Na Naberezhnoy",
+                "category": "Fountain",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kerch Fortress",
+                "category": "Fortress",
+                "url": "http://kerchmuseum.ru/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Crimean bridge",
+                "category": "Bridge",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Kharkiv": [
+            {
+                "title": "Shevchenko City Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD4NYVlzEBvqG-TGYccG3kZtPnZv6XuKKjjc7F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metalist",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcGC22oCBQnC09ZrbNccAczJTYfzXthpR2iupd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirror Stream",
+                "category": "Fountain",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMx4nLA4bhROfE6EfZKPBgKm3vY39TDAjC1WxQn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kharkiv Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8D6ApI2TWyk24QX8cKfU202ybYlT028Tc3TGg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taras Shevchenko Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY_tQiKLXqSyjmo3c7KsCbiiniMurZ7d9Ispq3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sarzhyn Yar",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP48zipdbLCgECW0Zlte9yuxhXPW7wsLrpxBPfL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blahovishchensʹkyy Kafedralʹnyy Sobor",
+                "category": "Orthodox church",
+                "img": "https://lh4.googleusercontent.com/proxy/AUbtJpbcouC5SvHYa5dHKHH_L4fQkF1_z9k1TLbfXkyut9dKV7CZqW_KYl6IjUOqCfsMSGhk9TMDGuRmBMFQ2lX1zWXj9gEiefzoBEbTrlWX0_mMdkGXDadHJ-_CH3aIy5Lb1knd38BKid6KjIxvbfKQCzBPnhg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fine Arts Museum",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-voMxIwgv79sxJI0Hqv2og8t3prrCyimAiDpq=w148-h148-n-k-no"
+            },
+            {
+                "title": "M. F. Sumtsov Kharkiv Historical Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZhV7lz1TXQxu5kDUpc76Pxn66jqVo9AXi_1sf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Derzhprom",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcyBTOCg8GVdBw5MvIYRRt_em2qIXejSMi_-qc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Assumption Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQTSSRXEsmVPIRHSlyu9p_xSJJehxihykX1mTV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amerykansʹki Hirky",
+                "category": "Amusement park ride",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPOaNUXyARMS_7vZOQenR4wQFV_-FvnYuIR9Kh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baseyn Akvaparku Dzhunhli",
+                "category": "Swimming basin",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhUEEJHUJowURWZldol6QJ2EsQ961NCixbqFkK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Центральний ринок",
+                "category": "Underground Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0yDmEjYgAJD01Uu_tEMdT5RdA6tjFmPgv-WD1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kharkiv Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5CZYdiqL3iXluS8wRs1BDKFc6aTgEIEIStnHE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roman Catholic Church of the Assumption of Mary Prisnodivy",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoXXQRSUuQ78dBmKe3YSqBK8qkUKRcC0wZytgw=w148-h148-n-k-no"
+            }
+        ],
+        "Yenakiieve": [
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/Idris2019m/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLDnckvOkkotNeSRJs65olWVZ-AaD5Jr2VbKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            }
+        ],
+        "Simferopol": [
+            {
+                "title": "Vorontsov Palace",
+                "category": "Museum",
+                "url": "http://worontsovpalace.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDe_r5CjBH2HSs1ZV0mMG6EKyk4k1uBqehjNhs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krymsʹko-tatarsʹkyy Muzey Kulʹturno-Istorychnoyi Spadshchyny",
+                "category": "Heritage museum",
+                "url": "http://krtmuseum.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOMDbmzWiUQfii5Bq1odN4c3Oz-hhA1KlM7Al_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Znanium",
+                "category": "Museum",
+                "url": "http://znaniym.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyaTmUBp6Bqa_Drdw_2CXlUQl99K3aQtVtdRrM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsentral'nyy Muzey Tavridy",
+                "category": "Museum",
+                "url": "http://tavrida.museum.crimea.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPf-eWRe0HHD2xe543Um6wHz-L4maJDpa8guYeo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simferopol'skiy Khudozhestvennyy Muzey",
+                "category": "Art museum",
+                "url": "http://simhm.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPR24A2ifthPdC-9wWUpELMzFE_wiZ9MPTijsnZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kebir-Cami",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXX3cpshBiubRQFm6bmwR3bb3GyToM8o-BUOGl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salhyrka",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN11Xis6IMIxn5_RqA55b713d0l0x7ZXPn898fM=w148-h148-n-k-no"
+            }
+        ],
+        "Sevastopol": [
+            {
+                "title": "Monument to the Sunken Ships in Sevastopol",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/P9NxHLyibdyQt5FwhcwAmG34ujOYD57zriSaDwJOhmNi-BXnN47yFQG0atyo3BRUAJvyO4vjjt5_jowSx8gJB8B6VWsTrL-dwItpwcVXcfu55t5e-32vu-_5ETsx8XjO0j6KvrO_i6m-_7vm1vdCqYeytEC3gA=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Preserve of Tauric Chersonesos",
+                "category": "Historical place",
+                "url": "http://chersonesos-sev.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpFj-JPqQivQEjfY2Pp2kcSckB5ZeBrD0-ZBcM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Count's Jetty",
+                "category": "Historical place",
+                "img": "https://lh6.googleusercontent.com/proxy/0jj3fPd_bdfaGwcOiRmWbpaFRB-y3vdLwQ8Cv30ZoR0eopgU4iKKltFdPhjQgXIRV6sTtvkmRaWBKvokYsiXZ9oihg7zgBdIL6EVnwhO_GU1poJ9XIt3tWnoAx8Xfw8tSecJih6rlSsXjWAJhCxiSCfD-wM8cg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Панорама «Оборона Севастополя 1854–1855 гг.»",
+                "category": "Museum",
+                "url": "http://sevmuseum.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOco1_vVnXSgkZMBJouzuy7XxWUda9GLzSxnlVT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Voyenno-Istoricheskiy Muzey Fortifikatsionnykh Sooruzheniy",
+                "category": "War museum",
+                "url": "http://muzey-sevastopol.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOv-g7trNyiR2zOZkEKn7okvdK7mnjA0tYraH5A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Бронебашенная береговая батарея №35",
+                "category": "Army museum",
+                "url": "http://35batery.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNk1GhTdVUBZmjCOSRwXkHjaIooYyKgbc1eeWB9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muzey Chernomorskogo Flota",
+                "category": "History museum",
+                "url": "http://sc.mil.ru/social/culture/museums/more.htm?id=11175@morfOrgCulture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOsz4i62lO2C9yu8mqvM2FCHXOx5BlvUCSzezs=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Vladimir's Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTjJ4IgSa5YIy3aLJkq_ohxphety3MyNL2LJ2n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diana Groth",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-nooLCPgNHHPITX6YUPoGcomc_C35hafffUlS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Pobedy",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4WtCu_trZ6XgmFnlGKtYbn_sjY_K2IkWVe-zH=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Vladimir Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh3.googleusercontent.com/proxy/FudTUNI-GC0bCT3pEZhtKs6aIBSAD3YGpq6jHchWXOrzlNxesNXcAD7LCl2HHOTyJYvnxPCYN4N9qYYqgdloR03GkIcgAScEnUpnXSC1J-hAhkt5IZNSX5bB3g5N1l03fYXX_HZIrooVZ8o1qKxuRuCI6JEHpek=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khram Solntsa",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0jJqN57INf2GHuebLgp6XPlCc5Popnq7Cfx8R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Golubaya Bukhta",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZE50EXoOgXdXw4YRIdZPpuMXhOXKhMX90PjXs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krepost' Kalamita",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMw_JMerj_ShIi4eLw2k3eL7Od0XowDiYH30Id4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Баунти",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoObLo8GGvm2vmKrCumh06drvRXotfi7kIpMh-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mikhaylovskaya Batareya",
+                "category": "Museum",
+                "url": "https://www.instagram.com/mihailovskaya_batareya/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoccIzhoytKo-B1rJ7-W_o_qF6Cobr01YNYj__=w148-h148-n-k-no"
+            }
+        ],
+        "Khartsyzk": [
+            {
+                "title": "Forged Figures Park",
+                "category": "Theme park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLs08l0RRJtLK14kw0XdKBEVWijou-RGVBhbaQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSXyFiC0wAwwsLxKYVyM1e2Va5cMOYI_YHsDH0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Slavic Culture and Literature",
+                "category": "Park and Garden",
+                "url": "https://donbass-info.com/content/view/2062/2069/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHzS001MPz6vpFQUA08dGEFx8RyWioOd2Zg-3D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donbass liberators monument and museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm8SC6YCdUJREmsaNT7-zEuFDezXOir9NbeUyH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsar Cannon",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPYYNVuDesOr2e-4TewWhnbm53bQhIbcKB6XEA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Peter and Fevronia",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfvy_skd4pj72FNFrnJ07zCjOyUgiOsqyLWK4x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/Idris2019m/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLDnckvOkkotNeSRJs65olWVZ-AaD5Jr2VbKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            }
+        ],
+        "Feodosiya": [
+            {
+                "title": "Genoese fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjhozfRJwmOnsCVfe-iGhg5BGGsgTr6QoEZqEP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Naberezhnaya Feodosii",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL5qECpHT4wqlKitUl6JXGkErRo8kBMrxLw6Gj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Alexander Grin",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPheMPpSc0y0r_IlRHaBvW5PO5svff3Rh-o7GTR=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Constantine's Tower",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeQB1vrO-qYTgylVkZsm--tLmnCAegbhkE3fm5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plyazh Pos.beregovoye",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcQ7s-W8EOC00ozdrqEBU0tb08KbFeyDvoxObZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Дом-музей М.А.Волошина",
+                "category": "Museum",
+                "url": "http://xn----8sbfkobckofaskby8kve.xn--p1ai/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOn-OH5TUP26XNixV-7dvH7vEpKXcqxyeGiT6_E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Toplovskiy Monastyr'",
+                "category": "Convent",
+                "url": "http://www.toplovskyi.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0CWNztmcJ5Q2CBUdKsF4FPqp4Uwe24O5b8KjA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nudistskiy Plyazh",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNad_2RkJ1rjxhKWbl2rnfvaCIjAu9hG8YxY1_V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Komsomol's'kyi park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxOe3X43eyyVfvmJghZY7VyZ-Fx9_JK3V04rSj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Marina and Anastasia Tsvetaeva",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-WbckHwq19lNGuuw2zF7mGd1Rk4B1wTjf_sC_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fish and Fishery Museum",
+                "category": "Museum",
+                "url": "http://kafabella.ru/chto-posmotret-v-feodosii/article_post/muzey-ryba-i-rybolovstvo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLkksXMf9AVMcfN4g28xAixluLHukvspsOTpU0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mufti-Jami Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3qLpbIj088tFaMtkxkVVa8EFSrBGGMRwIY9vF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kara Dag Mountain",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiRDz7M6K_pX_SEzwJUd0KjzyscT6bxs8ezLYj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tserkov' Svyatogo Georgiya",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgfDuxXKXDslzvPqyBAwgf2y4zhNv7MyLjwSFc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Iberian Icon of Virgin Mary",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNySLBxxwpMsW5_RnSqqs_fr0Z848RYOSgw3jFK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Genoese fortress",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwmQB3x5Ho8PzANu5ICyWiTZX6QvLXYoKNv_Tg=w148-h148-n-k-no"
+            }
+        ],
+        "Kalush": [],
+        "Izmail": [
+            {
+                "title": "Izmayilʹsʹkyy Memorialʹnyy Park-Muzey \"Fortetsya\"",
+                "category": "Museum",
+                "url": "http://parkmuzey.wix.com/izmail",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7w628UJCWsL-ePWWIxCx-qHFUiJefXOp6EGH-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suvorov Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvXjHqwl9VVMA5GpnWRYb4nI_wdmOIIvQErW6Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Intercession Cathedral im. Alini Chimber",
+                "category": "Orthodox church",
+                "url": "https://travels.in.ua/uk-UA/object/409",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL_yAejBxBZKANZxXaFXeyeDdhnvMWd7Q2Y2Bw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ресторан Avenue 25",
+                "category": "Restaurant",
+                "url": "https://avenue-25.od.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjBm4LGfO5JiVBLYcYC9cHMWb8LKvt_dQF6_qU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dream Life",
+                "category": "Restaurant",
+                "url": "https://www.instagram.com/dreamliferestaurant/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7HB6N_z02BlDGVfEBbbppF7gY4obXRr8G2m6F=w148-h148-n-k-no"
+            },
+            {
+                "title": "VeAn Tattoo and Piercing",
+                "category": "Tattoo and piercing shop",
+                "url": "https://vean-tattoo.com/uk/tatu-salony/izmail?utm_source=google_maps&utm_medium=organic&utm_campaign=google_maps",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHHi6CDgG0_t7XeM9Z9Z4TWNIjzajQy_gaS30l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diorama Sturm Fortress of Izmail",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1DpHeDGCmT1-dLgUg8XqyuGN4yQyWD4nBk0zx=w148-h148-n-k-no"
+            }
+        ],
+        "Kamyanske": [],
+        "Kovel": [
+            {
+                "title": "Shevchenko Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkgFV-XqCziTJ3V6K_EGh6f-Haorl50DRj-vqf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Resurrection Cathedral",
+                "category": "Orthodox church",
+                "url": "https://voskressobor.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9Qh43zyBRWq_zpmkjXPC-GZPm3qtgA1bGYEkJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kovel Historical Museum",
+                "category": "History museum",
+                "url": "https://kovel.media/places/kovelskyj-istorychnyj-muzej/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhzRI_9vdGeZFaZVq5DN2Th2_B1M-bWyNeiyHD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Park of Culture and Rest",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsI_xRlpnc4F_REN7vjAI6jaEkST2g5VgeWDZJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slavut·sʹkyy Istorychnyy Muzey",
+                "category": "Museum",
+                "url": "https://slavuta-museum.jimdo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvZ-aU9ioqBlqxLNsge4Win-x0vKdenuklA1YP=w148-h148-n-k-no"
+            }
+        ],
+        "Kherson": [
+            {
+                "title": "Kherson Regional Art Museum",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZZmCxgorlSGscO-EXnBX47dh9nKrVvyKM4Clz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natsionalʹnyy Pryrodnyy Park \"Nyzhnʹodniprovsʹkyy\"",
+                "category": "National reserve",
+                "url": "http://nppn.org.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtKbNGFr4NP6or_7p8gzMs9-iR9CeO-Vw7mp2-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Slavy",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMMfhLmuGP44fTaRt4UeRgwVlSTt4d0SDM6tsL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oleshky Sands",
+                "category": "Desert",
+                "url": "http://www.nppop.gov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkYJ15oEDQXTGZd6jm-BCNiM2yBoKzCBnh4Ugg=w148-h148-n-k-no"
+            }
+        ],
+        "Chernihiv": [
+            {
+                "title": "Ancient Chernihiv National Architectural and Historical Reserve",
+                "category": "Nature reserve",
+                "url": "https://oldchernihiv.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAN40S6OS3x7ah693TLh2SKB50PmCXMIOpYnQl=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Catherine's Cathedral",
+                "category": "Eastern Orthodox Church",
+                "url": "https://oldchernihiv.com/katerininska-tserkva/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6zXLSQPdFoJokWq5SD59iov8vse_b5oI8WFoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yelets Dormition Monastery",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcO1nFyD81Z-TlAgb3jHrRcIVP3DBGUqBqarIi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Transfiguration Cathedral",
+                "category": "Orthodox church",
+                "url": "https://oldchernihiv.com/spaso-preobrazhenskiy-sobor/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4KgmtQI4I_3XIkrQF-MIZVFV-X2iAtFmbGoGZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chernihivsʹkyy Literaturno-Memorialʹnyy Muzey-Zapovidnyk Mykhayla Kotsyubynsʹkoho",
+                "category": "Museum",
+                "url": "http://kotsubinsky.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeA5sD-LQtyYBt3LG_A0TB8oGynbtZSNbY9KH-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tarnovskyi Chernihiv Regional Historical Museum",
+                "category": "History museum",
+                "url": "https://choim.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsnP5gSJ3UPYC0oui2HkhuetCea4lP-gDsg9I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chernihiv Regional Art Museum",
+                "category": "Art museum",
+                "url": "https://www.facebook.com/galaganmuseum.art",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPALRZAV_a3mvuQmoHL6qavt24YUB5nSslp7LkP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Borys and Gleb Cathedral",
+                "category": "Church",
+                "url": "https://oldchernihiv.com/borisoglibskiy-sobor/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPU1Wbls6ww_MnTZJCULzlma9D1VozIzP8BQA2y=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Paraskevi's Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7XyzR0MneczenES2wYWv9Qq6x2NcnW-XR1egG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antoniyevi Pechery",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_nTE55dg8y4WA4cpuYFkEh53GgYAow6-r13DP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chernihiv Collegium",
+                "category": "Historical landmark",
+                "url": "https://oldchernihiv.com/kolegium/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuVpxt7I3WW_00_D3dwo4acwcXxkX02a1eLPQA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Preobrazhens'ka Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN97AINLISX4kwfk9fWYugUxm3u742przXUbRH-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mena Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6kQ1-RvJl0DAfrk9z96tHsKPOGh7fnbNL_tNT=w148-h148-n-k-no"
+            }
+        ],
+        "Luhansk": [],
+        "Chervonohrad": [
+            {
+                "title": "Granat grill and wine",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMug2GLkiXekuss585ZZmjbmXxfXeQWRLDn26MW=w148-h148-n-k-no"
+            },
+            {
+                "title": "RAMEN MO",
+                "category": "Ramen restaurant",
+                "url": "https://mssg.me/ramen.mo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6LK6YBmQlPis2jbIK5h_2HlhdBw1SLiObJbV8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. Volodymyr",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8dXhB_fYZCmiw0IOTIoH5LTqaLxXB5XrXbOMZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lviv National Opera",
+                "category": "Opera house",
+                "url": "https://opera.lviv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9KihZDt4IUsfn1ELLGqoV_RYGHpBRz9p_cfCG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lychakiv Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMecjjGTaCQLfaok1AnwmAw22ba5S1w37Ix4egT=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Scientists",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUNb0fGJiNKpdwhdRMSjiii_pLxpL506WGAzdd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boim Chapel",
+                "category": "Chapel",
+                "url": "https://lvivgallery.org.ua/museums/muzey-kaplycya-boyimiv",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgIlDCOH0qMZAZdnIAv1335UQMzkWnwJyegWN_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lviv",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZH7LOJSxe8XUkENkwKXc_cXwhFB7iWuR_PBJ5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rynok Square",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8bDoR-Rzo6bqJVx210DrHod6MCaHbdkD9mGmH=w148-h148-n-k-no"
+            }
+        ],
+        "Kryvyy Rih": [
+            {
+                "title": "Fedor Mershavtsev Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRqvdARfIGWgTJoB6gLCab33_CFwH0wFqnhP9-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kryvyi Rih Botanical Gardens",
+                "category": "Botanical garden",
+                "url": "http://garden.gov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMw609iCNqxXyiyzsVA0qrGzsURJAOohN7wGqDZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Martyr Tatiana (Moscow Patriarchate)",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWP49E0soOKxdMRQqCzEZcO5c9Kauo-52vr7AL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beys Stern Shulman",
+                "category": "Synagogue",
+                "url": "http://www.krjew.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdPsgPK7HxvCV_PTNHe2nShXrH7_cACVHrSrbV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. Alexander Nevsky",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBiSYCQW21ag-veCWRC1wKwgDesxmCwbqKawDt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. George the Victorious",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlmGPgrDzow_zCpMUDn3eVFaTv0SsDbNC6iMg8=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. John of the Ladder Church",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVxkaah_5W3uGI_WTNfIGQ4-iz0uXUCLzeikmC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roman Catholic Church of Saint Mary",
+                "category": "Church",
+                "url": "http://votezde.org/d-2826-rimo-katolicheskaya-cerkov-hram-presvyatoy-devu-mariicheska.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnBgSyJ4e7AgLub378U3y3EBtF29LA9xwxoXnd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Futbolʹnyy Stadion \"Inhuletsʹ\"",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAujXJjlaRbG5SV9Cmgiw7pP37DqDNxHFdGmC_=w148-h148-n-k-no"
+            }
+        ],
+        "Shakhtarsk": [
+            {
+                "title": "Donetsk Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSXyFiC0wAwwsLxKYVyM1e2Va5cMOYI_YHsDH0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Forged Figures Park",
+                "category": "Theme park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLs08l0RRJtLK14kw0XdKBEVWijou-RGVBhbaQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donbass liberators monument and museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm8SC6YCdUJREmsaNT7-zEuFDezXOir9NbeUyH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsar Cannon",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPYYNVuDesOr2e-4TewWhnbm53bQhIbcKB6XEA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Slavic Culture and Literature",
+                "category": "Park and Garden",
+                "url": "https://donbass-info.com/content/view/2062/2069/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHzS001MPz6vpFQUA08dGEFx8RyWioOd2Zg-3D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mechetʹ Suleymana I Roksolany",
+                "category": "Mosque",
+                "url": "https://www.facebook.com/Idris2019m/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MnAdgdehCwAZBQZSwg97ZDZ_5B52NF39n_q1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sviatohirsk Cave Monastery",
+                "category": "Monastery",
+                "url": "http://svlavra.church.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtayfwh4yxrlU8lnZvOjEPWxZX9pfaMfCyiLA-=w148-h148-n-k-no"
+            },
+            {
+                "title": "To Donbass Liberators",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4W5UBDqNIeLibDi7pL6wW9N4ySdf1fb0Ptjda=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kal'mius River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWUmJesbL9U9pfcwz7n384oYQkRNEXF6CiHjgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Футбольный стадион \"Донбасс арена\"",
+                "category": "Stadium",
+                "url": "http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOp7fKW2i9QEQ0bbQgQFGNzXkdgHxlRTkDEfYgx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Shcherbakova",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAQoC7p_lYZ5aI_CwCP5oV67ZlKFkgcqUwukc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pushkina Boulevard",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfh0_LvTcGBahsEco8xRbk6U8q9HbXXiDQwPvH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Donetsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxfm44MaXUORc0mcldzzDAK5N9G6-oaoT_It53=w148-h148-n-k-no"
+            }
+        ],
+        "Rivne": [
+            {
+                "title": "Rivne Regional Museum",
+                "category": "Heritage museum",
+                "url": "http://museum.rv.gov.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPf0WyUDoC9VcWJwqbsqmwHgLpjHV0cmEkeI1M0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park \"Lebedynka\"",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDef7xrOttf0U7jX9-BnkD5ye8GfKfIedRtStD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ostvytsya/Оствиця",
+                "category": "Park and Garden",
+                "url": "https://ostvytsya.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ8odyKy5j-5ZLgt_QFXko3RqPu1fLbVh3mXzR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fly Kids",
+                "category": "Children's Amusement Centre",
+                "url": "https://flykids.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMniFyU9nhYc83wH7g3QhguPGYTL8_d0ATFjJHl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rivne Zoo",
+                "category": "Zoo",
+                "url": "http://www.zoopark.rv.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbd5YsW7JnTi9cMe2hNcCCSV6foReGJujq73tg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tunnel of Love",
+                "category": "Tourist attraction",
+                "url": "https://rivne.travel/locations/tunel-kohanna",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPF90IHfS6wpQ1lVSc7UJWv5iqceWReeoQ7UOr-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubno Castle",
+                "category": "Castle",
+                "url": "http://zamokdubno.com.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt6LdY4e0NaTKodn0npLJrmEuhgvdvXO1GUTBp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tarakaniv Fort",
+                "category": "Fortress",
+                "url": "https://rivne.travel/locations/tarakanivskij-fort",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEUaMjvuqF0qJr829K6hbR-KZtzFF8txnEhkd1=w148-h148-n-k-no"
+            }
+        ],
+        "Oleksandriya": [],
+        "Mykolayiv": [
+            {
+                "title": "Mykolaiv Zoo",
+                "category": "Zoo",
+                "url": "https://zoo.nikolaev.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPc1mI1bERAj1iQa0Sb2hSH_IGAaiF-IjHX-jFo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mykolayiv Regional Museum of Local History",
+                "category": "Museum",
+                "url": "http://www.museum.mk.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXgLCEwVPcl7SX2-b0YIwycuEYk_1AUCOlWFa4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mykolaiv Observatory",
+                "category": "Observatory",
+                "url": "http://nao.nikolaev.ua/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUBMqmN1xlMvJ0ElA1N04wMudkC8EbLrCda_61=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Shipbuilding and the Fleet",
+                "category": "Museum",
+                "url": "http://www.museum.mk.ua/2016-01-25-15-13-20/muzej-sudnobuduvannya-ta-flotu",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMII8npGtpTPQzmoTDje4g0dY_t8NZR1Tz0Sy66=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mykolayivsʹkyy Oblasnyy Khudozhniy Muzey Imeni V.v. Vereshchahina",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpuAfuMCvOhYPgam8m1JQqSmJy7_XzZ0HSs3hb=w148-h148-n-k-no"
+            }
+        ],
+        "Enerhodar": []
+    },
+    "sights": [
+        {
+            "title": "St. Sophia's Cathedral",
+            "category": "Cathedral",
+            "url": "https://st-sophia.org.ua/uk/golovna/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO0pcZDUME24b0pxlZNGJc4OJARVMDWmDLNh7OE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kamianets-Podilskyi Castle",
+            "category": "Fortress",
+            "url": "http://muzeum.in.ua/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPa4K6Gci1AS7m9YtDvbkv-9zQNq5yvCUwmnbqK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lviv National Opera",
+            "category": "Opera house",
+            "url": "https://opera.lviv.ua/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN9KihZDt4IUsfn1ELLGqoV_RYGHpBRz9p_cfCG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bukovel",
+            "category": "Ski resort",
+            "url": "http://bukovel.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMis4RhiyqIEvsmHzz8MWwkvXdReL-WpKoqwAZ3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Waterfall Probiy",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM4RpARfAXgiwmfRnYM31URglc8xWP_wMDi4ssa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tunnel of Love",
+            "category": "Tourist attraction",
+            "url": "https://rivne.travel/locations/tunel-kohanna",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPF90IHfS6wpQ1lVSc7UJWv5iqceWReeoQ7UOr-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kiev Pechersk Lavra",
+            "category": "Monastery",
+            "url": "https://www.lavra.ua/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO4dc2vPy9ch3Js7ZldS-SMpFa7meXNaaOHfFUV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Golden Gate",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPRaswuyTrP8ES6BBj7dzPAWT1oNnJcfnjYyohX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tarakaniv Fort",
+            "category": "Fortress",
+            "url": "https://rivne.travel/locations/tarakanivskij-fort",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPEUaMjvuqF0qJr829K6hbR-KZtzFF8txnEhkd1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Odessa National Academic Theater of Opera and Ballet",
+            "category": "Performing arts theatre",
+            "url": "https://operahouse.od.ua/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMzLccTQxaRAFivHuAWsw25RfUt_OpLJjcuP6fu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ukrainian Motherland Monument",
+            "category": "Historical landmark",
+            "url": "https://warmuseum.kyiv.ua/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNWa184BnKbijP_iyKG0SHUtX0VyyEquR0csL-R=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. Michael's Golden-Domed Monastery",
+            "category": "Monastery",
+            "url": "https://www.archangel.kiev.ua/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOlMi0jYlL92fqhheWbeFs_Cvo1ANVhAqVMhgwe=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. Andrew's Church",
+            "category": "Eastern Orthodox Church",
+            "url": "http://andriyivska-tserkva.kiev.ua/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMz1hiex8FFiErDesUmAJnmPX4H9cuFaFSh3dSJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Holy Dormition Pochayiv Lavra",
+            "category": "Monastery",
+            "url": "https://pochaevlavra.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOt-48OYapy4N1sWKkgvQ2L1IfFCfUahfBrdsWc=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of the History of Ukraine in the Second World War",
+            "category": "Museum",
+            "url": "https://warmuseum.kyiv.ua/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPd47LyrItEZyo8-9LVCJETW93IfoUaOtw9DKAw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pidhirtsi Castle",
+            "category": "Castle",
+            "url": "http://lvivgallery.org.ua/museums/muzey-zapovidnyk-pidgoreckyy-zamokp",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMUclofMKSXuFjC0y0JOew4EK293fR270mokWjh=w148-h148-n-k-no"
+        }
+    ]
+}

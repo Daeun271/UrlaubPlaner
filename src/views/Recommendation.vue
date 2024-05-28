@@ -12,23 +12,25 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
+import { ref, onMounted } from 'vue';
+import { useRoute } from 'vue-router';
+import { db } from '../firebaseConfig.js';
+import { doc, getDoc } from 'firebase/firestore';
+import { fetchTopSights } from '@/topSights';
+
+const route = useRoute();
+const tripId = route.params.groupId;
+const tripDoc = doc(db, 'trips', tripId);
 
 const attractions = ref([]);
-attractions.value = {
-    'Berlin, Germany': {
-        title: 'Berlin Wall',
-        category: 'Historical landmark',
-        img: 'https://lh5.googleusercontent.com/p/AF1QipNSFDClh2TNTnKWdW1r2PE0L03Lag30RseMUOM=w148-h148-n-k-no',
-        url: 'https://www.nseoultower.co.kr/eng',
-    },
-    'Seoul, Korea': {
-        title: 'N Seoul Tower',
-        category: 'Tourist attraction',
-        img: 'https://lh5.googleusercontent.com/p/AF1QipPoGrddc3l0N-ACkF884KHFXGuNHifod5QNs9SJ=w148-h148-n-k-no',
-        url: 'https://www.nseoultower.co.kr/eng',
-    },
-};
+
+onMounted(async () => {
+    const tripSnap = await getDoc(tripDoc);
+    const country = tripSnap.data().country;
+    const city = tripSnap.data().city;
+
+    attractions.value = await fetchTopSights(country, city);
+});
 </script>
 
 <style scoped>
@@ -59,7 +61,7 @@ attractions.value = {
     row-gap: 10px;
 }
 
-.description-container > * {
+.description-container>* {
     margin: 0;
 }
 

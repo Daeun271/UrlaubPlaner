@@ -1,0 +1,905 @@
+{
+    "cities": {
+        "Ouagadougou": [
+            {
+                "title": "Liza mall",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIaYnrn0uJKCUK2nqSViHcrCuckLulVrQ0xx7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijouterie Éclat",
+                "category": "Jewellery Store",
+                "url": "https://web.facebook.com/bijouterieeclat/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNPU7esHfU9re98pI7ntJqAIYeRSRhrKFaCiu1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chez la Couturière des Stars",
+                "category": "Fashion designer",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_xD5AznSpd_WObbL5NH44ZzgmvaPvA1UmgFRX=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Burkina Faso",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLutVDA1pivKiKvNiSTKSb2F9mc-IjnSg9E1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Milding Multi Services",
+                "category": "Wholesaler household appliances",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjNxFOaNT2cqCI2o6y_znCvgPC_Pe_r9ODPetB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée de la Musique de Ouagadougou",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Artisanal de Ouagadougou",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEnfguH1tQ3O5Vm_tiesc0JzOxUTi_B8tVnPr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc urbain Bangr Weoogo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjwSvVTZ_rRSNiQteP8kRnSleTVsIqJDe0e-dv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuzVvrDY1tQYF_0XnmWHekWMgn6w5fZJrEOt1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIBI PARC",
+                "category": "Amusement park",
+                "url": "http://www.bibiparc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-MG5qyUwOAj9KxmpxNjrMu_Uhsjwxt-ATpimR=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB et frères",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "WHISKY SHOP OUAGA 2000",
+                "category": "Commercial agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNlXTKEmXNClalWH6cULD92WUP8RhUeT0zbBXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of National Heroes",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjikLoNt8NZeTXqqXRb4_7oEaRafug6ZswM9lr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Église de Dapoya",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoW-e9E3NcHuwqwpFRCctdCOlxqXOprOP6q52c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tiébélé Department",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhDCblKifDGA-9APi_opVU3dTzKr8RNlRckqEm=w148-h148-n-k-no"
+            },
+            {
+                "title": "marché de Sankariaré",
+                "category": "Clothing wholesale market place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODHPMu9Ielrt5z6pZL80G0zpXFKulwDzEULcyr=w148-h148-n-k-no"
+            }
+        ],
+        "Kaya": [
+            {
+                "title": "WHISKY SHOP OUAGA 2000",
+                "category": "Commercial agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNlXTKEmXNClalWH6cULD92WUP8RhUeT0zbBXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijouterie Éclat",
+                "category": "Jewellery Store",
+                "url": "https://web.facebook.com/bijouterieeclat/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNPU7esHfU9re98pI7ntJqAIYeRSRhrKFaCiu1=w148-h148-n-k-no"
+            },
+            {
+                "title": "marché de Sankariaré",
+                "category": "Clothing wholesale market place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODHPMu9Ielrt5z6pZL80G0zpXFKulwDzEULcyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liza mall",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIaYnrn0uJKCUK2nqSViHcrCuckLulVrQ0xx7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONLin1FRzNU5drepjCCEilr_7tjIXNjfKchoNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Artisanal de Ouagadougou",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEnfguH1tQ3O5Vm_tiesc0JzOxUTi_B8tVnPr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIBI PARC",
+                "category": "Amusement park",
+                "url": "http://www.bibiparc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-MG5qyUwOAj9KxmpxNjrMu_Uhsjwxt-ATpimR=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB et frères",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc urbain Bangr Weoogo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjwSvVTZ_rRSNiQteP8kRnSleTVsIqJDe0e-dv=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Burkina Faso",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLutVDA1pivKiKvNiSTKSb2F9mc-IjnSg9E1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée de la Musique de Ouagadougou",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuzVvrDY1tQYF_0XnmWHekWMgn6w5fZJrEOt1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of National Heroes",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjikLoNt8NZeTXqqXRb4_7oEaRafug6ZswM9lr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Église de Dapoya",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoW-e9E3NcHuwqwpFRCctdCOlxqXOprOP6q52c=w148-h148-n-k-no"
+            }
+        ],
+        "Djibo": [
+            {
+                "title": "marché de Sankariaré",
+                "category": "Clothing wholesale market place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODHPMu9Ielrt5z6pZL80G0zpXFKulwDzEULcyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mémorial Thomas Sankara",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQG5rfrNMgomNz9c3jnm9qGlwMLzMzFL9VgkG1=w148-h148-n-k-no"
+            },
+            {
+                "title": "WHISKY SHOP OUAGA 2000",
+                "category": "Commercial agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNlXTKEmXNClalWH6cULD92WUP8RhUeT0zbBXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gorom-Gorom",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTPmHSsS1jst_qs41PnWOfWfIZu591eCwD3Zt0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liza mall",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIaYnrn0uJKCUK2nqSViHcrCuckLulVrQ0xx7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadium Issoufou Joseph CONOMBO",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw3fs3Jmcq0dnjV3VmfVZBQnF5ImOCJbeoz5Nb=w148-h148-n-k-no"
+            },
+            {
+                "title": "4 August 1983 Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwIW87n9HV3agnQPKuehhWBhp0mGCc9d77UuTe=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIBI PARC",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-MG5qyUwOAj9KxmpxNjrMu_Uhsjwxt-ATpimR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouahigouya",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaUq2tRtaPtBM0wZyE4BDdkQ3JCpuqU0wl7tPQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ziniare",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4tPggLTE8401PRZITmpKHM09CAzTvqQVZ07At=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc Bangr Weogo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbqCIJWiAS9sgWbWVZxko4Yy8m-jr6cd2i1rfi=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB et frères",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Artisanal de Ouagadougou",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEnfguH1tQ3O5Vm_tiesc0JzOxUTi_B8tVnPr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONLin1FRzNU5drepjCCEilr_7tjIXNjfKchoNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Burkina Faso",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLutVDA1pivKiKvNiSTKSb2F9mc-IjnSg9E1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée de la Musique de Ouagadougou",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no"
+            }
+        ],
+        "Banfora": [
+            {
+                "title": "Karfiguela",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZoPOnkXNCseT7BRnuFT1X7-g5Br3SJ2ItdV_c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pics de Sindou",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0WQ-Oh62s6Hot31HgpTgsDXze323Eb9iv0jVE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bobo-Dioulasso",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIcnLBHf_c7gIBmQ-oCuht-AblO0sjpdM8kj_2=w148-h148-n-k-no"
+            },
+            {
+                "title": "河马池",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRup0vBc1gAnJ3-yfeXsFNbiTgm9ZCT0gckhcw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Domes de Fabedougou",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPABqfVN7C9EkKLpmNjSUkAVYD40FrDJ4INUob2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bobo-Dioulasso",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbrdtJGIthKlPWpkSBWeUGUsSbF1GYUFuiF6oD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruins of Loropéni",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOCHmz_7Iz-yZB_Ob8WP5gxNi_7PDSJCVxVnal=w148-h148-n-k-no"
+            }
+        ],
+        "Houndé": [
+            {
+                "title": "Grande Mosquée de Bobo-Dioulasso",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIcnLBHf_c7gIBmQ-oCuht-AblO0sjpdM8kj_2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pics de Sindou",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0WQ-Oh62s6Hot31HgpTgsDXze323Eb9iv0jVE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bobo-Dioulasso",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbrdtJGIthKlPWpkSBWeUGUsSbF1GYUFuiF6oD=w148-h148-n-k-no"
+            },
+            {
+                "title": "河马池",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRup0vBc1gAnJ3-yfeXsFNbiTgm9ZCT0gckhcw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruins of Loropéni",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOCHmz_7Iz-yZB_Ob8WP5gxNi_7PDSJCVxVnal=w148-h148-n-k-no"
+            },
+            {
+                "title": "Domes de Fabedougou",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPABqfVN7C9EkKLpmNjSUkAVYD40FrDJ4INUob2=w148-h148-n-k-no"
+            }
+        ],
+        "Bobo-Dioulasso": [
+            {
+                "title": "GAFREH Artisans",
+                "category": "Clothing Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdRKD7iQX_-SQ1GYDQHrzgmv_U-ZId-tvrHpsS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bobo-Dioulasso",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIcnLBHf_c7gIBmQ-oCuht-AblO0sjpdM8kj_2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paroisse Cathédrale Notre Dame des Lourdes",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlHVjQkAVz84bQxby4oiYV-jZFYa-SkLXcX5N5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruins of Loropéni",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOCHmz_7Iz-yZB_Ob8WP5gxNi_7PDSJCVxVnal=w148-h148-n-k-no"
+            },
+            {
+                "title": "河马池",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRup0vBc1gAnJ3-yfeXsFNbiTgm9ZCT0gckhcw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Domes de Fabedougou",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPABqfVN7C9EkKLpmNjSUkAVYD40FrDJ4INUob2=w148-h148-n-k-no"
+            }
+        ],
+        "Ouahigouya": [
+            {
+                "title": "Chez la Couturière des Stars",
+                "category": "Fashion designer",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_xD5AznSpd_WObbL5NH44ZzgmvaPvA1UmgFRX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Milding Multi Services",
+                "category": "Wholesaler household appliances",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjNxFOaNT2cqCI2o6y_znCvgPC_Pe_r9ODPetB=w148-h148-n-k-no"
+            },
+            {
+                "title": "WHISKY SHOP OUAGA 2000",
+                "category": "Commercial agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNlXTKEmXNClalWH6cULD92WUP8RhUeT0zbBXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "marché de Sankariaré",
+                "category": "Clothing wholesale market place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODHPMu9Ielrt5z6pZL80G0zpXFKulwDzEULcyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijouterie Éclat",
+                "category": "Jewellery Store",
+                "url": "https://web.facebook.com/bijouterieeclat/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNPU7esHfU9re98pI7ntJqAIYeRSRhrKFaCiu1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONLin1FRzNU5drepjCCEilr_7tjIXNjfKchoNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liza mall",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIaYnrn0uJKCUK2nqSViHcrCuckLulVrQ0xx7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Artisanal de Ouagadougou",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEnfguH1tQ3O5Vm_tiesc0JzOxUTi_B8tVnPr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIBI PARC",
+                "category": "Amusement park",
+                "url": "http://www.bibiparc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-MG5qyUwOAj9KxmpxNjrMu_Uhsjwxt-ATpimR=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB et frères",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc urbain Bangr Weoogo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjwSvVTZ_rRSNiQteP8kRnSleTVsIqJDe0e-dv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée de la Musique de Ouagadougou",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Burkina Faso",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLutVDA1pivKiKvNiSTKSb2F9mc-IjnSg9E1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuzVvrDY1tQYF_0XnmWHekWMgn6w5fZJrEOt1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of National Heroes",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjikLoNt8NZeTXqqXRb4_7oEaRafug6ZswM9lr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Église de Dapoya",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoW-e9E3NcHuwqwpFRCctdCOlxqXOprOP6q52c=w148-h148-n-k-no"
+            }
+        ],
+        "Dédougou": [],
+        "Tenkodogo": [
+            {
+                "title": "marché de Sankariaré",
+                "category": "Clothing wholesale market place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODHPMu9Ielrt5z6pZL80G0zpXFKulwDzEULcyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "WHISKY SHOP OUAGA 2000",
+                "category": "Commercial agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNlXTKEmXNClalWH6cULD92WUP8RhUeT0zbBXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijouterie Éclat",
+                "category": "Jewellery Store",
+                "url": "https://web.facebook.com/bijouterieeclat/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNPU7esHfU9re98pI7ntJqAIYeRSRhrKFaCiu1=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB et frères",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liza mall",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIaYnrn0uJKCUK2nqSViHcrCuckLulVrQ0xx7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONLin1FRzNU5drepjCCEilr_7tjIXNjfKchoNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Artisanal de Ouagadougou",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEnfguH1tQ3O5Vm_tiesc0JzOxUTi_B8tVnPr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIBI PARC",
+                "category": "Amusement park",
+                "url": "http://www.bibiparc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-MG5qyUwOAj9KxmpxNjrMu_Uhsjwxt-ATpimR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuzVvrDY1tQYF_0XnmWHekWMgn6w5fZJrEOt1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of National Heroes",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjikLoNt8NZeTXqqXRb4_7oEaRafug6ZswM9lr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée de la Musique de Ouagadougou",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Église de Dapoya",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoW-e9E3NcHuwqwpFRCctdCOlxqXOprOP6q52c=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Burkina Faso",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLutVDA1pivKiKvNiSTKSb2F9mc-IjnSg9E1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc urbain Bangr Weoogo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjwSvVTZ_rRSNiQteP8kRnSleTVsIqJDe0e-dv=w148-h148-n-k-no"
+            }
+        ],
+        "Koudougou": [
+            {
+                "title": "Somgane, Ouagadougou, Burkina Faso",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_7UShLlU9jGmrXV2T-vaRcRiBuc_paP7tQKLq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rond point du 2 Octobre",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNl0b6EnWglp90avjlpHGQe97R4GmV0jazRbPRW=w148-h148-n-k-no"
+            },
+            {
+                "title": "marché de Sankariaré",
+                "category": "Clothing wholesale market place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODHPMu9Ielrt5z6pZL80G0zpXFKulwDzEULcyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "WHISKY SHOP OUAGA 2000",
+                "category": "Commercial agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNlXTKEmXNClalWH6cULD92WUP8RhUeT0zbBXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONLin1FRzNU5drepjCCEilr_7tjIXNjfKchoNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijouterie Éclat",
+                "category": "Jewellery Store",
+                "url": "https://web.facebook.com/bijouterieeclat/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNPU7esHfU9re98pI7ntJqAIYeRSRhrKFaCiu1=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB et frères",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liza mall",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIaYnrn0uJKCUK2nqSViHcrCuckLulVrQ0xx7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Artisanal de Ouagadougou",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEnfguH1tQ3O5Vm_tiesc0JzOxUTi_B8tVnPr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIBI PARC",
+                "category": "Amusement park",
+                "url": "http://www.bibiparc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-MG5qyUwOAj9KxmpxNjrMu_Uhsjwxt-ATpimR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of National Heroes",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjikLoNt8NZeTXqqXRb4_7oEaRafug6ZswM9lr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuzVvrDY1tQYF_0XnmWHekWMgn6w5fZJrEOt1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Église de Dapoya",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoW-e9E3NcHuwqwpFRCctdCOlxqXOprOP6q52c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée de la Musique de Ouagadougou",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Burkina Faso",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLutVDA1pivKiKvNiSTKSb2F9mc-IjnSg9E1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc urbain Bangr Weoogo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjwSvVTZ_rRSNiQteP8kRnSleTVsIqJDe0e-dv=w148-h148-n-k-no"
+            }
+        ],
+        "Saaba": [],
+        "Kongoussi": [
+            {
+                "title": "marché de Sankariaré",
+                "category": "Clothing wholesale market place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODHPMu9Ielrt5z6pZL80G0zpXFKulwDzEULcyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "WHISKY SHOP OUAGA 2000",
+                "category": "Commercial agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNlXTKEmXNClalWH6cULD92WUP8RhUeT0zbBXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rouko",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3-YaJnftOEzwYvhhCUZTisJ2IHw7wezeE2fX9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONLin1FRzNU5drepjCCEilr_7tjIXNjfKchoNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijouterie Éclat",
+                "category": "Jewellery Store",
+                "url": "https://web.facebook.com/bijouterieeclat/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNPU7esHfU9re98pI7ntJqAIYeRSRhrKFaCiu1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liza mall",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIaYnrn0uJKCUK2nqSViHcrCuckLulVrQ0xx7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB et frères",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Artisanal de Ouagadougou",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEnfguH1tQ3O5Vm_tiesc0JzOxUTi_B8tVnPr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIBI PARC",
+                "category": "Amusement park",
+                "url": "http://www.bibiparc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-MG5qyUwOAj9KxmpxNjrMu_Uhsjwxt-ATpimR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuzVvrDY1tQYF_0XnmWHekWMgn6w5fZJrEOt1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of National Heroes",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjikLoNt8NZeTXqqXRb4_7oEaRafug6ZswM9lr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc urbain Bangr Weoogo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjwSvVTZ_rRSNiQteP8kRnSleTVsIqJDe0e-dv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée de la Musique de Ouagadougou",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no"
+            }
+        ],
+        "Pouytenga": [
+            {
+                "title": "Grande Mosquée Sunnite de Pouytenga",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQanJgs9L3c_5D4wLwtOHaQKaYXg2BOspbc_bm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Pouytenga",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-zSOqXoBhV3V_RaNk5gu0aKQ2jOglG3XmmX2Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée de Pouytenga",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWMsQ_L_GTJdNZb0qZS_GJszNfdmGpWZtr2gNo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée de Pouytenga-Nord",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOP6wyCPFfTcKuSgOuJ5hFUo_PVTfTO6zFltWid=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade municipal de Zorgho",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOwv7oQGouAVZAUhMm9nKKsLNjuMlZ8RIajCvb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chez la Couturière des Stars",
+                "category": "Fashion designer",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_xD5AznSpd_WObbL5NH44ZzgmvaPvA1UmgFRX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Milding Multi Services",
+                "category": "Wholesaler household appliances",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjNxFOaNT2cqCI2o6y_znCvgPC_Pe_r9ODPetB=w148-h148-n-k-no"
+            },
+            {
+                "title": "WHISKY SHOP OUAGA 2000",
+                "category": "Commercial agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNlXTKEmXNClalWH6cULD92WUP8RhUeT0zbBXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "marché de Sankariaré",
+                "category": "Clothing wholesale market place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODHPMu9Ielrt5z6pZL80G0zpXFKulwDzEULcyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijouterie Éclat",
+                "category": "Jewellery Store",
+                "url": "https://web.facebook.com/bijouterieeclat/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNPU7esHfU9re98pI7ntJqAIYeRSRhrKFaCiu1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONLin1FRzNU5drepjCCEilr_7tjIXNjfKchoNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liza mall",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIaYnrn0uJKCUK2nqSViHcrCuckLulVrQ0xx7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB et frères",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIBI PARC",
+                "category": "Amusement park",
+                "url": "http://www.bibiparc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-MG5qyUwOAj9KxmpxNjrMu_Uhsjwxt-ATpimR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Artisanal de Ouagadougou",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEnfguH1tQ3O5Vm_tiesc0JzOxUTi_B8tVnPr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuzVvrDY1tQYF_0XnmWHekWMgn6w5fZJrEOt1r=w148-h148-n-k-no"
+            }
+        ],
+        "Léo": [
+            {
+                "title": "WHISKY SHOP OUAGA 2000",
+                "category": "Commercial agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNlXTKEmXNClalWH6cULD92WUP8RhUeT0zbBXJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bijouterie Éclat",
+                "category": "Jewellery Store",
+                "url": "https://web.facebook.com/bijouterieeclat/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNPU7esHfU9re98pI7ntJqAIYeRSRhrKFaCiu1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONLin1FRzNU5drepjCCEilr_7tjIXNjfKchoNn=w148-h148-n-k-no"
+            },
+            {
+                "title": "marché de Sankariaré",
+                "category": "Clothing wholesale market place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODHPMu9Ielrt5z6pZL80G0zpXFKulwDzEULcyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liza mall",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIaYnrn0uJKCUK2nqSViHcrCuckLulVrQ0xx7j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Artisanal de Ouagadougou",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEnfguH1tQ3O5Vm_tiesc0JzOxUTi_B8tVnPr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIBI PARC",
+                "category": "Amusement park",
+                "url": "http://www.bibiparc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-MG5qyUwOAj9KxmpxNjrMu_Uhsjwxt-ATpimR=w148-h148-n-k-no"
+            },
+            {
+                "title": "KB et frères",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée de la Musique de Ouagadougou",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruins of Loropéni",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOCHmz_7Iz-yZB_Ob8WP5gxNi_7PDSJCVxVnal=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Burkina Faso",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLutVDA1pivKiKvNiSTKSb2F9mc-IjnSg9E1Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ouagadougou Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuzVvrDY1tQYF_0XnmWHekWMgn6w5fZJrEOt1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc urbain Bangr Weoogo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjwSvVTZ_rRSNiQteP8kRnSleTVsIqJDe0e-dv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of National Heroes",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjikLoNt8NZeTXqqXRb4_7oEaRafug6ZswM9lr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Église de Dapoya",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoW-e9E3NcHuwqwpFRCctdCOlxqXOprOP6q52c=w148-h148-n-k-no"
+            }
+        ],
+        "Nioko I": [],
+        "Fada N'gourma": []
+    },
+    "sights": [
+        {
+            "title": "Ouagadougou",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipONLin1FRzNU5drepjCCEilr_7tjIXNjfKchoNn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ouagadougou Cathedral",
+            "category": "Catholic cathedral",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNuzVvrDY1tQYF_0XnmWHekWMgn6w5fZJrEOt1r=w148-h148-n-k-no"
+        },
+        {
+            "title": "KB et frères",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM2VLELyp0AYQmraHH9cTwjGG4OKcoUS0DsdI1O=w148-h148-n-k-no"
+        },
+        {
+            "title": "Grande Mosquée de Bobo-Dioulasso",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMIcnLBHf_c7gIBmQ-oCuht-AblO0sjpdM8kj_2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bobo-Dioulasso",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOZN7LnBlUro4elxoMdAakY6O1MbefuC8sE6AkK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Karfiguela",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPZoPOnkXNCseT7BRnuFT1X7-g5Br3SJ2ItdV_c=w148-h148-n-k-no"
+        },
+        {
+            "title": "Banfora",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO_cl1Yx3lX03fLT1logkaE0CCPGcEsxmRrvt5j=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pics de Sindou",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP0WQ-Oh62s6Hot31HgpTgsDXze323Eb9iv0jVE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parc urbain Bangr Weoogo",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOjwSvVTZ_rRSNiQteP8kRnSleTVsIqJDe0e-dv=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Burkina Faso",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOLutVDA1pivKiKvNiSTKSb2F9mc-IjnSg9E1Yg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Monument of National Heroes",
+            "category": "Monument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMjikLoNt8NZeTXqqXRb4_7oEaRafug6ZswM9lr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Musée de la Musique de Ouagadougou",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMMjh5lg78hTXmptNmv6z_dUxKfg9h6DicSPjXM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Les Cascade de Banfora",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOPDRJUK5EHym5JjKUNbmkK0YdgNBTrkBRFX7I_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ziniare",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP4tPggLTE8401PRZITmpKHM09CAzTvqQVZ07At=w148-h148-n-k-no"
+        },
+        {
+            "title": "Église de Dapoya",
+            "category": "Church",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNoW-e9E3NcHuwqwpFRCctdCOlxqXOprOP6q52c=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Tengrela",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNyzPxGLqUqNhyBwSEsIorg7W2HjzTJ_7ah79vv=w148-h148-n-k-no"
+        }
+    ]
+}

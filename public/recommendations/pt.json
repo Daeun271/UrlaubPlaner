@@ -1,0 +1,1837 @@
+{
+    "cities": {
+        "Rio de Mouro": [
+            {
+                "title": "Praça do Comércio",
+                "category": "Historical landmark",
+                "url": "https://www.visitlisboa.com/pt-pt/locais/praca-do-comercio-terreiro-do-paco",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDpdHy9nI7HH5O8P-AWmQZ5MeKaI7gCt5-0sJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quinta da Regaleira",
+                "category": "Castle",
+                "url": "http://www.regaleira.pt/",
+                "img": "https://lh5.googleusercontent.com/proxy/esCV3qNjgffPEy-Vxw2lKxWBGU77nd8BQvFY-hBN-PbXqWEhqcwQziB6n-A0qBuVgWity--go2MIg7uf39vNvnzpeC_7GTcdHKf2mJXFhqGYegz2De6h6EgUfQ6wfG5Pm_6h4Z39uaw4-2MsQnTcbDiqWhz0KjY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Incerto Experiences",
+                "category": "Escape room centre",
+                "url": "http://incertoexperiences.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNX-sKpWuAKx5RgdhqLOMtPETZWE6sNxAQzrtc-=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Pantheon",
+                "category": "Tourist attraction",
+                "url": "https://www.panteaonacional.gov.pt/",
+                "img": "https://lh6.googleusercontent.com/proxy/4t2PxF9Y9c-yxAJ_jblOBEmuFQ_-BCw4DNbK_-w8uHu3paQl6ae9GR8zHgcAc8w82_8ohT3ZjIcJo4SXvMq1C4kNAYkZm3bCPLh-b7vg6J84dvlyDHO7WVRUeMKS03a1x0itIfMZaxQf3LyhlcXP4S0aivEY8fY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Padrão dos Descobrimentos",
+                "category": "Monument",
+                "url": "http://www.padraodosdescobrimentos.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPazmfMNwoTLwYk31S1MNkerplbG8-3klzQXusI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of Estrela",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNF2HuhvJimkElUzfPJe656PUClAwteY-vrxNzD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Air Museum",
+                "category": "Museum",
+                "url": "http://www.museudoar.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-OhOwaFa4YhPtEOORR77o4dsLz8XxUJ3ci_cu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belém Tower",
+                "category": "Tourist attraction",
+                "url": "http://www.torrebelem.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPJSyPRk-i6wRJQ3IJwjCxE2qdbGXCFpkXQ_LR=w148-h148-n-k-no"
+            },
+            {
+                "title": "True Odysseys - Group Tours & Experiences",
+                "category": "Tour operator",
+                "url": "https://www.theodysseytours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPG3C7DTTIGujQv96_LuknVGZ6dzqlfmMMVNJmk=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZID lounge Bar",
+                "category": "Bar",
+                "url": "https://www.tripadvisor.pt/Attraction_Review-g189164-d27013662-Reviews-ZID_Lounge_Bar-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND4SSjKImQj4uiw7tP6Cds5-c6eXPXP9WdEfbY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Greenwalk",
+                "category": "Tour operator",
+                "url": "https://joao-varanda.wixsite.com/greenwalk",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOg2Ata08IfAHuH4eONa9W2U6ncTIkOL4n81ExN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cycling Rentals",
+                "category": "Bicycle hire shop",
+                "url": "http://www.cycling-rentals.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQiD4krWgxASI0b5JgevwYK5Tr4JmCeKxYYWkN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castelo de S. Jorge",
+                "category": "Castle",
+                "url": "http://www.castelodesaojorge.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTPTsnRF4t0Nj7mGwpd2Am7sFiUQUlYG15Bw8v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alegro Sintra",
+                "category": "Shopping Centre",
+                "url": "http://bit.ly/Alegro_Sintra_Sobre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO2XD7oyqlyiFbGF0V-aHqNz8eRLpM75eaN432=w148-h148-n-k-no"
+            },
+            {
+                "title": "LAS Tours | Talking-Cars | GPS Audio-Guide",
+                "category": "Car rental company",
+                "url": "http://www.lastours.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmZl9K2ebol2mRRJSDXef5P1dx0_sERypNIhhl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Go2Cintra | E-Bikes Rentals | E- Cars Rentals | E-Scooters| Day Tours",
+                "category": "Bicycle hire shop",
+                "url": "http://www.go2cintra.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15935678951516726303",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6ormYiTe-QhiREbYbokBeeapD--e3gv8LmAXa=w148-h148-n-k-no"
+            }
+        ],
+        "Barreiro": [
+            {
+                "title": "Arco da Rua Augusta",
+                "category": "Historical landmark",
+                "img": "https://lh4.googleusercontent.com/proxy/1Fgp36D4VIretUT16gP2M2GSmN0RW9kVKXLBP_E4kPOvjd7wQbgdmTHnYQF52hQZVnT5b5QBRhF5QvitMfYwGftkVs5JhPutvyfaQHI2tS_heOGmV8fptLLH-d8bvN69P5ieIhSz1JMS0WRd-Bek220HGBoXMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque da Cidade do Barreiro",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN2vChFXZ1NulxMTp0cJwEdsWQUlzdKT-p3U2o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia Fluvial de Alburrica",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4tckeZtJYYmbLwmoDqtIeK1fP1Tgj-NDqAwBs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Recreativo da Cidade (Polis)",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrTYJGj3xoMmhhnFWUJ60MS1Q3LCcs4LnqstC4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barreiro",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6jbALU_Wx8VkXuj7SF_FvAjWWqzxM2tAG-9gH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hobby - Game Spot",
+                "category": "Video arcade",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOcX6bsMZWzSSW_OC4MQirmTcHaOAix-DvEC01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moinho de Maré Pequeno - Centro Interpretativo",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNRi2DHK07qDk1xmPgSVPS2zvwkQfRL2sPdk3A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça do Comércio",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDpdHy9nI7HH5O8P-AWmQZ5MeKaI7gCt5-0sJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jerónimos Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXXJjjwDxt6KUw6hllK_TrX78v5fJxF-kVVqne=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace of Pena",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdkHYvjEYdpG4Hdg56woCyvwMc6W6zdwqxpNfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mata Nacional da Machada",
+                "category": "National forest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMm2fyN4sW3wrx1V8ggLsLXe-9ra1EjQniZ0XpL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cabo da Roca",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT1Zg2mOg38opZOc6rJuWP1E4dEFLv6ypjKJzP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mural \"Rostos\" | VHILS",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7VN4QuJic1XykTyI5BxbaJnfjgtFl8OsHS7L6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardim dos Franceses",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-PfQLm9VZjBXbdqichHf7c_5H1hYk9YC8Tlku=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lisbon Military Museum",
+                "category": "Army museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeudFbrah__ojSg2jWLtGng5udxFZ1bWFdl54v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castelo de S. Jorge",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTPTsnRF4t0Nj7mGwpd2Am7sFiUQUlYG15Bw8v=w148-h148-n-k-no"
+            }
+        ],
+        "Porto": [
+            {
+                "title": "Luís I Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAXB_Lz8Fmvq4doQiPDTFessDZoLfOkP0ZTpzE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Porto Cathedral",
+                "category": "Cathedral",
+                "url": "https://www.diocese-porto.pt/pt/catedral-do-porto/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOb-Ov-ti2QCq182F-z-16_EH3fGPMp062aNV2v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clerigos Church and Tower",
+                "category": "Catholic church",
+                "url": "http://www.torredosclerigos.pt/pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMovU9_eSizTE6sR9I3SIWL-DhGVSlYt7T8uill=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardins do Palácio de Cristal",
+                "category": "Garden",
+                "url": "https://ambiente.cm-porto.pt/parques-e-jardins/jardins-do-palacio-de-cristal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMYA9JhdS7wHKvyPktI2eyeJd4vqkFyXHAwhGX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque de Serralves",
+                "category": "Park and Garden",
+                "url": "https://www.serralves.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3Y7a6watba0TnopTGthATtYqkYyPA0AZbL6Th=w148-h148-n-k-no"
+            },
+            {
+                "title": "Porto São Bento",
+                "category": "Train station",
+                "url": "https://www.cp.pt/passageiros/pt/consultar-horarios/estacoes/porto-sao-bento",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1fwHTyXs4yuAh9Px0zEZDz7HgCXpXvClppDJd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa da Música",
+                "category": "Concert hall",
+                "url": "https://www.casadamusica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqkSZrV7oDDFuHNf5OfZZ3iqPuSJxEsOXFDqp4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercado Bom Sucesso",
+                "category": "Market",
+                "url": "http://www.mercadobomsucesso.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1hTgNQAJmuWLF0cSuYhIsh6VfPqLweYks5Prq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bolsa Palace",
+                "category": "Historical landmark",
+                "url": "http://www.palaciodabolsa.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcrbARoGwSLKrPTNwmnn7wj7QjDnjhjzQldRHo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chapel of Souls",
+                "category": "Chapel",
+                "url": "http://www.diocese-porto.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQ7mVy9hlOcusj-98QcS7M2WpaD97TJk3m49Pn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Torre dos Clérigos",
+                "category": "Catholic church",
+                "url": "http://www.torredosclerigos.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqbFP50EhAEg-OVQCDEEhHruozhrYX5aFK0k1_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saint Francis",
+                "category": "Church",
+                "url": "https://ordemsaofranciscoporto.pt/museu/",
+                "img": "https://lh3.googleusercontent.com/proxy/Hm6zlZTFx4dEOaNaaTF0ah1398hpwKmsmPS22hEeyMbHRrw_4Z4RtVcm1JB_f2ccskXB826AyWRIMJDRpJHdpDZr89q1vlF3gG4qi5jjGx-Fn_xT_HJSwyeBDvq8LBG1gDjd5bEAxarWTCTr80Rl5R4uDYqxOP8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Livraria Lello",
+                "category": "Book Shop",
+                "url": "https://www.livrarialello.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdvJX37dfHEM4IbRjpvDdNpc1z49jhUhRAVNnH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estádio do Dragão",
+                "category": "Stadium",
+                "url": "https://www.fcporto.pt/pt/clube/estadio-do-dragao",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ptENG8YIHjQo8Fv91V3VdDx3OL-FCX2OCSu7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercado do Bolhão",
+                "category": "Market",
+                "url": "http://www.mercadobolhao.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCVEa70cjfjZfth6xKDNbzXkZCS-P64D1Cp6sz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque da Cidade do Porto",
+                "category": "City park",
+                "url": "https://parquecidadedoporto.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMadGKGPxKfcYrUyCgsYctPmbj-czQ9VjXtOxU=w148-h148-n-k-no"
+            }
+        ],
+        "Felgueiras": [
+            {
+                "title": "Loja Interativa de Turismo (LIT)",
+                "category": "Tourist attraction",
+                "url": "https://visitfelgueiras.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjFwa1wixLTTgBd66VhKhrRxPfergq9Djzohkq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roman Villa of Sendim",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMz7Mf01rOv_JRTR5YezodOdd4fl2IbvC5toz-a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bolsa Palace",
+                "category": "Historical landmark",
+                "url": "http://www.palaciodabolsa.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcrbARoGwSLKrPTNwmnn7wj7QjDnjhjzQldRHo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastery of Santa Maria de Pombeiro",
+                "category": "Monastery",
+                "url": "https://www.rotadoromanico.com/pt/monumentos/mosteiro-de-santa-maria-de-pombeiro/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOChmsyDy_4xW1J2RLwpTz_NmFwAZBWPN7a-vI4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja de São Vicente de Sousa",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyLiFNWRRyGSY9wtgVVVjmg--GErktMLxa8zVA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja do Salvador de Unhão",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNasM1brDWOxj37Djn2qqDvEpie_XKAePjC5l9c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laces & Pearls",
+                "category": "Fashion accessories shop",
+                "url": "https://lacespearls.etsy.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZHZrVMycwJ-HiO3WkvYYKsuJuoroxc4lKJRBz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fábrica de Pão De Ló De Margaride",
+                "category": "Cake shop",
+                "url": "https://paodelodemargaride.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGH2ZPoYt_ufTyMNxtHVtEyOqLO6KWCC7m3NcG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santuário de Santa Quitéria",
+                "category": "Religious institution",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUJ446LiJocLQ-jiFB2jVSVy7nMLTH028XkdRl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento a Nicolau Coelho",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN93bNRq4_qUdFfhCkfao6e1hmiGsYpBuHTjJNP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja de Santa Maria de Airães",
+                "category": "Church",
+                "url": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=4859",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt7YOKF00-Q1qJatOY3cXO_tfLgTXwqZekrmsd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quinta da Lixa",
+                "category": "Winery",
+                "url": "http://www.quintadalixa.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8ax0huEHTWFkikltK9M2lvtrG7Q6tL8tk4Pqo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja Matriz de Felgueiras",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYmuMyJZBriQrSiudMzXIhFDCJCRiwpMKs9WGh=w148-h148-n-k-no"
+            }
+        ],
+        "Corroios": [
+            {
+                "title": "Quinta da Marialva Park",
+                "category": "Park and Garden",
+                "url": "https://www.cm-seixal.pt/espacos-verdes",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZEtJyvygkDfD4yj5ivyHU3fHRu98O4Yu0IRMC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça do Comércio",
+                "category": "Historical landmark",
+                "url": "https://www.visitlisboa.com/pt-pt/locais/praca-do-comercio-terreiro-do-paco",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDpdHy9nI7HH5O8P-AWmQZ5MeKaI7gCt5-0sJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castelo de S. Jorge",
+                "category": "Castle",
+                "url": "http://www.castelodesaojorge.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTPTsnRF4t0Nj7mGwpd2Am7sFiUQUlYG15Bw8v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arco da Rua Augusta",
+                "category": "Historical landmark",
+                "url": "https://www.visitlisboa.com/pt-pt/locais/arco-da-rua-augusta",
+                "img": "https://lh4.googleusercontent.com/proxy/1Fgp36D4VIretUT16gP2M2GSmN0RW9kVKXLBP_E4kPOvjd7wQbgdmTHnYQF52hQZVnT5b5QBRhF5QvitMfYwGftkVs5JhPutvyfaQHI2tS_heOGmV8fptLLH-d8bvN69P5ieIhSz1JMS0WRd-Bek220HGBoXMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lisbon Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://www.sedelisboa.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1RMbo497v23WmcMUDMlbl7VR5rsMJorEO_wa0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Natural da Arrábida",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGkQJv9a0tD_dfLvK2hWW1jHO7pNDrjnSfUWtb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jerónimos Monastery",
+                "category": "Monastery",
+                "url": "https://www.patrimoniocultural.gov.pt/pt/museus-e-monumentos/dgpc/m/mosteiro-dos-jeronimos/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXXJjjwDxt6KUw6hllK_TrX78v5fJxF-kVVqne=w148-h148-n-k-no"
+            },
+            {
+                "title": "Padrão dos Descobrimentos",
+                "category": "Monument",
+                "url": "http://www.padraodosdescobrimentos.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPazmfMNwoTLwYk31S1MNkerplbG8-3klzQXusI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Almada Fórum",
+                "category": "Shopping Centre",
+                "url": "http://www.almadaforum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKbk5uOy-Pm-70PpgP49GXK0pQDCzmdevtL3hs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old School Tours",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6eHcEn6-_ToGBrwlX0ABK-UWDMo_mcU3j4Lwh=w148-h148-n-k-no"
+            },
+            {
+                "title": "RioSul Shopping",
+                "category": "Shopping Centre",
+                "url": "https://www.riosulshopping.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzPlC51x_73RnxUakZcoIKB4H44h5Ah04aWapp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Urbano do Seixal",
+                "category": "City park",
+                "url": "https://www.cm-seixal.pt/equipamento/parque-urbano-do-seixal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODw0a1G-cfHLZbPujcM0JlhUG0iGRlzsYyy1py=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia do Seixal",
+                "category": "Lakeside Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvHDUkcu9Q2jNkjEfLK23UpZ91IFb2bWhUGbBS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Personal Drivers",
+                "category": "Travel Agent",
+                "url": "https://www.personaldrivers.com.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt4FzUFCsggetsDEH5WDMamb7BwtbfEHaxfmj4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Justa Lift",
+                "category": "Transportation service",
+                "url": "http://www.carris.pt/pt/ascensores-e-elevador/",
+                "img": "https://lh4.googleusercontent.com/proxy/tShCEn_sLi6kxminf3OkGxQtyIZhWpG5JzkIayPy7XQxrWmUaHP_XQEQm-b9BS3Zan4r1BYtYcp1aEXtBDTtJltceKXWwplGQ9NcXl87ClPwTFAGBpJezG_hD1ZNmz-XJaryhTmfwGZYzH0pp5v3Ne4EYmSgsA8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sanctuary of Christ the King-Portugal",
+                "category": "Cultural landmark",
+                "url": "https://cristorei.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1g-vpadiCCSF5eVMCTFpGNBpqGy49Vq9BvEJ4=w148-h148-n-k-no"
+            }
+        ],
+        "Amadora": [
+            {
+                "title": "Belém Tower",
+                "category": "Tourist attraction",
+                "url": "http://www.torrebelem.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPJSyPRk-i6wRJQ3IJwjCxE2qdbGXCFpkXQ_LR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jerónimos Monastery",
+                "category": "Monastery",
+                "url": "https://www.patrimoniocultural.gov.pt/pt/museus-e-monumentos/dgpc/m/mosteiro-dos-jeronimos/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXXJjjwDxt6KUw6hllK_TrX78v5fJxF-kVVqne=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Delfim de Guimarães",
+                "category": "Park and Garden",
+                "url": "https://www.cm-amadora.pt/desporto-lazer/parques-e-jardins/671-parque-central.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkQZh0xC1sSAWeVxprj42F0BMhpg53xaD6i-7p=w148-h148-n-k-no"
+            },
+            {
+                "title": "UBBO",
+                "category": "Shopping Centre",
+                "url": "http://www.ubbo.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4WXJoDZIpcj_KYZteaURjkrcilSREcCa8XbMr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Decathlon Amadora",
+                "category": "Sporting Goods Shop",
+                "url": "https://www.decathlon.pt/store-view/loja-de-desporto-amadora-alfragide-0070027800278",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMraQ7QLW-M4asip6yi69xXGYE57WEwmSkqkiU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Padrão dos Descobrimentos",
+                "category": "Monument",
+                "url": "http://www.padraodosdescobrimentos.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPazmfMNwoTLwYk31S1MNkerplbG8-3klzQXusI=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace of Pena",
+                "category": "Castle",
+                "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdkHYvjEYdpG4Hdg56woCyvwMc6W6zdwqxpNfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aqueduto das Águas Livres",
+                "category": "Tourist attraction",
+                "url": "https://www.epal.pt/EPAL/menu/museu-da-%C3%A1gua/exposi%C3%A7%C3%A3o-permanente-patrim%C3%B3nio-associado/aqueduto-das-%C3%A1guas-livres",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN15AH_YDud27FGwyZoGCQeJ9bZl3zi8b0_lhI=w148-h148-n-k-no"
+            },
+            {
+                "title": "KidZania",
+                "category": "Children's Amusement Centre",
+                "url": "https://lisboa.kidzania.com/pt-pt",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNs325chVgB6zim4j8v6rstA--dzdy7o8APTyrt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arco da Rua Augusta",
+                "category": "Historical landmark",
+                "url": "https://www.visitlisboa.com/pt-pt/locais/arco-da-rua-augusta",
+                "img": "https://lh4.googleusercontent.com/proxy/1Fgp36D4VIretUT16gP2M2GSmN0RW9kVKXLBP_E4kPOvjd7wQbgdmTHnYQF52hQZVnT5b5QBRhF5QvitMfYwGftkVs5JhPutvyfaQHI2tS_heOGmV8fptLLH-d8bvN69P5ieIhSz1JMS0WRd-Bek220HGBoXMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of Estrela",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNF2HuhvJimkElUzfPJe656PUClAwteY-vrxNzD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja Paroquial de São Brás",
+                "category": "Catholic church",
+                "url": "https://www.facebook.com/paroquia.bras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3lqIhjr5LvG1ncBULHNTT8KnayQT7S-Epn8fu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia de São João",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpxAgXOxbWrlA1274XAOQ0Tv2niMjvb0-TwPbc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tapada Nacional de Mafra",
+                "category": "National park",
+                "url": "http://www.tapadademafra.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUG8ruqX-6ooTfMztbYVGfB9M8HOBMP8MxliXe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cabo da Roca",
+                "category": "Tourist attraction",
+                "url": "http://www.cm-sintra.pt/postos-de-turismo#posto-de-turismo-do-cabo-da-roca",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT1Zg2mOg38opZOc6rJuWP1E4dEFLv6ypjKJzP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castelo de Óbidos",
+                "category": "Castle",
+                "url": "https://castelo-obidos.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3MXzxJSWmllRWoAs0YIKpsLmGPdKDmtQA9eS4=w148-h148-n-k-no"
+            }
+        ],
+        "Algueirão": [
+            {
+                "title": "Quinta da Regaleira",
+                "category": "Castle",
+                "url": "http://www.regaleira.pt/",
+                "img": "https://lh5.googleusercontent.com/proxy/esCV3qNjgffPEy-Vxw2lKxWBGU77nd8BQvFY-hBN-PbXqWEhqcwQziB6n-A0qBuVgWity--go2MIg7uf39vNvnzpeC_7GTcdHKf2mJXFhqGYegz2De6h6EgUfQ6wfG5Pm_6h4Z39uaw4-2MsQnTcbDiqWhz0KjY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belém Tower",
+                "category": "Tourist attraction",
+                "url": "http://www.torrebelem.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPJSyPRk-i6wRJQ3IJwjCxE2qdbGXCFpkXQ_LR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Padrão dos Descobrimentos",
+                "category": "Monument",
+                "url": "http://www.padraodosdescobrimentos.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPazmfMNwoTLwYk31S1MNkerplbG8-3klzQXusI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cabo da Roca",
+                "category": "Tourist attraction",
+                "url": "http://www.cm-sintra.pt/postos-de-turismo#posto-de-turismo-do-cabo-da-roca",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT1Zg2mOg38opZOc6rJuWP1E4dEFLv6ypjKJzP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park and Palace of Monserrate",
+                "category": "Historical landmark",
+                "url": "https://www.parquesdesintra.pt/en/parks-monuments/park-and-palace-of-monserrate/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVgNRqb8HOREHh1KV47_pUp_-gWfZAuT0XKB65=w148-h148-n-k-no"
+            },
+            {
+                "title": "Historic Center",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIfbLn_tkmabOeH6VNa0h8rhUjklbRtsOL379W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Initiation Well",
+                "category": "Tourist attraction",
+                "url": "http://www.regaleira.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRLE-syqzdqXEPrXtCObBwHr9yzR0lVE_UM8HY=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace of Pena",
+                "category": "Castle",
+                "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdkHYvjEYdpG4Hdg56woCyvwMc6W6zdwqxpNfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sintra National Palace",
+                "category": "Historical place museum",
+                "url": "https://bilheteira.parquesdesintra.pt/evento/palacio-nacional-de-sintra/244/pt",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx_alARZDpem60KCiNOyRV8fgWj-RYt0P570sL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castelo dos Mouros",
+                "category": "Castle",
+                "url": "http://www.parquesdesintra.pt/parques-jardins-e-monumentos/castelo-dos-mouros/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJK57Z087B5FRp9XaSQBZ7epmA6ONdzWXHZu4B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oceanário de Lisboa",
+                "category": "Aquarium",
+                "url": "https://www.oceanario.pt/",
+                "img": "https://lh3.googleusercontent.com/proxy/0cUMCGTIkefsl1g9i9JgCAmIA-f3jM0BlYMRVpDdOqt_XkTFmDIgCHpl9csAfYvpYTUGg5t_tpeSCpKMqbdJ_nrusCOId89gBGoqrfgBz9SIGNK2PN1bOZiLKxBY6XUwlLumBLiH3K5Ai5M-NkxHUxTolmypB6s=w148-h148-n-k-no"
+            },
+            {
+                "title": "ClassicSintraTours",
+                "category": "Tours",
+                "url": "https://classicsintratours.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaZrXdO-_S5-H9blYYfY_AdnAhueIMj_dfbOwC=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZID lounge Bar",
+                "category": "Bar",
+                "url": "https://www.tripadvisor.pt/Attraction_Review-g189164-d27013662-Reviews-ZID_Lounge_Bar-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND4SSjKImQj4uiw7tP6Cds5-c6eXPXP9WdEfbY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arco da Rua Augusta",
+                "category": "Historical landmark",
+                "url": "https://www.visitlisboa.com/pt-pt/locais/arco-da-rua-augusta",
+                "img": "https://lh4.googleusercontent.com/proxy/1Fgp36D4VIretUT16gP2M2GSmN0RW9kVKXLBP_E4kPOvjd7wQbgdmTHnYQF52hQZVnT5b5QBRhF5QvitMfYwGftkVs5JhPutvyfaQHI2tS_heOGmV8fptLLH-d8bvN69P5ieIhSz1JMS0WRd-Bek220HGBoXMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cycling Rentals",
+                "category": "Bicycle hire shop",
+                "url": "http://www.cycling-rentals.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQiD4krWgxASI0b5JgevwYK5Tr4JmCeKxYYWkN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Villa Tours | Self-drive tours in Sintra | E-cars",
+                "category": "ATV rental service",
+                "url": "https://www.villa.tours/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORPz5I9c_U_NysnmWuKA3MNHTOVdj-Oaa4Moyb=w148-h148-n-k-no"
+            }
+        ],
+        "Lisbon": [
+            {
+                "title": "Belém Tower",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPJSyPRk-i6wRJQ3IJwjCxE2qdbGXCFpkXQ_LR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jerónimos Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXXJjjwDxt6KUw6hllK_TrX78v5fJxF-kVVqne=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castelo de S. Jorge",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTPTsnRF4t0Nj7mGwpd2Am7sFiUQUlYG15Bw8v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça do Comércio",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDpdHy9nI7HH5O8P-AWmQZ5MeKaI7gCt5-0sJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Padrão dos Descobrimentos",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPazmfMNwoTLwYk31S1MNkerplbG8-3klzQXusI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oceanário de Lisboa",
+                "category": "Aquarium",
+                "img": "https://lh3.googleusercontent.com/proxy/0cUMCGTIkefsl1g9i9JgCAmIA-f3jM0BlYMRVpDdOqt_XkTFmDIgCHpl9csAfYvpYTUGg5t_tpeSCpKMqbdJ_nrusCOId89gBGoqrfgBz9SIGNK2PN1bOZiLKxBY6XUwlLumBLiH3K5Ai5M-NkxHUxTolmypB6s=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Tile Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfwOW8KX7yZeJooCoWyem2wsfCfQn6ZB_bwW9R=w148-h148-n-k-no"
+            },
+            {
+                "title": "LX Factory",
+                "category": "Art Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMKvd568e57EnpN7UgeUVrCjR2iaaNp59rnT6Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calouste Gulbenkian Museum",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv18CHb4RANlTEaeZoK91W6PwK8ZNdkH9B-TtK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pastéis de Belém",
+                "category": "Pastry shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2F8X1SO-Vknk3-wm0ai5rjop_o9C-l8F3IW87=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carmo Convent",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-EwduMsxZ4jyph_-IDYODWy323BB2T6Xz64ib=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miradouro da Senhora do Monte",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqgrTMs9UT8r8qnYHkXNGyga6IGckhSrWchU06=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miradouro de Santa Luzia",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_UMz17sNuT-fP3k3F50dAKw6q12w14SfAFbWr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miradouro de São Pedro de Alcântara",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpVvGZ_jhW3PHmP56aKzVfNtd8mvsGKtWDokd6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lisbon Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1RMbo497v23WmcMUDMlbl7VR5rsMJorEO_wa0=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Coach Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNulH9QrdKZwImYq2cw9IyzmkCo-qRQH-hX9Ijy=w148-h148-n-k-no"
+            }
+        ],
+        "Aveiro": [
+            {
+                "title": "Infante Dom Pedro Park - City Park",
+                "category": "Park and Garden",
+                "url": "http://www.cm-aveiro.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqOkB8wwfFeAIuWn5LbNPtt4yda75VbyMJ3PMl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Forum Aveiro",
+                "category": "Shopping Centre",
+                "url": "https://forumaveiro.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMoWx4Hk6n0tPFQcQNmsv2Oc4hEswDG9YjOKouS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aveiro Museum",
+                "category": "Museum",
+                "url": "https://www.cm-aveiro.pt/visitantes/museus-de-aveiro/museu-de-aveiro-santa-joana",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3fdABpT9dnBHVOC09xdfL5MSLjdcf-wkPyglz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ponte dos Laços de Amizade",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgfNLQGk4pMr_UOS9z-F_wUaZH01U1E8oDEN4E=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Aveiro",
+                "category": "Public university",
+                "url": "https://www.ua.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoBlj1CpEOsBlj7-0cA--USUjAWLf9Mnhjx81-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sweet Workshop",
+                "category": "Visitor centre",
+                "url": "http://www.oficinadodoce.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGifEmNMoSBddidZ0x1c0ZuNHrueptzrAPh-tU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aveiro station",
+                "category": "Train station",
+                "url": "http://www.cp.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRR4Orbo8cA62K0J78P21wL0cWyXV1gb9OEpd6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ostraveiro",
+                "category": "Restaurant",
+                "url": "https://ostraveiro.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1IKvqnGvwGtQWdYQ25ravdpmKAmgXfAHZue-T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Canal Central",
+                "category": "Canal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOE0FTZcnWY8cK6faU16zKUoJ3hZyM5J-twEv-Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aveiro Salt Flats",
+                "category": "Open-Air Museum",
+                "url": "http://www.zeca.pt/visita-as-salinas-de-aveiro/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXztJ4flMk00IFqkoeXsT1jbjzrhwGNyEvVxmC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu Marítimo de Ílhavo e Aquário dos Bacalhaus",
+                "category": "Museum",
+                "url": "http://www.museumaritimo.cm-ilhavo.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrth-odHVREo8gWy8lE1Rmv3BYdlRkZPbhln4Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aveiro City Museum",
+                "category": "Local history museum",
+                "url": "http://www.cm-aveiro.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBDnbU_dyNnwLcJr18kKZv8iD4GFhFbtlV7c1w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sé de Aveiro",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1TlQe_7m0_K-HcUIDte0YUEEv4F-RS-deh6X0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia da Costa Nova",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOTqDxVEkC2g2IZL1WNuT5NE4mG3jfDU8utzVQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Farol de Aveiro",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN28h3Ud2WCtC0GS_euJyIuOY8buH0LM7ghsAHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Capela de São Gonçalinho",
+                "category": "Chapel",
+                "url": "https://www.facebook.com/mordomia.saogoncalinho/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2B3W_N9c8vnEUap8YdcTVhE7e9AdMJMlPj9Xa=w148-h148-n-k-no"
+            }
+        ],
+        "Évora": [
+            {
+                "title": "Templo Romano Évora",
+                "category": "Historical place",
+                "url": "http://www.cultura-alentejo.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9xk_2Jw8SMRQP3Rf81TYQdKqai0sj1d5pzRhE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chapel of Bones (Évora)",
+                "category": "Chapel",
+                "url": "http://igrejadesaofrancisco.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIVkrvOOVRdlytkiH2LMxsNAX-NUdxnCddhkuL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Évora",
+                "category": "Catholic cathedral",
+                "url": "http://www.evoracathedral.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_cz_JbylX7Xvr2rtEjWym6h5Il-vqI2HqFQyW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Giraldo Square Fountain",
+                "category": "Fountain",
+                "url": "https://www.cm-evora.pt/locais/chafariz-da-praca-do-giraldo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmoyNsvrstUTQ5F5aCc4kY8FNh0h0_2G_kUiVB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja e Mosteiro de São Francisco",
+                "category": "Catholic church",
+                "url": "http://igrejadesaofrancisco.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzdKlnY6VUe565WnEfXW3bSUNtQ_1r2jR7RaOl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça do Giraldo",
+                "category": "Historical landmark",
+                "url": "http://www.cm-evora.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZVwcsfIELCddehB7SdNt3znW5mmu95SBNpP06=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardim Público de Évora",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1_C_w89za_C7jqlPuVZQReicuGRK1uqWHqs3b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aqueduct",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT-HXuApIJhY1bH3GXD-YFeEBuSNleUzFeKmlI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum Frei Manuel do Cenáculo",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3W5yEI_y38HQzGuuuEJQaAZLqMtgAmIMekPbF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Palace of Évora",
+                "category": "Tourist attraction",
+                "url": "https://www.cm-evora.pt/locais/palacio-de-d-manuel-2/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPduuC6sjWxWWRKwZMgPQS9-1DQ773PypoTFEQO=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Évora",
+                "category": "Public university",
+                "url": "http://www.uevora.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM9U3aIZbdjSgci_zXjmuUeKG3U4Eyx2LzN_ve=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja da Misericórdia",
+                "category": "Catholic church",
+                "url": "http://igrejadamisericordia.scmevora.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKOBpCkjbI_JsQBHGRZ1228cGA30lvwYiekmtQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Enoturismo Cartuxa",
+                "category": "Wine shop",
+                "url": "http://www.cartuxa.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOScHr2y6OIIx8sJVILMkJ2safsGh4VfaDQQZOY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Histórico de Évora",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpToRHSUGbHVjewW9er5VlIbB_itJw9WX4R1S2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pousada Convento Évora",
+                "category": "Hotel",
+                "url": "https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-business&utm_medium=organicsearch&utm_campaign=pousada-evora&tc_alt=114036",
+                "img": "https://lh3.googleusercontent.com/proxy/Ir2gpYbYGZ-5SSYcG5rhHk3EjY0kDIHfTb-AMVDMqqGVrKaO24Ks6nkUhwGO22i4X54vMpOmZvzqzLGlpccOIbn2uPkQYibRAlXHL2w3hHfaqwiKh_b3kUhJ7rtG5PpP-njcALXorxSwsCmdMFHD_UQk26jmtg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muralhas de Évora",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMH5J232mvORdzkBK3XmJEoHtKPzvNQ1bTiIcN4=w148-h148-n-k-no"
+            }
+        ],
+        "Funchal": [
+            {
+                "title": "Parque de Santa Catarina",
+                "category": "Park and Garden",
+                "url": "http://www.cm-funchal.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaAfl2a2ArwWxS36SjRiCfM4JpetAE-hx-7unD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Madeira Botanical Garden",
+                "category": "Botanical garden",
+                "url": "https://ifcn.madeira.gov.pt/quintas-e-jardins/jardin-botanico-da-madeira-eng-rui-vieira",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmgFlCEjfSDDNYxLRDj3c7sjIowWu35AnVWGQR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardim Monte Palace Madeira",
+                "category": "Botanical garden",
+                "url": "http://www.montepalacemadeira.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYzJYA3ed3ZxTw3hyxfSJW6BLU3qFwCVSEzI5j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Funchal Cable Car",
+                "category": "Mountain cable car",
+                "url": "https://madeiracablecar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPofZU-VQKsmFaqEo7f3jxiduYcWLgqpEKDdt2H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Funchal Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://www.catedraldofunchal.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOezmRQmb6KTHlKmEGKeLo6eFGOiOm8n0fDYnZ4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Farmers' Market",
+                "category": "Farmers' market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfS2QigZiiyuUoy0UdBvSjg3l5v4trhPyTt1U8=w148-h148-n-k-no"
+            },
+            {
+                "title": "CR7 Museum",
+                "category": "Museum",
+                "url": "https://www.museucr7.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMIDY0E7FziaIN2DG8rCFhq02IvEWbmxh615AF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blandy's Wine Lodge",
+                "category": "Wine cellar",
+                "url": "https://www.blandyswinelodge.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzzca6kY02pZgxtiAWbR40GabXqcodPHEB2Jj4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Funchal-Monte Cable Car",
+                "category": "Mountain cable car",
+                "url": "http://www.telefericojardimbotanico.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHNDnTVB2U_jMNP5cilwgn5MotTVW6l3PnMeMG=w148-h148-n-k-no"
+            },
+            {
+                "title": "3D Fun art museum",
+                "category": "Modern art museum",
+                "url": "https://3dfunartfunchal.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOA63sF_Cdfsfgd0HunzILWjryY1yLe_3_66Kxx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja de Nossa Senhora do Monte",
+                "category": "Catholic church",
+                "url": "https://pnsmonte.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOmTZTCxK8YK03abZ3dHgtTwCUFmf1qdLwooqk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Madeira Story Centre",
+                "category": "Local history museum",
+                "url": "https://madeirastorycentre.com/",
+                "img": "https://lh4.googleusercontent.com/proxy/bCjsawSlEzUArjSJFdPS4wGRJx_A0qQvybXRdbq2HfZiU-yjTVeZ-cjf9b3abFTyycTvewJo0vcDQ-Yg0lsZsYj8svge8JjOA9J0dsmjGymC-Q6Ic7wbINGCFM6SSjI9GuZpjJbWASzbSbRjd0ZMRU4CNSdZLQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Convent of Santa Clara",
+                "category": "Convent",
+                "url": "https://www.facebook.com/profile.php?id=100093347964098",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcbaQTRSxe79swb7vhHIvmVWaLs0GaKEcySk1d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quinta das Cruzes Museum",
+                "category": "Museum",
+                "url": "https://mqc.madeira.gov.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJk0g4i9ML4RJOzvnc0ftV8UwNY3DhJRmcoTHn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sacred Art Museum of Funchal",
+                "category": "Art museum",
+                "url": "http://masf.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_dVZ6bEk-Uh7QVqHc3lW1ETsOsi4PpRfvzXKy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Art Center Caravel gallery and gift shop",
+                "category": "Art gallery",
+                "url": "https://artcaravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeW5tp-mF2tKrpReNGWCX_WAN6lTkaIrnLqPvn=w148-h148-n-k-no"
+            }
+        ],
+        "Vila Nova de Gaia": [
+            {
+                "title": "Luís I Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAXB_Lz8Fmvq4doQiPDTFessDZoLfOkP0ZTpzE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Porto Cathedral",
+                "category": "Cathedral",
+                "url": "https://www.diocese-porto.pt/pt/catedral-do-porto/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOb-Ov-ti2QCq182F-z-16_EH3fGPMp062aNV2v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardim do Morro",
+                "category": "Garden",
+                "url": "http://www.cm-gaia.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEcnzx_7qfzEKelHF9keciFkl55EzdNf17FPxy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saint Francis",
+                "category": "Church",
+                "url": "https://ordemsaofranciscoporto.pt/museu/",
+                "img": "https://lh3.googleusercontent.com/proxy/Hm6zlZTFx4dEOaNaaTF0ah1398hpwKmsmPS22hEeyMbHRrw_4Z4RtVcm1JB_f2ccskXB826AyWRIMJDRpJHdpDZr89q1vlF3gG4qi5jjGx-Fn_xT_HJSwyeBDvq8LBG1gDjd5bEAxarWTCTr80Rl5R4uDYqxOP8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Porto São Bento",
+                "category": "Train station",
+                "url": "https://www.cp.pt/passageiros/pt/consultar-horarios/estacoes/porto-sao-bento",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1fwHTyXs4yuAh9Px0zEZDz7HgCXpXvClppDJd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Caves Cálem",
+                "category": "Winery",
+                "url": "https://tour.calem.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCv4ZYmKVAqaaOt4yzlesI5IO4mWZDH0t0TdvI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Graham's Port Lodge",
+                "category": "Wine cellar",
+                "url": "http://www.grahams-port.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMn7A69lI9OiAsyikRNCA_xHACniwJSJ-2FYc9K=w148-h148-n-k-no"
+            },
+            {
+                "title": "WOW Porto - The Best Cultural District",
+                "category": "Museum",
+                "url": "https://wow.pt/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFXcsll4N6FcSxCDFhzifMNRdCsCSNjqoPvUbs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ponte da Arrábida",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMktROmtVsqOX1IApw-MTRF9_y5Da0rW8e208fG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gaia Cable Car - Jardim do Morro station",
+                "category": "Transportation service",
+                "url": "http://gaiacablecar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrCc9kHxbl49QOd1V1HAFinptyf0C_Q6rs0eCj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercado Beira-Rio",
+                "category": "Food court",
+                "url": "http://www.mercadobeirario.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoYTi7au9yf39v635nd-beVltBwzR039MJzs1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Biológico de Gaia",
+                "category": "Nature reserve",
+                "url": "http://www.parquebiologico.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtBrXWrZ-Lm08X-bjuEjlHqJb3bz0Agf1C5D1o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Capela do Senhor da Pedra",
+                "category": "Catholic church",
+                "url": "http://www.cm-gaia.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOx0y-fG56EmDyRN3b49s3AuQLLpotZYuH_vlCK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina da Afurada",
+                "category": "Marina",
+                "url": "http://www.douromarina.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTrmsQWZNask7zdY4wUmf2ZePoj7PYvnIgAEKu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taylor's Port",
+                "category": "Wine cellar",
+                "url": "https://www.taylor.pt/en/visit-taylors/port-cellars?utm_source=Google&utm_medium=Organic&utm_campaign=GMB",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkjtMejSm8rGzX72221sOepxFp-cHrvM6KyqJ0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cockburn's",
+                "category": "Winery",
+                "url": "http://www.cockburns.com/visit-us",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCmiDH2NImOvodpZp6eN9NoRdTqDbwvxPi9HV4=w148-h148-n-k-no"
+            }
+        ],
+        "Amora": [
+            {
+                "title": "Praça do Comércio",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDpdHy9nI7HH5O8P-AWmQZ5MeKaI7gCt5-0sJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lisbon Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1RMbo497v23WmcMUDMlbl7VR5rsMJorEO_wa0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castelo de S. Jorge",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTPTsnRF4t0Nj7mGwpd2Am7sFiUQUlYG15Bw8v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belém Tower",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPJSyPRk-i6wRJQ3IJwjCxE2qdbGXCFpkXQ_LR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jerónimos Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXXJjjwDxt6KUw6hllK_TrX78v5fJxF-kVVqne=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Justa Lift",
+                "category": "Transportation service",
+                "img": "https://lh4.googleusercontent.com/proxy/tShCEn_sLi6kxminf3OkGxQtyIZhWpG5JzkIayPy7XQxrWmUaHP_XQEQm-b9BS3Zan4r1BYtYcp1aEXtBDTtJltceKXWwplGQ9NcXl87ClPwTFAGBpJezG_hD1ZNmz-XJaryhTmfwGZYzH0pp5v3Ne4EYmSgsA8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro De Massagens e Terapias Alternativas Paulo Duarte",
+                "category": "Massage therapist",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfLLJX-nJJHJRRREQ6vZGdV43bY3KyptPhNr0x=w148-h148-n-k-no"
+            }
+        ],
+        "Queluz": [
+            {
+                "title": "Queluz National Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk3lfObG7DDbZNeDUJb5kPiyHsP2qbHL-rFpxS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Felício Loureiro",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND_fEJ2RyXsZfCWX-xFoJGSQbC2enwlFKvNlcq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jerónimos Monastery",
+                "category": "Monastery",
+                "url": "https://www.patrimoniocultural.gov.pt/pt/museus-e-monumentos/dgpc/m/mosteiro-dos-jeronimos/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXXJjjwDxt6KUw6hllK_TrX78v5fJxF-kVVqne=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hail Rock Club",
+                "category": "Bar",
+                "url": "http://www.facebook.com/hail.rockclub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzn7k_LR7pN6x2Xt2aDsCShIOguUYhirpLaEt-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magical Garden Aladdin Sintra",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP-jF1OQDGLP5MrkdSonRxsF7ULAUeQ-gF2p5y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacete Almeida Araújo (Exército)",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKv2O3CPVnt4od45sE8uyAxzQvojhddLy6CCwW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Torre do Relógio de Queluz",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrWfV8RFo8-dTl-pjKlZ0NqVjMDjnA4ZRCY1Kr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lisbon Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://www.sedelisboa.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1RMbo497v23WmcMUDMlbl7VR5rsMJorEO_wa0=w148-h148-n-k-no"
+            }
+        ],
+        "Coimbra": [
+            {
+                "title": "Portugal dos Pequenitos",
+                "category": "Theme park",
+                "url": "https://www.fbb.pt/pp/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKbkyBmJ668U8crp--Lmhq9u4eaVHa0RYNF6oB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Cruz Church",
+                "category": "Catholic church",
+                "url": "http://igrejascruz.webnode.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDQ2RA8ZT2B7pN9z1RqPB3KRVvqo9cCIqEYe38=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sé Velha - Coimbra",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU9JbjDhWr5A_XkpIwStQX6t_Dyl4MSCudreO9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardim Botânico da Universidade de Coimbra",
+                "category": "Botanical garden",
+                "url": "http://www.uc.pt/jardimbotanico",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKfDr4CH472tKG9j7VdqzaHHsNdtKpR2GVZz7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum Machado de Castro",
+                "category": "Art museum",
+                "url": "https://www.cm-coimbra.pt/areas/visitar/conhecer-coimbra/museus/museu-nacional-machado-de-castro",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTvK6d8rX5C1LMyD4DPXV8oC3_Kihl3hjj3Qmv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mondego's Verde Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKEntavOogEZaXzP_fcVjVo--NYr35-u8X0VHi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastery of Santa Clara-a-Nova",
+                "category": "Monastery",
+                "url": "https://rainhasantaisabel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMb3wKQwiMUO4Ps5dpUtbWkYUCVSmAIX3zpkWmt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chapel of São Miguel",
+                "category": "Chapel",
+                "url": "https://visit.uc.pt/pt/space-list/chapel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmF0nVdiYbxWytvOVQqvsRUw4GcmUm08OzrppO=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Cathedral",
+                "category": "Catholic cathedral",
+                "url": "https://www.facebook.com/Igreja-da-S%C3%A9-Nova-Catedral-de-Coimbra-488043048048579/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONw12qun0ovvPBddGVpkQZU9BvdYC8hyB5MsIx=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Coimbra",
+                "category": "University",
+                "url": "https://www.uc.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbsMFIPlv6RLRJgCK0eKiKu8BT4kah8gZAfVbt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosteiro de Santa Clara-a-Velha",
+                "category": "Museum",
+                "url": "https://www.culturacentro.gov.pt/mosteiro-santa-clara-a-velha/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1nAmSUgncpFk1z0X8T06gIRsIqBADQtKdp47N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fado ao Centro",
+                "category": "Live music venue",
+                "url": "http://www.fadoaocentro.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNN6yoEzYbVj1Q83yLxap9I_fSnO8P3o35R1rx5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque da Cidade Manuel Braga",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOToGuzbEMpw9bMs8FZcO9AeD-NZfiLWhQJUpeu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Choupal National Forest",
+                "category": "National forest",
+                "url": "http://www.icnf.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxvhjXnFwTnwFG6M0VN3J6HhSXJRwixnt9Cfwz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Schools",
+                "category": "Heritage Building",
+                "url": "https://visit.uc.pt/en/program-list",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNh6aEBEqaFSmDzNW59SqrDIMWmXHdnRJ9b-jYN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ponte Pedonal Pedro e Inês",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9VMlL2e482MUuhP4CI5FWqd9PPDdl3tnqa4zw=w148-h148-n-k-no"
+            }
+        ],
+        "Loures": [
+            {
+                "title": "Continente Loures",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhUnvpRy8sIecd9pI644iR57nR5fWs2ZbRug3W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Correio-Mor",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcoIk1vseyMem0ojvX5J48KT85x1zbr7joTwkJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oceanário de Lisboa",
+                "category": "Aquarium",
+                "img": "https://lh3.googleusercontent.com/proxy/0cUMCGTIkefsl1g9i9JgCAmIA-f3jM0BlYMRVpDdOqt_XkTFmDIgCHpl9csAfYvpYTUGg5t_tpeSCpKMqbdJ_nrusCOId89gBGoqrfgBz9SIGNK2PN1bOZiLKxBY6XUwlLumBLiH3K5Ai5M-NkxHUxTolmypB6s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça do Comércio",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDpdHy9nI7HH5O8P-AWmQZ5MeKaI7gCt5-0sJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belém Tower",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPJSyPRk-i6wRJQ3IJwjCxE2qdbGXCFpkXQ_LR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Eduardo VII",
+                "category": "Park and Garden",
+                "img": "https://lh4.googleusercontent.com/proxy/cQ8eijnjpmjPxLELv9ssHGve9gw__3NT6moxIeUMDpc7_qQO5uek8atKEXi-su5j2eb4oGRyv2ee-Ft6lesXhOtkfqYyaqAvelQhPpUjwu1y1b20x6hZ1e50CRBnyREakJabjW3hF2sNHKXZmHdysxV-O4WOvA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church Santa Maria",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBgcSiM-uCOKsECju8vEAacpm-jEXO5i-rhkDC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arco da Rua Augusta",
+                "category": "Historical landmark",
+                "img": "https://lh4.googleusercontent.com/proxy/1Fgp36D4VIretUT16gP2M2GSmN0RW9kVKXLBP_E4kPOvjd7wQbgdmTHnYQF52hQZVnT5b5QBRhF5QvitMfYwGftkVs5JhPutvyfaQHI2tS_heOGmV8fptLLH-d8bvN69P5ieIhSz1JMS0WRd-Bek220HGBoXMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque da Cidade de Loures",
+                "category": "Playground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVyjRrX4S1pn2PaV4ADKpqqC2yuTxywSHAlaH0=w148-h148-n-k-no"
+            },
+            {
+                "title": "LoureShopping",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCA75D-jKYH9o_TexjosXOLm_EKvCy7J4A66h5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to the Overseas Combatants",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe_z-WTY_c-FNeaccnmtIZmiBARUKUs8BZ9IbY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Adão Barata",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNr0Q08rfc6XvcD3JYM2qFhAdfp5hLKuSsVf7q5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chafariz d'El-Rei",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeofmdpI2F9Lq7-lEZSLexjCDB33ow891tMidB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sacavém Ceramic Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcl3Su--BTP9O2tJFNuaE6ZvW31Se19MRbyaBD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mission to Escape LoureShopping",
+                "category": "Escape room centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzdvhuxeuuP1eew2VjuPdRfS6929eo6mKdCS3j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Comercial Continente de Loures",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrWzZfkgYGASFFSuJW56oOMWS1c-WhvRPuK_9K=w148-h148-n-k-no"
+            }
+        ],
+        "Odivelas": [
+            {
+                "title": "Padrão do Senhor Roubado",
+                "category": "Cultural landmark",
+                "url": "https://www.cm-odivelas.pt/pages/720?poi_id=15&fbclid=IwAR2j5Q9hgCKhZMytr19Mr5EkaKgCxUjAfkrRKoEcdu4ICLT7Q4asMZXCO0c",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTKktkXbsiAsJearFbxmojR1WKzke41kSGAoG8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardim Zoológico",
+                "category": "Zoo",
+                "url": "https://www.zoo.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4cmXt17vM4yUe5nGVCRl5ydUQAPvBT5sUAERG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça do Comércio",
+                "category": "Historical landmark",
+                "url": "https://www.visitlisboa.com/pt-pt/locais/praca-do-comercio-terreiro-do-paco",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDpdHy9nI7HH5O8P-AWmQZ5MeKaI7gCt5-0sJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Strada Outlet",
+                "category": "Shopping Centre",
+                "url": "http://www.stradaoutlet.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyX69rvsiltIwL5mywyJrMvVgKUWxjAacIBmFx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arco da Rua Augusta",
+                "category": "Historical landmark",
+                "url": "https://www.visitlisboa.com/pt-pt/locais/arco-da-rua-augusta",
+                "img": "https://lh4.googleusercontent.com/proxy/1Fgp36D4VIretUT16gP2M2GSmN0RW9kVKXLBP_E4kPOvjd7wQbgdmTHnYQF52hQZVnT5b5QBRhF5QvitMfYwGftkVs5JhPutvyfaQHI2tS_heOGmV8fptLLH-d8bvN69P5ieIhSz1JMS0WRd-Bek220HGBoXMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Costume Museum",
+                "category": "National museum",
+                "url": "https://www.facebook.com/MuseuNacionaldoTraje",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNz2G49rscYgdr6W6znXI3H23OXpxevuaHRH49F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cabo da Roca",
+                "category": "Tourist attraction",
+                "url": "http://www.cm-sintra.pt/postos-de-turismo#posto-de-turismo-do-cabo-da-roca",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT1Zg2mOg38opZOc6rJuWP1E4dEFLv6ypjKJzP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Professional Training Center for the Food Sector",
+                "category": "Training centre",
+                "url": "http://www.cfpsa.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhz9-Ml9ydJy_JPprUiG9JB5Od3UE1EpCC3zfd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Lisbon / Pimenta Palace",
+                "category": "Museum",
+                "url": "http://www.museudelisboa.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNz647PRGvaaIqn5AemdvD2iKnz8LB2nxCVS0uc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bordalo Pinheiro Museum",
+                "category": "Museum",
+                "url": "http://www.museubordalopinheiro.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2Y0gLxdt2FrjAGBHkOhtS7ZxI4aGl91OC2cY4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igreja Matriz de Odivelas",
+                "category": "Catholic church",
+                "url": "https://paroquiadeodivelas.com/horarios-das-celebracoes/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAoVmNIwAlZ232qWuzQIqqT0kKpC3uPQB9Hs_L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reservatório da Mãe d'Água das Amoreiras",
+                "category": "Tourist attraction",
+                "url": "http://www.epal.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPo_X4Y8q18_EYglASiDWo893plHcrOoQTcV53_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu Nacional da Música",
+                "category": "Museum",
+                "url": "http://www.museunacionaldamusica.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWbfVwBKxgiZmAwCV3w3ZLr8uBtocpU_W04_PC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinema City Campo Pequeno",
+                "category": "Cinema",
+                "url": "http://www.cinemacity.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFcbdNrMn5PNYH19333efiqtLs3C_RIUQvmgY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amor Próprio SPA",
+                "category": "Spa",
+                "url": "http://www.amorpropriospa.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObmQUo_PjO9J-G7Ap4uVxhZ3L6oTqAqxJnqHUq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shisha Tea Food",
+                "category": "Shisha bar",
+                "url": "https://instagram.com/shisha_teafood?igshid=YmMyMTA2M2Y=",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOurzjynpARiAkkVKRG7mo6oyYIRJrDwBYDUzjq=w148-h148-n-k-no"
+            }
+        ],
+        "Braga": [
+            {
+                "title": "Sanctuary of Our Lady of Sameiro",
+                "category": "Catholic church",
+                "url": "http://www.santuariodosameiro.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBcblN_KWDyG9ssIEy3GJsWnLeFKIIEmCfAsQo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Braga Cathedral",
+                "category": "Catholic cathedral",
+                "url": "https://se-braga.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNipgjNcEJpYGQnUB66Sh8pPFsZBnjHjFmqZTec=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Barbara Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwBdFrVq8R49-nvClLsaEv39Le0MYZLiMtPz_H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arco da Porta Nova",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiulomXHH4pE-3ipX00B53oUsl_kW5qEZ94Hcq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bom Jesus do Monte",
+                "category": "Religious destination",
+                "url": "http://bomjesus.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7GeQE6Dmr698OgEfrpZbjR8BzPHzhZ-fOvx_s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palácio do Raio",
+                "category": "Historical landmark",
+                "url": "http://www.scmbraga.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFJWr49aZUV4L2L0p3PG0nmDoh4gncPrf8gMVv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Biscainhos Museum",
+                "category": "Museum",
+                "url": "http://www.museudosbiscainhos.gov.pt/",
+                "img": "https://lh5.googleusercontent.com/proxy/zOpDR7agxzkvGU2bf32gzIVlNhIgTQm8TapyqbuDdHnod_Tr8GkkUDmsjEegQUfBZwkqvAz7-cqInI0FSu1LOdcGXBpfuLDUwjVz3Ik5LQWYiuetvPfl4L7nIno3CkJGZGIN7h5dixrX1oCuj39bnfUcJ4__XFw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bom Jesus Funicular",
+                "category": "Transportation service",
+                "url": "http://bomjesus.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2jTr1bSP3-V58Gbmh6r3jyUCh9RwyjvitIvDg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Braga Municipal Stadium",
+                "category": "Stadium",
+                "url": "http://www.scbraga.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYYWdcbQ2-sLzR1obtceyerd6IPR9MO_JiT163=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Cross Church, Braga",
+                "category": "Catholic church",
+                "url": "https://irmandadesantacruz.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNKCIIfvAW4O-MgU-e9nhI4nzNeIaJEErL3Di0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastery of São Martinho de Tibães",
+                "category": "Tourist attraction",
+                "url": "https://www.mosteirodetibaes.gov.pt/",
+                "img": "https://lh6.googleusercontent.com/proxy/C8u2o0v5P0hrA-esf7sG3FlgBK6axGfzoTU3D9k4I-f-eY3cwfDppGTK61NRJvXhWnMag6uBRmxpftCyRHkD0_ljgVfzjdEzqoBaItln2vB7yLw2f3bg_bA-zPS-Zu41e6dwEP82vMUeqNOD1fgCLBu1q2hhTw=w148-h148-n-k-no"
+            },
+            {
+                "title": "A Brasileira",
+                "category": "Cafe",
+                "url": "https://m.facebook.com/CafeABrasileiraBraga",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGo6hzcULKfyY_B9qEkajD4gTxDHVjRtjK70n6=w148-h148-n-k-no"
+            },
+            {
+                "title": "100° Página Book store",
+                "category": "Book Shop",
+                "url": "https://centesima.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMieDGy4to2IXvBsTHddlA8WosBZZM9N9ubB1w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça - City Market",
+                "category": "Market",
+                "url": "https://praca.cm-braga.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2NLOcWrdCY2DqkQc3f-4Ko33Xj-pavhZJ_P8R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Braga Tower",
+                "category": "Historical landmark",
+                "url": "https://www.cm-braga.pt/pt/1201/conhecer/historia-e-patrimonio/patrimonio-cultural/patrimonio-edificado/item/item-1-612",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8VUHVPiwWrSmynCWI142c6CqpXsRwaj7EPbaH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Peneda-Gerês",
+                "category": "National park",
+                "url": "https://pnpgeres.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeSc-eiMgSW2hUaYOHOWzZkMLGbJnBKzfHl2-p=w148-h148-n-k-no"
+            }
+        ],
+        "Cacém": [
+            {
+                "title": "Quinta da Regaleira",
+                "category": "Castle",
+                "url": "http://www.regaleira.pt/",
+                "img": "https://lh5.googleusercontent.com/proxy/esCV3qNjgffPEy-Vxw2lKxWBGU77nd8BQvFY-hBN-PbXqWEhqcwQziB6n-A0qBuVgWity--go2MIg7uf39vNvnzpeC_7GTcdHKf2mJXFhqGYegz2De6h6EgUfQ6wfG5Pm_6h4Z39uaw4-2MsQnTcbDiqWhz0KjY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cocktail Team",
+                "category": "Bartending school",
+                "url": "http://www.cocktailteam.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwpMrwVuQMvJQGPJi9gQboag5j_EpXcGIFNJSG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park and Palace of Monserrate",
+                "category": "Historical landmark",
+                "url": "https://www.parquesdesintra.pt/en/parks-monuments/park-and-palace-of-monserrate/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVgNRqb8HOREHh1KV47_pUp_-gWfZAuT0XKB65=w148-h148-n-k-no"
+            },
+            {
+                "title": "Initiation Well",
+                "category": "Tourist attraction",
+                "url": "http://www.regaleira.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRLE-syqzdqXEPrXtCObBwHr9yzR0lVE_UM8HY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu de Marinha",
+                "category": "Museum",
+                "url": "https://ccm.marinha.pt/pt/museu",
+                "img": "https://lh5.googleusercontent.com/proxy/Lz74Fxm-UXyL9cjGtUnJ_U-R-4pEbb8ydp8Jmlbuf8XCW_D1hcmXLFFP5hgj2yOfdl0et8-VK5uNc36Uto-Ey3okQVR1SZq19KQQT32yJAKvgRvc9o5RSy7ZCYERDqktzRNQGOlomFgMsUSKSgBFYTQgxKm_Ig=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quantum Park Lisboa",
+                "category": "Theme park",
+                "url": "http://www.quantumparks.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa7y-Z-QUUn_qWgG880Dw8FLCTSscrzynozS9L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mánela Cinco das Três®, Estética & Cabeleireiro",
+                "category": "Beauty Salon",
+                "url": "https://manela5das3.pt/cartao-visitas",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwwZZt5MLmg2d2jcuFhpzHb8Of923jBm4fg-Oc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calouste Gulbenkian Foundation",
+                "category": "Foundation",
+                "url": "https://gulbenkian.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOq6FCx6zEkC6h3tESXao6V10hKRTSCVD12Kz2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Instituto Superior Técnico",
+                "category": "Public university",
+                "url": "https://tecnico.ulisboa.pt/pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqfFbiFuWvGypiDicR2NYjThw5P48Iq0EaRFIU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castelo dos Mouros",
+                "category": "Castle",
+                "url": "http://www.parquesdesintra.pt/parques-jardins-e-monumentos/castelo-dos-mouros/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJK57Z087B5FRp9XaSQBZ7epmA6ONdzWXHZu4B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Europe Balcony - Portugal Private Tours",
+                "category": "Tour operator",
+                "url": "https://europebalcony.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNk5fdkUUbV_MZfgV2x6cyoJDEUg_tM6bS47SS7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mywaytours-private guided tours Portugal",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHUECCAjKn6JlRwTNJCT08CuVIKSOIMTuTJ5f8=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Palace of Pena",
+                "category": "Castle",
+                "url": "https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdkHYvjEYdpG4Hdg56woCyvwMc6W6zdwqxpNfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estádio de Honra",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkq0nTS9Wyr8z8CXPHI9rXfmZTMsW9eYmj6hmi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ride351 - Surf Trips Portugal",
+                "category": "Tour operator",
+                "url": "https://www.ride351.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1o49fCmtQL2lwmyLhrZ1D6fH1DGSDM7-s8TO1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sintra National Palace",
+                "category": "Historical place museum",
+                "url": "https://bilheteira.parquesdesintra.pt/evento/palacio-nacional-de-sintra/244/pt",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx_alARZDpem60KCiNOyRV8fgWj-RYt0P570sL=w148-h148-n-k-no"
+            }
+        ],
+        "Setúbal": [
+            {
+                "title": "Reserva Natural do Estuário do Sado",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV2kEDgNVwTvU3i3AbIBgYE6H4IbL87EfRc6HC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercado do Livramento",
+                "category": "Market",
+                "url": "https://www.mun-setubal.pt/feiras-e-mercados/#1529419534498-1e3816b1-fbec",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxjnLaiszyQNv4tHxVayTjpz6R6yi-YibqP6xk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galapos beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV0x_fT1HoVh7xK-jhtuot_K8YTVhwgcp2c9Ex=w148-h148-n-k-no"
+            },
+            {
+                "title": "Forte de São Filipe",
+                "category": "Fortress",
+                "url": "https://www.mun-setubal.pt/forte-de-sao-filipe/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMe4rTg7EPuFnsQ42l-FzXsFT2aQOQbnwnWmiPf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galapinhos Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKsETDAEkNtdNXbcC4uvLvDxjXG2-sb_AARZ2r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Natural da Arrábida",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGkQJv9a0tD_dfLvK2hWW1jHO7pNDrjnSfUWtb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praça de Bocage",
+                "category": "Historical landmark",
+                "url": "https://www.mun-setubal.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0Q_yyZaX75mDuyrypM_P-J5b4FtuYHQkzgHfa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa da Baia de Setubal",
+                "category": "Tourist Information Centre",
+                "url": "https://visitsetubal.com/casa-da-baia/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkbJmWpXA8j_tjQXrpcp6ysR2n7JVobMubwnjD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Urbano de Albarquel",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-VpP_kHa4ialkeR47jLWXo7q2FcIY_cUdzXPA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia do Creiro",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuFWa7oO6NtCZz3WsYmEXMcOUJdH2WeA00GCOp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palmela's Castle",
+                "category": "Castle",
+                "url": "http://www.cm-palmela.pt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3ftFfc5curh-soGmc3Li-1CM4rBaOx3CcN96_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Praia da Figueirinha",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmRbhbEsc94z0DuCwMHnGLPGexGlN02LImDyTF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Serra da Arrábida",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIpg0QsOnI_yUAj-QWwvWQZcKFNmh54Ty1-OTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque do Bonfim",
+                "category": "Park and Garden",
+                "url": "https://www.setubalambiente.pt/parque-do-bonfim/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqMvV_sXekpcwwrJKB7I4lpCxal035dkIofo5C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the former Monastery of Jesus",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7SyO54TqOlqAcGswxrslhlEsB11--ncTY_6uA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Convent of Our Lady of Arrábida",
+                "category": "Convent",
+                "url": "https://www.foriente.pt/static.php?id=F3FE17B1-6E8F-4D63-82A1-1E5AD7155386&area=a-fundacao",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZ6lIjjEiGtI6BP4FrhTfXr5VgpD6amFJsaEaw=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Castelo de S. Jorge",
+            "category": "Castle",
+            "url": "http://www.castelodesaojorge.pt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPTPTsnRF4t0Nj7mGwpd2Am7sFiUQUlYG15Bw8v=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jerónimos Monastery",
+            "category": "Monastery",
+            "url": "https://www.patrimoniocultural.gov.pt/pt/museus-e-monumentos/dgpc/m/mosteiro-dos-jeronimos/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNXXJjjwDxt6KUw6hllK_TrX78v5fJxF-kVVqne=w148-h148-n-k-no"
+        },
+        {
+            "title": "Praça do Comércio",
+            "category": "Historical landmark",
+            "url": "https://www.visitlisboa.com/pt-pt/locais/praca-do-comercio-terreiro-do-paco",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPDpdHy9nI7HH5O8P-AWmQZ5MeKaI7gCt5-0sJm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Luís I Bridge",
+            "category": "Bridge",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOAXB_Lz8Fmvq4doQiPDTFessDZoLfOkP0ZTpzE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sintra National Palace",
+            "category": "Historical place museum",
+            "url": "https://bilheteira.parquesdesintra.pt/evento/palacio-nacional-de-sintra/244/pt",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPx_alARZDpem60KCiNOyRV8fgWj-RYt0P570sL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Oceanário de Lisboa",
+            "category": "Aquarium",
+            "url": "https://www.oceanario.pt/",
+            "img": "https://lh3.googleusercontent.com/proxy/0cUMCGTIkefsl1g9i9JgCAmIA-f3jM0BlYMRVpDdOqt_XkTFmDIgCHpl9csAfYvpYTUGg5t_tpeSCpKMqbdJ_nrusCOId89gBGoqrfgBz9SIGNK2PN1bOZiLKxBY6XUwlLumBLiH3K5Ai5M-NkxHUxTolmypB6s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Belém Tower",
+            "category": "Tourist attraction",
+            "url": "http://www.torrebelem.pt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNPJSyPRk-i6wRJQ3IJwjCxE2qdbGXCFpkXQ_LR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Castelo dos Mouros",
+            "category": "Castle",
+            "url": "http://www.parquesdesintra.pt/parques-jardins-e-monumentos/castelo-dos-mouros/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMJK57Z087B5FRp9XaSQBZ7epmA6ONdzWXHZu4B=w148-h148-n-k-no"
+        },
+        {
+            "title": "Porto São Bento",
+            "category": "Train station",
+            "url": "https://www.cp.pt/passageiros/pt/consultar-horarios/estacoes/porto-sao-bento",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM1fwHTyXs4yuAh9Px0zEZDz7HgCXpXvClppDJd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Calouste Gulbenkian Museum",
+            "category": "Art museum",
+            "url": "https://gulbenkian.pt/museu/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPv18CHb4RANlTEaeZoK91W6PwK8ZNdkH9B-TtK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Convent of Christ",
+            "category": "Church",
+            "url": "http://www.conventocristo.gov.pt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKep4LQ6wCIsaGNvRdPRMRCEJUbxKHuKLIOqg0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Quinta da Regaleira",
+            "category": "Castle",
+            "url": "http://www.regaleira.pt/",
+            "img": "https://lh5.googleusercontent.com/proxy/esCV3qNjgffPEy-Vxw2lKxWBGU77nd8BQvFY-hBN-PbXqWEhqcwQziB6n-A0qBuVgWity--go2MIg7uf39vNvnzpeC_7GTcdHKf2mJXFhqGYegz2De6h6EgUfQ6wfG5Pm_6h4Z39uaw4-2MsQnTcbDiqWhz0KjY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jardins do Palácio de Cristal",
+            "category": "Garden",
+            "url": "https://ambiente.cm-porto.pt/parques-e-jardins/jardins-do-palacio-de-cristal",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOMYA9JhdS7wHKvyPktI2eyeJd4vqkFyXHAwhGX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional Peneda-Gerês",
+            "category": "National park",
+            "url": "https://pnpgeres.pt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNeSc-eiMgSW2hUaYOHOWzZkMLGbJnBKzfHl2-p=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bolsa Palace",
+            "category": "Historical landmark",
+            "url": "http://www.palaciodabolsa.pt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPcrbARoGwSLKrPTNwmnn7wj7QjDnjhjzQldRHo=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bom Jesus do Monte",
+            "category": "Religious destination",
+            "url": "http://bomjesus.pt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM7GeQE6Dmr698OgEfrpZbjR8BzPHzhZ-fOvx_s=w148-h148-n-k-no"
+        }
+    ]
+}

@@ -1,0 +1,556 @@
+{
+    "cities": {
+        "Manama": [
+            {
+                "title": "The Avenues",
+                "category": "Shopping Centre",
+                "url": "https://www.the-avenues.com/bahrain/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOD0-Avx3HnFq4TzGjhNycP_djP9O3C7LOUccy4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Fateh Grand Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNi-oKUQ2BXLa4a2M1gczJoEQFD1qYS08QFiYq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain National Museum",
+                "category": "National museum",
+                "url": "http://www.culture.gov.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzSsK-nNtZqbHWupmTRGj7la1AWVmbPjYU7a3i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al Bahrain",
+                "category": "Historical landmark",
+                "url": "http://culture.gov.bh/ar/visitingbahrain/cultural_tourism/10top_must_dos/Name,10129,ar.html#.XAjVPmlRVxd",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfYTJZb7VINNxVLFHOjcMMY6afMVzSBv31XFeb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beit Al Quran",
+                "category": "Museum",
+                "url": "https://culture.gov.bh/en/visitingbahrain/CulturalTourism/10top_must_dos/Name,10135,en.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4zfeZr4g77Hd3YJea9tdkKhXZuP4Qzp5U-9Gs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Bab Al Bahrain",
+                "category": "Market",
+                "url": "http://www.culture.gov.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP61mKAbMrLsQTHwp95nhmB1IsHM8Atcs3ibhw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain Bay",
+                "category": "Park and Garden",
+                "url": "http://bahrainbay.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsHlQYlSLVzVmLjHbW_kH4kkXy97bEfJ88tXVf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manama Souq Building",
+                "category": "Investment company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6XQk_4O9IBurZz96lQm2oW0IpAj3qFt43McWk=w148-h148-n-k-no"
+            },
+            {
+                "title": "City Centre Bahrain",
+                "category": "Shopping Centre",
+                "url": "https://www.citycentrebahrain.com/?utm_source=google&utm_medium=organic&utm_campaign=Google_My_Business",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOz11iQ4xPuY7by9iQxK7xGHQJOpF54VJH90Z8P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain Fort",
+                "category": "Fortress",
+                "url": "http://culture.gov.bh/en/visitingbahrain/top10_must_dos/Name,9969,en.html#.WC8uCjwbKYQ",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLpp4G5CtTD2ZzqVd36df_S5xDvTWbh1i-cgRT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seef Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.seefmall.com.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQwRpBtSdZ4Lqk1My8vx0a7-PWNlc2AQEDPDf4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sacred Heart Catholic Church, Bahrain",
+                "category": "Catholic church",
+                "url": "https://www.sacredheartchurchbahrain.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQu-23khU0b0tIhMk2d4is2z0EVcLknE48ljmy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain International Circuit",
+                "category": "Racetrack",
+                "url": "https://www.bahraingp.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjHRfUFulewkZYBH1tC6Ha1pqOHljd30mrVpec=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Beach Garden Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0j3HOefX05-uJKVIMA_ThM6oO8sZvSvha23NM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain Financial Harbour",
+                "category": "Business Centre",
+                "url": "http://www.bfharbour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsHc4D1-XcWXRe9dvseXc03ZQtxszNN4MTofxm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Andalus Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhjWCf_Sr_w2zM_277Tc-qhv_37PppsWhRq7gq=w148-h148-n-k-no"
+            }
+        ],
+        "Madīnat Ḩamad": [
+            {
+                "title": "Bahrain International Karting Circuit",
+                "category": "Go-Cart Track",
+                "url": "https://www.bahraingp.com/karting/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6Eu0bcTIjOjMXJTNSnPz63v_GjvDJhA-J2vg=w148-h148-n-k-no"
+            },
+            {
+                "title": "AL Jalboot Restaurant",
+                "category": "Seafood restaurant",
+                "url": "https://m.facebook.com/alJalboatSeafood/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnZP1iD9Nhi4-2dVcdNNjF81HL6W55GENj-Pfi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moda Mall",
+                "category": "Shopping Centre",
+                "url": "http://modabahrain.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-vjEiaDFE79Flspq_EhljrCDuP4LkmW1HOOqa=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Fahd Causeway",
+                "category": "Bridge",
+                "url": "https://kfca.sa/#/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUaaj8A4mbrE_ze7_AhqO9CZR2HHmHVdtSsF7k=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Mercado Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.elmercadomall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmOl12Y6lYuncrlSXNCCcu-alNBMX9m8oeC29z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall of Dilmunia",
+                "category": "Shopping Centre",
+                "url": "http://mallofdilmunia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZpfeGtzc8xwDaVtXO2g49juqscQWagkn2_QZs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oasis Mall - Juffair",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTajac4rflEhmhbiqeIczIYw-OeHDuvU_HomOS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juffair Square",
+                "category": "Shopping Centre",
+                "url": "https://juffairsquare.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUPm5tX-DHdOl4TRYOWU3FDoRR-Nuy5lZUMvyg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tree of Life",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtVWYvx9XBuoaWKa0RdKAINuXYr6zTdN_bbxqg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seef Mall (Muharraq)",
+                "category": "Shopping Centre",
+                "url": "http://www.seefmall.com.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZsS5pxf6B5Jo5DpZ1tiAgLxNxiSyGnqRYM5uV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Al Baraha",
+                "category": "Shopping Centre",
+                "url": "http://www.souqalbaraha.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKOAdY84GbQvCFzECGGENJb_WJWuw_pL64QJEg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Estiqlal Jogging Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgLd5PofyYONHSfacb_Ihjq1pQKYlW4Cwhblxd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVCgGAZhrr4qWWVBCmcD7M9EdcsjbRg1UzVF9s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hala Plaza",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLSGEN_Wlx-6bHEz_Vu6DXTBN4DeOnM8fs_ipY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saar Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.saarmallbahrain.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvK6plaWFVoUeqCZFd0oIwBPXNxbIWhSOKozWy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Aali Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.alaalimall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKohuAo2utFvhCO2F8uilaY9N6rEYgaVrVFFeR=w148-h148-n-k-no"
+            }
+        ],
+        "Al Muharraq": [
+            {
+                "title": "Seyadi House",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKRgncH1ZoCeYjXhrceXR80hv8yZcGHk46TUOs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al Bahrain",
+                "category": "Historical landmark",
+                "url": "http://culture.gov.bh/ar/visitingbahrain/cultural_tourism/10top_must_dos/Name,10129,ar.html#.XAjVPmlRVxd",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfYTJZb7VINNxVLFHOjcMMY6afMVzSBv31XFeb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qala't Bu Mahir",
+                "category": "Historical landmark",
+                "url": "http://pearlingpath.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPl-HnYDdKDCZqvk9w37xWTMEgbIun2Chk5P7JL=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Lagoon Park",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgl5f4wcpVG00u7E1CkDX15BRmYBDOZMH_MBaR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Fateh Grand Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNi-oKUQ2BXLa4a2M1gczJoEQFD1qYS08QFiYq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amwaj Islands",
+                "category": "Colloquial area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjGaT67fDhx2KGufsAge2C6UG1wXElVdykNlgq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sa'ada Sea Front",
+                "category": "Tourist attraction",
+                "url": "https://www.edamah.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOasBABeyHzT2chZgorGhDgLssc_vfwmWHP_VyF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain Dino Park",
+                "category": "Theme park",
+                "url": "https://www.instagram.com/acoevents.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMp4DJyi9xssWTNmIUP0_pd-oCCQTD5hmhprdzN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Jazair Public Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPCKmoDGHXlF6TR5Nx4lKvApSqUnVsMXdQFK-j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seef Mall (Muharraq)",
+                "category": "Shopping Centre",
+                "url": "http://www.seefmall.com.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZsS5pxf6B5Jo5DpZ1tiAgLxNxiSyGnqRYM5uV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Information Center - Shaikh Ebrahim Center",
+                "category": "Corporate office",
+                "url": "https://shaikhebrahimcenter.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOd9mEkh89rX3oWe086P1KoQyEr4QGyQRsBhLJZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain National Museum",
+                "category": "National museum",
+                "url": "http://www.culture.gov.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzSsK-nNtZqbHWupmTRGj7la1AWVmbPjYU7a3i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sakhir",
+                "category": "Desert",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEfcXvE8toUqpFR4Klt3ij6b43LYgUGIqJ0SiP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arad Fort",
+                "category": "Fortress",
+                "url": "http://culture.gov.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBRJKR5Z3EHQSGymaPQcMopdoafe82VhSEi30y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jabal ad Dukhan",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAaHc8mY-oA7G1heGvnk0PuD5ZqsUxHQy0sPuO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malkiya Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvHn6oYO98yx2uOhebtLMARVmEKcKZwLq5P1tS=w148-h148-n-k-no"
+            }
+        ],
+        "Ar Rifā‘": [
+            {
+                "title": "The Avenues",
+                "category": "Shopping Centre",
+                "url": "https://www.the-avenues.com/bahrain/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOD0-Avx3HnFq4TzGjhNycP_djP9O3C7LOUccy4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain National Stadium - RIFFA",
+                "category": "Stadium",
+                "url": "https://bfa.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4HAVkzcIoMcnqEiSOr5KBfQJB7wWnevpxGgqN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seef Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.seefmall.com.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQwRpBtSdZ4Lqk1My8vx0a7-PWNlc2AQEDPDf4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Bab Al Bahrain",
+                "category": "Market",
+                "url": "http://www.culture.gov.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP61mKAbMrLsQTHwp95nhmB1IsHM8Atcs3ibhw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oasis Mall - Juffair",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTajac4rflEhmhbiqeIczIYw-OeHDuvU_HomOS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Khamis Mosque",
+                "category": "Historical landmark",
+                "url": "https://culture.gov.bh/ar/visitingbahrain/cultural_tourism/Destinations/Name,10321,ar.php#.YWoIoKQWoWM",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO7GLKlFeHONSXpGahDalM3BLPrr16CQnB8Gv8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Black Beard Barbershop",
+                "category": "Barber shop",
+                "url": "https://instagram.com/blackbeard_bh",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbBDcHz1xFVTI89jNAGs_JovddSHwMzbFgV41z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beit Sheikh Isa Bin Ali Al Khalifa (House)",
+                "category": "Point of interest",
+                "url": "http://www.culture.gov.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuWJjEaRkFWd8sk7wOwKydi08ARSZoR113h93c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Military Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPXsXd_kukyL8A0pasGJhvYCwzTpO8G3Vs4lOt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khalifa AlKubra Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM38HtyIQbVXJnrJ4M04Uo-EqQGGC8aB0ejLLtf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alba Club",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjPolWwA0Nz4BJb1t5kaspVd1zz7PLCk0PALpw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain National Charter Monument",
+                "category": "Monument",
+                "url": "https://m.facebook.com/BahrainNCM/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4Wbpf8o_h4yWgNLCgfonuoNfVHXredZEZYHw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riffa Walk Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMCbwQZwdzdN5t-Uszq7xUD17tev3kp1hmBrls=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hunayniyah Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS7XQuzMwgq5hnZjTh2LHbqediAZf4OzoZnfSs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al Bahrain",
+                "category": "Historical landmark",
+                "url": "http://culture.gov.bh/ar/visitingbahrain/cultural_tourism/10top_must_dos/Name,10129,ar.html#.XAjVPmlRVxd",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfYTJZb7VINNxVLFHOjcMMY6afMVzSBv31XFeb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain International Circuit",
+                "category": "Racetrack",
+                "url": "https://www.bahraingp.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjHRfUFulewkZYBH1tC6Ha1pqOHljd30mrVpec=w148-h148-n-k-no"
+            }
+        ],
+        "Dār Kulayb": [
+            {
+                "title": "Masterpiece Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmqe6OGVFcRezvESG_-LbQjNxf-gJ-PiDlZMn_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moda Mall",
+                "category": "Shopping Centre",
+                "url": "http://modabahrain.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-vjEiaDFE79Flspq_EhljrCDuP4LkmW1HOOqa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juffair Square",
+                "category": "Shopping Centre",
+                "url": "https://juffairsquare.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUPm5tX-DHdOl4TRYOWU3FDoRR-Nuy5lZUMvyg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Enma Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.enma-mall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK1R-agk4addV_6MGzuppHrhFJOgQOZQVniu18=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tree of Life",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtVWYvx9XBuoaWKa0RdKAINuXYr6zTdN_bbxqg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Al Baraha",
+                "category": "Shopping Centre",
+                "url": "http://www.souqalbaraha.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1xNQvEistXlInJh4zCGXOV6I8FB93HDlYZH0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seef Mall (Muharraq)",
+                "category": "Shopping Centre",
+                "url": "http://www.seefmall.com.bh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZsS5pxf6B5Jo5DpZ1tiAgLxNxiSyGnqRYM5uV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVCgGAZhrr4qWWVBCmcD7M9EdcsjbRg1UzVF9s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mohammed Bin Faris House for vocal Music",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpu_bFamzAog74xJuDenqne7SQMI7lCCLF-P-6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saar Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.saarmallbahrain.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvK6plaWFVoUeqCZFd0oIwBPXNxbIWhSOKozWy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gold city bahrain مدينة الذهب في البحرين",
+                "category": "Jewellery Store",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYFKYBd53g2-AkRwO8ImQnGrCzAMaxZbz_Latr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marassi Beach",
+                "category": "Beach",
+                "url": "https://www.marassialbahrain.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaS6QY53PKYqgQxteGskhC-Z0eUAX2-W7-RCXN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manama Souq Building",
+                "category": "Investment company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6XQk_4O9IBurZz96lQm2oW0IpAj3qFt43McWk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antibes Salon",
+                "category": "Barber shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx_M9MLZeqe-C8oOvxIeF-NunR1yw5_-qK_xs8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahrain National Theater",
+                "category": "Concert hall",
+                "url": "https://www.culture.gov.bh/ar/visitingbahrain/cultural_tourism/10top_must_dos/Name,10533,ar.html#.YpkqRBaEYWM",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcLkBsw_hfk9QsLO4mKSJ42TiCsJGsQieAfXXc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Jazair Public Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPCKmoDGHXlF6TR5Nx4lKvApSqUnVsMXdQFK-j=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "The Lost Paradise of Dilmun Water Park",
+            "category": "Water park",
+            "url": "https://www.lpodwaterpark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOnlyxWgXmW113ZM_nsWmaALAd6WEgvy9sGyg6p=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bahrain International Circuit",
+            "category": "Racetrack",
+            "url": "https://www.bahraingp.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjHRfUFulewkZYBH1tC6Ha1pqOHljd30mrVpec=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Avenues",
+            "category": "Shopping Centre",
+            "url": "https://www.the-avenues.com/bahrain/en",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOD0-Avx3HnFq4TzGjhNycP_djP9O3C7LOUccy4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bahrain Fort",
+            "category": "Fortress",
+            "url": "http://culture.gov.bh/en/visitingbahrain/top10_must_dos/Name,9969,en.html#.WC8uCjwbKYQ",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOLpp4G5CtTD2ZzqVd36df_S5xDvTWbh1i-cgRT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bahrain National Museum",
+            "category": "National museum",
+            "url": "http://www.culture.gov.bh/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPzSsK-nNtZqbHWupmTRGj7la1AWVmbPjYU7a3i=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Fateh Grand Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPNi-oKUQ2BXLa4a2M1gczJoEQFD1qYS08QFiYq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Seef Mall",
+            "category": "Shopping Centre",
+            "url": "http://www.seefmall.com.bh/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPQwRpBtSdZ4Lqk1My8vx0a7-PWNlc2AQEDPDf4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Beit Al Quran",
+            "category": "Museum",
+            "url": "https://culture.gov.bh/en/visitingbahrain/CulturalTourism/10top_must_dos/Name,10135,en.html",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP4zfeZr4g77Hd3YJea9tdkKhXZuP4Qzp5U-9Gs=w148-h148-n-k-no"
+        },
+        {
+            "title": "Souq Bab Al Bahrain",
+            "category": "Market",
+            "url": "http://www.culture.gov.bh/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP61mKAbMrLsQTHwp95nhmB1IsHM8Atcs3ibhw-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tree of Life",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNtVWYvx9XBuoaWKa0RdKAINuXYr6zTdN_bbxqg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sheikh Salman bin Ahmed Fort",
+            "category": "Castle",
+            "url": "http://culture.gov.bh/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPogy2tREhMxpRSp_NgfiHUyA_CIIeYZNw5m1s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Manama Souq Building",
+            "category": "Investment company",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP6XQk_4O9IBurZz96lQm2oW0IpAj3qFt43McWk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Manama",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOe5dW-FFsvoNWDqMG3dasazfcbC9MAJvAGr9pY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Areen Wildlife Park",
+            "category": "Wildlife park",
+            "url": "https://alareen.bh/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOzHbCZn83Y962isSI8uVGGSVGZ1KYrRa4ycj7L=w148-h148-n-k-no"
+        },
+        {
+            "title": "Reef Island",
+            "category": "Property Developer",
+            "url": "http://www.reef-island.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMTXlqevTw7E9p-By5m6MkOZ0OSm4OM6SniwcU3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Dar Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNy3R1gC_UUKQYYqSMfMtZEtOLM3OBtmjFG9feL=w148-h148-n-k-no"
+        }
+    ]
+}

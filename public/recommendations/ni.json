@@ -1,0 +1,932 @@
+{
+    "cities": {
+        "Granada": [
+            {
+                "title": "Parque Central de Granada",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAJBFNH8yj4DtnJpZb8EcuhZ8yXqshBUKT1DrB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chocolate Museum of Granada",
+                "category": "Museum",
+                "url": "https://www.chocomuseo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnKKMDFhA8JAzcOVbM74FLlDwcD-BaDkWXzioR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Immaculate Conception of Mary Cathedral Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYt_gKGzgeO0a8At3pQF2OhlBA536_IFLT4knS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Granada Malecon",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3gzyXcjegCzqZcHspHRZMvGhwsNpTy7nOXP0D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chapel Maria Auxiladora",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFXrWGYyNFDItiqALIrW6BslhvxKRl3hPPnK8j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Xalteva Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmkQGDsCp2smiEChJ75ZLxhQqs7gUm9jiCr3sq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Selina Granada",
+                "category": "Hostel",
+                "url": "https://www.selina.com/nicaragua/granada/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNArTnuh1fliOxJ2SzR7Y75DSi4b3udP5UDZ7r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia Xalteva",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiz5suv5N8tUVFtYumtN99jZzK1V3b-slvw1QS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Mercy",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8wu9y_8yrQDZ4IMO_GiObP0_bm_MBGAoh7RI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Granada Pier",
+                "category": "Port",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaBpdnpIXR2bgciy2Y24IgpX4U81AnnvwoHFfE=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of the Three Worlds",
+                "category": "Cultural centre",
+                "url": "http://c3mundos.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNc93WvKUDfABvgcwCXMaXtj7uXGrQJ7z9SSXwJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Polvora Fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIb4vd11V0yc2kdPTk_qGSqM_X3qCjGsmN6Be7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cementerio Municipal",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqAcy-PuCV3z6fCp2wP3T5Pe3w4_KeRKG6IsSc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nicaragua Butterfly Reserve",
+                "category": "Tourist attraction",
+                "url": "https://nicaraguabutterflyreserve.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtAprAfAlHouy5e8hI64G6xoMVczq1yd8DBzBQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Calzada",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO77KdIwmbZyiohrJzEKiJtXzuCgZYnLCUWAOD3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Islets of Granada",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJZ5ydV8qy36zjaB9meq9uOSe8JFbDSeBjtT8Z=w148-h148-n-k-no"
+            }
+        ],
+        "Nueva Guinea": [
+            {
+                "title": "Immaculate Conception of Mary Cathedral Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYt_gKGzgeO0a8At3pQF2OhlBA536_IFLT4knS=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Coyotepe Fortress",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsY5Jw0V0ThcxA861wh2GyxVsWpwkWyJIGE4oa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Concepción",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6QvVoW07yhOdt5uY85cMaKCjuGpUXTARlccWv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Managua",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD1a1VBl5dzs5k3vKYnPn_KSSALlC5CaAEjiZA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catarina",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5eLQ0vO7JSBCZbC45lLzmADhYIjalLU94OKqW=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Juan de Oriente",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfQV0jnqovELvfB06u0qC__ubzw8hFjPneJIxo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Mercy",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8wu9y_8yrQDZ4IMO_GiObP0_bm_MBGAoh7RI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chocolate Museum of Granada",
+                "category": "Museum",
+                "url": "https://www.chocomuseo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnKKMDFhA8JAzcOVbM74FLlDwcD-BaDkWXzioR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coyotepe",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOm4EgFCedauAVxOANfvUbysGm47bxzCxbGHN7w=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Juan del Sur",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhKLhnWPyrUKcvGxaq0rS7oV07iCS1R73doIBr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador de Catarina",
+                "category": "Observatory",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAYSmgM0SDG4iFcVNfQRIpT2gxkkdliy-_zpsR=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Castillo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNweJqvVY4v4Y9r1vylCQR90HkeAeMtQpeHsdGq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corn Islands",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgEiktdA02NxMYs6A8eEbJm0KJhoWF06V-00UD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Volcán Masaya",
+                "category": "Park and Garden",
+                "url": "http://www.pnvolcanmasaya.gob.ni/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-ReXBL2VafxfAgvz21f7gMcRVPBWjh5hul544=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Nicaragua",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlBg7QbDwVmv0BR8Kj_Lz_VxUL96jJemrduV3G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masaya Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt5t5atxj4Wv21BvzWEUeZO4cm1CFvgJO6E-Dk=w148-h148-n-k-no"
+            }
+        ],
+        "El Viejo": [
+            {
+                "title": "Hotel Farallones",
+                "category": "Hotel",
+                "url": "http://www.faralloneshotel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM94l-cFFGkv8p7Vl-2OCIj29RFcRay1lgalYKQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chocolate Museum of Granada",
+                "category": "Museum",
+                "url": "https://www.chocomuseo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnKKMDFhA8JAzcOVbM74FLlDwcD-BaDkWXzioR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Volcán Masaya",
+                "category": "Park and Garden",
+                "url": "http://www.pnvolcanmasaya.gob.ni/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-ReXBL2VafxfAgvz21f7gMcRVPBWjh5hul544=w148-h148-n-k-no"
+            },
+            {
+                "title": "Granada Malecon",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3gzyXcjegCzqZcHspHRZMvGhwsNpTy7nOXP0D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Xalteva Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmkQGDsCp2smiEChJ75ZLxhQqs7gUm9jiCr3sq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reloj Público de Diriamba",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqcKyY3gtpmbM0tSLTWS7opKKTPAgWgsARvPJ4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Granada Pier",
+                "category": "Port",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaBpdnpIXR2bgciy2Y24IgpX4U81AnnvwoHFfE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mezquita de Managua",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrGj6L53koL_A5WULKHceK2MTLZmpd11Ipam29=w148-h148-n-k-no"
+            },
+            {
+                "title": "Islets of Granada",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJZ5ydV8qy36zjaB9meq9uOSe8JFbDSeBjtT8Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puerto San Jorge",
+                "category": "Seaport",
+                "url": "http://www.epn.com.ni/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDqAQKOwJHtOmLSy_TsSgaO3MUJIJ4EAsB5a-f=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Juan de Oriente",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfQV0jnqovELvfB06u0qC__ubzw8hFjPneJIxo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ortíz Gurdián Foundation Art Center",
+                "category": "Art museum",
+                "url": "http://www.fundacionortizgurdian.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnjAmM3pSJF3lQBM_izBl2NW2FPnx7KeT9hehA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Negro",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfaXZZpOoj4kGDG9skRddi-DbWsxzFtxYpfSdR=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Coyotepe Fortress",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsY5Jw0V0ThcxA861wh2GyxVsWpwkWyJIGE4oa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador Calvary",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOI4sNkD_xB2zoJnR9kuHdrfoU2eWqub_i4tZAO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apoyo Lagoon Natural Reserve",
+                "category": "Water",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNW36lRCPtSdu0jW1lmU-QFuSxP05TOb1aOU557=w148-h148-n-k-no"
+            }
+        ],
+        "Jinotega": [
+            {
+                "title": "Peña de La Cruz",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNiBhITjLh7FxS1lTQrLiRCzVf95k0qmGjkyXI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento a la Virgen",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSS-ODhrmHNuMio5ngF7GLMPNfMmg_dCi-uTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Juan Bautista Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONo0pwUBoW2-zmzInTqDgs-WXDzur09YdiS_ok=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Rafael Del Norte",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNc18v-oGblVP4-sLrGP7t5htAqk3OUolAgbc04=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apanás Tours Jinotega",
+                "category": "Tour operator",
+                "url": "https://es-es.facebook.com/apanastours.jinotega",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYgFQUSozZg67Weyp_V2YVPKI5WpwBKKy544NF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natural Reserve Peñas Blancas",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnzHV2fJmo7XJu0_bZijyLw8iefxMLq_BYJSI2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eco Hostel La Fundadora",
+                "category": "Hostel",
+                "url": "http://www.fundadora.org/",
+                "img": "https://lh5.googleusercontent.com/proxy/dUWI7iI4ZvCVpeCL5j3rlIMw8GpwwOJ2E1-aq750l03Qzlgt9lVFRPG-VVteNxCNtvSk4KtafPbSQ90ZqyS_HVjNQKyP9b6OcSLdkZQmvm-Gb-pVvlOAwR42nfT8l05v0HLg8tkE1U4Z-4j1MGKUTaSmWnN8zQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Canopy Tour La Brellera",
+                "category": "Farm Stay",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMb3WYGvF6cWiBeG_A-J0Jp_to53VSd_fPs15pF=w148-h148-n-k-no"
+            }
+        ],
+        "Managua": [
+            {
+                "title": "Parque Japón Nicaragua",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtdw3i_3XjU8YN_6FB_1p24lg9Myq2X38aTJqn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Nacional Rubén Darío",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe366aqd5OEHUWPbYbH1_sXcL9pANUcgc6hlBS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral Metropolitana de Managua",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4qm3dAB-C3aBW8pkA8GYRd-ffPXc3qD9LupGV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Revolución",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD-DylkxLV-qRIl2V37wP6Nfgzk6GKUXvOLstC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza La Fe",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOozSIz1GVW8z2eF-oWm8x4bMwLCbGdVX1wJbF1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santiago of Managua Cathedral",
+                "category": "Catholic cathedral",
+                "url": "https://www.facebook.com/pages/Antigua-catedral-de-Managua/154545004578818?fref=ts&refid=12&ref=opera_speed_dial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrfsfGAEAw2pUUrn5OQvnl4LjgVZ6cjOtAoRQ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Nicaragua",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP0O8k05ZCKWDdyTDYBzOFIrBbiY1zNlSY2Zwh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercado Roberto Huembes",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJny3Elr5XV9zaSA48K8S5ZfTPgmM2IibItqf6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reserva Natural Laguna de Tiscapa",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZam6qHvU1mDHw4zAuGl4yDtBr9xx7sPiv79S7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Luis Alfonso Velásquez Flores",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsKEy-oQfVnKo3Ii_xSegewh_lDq9K56HcO-XK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Nacional",
+                "category": "Museum",
+                "url": "http://www.inc.gob.ni/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSqNF77DzZ4u7OR7td8djndBhv2oZIBqpZ98Sr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Francis of Assisi's Church",
+                "category": "Church",
+                "url": "http://parroquiasanfranciscobolonia.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoxG65KSWe9qM_-HJ6G8uvlO2er8u3R8L6zrkz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Comercial Galerías",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBmOigU_wX8xEIrpvFfSu7D8JDLRkDsT6VHU6W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soberanía National Stadium",
+                "category": "Stadium",
+                "url": "https://m.facebook.com/EstadioBeisNi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMoU_oltMqHh5KU_O_I1l1ZTrL51g4z-QR74FHs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loma de Tiscapa",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPf9urymGYmek2W-_mD6vrV7ujlt2cq8ePcf0oI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Restaurante Summer Salvador Allende",
+                "category": "Seafood restaurant",
+                "url": "https://www.facebook.com/Restaurante-Summer-Puerto-Salvador-Allende-100066775488756/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkVMw_-J6iCo1vs0pqZYm-LCJeUgf6s_RoQ91o=w148-h148-n-k-no"
+            }
+        ],
+        "León": [
+            {
+                "title": "Cathedral-Basilica of the Assumption of the Blessed Virgin Mary",
+                "category": "Catholic cathedral",
+                "url": "https://www.visitleon.info/catedral-de-leon.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMA_tlZv9DqVUsRw_b_PpI_MTg8ZgK0hUVUYPdM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Recollection",
+                "category": "Catholic church",
+                "url": "http://www.visitleon.info/iglesia-la-recoleccion.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwAzSmG8YOwLG8e9ZXnL0pXgHWsV1gkG3zWXGZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ortíz Gurdián Foundation Art Center",
+                "category": "Art museum",
+                "url": "http://www.fundacionortizgurdian.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnjAmM3pSJF3lQBM_izBl2NW2FPnx7KeT9hehA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de la Revolución",
+                "category": "Museum",
+                "url": "https://www.visitleon.info/museo-de-la-revolucion.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLIj_YXCnhUgAKeziS8JwuGmZiKnI-Ye-HnjZW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Traditions and Legends",
+                "category": "Museum",
+                "url": "https://www.visitleon.info/museo-leyendas-tradiciones.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEw-5rbEtqPZOdJcRnh2_kdrqfVbpkX0IFSJx1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Parque Central de León, Juan José Quezada",
+                "category": "Park and Garden",
+                "url": "https://www.visitleon.info/parque-central-de-leon.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYeuVbsh0qt746BNE89FEeUtmtXQB4k9Fp0efy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Rubén Darío",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPLn9UWs5a0qsINfHhe1GICqh7CzRxfDQyjdd5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruben Dario Registry Museum",
+                "category": "Museum",
+                "url": "http://www.visitleon.info/casa-museo-archivo-ruben-dario.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMw51mcuYc7816BU8mFttoqPEHqxRXc_Hiytg8E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruins of Old Leon",
+                "category": "Tourist attraction",
+                "url": "https://www.visitleon.info/ruinas-leon-viejo.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPm_7TrLM6hP53PkL4x4huqOYBvzPsAAqBXgQ4e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Peñitas",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkUit2qpInzV0_AyqL8-62WF-yCFUOIvoZMT2p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Negro",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfaXZZpOoj4kGDG9skRddi-DbWsxzFtxYpfSdR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Telica",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGlfpAeliWrxfxIs2tPLDzG-OGdT_THoq85w9b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Momotombo Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiMgR99ODxU7_nO3kudL-8JLGUQvBv-8SESW3U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Poneloya",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM375Er-2n4HJX8P7EiJIXon6-8CR2rcl2O3sB4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Peñitas",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOByIWfePyCK8O-kQ5VeiNpmQC-nArxuNUhTwai=w148-h148-n-k-no"
+            }
+        ],
+        "Estelí": [
+            {
+                "title": "Our Lady of the Most Holy Rosary Cathedral, Estelí",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN97UFxJcnZHbKsx36Ct0Tu9BjI9sGeYKQnSOoY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Artesanías La Esquina - Handmade crafts",
+                "category": "Souvenir Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg8239_e7MFLuGofM4VoXTbIiYMPgOrAu4k_qr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Soccer Stadium",
+                "category": "Stadium",
+                "url": "http://www.realestelifc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWCNy_wwmEkBtlwHvz0oOZOHSP4SweCV2jkzEy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Artesanías Jossiell, handicraft shop",
+                "category": "Handicraft",
+                "url": "https://artesanias-jossiell.negocio.site/?utm_source=gmb&utm_medium=referral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJIZ16z-xC5HuYOC3PQwmPdUYa07WFzgosithT=w148-h148-n-k-no"
+            },
+            {
+                "title": "16 de Julio, Esteli Centro Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSyw1sASaEKlC1L6AFe5J5uIMmFMkPFU80lA7e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Municipal de Esteli",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXF3Kg4XFDahz9YMKxz9fAezVzOUpH7v2AwEbL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Parque Domingo Gadea",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOORTct1guBlGapkZcItOi7G_gwvlansLEGpfqt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Familia y la Comunidad Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNCsh8q_6Niyx0T-91_Thhc4J-oe26uIjAYHw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pintura La Veranera",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAoaktLkL_9yjftGG86AaY7zWN-Jkl_5gjoKtm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spanish School Nicaragua",
+                "category": "Language school",
+                "url": "https://spanishschoolnicaragua.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSX9R58f7J_ZjriyNVQZl-iIEge57KUZnaVB-T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia La Hermosa A/D",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJNKOgWtaC1l894zEvpkKuU0E2nmm7vjuuN0YE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barrio Esteli Heroico",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQAT4JwBr19G6LejvN2vMQ1Le0RmUvZrhN18_c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Replay Esteli",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg3VTwATWObUVOhbBNFYMVa6GdTw-xa-MjTI67=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tisey Estanzuela Natural Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9BTcNBbkh7_zE8FeiiWCMrqO0SQlii94-Eum-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Tisey",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5QSi1KVFwO5KX8045CgPSeXdzgKaFmEAWbLCp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reserva Natural Miraflor",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjw8di9tW10R4PSg0HMRmpRJONUK0AAx4helSY=w148-h148-n-k-no"
+            }
+        ],
+        "Chinandega": [
+            {
+                "title": "Plaza Santa Ana",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIt3e-NYKjWCl0Py5upaJOk8HEg1Vo2o6jPPJW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parroquia Santa Ana",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjqZF11xzrh62Y6S2tT70WSEg4hWSqW2KEOY1K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dilectus",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjrd5bO-CM3x9z5DJa4c4l5dD4GWkdPeULP-Ta=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nicaragua Tours Team",
+                "category": "Tourist Information Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9cTs9wTqLRsutuy-ADMI8dpgzFQKAr8xKibWr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rotonda Los Encuentros",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwvE1Gqs8ZsHKB82NW6N1scKOaL9hOTs6_uCZ9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Efraín Tijerino Mazariego",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5wjqG5nk2yvjxZSAN-_8JIcdtPy3Z0ZnL26fh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chorotega-Nicarao Enrique Mantica Berio D Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkFlHHJ_AuMgGdpJsSMFixVxdBHEMT_ECJC9fC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pinolero Tours Nicaragua",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Ex-ZvBIBo5oJLwfFeKjwFR7Co1X0oDcpyzbs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kamilas Tours",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmeGPBir4LwGcuh8wzDwrHd0jn7JYgu3aIdT5O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flor de Caña Tour",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ydjivC9W-00VqJW_DR1r1-ndDoWctX3am34y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cosiguina Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVtoRdPGu8J9FP_XxgF_niLGGNPLXUJlZk_CwR=w148-h148-n-k-no"
+            }
+        ],
+        "Matagalpa": [
+            {
+                "title": "Mirador Calvary",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOI4sNkD_xB2zoJnR9kuHdrfoU2eWqub_i4tZAO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matagalpa Tours",
+                "category": "Travel Agent",
+                "url": "http://matagalpatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVCjnBuOYdsY9XGHbchDwY7Nvw-J5vWn1bmcJ5=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Pedro Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrMqjHOwIIcC8fPrlWkLuaZy87AZmiWpoRa-ob=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Calvario Ecological Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPyKoGqb5f1eV5mPbnVA0m8oEgawDK8IEIk0pp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Selva Negra",
+                "category": "Resort hotel",
+                "url": "http://www.selvanegra.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtD55-aUisTvFvLKoOlfl1tFCx5itd_aAtxaKZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Agualí Biological Station",
+                "category": "Hostel",
+                "url": "http://www.aguali.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9fs0ZbP_vLN3JjS8ItIQCkH5DmiCHwKXlfVjR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Los Monos",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPllz5JdBNpVQdd57bSt9KEQUIUmusKgOLUGddm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Apante Natural Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFz1eQHge4ievh7lwiqmxWAj0zP1a8mikkomPT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Municipal Chale Solís",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0pecAZi0d1UL3pMznGZ40UogrihFjr1513KTR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Selva Negra",
+                "category": "Restaurant",
+                "url": "http://www.selvanegra.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPslChUDkFP70nIeG4Ev6wNqGKhx0jw88jbg3RK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Waterfall Moon",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpEpadnF7SRejQz2FPArU7Zp3MWqXg1UQmx6EQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cascada Santa Emilia",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHSejOaWZ_2mlvuYPP6cNJJ4N8sObl7jtiZYcD=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Castillo del Cacao",
+                "category": "Chocolate factory",
+                "url": "http://www.elcastillodelcacao.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSjrshccJtI9DlyactI_yFig-pe-2ewVILdG5q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Selva Negra",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8l5NrQOZOz0owKpYbKOK2HQLFi_WXEwVHzQWA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Municipal Sebaco",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUfgjVxbeoB6I37cLOhHNZgP3KZqkuCo1suvk4=w148-h148-n-k-no"
+            }
+        ],
+        "Mateare": [
+            {
+                "title": "Cristo de La Misericordia",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrpjiYv7idt6Ejs2tnySOJesVvx4D2txzxTF0T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral-Basilica of the Assumption of the Blessed Virgin Mary",
+                "category": "Catholic cathedral",
+                "url": "https://www.visitleon.info/catedral-de-leon.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMA_tlZv9DqVUsRw_b_PpI_MTg8ZgK0hUVUYPdM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reserva Natural Laguna de Tiscapa",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZam6qHvU1mDHw4zAuGl4yDtBr9xx7sPiv79S7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Mercy",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8wu9y_8yrQDZ4IMO_GiObP0_bm_MBGAoh7RI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vapues Travel",
+                "category": "Tour operator",
+                "url": "http://www.vapues.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMux2Jw15uMBIwerAQgACabmtuf1ulVVY2UySHW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dive Nicaragua",
+                "category": "SCUBA instructor",
+                "url": "http://www.dive-nicaragua.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnXpklogVjsbDSP_y9hMNITkvonyHjcWG2OWF2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Concepción",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6QvVoW07yhOdt5uY85cMaKCjuGpUXTARlccWv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reserva Natural Miraflor",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjw8di9tW10R4PSg0HMRmpRJONUK0AAx4helSY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Managua",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD1a1VBl5dzs5k3vKYnPn_KSSALlC5CaAEjiZA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Esteli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMzKJIWL3q6S18CpvgIfJdu-kIfvNNAOOVwAA=w148-h148-n-k-no"
+            },
+            {
+                "title": "León",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPq95v6Qs7zrphuYAkoOMlY03r9hVtFWPEPwcEa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chocolate Museum of Granada",
+                "category": "Museum",
+                "url": "https://www.chocomuseo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnKKMDFhA8JAzcOVbM74FLlDwcD-BaDkWXzioR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Nacional",
+                "category": "Museum",
+                "url": "http://www.inc.gob.ni/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSqNF77DzZ4u7OR7td8djndBhv2oZIBqpZ98Sr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Volcán Masaya",
+                "category": "Park and Garden",
+                "url": "http://www.pnvolcanmasaya.gob.ni/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-ReXBL2VafxfAgvz21f7gMcRVPBWjh5hul544=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ortíz Gurdián Foundation Art Center",
+                "category": "Art museum",
+                "url": "http://www.fundacionortizgurdian.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnjAmM3pSJF3lQBM_izBl2NW2FPnx7KeT9hehA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masaya Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt5t5atxj4Wv21BvzWEUeZO4cm1CFvgJO6E-Dk=w148-h148-n-k-no"
+            }
+        ],
+        "Masaya": [
+            {
+                "title": "El Coyotepe Fortress",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsY5Jw0V0ThcxA861wh2GyxVsWpwkWyJIGE4oa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Main Market",
+                "category": "Market",
+                "url": "https://mercado-municipal-ernesto-fernandez.negocio.site/?utm_source=gmb&utm_medium=referral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhJLuBHGoZ20CwzaZHLh7jSqeuLwQ9Rw5gEYVD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador de Catarina",
+                "category": "Observatory",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAYSmgM0SDG4iFcVNfQRIpT2gxkkdliy-_zpsR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masaya Central Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO87KwzESQixmQB3OosBHwmWFnBYSeyd7X-o4A=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Mercado Viejo Craft Market",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhFVhfMCdeKofwvP5nWdUO7swjsr2o7yFpDsku=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guitarras Zepeda",
+                "category": "Guitar Shop",
+                "url": "http://www.guitarraszepeda.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNu35XzMSzZsuZNAN2M7S3X-hxK2yOEG4VuqvH7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coyotepe",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOm4EgFCedauAVxOANfvUbysGm47bxzCxbGHN7w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Volcán Masaya",
+                "category": "Park and Garden",
+                "url": "http://www.pnvolcanmasaya.gob.ni/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-ReXBL2VafxfAgvz21f7gMcRVPBWjh5hul544=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masaya Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt5t5atxj4Wv21BvzWEUeZO4cm1CFvgJO6E-Dk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apoyo Lagoon Natural Reserve",
+                "category": "Water",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNW36lRCPtSdu0jW1lmU-QFuSxP05TOb1aOU557=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Parque Nacional Volcán Masaya",
+            "category": "Park and Garden",
+            "url": "http://www.pnvolcanmasaya.gob.ni/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM-ReXBL2VafxfAgvz21f7gMcRVPBWjh5hul544=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cathedral-Basilica of the Assumption of the Blessed Virgin Mary",
+            "category": "Catholic cathedral",
+            "url": "https://www.visitleon.info/catedral-de-leon.html",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMA_tlZv9DqVUsRw_b_PpI_MTg8ZgK0hUVUYPdM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Central de Granada",
+            "category": "City park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOAJBFNH8yj4DtnJpZb8EcuhZ8yXqshBUKT1DrB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Teatro Nacional Rubén Darío",
+            "category": "Performing arts theatre",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPe366aqd5OEHUWPbYbH1_sXcL9pANUcgc6hlBS=w148-h148-n-k-no"
+        },
+        {
+            "title": "Reserva Natural Bosawás",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPf7nNvPvfsKbn2wYK0YRBm4KK6hvc0XCTGDx31=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cristo de La Misericordia",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNrpjiYv7idt6Ejs2tnySOJesVvx4D2txzxTF0T=w148-h148-n-k-no"
+        },
+        {
+            "title": "Reserva Natural Laguna de Tiscapa",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOZam6qHvU1mDHw4zAuGl4yDtBr9xx7sPiv79S7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chocolate Museum of Granada",
+            "category": "Museum",
+            "url": "https://www.chocomuseo.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPnKKMDFhA8JAzcOVbM74FLlDwcD-BaDkWXzioR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Managua",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMD1a1VBl5dzs5k3vKYnPn_KSSALlC5CaAEjiZA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ometepe",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNLMQFMooMUh4-sScYsEM4FNQArY4ZK2qOflMgB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mombacho",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKAhAIYAxpCMD3Qyj_bx1IPMsCB-w3ahhP1Ia7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Islets of Granada",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOJZ5ydV8qy36zjaB9meq9uOSe8JFbDSeBjtT8Z=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Nicaragua",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPlBg7QbDwVmv0BR8Kj_Lz_VxUL96jJemrduV3G=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ortíz Gurdián Foundation Art Center",
+            "category": "Art museum",
+            "url": "http://www.fundacionortizgurdian.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNnjAmM3pSJF3lQBM_izBl2NW2FPnx7KeT9hehA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cerro Negro",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMfaXZZpOoj4kGDG9skRddi-DbWsxzFtxYpfSdR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Palacio Nacional",
+            "category": "Museum",
+            "url": "http://www.inc.gob.ni/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPSqNF77DzZ4u7OR7td8djndBhv2oZIBqpZ98Sr=w148-h148-n-k-no"
+        }
+    ]
+}

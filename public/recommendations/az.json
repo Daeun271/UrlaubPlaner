@@ -1,0 +1,1037 @@
+{
+    "cities": {
+        "Baku": [
+            {
+                "title": "Heydar Aliyev Centre",
+                "category": "Cultural centre",
+                "url": "http://heydaraliyevcenter.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvhHLRYHmxbPPDl1XUJBFaOhEKoG52C3KDQZQo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Icherisheher",
+                "category": "Historical landmark",
+                "url": "https://icherisheher.gov.az/az",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxdEedYiaqjAiV4vcS45CGpdewaJOgg1_xnWA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dənizkənarı Milli Park",
+                "category": "National park",
+                "url": "http://bulvar.gov.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMagf1zuKU9RXxZt_DG-5KPmb-Yo6UK_HRR9JM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Highland Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-cYohOp-onrI8X9Yi25ezLeQbAp24eAWONqdm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of the Shirvanshahs",
+                "category": "Art museum",
+                "url": "https://icherisheher.gov.az/az/93-sirvansahlar-saray-kompleksi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4mVF83DfIoSCf6_0prqPg03UjjKE4Q-HOEOEK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Azerbaijan Carpet Museum",
+                "category": "Museum",
+                "url": "http://azcarpetmuseum.az/",
+                "img": "https://lh4.googleusercontent.com/proxy/HDzakaUHnzlLw3bk0WBKHeknISXJRF5otssZrPOML7kl_6tehjVO4PUeNpaFVhCZ3WHsineTrkpWobV87MRk4ZIEyWfqHEIy3AP7Wt4FGVRQceAttw92mmHkUUr-wOtoyghbab8Bzg6MM-4MOAeB8g8_v7inANY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atashgah Zoroastrian Fire Temple",
+                "category": "Religious destination",
+                "url": "http://ateshgahtemple.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt3jW9OAcTATZEHjKbcQtiXhUWgU49s1keYVaC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heydar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWQQw8NLn2YmLO4XPsTYGs76uy4wFeIM12N8in=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibiheybat",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9rPvZq0osnEkBHkGmBRbL5Y7BJrZyvViPcESB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Miniature Books",
+                "category": "Museum",
+                "url": "http://www.minibooks.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNs6T3ea9cYbmysLpoBfWyPmYL-EdYHNNeE63Of=w148-h148-n-k-no"
+            },
+            {
+                "title": "Təzə Pir Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKgiEd1Tt8X61JKdlevk2WqWxXjmt-PIdA4PaK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fountains Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7nCvvim0y2PWpkaIQf_vsoNLbAZM9_qSnO-9p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku Eye",
+                "category": "Ferris wheel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3f9aY1DKGOC5zlrxBBl8qagxSmZJ3o_tAlyvc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Venice",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOejL5PQR-nxRrJcc83ejepOnANFyYMvlafYDqC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizami Museum of Azerbaijani Literature",
+                "category": "Museum",
+                "url": "http://nizamimuseum.az/museum/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqtla-mDgBWOx_XtS4ErMN6yw08VhCiCcB--iG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flame Towers",
+                "category": "Business Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_4OsGI1H1QdJLJpYMSMyKt1fABWUOu5z_iHNE=w148-h148-n-k-no"
+            }
+        ],
+        "Saatlı": [
+            {
+                "title": "Nizami Ganjavi Mausoleum",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpy45_bXJSO-tdC5OwowiL_Y4ApB3GfMbzyGpB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nariman Narimanov Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoY_kU3ITzH69mdut1QBxjZJl7SQQTGvoeBJQo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shamakhi",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEmsz3ZlvFxp0pNUi9GUStmqf0QTUbEzX5mLDV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nohur Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4Eqw5C5QHAncW-eDN4wfG3zaMkDcc4oETZA_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheki",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTHux0mVxI7u0Ahi3DUPZQoffZrsQmtUvl3zSA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ganja",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBnDod6PNQkY0Sw3JZlwzGutnFu5bGpE9Zv9lh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ArIT7fcN1vvCIF3LVDafD8jhrT0vKctRPEPb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Astara",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPYigS8LKaKTsVBBoUiOX0UJFsiXf68E1YE1qo=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of History of Azerbaijan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCeBgUKx_fotPYs2AMAdsXNXmyQpfaO8IjEbuJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanar Dag",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_cQko1uNy9qwSFkCPzLbybo0Aa5CYQ9W01oDS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Molokan Gardens",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPl5sOaElTzvA3rEF9gTQq9HOHR8S4KnMqou2s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zabitlər parkı",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjRud59RsXNnzebxxZby9QcaDSNDtxLKGM06dg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amburan Beach Club",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzd20fJyrUqBa5bw7RKmD7OleRdP3x3MtZ9Rua=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heydər Əliyev Parkı",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcuF5MDaEbDANkb2Dye_nM2Cfps3On8xDR_ThR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Upland Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU_dj42XJsmeniHFewuiZCNG2ov5G76rz26hRh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku Zoological Park",
+                "category": "Zoo",
+                "url": "https://instagram.com/bakuzoo_official?utm_medium=copy_link",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPA4nDd1G0UlauJFV8snLo9EGvV96M0lts5_W8=w148-h148-n-k-no"
+            }
+        ],
+        "Naxçıvan": [
+            {
+                "title": "Huseyn Javid Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNO1S7Qf8j-8MbqPty_3ky7SmRVtcoqMAhrj2EF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Duzdag Hotel",
+                "category": "Hotel",
+                "url": "http://www.duzdag.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOl7XL07zN282v4Roz-CAXr-1Fq2E-dD6htdcJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mausoleum in Garabaghlar",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHiXtjkoIYsgXy5Ri5FEs5FJkof0kANwoaPhIV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Khorasan (Fazlullah Naimi) Xanəgahı",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJSxncFn6bcAR7EwCwCwKxqi-JbAdWiXqOt_Gl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juma Mosque, Nakhchivan",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAt2CWwzD4CfGtEdHuYV3CoB7Uw9Yd2TXOO1Sz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yusif ibn Kuseyir Mausoleum",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3lhwF1gYAVhxpjMODSCXWFnKQG7egBX8gXlIP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Momine Khatun Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSyGuJ1EMrEbn-0U1x2AzrAXBtgVyRx38S0P8q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nakhchivan State Carpet Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJTgVL9Ynrj0rH0BtvYpF71giaYsA6yLuZdv2Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yezidabad Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCRSfiJLHbG-aKTj_8pH19kT5E5O2tGMaEm9rc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Noah's Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwt7i9m6Um3qIfPW2TlUabb4q6pwDEPfOtCOuY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahbuz National Reserve",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKe1zeIeEYDfwOhms_CWtIRWQ_L_psM9IOocYl=w148-h148-n-k-no"
+            },
+            {
+                "title": "سد ارس",
+                "category": "Dam",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTeGdo9S-FFmGN5_nw-vo9SBsy3TrYPqGtsbfR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gulustan Mausoleum",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO-62upwutG92SANqWgl7ufM_cauIoDVMVRnu5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ashabi-Kahf",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO1Lc0TfGhFIM4CxDbS3Vs9TrDtDz7Gf85Tw6-=w148-h148-n-k-no"
+            }
+        ],
+        "Tovuz": [],
+        "Yevlakh": [
+            {
+                "title": "Shahdag Mountain Resort",
+                "category": "Ski resort",
+                "url": "http://www.shahdag.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt3XViMh672t2jIdIK1gACUVvrCiluW5GyIcR6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Agh Gol National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMu_TTBc2MAIBVTTk5Ln98S9MYdiFZdNblVii-m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yeddi Gozel Waterfall",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipON-nf3Qiiqx2q95_O20UjVY1lmSvAE7m0VmV9s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marxal Resort & Spa",
+                "category": "Hotel",
+                "url": "http://www.marxalresort.az/",
+                "img": "https://lh5.googleusercontent.com/proxy/CZco-FrAyoRrC7Z0DtI5vVpnXi5ZeC7Sre5kmCGU-bf68TUXevRMy3iG3SgxwZGXLiiZmLCPZh-M4pwS9JHp3kR_l8HOCwZYzwQ9ThM8dN3REKkeDY7LVWtpZn7ZOhQ8kLjlX7V-_lTVFON1jJJ2avGAmZhrXTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karvansaray",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/1i6FGKd7a52y935C3tfwRQDmuWWbFipJVmMTl_ZkOBPceGJgYCVhoKlZ97QvzpmCItcfwKFw2-PIB36uh4_aITmLRHqtNiS0Pf6J6VvUl51AhttTksYKe9i_qy0nvgQNMPUAaubaRUNRivQssAONrqpxLKZExg=w148-h148-n-k-no"
+            },
+            {
+                "title": "‪Afurdzhi Falls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnlvlGa2jjb_xdB-PUbcRzkTrrC4bS5x__kV8c=w148-h148-n-k-no"
+            },
+            {
+                "title": "PREMIUM HOTEL GANJA",
+                "category": "Hotel",
+                "url": "http://premiumhotel.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipON6CYWZYOL33hBuBSFuhUejoMUd2j0yuvtdEMh=w148-h148-n-k-no"
+            },
+            {
+                "title": "ILK INN HOTEL",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMamoFfpUjOENF5WvVKWsrWktumuAMmEAKqq1p_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yeddi Gumbaz Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgJSu-St6HuAddB6tenjntfJ5LnWDN2fKUdAs-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mud volcanoes",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMltluJAibHadr9pUElVo1-p3lmeUT0w3bzJcXo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Besh Barmag Mountain",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2LMDkc7v2y1726gprsVg7X9i7y_g4DN2Qvtyn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ganja",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBnDod6PNQkY0Sw3JZlwzGutnFu5bGpE9Zv9lh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Goyazan",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8r-TaMnacWLMPknuamKwisC7mC0YF9rCAGV_q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quba",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-q6QAUpnfeHXeYpH4anZ0jvKlGhXpSnKEfc7a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nabran",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN17LzktTIP2LIxfvJ1o0fq9QH_ZdWHy6jppC_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tufandag Mountain Resort",
+                "category": "Ski resort",
+                "url": "https://tufandag.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFXYnPCNaVquyMlPON3q3JsLlIn0VhWvYg_Dk-=w148-h148-n-k-no"
+            }
+        ],
+        "Lankaran": [
+            {
+                "title": "Hazi Aslanov house-museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcBJRiAqLmMp4n_YRc2yHCqDOgaM3LEtdwlcsU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lankaran's Old Prison",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPue5UndVbk_MJlzB7mqd08T9F9qy0aWANKdMEC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gobustan Rock Art Cultural Landscape",
+                "category": "Historical place",
+                "url": "http://www.gobustan-rockart.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUMcGyXbT-M6KBswQg0rSMTziHS1QESdOsGbka=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of the Shirvanshahs",
+                "category": "Art museum",
+                "url": "https://icherisheher.gov.az/az/93-sirvansahlar-saray-kompleksi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4mVF83DfIoSCf6_0prqPg03UjjKE4Q-HOEOEK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boyuk Bazar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7Okp4vBLraLu5Ex3nLy6NWOyUKG0GfcXPmIMW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khan Palace (Lankaran Museum of History and Ethnography)",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8uOOevH1J2JUoOh-Von2q9XWzBJv-QiQqKvHe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khazar Lankaran Central Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN46YxgHXf--WGKgRka_dgTgnUBFAePN-FtLMFr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hirkan National Park",
+                "category": "National park",
+                "url": "http://www.eco.gov.az/en/hirkan/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYW_HygLpuj-spuneUHLJLYZFCxNXgUxgJ_luv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Xanbulaq Su Anbarı",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQQj9BXjgs-qv9WDfb_PcVg1VoVreS1Q3ja1qS=w148-h148-n-k-no"
+            }
+        ],
+        "Mingelchaur": [
+            {
+                "title": "İmamzadeh İbrahim",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhf6ES8kmhF1556CQhZmc-ptbbE0t8uICJIlAd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alpaca Azerbaijan",
+                "category": "Farm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk1HryhhKH0R0glOZtQ2MgFl7MUL9vgjX46rHn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheki",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTHux0mVxI7u0Ahi3DUPZQoffZrsQmtUvl3zSA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mud volcanoes",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMltluJAibHadr9pUElVo1-p3lmeUT0w3bzJcXo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gəncəsər monastırı",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQUo2jdCQ21WtqlI1Dq7dxsmQhkZRxekMM3VLJ=w148-h148-n-k-no"
+            }
+        ],
+        "Ganja": [
+            {
+                "title": "Gəncə Mall",
+                "category": "Shopping Centre",
+                "url": "http://fb.com/ganjamall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5zOv7WS1L4NJupx5oIGnIy_sPoz7ilEmFqqTp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Xan Bağı",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIBB7z8NNB89AenEZKKjDSJlTOgXz9bOPuw7Uv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heydər Əliyev Parkı",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcuF5MDaEbDANkb2Dye_nM2Cfps3On8xDR_ThR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizami Ganjavi Mausoleum",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpy45_bXJSO-tdC5OwowiL_Y4ApB3GfMbzyGpB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ganja State Philharmonic Hall",
+                "category": "Concert hall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3MeRsJgidwjtSUm8f3gvsYbfdt_QvSfG7LNtx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Javad Khan Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXkyCNQzdflkcNODkjgqjynB63U2V_Li2_Mlvw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bottle House",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKZjpzzVCci0pCybBbg6fC6sPHCc-eO-PNQmpL=w148-h148-n-k-no"
+            },
+            {
+                "title": "İmamzadeh İbrahim",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhf6ES8kmhF1556CQhZmc-ptbbE0t8uICJIlAd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alexander Nevsky Church, Ganja",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmzbm9SAF4kUIkBDIofnAP7aQ_9WbhrkGb9F0p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maralgol",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlRJDt-hvgWWBWXwEYwGUYR55MkLD7BT1hQiAM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Göygöl",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm7KOZZ8a7C0Yx8PjqhG9FbuX0hjes2gqNsRLG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Handaberd",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPa8bfa3eC4EgGgcOsSYBPxFvJs2uvGHcBXhQhr=w148-h148-n-k-no"
+            }
+        ],
+        "Şirvan": [
+            {
+                "title": "Tufandag Mountain Resort",
+                "category": "Ski resort",
+                "url": "https://tufandag.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFXYnPCNaVquyMlPON3q3JsLlIn0VhWvYg_Dk-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku Olympic Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1Sfdp4VNdWHo0P9AsNLSZc4xdHdffn2OUZ-WP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heydar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWQQw8NLn2YmLO4XPsTYGs76uy4wFeIM12N8in=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juma Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6yrxpQipaLfd6yTWGDCsyU_OwAMwytJ6ZbEfX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yeddi Gozel Waterfall",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipON-nf3Qiiqx2q95_O20UjVY1lmSvAE7m0VmV9s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Upland Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU_dj42XJsmeniHFewuiZCNG2ov5G76rz26hRh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alpaca Azerbaijan",
+                "category": "Farm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk1HryhhKH0R0glOZtQ2MgFl7MUL9vgjX46rHn=w148-h148-n-k-no"
+            },
+            {
+                "title": "‪Afurdzhi Falls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnlvlGa2jjb_xdB-PUbcRzkTrrC4bS5x__kV8c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gəncəsər monastırı",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQUo2jdCQ21WtqlI1Dq7dxsmQhkZRxekMM3VLJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ismailiyya building",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrl_NCLNhwCY4GLut1N3RmOygW2TAJy8vJjQq3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ArIT7fcN1vvCIF3LVDafD8jhrT0vKctRPEPb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Highland Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-cYohOp-onrI8X9Yi25ezLeQbAp24eAWONqdm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nabran",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN17LzktTIP2LIxfvJ1o0fq9QH_ZdWHy6jppC_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Astara",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPYigS8LKaKTsVBBoUiOX0UJFsiXf68E1YE1qo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahdag Mountain Resort",
+                "category": "Ski resort",
+                "url": "http://www.shahdag.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt3XViMh672t2jIdIK1gACUVvrCiluW5GyIcR6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dеdе Gorgud Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXUBV4rb5YdGSHrURQ19r2CxcIXYzn8ZbxgbUF=w148-h148-n-k-no"
+            }
+        ],
+        "Sheki": [
+            {
+                "title": "Karvansaray",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/1i6FGKd7a52y935C3tfwRQDmuWWbFipJVmMTl_ZkOBPceGJgYCVhoKlZ97QvzpmCItcfwKFw2-PIB36uh4_aITmLRHqtNiS0Pf6J6VvUl51AhttTksYKe9i_qy0nvgQNMPUAaubaRUNRivQssAONrqpxLKZExg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shakikhanovs' Palace",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0EpJknQzdhEgk4uf1F_GU4AhkOEIHbhDaUh-S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yurd Yaddashi Miniature Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGVvihHNCxqtLx15t8QFmiwOyUZ-FlYjpariC_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Imam Ali Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbaQt9GSq5_7V6BH7tIFbN7L-OKlqrvUML_fnd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Winter Palace - House of Sheki Khan's",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7BJw3J0dUKdC5LcOq3J8txCU1jp2pTXcPWw1O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bio Garden",
+                "category": "Botanical garden",
+                "url": "https://www.biogardensheki.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgNBOquSGFJaCe3CInkhTF91PlH6ZaX9c5FoKv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Diri Baba Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHtQ02qVfva152BNRCaPJuOSG9cjjipfyxsSQc=w148-h148-n-k-no"
+            }
+        ],
+        "Qaraçuxur": [
+            {
+                "title": "Təzə Pir Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKgiEd1Tt8X61JKdlevk2WqWxXjmt-PIdA4PaK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Miniature Books",
+                "category": "Museum",
+                "url": "http://www.minibooks.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNs6T3ea9cYbmysLpoBfWyPmYL-EdYHNNeE63Of=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dеdе Gorgud Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXUBV4rb5YdGSHrURQ19r2CxcIXYzn8ZbxgbUF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizami Museum of Azerbaijani Literature",
+                "category": "Museum",
+                "url": "http://nizamimuseum.az/museum/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqtla-mDgBWOx_XtS4ErMN6yw08VhCiCcB--iG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Phantom Quests",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnqQmVP3ybiBU107sGky-Ul7ibhz6LoXylYZEJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Workshop Ali Shamsi",
+                "category": "Tourist attraction",
+                "url": "http://www.ali-shamsi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGK68RPfZzHdnnGkH9OyvMQHrrMNHOBvevPMPJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chiraq Bookstore",
+                "category": "Book Shop",
+                "url": "https://chiraqbookstore.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMT9ibnU35S4i02-FnpmPd0Qa1EXyXQba7MGLh3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archangel Michael Russian Church",
+                "category": "Russian Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYwlQX9mH3UXxevhrtQfzLCDswvYEI7bPJ814O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yasamal Parkı",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzswlpHKy7C03Q4LOUrLYd2H0AGFwJL9zjH4hK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ninka Cards & Gifts",
+                "category": "Gift shop",
+                "url": "http://www.ninkacards.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpu21VRbYZugxOeUdfrDmiuXo3B0kHZyaHxRft=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taze Bey Bath",
+                "category": "Public Baths",
+                "url": "http://www.tazebey.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAOqS8YzUdZgyCmXU2VK1Q-gWJWVlT_cb7ZH7H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizami Ganjavi",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNN_3gRmR-PcEbzF2VfvkG9cLeD1AIS3TReT0CX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ismailiyya building",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrl_NCLNhwCY4GLut1N3RmOygW2TAJy8vJjQq3=w148-h148-n-k-no"
+            },
+            {
+                "title": "TourBaku",
+                "category": "Tour operator",
+                "url": "https://babaelnur.wixsite.com/tourbaku",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML28hmwy0hYzaD-ioE_qQWiOCS9h3MYezKBtxb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yeddi Gumbaz Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgJSu-St6HuAddB6tenjntfJ5LnWDN2fKUdAs-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanar Dag",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_cQko1uNy9qwSFkCPzLbybo0Aa5CYQ9W01oDS=w148-h148-n-k-no"
+            }
+        ],
+        "Lerik": [],
+        "Xankandi": [
+            {
+                "title": "Tufandag Mountain Resort",
+                "category": "Ski resort",
+                "url": "https://tufandag.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFXYnPCNaVquyMlPON3q3JsLlIn0VhWvYg_Dk-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Շուշիի բերդ",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfpCRdRVHp3Z2u_osRIGv9bvcyWZNuwRRfrGyG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Askeran Fortress",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk9NOTvNvC1M6JqHmV-Na938BjYy5TzR7L1iFz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahbulag",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-vPAsv5mUvQ1rgGo1rOBQjmpFYQvTaggh7ZSt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheki",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTHux0mVxI7u0Ahi3DUPZQoffZrsQmtUvl3zSA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nohur Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4Eqw5C5QHAncW-eDN4wfG3zaMkDcc4oETZA_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shamakhi",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEmsz3ZlvFxp0pNUi9GUStmqf0QTUbEzX5mLDV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Surb Hakob Church",
+                "category": "Armenian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO03xaT7736IHjQ_SH3DJao3nQOpH93Ax70uO-n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yeddi Gozel Waterfall",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipON-nf3Qiiqx2q95_O20UjVY1lmSvAE7m0VmV9s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karvansaray",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/1i6FGKd7a52y935C3tfwRQDmuWWbFipJVmMTl_ZkOBPceGJgYCVhoKlZ97QvzpmCItcfwKFw2-PIB36uh4_aITmLRHqtNiS0Pf6J6VvUl51AhttTksYKe9i_qy0nvgQNMPUAaubaRUNRivQssAONrqpxLKZExg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Momine Khatun Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSyGuJ1EMrEbn-0U1x2AzrAXBtgVyRx38S0P8q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Göygöl",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm7KOZZ8a7C0Yx8PjqhG9FbuX0hjes2gqNsRLG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gəncəsər monastırı",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQUo2jdCQ21WtqlI1Dq7dxsmQhkZRxekMM3VLJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alpaca Azerbaijan",
+                "category": "Farm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk1HryhhKH0R0glOZtQ2MgFl7MUL9vgjX46rHn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nizami Ganjavi Mausoleum",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpy45_bXJSO-tdC5OwowiL_Y4ApB3GfMbzyGpB=w148-h148-n-k-no"
+            },
+            {
+                "title": "İmamzadeh İbrahim",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhf6ES8kmhF1556CQhZmc-ptbbE0t8uICJIlAd=w148-h148-n-k-no"
+            }
+        ],
+        "Sumqayıt": [
+            {
+                "title": "Highland Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-cYohOp-onrI8X9Yi25ezLeQbAp24eAWONqdm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Philarmonia Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPY5Zr0kZ5c8HyI2ozlnp92x1mSHQqLTr-J3dHg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahdag Mountain Resort",
+                "category": "Ski resort",
+                "url": "http://www.shahdag.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt3XViMh672t2jIdIK1gACUVvrCiluW5GyIcR6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heydar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWQQw8NLn2YmLO4XPsTYGs76uy4wFeIM12N8in=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tufandag Mountain Resort",
+                "category": "Ski resort",
+                "url": "https://tufandag.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFXYnPCNaVquyMlPON3q3JsLlIn0VhWvYg_Dk-=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of History of Azerbaijan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCeBgUKx_fotPYs2AMAdsXNXmyQpfaO8IjEbuJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gebele",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpuuw1O7VZZSZjbghacFaoA8kPDd-YN5M4I7p7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khinaliq",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYqP61LA3IXWcvoSNG-jcjiP0QI-FszyzW0Ib4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mərdəkan Qalası",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCQO5-NckYcbWiwsMSbxxnVbTS2TGrqj_N3Wn5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nohur Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4Eqw5C5QHAncW-eDN4wfG3zaMkDcc4oETZA_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ArIT7fcN1vvCIF3LVDafD8jhrT0vKctRPEPb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shamakhi",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEmsz3ZlvFxp0pNUi9GUStmqf0QTUbEzX5mLDV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku Eye",
+                "category": "Ferris wheel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3f9aY1DKGOC5zlrxBBl8qagxSmZJ3o_tAlyvc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibiheybat",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9rPvZq0osnEkBHkGmBRbL5Y7BJrZyvViPcESB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flame Towers",
+                "category": "Business Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_4OsGI1H1QdJLJpYMSMyKt1fABWUOu5z_iHNE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martyrs' Lane",
+                "category": "Cemetery",
+                "url": "https://az.wikipedia.org/wiki/%C5%9E%C9%99hidl%C9%99r_Xiyaban%C4%B1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiXTCFbObCJO9fkqBLqoa3-IR5bvDnI9Ajw12k=w148-h148-n-k-no"
+            }
+        ],
+        "Bakıxanov": [
+            {
+                "title": "Baku Crystal Hall",
+                "category": "Arena",
+                "url": "http://www.crystalhall.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSC4UAAzkIS8GBmFs9LYe3OybVjmtgl6rWo1Ta=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alley of Martyrs Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNd-X1L5eBXabyE3w7gvZHMdzvdiYrFJas5CDSE=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Azerbaijan Government House",
+                "category": "Government",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq8TFYHjnCMureei1FpYmcF9kyNKpN05YDLbAz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku Olympic Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1Sfdp4VNdWHo0P9AsNLSZc4xdHdffn2OUZ-WP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku",
+                "category": "Train station",
+                "url": "http://www.addy.gov.az/index/az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtVYDTD1d6vwMW1qLkxRA3-lPulAxjLkWmfT02=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sensum by Amapola",
+                "category": "Coffee shop",
+                "url": "http://www.sensum.az/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0xW9CVqzYc_71JoPfPikWW1d86X8Tg8pFnXG3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guided Azerbaijan",
+                "category": "Sightseeing Tour Agency",
+                "url": "https://guidedazerbaijan.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwWdxggOPJoK7SbVyKKJnw1zWg2p7mYf5C5RDP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baku",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ArIT7fcN1vvCIF3LVDafD8jhrT0vKctRPEPb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gabala Shooting Club",
+                "category": "Shooting range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN_zBgXwnh8Sw0xaB0stMaaV4XPQYh2orZcsRb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kichik Qala",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsBV2aIcBK0fUiFLAOoQqfcAwYpMDiOnsInYoz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mud volcanoes",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMltluJAibHadr9pUElVo1-p3lmeUT0w3bzJcXo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khinaliq",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYqP61LA3IXWcvoSNG-jcjiP0QI-FszyzW0Ib4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nohur Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4Eqw5C5QHAncW-eDN4wfG3zaMkDcc4oETZA_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gebele",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpuuw1O7VZZSZjbghacFaoA8kPDd-YN5M4I7p7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parcha",
+                "category": "Manufacturer",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNA2x6ma-veZj5k6blL9aRo1I1bzBtdNbfUNUrk=w148-h148-n-k-no"
+            },
+            {
+                "title": "TourBaku",
+                "category": "Tour operator",
+                "url": "https://babaelnur.wixsite.com/tourbaku",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML28hmwy0hYzaD-ioE_qQWiOCS9h3MYezKBtxb=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Heydar Aliyev Centre",
+            "category": "Cultural centre",
+            "url": "http://heydaraliyevcenter.az/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOvhHLRYHmxbPPDl1XUJBFaOhEKoG52C3KDQZQo=w148-h148-n-k-no"
+        },
+        {
+            "title": "Icherisheher",
+            "category": "Historical landmark",
+            "url": "https://icherisheher.gov.az/az",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMxdEedYiaqjAiV4vcS45CGpdewaJOgg1_xnWA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gobustan Rock Art Cultural Landscape",
+            "category": "Historical place",
+            "url": "http://www.gobustan-rockart.az/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPUMcGyXbT-M6KBswQg0rSMTziHS1QESdOsGbka=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dənizkənarı Milli Park",
+            "category": "National park",
+            "url": "http://bulvar.gov.az/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMagf1zuKU9RXxZt_DG-5KPmb-Yo6UK_HRR9JM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Azerbaijan Carpet Museum",
+            "category": "Museum",
+            "url": "http://azcarpetmuseum.az/",
+            "img": "https://lh4.googleusercontent.com/proxy/HDzakaUHnzlLw3bk0WBKHeknISXJRF5otssZrPOML7kl_6tehjVO4PUeNpaFVhCZ3WHsineTrkpWobV87MRk4ZIEyWfqHEIy3AP7Wt4FGVRQceAttw92mmHkUUr-wOtoyghbab8Bzg6MM-4MOAeB8g8_v7inANY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Palace of the Shirvanshahs",
+            "category": "Art museum",
+            "url": "https://icherisheher.gov.az/az/93-sirvansahlar-saray-kompleksi/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM4mVF83DfIoSCf6_0prqPg03UjjKE4Q-HOEOEK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Atashgah Zoroastrian Fire Temple",
+            "category": "Religious destination",
+            "url": "http://ateshgahtemple.az/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMt3jW9OAcTATZEHjKbcQtiXhUWgU49s1keYVaC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Martyrs' Lane",
+            "category": "Cemetery",
+            "url": "https://az.wikipedia.org/wiki/%C5%9E%C9%99hidl%C9%99r_Xiyaban%C4%B1",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPiXTCFbObCJO9fkqBLqoa3-IR5bvDnI9Ajw12k=w148-h148-n-k-no"
+        },
+        {
+            "title": "Baku Eye",
+            "category": "Ferris wheel",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP3f9aY1DKGOC5zlrxBBl8qagxSmZJ3o_tAlyvc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fountains Square",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN7nCvvim0y2PWpkaIQf_vsoNLbAZM9_qSnO-9p=w148-h148-n-k-no"
+        },
+        {
+            "title": "Baku",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO6ArIT7fcN1vvCIF3LVDafD8jhrT0vKctRPEPb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museum of Miniature Books",
+            "category": "Museum",
+            "url": "http://www.minibooks.az/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNs6T3ea9cYbmysLpoBfWyPmYL-EdYHNNeE63Of=w148-h148-n-k-no"
+        },
+        {
+            "title": "Absheron National Park",
+            "category": "National park",
+            "url": "http://www.eco.gov.az/ab-milli%20parki/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM8ZcmofT8qZ7Syagqy5_e8KbH5qzXmhNC8yxQH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Shahdag Mountain Resort",
+            "category": "Ski resort",
+            "url": "http://www.shahdag.az/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNt3XViMh672t2jIdIK1gACUVvrCiluW5GyIcR6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Qız Qalası",
+            "category": "Building",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOpQi2lyvndU34JNDHpRfdKL_lH6dMGLQ0tLJAY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Flame Towers",
+            "category": "Business Centre",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP_4OsGI1H1QdJLJpYMSMyKt1fABWUOu5z_iHNE=w148-h148-n-k-no"
+        }
+    ]
+}

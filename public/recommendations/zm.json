@@ -1,0 +1,800 @@
+{
+    "cities": {
+        "Ndola": [
+            {
+                "title": "Franciscan Centre",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnGQovbN3tFFkJA3l3DzyE5RIQ5i6MrrBUDZXp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Assembly Hall of Jehovah's Witnesses, Kabushi",
+                "category": "Jehovah's Witness Kingdom Hall",
+                "url": "http://jw.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN518DdJypHSNulPz1G-EK2YaJVWdxETCHmPok2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Levy Mwanawasa Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY4j9LHfo-Vn3rgjVxp6Q4BkOMMKczkcPD-OA9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dola Hill Lying Dragon Game Centre",
+                "category": "Children's Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgX_xyOGHSKcb5jPqCsB-hP-lHn2wBYEs8MSIT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsundu Recreational Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHE9ILMFYwySH4lKM9onrnJBB9AtFRkOd2NxZb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ndola Golf Club",
+                "category": "Golf course",
+                "url": "https://www.facebook.com/Ndola-Golf-Club-181431128667200/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpY3-gYmyKP39FtTZv0XzZGJcr-LounE-BLCHx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trade Fair Grounds",
+                "category": "Fairground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiwgo-AD1H8kJd4oeRZPO9DDSEcsFEGpc2ePhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catholic Cathedral of Christ The King",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSvYE3i5XX8ZoRDvYwRF2HVzjPuL67k4iaRjNJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chimfunshi Wildlife Orphanage",
+                "category": "Animal Protection Organisation",
+                "url": "http://www.chimfunshi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMGY7pyb25_UhbCb2UQiVCi811eHoVKaHEMbOZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luanshya",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1JfgSiRH4Uiqfk3zavUH2aVxeAm9mxJIhAlmq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Copperbelt Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1prsjFPLKIrL9wzMe24UdJr8VBRLO-3c2Yy3l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dag Hammarskjöld Crash Site Memorial",
+                "category": "Historical place",
+                "url": "http://greater-copenhagen.net/dag-hammarskjold/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN25ylx8oAaB3QdlVoJNsltn_W_h8BZPcS05KbB=w148-h148-n-k-no"
+            }
+        ],
+        "Kitwe": [
+            {
+                "title": "Sherbourne Lodge",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/DdvkhExPfivaVy-HQhGuFA08g4Vy-P3PPk8zbUjCQoD34lwcfieSXv3qHBQEvKBmzosM0EnDt4KTsZht5cpaN9hOsd_q0eOhYb2VqOHjEj6SI7ONikDTIweYVIViCBCx9ChCUzqE0FGCYzBm5qtHR0OXE_esgw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mopani Copper Mines(Nkana Concentrator)",
+                "category": "Mine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNz1c8bIoD3xzk_Y0END_DVA9sfcS0432DA-6IQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dag Hammarskjöld Crash Site Memorial",
+                "category": "Historical place",
+                "url": "http://greater-copenhagen.net/dag-hammarskjold/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN25ylx8oAaB3QdlVoJNsltn_W_h8BZPcS05KbB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mindolo Dam",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLWsebJjJ94Y-F0X-1O0sMgqN-KI6PWgy5RuND=w148-h148-n-k-no"
+            },
+            {
+                "title": "Levy Mwanawasa Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY4j9LHfo-Vn3rgjVxp6Q4BkOMMKczkcPD-OA9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nkana Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOcUhDpJt5apr5gLmttDI-aKFob1qu25BdeexA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bulangililo Jummah Masjid And Ihsaan Info Research Center And Library",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNs2sAUAmDgcxF3jmczNPHwnz3J_Ay1Z3WnNZYs=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Mary's Mission Dam",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeDaCEzWuA0PskXGRyT0HZ774zz2NmnvADdKsF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arthur Davis Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMFrBVicZiVLIfNaUc1jXaxQxW8GJOy9Y2TWd-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Copper Discovery Monumet",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjf1bO1MkE2UovC9E38CbUL1I3MNAm4DUp8vdK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chimfunshi Wildlife Orphanage",
+                "category": "Animal Protection Organisation",
+                "url": "http://www.chimfunshi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMGY7pyb25_UhbCb2UQiVCi811eHoVKaHEMbOZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "ReLux Zambia Chinese Medical Massage Parlor",
+                "category": "Massage therapist",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmJ4kikwpKwvaBH0_Kpg6oV8qD0J3XzLsFbRke=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luanshya",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1JfgSiRH4Uiqfk3zavUH2aVxeAm9mxJIhAlmq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kozo Hair and Day Spa Kitwe",
+                "category": "Spa",
+                "url": "http://kozo.co.zm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYsRuMBTYFi3USuWsWVFceHY2iLF4lOiamnPJ0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chibuluma Golf Club",
+                "category": "Golf club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhOqpm8nA5TeIHKt4R_67-2xJAjpfuuF5Gr22O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitwe Little Theatre",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgL9u7pXWdl4-_0GAq71reXhUuNe1biszbNS3e=w148-h148-n-k-no"
+            }
+        ],
+        "Lusaka": [
+            {
+                "title": "EastPark Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.napoliproperty.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzFQ4x8fp4_wn2BCxY8iIABtQUWFmqeOMxje-b=w148-h148-n-k-no"
+            },
+            {
+                "title": "37d Gallery",
+                "category": "Art gallery",
+                "url": "http://www.thestartfoundationtrust.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJKu5mAgKmsJvwTbus-e6XZEcJNRcupwWgWDg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anglican Cathedral of the Holy Cross",
+                "category": "Anglican church",
+                "url": "http://www.anglicancathedraloflusaka.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGeIFvEoBkIr-7mt2GTGXD7zQjjnpaVS85LE8K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lusaka National Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnvBDeuAst4H6pk7Z96GhChZKCtWp18d35MPtg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Freedom Statue",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU2aeMCODvfYF136pQ9qo3gfbaOV8L_flkBfeT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lusaka City Market",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaenJnoWgH7wERN1EsoMM-I6vbYumgkdPKUNZX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arcades Shopping Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJP73HmyD5v0fuVAkdj50DUQaPhx-ARlmRpNLJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monkey Pools",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-yrr2c8cpmdgZBywDuV5fxNbiVDYbZ01oFleU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalimba Reptile Park",
+                "category": "Wildlife Refuge",
+                "url": "http://kalimbazambia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBO9ij9fiKBUO4p3MKFVskb8wJUndKMvX2wlYT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mulungushi International Conference Centre",
+                "category": "Conference Centre",
+                "url": "http://micc.co.zm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUe_fuXL9lDRFPEHfLK5SjnEY-FPcdBiXvKiSu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chilenje House",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdiW89awR9o9FJVdiIRDsPKj9w-ogKuDGXGAir=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lower Zambezi National Park",
+                "category": "National park",
+                "url": "https://www.lowerzambezi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_vVxfL8jEGC7bdZtGsP_-XH-0tbKwIkEP-rlM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Official Kabwata Cultural Village Page",
+                "category": "Art Centre",
+                "url": "https://www.facebook.com/KabwataCulturalVillage",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFN8SVmr02x4GeOsvsiYs1L8z-0PKPKKqmUf02=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Heroes Stadium",
+                "category": "Stadium",
+                "url": "https://www.mysa.gov.zm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoaW8f80IC--eaF0akfSiYeI_j0NK96BFZRhc0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Woodlands Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMo4IYOLjtDbw8sy4bXkcP0uFzZXZ4HWazLru2n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lusaka National Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvRjum3uWxhcwLfqvx1u6K4nLt03DfjNt_eUQL=w148-h148-n-k-no"
+            }
+        ],
+        "Mongu": [],
+        "Chipata": [],
+        "Chingola": [
+            {
+                "title": "St Marks UCZ",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPH6AX7z0hLRwggmuYG6_ue95ncaEAV17fiols8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lulamba UCZ",
+                "category": "Church",
+                "url": "http://www.lulambaucz.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONIdVuNszeITVnybVnAG0b052TT3XemtEH0n1U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kapisha Hot Spring",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIRIj4SmYFzhI3HZofzuUAUiU_lW4PGkrLknwY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chingola Central Cemetery",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv_wGjxOvoSOegGR1lokOCpZKc4mt8TDrqLw-n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chingola Arts Society (Theatre Club)",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWGxEvkh50tLUndoXuzaIQ24l1yQHPQjqblJuE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nchanga Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOssr0kDvscjzkaz6AOK-VisUfcZj50AnzokfMa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nkana Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOcUhDpJt5apr5gLmttDI-aKFob1qu25BdeexA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arthur Davis Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMFrBVicZiVLIfNaUc1jXaxQxW8GJOy9Y2TWd-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chimfunshi Wildlife Orphanage",
+                "category": "Animal Protection Organisation",
+                "url": "http://www.chimfunshi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMGY7pyb25_UhbCb2UQiVCi811eHoVKaHEMbOZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akabashi Campsite and Bar",
+                "category": "Campsite",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPGrhaxRFIhqajBe8_WsGcx78sRRVrgXoUZA6R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sts Peter and Paul Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfQ6Nrf5tgBet9BtQYmzk2u0DpSpIb0BrS3c3A=w148-h148-n-k-no"
+            }
+        ],
+        "Kasama": [
+            {
+                "title": "Kasama Tower Hotel",
+                "category": "Lodging",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY-2Tc-heGrs36L3_xBAfO6ozvyYvZOSmOin2M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mwela Rock Paintings",
+                "category": "Natural history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcpNoGvrljlvt3CNg0oBpwI4hxr4n4Rk_HEv0u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sinamu Lodge Ltd",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPJY--aHJuijWvmUDxZiZ90sHHLn4UHjPLQ1Vn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chishimba Falls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPen6xa3F3YpZ8JP8eDbKbKQC9fOw0DanO99y3o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Katedra św. Jana Apostoła w Kasamie",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1Ut5fFCdtBx9rrJaJ3bjPxywZ-wMbpcPN_UKn=w148-h148-n-k-no"
+            }
+        ],
+        "Luanshya": [
+            {
+                "title": "United Church of Zambia",
+                "category": "Protestant church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8d0OewCs2kOF0p30qe6NO8X5gjYGoOOsFpNKQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luanshya Town Roundabout",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTDIOV3z3zHIv14y93rDyW18GQZJVVoPx6dOX1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pick n Pay Luanshya",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLlEhCEnNFXU2rDegKllIR5RsOykW6Wg1IEh10=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luanshya Golf Club",
+                "category": "Golf club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOqCvW7WbkzSfDYd5giMF3PMjtQUGi5Ic2zyvi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luanshya Bakery",
+                "category": "Bakery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpAVCUHc1gQOflxn6YfN8NHoQ6Nq7bCN5Bn2I0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Copperbelt Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1prsjFPLKIrL9wzMe24UdJr8VBRLO-3c2Yy3l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dag Hammarskjöld Crash Site Memorial",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN25ylx8oAaB3QdlVoJNsltn_W_h8BZPcS05KbB=w148-h148-n-k-no"
+            }
+        ],
+        "Kabwe": [
+            {
+                "title": "The Big Tree National Monument",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWZ2EyOITjbWRLDCF14eQSjTtwbmnU1Qnhn9Ab=w148-h148-n-k-no"
+            },
+            {
+                "title": "Midlands - East Zambia Conference of Seventh-day Adventists",
+                "category": "Seventh-day Adventist church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0IzKNwtPFkv2HJv3e0kJLB4-zmRT8oDtkD3YB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabwe Muslim Association Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMefditAfLtKuhtQz1-yIJIw26tc0yB5XLwxZQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hindu Hall",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUqmoHI39TCt9FEAtulOB8yhYIiqg54jGK2vAo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ebenezer Cathedral (PAOG)",
+                "category": "Assemblies of God church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCOH-ErHvyISPjS3mKIHnB7EamSxFwlUe8_PDH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kafulamase Prayer mountain",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOq6sXNPz1dqPlXo7336nY-JTZjjmdEeUh2oqMI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabwe Warriors Football Club",
+                "category": "Football club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlugByCr1kKhqTP2xJjFNW63xZD4mUe2SW3sNv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mulungushi Dam",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP41P0v6wWdIUIrCrRGuq-TtRmoNb76d6mEMa9M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lower Zambezi National Park",
+                "category": "National park",
+                "url": "https://www.lowerzambezi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_vVxfL8jEGC7bdZtGsP_-XH-0tbKwIkEP-rlM=w148-h148-n-k-no"
+            }
+        ],
+        "Kalulushi": [
+            {
+                "title": "Luanshya",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1JfgSiRH4Uiqfk3zavUH2aVxeAm9mxJIhAlmq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dag Hammarskjöld Crash Site Memorial",
+                "category": "Historical place",
+                "url": "http://greater-copenhagen.net/dag-hammarskjold/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN25ylx8oAaB3QdlVoJNsltn_W_h8BZPcS05KbB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalurest Garden Lodge",
+                "category": "Lodge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVoY5QIwBlHgHudrpeZZEg5sq9drlH3Bw1TLkE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Affs Guest House",
+                "category": "Guest house",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwSwyuWi88zRnFW5JAoIjPUyEe1GezKUW5dcDV=w148-h148-n-k-no"
+            }
+        ],
+        "Livingstone": [
+            {
+                "title": "Victoria Falls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORfEH9z6OMPpHhFqbGyOoZNZ2Har3iXhR8O4jv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosi-oa-Tunya National Park",
+                "category": "National park",
+                "url": "https://business.google.com/v/_/AKsrIN1pRGAOrvfVyuhn-E6OazwruFgWejyfB0Le9IBAx7F4sl5a2g/db37/_?exp=1778401&myads=1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWADQabi2VpdqgeQfYbz6Wq2HMAW10EpIySWDe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Livingstone Museum",
+                "category": "Museum",
+                "url": "https://livingstonemuseum.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7zBQ3UasL27zFt6Z032pMRb5mLIrolFwT_iDY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Livingstone Crocodile Park",
+                "category": "Wildlife Refuge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-bBrRwH2BkGrMwY8C43stWgvdmUp3eQF0MHOs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mukuni Park Curio Market",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPThrasegM3exVwYK6E44tyWY_seDOhkzWM8Jl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Devil's Pool",
+                "category": "Tourist attraction",
+                "url": "https://devilspool.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPNWDWKcQzUjL5TrHizW_WZ6MOtf22a6LX_3Zw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Railway Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPc8izEyl5FG61d9ydism2dgjWzbGPZAkoBJtYf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wayi Wayi Art Studio & Gallery",
+                "category": "Art Centre",
+                "url": "https://www.facebook.com/wayiwayi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORO9Apk6jiFCasT9ivK7YsAwfJo-VtDMPJfAE1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maano Adventures - Zambezi Rafting",
+                "category": "Rafting",
+                "url": "https://www.maanoadventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8xInQmJ8IDK8TDDZ2xQc-ulIrDO3dMinh16Yg=w148-h148-n-k-no"
+            },
+            {
+                "title": "BUSH WILDERNESS SAFARIS",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNnBjN3x-QZPhsFXBkILAorXojuStW9Wqkf82I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bundu Adventures",
+                "category": "Adventure sports",
+                "url": "http://www.bunduadventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObB0xsPsr70rIlQiJ4gheFtWbESzcN30FL78YL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victoria Falls Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM00j1QOCQ38Od3tdofoNJxBXF4McmPhNG91gYV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Livingstone Island Launch site",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAfNVXRDLgRcZge73oLhRMsYcpIsSYk2mqb3bf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Livingstone Express by Bushtracks",
+                "category": "Tourist attraction",
+                "url": "https://www.bushtracksafrica.com/signature-royal-livingstone-express",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcKBIhtVyAFxvdz-STqLunfUycztencx5EFD-d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Livingstone Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUmA0a742Mxp0ckc7dHqf2zUUQR6q5KRBmPFYv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dewclaw Eco-Tours & Safaris Ltd",
+                "category": "Tour operator",
+                "url": "http://www.dewclawsafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLcK9kzkLW_n8Nq5tjN4WQxIFbXo8DSdn_K5Y-=w148-h148-n-k-no"
+            }
+        ],
+        "Mufulira": [
+            {
+                "title": "Emabo Childrens Amusement Park",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoZVgQgEvucVnTUf0SLrggNU884MvZVa0QDw_-=w148-h148-n-k-no"
+            },
+            {
+                "title": "ST. PATRICK'S CATHOLIC CHURCH",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhZS8pf0FiQLAaiQbf0i0ZLxm6kOzTrVbc5oaL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mufulira Rugby Club",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9VIq83xB8loCx6oNOy1gfOSROpE3ILMbTm0Kk=w148-h148-n-k-no"
+            },
+            {
+                "title": "John Kachofa Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_MWpYPpEDgr1BuAvkYOoDU3h3eTBw3sK3Skmp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Levy Mwanawasa Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY4j9LHfo-Vn3rgjVxp6Q4BkOMMKczkcPD-OA9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nkana Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOcUhDpJt5apr5gLmttDI-aKFob1qu25BdeexA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luanshya",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1JfgSiRH4Uiqfk3zavUH2aVxeAm9mxJIhAlmq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arthur Davis Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMFrBVicZiVLIfNaUc1jXaxQxW8GJOy9Y2TWd-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Copperbelt Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1prsjFPLKIrL9wzMe24UdJr8VBRLO-3c2Yy3l=w148-h148-n-k-no"
+            }
+        ],
+        "Mazabuka": [
+            {
+                "title": "Mazabuka Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmT4DRC-nvN1oTtA2yIrqKHByNYuQqubh1qiSs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mazabuka Central SDA Church",
+                "category": "Seventh-day Adventist church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2qDPlTja6Y38FPoo0ZrZ75oyS3jbgKKevxd5s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grace Pentecostal Church",
+                "category": "Church of Christ",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg_FueLlWEax9mPALL-uCLMDvLXha7YQX34vKu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abivist Gardens",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNxtFR5CNl7aWwYsZZ24Vnd502mtPGz-1AlaHx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mazabuka Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPq78L8IHJcDB2qTZWjQnU_LIVQuHn0avQVn3ZB=w148-h148-n-k-no"
+            },
+            {
+                "title": "HEAVEN`S GATE S.D.A CHURCH",
+                "category": "Seventh-day Adventist church",
+                "url": "http://heavensgate.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVTn2IUGAHyQSAdsHCoqE8paQkyi-h1JCz_5UJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coffeeberry Cafe",
+                "category": "Coffee shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODRnPhErYn-dcwH3wbOaQo1MVcc0hyL0GlRNvs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hungry Lion Mazabuka",
+                "category": "Chicken restaurant",
+                "url": "http://www.hungrylion.co.zm/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwycY1rANDvpYRg0pd5PMKByXVcuXG2Efwp8jl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buya Bamba Ltd",
+                "category": "Shopping Centre",
+                "url": "http://www.buyabamba.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqjRYBwYF5VTg7BpglL6tqQcTrcyWc_o_-odg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nakambala Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvGDCP3MCY5btSCjTeCWeHt0zjegL79vDHZBc3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tiffany's Canyon ‍ ‍",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkuCMweDlVT3x5zquNv5X5wAFO25dlpXNtcjWd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Golden Pillow Lodge Mazabuka",
+                "category": "Lodge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4ug1UntSdW__FtC34qWOOJ90TVtGFOXLrp16H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chaminuka Lodge",
+                "category": "Resort hotel",
+                "url": "http://www.chaminuka.com/",
+                "img": "https://lh3.googleusercontent.com/proxy/BTykx0m5SH3G0ujaj3mSotfGg9gK1lLk8xskQwn8unQQFVXDTnrFDEkUTz_17udRP9NtRbzFT9d1w6nIESvJI_Y5Gas2tmruDS_HNrqOPK9t6fCILh9U9x9JneC4unJT-8TJm24QVJOnH5JRGtzac4PxXtHvew=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anglican Cathedral of the Holy Cross",
+                "category": "Anglican church",
+                "url": "http://www.anglicancathedraloflusaka.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGeIFvEoBkIr-7mt2GTGXD7zQjjnpaVS85LE8K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Laricio",
+                "category": "Lodge",
+                "img": "https://lh5.googleusercontent.com/proxy/Y7MjG53Vw0T2baXaj5tam5yGRyRz10nn-fj7YEHqd0lL9Xze_YjjQQbckAriglcIa_fPtcqz88N3CwXZqzXK24tczzYBloYOhxo2N5XUWPpy9TU6vEJi9BK9SbNQauiKoYdSRp_x6lDJIx6kcNJ20j3tAfq6z-8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Family Safari - Monze",
+                "category": "Wildlife and safari park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYG5lDdDA52E4dvv_Bb7Sq4ERJiMYY4BG6SgM=w148-h148-n-k-no"
+            }
+        ],
+        "Chililabombwe": [
+            {
+                "title": "Kumapili Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9c5bhfBoKeZDJeJKKl6lFhXaTGKklpe2i9DLh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shoprite Chililabombwe",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNV93RuJan1b9rOyLgMJHwA4WmmkNCPlm6GBq8I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hungry Lion Chililabombwe",
+                "category": "Chicken restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtuXd7yE3Rz31mx7HaeImq2it2hlhTe2m9oAj4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manellos Pub & Grill",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOv6mXQ5ZFMg40kLrTLmLHBkVyk6prFFAPUFl66=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dopchim Lodge",
+                "category": "Lodge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJx1U0GfVAS3L5kErvb0E-IQ92Th2Wu1FfkIiy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Konkola Bowling Club",
+                "category": "Bar & grill",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt7aiHPezeb0-CIlapR9RnK6pyxla9kgOIxnP2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dag Hammarskjöld Crash Site Memorial",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN25ylx8oAaB3QdlVoJNsltn_W_h8BZPcS05KbB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Konkola Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVbSPFufZRzrH5vEf-tslsGEXvdwrGioqxRtML=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Victoria Falls",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipORfEH9z6OMPpHhFqbGyOoZNZ2Har3iXhR8O4jv=w148-h148-n-k-no"
+        },
+        {
+            "title": "South Luangwa National Park",
+            "category": "National park",
+            "url": "https://www.southluangwa.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOs1PyDeOTsJ5ac6ixwE3khi2xNwIZTQwMi7h-9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mosi-oa-Tunya National Park",
+            "category": "National park",
+            "url": "https://business.google.com/v/_/AKsrIN1pRGAOrvfVyuhn-E6OazwruFgWejyfB0Le9IBAx7F4sl5a2g/db37/_?exp=1778401&myads=1",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNWADQabi2VpdqgeQfYbz6Wq2HMAW10EpIySWDe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kafue National Park",
+            "category": "Park and Garden",
+            "url": "https://www.kafuenationalparkzambia.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOBn8AvEFxrtPJeKsky4nHckiMRe7sgt2TsMQUo=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lower Zambezi National Park",
+            "category": "National park",
+            "url": "https://www.lowerzambezi.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO_vVxfL8jEGC7bdZtGsP_-XH-0tbKwIkEP-rlM=w148-h148-n-k-no"
+        },
+        {
+            "title": "EastPark Mall",
+            "category": "Shopping Centre",
+            "url": "http://www.napoliproperty.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMzFQ4x8fp4_wn2BCxY8iIABtQUWFmqeOMxje-b=w148-h148-n-k-no"
+        },
+        {
+            "title": "Liuwa Plain National Park",
+            "category": "Park and Garden",
+            "url": "https://www.africanparks.org/the-parks/liuwa-plain",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOXZurinBq3DyA_8Xo-92o_kVqemsrXbpHsRPMu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kasanka National Park",
+            "category": "National park",
+            "url": "https://kasanka.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPh9Zeg2TtBazxV5ptXuVYaOUtMsGqBsqfkVvKV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Livingstone Museum",
+            "category": "Museum",
+            "url": "https://livingstonemuseum.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN7zBQ3UasL27zFt6Z032pMRb5mLIrolFwT_iDY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lusaka",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNNT-6RUrKNg8W9lnwu6kW4vxFmC0_F--RZ11uX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Livingstone",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPpQ6CbxI-6cvR-dmfaVHenI2cA8Nh0wu3fCtPZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Devil's Pool",
+            "category": "Tourist attraction",
+            "url": "https://devilspool.net/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPPNWDWKcQzUjL5TrHizW_WZ6MOtf22a6LX_3Zw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kariba Dam",
+            "category": "Hydroelectric power plant",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOa4Mf05JZJiq_t0HRm5ue2Do4zib7rkrK_uWol=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kalimba Reptile Park",
+            "category": "Wildlife Refuge",
+            "url": "http://kalimbazambia.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMBO9ij9fiKBUO4p3MKFVskb8wJUndKMvX2wlYT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Victoria Falls Bridge",
+            "category": "Bridge",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM00j1QOCQ38Od3tdofoNJxBXF4McmPhNG91gYV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nsumbu National Park",
+            "category": "Park and Garden",
+            "url": "http://www.zambiatourism.com/destinations/national-parks/nsumbu-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO9z2XIwLjNYetWCIQu2FPi9n1QR5GdDtfMbErg=w148-h148-n-k-no"
+        }
+    ]
+}

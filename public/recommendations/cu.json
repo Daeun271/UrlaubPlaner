@@ -1,0 +1,2975 @@
+{
+    "cities": {
+        "Bayamo": [
+            {
+                "title": "Museo Casa Natal de Carlos Manuel De Céspedes",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWNzp6xCfb5BlFPLvQaAVeyPPWl8z0gQHo80gO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de la Trova",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3F9Fe0DWrZkXg9nokgFweXi2F5oRiea-LIEVi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Cespedes",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMq73jTtD6o1v6iIuk4Jnlaim0SvNwa_pIY5X0e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bar La Esquina",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4mal2T8yqfClpE93SxQvTllrcIGz_syqhszJ3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo Bayamés",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFTWt_Iq0UZ6HvORdeZNMFsSLvxGfYAKI-eMgj=w148-h148-n-k-no"
+            }
+        ],
+        "Sancti Spíritus": [
+            {
+                "title": "Museo de Arte Colonial",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1pozB0v-MM9dUHwtlB-0lSwQ3_gaWfyKUt9G3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Honorato",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzSvNLTYhsf9eBjpDSrL4ZT1-dq37wDVs-RVma=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fundacion de La Naturaleza y El Hombre",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQX1tEYDlhomj1d9tMTzi05DCfnlO56d21AKjK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rancho Querete",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpL5bLAligroi7yRhXBbWWoIKXzHDxVB1VXeVC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Trinity",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXSeaGRfURvTe8X6HZzsSPKawtSVbQz8oNrU4P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia Parroquial Mayor del Espiritu Santo",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoyUXXhBShutvAPOl3XNs4j6MEAvFfj3GHezJj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gran Parque Natural Topes de Collantes",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgWZp7arnWzL3DcT5iCkmF6WB6jrdWIU4Mli5v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Provincial",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTKFtxBhEsrMjMfJxr6wcaed3YnvG1AuvA5Wxf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Serafín Sánchez",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZuh2ZFRXKwLvPz-R9szoFhDKF2yxgMmshPD5d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vegas Grande Waterfall",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNc2xLEdSII16Nv8Unf4sshc8oYrgtdpahf3GXd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leaping Caburní",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2Q9S41IkdJrEl1wGyAwo2BZ6Yc9hXqJgjcCoz=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Cubano Natural Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCD2JThkzfL5Ge_3NDX3xfu1enh7-KzhpXEvyJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manaca Iznaga",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3AKGnCLJVXLBTHhPLOuJ364DriCFiKR64eOPa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ingenio San Isidro de los Destiladeros",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgjl1Bmr1XW3B4sb9bgC3h4Zjasht3--SgDfOp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro de la Vigía",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmzxcN7aYI-3NdQuF9bP-oxgSo27CUwTtYY90j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palenque de Los Congos Reales",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMfVqdhnNJy_iASmKKq22KTuqg7GdBOWqNdmPo=w148-h148-n-k-no"
+            }
+        ],
+        "Jesús Menéndez": [],
+        "Morón": [
+            {
+                "title": "Museo Nacional de Aeronáutica",
+                "category": "Museum",
+                "url": "http://www.mna.ar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5CiUeXIznUYOGt2wW8GixROL8vLiOkGWwo3hX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nuevo Francisco Urbano",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM35LtfGm56ue6jxhMMVUdIM8MMYJ6HeRrczZY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro Municipal Gregorio de Laferrere",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiBHrCY_t-oniFSLMVGGpY_6cD1HYx66dhFvbV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Oeste Shopping",
+                "category": "Shopping Centre",
+                "url": "http://www.plaza-oeste.com.ar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMuU1FBjDCHfx8atVHaAdXdZq3sKQg84nCq-QG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Morón, Argentina",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEOQD8v-DoYPyZesTlo6viAqQKrFmO-QCK4taE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beit Jabad Zona Oeste",
+                "category": "Non-profit organisation",
+                "url": "https://www.jabadoeste.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7d6xACLXiW__mdpvsbpNSj_zG7AeZCNCw2wD-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bingo Morón",
+                "category": "Bingo hall",
+                "url": "https://bingos.codere.bet.ar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZNGdqzdOYDC8Kfb674BKIjiJgqM8RYZULdWz7=w148-h148-n-k-no"
+            }
+        ],
+        "Güines": [
+            {
+                "title": "Christ of Havana",
+                "category": "Sculpture",
+                "img": "https://lh6.googleusercontent.com/proxy/kykIaDjGvpzJ_sc2c2BXANb3XATptQwLFyZWY80-EvEpxNokn3Nx1UghFIJCAKltoxLRo_0uhb-ZCxwN667gb6Wn6NakMflGhsBDqGJG70crl1vfOEmaruiyGQUsxNIk1J-vT2vkVotfJM-YxjjCctjew6Y0pA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Theater of Havana",
+                "category": "Cultural centre",
+                "url": "https://www.entradas.com/gran-teatro-alicia-alonso-la-habana.html?affiliate=EES&doc=venuePage&fun=venue&action=overview&venueGroupId=22536",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBp2KtDqtdnK2CM7OdGDnrVW9tqgzkoNWflhWx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finca Vigía",
+                "category": "Museum",
+                "url": "https://www.hemingwayhavana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9w2CY7VXZ--4BD8qVwjBLuZKbZH4vPrtRsc4R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Josone",
+                "category": "Park and Garden",
+                "img": "https://lh4.googleusercontent.com/proxy/23rhm94bBW3h94fwxom4pzVBzyF1-kMa-GSxcixVauoil7SuqRmOJdpyYIiOPiD1ETGHSd6Qea2Yi6tUZcdnRdrjYuz2IsL2NFi82pMQqFuaVz0KuZX7EzVklGTJ0YlclM3Zfxq5dmforMIjBhy8QNsUusEwJlA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuevas de Bellamar",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCU1V5UESVOtjjzmgCQLkSfy9RemBxeEvWgH9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cueva de Ambrosio",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPtGePe1qbV4RRJUX9HlNsccQOguuh4NIMdANw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Obispo",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrZwZ2dn1eCryHieYxSPFWYEtKfPreMXn3_SxW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo del Prado",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBONvSwMBXCiZTpzU7H3jGx6tHS1p8B_SUuNEn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vinales",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3WLpoZpvnLz-XLM_RNxVn3vUTX8akM7ZEJ7eL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Town Square",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxq_5k_OiKjls7VSITbRDDDlrcR0qs5biMEheK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort of San Carlos of the Cabin",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdCQx55KGTf7Bshg6HMc9ee6dI6DDb8Lvq4kNH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle of the Three Kings of Morro",
+                "category": "Historical landmark",
+                "img": "https://lh4.googleusercontent.com/proxy/3f6Pd_TASeyng5Gx5H6HzOKOPSm8bW_LLB-NaR0r_eWTsIRa3dp3vZ37L5xOHPQ8ZJECBmQcQ10MH1J779ZjO6lWwNmvMyWLBER2_8fhNY_C0WDMMScaTf04jlZkCQvv9hCmn3lMtiVB-dYzanPNrhxq7VKAgw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nacional de Bellas Artes",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj1IZCRt3xK9H2z6rSXQP0Gep49BuJjYaJa2cZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Capitol of Cuba",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLfvTihv_Ntf9h1kR97ek6SpOa2QAx69gVtfYj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Catedral",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw1GpbnkJhs7QlJU3qVyCiuPWD7Eyq9SA-dA14=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Vieja",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcywiEtpxYQFfPmovbkycy1kj_Pam4WXY1EaLL=w148-h148-n-k-no"
+            }
+        ],
+        "Artemisa": [
+            {
+                "title": "Cafetal Buenavista",
+                "category": "Nuevo Latino restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIbY83U2VN8IC1J3zGDHEf5gXRjOBKOQMFFcqJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Havana",
+                "category": "Administrative Area2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN570lETxhnZMp_ldtmQ2vlPhfUFb-BxywB4idP=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Antonio de los Banos",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmdvgY-ZJb142AhCtUejC8ag3M3Sb9hnticqka=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Soroa waterfall \"El Salto de Soroa\"",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPz5LW5mpp_Pw-9lIMS6j6HM6oM8-q86We1Qbo6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Terrazas Complex, Pinar del Río",
+                "category": "Farm Stay",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjVFTPIrsSXiNQt6Lt-MQ_SHDj38wEfVZKAkQr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castillo en las Nubes",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-CYc8gercsCT4gj98wkdBkNsrnMylhGJaJ3gE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Terrazas",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhBVmqWDqkqwF6HnKY-eVzV4_xANtdeoztTawP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tungasuk Farm",
+                "category": "Organic farm",
+                "url": "http://tungasuk.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjXhveJTHg1tXSrGlGUYqLgiHSo9_ZQyE26S9m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soroa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZ-zKL2nXu6vdOGI_MrjSXkRT1oIN3zfk_C03F=w148-h148-n-k-no"
+            }
+        ],
+        "Cerro": [
+            {
+                "title": "Museo del Ron Havana Club",
+                "category": "History museum",
+                "url": "http://www.havanaclubmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6HcWkhw02TPDhxz3naQGhGH4Kt8fF1GNuHR3U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Universidad de la Habana",
+                "category": "University",
+                "url": "http://www.uh.cu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIsrcWo1yUaxTAEDez5yDDSSI-pZYw5JQWN07e=w148-h148-n-k-no"
+            },
+            {
+                "title": "CicloCuba",
+                "category": "Bicycle hire shop",
+                "url": "https://www.ciclocuba.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvVX6GeLTfr7zuSPq559oVBFkMB0MTdTHVPCDI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mother Teresa of Calcutta Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzvePIlKTM9BKye4AP3mvO0YEXb-Xslv1CC2p_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Guayasamín",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPou5XlUKr00OG2eYwU6GRjfhCmGaLEwYOiSWpN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Martin Luther King",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsGTKppZiki_MnLst-eMiyrnA7p26lnyG9GVnA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beach Santa Maria del Mar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVI-HK2BwLG7u-kTLFcxHU0B5kF2mk0KZOApj1=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPat4Uc9sqXOK1tiRrouq0XH6vOE9S0xO6cTSAs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mi Cayito",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML130RP1NSzwmbe82SkUKLEq6wvQMmar4Jf-EM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Hemingway",
+                "category": "Marina",
+                "url": "http://www.hemingwaycuba.com/marina-hemingway-cuba.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEHZoBUi6N4kmom6LKHSeiTT9rpFEMRLF8u6Lr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Náutica Marlin Tarará",
+                "category": "Water sports equipment rental service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHJX9VRoScfKiA4gmkxROhO2dtoDYuhCnIW0wv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matanzas",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnFKgT0GC7QPD1H_46Xjudhv2UX9pV2kGzqzcU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zapata Peninsula",
+                "category": "Peninsula",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvrkXB7UPqw0X9Pf2gtEFh5KxWLV6cEl7VpNkI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Giron",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRqRhJLLshJKMOlzOFuHFdFDUt39wl2fsW19UR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Havana Castle of the Royal Force",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0YVlRxSE8EaV-QKJOAwyz-30JC8j-BPKKne7v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio de los Capitanes Generales",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq8ackBNYYtUHgTWEuOAJY4HU73PqQUO56X4Vt=w148-h148-n-k-no"
+            }
+        ],
+        "Holguín": [
+            {
+                "title": "Las Flores Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOejzL1kuAmGtTzgu9lxERW4eHQSz5mmk1x3__k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fábrica de Órganos",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuJOsY1LckUKDvnsZn-gHg59xoRfuRXlQ5JJx_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cabaret Nocturno",
+                "category": "Nightclub",
+                "url": "https://m.facebook.com/nocturnocabaretholguin/?tsid=0.08387776938352687&source=result",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsz232z887AGxJxpVjmqRs3Ila-tksxQkwgJ1m=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Isidore Cathedral",
+                "category": "Catholic church",
+                "url": "http://holguincatolico.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJl8RHrzPMJgp19ZBhwMPqX3Oy50bMifpXGFlf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calixto García Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYd3kBTVrdro3QsdM9i7HICLUMM_aqz3iEhv-U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Marqueta",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOd1rlIn1CdWe5QvNjtCdx6agf-inyxIWhrY73u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de la Música",
+                "category": "Entertainment",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_UpsLnImpL8P-EshiBmnu92lo4C7C9nzxmV1R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Provincial Museum of History",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgIHDziKeRnoWf55HOYi8dGq-TxT6C5DIUWCsG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Natal de Calixto Garcia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUa2SINWqopPbzZTLb5f0876J1pyzhGWwYg2Wq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Islazul Mirador de Mayabe",
+                "category": "Hotel",
+                "img": "https://lh4.googleusercontent.com/proxy/texyWy2NIwEMU2QLip5G27Or3YrxdInoEkm9Tnpjn6l3zF25RUn9Jr1Ld1fldmzCJDYZdMzPGr_yMkJTeIbpBYOB9bTrSo0_xAir5uJsEa7x4uztQ5b-LhGkJbmLFlH3zvlevJiMj7ehHOBS78CT5ctF7cXxLA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardín Botánico de Holguín",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhVDeCYu3hYrE05w0FeBW3P3MvJ0kF_M67a3dO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loma de la Cruz",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzxgMj2FzdA5jACpgJostcwUMt816Tpimk5Fub=w148-h148-n-k-no"
+            },
+            {
+                "title": "Biran",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcTfk9prL9RQhaojNYAmTJuYo8fj_H94v5q9ne=w148-h148-n-k-no"
+            },
+            {
+                "title": "San José Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpSn-bWJSQQH6W8M7sDDvNMvVzuSPhujxjIBB4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Playa Pesquero",
+                "category": "Hotel",
+                "url": "http://www.playapesquerohotel.com/",
+                "img": "https://lh3.googleusercontent.com/proxy/z2k9dLd-lgzkRcwfZfDmLeUGV3u-KTLVOcWh4MwFa-DZReZB3qVu2864bmGAFIwq3k5RN3nOZF68zKumtc_Qn6rmXPyP69hg6hBYP29BHxTgQ66Bj2gBZeEmHMnn5yChtAedw59VCMFSVviMxrKK2-X9i45eeg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Esmeralda",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1Ofcs1oGSTBn6P9FjJnBwJjQNnB_bdbeWuxi3=w148-h148-n-k-no"
+            }
+        ],
+        "Matanzas": [
+            {
+                "title": "Lolo Galeria-Taller",
+                "category": "Art gallery",
+                "url": "http://www.osmanybetancourt.com/contact-us",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsFq7ixVpAfzSBRQveF7FLqmov1-1EJ-Sa_bHH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victoria de Giron",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkqFmqFas2dIW_rmchdNJ4zY_Zb8YTz13Cr8dG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque de la Libertad",
+                "category": "Park and Garden",
+                "url": "https://www.ecured.cu/Parque_de_La_Libertad",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2UdJvaz46KKuXcTLV7h82U4zsncHp9vKgY3eK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cafetal La Dionisia",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY8ss8gblpF7z6xvSNwrqyu5AJ8DAZXVLIN8GV=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Severino Castle Museum Slave Route",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCrFDUg_yzL0kQQFTIK8O8_wLswBlkCExp_oSV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ermita de Monserrate",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRXL8TMIM0D3dYHaxzKUUNnXuZ99MwTNqg8aDg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puente de la Concordia",
+                "category": "Bridge",
+                "url": "https://d-cuba.com/puente-de-la-concordia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDhjzTgujciGFTP4Yc3DanMBc-nGYxPtDIQ9s9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Buey Vaca",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWgpoTvni0-WAG7ugFySu54LUUWZhTnZ8G9AK_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palmar de Junco",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCNu7g9hetMIHJsKaleSElWc6kQSqYdL9mC0ac=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuevas de Bellamar",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCU1V5UESVOtjjzmgCQLkSfy9RemBxeEvWgH9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Farmaceutico",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3uI4UrUitLttJwVwd38G3Ieawi5gGk4ni8e-u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Palmar de Junco",
+                "category": "Sports club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtGe7mR6_v-KVTYk8yal9O6PlB2KeferJYjdpV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Callejón de las Tradiciones",
+                "category": "Corporate office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9NVVPVuI5rjCKW3BdVe_1xo9ACrHnlVfS_hJg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral Of San Carlos Borromeo",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDQS2bXRTW2h0XhHd8-RxzvkOgwKLWnn3u21FD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sauto Theater",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3tRKWkqKsr36AvAhBe0fzHUuE-e7B3zn90KTd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cueva de Saturno",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiz1XtFj1kte_Kt1yfJvJBQ2h5BPIyPkCvOGjo=w148-h148-n-k-no"
+            }
+        ],
+        "San Miguel del Padrón": [
+            {
+                "title": "Malecón of Havana",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBh4A6M4g7wdSNm1xE2b8j83Joqxe6LJAllLhW=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Guarida",
+                "category": "Cuban restaurant",
+                "url": "http://www.laguarida.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMtEBhv8Ct6qJ_vAPH4Du4AjmqHXR5Av94iL_W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Town Square",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxq_5k_OiKjls7VSITbRDDDlrcR0qs5biMEheK=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Martí Memorial",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5o7Vxsz1dcCrf71phDdpyYlJt4KxajTdd3Qw9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viñales Valley",
+                "category": "Scenic point",
+                "url": "http://excursionesvinales.com/",
+                "img": "https://lh5.googleusercontent.com/proxy/vyP_L5gl3qjNTdA19YYQ6Xo4JHJGAivV9yMSb7UKWAtnKS4GWiDxseQtpB3IP81RjeNNb6JF3yHGTnScS4SVEE2D_W1VZ6PIe3zVP62ACGxKITDZ9u7LklEtiDhkxYGfak1GLuXKcwQzuJB567oru1Le3wsHfw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gran Hotel Manzana Kempinski La Habana",
+                "category": "Hotel",
+                "url": "http://www.kempinski.com/en/havana/gran-hotel-kempinski-la-habana/",
+                "img": "https://lh6.googleusercontent.com/proxy/GS7Q9GuZNDk8OcYO6FeMLO5_MOx77rdk93ZltLBOOCLSU3c9eizRSAKM7lCp2aucnjj78Zzkc-RzAiyvcKg1V7htemik529gHeUCE-n136VbDuzUAQocFIpx5_fsjzEDM8xmdBzARrBWYts9L1xodxUCGhY_LA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finca Vigía",
+                "category": "Museum",
+                "url": "https://www.hemingwayhavana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9w2CY7VXZ--4BD8qVwjBLuZKbZH4vPrtRsc4R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Havana Castle of the Royal Force",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0YVlRxSE8EaV-QKJOAwyz-30JC8j-BPKKne7v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de la Revolución",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVT2Yme5Q0H-nlIw2t3efXjMMuNk_rWSS4yLyY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nacional de Bellas Artes",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj1IZCRt3xK9H2z6rSXQP0Gep49BuJjYaJa2cZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle of the Three Kings of Morro",
+                "category": "Historical landmark",
+                "img": "https://lh4.googleusercontent.com/proxy/3f6Pd_TASeyng5Gx5H6HzOKOPSm8bW_LLB-NaR0r_eWTsIRa3dp3vZ37L5xOHPQ8ZJECBmQcQ10MH1J779ZjO6lWwNmvMyWLBER2_8fhNY_C0WDMMScaTf04jlZkCQvv9hCmn3lMtiVB-dYzanPNrhxq7VKAgw=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Catedral de la Virgen María de la Concepción Inmaculada de La Habana",
+                "category": "Catholic cathedral",
+                "url": "http://www.arquidiocesisdelahabana.org/",
+                "img": "https://lh3.googleusercontent.com/proxy/Nd20yXIURm2hvUWNzcRvHYXv5ud1SizwUoQpcC5NbgFDUKq6PJ5cBlnmhnKD-dOQcN-trPCRLp7VVU5T1LNWxuWOD-nwN4LcTewsJJnw893P9rKEFsjWaNTs5Nyv3dJbpY3s4uYrW5zoPhv2IG3FiKSmKGe1w8A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Varadero",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMh4_Lbl9lQ-6JY3TDVSH19kOFrYaDFxLWN7AtY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Real Fábrica de Tabaco Partagas",
+                "category": "Tobacco shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhz2oge_PoEyb8YejVPBLt-3n4tOQsKfjNcUG-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Havana",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkldYn0SK8RLOcQkb1iL7tK4a9iWy3prKn3uvC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Largo del Sur",
+                "category": "Land mass",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNG5ID3NSwOYo46NGEEXpJLx7J6gJRf81LQOyFx=w148-h148-n-k-no"
+            }
+        ],
+        "Guantánamo": [
+            {
+                "title": "Zoológico de Piedras. Guantánamo.",
+                "category": "Theme park",
+                "url": "http://www.zoologicodepiedra.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOioAzv3zNiloZQR_43-99Jtoha-gdOIyVXdM-x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Toa",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwKo6Aalj7fkhu8aGXZlTmjxOzxodPsbq2X7tI=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Yunque",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9f73-Rdz9i4E8O8_Cqtbcg8fUEYg-SGEA7iaX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Maguana",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7iaFYOh60oKz9oZHET_Igvw4JSVJ1HHCT5HpS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Municipal",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwuTsneDqSjHcv6PljIvgoXayFpbplz3w4lu5S=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Catherine of Ricci Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPk7hmV0wA2G9-WRd8ff1UKqD1L1Ee2GCAfz0jo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de Nuestra Señora de la Asuncion",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1Ck_rR7gflTUGrpwEi8gO8XKmUgK1zgIrgdNZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Salcines",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbXZ1JL4B3G4F5qvDFlHIuP6vKPBY-Lfnak5Bx=w148-h148-n-k-no"
+            }
+        ],
+        "Placetas": [
+            {
+                "title": "Gran Parque Natural Topes de Collantes",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgWZp7arnWzL3DcT5iCkmF6WB6jrdWIU4Mli5v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cienfuegos",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzdJMnOdx0LnnsWdFU74K4vTlhehdOIrns0plu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Larga",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHjfmLZ_1d-NN6qz_zbBZp-xUWHCgDqtqq6e8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zapata Peninsula",
+                "category": "Peninsula",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvrkXB7UPqw0X9Pf2gtEFh5KxWLV6cEl7VpNkI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cascate El nicho",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfTnn1XCLrgfwbJEvW5KyfvYWeZ1bUgJ6DPoA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Clara",
+                "category": "Locality",
+                "img": "https://lh6.googleusercontent.com/proxy/YyUs-VLuzRDOnP7qCCPbK2nNhbUZrPOCYuwmhJuMUcZGqWGN-Y4zVbXZevQPc5yU6IQ5M1M4Hg-iFDooIBYnciDjS3ScMvYpe_jqjqhFVnXjZ_rbD9vyNLSNpZiNMY70OwTcO3vizzTDl0fLORv5iHHIu2XvNLs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Coco",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq9sr9Efe_wzvlTfQzdB5jP-rsR70P-6pkVxkN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Pilar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk42baabzdYmdLt2bVYbsZMwAbs_ROjI4ycOdu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Santa Clara of Assisi",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGJQjJTJyL61wzyUgLyCRM30J4Jjp3RqH6Oftm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taking of the Armored Train",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeayxU_3FLbWLo_EsfX8nCmNWBAlr8FonF6Mtp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loma Del Capiro",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeuRhx09070yqLNsBzMPeDF2IgsBTSCg7MamAr=w148-h148-n-k-no"
+            },
+            {
+                "title": "vidal Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMj0_0omVNM-cpiAoo_-npf0B02MgVtK2wknbA_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Santa María",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsoVf7bGUlum3m_AAqQsZRQcYu-us0poTw6Fqu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Giron",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRqRhJLLshJKMOlzOFuHFdFDUt39wl2fsW19UR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cueva de Ambrosio",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPtGePe1qbV4RRJUX9HlNsccQOguuh4NIMdANw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cienfuegos",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmL4j5_3ELJbjpvOzs2L29RYBhLlnMDwc2NHk=w148-h148-n-k-no"
+            }
+        ],
+        "Colón": [
+            {
+                "title": "Fusterlandia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0nlkGwSv-21xnTsbMABA2aMtkY07ZFH10PKAB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trinidad",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7hgk-XfxIUIi2z1I444eiEch9xeemNZ21dflU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Havana",
+                "category": "Administrative Area2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN570lETxhnZMp_ldtmQ2vlPhfUFb-BxywB4idP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida Malecón",
+                "category": "Route",
+                "img": "https://lh4.googleusercontent.com/proxy/Lxl9GBPlpKUSbGVwmAZqnQH8L01CBM1pY9xLPUfVeQxrHDo1BFofWQmUdUvLxFKrYBVeT9cvt5KlA4sY-3CcXWfjKvfohtqKzji07-vEcgVxTOyjGWTh9g2gzlkBDaT0peAalRh_v6Rft2j6fD3_cO9ty8hiQlo=w148-h148-n-k-no"
+            }
+        ],
+        "Centro Habana": [
+            {
+                "title": "Central Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsASr_ldVJweBBfYlz8l3XnLpOK7JbiEjbl4nO=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Floridita Bar",
+                "category": "Restaurant",
+                "url": "https://www.barfloridita.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWlRYWqXPiBvJGn0-tlrX1lMwqEAO_sdLVNzE0=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Bodeguita Del Medio",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-RoRSjzzfhowjGEBOV6cZ1tbElw14-SYntuV8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONDZeTbMEOFUzbBkY0-u3PsZ71DPbcbZ-YRQfi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de San Francisco de Asís",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgUqmmMLbYvzZ6h4T2SA1YM2YU2OEwMfb3kq4o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Artes Decorativas",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmW2tKDhueO1Hgw3cibNJiDSZtM3LRvMpmLtz9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de la Revolución",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVT2Yme5Q0H-nlIw2t3efXjMMuNk_rWSS4yLyY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maximo Gomez Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVqPwOmub3BF2QZuYTXCSHCTkhq5jNDuKt5Oo0=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Catedral de la Virgen María de la Concepción Inmaculada de La Habana",
+                "category": "Catholic cathedral",
+                "url": "http://www.arquidiocesisdelahabana.org/",
+                "img": "https://lh3.googleusercontent.com/proxy/Nd20yXIURm2hvUWNzcRvHYXv5ud1SizwUoQpcC5NbgFDUKq6PJ5cBlnmhnKD-dOQcN-trPCRLp7VVU5T1LNWxuWOD-nwN4LcTewsJJnw893P9rKEFsjWaNTs5Nyv3dJbpY3s4uYrW5zoPhv2IG3FiKSmKGe1w8A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo del Ron Havana Club",
+                "category": "History museum",
+                "url": "http://www.havanaclubmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6HcWkhw02TPDhxz3naQGhGH4Kt8fF1GNuHR3U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Proyecto Cultural Comunitario \"MURALEANDO\" (\"El Tanque\")",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOe7wGMB0-54PU3ZlB-hT9ZRJbzqLx9kfxH7uyM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beach Santa Maria del Mar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVI-HK2BwLG7u-kTLFcxHU0B5kF2mk0KZOApj1=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Martí Memorial",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5o7Vxsz1dcCrf71phDdpyYlJt4KxajTdd3Qw9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playas del este",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfErYYgjffA0QVPDBgT--F4lkKh1X652YTlMKA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio del Segundo Cabo",
+                "category": "Museum",
+                "url": "http://segundocabo.ohc.cu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0E0VTy6EO1_N-LjZinH4TSIkp6rPsvu8MYDG0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio de los Capitanes Generales",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq8ackBNYYtUHgTWEuOAJY4HU73PqQUO56X4Vt=w148-h148-n-k-no"
+            }
+        ],
+        "La Habana Vieja": [
+            {
+                "title": "Plaza de Armas",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONDZeTbMEOFUzbBkY0-u3PsZ71DPbcbZ-YRQfi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Nacional de Cuba",
+                "category": "Hotel",
+                "url": "https://www.hotelnacionaldecuba.com/",
+                "img": "https://lh5.googleusercontent.com/proxy/31m1wH0Vwazyyhz4CZwPPlt9TdT-XYG44Qm1eO9qmG7MnLFXMtAH0a79KTDBrQHUtr335IYDQrv-60pLCBNy-0NcEsIwNiRWtuZx6g6Upf9Xm-c7pqpGk74cA5LkrCZ4So7Q3hRozGhsWBttm13-HxMvdqqiEg=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Ojo del Ciclon",
+                "category": "Art gallery",
+                "url": "http://elojodelcicloncuba.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPuOC4-7T7Nd78hM6ViCM28JNnSqyCTE1MoHvL=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Templete",
+                "category": "Memorial estate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU81GV9mL5woggaLErANoCkXiGy95robiRaDsA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercaderes",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOws0qwXSkOZ109MDIKOj_K8Hytl2wRqDE1_42Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Floridita Bar",
+                "category": "Restaurant",
+                "url": "https://www.barfloridita.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWlRYWqXPiBvJGn0-tlrX1lMwqEAO_sdLVNzE0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza del Cristo",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZUt7tFEbVO8sa4P3WBigqXclq3hxn3p5u-Xgk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio de los Capitanes Generales",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq8ackBNYYtUHgTWEuOAJY4HU73PqQUO56X4Vt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galería Taller Gorria",
+                "category": "Art gallery",
+                "url": "http://galeriatallergorria.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsqQxg9XTQq0hn29fnqusKAVcXlfMBf4dWOWAA=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Martí Memorial",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5o7Vxsz1dcCrf71phDdpyYlJt4KxajTdd3Qw9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bacardi Building",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNXgaYZx0LZ6JTqenPQT5V6vOnSfottu6GJ3iH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de la obra Pia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXo8SCRBERZ264AHMNl07W2GYLkqA7iGqEJapa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Universidad de la Habana",
+                "category": "University",
+                "url": "http://www.uh.cu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIsrcWo1yUaxTAEDez5yDDSSI-pZYw5JQWN07e=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Bodeguita Del Medio",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-RoRSjzzfhowjGEBOV6cZ1tbElw14-SYntuV8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de San Francisco de Asís",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgUqmmMLbYvzZ6h4T2SA1YM2YU2OEwMfb3kq4o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seminario de San Carlos y San Ambrosio",
+                "category": "Seminary",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb1tHqh7LpA3vytkpgHt9_G6NprlzWerTQS22R=w148-h148-n-k-no"
+            }
+        ],
+        "Corralillo": [
+            {
+                "title": "Gran Parque Natural Topes de Collantes",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgWZp7arnWzL3DcT5iCkmF6WB6jrdWIU4Mli5v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuevas de Bellamar",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCU1V5UESVOtjjzmgCQLkSfy9RemBxeEvWgH9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beach Santa Maria del Mar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVI-HK2BwLG7u-kTLFcxHU0B5kF2mk0KZOApj1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Free Walking Tour Havana",
+                "category": "Tours",
+                "url": "http://freewalkingtourhavana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYDSZ0emmn1uSnMXPsiCpJDwZAaKM1WQdH4QGI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Disco Ayala",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjISwGrE8pf3yfkTvooOe8tL4g0bIalLhqk7Zt=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Cubano Natural Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCD2JThkzfL5Ge_3NDX3xfu1enh7-KzhpXEvyJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leaping Caburní",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2Q9S41IkdJrEl1wGyAwo2BZ6Yc9hXqJgjcCoz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cienfuegos Dolphinarium",
+                "category": "Aquarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPFL7DBhO9WXxu0nvoDlHl5Thc0RZk-wdpy_BI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Vieja",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcywiEtpxYQFfPmovbkycy1kj_Pam4WXY1EaLL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuba Ruby",
+                "category": "Taxi service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlsmWcy8mLylBSTqGZsFr1poclqysMBC8z_Ds7=w148-h148-n-k-no"
+            },
+            {
+                "title": "VC Tours",
+                "category": "Tours",
+                "url": "https://www.vintagecarstours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyQxcRbO1EqWkazaHYepj822UQMfl3pRAkDygm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baila Habana",
+                "category": "Dance school",
+                "url": "https://www.facebook.com/BailaHabana/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEOiQLf7pyyaPeql4G2_CwBat5IsuI0SBkMOg8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taxis Clavijo",
+                "category": "Taxi service",
+                "url": "http://www.facebook.com/taxiClavijo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODgnm8JGKzLpAx_4wqPZ8NS6WH2R70tYDGpcjt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio 5 de Septiembre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8zFqANXvbO8Tqh_RmVqz6XEavx_eFGjShj8LE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Guillermo",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0mEl8x3lP3Vw8XMgnmBk-GTGHnZK5t0AgcxQI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Pilar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk42baabzdYmdLt2bVYbsZMwAbs_ROjI4ycOdu=w148-h148-n-k-no"
+            }
+        ],
+        "Boyeros": [
+            {
+                "title": "Havana Castle of the Royal Force",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0YVlRxSE8EaV-QKJOAwyz-30JC8j-BPKKne7v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Universidad de la Habana",
+                "category": "University",
+                "url": "http://www.uh.cu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIsrcWo1yUaxTAEDez5yDDSSI-pZYw5JQWN07e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio de los Capitanes Generales",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq8ackBNYYtUHgTWEuOAJY4HU73PqQUO56X4Vt=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Ojo del Ciclon",
+                "category": "Art gallery",
+                "url": "http://elojodelcicloncuba.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPuOC4-7T7Nd78hM6ViCM28JNnSqyCTE1MoHvL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salsabor a Cuba - Dance school in Havana",
+                "category": "Dance school",
+                "url": "https://www.salsaborcuba.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNQ_k49rOykgF7-PPz53b7MudsjrEthUTNsuch=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baila Habana",
+                "category": "Dance school",
+                "url": "https://www.facebook.com/BailaHabana/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEOiQLf7pyyaPeql4G2_CwBat5IsuI0SBkMOg8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estudio Taller Santacana",
+                "category": "Art studio",
+                "url": "https://beatrizsantacana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM28Vkv6Ks2oJuKjtp-3pQ9f8ql3CN3T7nxny-v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Instituto Superior de Arte",
+                "category": "Art school",
+                "url": "http://www.isa.cult.cu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhhv8CxqN3RAHDHSMzOdFNxA1oMOdSA-fCTm93=w148-h148-n-k-no"
+            },
+            {
+                "title": "Experimental Graphics Workshop",
+                "category": "Art school",
+                "url": "http://www.cnap.cult.cu/instituciones/taller-experimental-de-grafica-de-la-habana",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXx_HNqtRZrgUj3sSLXQ2DrqbA3nb2Suzujzbe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa del Agua \"La Tinaja\"",
+                "category": "Cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIIxRb09YhvqVx5JzTFt9bfJXrvuYQiPGWFOn9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lolo Galeria-Taller",
+                "category": "Art gallery",
+                "url": "http://www.osmanybetancourt.com/contact-us",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsFq7ixVpAfzSBRQveF7FLqmov1-1EJ-Sa_bHH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maqueta de La Habana",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkEQ12am3_Chy_5hCLnRatSmZH2EbU1HIchd84=w148-h148-n-k-no"
+            },
+            {
+                "title": "Caballos de los Mogotes 2",
+                "category": "Tourist attraction",
+                "url": "https://www.facebook.com/vinalescaballos/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZtSOJXPRjEajEUV6WmTv6oRQXrIXKNuxwbnSo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Terrazas",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhBVmqWDqkqwF6HnKY-eVzV4_xANtdeoztTawP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matanzas",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnFKgT0GC7QPD1H_46Xjudhv2UX9pV2kGzqzcU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zapata Peninsula",
+                "category": "Peninsula",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvrkXB7UPqw0X9Pf2gtEFh5KxWLV6cEl7VpNkI=w148-h148-n-k-no"
+            }
+        ],
+        "Cárdenas": [
+            {
+                "title": "Museo Casa Natal de José Antonio Echeverría Bianchi",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkgZL4w5Q6bhuEDVU6sDUkKShFL22wWz4O2Y5v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crab Monument",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9-etpgnoY-1UQAXZ04k-ZaxxuQhbi3JR7YF2J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum Oscar De Rojas María",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWkPfU-VNWc4hF1hNGrh8tRQ1BZVNW_PWqDMjf=w148-h148-n-k-no"
+            },
+            {
+                "title": "SilvArt' Joyería",
+                "category": "Jewellery Store",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXpihkq9ecOKEZExDWwkDi6QChudrWFXoOR-tu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cardenas Cathedral",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_-BbZSvJZIajeXiUHWJqX-9D-vy3vh8sAadLn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo A la Batalla de Ideas",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeg9h4hB1lWfx4ASC2XLm-9-b3vNu-cDRY7aon=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cueva de Saturno",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiz1XtFj1kte_Kt1yfJvJBQ2h5BPIyPkCvOGjo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atlantis Varadero Scuba Diving Center",
+                "category": "Diving Centre",
+                "url": "http://www.scubaatlantisvaradero.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMj7vZ6CAo8pr5MblyISP1OsCAEvh9d0VzEkwCm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Varadero",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMh4_Lbl9lQ-6JY3TDVSH19kOFrYaDFxLWN7AtY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Varadero Dolphinarium",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPieaW7ycY3UbFTB0cfVHZaOSwZI8OxLpYRiZXi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cueva de Ambrosio",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPtGePe1qbV4RRJUX9HlNsccQOguuh4NIMdANw=w148-h148-n-k-no"
+            }
+        ],
+        "Contramaestre": [
+            {
+                "title": "Sierra Maestra",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-I9L0tDliAevshzV_2N636VxV4ITEJp5nswqi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia Sagrada Familia",
+                "category": "Church",
+                "url": "http://arzobispadosantiagodecuba.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJY1cthWicXwwvOwKfDhFFAUuowx9XbVhk0rL8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baconao",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdlkT-_qLn-ucKOk7X-pQbz6ldaJ5JRc1ykOZH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Helechos Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8_k_YWW25l2FATqlnLH-RubL-9F0Zu8XnG7_g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guillermón Moncada Baseball Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsZOmAUoTKwVqjFP1ypoPZIbwQcpMYMK0nt_kU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faro del Morro",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhganrCgwQuG4Dpp_lcbnlUmipH075tuC9H79f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Céspedes Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU_7_WNML3ZSOufLIc3ixK1q4_hj3sZuCpyzpp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Historia 26 de Julio",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6v9RYR9nRfLkKwJjEkbpjpzMVt1pbKSc3zTNL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de La Lucha Clandestina",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBsom5wpdqzVFj_Otr-BYzlzqeWZfKGzcObuyP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Padre Pico Steps",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObCj0L0c1RjWvtWutJSMvyL0_jFR8mpryDKYPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Dolores",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe-N17vxO7DXUvGfq4ceaEWm7Gld9FXKDlpKJb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Ifigenia Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCr9eBUWlew8ytj8S8U4nj5s9lJdeViIB1wPSi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castillo del Morro",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/proxy/VtMYiB0S8mMvOHDNpfRH8F_oAOgoqfeRH65sGEy-FsJYUG-54vyABWYFTY5WTQvLvWsH-SJcob9-mnIcqgo9qwt8C1J6hExzlUg6v9F0MvCaAkraG41muRFlw9mFGSHmfLVH7hLTL92n_2mB3DNoV7QbJ7-i5yo=w148-h148-n-k-no"
+            }
+        ],
+        "Alamar": [
+            {
+                "title": "Museo del Ron Havana Club",
+                "category": "History museum",
+                "url": "http://www.havanaclubmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6HcWkhw02TPDhxz3naQGhGH4Kt8fF1GNuHR3U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Our Lady of Regla",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOA5lOQG5VeagSy-f0zIN22Ab7gEfCrKshGmiwG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Universidad de la Habana",
+                "category": "University",
+                "url": "http://www.uh.cu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIsrcWo1yUaxTAEDez5yDDSSI-pZYw5JQWN07e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the City",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMe-f-HxX1UZAPVaaNJd_cuL09mD1SKG2LvPWE=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Ojo del Ciclon",
+                "category": "Art gallery",
+                "url": "http://elojodelcicloncuba.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPuOC4-7T7Nd78hM6ViCM28JNnSqyCTE1MoHvL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio de los Capitanes Generales",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq8ackBNYYtUHgTWEuOAJY4HU73PqQUO56X4Vt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Havana Castle of the Royal Force",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0YVlRxSE8EaV-QKJOAwyz-30JC8j-BPKKne7v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de la Revolución",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVT2Yme5Q0H-nlIw2t3efXjMMuNk_rWSS4yLyY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matanzas",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnFKgT0GC7QPD1H_46Xjudhv2UX9pV2kGzqzcU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Giron",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRqRhJLLshJKMOlzOFuHFdFDUt39wl2fsW19UR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Artes Decorativas",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmW2tKDhueO1Hgw3cibNJiDSZtM3LRvMpmLtz9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zapata Peninsula",
+                "category": "Peninsula",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvrkXB7UPqw0X9Pf2gtEFh5KxWLV6cEl7VpNkI=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Martí Memorial",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5o7Vxsz1dcCrf71phDdpyYlJt4KxajTdd3Qw9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Theater of Havana",
+                "category": "Cultural centre",
+                "url": "https://www.entradas.com/gran-teatro-alicia-alonso-la-habana.html?affiliate=EES&doc=venuePage&fun=venue&action=overview&venueGroupId=22536",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBp2KtDqtdnK2CM7OdGDnrVW9tqgzkoNWflhWx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Havana",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN570lETxhnZMp_ldtmQ2vlPhfUFb-BxywB4idP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nacional de Bellas Artes",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj1IZCRt3xK9H2z6rSXQP0Gep49BuJjYaJa2cZ=w148-h148-n-k-no"
+            }
+        ],
+        "Arroyo Naranjo": [],
+        "Santa Clara": [
+            {
+                "title": "Che Guevara Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/y_QSRBNA93GR8gt5RoQ-44qaU9fXNbgOQx4gQI5d5uXC0vA3i_GH5QFriDuFQ1vpdfeyCGAES7GZIZmdnIoEPfej0L5a1FwMnpQEo2Aw-mNdBGNX3sZEnB5uai0iaF3sYfHjqU_0a-vS5Wu6BKdQw_FaGZavfpw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valhalla Bar Vikingo",
+                "category": "Bar",
+                "url": "https://www.instagram.com/valhalla.bar_vikingo/?hl=es",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTlaMzWX0UaL6n_QLTQffurkXTMauzf8FzddLk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loma Del Capiro",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeuRhx09070yqLNsBzMPeDF2IgsBTSCg7MamAr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fábrica de Tabacos Constantino Pérez Carrodegua",
+                "category": "Tobacco supplier",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0uR4bye7czmq3jYwK0Q7Kvnnk64vtxOsiO1ny=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taking of the Armored Train",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeayxU_3FLbWLo_EsfX8nCmNWBAlr8FonF6Mtp=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Mejunje",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2SW5HrlkYPHZ-SkreEnBe0GYsEJv2X06PIUlG=w148-h148-n-k-no"
+            },
+            {
+                "title": "vidal Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMj0_0omVNM-cpiAoo_-npf0B02MgVtK2wknbA_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of Santa Clara of Assisi",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGJQjJTJyL61wzyUgLyCRM30J4Jjp3RqH6Oftm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teatro La Caridad",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzzFh4fKD7swyfl8U9UZ8JxVOJw4fEQ0StWNxa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statue of Che Guevara",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMj1hrVdQBtODsH13dzHsh8Lla7lv0suF3ZBqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Las Parrandas",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYZuuAVC-Dt8dwywnQFyMXjy7pXhvuGwy1cl7n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Santa María",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsoVf7bGUlum3m_AAqQsZRQcYu-us0poTw6Fqu=w148-h148-n-k-no"
+            }
+        ],
+        "Consolación del Sur": [
+            {
+                "title": "Plaza de la Catedral",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw1GpbnkJhs7QlJU3qVyCiuPWD7Eyq9SA-dA14=w148-h148-n-k-no"
+            },
+            {
+                "title": "Indian Cave",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPszl_pxGZiSx_Afu2TNhCT635mmWPtn182lkoW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Revolucion",
+                "category": "Administrative Area2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkldYn0SK8RLOcQkb1iL7tK4a9iWy3prKn3uvC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vinales Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL8egAUifnpDIgUOR4L415iowVM2tYW5iLbtZj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Jutía beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcZUjAoPhmO1MlNlNVzH4OZZvVIxIv_MNNqW-5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finca L'Armonia",
+                "category": "Cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU2sPOdO_JvM56kA_gVLD60u7q49YoFJ-MZ8We=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Levisa",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOejZ_MSKCLxC2iGfqrsJTlfwyns5sBATE1SI2m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Jutías",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYpucn9HwM8l9lr898QmubS4JuyKXgPB1w1jcK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida Malecón",
+                "category": "Route",
+                "img": "https://lh4.googleusercontent.com/proxy/Lxl9GBPlpKUSbGVwmAZqnQH8L01CBM1pY9xLPUfVeQxrHDo1BFofWQmUdUvLxFKrYBVeT9cvt5KlA4sY-3CcXWfjKvfohtqKzji07-vEcgVxTOyjGWTh9g2gzlkBDaT0peAalRh_v6Rft2j6fD3_cO9ty8hiQlo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guanahacabibes Peninsula",
+                "category": "Peninsula",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2fHWP_1De0yTm_VsgAKZ_0GxmxClEI8-Zyr3h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Havana",
+                "category": "Administrative Area2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN570lETxhnZMp_ldtmQ2vlPhfUFb-BxywB4idP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viñales Valley",
+                "category": "Scenic point",
+                "url": "http://excursionesvinales.com/",
+                "img": "https://lh5.googleusercontent.com/proxy/vyP_L5gl3qjNTdA19YYQ6Xo4JHJGAivV9yMSb7UKWAtnKS4GWiDxseQtpB3IP81RjeNNb6JF3yHGTnScS4SVEE2D_W1VZ6PIe3zVP62ACGxKITDZ9u7LklEtiDhkxYGfak1GLuXKcwQzuJB567oru1Le3wsHfw=w148-h148-n-k-no"
+            }
+        ],
+        "Santiago de Cuba": [
+            {
+                "title": "Castillo del Morro",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/proxy/VtMYiB0S8mMvOHDNpfRH8F_oAOgoqfeRH65sGEy-FsJYUG-54vyABWYFTY5WTQvLvWsH-SJcob9-mnIcqgo9qwt8C1J6hExzlUg6v9F0MvCaAkraG41muRFlw9mFGSHmfLVH7hLTL92n_2mB3DNoV7QbJ7-i5yo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia Sagrada Familia",
+                "category": "Church",
+                "url": "http://arzobispadosantiagodecuba.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJY1cthWicXwwvOwKfDhFFAUuowx9XbVhk0rL8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Céspedes Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU_7_WNML3ZSOufLIc3ixK1q4_hj3sZuCpyzpp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Historia 26 de Julio",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6v9RYR9nRfLkKwJjEkbpjpzMVt1pbKSc3zTNL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Ifigenia Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCr9eBUWlew8ytj8S8U4nj5s9lJdeViIB1wPSi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de Nuestra Señora de la Asunción",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORCbtAU0yc9njWIHyKlkiOCxRlaZdczANbIWiM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de Las Tradiciones",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFE27Ne5rgHyaCnmmMjXZRJUa0n1o93RfHGvah=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guillermón Moncada Baseball Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsZOmAUoTKwVqjFP1ypoPZIbwQcpMYMK0nt_kU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de Diego Velazquez",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPX7HWCLTM763xTvfCf64gqHMEonnM8ji-1lmSv=w148-h148-n-k-no"
+            },
+            {
+                "title": "IBEROSTAR Casa Granda",
+                "category": "Hotel",
+                "img": "https://lh4.googleusercontent.com/proxy/2AXlNFCLAoCkLmbbTJsGVXaTFcNDKhnjZ7BGYDQWFv-GV7eGR-RoKfWBQxDgcFDhM4gPjJzwOf34epKoh-wTtqfhGHlRW6CljIfh6z2mhcm-5-MDIohPGLR3zR2MSvwyiMxErqk-U2-mEiIyXm8WJttaqZpZE0M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Padre Pico Steps",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObCj0L0c1RjWvtWutJSMvyL0_jFR8mpryDKYPw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faro del Morro",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhganrCgwQuG4Dpp_lcbnlUmipH075tuC9H79f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Granma",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZLZAtgcSNp2ioQOaE-JphvIMalVl3b8n3rcXp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Memorial de Vilma Espín Guillois",
+                "category": "Museum",
+                "url": "https://www.lonelyplanet.com/cuba/santiago-de-cuba/attractions/memorial-de-vilma-espin-guillois/a/poi-sig/1334782/358013",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR6-Afei-ZdsIXpPZtXhFL4y_DcCbPX6A_qRkj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de La Lucha Clandestina",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBsom5wpdqzVFj_Otr-BYzlzqeWZfKGzcObuyP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Del Ron",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwtntwew7F72DyNNFB4Fq8P4uGGu560MQSILiB=w148-h148-n-k-no"
+            }
+        ],
+        "Puerto Padre": [],
+        "Las Tunas": [
+            {
+                "title": "Motel El Cornito",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2DEVbVAZFk7tS6zO2Mj08NsIvVfViLwEl08BO=w148-h148-n-k-no"
+            },
+            {
+                "title": "MUSEO MEMORIAL VICENTE GARCIA",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1qa4vztO8KCZZFeGcxdtRqqFNWkJqAD9FlRYs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sala de Fiestas Luanda",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7HaFXllCe_z91dJIGDU90wYvird23lgEnpAJM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio de Beisbol Julio Antonio Mella",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJpKfhJcMwX70tUo4d7kwqZq6Rw14BDpcBqeSW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanque de Buena Vista",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNF4Wsc3peqrGw6wEDzJGJnWXOmCSnwlEa47kCN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Vicente Garcia",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwaPc9y9PhHPkhyoYC8_PHU5FtO6zrxQd4olGF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Emiliano Salvador",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0h5IBMGVwDrWo0womfpnc5Q76JJlJnnR_nN5u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Martiana",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUWUEQvcxdypMZd9huMh2KUpLTEjlLxLOtBast=w148-h148-n-k-no"
+            }
+        ],
+        "Havana": [
+            {
+                "title": "Castle of the Three Kings of Morro",
+                "category": "Historical landmark",
+                "img": "https://lh4.googleusercontent.com/proxy/3f6Pd_TASeyng5Gx5H6HzOKOPSm8bW_LLB-NaR0r_eWTsIRa3dp3vZ37L5xOHPQ8ZJECBmQcQ10MH1J779ZjO6lWwNmvMyWLBER2_8fhNY_C0WDMMScaTf04jlZkCQvv9hCmn3lMtiVB-dYzanPNrhxq7VKAgw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort of San Carlos of the Cabin",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdCQx55KGTf7Bshg6HMc9ee6dI6DDb8Lvq4kNH=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Capitol of Cuba",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLfvTihv_Ntf9h1kR97ek6SpOa2QAx69gVtfYj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de San Francisco de Asís",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgUqmmMLbYvzZ6h4T2SA1YM2YU2OEwMfb3kq4o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de Armas",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONDZeTbMEOFUzbBkY0-u3PsZ71DPbcbZ-YRQfi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Catedral",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw1GpbnkJhs7QlJU3qVyCiuPWD7Eyq9SA-dA14=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Theater of Havana",
+                "category": "Cultural centre",
+                "url": "https://www.entradas.com/gran-teatro-alicia-alonso-la-habana.html?affiliate=EES&doc=venuePage&fun=venue&action=overview&venueGroupId=22536",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBp2KtDqtdnK2CM7OdGDnrVW9tqgzkoNWflhWx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Nacional de Cuba",
+                "category": "Hotel",
+                "url": "https://www.hotelnacionaldecuba.com/",
+                "img": "https://lh5.googleusercontent.com/proxy/31m1wH0Vwazyyhz4CZwPPlt9TdT-XYG44Qm1eO9qmG7MnLFXMtAH0a79KTDBrQHUtr335IYDQrv-60pLCBNy-0NcEsIwNiRWtuZx6g6Upf9Xm-c7pqpGk74cA5LkrCZ4So7Q3hRozGhsWBttm13-HxMvdqqiEg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finca Vigía",
+                "category": "Museum",
+                "url": "https://www.hemingwayhavana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9w2CY7VXZ--4BD8qVwjBLuZKbZH4vPrtRsc4R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Havana Castle of the Royal Force",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0YVlRxSE8EaV-QKJOAwyz-30JC8j-BPKKne7v=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Martí Memorial",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5o7Vxsz1dcCrf71phDdpyYlJt4KxajTdd3Qw9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsASr_ldVJweBBfYlz8l3XnLpOK7JbiEjbl4nO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nacional de Bellas Artes",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj1IZCRt3xK9H2z6rSXQP0Gep49BuJjYaJa2cZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fusterlandia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0nlkGwSv-21xnTsbMABA2aMtkY07ZFH10PKAB=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Catedral de la Virgen María de la Concepción Inmaculada de La Habana",
+                "category": "Catholic cathedral",
+                "url": "http://www.arquidiocesisdelahabana.org/",
+                "img": "https://lh3.googleusercontent.com/proxy/Nd20yXIURm2hvUWNzcRvHYXv5ud1SizwUoQpcC5NbgFDUKq6PJ5cBlnmhnKD-dOQcN-trPCRLp7VVU5T1LNWxuWOD-nwN4LcTewsJJnw893P9rKEFsjWaNTs5Nyv3dJbpY3s4uYrW5zoPhv2IG3FiKSmKGe1w8A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cristóbal Colón Cemetery",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4iJ-FlvhZdbMRIDfn0kvsfTDs_d_aqI7hHUzs=w148-h148-n-k-no"
+            }
+        ],
+        "Camagüey": [
+            {
+                "title": "Church of Our Lady of Carmen",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOy-EXu9R2FDWFsLS6sJ_ZfbUUqvy9hecfi0yXD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza del Carmen",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIwstttd0s8Y8UQvH-3olxJRenTBQlAsv_8VLA=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Colonial",
+                "category": "Nightclub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXQ1IZe4SHYbZKOSwIH0Ga6dOznWQZGeXmNRb3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady of Candelaria Cathedral, Camagüey",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHgTNmKAveH4gsbIxVDX-BrGU0ah7UPaoOxH1q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Casa Natal de Ignacio Agramonte",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLe1H9QZTqIzjnXeUfC5UeHOuhca0sn-BsF5sT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady of Solitude Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhYsb1pc41uOp6OanpQuhp3Rt4daLFOQ3XqLHu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady of Mercy Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlxwUc9fzwseiih6n9c9Nfaklajz3RO-Fu0aT7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lago de los Sueños",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN865y3fUdhomcWodq6yKVR9C75vXK0To-ty8iE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martha Jimenez Perez Workshop Gallery",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqI5vxM45qbrtHqmNCC3xkTBOGOuwnPpyP3qBZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de los trabajadores",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnKpqqOAXDAiWRezOLe2vk5FoSkUKwofyqfUhA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Provincial Ignacio Agramonte",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWRw56gOsPjNTjMWmKsJswWPjBdDUSNK194_Lq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Campestre.",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvdSf5Nupp_WT01LoBENAWyJNQPS1MhU2ITmqm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ignacio Agramonte. Park",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOcUcJzflhIOkzl6i48ThRmorjiAGJoOIpcBON=w148-h148-n-k-no"
+            }
+        ],
+        "Bartolomé Masó": [
+            {
+                "title": "Desembarco del Granma.",
+                "category": "Tourist attraction",
+                "url": "https://whc.unesco.org/fr/list/889",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSrgE5tGz4JKYZT2mVt8x-H77Do_VxmfRWNmKl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bayamo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfrQNJXMDuLaaoAFZ1fTxkddGrx9LDMH_ialYT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Cespedes",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMq73jTtD6o1v6iIuk4Jnlaim0SvNwa_pIY5X0e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paseo Bayamés",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFTWt_Iq0UZ6HvORdeZNMFsSLvxGfYAKI-eMgj=w148-h148-n-k-no"
+            }
+        ],
+        "Moa": [],
+        "Ciego de Ávila": [
+            {
+                "title": "Hecho en casa Tienda de Regalos",
+                "category": "Gift shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEt3UsSM2ZV7h58fkuvE4yqoBYvIGCBGphytRm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Decorative Arts",
+                "category": "Handicraft museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORiLblx2Mjr--Y4Gz4oZG8Rd2SEW9UW3_E4soz=w148-h148-n-k-no"
+            },
+            {
+                "title": "MM BAR",
+                "category": "Bar",
+                "url": "https://www.instagram.com/mm__bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNtrcoQvG-e-7pd9mPzRgf65eri0g6W1CXlPmX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Martí.",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLnKNi49bhn5kC409gaB8rFvIfhQ_abZezpjYJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coco Diving Center",
+                "category": "Diving Centre",
+                "url": "http://www.amazingcocodiving.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsLe1FJ2dxr4B2LW_QRpocPhrE3mZd_IqD2cec=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Pilar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk42baabzdYmdLt2bVYbsZMwAbs_ROjI4ycOdu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Delfinario De Cayo Guillermo",
+                "category": "Corporate office",
+                "url": "http://www.cayocococuba.net/delfinario_cayoguillermo.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfHXNdVjBsncuZqJr5lpkeqzST9bJMvDLQxhGo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loma de Cunagua",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpKWjkoPeeCYf2WSbd0eXZC1nwLzX8UB-ZBc_e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Guillermo",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0mEl8x3lP3Vw8XMgnmBk-GTGHnZK5t0AgcxQI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ciudad Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPytPpSFE1YdJiKpOGGhRHmypPLx1aqzD1jZVxM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna la Redonda",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpKh7EUOS-inNsVGUG90dibSGLvIG_exGVXmNq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Media Luna",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAdkxeTenWMJD16jgPb7ageNFefrfuf45vLAir=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna de la Leche",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMndqIvmEDZiA09NQwjD9KwwucLmhzTIG7X0Edb=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Ciego de Ávila",
+                "category": "Public university",
+                "url": "https://www.unica.cu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6JgIE8AekXhbL89XH_EDLwggu2T1HdJUA2v8l=w148-h148-n-k-no"
+            }
+        ],
+        "Banes": [
+            {
+                "title": "Warleigh Weir",
+                "category": "Tourist attraction",
+                "url": "https://warleighweir.co.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPn5s6NfJ0EOq_H46Tasdr_IYZyMxvBcOeQRtEI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beckford's Tower and Museum",
+                "category": "Museum",
+                "url": "https://beckfordstower.org.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNu9sa4vdLhZTK-XaJeDCxlY63sYuGW_ljmp9Md=w148-h148-n-k-no"
+            },
+            {
+                "title": "Somerset Coalfield Life at Radstock Museum",
+                "category": "Museum",
+                "url": "http://www.radstockmuseum.co.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsTMZGnFWjH0LS_L6RceG7zZH1_lB0DE3fqnS5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Bath Architecture",
+                "category": "Museum",
+                "url": "http://museumofbatharchitecture.org.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPccWrDozlvHYLpcBh9j8w9vCWKBIhmwIjEcqdU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chew Valley Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEgBsaOnsJJNd1Dp9duhmexOssJhgQxlq_iZRB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avon Valley Adventure & Wildlife Park",
+                "category": "Events Venue",
+                "url": "http://www.avonvalley.co.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyxK_vhC7K_Nx8raXlavwrE45-o133RNGDKmqB=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Trust - Bath Assembly Rooms",
+                "category": "Tourist attraction",
+                "url": "http://www.nationaltrust.org.uk/bath-assembly-rooms/",
+                "img": "https://lh5.googleusercontent.com/proxy/Y3H9rRTmtZcWZphJ9so5OThQ9x6dUnZyP8m2BS7LYLcTBrfhCG_R00QEl3b4UBh1gfPBFFdqeiFC9GjqHAbAkGuY5pScXZQypfb2MZ2Sg4syuOkwsOrjML4-ynvz6ErFWLDrmfYRV9M7sl_iyovUyIDAj332MA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dundas Aqueduct",
+                "category": "Historical landmark",
+                "url": "https://canalrivertrust.org.uk/places-to-visit/dundas-aqueduct",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObwyYi2INuGFgGNOlFZytyDNUfJw-lmu2vaYng=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bath City Farm",
+                "category": "Farm",
+                "url": "http://bathcityfarm.org.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-xRuNx_GuPYzIPFl1-tghQiYjqLy-gwelRlyN=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Bath Distillery Gin Bar",
+                "category": "Cocktail bar",
+                "url": "http://www.thebathgincompany.co.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ92p_w5cT68XMNaCPNWLI1G8mPefLpvO370Bz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mary Shelley's House of Frankenstein",
+                "category": "Tourist attraction",
+                "url": "http://www.houseoffrankenstein.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMJvkC5iN3Uk1-3v28z9e9IPbjsJbyKgCW9Q0m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victoria Falls Adventure Golf",
+                "category": "Miniature golf course",
+                "url": "https://www.exceltennisbath.co.uk/adventuregolf",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOo8NYM3xUixtvlr-qfxYyvk5IOJaxqspjrI6a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Opium Bar",
+                "category": "Cocktail bar",
+                "url": "http://www.opiumbars.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcExL3-U9L7v6MgFcp3m-5SWM4SdxlJMulzeTJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Bath at Work",
+                "category": "Museum",
+                "url": "http://www.bath-at-work.org.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ5Gs98CUJjY_DNW0pot_JKVlqCSPk-7uy3JaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coombs Clay Pigeon Shooting",
+                "category": "Shooting range",
+                "url": "http://www.coombsclayshooting.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSVb0YIeEoNfRIuNaub6vhrASicvLTihzl1l_l=w148-h148-n-k-no"
+            },
+            {
+                "title": "My Small World Toy Store",
+                "category": "Toy Shop",
+                "url": "http://www.mysmallworld.co.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeEqPj3rO5PqbIhbpfmqniSlnjWlVMMvTmoM_l=w148-h148-n-k-no"
+            }
+        ],
+        "San José de las Lajas": [
+            {
+                "title": "Revolution Square",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmqgIRBebM5CiVCKHAD1ZaLbbfP7iHTMOW5U2z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dulcería Chantilly",
+                "category": "Espresso bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGLJ03hRN8_nzjxYtsdseOvDya28Y7RPaJCfjs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mother Teresa of Calcutta Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzvePIlKTM9BKye4AP3mvO0YEXb-Xslv1CC2p_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marianao",
+                "category": "Administrative Area2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObWAV5eJm_sDxUJDP_wtTWtT3vtwoCd5Xc0NAi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Raquel",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/SMpkEJc4cLcinbn82KFq_aTOy_WfHnP1ibSxKpMRQ_fknJXB0r5A7ne4u5ijc7LKe0Vn9gBUJqYA4tW2Q5GhmtKTpjPmNFxSYaltThgduDodJKMwbvRSxUOENV7Z9tRREhAYeBXWaZWGPOokSbXrTyuNY876gw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Theater of Havana",
+                "category": "Cultural centre",
+                "url": "https://www.entradas.com/gran-teatro-alicia-alonso-la-habana.html?affiliate=EES&doc=venuePage&fun=venue&action=overview&venueGroupId=22536",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBp2KtDqtdnK2CM7OdGDnrVW9tqgzkoNWflhWx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nacional de Bellas Artes",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj1IZCRt3xK9H2z6rSXQP0Gep49BuJjYaJa2cZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beth Shalom's Synagogue",
+                "category": "Conservative synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWDfg5gUblVojoPxvO93HDO8q8TlGb_fFgVZ7g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Melena del Sur",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnW6YH0uKBkH76veT9QVjXJvAmU0OGu6F_NVtV=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Martí international Airport (HAV)",
+                "category": "International airport",
+                "url": "https://www.havana-airport.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYi42bsO56A1SjxsTR541PK-kDei8tbZv41NmN=w148-h148-n-k-no"
+            }
+        ],
+        "Sagua la Grande": [],
+        "San Cristobal": [
+            {
+                "title": "Casa Na Bolom",
+                "category": "Association or organisation",
+                "url": "https://nabolom.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOctiduIkWbZWqP2EEU_8frPhTNIfru7sMNhN4z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo del Ámbar",
+                "category": "Museum",
+                "url": "http://museodelambardechiapas.org.mx/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZApYgvERiTYX8eHscmUKsajeTZK52RKNeOdFt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Templo de Santo Domingo de Guzmán",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNhNvtBFKWVQh6XDnsYFBP6ANLylmGcingRl2I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de San Cristóbal de las Casas",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNNfCPR9VmYnyhiei37TKlFkLmOQ5Cpgnm2cMJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Reserva Ecológica y Jardín de Orquídeas Moxviquil",
+                "category": "Nature reserve",
+                "url": "https://iesdhs.edu.mx/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeOVArFA2F-E5d8a5dHSbSZKFodU-b_1ynUlN4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakaw Museo del Cacao y Chocolateria Cultural",
+                "category": "Museum",
+                "url": "http://wa.me/529676317995",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnB1XHdbN-qPsfw7wrMjDiYylalm2rcmYT0uD5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro de Textiles del Mundo Maya",
+                "category": "Museum",
+                "url": "http://www.fomentoculturalbanamex.org/ctmm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ifATiulVl1m1nNFI1uSxr6Qr2AhxxFSlSV4y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Free Walking Tour San Cristobal de Las Casas",
+                "category": "Travel Agent",
+                "url": "https://www.freewalkingsancristobal.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJu-DeMBAYfjXJFw3fok99NQnzd4fiDACTmMb5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Mesoamericano del Jade",
+                "category": "Museum",
+                "url": "http://www.eljade.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIIja1pIP_6yaZyprO3zTELetE-xGh8AKhOqK9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de San Cristóbalito",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9dl5D_WIw2uJceP7x57D6SHrV8oZYSQaK1IVi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arco del Carmen",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMASqjmwVbLEru_ltU-0REc2hn483sm9dhEVX7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Arcotete",
+                "category": "Ecological park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXpuVe7CM9KwZjHjkyZIyEcUHvMHQiNxtwdDSP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zona Arqueológica Palenque",
+                "category": "Archaeological site",
+                "url": "http://www.inah.gob.mx/zonas/163-zona-arqueologica-palenque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy056L0YhoYvKyXgYf4Ove0D6oOns-QRbkm78V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Jtatik Samuel",
+                "category": "Museum",
+                "url": "https://www.facebook.com/MUSEO-Jtatik-Samuel-1541101406173254/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpMXYlnnZUWq9ScouuT0XmXJ5yne0mqas2_Qo1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barrio de Guadalupe",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMAYVJoanOXi4XL3p81GwOKr4_LEsvp1iIqSpr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Ecoturístico Rancho Nuevo",
+                "category": "Ecological park",
+                "url": "http://sancristobal.gob.mx/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgc0sZIdjKuWg4Y6AnlNAeLWDkBofECdcZ89JA=w148-h148-n-k-no"
+            }
+        ],
+        "Güira de Melena": [
+            {
+                "title": "Revolution Square",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmqgIRBebM5CiVCKHAD1ZaLbbfP7iHTMOW5U2z=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Capitol of Cuba",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLfvTihv_Ntf9h1kR97ek6SpOa2QAx69gVtfYj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Town Square",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxq_5k_OiKjls7VSITbRDDDlrcR0qs5biMEheK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort of San Carlos of the Cabin",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdCQx55KGTf7Bshg6HMc9ee6dI6DDb8Lvq4kNH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de la Catedral",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNw1GpbnkJhs7QlJU3qVyCiuPWD7Eyq9SA-dA14=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle of the Three Kings of Morro",
+                "category": "Historical landmark",
+                "img": "https://lh4.googleusercontent.com/proxy/3f6Pd_TASeyng5Gx5H6HzOKOPSm8bW_LLB-NaR0r_eWTsIRa3dp3vZ37L5xOHPQ8ZJECBmQcQ10MH1J779ZjO6lWwNmvMyWLBER2_8fhNY_C0WDMMScaTf04jlZkCQvv9hCmn3lMtiVB-dYzanPNrhxq7VKAgw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuban Art Factory",
+                "category": "Cultural centre",
+                "url": "http://www.fac.cu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3eprpR6DwW6wfgFnOen2rtHsMrpLCi_OvK9Au=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ of Havana",
+                "category": "Sculpture",
+                "img": "https://lh6.googleusercontent.com/proxy/kykIaDjGvpzJ_sc2c2BXANb3XATptQwLFyZWY80-EvEpxNokn3Nx1UghFIJCAKltoxLRo_0uhb-ZCxwN667gb6Wn6NakMflGhsBDqGJG70crl1vfOEmaruiyGQUsxNIk1J-vT2vkVotfJM-YxjjCctjew6Y0pA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fusterlandia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0nlkGwSv-21xnTsbMABA2aMtkY07ZFH10PKAB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finca Vigía",
+                "category": "Museum",
+                "url": "https://www.hemingwayhavana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9w2CY7VXZ--4BD8qVwjBLuZKbZH4vPrtRsc4R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Theater of Havana",
+                "category": "Cultural centre",
+                "url": "https://www.entradas.com/gran-teatro-alicia-alonso-la-habana.html?affiliate=EES&doc=venuePage&fun=venue&action=overview&venueGroupId=22536",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBp2KtDqtdnK2CM7OdGDnrVW9tqgzkoNWflhWx=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Catedral de la Virgen María de la Concepción Inmaculada de La Habana",
+                "category": "Catholic cathedral",
+                "url": "http://www.arquidiocesisdelahabana.org/",
+                "img": "https://lh3.googleusercontent.com/proxy/Nd20yXIURm2hvUWNzcRvHYXv5ud1SizwUoQpcC5NbgFDUKq6PJ5cBlnmhnKD-dOQcN-trPCRLp7VVU5T1LNWxuWOD-nwN4LcTewsJJnw893P9rKEFsjWaNTs5Nyv3dJbpY3s4uYrW5zoPhv2IG3FiKSmKGe1w8A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nacional de Bellas Artes",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj1IZCRt3xK9H2z6rSXQP0Gep49BuJjYaJa2cZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cristóbal Colón Cemetery",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4iJ-FlvhZdbMRIDfn0kvsfTDs_d_aqI7hHUzs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cueva de Ambrosio",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPtGePe1qbV4RRJUX9HlNsccQOguuh4NIMdANw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beth Shalom's Synagogue",
+                "category": "Conservative synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWDfg5gUblVojoPxvO93HDO8q8TlGb_fFgVZ7g=w148-h148-n-k-no"
+            }
+        ],
+        "Ciudad Camilo Cienfuegos": [
+            {
+                "title": "Platten Sailing Yacht Charter Cuba",
+                "category": "Boat Hire Service",
+                "url": "http://www.cuba-sailing.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSeboAi8c-8bdUvlzuTyrmeZeHpcyTgcHYBkrO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cienfuegos",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmL4j5_3ELJbjpvOzs2L29RYBhLlnMDwc2NHk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Punta Gorda Cienfuegos",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMCoA9X_G5G7q0QRWpT3ToTEm8qh5P92KDX4__=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cementerio Tomas Acea",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEQlKSYrRwbsI3g0GQ7Yb1cO2I27m8PqUSV1v4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Historico Naval Nacional",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfZs3pEC3j6CryliYMXUOourq38peCnM6MC9wX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cienfuegos Dolphinarium",
+                "category": "Aquarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPFL7DBhO9WXxu0nvoDlHl5Thc0RZk-wdpy_BI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomas Terry Theater",
+                "category": "Performing arts theatre",
+                "url": "https://www.ecured.cu/Teatro_Tom%C3%A1s_Terry",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAyLuTUv0D6GG101zixPxySoscKRCQwCx8a5_1=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Martí Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaPR9Rz4SxG4hi8mozbpArhSTzI9u_q_ZDgAut=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanischer Garten Cienfuegos",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMHf7VIXC4uDmO2kGstrGILdLZ1OcYFbNZ0ewA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna Guanaroca",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtfXiqnfLBBEqbYVDyIuH3JjnltoxIBd_FR1Rz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malecón de Cienfuegos",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTdtGeKmFXk4uPOOyi8REveTwxiNeqcognDD2r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statua de Benny More",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4vIfMwxiiKcsBgTH4MPrVpbIMaDK4c7mtFKu6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio 5 de Septiembre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8zFqANXvbO8Tqh_RmVqz6XEavx_eFGjShj8LE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de las Artes Palacio Ferrer",
+                "category": "Museum",
+                "url": "http://facebook.com/MuseoDeLasArtesPalacioFerrer",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqAamaM36DMNQdwOo-XQQ9zKP305unzkHP0pHh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral Of The Immaculate Conception",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgs-4UeMSdXRd8eNfMRkAyKjW-0IK4EgkCIhsM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cementerio la Reina",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzOww4_oWXhMU8oeJfDNT0uvbiRFNf_qDe5gkN=w148-h148-n-k-no"
+            }
+        ],
+        "Cienfuegos": [
+            {
+                "title": "José Martí Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaPR9Rz4SxG4hi8mozbpArhSTzI9u_q_ZDgAut=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malecón de Cienfuegos",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTdtGeKmFXk4uPOOyi8REveTwxiNeqcognDD2r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muelle Real",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeuRZU5a15IexRNFQ6xrjjG2RfOiM0LCvn7Rdo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tomas Terry Theater",
+                "category": "Performing arts theatre",
+                "url": "https://www.ecured.cu/Teatro_Tom%C3%A1s_Terry",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAyLuTUv0D6GG101zixPxySoscKRCQwCx8a5_1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statua de Benny More",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4vIfMwxiiKcsBgTH4MPrVpbIMaDK4c7mtFKu6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de las Artes Palacio Ferrer",
+                "category": "Museum",
+                "url": "http://facebook.com/MuseoDeLasArtesPalacioFerrer",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqAamaM36DMNQdwOo-XQQ9zKP305unzkHP0pHh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral Of The Immaculate Conception",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgs-4UeMSdXRd8eNfMRkAyKjW-0IK4EgkCIhsM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio 5 de Septiembre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8zFqANXvbO8Tqh_RmVqz6XEavx_eFGjShj8LE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cementerio la Reina",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzOww4_oWXhMU8oeJfDNT0uvbiRFNf_qDe5gkN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Historico Naval Nacional",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfZs3pEC3j6CryliYMXUOourq38peCnM6MC9wX=w148-h148-n-k-no"
+            },
+            {
+                "title": "戈尔角",
+                "category": "Peninsula",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcWGCcBCRwL6-NI9Iy1-e5whxBQIrtTSxstigc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Punta Gorda Cienfuegos",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMCoA9X_G5G7q0QRWpT3ToTEm8qh5P92KDX4__=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Libertador José Martí",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiV6QW6j5oZdZlpsh0bEQADfnvN_rDczAFS4La=w148-h148-n-k-no"
+            },
+            {
+                "title": "Platten Sailing Yacht Charter Cuba",
+                "category": "Boat Hire Service",
+                "url": "http://www.cuba-sailing.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSeboAi8c-8bdUvlzuTyrmeZeHpcyTgcHYBkrO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Che Guevara Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/y_QSRBNA93GR8gt5RoQ-44qaU9fXNbgOQx4gQI5d5uXC0vA3i_GH5QFriDuFQ1vpdfeyCGAES7GZIZmdnIoEPfej0L5a1FwMnpQEo2Aw-mNdBGNX3sZEnB5uai0iaF3sYfHjqU_0a-vS5Wu6BKdQw_FaGZavfpw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa de la Cultura Benjamin Duarte",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZgc953nKsUtjAapRTPjQHKS4E7pYzLJYzxdYz=w148-h148-n-k-no"
+            }
+        ],
+        "Palma Soriano": [],
+        "San Luis": [
+            {
+                "title": "Madonna Inn",
+                "category": "Inn",
+                "url": "http://www.madonnainn.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN33F6ydy5Y60dxEDLPtgipPgOOXyn6m9NYVbWj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mission San Luis Obispo de Tolosa",
+                "category": "Catholic church",
+                "url": "https://www.missionsanluisobispo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMoqRStpvnwZoCJxtnu5cNEWC5AwmBtHE0AKZr3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sunset Drive-In",
+                "category": "Drive-in Cinema",
+                "url": "http://www.facebook.com/sunsetdrivein",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDyaopJkdqhRBz6TPwhKjFAa-JyL7Q3MgzW8EI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Downtown SLO Farmers' Market",
+                "category": "Farmers' market",
+                "url": "https://downtownslo.com/farmers-market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtSpbIVPL-8CbG8CnHVVcKdwFbFruze87E5dAt=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Luis Obispo Museum of Art",
+                "category": "Art museum",
+                "url": "https://sloma.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNG2Zu49oAzpC_LC3DrguQ59_pVEVUDa3YGkxy0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hearst Castle",
+                "category": "Castle",
+                "url": "https://hearstcastle.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPADsbJU0rlwEEiAgztspzzc0MDMrU8o2IaWD8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puzzle Effect Escape Rooms - San Luis Obispo",
+                "category": "Escape room centre",
+                "url": "https://sanluisobispo.puzzleeffect.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0YIC8hlacMEbKWHRMWFKKw3VTxOe9H6odj5Xn=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Luis Obispo Children's Museum",
+                "category": "Children's museum",
+                "url": "http://www.slocm.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7wCv-rKIicJJb1Wt9iVhlk3MP6WILCW_3CEfV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fremont Theater",
+                "category": "Performing arts theatre",
+                "url": "http://fremontslo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBI90oEjNOFw0zVTlgN0hjCfxcKXsqJVqQzlhc=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Luis Obispo Railroad Museum",
+                "category": "Museum",
+                "url": "http://www.slorrm.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBgLf1rE7rtz7K1c6SBMcttjL8B_1qK0yW0fa7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Performing Arts Center San Luis Obispo",
+                "category": "Performing arts theatre",
+                "url": "http://www.pacslo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyk-SRmi_DPh0gBHiIuqjmmIjyi9SWyUJGnZVw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Montaña de Oro State Park",
+                "category": "State park",
+                "url": "http://www.parks.ca.gov/?page_id=592",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYoCK0CWGE3_zkvwyUpQRVuJdDLyspCZ4-cqUG=w148-h148-n-k-no"
+            },
+            {
+                "title": "History Center of San Luis Obispo County",
+                "category": "History museum",
+                "url": "http://historycenterslo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMimstR4Xe1kaA_czR7GeUGy1IpLR6zk2-buClq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mission Plaza",
+                "category": "Business Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2zf1_bi5axbwO3FmwvvXvx3psIDzpB8lTcnH6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monarch Butterfly Grove",
+                "category": "Nature reserve",
+                "url": "http://www.monarchbutterfly.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnuNC8gVTZdZp8HKwYrPkhlJ9XExJ-NJ2xrJc0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bishop Peak",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGIUOzDm6bsCSm7oYOiCT3wxy9P0VRmbbmMGGd=w148-h148-n-k-no"
+            }
+        ],
+        "Guanabacoa": [
+            {
+                "title": "Plaza de San Francisco de Asís",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgUqmmMLbYvzZ6h4T2SA1YM2YU2OEwMfb3kq4o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Our Lady of Regla",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOA5lOQG5VeagSy-f0zIN22Ab7gEfCrKshGmiwG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ of Havana",
+                "category": "Sculpture",
+                "img": "https://lh6.googleusercontent.com/proxy/kykIaDjGvpzJ_sc2c2BXANb3XATptQwLFyZWY80-EvEpxNokn3Nx1UghFIJCAKltoxLRo_0uhb-ZCxwN667gb6Wn6NakMflGhsBDqGJG70crl1vfOEmaruiyGQUsxNIk1J-vT2vkVotfJM-YxjjCctjew6Y0pA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio de los Capitanes Generales",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq8ackBNYYtUHgTWEuOAJY4HU73PqQUO56X4Vt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Universidad de la Habana",
+                "category": "University",
+                "url": "http://www.uh.cu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIsrcWo1yUaxTAEDez5yDDSSI-pZYw5JQWN07e=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Ojo del Ciclon",
+                "category": "Art gallery",
+                "url": "http://elojodelcicloncuba.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPuOC4-7T7Nd78hM6ViCM28JNnSqyCTE1MoHvL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playas del Este",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAV5lEeabjjX6ha5uHCxewIrW0VC3OWzR8yiI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Napoleon Museum",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAeekFHpOF6EJCVLqzjHNHWj7KHqmLAJ7l8pU2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Real Fábrica de Tabaco Partagas",
+                "category": "Tobacco shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhz2oge_PoEyb8YejVPBLt-3n4tOQsKfjNcUG-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cojímar",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKPSNRE2EL8i_zdG_Rfx3poNgVPsE1lUwwecee=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuevas de Bellamar",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCU1V5UESVOtjjzmgCQLkSfy9RemBxeEvWgH9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Obispo",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrZwZ2dn1eCryHieYxSPFWYEtKfPreMXn3_SxW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuba Libro",
+                "category": "Cafe",
+                "url": "http://www.cubalibrohavana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDaXauY3TrTZfq5f4zmVGGkp3AUSX8KkuKiUza=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vedado",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYQN-1NVTGg-74U0kMrQIwFaaGSG2h3RjYMwAr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Havana Castle of the Royal Force",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0YVlRxSE8EaV-QKJOAwyz-30JC8j-BPKKne7v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Jutías",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYpucn9HwM8l9lr898QmubS4JuyKXgPB1w1jcK=w148-h148-n-k-no"
+            }
+        ],
+        "Florida": [
+            {
+                "title": "Gran Parque Natural Topes de Collantes",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgWZp7arnWzL3DcT5iCkmF6WB6jrdWIU4Mli5v=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Cubano Natural Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCD2JThkzfL5Ge_3NDX3xfu1enh7-KzhpXEvyJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Leaping Caburní",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2Q9S41IkdJrEl1wGyAwo2BZ6Yc9hXqJgjcCoz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Guillermo",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0mEl8x3lP3Vw8XMgnmBk-GTGHnZK5t0AgcxQI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Santa María",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsoVf7bGUlum3m_AAqQsZRQcYu-us0poTw6Fqu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Pilar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk42baabzdYmdLt2bVYbsZMwAbs_ROjI4ycOdu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Camaguey",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK50kLNzgWuXpi3JBB_BDQw_4C90zwK5eUgLSq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayo Coco",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq9sr9Efe_wzvlTfQzdB5jP-rsR70P-6pkVxkN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trinidad",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7hgk-XfxIUIi2z1I444eiEch9xeemNZ21dflU=w148-h148-n-k-no"
+            }
+        ],
+        "Trinidad": [
+            {
+                "title": "Casa de la Música",
+                "category": "Performing arts theatre",
+                "url": "https://jazzcafetrinidad.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvAGMms7ZqPNRyLlyf7qHRzbC56RZCmyuhqzDk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Disco Ayala",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjISwGrE8pf3yfkTvooOe8tL4g0bIalLhqk7Zt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Trinity",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXSeaGRfURvTe8X6HZzsSPKawtSVbQz8oNrU4P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colonial Architecture Museum",
+                "category": "Museum",
+                "url": "http://www.ecured.cu/index.php/Museo_de_Arquitectura_Colonial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-MidGiSQftZw7lR41vFRfXNcQoyHeY9c1xqMa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro de la Vigía",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmzxcN7aYI-3NdQuF9bP-oxgSo27CUwTtYY90j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palenque de Los Congos Reales",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMfVqdhnNJy_iASmKKq22KTuqg7GdBOWqNdmPo=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of the Struggle Against Bandits",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-6IOxASCaJxdRt2OOYlXAKgTtlkJ2MD3hMnP2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galerie D’Art Calleyro",
+                "category": "Museum",
+                "url": "http://artcalleyro.blogspot.co.uk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOchbdbITTzfABjlSIbGdoK2dmspVtOIBb6K1AR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Historia Municipal",
+                "category": "History museum",
+                "url": "http://www.ecured.cu/index.php/Museo_Municipal_de_Trinidad_%C2%A8Palacio_Cantero%C2%A8",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWQCxURA7QRfKIgmyMeF2OtFdbeCVHmI_-oeQ9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Mayor",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdTnK_zKJZNw30fn239gIxWsmbiUxM3G0EBOs4=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Cubano Natural Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCD2JThkzfL5Ge_3NDX3xfu1enh7-KzhpXEvyJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio Cantero",
+                "category": "Historical place",
+                "url": "https://www.ecured.cu/Museo_Municipal_de_Trinidad_%C2%A8Palacio_Cantero%C2%A8",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMsJ_IbC3FjWrnKYJjvZCo7NbvWUo9_iu6scl8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carretera a Ancón",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7yCbwS4dQcp7qbOAHFNliyG31cF1YPgQdhdcD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Romántico",
+                "category": "History museum",
+                "url": "http://www.ecured.cu/index.php/Museo_Rom%C3%A1ntico",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD80sndKH_3-1gtvcgEuG0msXFHGyZ9F2O08C2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa La Boca",
+                "category": "Beach",
+                "url": "http://www.villarioymar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwfinoeAKFkQMBdYBYNVyTQFJxaM8Qcrgp6Fm9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Maria Aguilar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWy92d24wyicGsnlH6lgV8dGz13nk0dhjJnC-B=w148-h148-n-k-no"
+            }
+        ],
+        "Manzanillo": [
+            {
+                "title": "Playa La Boquita",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgeeylYu7xbQHyriBGtjPZKtkRH9Fc3X-EDOdK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Olas Altas",
+                "category": "Public beach",
+                "url": "http://www.playasmexico.com.mx/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNlMZet2D_zvInGrLD-CymG6N_yBNccW84Bufk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Miramar",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlNOicSbkEebT9f9Id78iY0dCaLVODT9dRgkRf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Las Brisas",
+                "category": "Beach",
+                "url": "http://www.conocemanzanillo.com/playas-en-manzanillo/playa-las-brisas/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3AY-yGdN5boBvp8SJ69OifF5J-WPYEriyf109=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa La Audiencia",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFS_pEyWgcTPtlD_Lea0_YUQMVH9u1-pCmCF0H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahía de Manzanillo",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN43lbupYjERkI55__p42F-KiAqKr178tIWmbuF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iguanario Archundia",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZS1jqJO9_FjSlrH5q09tQna-K6ONfYm1E-KlF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Península de Santiago",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO793ctG6mIDQNujw_c-58Gyf3_oJi8WlMuFUsH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club santiago Manzanillo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtgq6LMT1egF95ZeCISOAJ5NRKDv0QKwjt5HjD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iguanario Archundia",
+                "category": "Open-Air Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeu-Jck1iVztTNNKqDBPiy3tqh7eP0-Ef2Kywk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa de Oro",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO0QhkAQPy3cbwM0kX8q0tjJ63xF4R3jYwev2Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Miramar",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLZiK4VPLJ2jgBBv5Jf9FvHnWQKJSr_jQT_n2g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa San Pedrito",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqXgUdl4nxESekUhqjsVjT-1ZBQMND2gRnnN94=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aeropuerto Internacional de Manzanillo-Costalegre",
+                "category": "International airport",
+                "url": "http://www.aeropuertosgap.com.mx/es/manzanillo.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO7rT2hzaGD9iiTwqlqsjgnFdNcJF3pZ0CovQI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valle Dorado",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9BawbLtvBpFC3i5cXMHUwuUguI86qODPIpzy2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barra de Navidad",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXDJ3GYLaNJ2Xp8Vjh2cRJmm_42mJJSJG_JMgv=w148-h148-n-k-no"
+            }
+        ],
+        "Jagüey Grande": [],
+        "Pinar del Río": [],
+        "Diez de Octubre": [
+            {
+                "title": "Beach Santa Maria del Mar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVI-HK2BwLG7u-kTLFcxHU0B5kF2mk0KZOApj1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playas del Este",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAV5lEeabjjX6ha5uHCxewIrW0VC3OWzR8yiI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de San Francisco de Asís",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgUqmmMLbYvzZ6h4T2SA1YM2YU2OEwMfb3kq4o=w148-h148-n-k-no"
+            },
+            {
+                "title": "José Martí Memorial",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5o7Vxsz1dcCrf71phDdpyYlJt4KxajTdd3Qw9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castillo de San Salvador de la Punta",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYs7yC0AJXNcKvGiXW3tewvsd5BxgYEIWioPbC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palacio de los Capitanes Generales",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq8ackBNYYtUHgTWEuOAJY4HU73PqQUO56X4Vt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Almendares",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNH6_Of0M-GzFbfhGUNJvk4e0e70J6spUJtv7CV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Línea y L Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwzNljE49Ffsz35KDXO9vJO5L5jrobAWlmIrgD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seminario de San Carlos y San Ambrosio",
+                "category": "Seminary",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb1tHqh7LpA3vytkpgHt9_G6NprlzWerTQS22R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de la Revolución",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVT2Yme5Q0H-nlIw2t3efXjMMuNk_rWSS4yLyY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maximo Gomez Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVqPwOmub3BF2QZuYTXCSHCTkhq5jNDuKt5Oo0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cojímar",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKPSNRE2EL8i_zdG_Rfx3poNgVPsE1lUwwecee=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guanabo Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJDHO-ay9JM_ES_3vVsZktVIE1T3-MEBKXi6LT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Havana Castle of the Royal Force",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0YVlRxSE8EaV-QKJOAwyz-30JC8j-BPKKne7v=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Catedral de la Virgen María de la Concepción Inmaculada de La Habana",
+                "category": "Catholic cathedral",
+                "url": "http://www.arquidiocesisdelahabana.org/",
+                "img": "https://lh3.googleusercontent.com/proxy/Nd20yXIURm2hvUWNzcRvHYXv5ud1SizwUoQpcC5NbgFDUKq6PJ5cBlnmhnKD-dOQcN-trPCRLp7VVU5T1LNWxuWOD-nwN4LcTewsJJnw893P9rKEFsjWaNTs5Nyv3dJbpY3s4uYrW5zoPhv2IG3FiKSmKGe1w8A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cristóbal Colón Cemetery",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4iJ-FlvhZdbMRIDfn0kvsfTDs_d_aqI7hHUzs=w148-h148-n-k-no"
+            }
+        ],
+        "Nuevitas": [
+            {
+                "title": "\"El Delfín\" Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSZ_inH-D7Wuu3Aqss3gKqhQaRPOyeGjXVFJVY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de Nuevitas",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3RpJx35yMQmtLkCVkNW82EREuGH0y0n6pqMXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Salvador Cisneros Betancourt Nuevitas",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMT4AOoYWG8btOdCTkOluCeyknc9wTshObaitpM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Santa Rita",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxh_iHoWPui28VKapiFQ3qXk9-VWE5eilzoato=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Infantil Antonio Ñico Lopez",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxh0tU7-ra82OlYNwh_QAzaIdSe5yhU_7WSToW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ignacio Agramonte. Park",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOcUcJzflhIOkzl6i48ThRmorjiAGJoOIpcBON=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino Campestre.",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvdSf5Nupp_WT01LoBENAWyJNQPS1MhU2ITmqm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Provincial Ignacio Agramonte",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWRw56gOsPjNTjMWmKsJswWPjBdDUSNK194_Lq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Santa Lucia",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAYRWe6C93Yu1oetFgqIK5yHZU_amDcaRKwWUK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de los trabajadores",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnKpqqOAXDAiWRezOLe2vk5FoSkUKwofyqfUhA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Pilar",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk42baabzdYmdLt2bVYbsZMwAbs_ROjI4ycOdu=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Viñales Valley",
+            "category": "Scenic point",
+            "url": "http://excursionesvinales.com/",
+            "img": "https://lh5.googleusercontent.com/proxy/vyP_L5gl3qjNTdA19YYQ6Xo4JHJGAivV9yMSb7UKWAtnKS4GWiDxseQtpB3IP81RjeNNb6JF3yHGTnScS4SVEE2D_W1VZ6PIe3zVP62ACGxKITDZ9u7LklEtiDhkxYGfak1GLuXKcwQzuJB567oru1Le3wsHfw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Che Guevara Mausoleum",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/proxy/y_QSRBNA93GR8gt5RoQ-44qaU9fXNbgOQx4gQI5d5uXC0vA3i_GH5QFriDuFQ1vpdfeyCGAES7GZIZmdnIoEPfej0L5a1FwMnpQEo2Aw-mNdBGNX3sZEnB5uai0iaF3sYfHjqU_0a-vS5Wu6BKdQw_FaGZavfpw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Castle of the Three Kings of Morro",
+            "category": "Historical landmark",
+            "img": "https://lh4.googleusercontent.com/proxy/3f6Pd_TASeyng5Gx5H6HzOKOPSm8bW_LLB-NaR0r_eWTsIRa3dp3vZ37L5xOHPQ8ZJECBmQcQ10MH1J779ZjO6lWwNmvMyWLBER2_8fhNY_C0WDMMScaTf04jlZkCQvv9hCmn3lMtiVB-dYzanPNrhxq7VKAgw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Plaza de la Catedral",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNw1GpbnkJhs7QlJU3qVyCiuPWD7Eyq9SA-dA14=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cuban Art Factory",
+            "category": "Cultural centre",
+            "url": "http://www.fac.cu/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO3eprpR6DwW6wfgFnOen2rtHsMrpLCi_OvK9Au=w148-h148-n-k-no"
+        },
+        {
+            "title": "Playa Pilar",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMk42baabzdYmdLt2bVYbsZMwAbs_ROjI4ycOdu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fusterlandia",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN0nlkGwSv-21xnTsbMABA2aMtkY07ZFH10PKAB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museo Nacional de Bellas Artes",
+            "category": "Art museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNj1IZCRt3xK9H2z6rSXQP0Gep49BuJjYaJa2cZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Old Town Square",
+            "category": "Plaza",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNxq_5k_OiKjls7VSITbRDDDlrcR0qs5biMEheK=w148-h148-n-k-no"
+        },
+        {
+            "title": "La Bodeguita Del Medio",
+            "category": "Bar",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO-RoRSjzzfhowjGEBOV6cZ1tbElw14-SYntuV8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Varadero",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMh4_Lbl9lQ-6JY3TDVSH19kOFrYaDFxLWN7AtY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Castillo del Morro",
+            "category": "Castle",
+            "img": "https://lh5.googleusercontent.com/proxy/VtMYiB0S8mMvOHDNpfRH8F_oAOgoqfeRH65sGEy-FsJYUG-54vyABWYFTY5WTQvLvWsH-SJcob9-mnIcqgo9qwt8C1J6hExzlUg6v9F0MvCaAkraG41muRFlw9mFGSHmfLVH7hLTL92n_2mB3DNoV7QbJ7-i5yo=w148-h148-n-k-no"
+        },
+        {
+            "title": "José Martí Memorial",
+            "category": "Heritage museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO5o7Vxsz1dcCrf71phDdpyYlJt4KxajTdd3Qw9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Havana",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOkldYn0SK8RLOcQkb1iL7tK4a9iWy3prKn3uvC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cayo Coco",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNq9sr9Efe_wzvlTfQzdB5jP-rsR70P-6pkVxkN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gran Parque Natural Topes de Collantes",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPgWZp7arnWzL3DcT5iCkmF6WB6jrdWIU4Mli5v=w148-h148-n-k-no"
+        }
+    ]
+}

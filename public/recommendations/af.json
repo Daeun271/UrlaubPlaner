@@ -1,0 +1,969 @@
+{
+    "cities": {
+        "Bāzār-e Yakāwlang": [],
+        "Taloqan": [
+            {
+                "title": "Mila Tepa",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRvOldYBytFUHbXeWembPadJWjX-jK7yGJ8Qzd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunduz",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSYVQqGMNLlc1nQMuWCHBKsBVM9AXTwxIeRjw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aybak",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP3jKmQwF3wjf7EE-LmBlJO4_91OuHHm4mKEaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panjshir",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt2z_EwARk-wj9sLVnzG43YGG5p2NppEQx1_VB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mazar-i-Sharif",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXs__r42RopKzN29c1RiStaFrfzutRu7fhSuXQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagram",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwf8RKqIrTJx0_RnVZ9T4fra-dJ4BRfFF3O0-y=w148-h148-n-k-no"
+            }
+        ],
+        "Bāmyān": [],
+        "Balkh": [],
+        "Kunduz": [],
+        "Mazār-e Sharīf": [
+            {
+                "title": "Shrine of Hazrat Ali",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-LcP20LZ25mw8zHCpNpVUwIau2QskN2OzK6Tv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khalid Bin Walid Family Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFaF4PE1y7gbb1GDLomcmh788qqXc4FSrLRhk9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rawza e Mubarak Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_5taOYIkT_wBw8JW_nXLYhgfHJzt2fgKGOQJc=w148-h148-n-k-no"
+            },
+            {
+                "title": "چوک سانچارکی - Sancharaki square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmC_mpOcBRr4BOhcQn2yynQPirFuoX8EmQ0H35=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baba Qamber Masjed",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqNQIR4NYlBeVfxtXgcPwe1DDoguFLxEal0Zso=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadiam",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXrWbUT26kKkjGsr_sqwOwWxwJOWT_0FEOAeVD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kamgar Garden باغ کامگار",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpyzzU9rnHXJZJBjtDcByzLkeINn0HgpI_U2-G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eteefaq Masjed",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjw4WPRu299PYtQLa5-NEaDQIvUpH0_GZ6X_C_=w148-h148-n-k-no"
+            }
+        ],
+        "Charikar": [
+            {
+                "title": "Eidgah Great Mosque",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXBDcqFKd_T6stdvg6Z01nck50aePMd80zRNtj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panjshir",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt2z_EwARk-wj9sLVnzG43YGG5p2NppEQx1_VB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagram",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwf8RKqIrTJx0_RnVZ9T4fra-dJ4BRfFF3O0-y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jalalabad",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnNgokL9Ysv6LxMRCiNYzDdPFADU7cm-kgW2Ex=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunduz",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSYVQqGMNLlc1nQMuWCHBKsBVM9AXTwxIeRjw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buddha of Bamyan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKIZGoLUhPkdG-GTqvPPeDIh3A3ITLqvSTYS9p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4FrPaOvT8IqBHPqeIL1Q4TeesRPqFCgWVN4b2=w148-h148-n-k-no"
+            },
+            {
+                "title": "DarulAman Palace",
+                "category": "Castle",
+                "url": "http://www.darulaman.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVIloDvFTl3jgqRlYF_mWeOgtAft2X_Wp_yUor=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aybak",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP3jKmQwF3wjf7EE-LmBlJO4_91OuHHm4mKEaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taleqan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDZw02XCrzczIFJD-2J9693F5W_AkdQRkkW7fn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah e Du shamshira Mosque",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwW5SWBa3eTpc7la6JpodNdyQTKWcyVEcL6pqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pul-e Kheshti Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPJGasQ-7xYsgeGQ7wKWe3FbBFHMO5GfRi0Kb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qargha Lake Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpIKFUX_z10F69THPWyvrpqzO222w4mR27mvAX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahr-e Naw Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8WAvm5hmm-s9rIYvjEqcLqS_gY3CmlMH4nFOU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khost Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS0na5a9e5IKXQL1lCrK2wMHTFTQO9khhpWxUk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1t24oQ5VjmgNS7U5G-2XNao_OjZVUauhWXlOn=w148-h148-n-k-no"
+            }
+        ],
+        "Baghlān": [
+            {
+                "title": "Shahr-e Naw Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8WAvm5hmm-s9rIYvjEqcLqS_gY3CmlMH4nFOU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khalid Bin Walid Family Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFaF4PE1y7gbb1GDLomcmh788qqXc4FSrLRhk9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shrine of Hazrat Ali",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-LcP20LZ25mw8zHCpNpVUwIau2QskN2OzK6Tv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anarkhil Village Area, Kunduz-Baghlan Main Road",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjVSQubQ5dyRcXET9Muyb8nseBzd9zItBy09in=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pole Khumri Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNziL9tY3JvyTcWdHnUEG_SALdaMuA0LZLVGX7n=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Museum of Afghanistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_uWRFXqqIQFdg8GEYJ_K-25iMr9ufAsldY5NN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babur Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt5HyrA_9i_xYrFM5SAYlxwppqKHYMkQbrbbTO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pul-e Kheshti Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPJGasQ-7xYsgeGQ7wKWe3FbBFHMO5GfRi0Kb=w148-h148-n-k-no"
+            },
+            {
+                "title": "DarulAman Palace",
+                "category": "Castle",
+                "url": "http://www.darulaman.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVIloDvFTl3jgqRlYF_mWeOgtAft2X_Wp_yUor=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buddha of Bamyan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKIZGoLUhPkdG-GTqvPPeDIh3A3ITLqvSTYS9p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah e Du shamshira Mosque",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwW5SWBa3eTpc7la6JpodNdyQTKWcyVEcL6pqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qargha Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN5CFE3TMlFc0mdmU1lmCHMlbxs5W7VnzeJfU7=w148-h148-n-k-no"
+            }
+        ],
+        "Khanabad": [],
+        "Gardez": [
+            {
+                "title": "Bagram",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwf8RKqIrTJx0_RnVZ9T4fra-dJ4BRfFF3O0-y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jalalabad",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnNgokL9Ysv6LxMRCiNYzDdPFADU7cm-kgW2Ex=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamyan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGJiiphzlQsx2jq65o_oCQHEEUN0MFR9k0NsM3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1t24oQ5VjmgNS7U5G-2XNao_OjZVUauhWXlOn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babur Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt5HyrA_9i_xYrFM5SAYlxwppqKHYMkQbrbbTO=w148-h148-n-k-no"
+            },
+            {
+                "title": "DarulAman Palace",
+                "category": "Castle",
+                "url": "http://www.darulaman.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVIloDvFTl3jgqRlYF_mWeOgtAft2X_Wp_yUor=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Museum of Afghanistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_uWRFXqqIQFdg8GEYJ_K-25iMr9ufAsldY5NN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pul-e Kheshti Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPJGasQ-7xYsgeGQ7wKWe3FbBFHMO5GfRi0Kb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buddha of Bamyan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKIZGoLUhPkdG-GTqvPPeDIh3A3ITLqvSTYS9p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khost Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS0na5a9e5IKXQL1lCrK2wMHTFTQO9khhpWxUk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah e Du shamshira Mosque",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwW5SWBa3eTpc7la6JpodNdyQTKWcyVEcL6pqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qargha Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN5CFE3TMlFc0mdmU1lmCHMlbxs5W7VnzeJfU7=w148-h148-n-k-no"
+            }
+        ],
+        "Sar-e Pul": [
+            {
+                "title": "Balkh",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMviVq9SYtjnZDDtUMPThX56SP04pSvMEr1fCkC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mazar-i-Sharif",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXs__r42RopKzN29c1RiStaFrfzutRu7fhSuXQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aybak",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP3jKmQwF3wjf7EE-LmBlJO4_91OuHHm4mKEaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Band-e-Amir National Park",
+                "category": "National park",
+                "url": "https://www.nepa.gov.af/indexps",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4tlz-lPbFlxT58Z90v5tWm8iPW3-aQIk3yee2=w148-h148-n-k-no"
+            }
+        ],
+        "Bāzārak": [
+            {
+                "title": "Qargha Lake Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpIKFUX_z10F69THPWyvrpqzO222w4mR27mvAX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahr-e Naw Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8WAvm5hmm-s9rIYvjEqcLqS_gY3CmlMH4nFOU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul Zoo",
+                "category": "Zoo",
+                "url": "https://m.facebook.com/kabulzoo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNR_i8jP25Gs7GKxdY_muu0A0EHn29Y0URx5NVw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagram",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwf8RKqIrTJx0_RnVZ9T4fra-dJ4BRfFF3O0-y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunduz",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSYVQqGMNLlc1nQMuWCHBKsBVM9AXTwxIeRjw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jalalabad",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnNgokL9Ysv6LxMRCiNYzDdPFADU7cm-kgW2Ex=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taleqan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDZw02XCrzczIFJD-2J9693F5W_AkdQRkkW7fn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aybak",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP3jKmQwF3wjf7EE-LmBlJO4_91OuHHm4mKEaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pul-e Kheshti Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPJGasQ-7xYsgeGQ7wKWe3FbBFHMO5GfRi0Kb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah e Du shamshira Mosque",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwW5SWBa3eTpc7la6JpodNdyQTKWcyVEcL6pqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buddha of Bamyan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKIZGoLUhPkdG-GTqvPPeDIh3A3ITLqvSTYS9p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamyan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGJiiphzlQsx2jq65o_oCQHEEUN0MFR9k0NsM3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1t24oQ5VjmgNS7U5G-2XNao_OjZVUauhWXlOn=w148-h148-n-k-no"
+            },
+            {
+                "title": "DarulAman Palace",
+                "category": "Castle",
+                "url": "http://www.darulaman.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVIloDvFTl3jgqRlYF_mWeOgtAft2X_Wp_yUor=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qargha Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN5CFE3TMlFc0mdmU1lmCHMlbxs5W7VnzeJfU7=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Museum of Afghanistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_uWRFXqqIQFdg8GEYJ_K-25iMr9ufAsldY5NN=w148-h148-n-k-no"
+            }
+        ],
+        "Khulm": [
+            {
+                "title": "Mazar-i-Sharif",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXs__r42RopKzN29c1RiStaFrfzutRu7fhSuXQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aybak",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP3jKmQwF3wjf7EE-LmBlJO4_91OuHHm4mKEaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balkh",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMviVq9SYtjnZDDtUMPThX56SP04pSvMEr1fCkC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kunduz",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSYVQqGMNLlc1nQMuWCHBKsBVM9AXTwxIeRjw-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taleqan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDZw02XCrzczIFJD-2J9693F5W_AkdQRkkW7fn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Let's go Afghanistan",
+                "category": "Travel Agent",
+                "url": "https://letsgoafghanistan.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhs1mTSKXkrXbVYyfwwBOpEe1skh8GYhDw3yrK=w148-h148-n-k-no"
+            }
+        ],
+        "Kandahār": [
+            {
+                "title": "Ahmad Shahi Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3AqA0i3RQRQREwRl4TyRknpieNMMfxidxh2aL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ahmad Shah Baba Abdulali Masjeed",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-sl4EZT-61a9SOSFb2YPvXpz7KFkIxbzoEXpP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nasib al khair masjid jame نصيب الخير مسجد جامع",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLblXS14kYOjTHxNobGnrOtJWzpEA5M9T7DVUU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kharqa Sharif (The Shrine of Cloak)",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5C7G2FzD7Inr4HlNHIAzhGKPoWT1GUnYfDPjJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dizzy town",
+                "category": "Children's Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBNJjeDZnc3zFGpCF4RBAw264xt7L8_IqazCji=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arghandab Dam",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvHHKWmeXQqW8nxhuwsRxIutpSEiUsgjrrqfx0=w148-h148-n-k-no"
+            }
+        ],
+        "Khōst": [
+            {
+                "title": "Yaqubi Masjid",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7LSKdrmxpGMYOiyEX-2UHA0wWdvYj5puYQmdc=w148-h148-n-k-no"
+            },
+            {
+                "title": "استاد حکيم تڼيوال پارک Ostad Hakim Taniwal Park",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXh7zFabm7cjazGGySdw_dgV7Ut4Ghtibf1STR=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Park ملي پارک",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrE33lOeviif4jF1sAENQuqUX6PMbh7ebKxNL2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul International Airport",
+                "category": "International airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlW9sJRXnKLOvurXrtkXYacxtCC6vXxlezrr9L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faram Bagh فارم باغ",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0NL56AKuBxlNOTT5IESPCUGw8d4hXJ8TSipLe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul City Center",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmHKlJtwD3w7ysLjaZyGlnkQrkvEycCkfw7_Le=w148-h148-n-k-no"
+            },
+            {
+                "title": "iCue Snooker & Cafe",
+                "category": "Sports club",
+                "url": "https://www.facebook.com/profile.php?id=100063841730729",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7o6icuwJNOMv5W3OHnEwxjq0TnSAPdOWKydu4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khost City Stadium",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCwpuzZOuuQQb7rcC2Ja5BaYQLT6JE5Bmd3buc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ghazi Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvJf4KxoX7XisjF8l2J0bfg6L1HpfgdPjKkD9R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul Zoo",
+                "category": "Zoo",
+                "url": "https://m.facebook.com/kabulzoo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNR_i8jP25Gs7GKxdY_muu0A0EHn29Y0URx5NVw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taq e Zafer",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLDr6yqxzNYxtM83jKpJambVfyA3T27B4P6UgL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1t24oQ5VjmgNS7U5G-2XNao_OjZVUauhWXlOn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khost Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS0na5a9e5IKXQL1lCrK2wMHTFTQO9khhpWxUk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eidgah Great Mosque",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXBDcqFKd_T6stdvg6Z01nck50aePMd80zRNtj=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Museum of Afghanistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_uWRFXqqIQFdg8GEYJ_K-25iMr9ufAsldY5NN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pul-e Kheshti Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPJGasQ-7xYsgeGQ7wKWe3FbBFHMO5GfRi0Kb=w148-h148-n-k-no"
+            }
+        ],
+        "Kabul": [
+            {
+                "title": "Kabul International Airport",
+                "category": "International airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlW9sJRXnKLOvurXrtkXYacxtCC6vXxlezrr9L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul City Center",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmHKlJtwD3w7ysLjaZyGlnkQrkvEycCkfw7_Le=w148-h148-n-k-no"
+            },
+            {
+                "title": "DarulAman Palace",
+                "category": "Castle",
+                "url": "http://www.darulaman.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVIloDvFTl3jgqRlYF_mWeOgtAft2X_Wp_yUor=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Museum of Afghanistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_uWRFXqqIQFdg8GEYJ_K-25iMr9ufAsldY5NN=w148-h148-n-k-no"
+            },
+            {
+                "title": "iCue Snooker & Cafe",
+                "category": "Sports club",
+                "url": "https://www.facebook.com/profile.php?id=100063841730729",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7o6icuwJNOMv5W3OHnEwxjq0TnSAPdOWKydu4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babur Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt5HyrA_9i_xYrFM5SAYlxwppqKHYMkQbrbbTO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qargha Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN5CFE3TMlFc0mdmU1lmCHMlbxs5W7VnzeJfU7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qale'H-Ye-Balahissar",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5q0KREgTdX2r8x6kET0SbVt-heOI4CgtJ5uU6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eidgah Great Mosque",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXBDcqFKd_T6stdvg6Z01nck50aePMd80zRNtj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah e Du shamshira Mosque",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwW5SWBa3eTpc7la6JpodNdyQTKWcyVEcL6pqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pul-e Kheshti Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPJGasQ-7xYsgeGQ7wKWe3FbBFHMO5GfRi0Kb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul Zoo",
+                "category": "Zoo",
+                "url": "https://m.facebook.com/kabulzoo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNR_i8jP25Gs7GKxdY_muu0A0EHn29Y0URx5NVw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamyan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGJiiphzlQsx2jq65o_oCQHEEUN0MFR9k0NsM3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagram",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwf8RKqIrTJx0_RnVZ9T4fra-dJ4BRfFF3O0-y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khyber Pass",
+                "category": "Mountain pass",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_bZL1mxdFe4u4O5mNsGCoYQC9cqfiCWxm1HeZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jalalabad",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnNgokL9Ysv6LxMRCiNYzDdPFADU7cm-kgW2Ex=w148-h148-n-k-no"
+            }
+        ],
+        "Pul-e Khumrī": [
+            {
+                "title": "Kabul",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1t24oQ5VjmgNS7U5G-2XNao_OjZVUauhWXlOn=w148-h148-n-k-no"
+            },
+            {
+                "title": "سیلوی پلخمری Pul-e Khumri Silo",
+                "category": "Bakery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPylRrCpLjT6ceTyAReXVbbtfc_qrsxp5TZyo=w148-h148-n-k-no"
+            },
+            {
+                "title": "رسته شفا خانه",
+                "category": "Supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmqnL6VPwgRN0IeyOn_yb57pv0F0MY56Zi8EtF=w148-h148-n-k-no"
+            },
+            {
+                "title": "نوایی رستورانت",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMckTdEh7IixLg8UDuz-OOyFMtQyPOmgCXO1uw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qargha Lake Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpIKFUX_z10F69THPWyvrpqzO222w4mR27mvAX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahr-e Naw Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8WAvm5hmm-s9rIYvjEqcLqS_gY3CmlMH4nFOU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul Zoo",
+                "category": "Zoo",
+                "url": "https://m.facebook.com/kabulzoo/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNR_i8jP25Gs7GKxdY_muu0A0EHn29Y0URx5NVw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pole Khumri Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNziL9tY3JvyTcWdHnUEG_SALdaMuA0LZLVGX7n=w148-h148-n-k-no"
+            },
+            {
+                "title": "DarulAman Palace",
+                "category": "Castle",
+                "url": "http://www.darulaman.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVIloDvFTl3jgqRlYF_mWeOgtAft2X_Wp_yUor=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pul-e Kheshti Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPJGasQ-7xYsgeGQ7wKWe3FbBFHMO5GfRi0Kb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buddha of Bamyan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKIZGoLUhPkdG-GTqvPPeDIh3A3ITLqvSTYS9p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah e Du shamshira Mosque",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwW5SWBa3eTpc7la6JpodNdyQTKWcyVEcL6pqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Band-e-Amir National Park",
+                "category": "National park",
+                "url": "https://www.nepa.gov.af/indexps",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4tlz-lPbFlxT58Z90v5tWm8iPW3-aQIk3yee2=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Museum of Afghanistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_uWRFXqqIQFdg8GEYJ_K-25iMr9ufAsldY5NN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qargha Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN5CFE3TMlFc0mdmU1lmCHMlbxs5W7VnzeJfU7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babur Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt5HyrA_9i_xYrFM5SAYlxwppqKHYMkQbrbbTO=w148-h148-n-k-no"
+            }
+        ],
+        "Shibirghān": [
+            {
+                "title": "Mazar-i-Sharif",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXs__r42RopKzN29c1RiStaFrfzutRu7fhSuXQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aybak",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP3jKmQwF3wjf7EE-LmBlJO4_91OuHHm4mKEaV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balkh",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMviVq9SYtjnZDDtUMPThX56SP04pSvMEr1fCkC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shrine of Hazrat Ali",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyyjKtwaHWa7LPmEAoRJaQC1_L6VVf1pMX3lhU=w148-h148-n-k-no"
+            }
+        ],
+        "Maymana": [
+            {
+                "title": "Japanese Peace Pagoda - Rumassala",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOixJ1uaBlHufR1Uv0N3lWj8CcIh3wSw_TyrI1S=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Blue Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwEoGjsVj_WIoC_TEYLNEdruY4eZcqTSilQ6q9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Faizabad",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0QmAnDGQLLPSYPl76Z4_cv72jGpun8dzK3mgc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Herat Citadel",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0j9ZgyaM1IgkAJS9M5sf5IYA4Cix7dYyRr4Og=w148-h148-n-k-no"
+            },
+            {
+                "title": "Band-e-Amir National Park",
+                "category": "National park",
+                "url": "https://www.nepa.gov.af/indexps",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4tlz-lPbFlxT58Z90v5tWm8iPW3-aQIk3yee2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babur Garden",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPt5HyrA_9i_xYrFM5SAYlxwppqKHYMkQbrbbTO=w148-h148-n-k-no"
+            },
+            {
+                "title": "DarulAman Palace",
+                "category": "Castle",
+                "url": "http://www.darulaman.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVIloDvFTl3jgqRlYF_mWeOgtAft2X_Wp_yUor=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pul-e Kheshti Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPJGasQ-7xYsgeGQ7wKWe3FbBFHMO5GfRi0Kb=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Museum of Afghanistan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_uWRFXqqIQFdg8GEYJ_K-25iMr9ufAsldY5NN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buddha of Bamyan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKIZGoLUhPkdG-GTqvPPeDIh3A3ITLqvSTYS9p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khwaja Abdullah Ansari Shrine",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP03Ayu9Uu4hjVXz3Ebufr2-a9UxcRizj6o_57p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khost Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS0na5a9e5IKXQL1lCrK2wMHTFTQO9khhpWxUk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah e Du shamshira Mosque",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwW5SWBa3eTpc7la6JpodNdyQTKWcyVEcL6pqZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minaret of Jam",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKFb0_ybGyiHtihNvq3InHPye8FDZJIZFsW0rG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malan Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2W9ShN7ESNMx3_LwsQ9QpK3AT3p3CCPDGBgH9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qargha Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN5CFE3TMlFc0mdmU1lmCHMlbxs5W7VnzeJfU7=w148-h148-n-k-no"
+            }
+        ],
+        "Jalālābād": [
+            {
+                "title": "Abdul Haq Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPG3axQir-Epe7fZhWtfwD_Eb5wECU2jVrkbpML=w148-h148-n-k-no"
+            },
+            {
+                "title": "ننګرهار کرېکټ اکېډمي Nangarhar Cricket Academy",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4NTJykH-6WnguFFHWTpb_WGL_fQkDOLxLZK4n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sharq Media Network",
+                "category": "Cinema",
+                "url": "http://www.shaiqnetwork.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKaYw3mCHYfmkRywRbcWOnSD0fp2pk5RBQhdcL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kabul River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4FrPaOvT8IqBHPqeIL1Q4TeesRPqFCgWVN4b2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afghanistan Tablighi Markaz Jalalabad افغانستان عمومي تبلیغي مرکز",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVSGdY3U0Xfyget4PDv7hBQ26YHbPsmd2RXx3t=w148-h148-n-k-no"
+            }
+        ],
+        "Herāt": [
+            {
+                "title": "Takht-e-Safar Park.",
+                "category": "Amusement park ride",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCjW2V5mKB4MEbmpTOPeasqjG1ZqkzsFOyv602=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ishan Jangid",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOP-w5pfPBEQ0G3wWbvr2nSnN0TKEkV0ImF-d8i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Herat Central Blue Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-CdMnMxGuwXUi1_ZlK5JUiBIS134ncVlIr_8F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Herat Citadel",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0j9ZgyaM1IgkAJS9M5sf5IYA4Cix7dYyRr4Og=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khwaja Abdullah Ansari Shrine",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP03Ayu9Uu4hjVXz3Ebufr2-a9UxcRizj6o_57p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malan Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2W9ShN7ESNMx3_LwsQ9QpK3AT3p3CCPDGBgH9=w148-h148-n-k-no"
+            }
+        ],
+        "Ghazni": []
+    },
+    "sights": [
+        {
+            "title": "Buddha of Bamyan",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOKIZGoLUhPkdG-GTqvPPeDIh3A3ITLqvSTYS9p=w148-h148-n-k-no"
+        },
+        {
+            "title": "Band-e-Amir National Park",
+            "category": "National park",
+            "url": "https://www.nepa.gov.af/indexps",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO4tlz-lPbFlxT58Z90v5tWm8iPW3-aQIk3yee2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Herat Central Blue Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO-CdMnMxGuwXUi1_ZlK5JUiBIS134ncVlIr_8F=w148-h148-n-k-no"
+        },
+        {
+            "title": "Herat Citadel",
+            "category": "Historical place",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP0j9ZgyaM1IgkAJS9M5sf5IYA4Cix7dYyRr4Og=w148-h148-n-k-no"
+        },
+        {
+            "title": "DarulAman Palace",
+            "category": "Castle",
+            "url": "http://www.darulaman.de/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM_bM6--uSrtzr8u73Vn-Y3wefWR_JaInRrcIHv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Minaret of Jam",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKFb0_ybGyiHtihNvq3InHPye8FDZJIZFsW0rG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kabul",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP1t24oQ5VjmgNS7U5G-2XNao_OjZVUauhWXlOn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Babur Garden",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPt5HyrA_9i_xYrFM5SAYlxwppqKHYMkQbrbbTO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pul-e Kheshti Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNwPJGasQ-7xYsgeGQ7wKWe3FbBFHMO5GfRi0Kb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khwaja Abdullah Ansari Shrine",
+            "category": "Shrine",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP03Ayu9Uu4hjVXz3Ebufr2-a9UxcRizj6o_57p=w148-h148-n-k-no"
+        },
+        {
+            "title": "Shah e Du shamshira Mosque",
+            "category": "Shrine",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMwW5SWBa3eTpc7la6JpodNdyQTKWcyVEcL6pqZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Band-e Amir",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMO6HEFsrtaZaNzrjs8z3kMSGrTJS0SRSQtlBbN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jalalabad",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOnNgokL9Ysv6LxMRCiNYzDdPFADU7cm-kgW2Ex=w148-h148-n-k-no"
+        },
+        {
+            "title": "Malan Bridge",
+            "category": "Bridge",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN2W9ShN7ESNMx3_LwsQ9QpK3AT3p3CCPDGBgH9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Panjshir",
+            "category": "Administrative Area1",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPt2z_EwARk-wj9sLVnzG43YGG5p2NppEQx1_VB=w148-h148-n-k-no"
+        },
+        {
+            "title": "The National Museum of Afghanistan",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP_uWRFXqqIQFdg8GEYJ_K-25iMr9ufAsldY5NN=w148-h148-n-k-no"
+        }
+    ]
+}

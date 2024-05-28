@@ -1,0 +1,356 @@
+{
+    "cities": {
+        "Nablus": [
+            {
+                "title": "Cafe Antique",
+                "category": "Cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcHDa57n5h1mZOR7giw-X2YIO_2kWq_pvmb-DH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albader Soap Factory (Alnabulsi Soap Factory)",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxg5isknAZw8ygWOjGMjSMgZKgTFGIE80ZTzWi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samaritan Museum",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfbAxaTpGi0mJIv-vr62UYwMZnHtInMnluon7w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Gerizim",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO56c318nNOssGxVd4ZdLSELlmU7kU1fe2Jc2t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Ebal",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFgekiazLP2X2nYF__LH0Uj6SSnAWqY8lLCgIW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Joseph's Tomb (Yousuf a.s)",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPX6AbirX6ce-IyOerXk4a1VGDoVViifJrZ6OgP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old City",
+                "category": "Neighborhood",
+                "img": "https://lh4.googleusercontent.com/proxy/VmB3XPpdQ57dYKLVfnWGl39Z1vn8HOu6zSir3bXDqiqESmGtIp2iJsgETEWtMDPhEBQbXJyGPgV8g8JpGNYS3Y5-mxFEdUNHL1l7ORkyT1FGJ2_jvaJ0b7gwwejNhDvEdeXyAZO_SZcaB_DVC225M-WxLjYDGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Balata Archaeological Park",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDrs31IcNCe-FPXPtONKvTfUqJOkF5geeWUeT3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jacob's Well Greek Orthodox Church",
+                "category": "Greek Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSooxv4bz-fbT7i3i8Mu3Wi6MXdCWbiIqJRIDC=w148-h148-n-k-no"
+            }
+        ],
+        "Gaza": [],
+        "Battir": [
+            {
+                "title": "Church of the Nativity",
+                "category": "Christian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8N8gl5oaGK_0jJAt8PYeG-3Dydf7ZLXQDrlid=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mar Saba Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzyxIqFM1cWvNP7VWcWhPqsq2IYNbNuHFApuSt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ibrahimi Mosque",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxrY274vgiMGYvZk3Xmb04G3q4npvlFR0G1tf4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hisham's Palace",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGDqk4Z1c4v2Y2MipY-GuduiEC8xfyryhMCi31=w148-h148-n-k-no"
+            }
+        ],
+        "Hebron": [
+            {
+                "title": "Ibrahimi Mosque",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxrY274vgiMGYvZk3Xmb04G3q4npvlFR0G1tf4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Sepulchre",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mahaneh Yehudah Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYVf1KAbwsu_07IXcSSzz2SjcuCL00OKykHS30=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "url": "https://www.imj.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hebron Hope Tours",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6o0ADAlBl1lkIZJ1Gcvz6Pjw2W8mVHnJuuT7K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Aqsa Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRY4VwEfTXCtl2Cnwf4PsDg2_Dy7zHzk-SBEoL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Western Wall",
+                "category": "Shrine",
+                "url": "https://www.thekotel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoMS0Tub_zNJkxOX9sj7xImrbO-ojh7U6rgoxq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Rumeida",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBunDpdgH4rchT7aBIiZxCqRIK0xvF3wECaPiD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hebron Glass & Ceramics",
+                "category": "Tourist attraction",
+                "url": "https://www.hebronglass.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt5H_y-g2U71QzKHbq8ELwosKjlxvhtFRZrL9V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount of Olives",
+                "category": "Ridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDBUsBEwDkZh2sCqg4-tfattuhlGYJuUrSqydY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arafat Mausoleum",
+                "category": "Museum",
+                "url": "http://www.yam.ps/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS6uWWS8N_GXqLNAprb_C_Evi3HFnvxQSYhaiJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dar Zahran Heritage Building",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY4nUyK5BiRBFyJw1t_OLbLje8vhu7qv7fvZvq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramallah Cultural Palace",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSB3jEwJsICmALQChXFlaMFCBoN6zshOaOKOZp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mahmoud Darwish Museum",
+                "category": "Museum",
+                "url": "http://mahmouddarwish.ps/article/1395/%D9%85%D8%AA%D8%AD%D9%81-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%AF%D8%B1%D9%88%D9%8A%D8%B4--%D8%AD%D8%AF%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%A9-",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQ4Fl9iuvws5j3bdbMKtHn96LNOyQZ9LA8SVIs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palestine Tower Cinema",
+                "category": "Cinema",
+                "url": "http://www.palestinetradetower.com/tower-cinema/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOX6Eqmwmqo--2dhGohICk58z-rMv_ZkMCuk-NI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abdel Nasser Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPesM0lxpK2V3-BVjPVIS8Mkm2AAnnLCzd4IPQU=w148-h148-n-k-no"
+            }
+        ],
+        "Khān Yūnis": [
+            {
+                "title": "The Great Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8x_gQI2tf70b4-DP63h64ITVvm1_T43gnLYtR=w148-h148-n-k-no"
+            },
+            {
+                "title": "مارفل ايس marvel iec",
+                "category": "Sundae restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJqM7uvrqJFC3IMNmvK0Pc1KYszDqhj_5_0ACL=w148-h148-n-k-no"
+            },
+            {
+                "title": "حلويات دهب - خانيونس",
+                "category": "Confectionery store",
+                "url": "http://www.dahab.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBhKMTKF2_NYNq5VdHP_14WTe093Tnd1cmCMIn=w148-h148-n-k-no"
+            },
+            {
+                "title": "قلعة برقوق",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoL_V3-f4U-zvCMpJ-Qd4KDqqhhxxnDFKHU91x=w148-h148-n-k-no"
+            },
+            {
+                "title": "سوبر ماركت أطلس",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_Xtz4wbPdrsi8fE1PV103lSScz9kH8rBiYkMm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hamad Town residential",
+                "category": "Flat Complex",
+                "url": "https://apartment-complex-1434.business.site/?utm_source=gmb&utm_medium=referral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMB4fYcaxtMGBU7fj0a2B6bRalGVXhqwR6V_F15=w148-h148-n-k-no"
+            }
+        ],
+        "Dayr al Balaḩ": [],
+        "Jabālyā": [],
+        "Bayt Lāhyā": [
+            {
+                "title": "Mount of Olives",
+                "category": "Ridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDBUsBEwDkZh2sCqg4-tfattuhlGYJuUrSqydY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dead Sea",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZvtW3AczgH0dAZ9OMacv77RDh9bWPlKZPCx-k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Aviv Museum of Art",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvUGM_yConeY8XaO4rHsx99plW07103PDJO-E=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dome of the Rock",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwn8E43PpLaX-BoLHyfjSsDqQgHikGFxi0N6ry=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beit She'an National Park",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyB1lTgQkE1KyVGf4YLTRVjSpvA-PGjOF20-Hm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jordan Star National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVMdyIEqxcGySc4DOwlo3hAf6iOa_LAQsHaSy6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ganey Hugga",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHZUp5YhFffDaBOkgcOH1LU9ZNAd5PVpSGfsFk=w148-h148-n-k-no"
+            },
+            {
+                "title": "ביותור תיירות חקלאית אקולוגית אטרקציות עמק המעיינות בית שאן",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUo0phHP3iUbFpoalam0Nefhfd1H8wwC7npaEr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Sepulchre",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old City",
+                "category": "Neighborhood",
+                "img": "https://lh4.googleusercontent.com/proxy/VmB3XPpdQ57dYKLVfnWGl39Z1vn8HOu6zSir3bXDqiqESmGtIp2iJsgETEWtMDPhEBQbXJyGPgV8g8JpGNYS3Y5-mxFEdUNHL1l7ORkyT1FGJ2_jvaJ0b7gwwejNhDvEdeXyAZO_SZcaB_DVC225M-WxLjYDGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Western Wall",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoMS0Tub_zNJkxOX9sj7xImrbO-ojh7U6rgoxq=w148-h148-n-k-no"
+            }
+        ],
+        "Rafaḩ": [],
+        "East Jerusalem": [
+            {
+                "title": "Masada National Park",
+                "category": "Historical landmark",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%9E%D7%A6%D7%93%D7%94/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaJdlbCDmo1VjaAgw5JiUlHVuM3lo8dhMwB1u2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Islamic Art",
+                "category": "Art museum",
+                "url": "http://www.islamicart.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9y7SMdImCZ6fLrqu3kPq8G4HV7cznul1AWXw=w148-h148-n-k-no"
+            },
+            {
+                "title": "בית כנסת החורבה - Hurva Synagogue",
+                "category": "Orthodox synagogue",
+                "url": "https://travelrova.co.il/hurva/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNFrsEf7EktjohRcF3uw86XVkIN1NcWZ9jOZsx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zedekiah's Cave",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMpZ4uNFgJZfHXtwpQG_llWVOpSklpUhpoA02X=w148-h148-n-k-no"
+            },
+            {
+                "title": "9/11 Memorial & Museum",
+                "category": "Historical place museum",
+                "url": "https://www.911memorial.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkj2OfBEsPxckF5EEsiOOcD-blkWOxwUFtHTYG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastery of the Cross",
+                "category": "Convent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkXuGSWhrmkn9AaLtPppDPKYJdmtOFl1z_MnM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Nativity",
+                "category": "Christian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8N8gl5oaGK_0jJAt8PYeG-3Dydf7ZLXQDrlid=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Georg Kloster",
+                "category": "Monastery",
+                "url": "http://www.georg-kloster.de/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrtFpsC-kJ-R_rnuk6HyOUcdTa_inAveHBzO1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gazelle Valley",
+                "category": "Park and Garden",
+                "url": "https://www.gazelle-valley.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKKv-mbeG1M4JXs8ibJtvikPXNLeadL1TnL7mu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teddy Park",
+                "category": "Park and Garden",
+                "url": "https://www.jerusalem.muni.il/RecreationandCulture/Museums/Pages/park-tedy.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHDMXmCHZFlLE_1VND-Nu12P3i4WGRs3gGDZL4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pater Noster church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3sF48SE0-aA5IMdxXvF4-pgc6MkQAHIbHA_2n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yad Vashem",
+                "category": "Museum",
+                "url": "https://www.yadvashem.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY8OmfgbDSdHbq2RCg9X4C4QKQFvx23JrZ6bWj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Friends of Zion Museum",
+                "category": "Heritage museum",
+                "url": "https://fozmuseum.com/he/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbUKhaqfUC3fITo021ArjeZlDLCxG691w-Lwo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gatsby Cocktail Room",
+                "category": "Cocktail bar",
+                "url": "http://www.gatsby.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNruutJm0Q3mjOUirCnLvzZVz5Bjyx3QdxT4j3l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hebrew Music Museum",
+                "category": "Museum",
+                "url": "http://hebrewmusicmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhS52yv6nnHjURoDkE9InX8p9EcYxkHygyI6P6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rockefeller Archaeological Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.imj.org.il/he/wings/archaeology/%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F-%D7%A8%D7%95%D7%A7%D7%A4%D7%9C%D7%A8-%D7%9C%D7%90%D7%A8%D7%9B%D7%90%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-YBRNXNfcMIIsPQt4jQrOaBad_VX0EN_4iubh=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": []
+}

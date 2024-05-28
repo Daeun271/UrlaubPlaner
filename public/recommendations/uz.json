@@ -1,0 +1,2064 @@
+{
+    "cities": {
+        "Qo‘qon": [
+            {
+                "title": "Palace of Khudáyár Khán",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBSYFnf0yHdDRWDA4UIm6OHA3uWd8fiCnPht4k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi-zMUteU40nWzMIHdWrShUyWhwV6_YpkXrrRx=w148-h148-n-k-no"
+            },
+            {
+                "title": "The palace of Grand Duke Nicholas Constantinovich",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJKsLsI5fFItI_xuRi2pF7FYPByRni87keyiF6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barakhan Madrasah",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMslROBeqVzR-HLU2zTWf8YNhY3mpfNF8lwDmOv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mustaqillik Maydoni",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtG_6Dd1IlpOsx9iTAS6N5PAq5RMC0zpphhAG2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minor Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhSavxL7_-fVeSzfBFM_RBfYWBP7cKoz2sHO1b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chorsu Bazaar",
+                "category": "Historical market square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAHadgeZPuLG4L9EtUK19be-GDMmt9fCt4lUfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "OLD Tashkent",
+                "category": "Hotel",
+                "url": "http://www.oldtashkenthotel.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8BdB7isiryWtvTZ-9kEhSD6QBaWeQF7z18oVF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXgqJ3WP7nRR3wFyjAAn4pFAvISyJPygHExL-1=w148-h148-n-k-no"
+            }
+        ],
+        "Fergana": [
+            {
+                "title": "Сentral park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7LJWTgri7ozfvi7WQ9NiGc1kneaNsxVUgOj2y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Istiqlol Stadioni",
+                "category": "Stadium",
+                "url": "http://fcneftchi.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1Rv-CGfh673f-gVCS5XnS9m6M9ieYJmbB4I6N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Farg'ona Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJcQJrPJQP5MfHTLAXX2gUBzyRFwgSBd5thoJF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ferganskiy Zoopark",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZuuUIHaXQAu2lMBbif6CvpuDYa9o8l7QR6RyG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kombinat Bozori",
+                "category": "Fleamarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNCvvkRyGBD2wzQaFIt15K8oq-Nznb_ef_hcj3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Margilon Istirokhat Bogi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCCFPOET7eiRwwwWPm7OY6YSF9QWbHZ-gTf679=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khonakhan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuhTHbh4QWPm5mdgi2QUHzzV8YqoUUkMKSglPo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yodgorlik Silk Factory",
+                "category": "Company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwAzPqdS1icsHkSTStlGNRJkyH50UWhT5a0Oxw=w148-h148-n-k-no"
+            }
+        ],
+        "Xiva": [
+            {
+                "title": "Allakuli Khan Tim Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOn1Ye6279yeXqmOctnDW57HYMw3qY1-ndNLf4b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kheivak Well",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgY5ABaySahTiP-RjTEfe8VKRXxHgVhG-VIBha=w148-h148-n-k-no"
+            },
+            {
+                "title": "Islam Khoja Minaret",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOgCVwRwlD23eX8Hu-uUsPpz0UOIQl9I3KZm0k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayoz qalʼa",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpkvmIeCVKimRp_sfkRdaFjf97sE-gPSWswsx-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nurullaboy Palace",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYGCs_gp0Gx2cNg9nf_vRcns-2bqOQ1WJ4L_Nm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Birinchi rus maktabi",
+                "category": "School",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNukcDWdIcjD0GsSHSnsHr0mC2ndqU9IGBZP0yk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khorezm Mamun academy",
+                "category": "Research foundation",
+                "url": "http://mamun.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvrIhndK0I9J-VoO7HpG6Or5emM0pHZaUwYfPo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Allakuli Khan Madrassah",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxWIa-Fe9ohF2kprHCMd8cYnziyJ3_H6poILF5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Tura Madrasah",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOy_-g3hi1fZP7PxYRicrpEU3pCiCKJ4cHZ0RW4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Topraq-Kala",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVich4ljj9MogKKFBuptaek5cFNb1x7LzCfn5t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mohammed Rakhim Khan Madrassah",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOdvL74a7oWvPfZFyfu4gl3vpW-h3tM2FAcKm9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matniyaz Divanbegi Madrasah",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6v7zUafi-SCe8JHq4vrIg-i4vWNEl03kU2vA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuhna Ark",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBJfpYkTAl51bnF7bQZml5pqkLQhaStJjd60-i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qozi Kalon Madrassah - Museum of Musical Art",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVDKpFmfq7llvkHYeAM63EdnClIn71JoutoHfi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stone Gate (Itchan Kala South Gate)",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPk2yYsHxK8-T7-7Ql7YLJPPivslGVegEHwG_ZV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Itchan Kala",
+                "category": "History museum",
+                "url": "http://khivamuseum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9J-H4pwWwtaf4M74XwOZp17afuJMzaKixxBk8=w148-h148-n-k-no"
+            }
+        ],
+        "Nukus": [
+            {
+                "title": "Nukus Museum of Art",
+                "category": "Museum",
+                "url": "http://museum.kr.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGtYpMbKjFRuN2ndG9ZsHrSRcMCBV4ntjefVB9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muhammad Imam Iyshan meshiti",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIF9C4S_jgvI2uvSP7vIk9LRApnYSKGeSkYmGB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gosudarstvennyy Muzey Istorii I Kul'tury Respubliki Karakalpakstan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOm7N20UvFVsbK3ayKdl_YEO9pF2WSHI0Wi0DvG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Парк им. А. Темура Amir Temur Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMao1q3GW_3uEKz7scYsrqfG3wPSdncQbYjuWSP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salmen Iyshan jame meshiti",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipME1KhB6cWh-TWgC9dPy1ZvdYJ1e7UI4F6y-BR8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mizdakhan Necropolis",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7FuYq_Cbo1v5X1otcf7B_IcWUsQd_C3QZtOyt=w148-h148-n-k-no"
+            }
+        ],
+        "Chirchiq": [
+            {
+                "title": "Kamolon (Xoja Alambardor) Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND_u4611CQUqzRr9nmPd1b0le65H7EuOlkkPJ4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Railway Museum",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdBqn6pLpJRwmas-yanq_n2eFZb4HsDaEnjXEm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Applied Arts",
+                "category": "Art museum",
+                "url": "http://www.artmuseum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-N5Ffpuv4kISoJx_uYqZ1i0Zv96KRdx5jWBHJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Assumption Cathedral Church",
+                "category": "Russian Orthodox church",
+                "url": "http://pravoslavie.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkLzyTUOpcMjLbB8Sb9GF5tFEZnNMJ7imt-PTW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chimgan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Nnxb0qa1XYIaWUXrOcZt8Klup5BGOLBp9mgL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent Tower",
+                "category": "Tower",
+                "url": "http://tv-tower.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMymKPAEsWmp_eXoZ_ohaEeyWSjnifJCFvGkcan=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the History of Uzbekistan",
+                "category": "Museum",
+                "url": "https://history-museum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1QkUtLqF3xc1vjn78oFOtwON5Yz1bvmlmWvvT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alisher Navoiy Theater",
+                "category": "Opera house",
+                "url": "http://www.gabt.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPbqtp-_-Mx7DFk9PU5t-jV0Ng4dMLGWWC2ytM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mustaqillik Maydoni",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtG_6Dd1IlpOsx9iTAS6N5PAq5RMC0zpphhAG2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barakhan Madrasah",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMslROBeqVzR-HLU2zTWf8YNhY3mpfNF8lwDmOv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chorsu Bazaar",
+                "category": "Historical market square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAHadgeZPuLG4L9EtUK19be-GDMmt9fCt4lUfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the Temurids",
+                "category": "History museum",
+                "url": "http://temurid.uz/",
+                "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "OLD Tashkent",
+                "category": "Hotel",
+                "url": "http://www.oldtashkenthotel.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8BdB7isiryWtvTZ-9kEhSD6QBaWeQF7z18oVF=w148-h148-n-k-no"
+            },
+            {
+                "title": "The palace of Grand Duke Nicholas Constantinovich",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJKsLsI5fFItI_xuRi2pF7FYPByRni87keyiF6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minor Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhSavxL7_-fVeSzfBFM_RBfYWBP7cKoz2sHO1b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXgqJ3WP7nRR3wFyjAAn4pFAvISyJPygHExL-1=w148-h148-n-k-no"
+            }
+        ],
+        "Asaka": [
+            {
+                "title": "Margilan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlZfNk-MlNvEIry-IojTk8R4ABz3dIk8hrF6q7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rishtan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdW24Ix8oQDAxrhKnH_R7JrToyiERsucVJ3HBe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Andijan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_NYxbs4mt65Fp_xt45MKE2Ykaemh7pwCWlpr_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokand",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPROi2KTlsxfizuEFFBrUwLbLq39T9VB_cfLSs9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Khudáyár Khán",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBSYFnf0yHdDRWDA4UIm6OHA3uWd8fiCnPht4k=w148-h148-n-k-no"
+            }
+        ],
+        "Urganch": [
+            {
+                "title": "Toshhovli Palace",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRE21YondfWX2X8AtIAz_aFZ4-I75bgvb0R5gM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Köneürgench",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt08QQfrR0vFaJ4ll6TwHadqMPh2k-yFFevrhh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nedjmeddin Kubra Mausoleum",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBi6RykWouN311xeLEo6cx9QJraFOCTsK93uTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Turabeg Khanym Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjZrBT6UbZVLCplBBksHsYMydknZdBcHDhOWdP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Ali Mausoleum",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5LuEMKtn-b-qUbl7D2mJ2Zy14Kd1HtLqVZAjK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Timur Qutlugh Minaret",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtGTPOf7TqIUZP16HrrTUG6ktT7kUxx3e7b2i7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Памятник Авесто",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaoBqavJP6EiAYOD3CBB0sf0MPQS0OJOaRkO6z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Contemporary art Museum of Uzbekistan",
+                "category": "Modern art museum",
+                "url": "http://www.camuz.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxYb4_FSUuskjjotBxfOt8A7rp_xptji0KU6on=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Amira Timura",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9tXzgc7Z2fA9hx6asejCL-8FqUudEaqYib7Qo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jalal ad-Din Mingburnu Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbyZ5Ws6z5te8kW7QtPYnjXYWdNXoGA6wdKAJl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al'-Khorezmi",
+                "category": "School",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNP11mZk_wHLrHkM-UPPn0DVkJcDsiRQKDEyV5E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ulli Hovli",
+                "category": "Hotel",
+                "url": "https://jayxunbey.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMog0-0rAGsv1AO8npKwQsCVIpllkrrRO_3Z57o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shavat Canal",
+                "category": "Canal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtsW1EQa4vpwPUOcXHisegMimYbfM_JQYEdAbR=w148-h148-n-k-no"
+            }
+        ],
+        "Kattaqo’rg’on Shahri": [
+            {
+                "title": "Zaamin National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1AKWLrWKxepPS_XhVML8X9S4dt6xcYqSi_4q7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sitori-i-Mokhi Khosa palace",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCOwq5gqnfgfuwuFlZiZ2qIiPL-Dz1Jq0_hRB2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hazrat Khizr Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNqKVR9p3f_lZrimqAsAortaV7D6CYbdjj9egv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dinamo Stadium",
+                "category": "Stadium",
+                "url": "http://www.fcdinamo.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvVLVHQ0KSOvVj6A9mszWBkCovrywTBYfnQuPf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aksaray Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwlrtuEiVRpVnAt2-3UZRQFB3tQUZBMHbgQbji=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gumbaz Synagogue",
+                "category": "Synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-qDxhndsQ6cdj6KdO4cUvJ5qj5p_Tk_33ON0M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samarkand",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOea5slBP0B9CHOXr8vtSxTs7WmzvMYbKR0L1Ft=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibi Khanym Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1LOXmcDDjnlKdTyJ8ffZLHXcbv62hkeVO5FlL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rukhobod Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxMQhX0mg-w2Xim655lgNBoCoaESCMcu0Qmi3q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bukhara",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtQxCxMlgWBR6g68IexNn4hgJUUIJONBrl7BSo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Islam Karimov's Statue",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOV91nxPhw_CL5y204XpNLPyrRszUmSX_4vGnZr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUKJxpuB_lagI98o3iM0QLK9DZIoefQB0FWRXS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bolo Hauz Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmOO2fVEQBwlkWn9QDktM5XwevOOHIdnRTGTIk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir-i-Arab Madrasa",
+                "category": "Religious destination",
+                "url": "https://mirarabmadrasa.uz/uz",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMREuQAd7AOqhpFjzOo3SZ0uSvZ71HbLBaMFCvF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nadir Divan Begi Madrasah",
+                "category": "Faith school",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNan2hIJnmno39zzR0L_EHHMYCRLhoUlaugkzQF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Toki Sarrofon",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGLKOOVD_LFhxGsjj42rIz3PovePfI8DGHY0K2=w148-h148-n-k-no"
+            }
+        ],
+        "Olmaliq": [
+            {
+                "title": "Advantour Travel - Uzbekistan Tours",
+                "category": "Tour operator",
+                "url": "https://www.advantour.com/uzbekistan/tours.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTvHZqZ9Xeh0bD5ZA7_it_3Wp_MHG8pkdARoMH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hazrati Imam Mosque",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFRc-6u86WTfRRs4wCC76hIn5dUITt5dN_qXJu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fergana Valley",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPROi2KTlsxfizuEFFBrUwLbLq39T9VB_cfLSs9=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the Temurids",
+                "category": "History museum",
+                "url": "http://temurid.uz/",
+                "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Uzbekistan Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMN2iiRQP_rCxxAGb7NzYVEpzAo2TxQX8LGMe3J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chorsu Bazaar",
+                "category": "Historical market square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAHadgeZPuLG4L9EtUK19be-GDMmt9fCt4lUfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi-zMUteU40nWzMIHdWrShUyWhwV6_YpkXrrRx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minor Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhSavxL7_-fVeSzfBFM_RBfYWBP7cKoz2sHO1b=w148-h148-n-k-no"
+            },
+            {
+                "title": "The palace of Grand Duke Nicholas Constantinovich",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJKsLsI5fFItI_xuRi2pF7FYPByRni87keyiF6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seattle Peace Park",
+                "category": "Park and Garden",
+                "url": "https://seattle-tashkent.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfquADjLNe0mJg6icQluZFJQPgbwbegl8LsWSR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amirsoy",
+                "category": "Ski resort",
+                "url": "https://www.amirsoy.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvR6YFcFLtx2Yd3YZWl5gVriXA8iIeJp4cnVW0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magic City Park",
+                "category": "Amusement park",
+                "url": "http://magiccity.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTQWVN9LEUYCACOE2TTvtsLOqQe4v0GLlGYUJd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barakhan Madrasah",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMslROBeqVzR-HLU2zTWf8YNhY3mpfNF8lwDmOv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zaamin National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1AKWLrWKxepPS_XhVML8X9S4dt6xcYqSi_4q7=w148-h148-n-k-no"
+            },
+            {
+                "title": "OLD Tashkent",
+                "category": "Hotel",
+                "url": "http://www.oldtashkenthotel.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8BdB7isiryWtvTZ-9kEhSD6QBaWeQF7z18oVF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chinor Garden Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdEyKU0bB8ZQnTok-Ei5OWNX7ov5BdmNNK8LIZ=w148-h148-n-k-no"
+            }
+        ],
+        "Jizzax": [
+            {
+                "title": "Yoshlar shaharchasi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQh5zRvdr4gbIoDU1GdfEgnofjCmi2EcW-Fk_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Istirohat bog’i",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTEGfjCEUT4GkoOzV0FB-A7tcImNJgk5rkC9K8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zulfiya va Hamid Olimjon",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP29q4laOVqr9oFJJW7muKEfLz_JqRIJTfljU7Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park \"Pamyati\"",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMej86QM32O7gIj_wtBcXIp1dGpPmnEvkigS8Ns=w148-h148-n-k-no"
+            },
+            {
+                "title": "Observatory of Ulugbek",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJc0qmm0D7gm4dPHjzx5lDqeSD4Q-ahSbWEqLy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXgqJ3WP7nRR3wFyjAAn4pFAvISyJPygHExL-1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bolalar Bog'i",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOs8AZW2Tye7dua5BVCNV2_GlmL3JlmasYociyc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afrosiyab Settlement",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvGo6lWR6qvXFMkH14qAIZAaFoy6q8RHFdv-cb=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the Temurids",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zaamin",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgisGHEVI2g2BgzUWobSORRet9en4TKm6DuKCM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Happy Bird Art Gallery",
+                "category": "Art Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8lBfY-dOisMXgj7HjUF0XW-quNTo-arupdOi6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rukhobod Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxMQhX0mg-w2Xim655lgNBoCoaESCMcu0Qmi3q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi-zMUteU40nWzMIHdWrShUyWhwV6_YpkXrrRx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zomin istirohat bog‘i",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3Tt7k48P_o2MTLKlWlfdyWS_RXehyi70esJAq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chorsu Bazaar",
+                "category": "Historical market square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAHadgeZPuLG4L9EtUK19be-GDMmt9fCt4lUfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibi-Khanym Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt3WZAAOG3MznLmzR8owNMS_TrtLT_254Ni_Y6=w148-h148-n-k-no"
+            }
+        ],
+        "Samarkand": [
+            {
+                "title": "Registan Square",
+                "category": "Historical landmark",
+                "url": "http://www.registon.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjZB5eixJGUpiTnFA5G5Jq6nZN9fvsc5iQQvgb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Mausoleum Gur-i Amir Сomplex",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTE_3ancg0p_RcWy4d2ClVYLFnjE35L8gn7_2x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Observatory of Ulugbek",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJc0qmm0D7gm4dPHjzx5lDqeSD4Q-ahSbWEqLy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Siyob Bozor",
+                "category": "Farmers' market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBup9h2rCDRr3yAXF6xoYLb71sL0TxG3BaBAyg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah-i-Zinda",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKFLGKKa9U4611WcSAQsF8vS_uj3gHHmJzjNHw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibi-Khanym Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt3WZAAOG3MznLmzR8owNMS_TrtLT_254Ni_Y6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afrosiyab Settlement",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvGo6lWR6qvXFMkH14qAIZAaFoy6q8RHFdv-cb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sherdor Madrassah",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMI4TwSL0EJ2mpE5U8zPS6X2tLx2pa9wo7AADw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rukhobod Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxMQhX0mg-w2Xim655lgNBoCoaESCMcu0Qmi3q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tilya-Kori Madrasah",
+                "category": "Historical landmark",
+                "url": "http://registon.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKU0TYdfBPdrA9tHyp54A62QA2DKiAYkvmd5P3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hazrat Khizr Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNqKVR9p3f_lZrimqAsAortaV7D6CYbdjj9egv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afrasiyab Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU9QObxNr0ri5ZIA0DwGlAVV_1LB0EDnqaydJH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samarkand Bukhara Silk Carpets factory",
+                "category": "Corporate office",
+                "url": "https://silkcarpets.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYeI97Ub8Jp343TdS7oAbBe9SBKnWgaKc1NjH5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dinamo Stadium",
+                "category": "Stadium",
+                "url": "http://www.fcdinamo.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvVLVHQ0KSOvVj6A9mszWBkCovrywTBYfnQuPf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Happy Bird Art Gallery",
+                "category": "Art Centre",
+                "url": "https://www.h-b-art.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8lBfY-dOisMXgj7HjUF0XW-quNTo-arupdOi6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samarkand Tourist Information Center",
+                "category": "Visitor centre",
+                "url": "https://www.facebook.com/touristinfomationcentre/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKNqeOXXcsHany6pApJKsEP4_EDTdD_KDITV3r=w148-h148-n-k-no"
+            }
+        ],
+        "Chust": [
+            {
+                "title": "Palace of Khudáyár Khán",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBSYFnf0yHdDRWDA4UIm6OHA3uWd8fiCnPht4k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi-zMUteU40nWzMIHdWrShUyWhwV6_YpkXrrRx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magic City Park",
+                "category": "Amusement park",
+                "url": "http://magiccity.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTQWVN9LEUYCACOE2TTvtsLOqQe4v0GLlGYUJd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent City Park",
+                "category": "City park",
+                "url": "https://tashkent-city.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPskIbGXyqlQcnPXmlkQJ7uKtnvOIckp9GYv-Li=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amirsoy",
+                "category": "Ski resort",
+                "url": "https://www.amirsoy.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvR6YFcFLtx2Yd3YZWl5gVriXA8iIeJp4cnVW0=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the Temurids",
+                "category": "History museum",
+                "url": "http://temurid.uz/",
+                "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent Zoo",
+                "category": "Zoo",
+                "url": "https://www.tashkentzoo.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8AVy4Zm5RbEOUvBlGQOkrE4z_aH80qDXmW-sr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Navruz Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEAl4PnggdIaVD5Ayxs0c3ZE_jF5HireRW5YML=w148-h148-n-k-no"
+            },
+            {
+                "title": "Milliy Bog",
+                "category": "Underground Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzZKSSgaZDQbFO55Hrnbf2ozUtTFi0CT-qFnlY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chinor Garden Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdEyKU0bB8ZQnTok-Ei5OWNX7ov5BdmNNK8LIZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Park of Uzbekistan named after Alisher Navoi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVzaDZwLCEe_PDSFHg7Of551CtgUfbvXGcoozg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minor Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhSavxL7_-fVeSzfBFM_RBfYWBP7cKoz2sHO1b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mustaqillik Maydoni",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtG_6Dd1IlpOsx9iTAS6N5PAq5RMC0zpphhAG2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Charvak Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhvW7vCGEn4Qk9J0So2RUSfWORMEZhZma3_jnC=w148-h148-n-k-no"
+            },
+            {
+                "title": "The palace of Grand Duke Nicholas Constantinovich",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJKsLsI5fFItI_xuRi2pF7FYPByRni87keyiF6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Urunghach Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqjmSWo9LUpDe_g5mvvXqVx19xDTZv6FdRG8B6=w148-h148-n-k-no"
+            }
+        ],
+        "Navoiy": [
+            {
+                "title": "Registan Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjZB5eixJGUpiTnFA5G5Jq6nZN9fvsc5iQQvgb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alisher Navoiy National Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIsW9g44qJMX2xvdjNiAbzHsIwv6rJcFKWy-QD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir-Sayid Bakhrom Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNppHuDPA-rTtTULmThWerR76sDzpQOEpzHI8Qx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rabati Malik Caravanserai Cistern",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXsUaQM6-wtT2VaxnJJo9SPGT3jUxUfuCeg0r-=w148-h148-n-k-no"
+            }
+        ],
+        "Tashkent": [
+            {
+                "title": "Chorsu Bazaar",
+                "category": "Historical market square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAHadgeZPuLG4L9EtUK19be-GDMmt9fCt4lUfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the Temurids",
+                "category": "History museum",
+                "url": "http://temurid.uz/",
+                "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Applied Arts",
+                "category": "Art museum",
+                "url": "http://www.artmuseum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-N5Ffpuv4kISoJx_uYqZ1i0Zv96KRdx5jWBHJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7q6hECQ1vs-X44-_NdkqBFRPE9mRNHJVhSyqy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minor Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhSavxL7_-fVeSzfBFM_RBfYWBP7cKoz2sHO1b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alisher Navoiy Theater",
+                "category": "Opera house",
+                "url": "http://www.gabt.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPbqtp-_-Mx7DFk9PU5t-jV0Ng4dMLGWWC2ytM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokaldash Madrasah",
+                "category": "Education Centre",
+                "url": "http://kukaldosh.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGe62G1ww_9ALtOaH7uZNrpOW3J3BQSRkrG4g0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Friendship of the Nations Palace",
+                "category": "Concert hall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtGLf2WhCy4ihMr8nf6B5mc-Q-PM31pahl-ymV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent Zoo",
+                "category": "Zoo",
+                "url": "https://www.tashkentzoo.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8AVy4Zm5RbEOUvBlGQOkrE4z_aH80qDXmW-sr=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the History of Uzbekistan",
+                "category": "Museum",
+                "url": "https://history-museum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1QkUtLqF3xc1vjn78oFOtwON5Yz1bvmlmWvvT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anhor Lokomotiv",
+                "category": "Amusement park",
+                "url": "https://www.facebook.com/anhorpark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRyQvnZqVU4x6rmlI8cQuNU17YRfzyIJfpWCB_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hoja Ahror Valiy Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnaBQ1bbKtonqPYps6dy015wRNIsGPDFN5W6Mm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abdulla Murodxo'jayev 17a",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNokF07F9UNZo2vsuML7Z7_EaIUxJ_iPmBVKFpV=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Park of Uzbekistan named after Alisher Navoi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVzaDZwLCEe_PDSFHg7Of551CtgUfbvXGcoozg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent Botanical Garden",
+                "category": "Botanical garden",
+                "url": "https://uzbbg.uz/ru",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-sJTKvKfnInkcfC4JBI7jipnHbHQwkygjDc4z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alay Bazaar",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJU9na177IMWAszqMJf0nY1Xo5r9nmQOGys7Hh=w148-h148-n-k-no"
+            }
+        ],
+        "Shahrisabz": [
+            {
+                "title": "Ak-Saray Palace",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFXVnJa8K1iB5wi7GLx3p1Fxev_yaPi6pVetDT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statue of Amir Temur",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGPu5TntkbdVCBBNkg4ER7T-uTf0jImJKo1ZqL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Mausoleum Gur-i Amir Сomplex",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTE_3ancg0p_RcWy4d2ClVYLFnjE35L8gn7_2x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah-i-Zinda",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKFFXADZtzRkelhvuZnHWjoKmpRV2yZxCWCZqg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Observatory of Ulugbek",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJc0qmm0D7gm4dPHjzx5lDqeSD4Q-ahSbWEqLy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kok Gumbaz Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNE1DZ2j9mk0sMskt8Ff5JoH-EdAvBhAGx22Pi=w148-h148-n-k-no"
+            }
+        ],
+        "Bukhara": [
+            {
+                "title": "Ark of Bukhara",
+                "category": "Fortress",
+                "url": "http://bukharamuseums.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLp8_-Z4zo1aolYHaclyVsvJ2VOjFl1KiymFQI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalon Tower",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdxqYHdB5WIoK43j4Mkjdt_lN9fy9h83Bazr0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sitori-i-Mokhi Khosa palace",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCOwq5gqnfgfuwuFlZiZ2qIiPL-Dz1Jq0_hRB2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chor Minor Madrasah",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfQvaKmBHKbZWHpcS6Qvz30ee1A8oGoX1EXGtp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUKJxpuB_lagI98o3iM0QLK9DZIoefQB0FWRXS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ismail Samani Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzpeMrCQRPLOWxV8XBm-A5fUFa-tMISKnYTXdV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bolo Hauz Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmOO2fVEQBwlkWn9QDktM5XwevOOHIdnRTGTIk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir-i-Arab Madrasa",
+                "category": "Religious destination",
+                "url": "https://mirarabmadrasa.uz/uz",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPY6_kn6j3_P5SOyBVHTsXR-8gZ2vp9_zxHA8DH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lyabi House Hotel",
+                "category": "Hotel",
+                "url": "http://www.lyabihouse.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8lSdpicC1MUX-HxHnEoArvTPjKgWV8_PzkM1j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Toki Sarrofon",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGLKOOVD_LFhxGsjj42rIz3PovePfI8DGHY0K2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nadir Divan Begi Madrasah",
+                "category": "Faith school",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNan2hIJnmno39zzR0L_EHHMYCRLhoUlaugkzQF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chashmai Ayub Mausoleum",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFozsvDkLZ8yen7tJmnmrWm28XQhHDxZLTweuT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magoki Attori Mosque and carpet meusium",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBkhByE8_aAi4wvOI5lG_3zLJS01tF1YMaywrs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ulugʻbek madrasasi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOejcmpQ0Pe6Lef_rmdUedJnbfaYoZhZSlMpI0S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khoja Gaukushan Ensemble",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNh-8H3Kw4BWDrWIFIO4mNGLb9lIXWWJtvHCCyZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Toqi Zargaron",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3baUr8ftpYn2yLQ0kk8m7DP1ut0-xXc2P8NMj=w148-h148-n-k-no"
+            }
+        ],
+        "Oltinko‘l": [
+            {
+                "title": "Amirsoy",
+                "category": "Ski resort",
+                "url": "https://www.amirsoy.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvR6YFcFLtx2Yd3YZWl5gVriXA8iIeJp4cnVW0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Khudáyár Khán",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBSYFnf0yHdDRWDA4UIm6OHA3uWd8fiCnPht4k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Margilan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlZfNk-MlNvEIry-IojTk8R4ABz3dIk8hrF6q7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chimgan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Nnxb0qa1XYIaWUXrOcZt8Klup5BGOLBp9mgL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokand",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPROi2KTlsxfizuEFFBrUwLbLq39T9VB_cfLSs9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fergana",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMK3g1QbCO2HVLcQp9D4_7M6jMEAI0w2nRqx9Kj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Urunghach Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqjmSWo9LUpDe_g5mvvXqVx19xDTZv6FdRG8B6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Charvak Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhvW7vCGEn4Qk9J0So2RUSfWORMEZhZma3_jnC=w148-h148-n-k-no"
+            }
+        ],
+        "Tirmiz": [
+            {
+                "title": "Archaeological Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVHX3i90MkblG5W3pYRTTUujFLRHjcRneRBMwi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hakim At-Termizi Mausoleum",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM_tfO_8WleWNmbNnEJl_DdrNHtwWUkaBHSQQn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Saodat Mausoleum",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt-ALUgRCu564HnpSWwgdg-7pxCd7xDHJNYZl_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kirk Kiz Fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJah_oyXE3LZzwdJ1rrw3_SlHviKchMgkAZU0x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fayaztepe",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMb4nofq3w4UXf_q3sxAWX9Y5tpMgbvsi6gwBsd=w148-h148-n-k-no"
+            }
+        ],
+        "Qarshi": [],
+        "Qŭnghirot": [],
+        "Yangiyŭl": [
+            {
+                "title": "Museum of Applied Arts",
+                "category": "Art museum",
+                "url": "http://www.artmuseum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-N5Ffpuv4kISoJx_uYqZ1i0Zv96KRdx5jWBHJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zaamin National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1AKWLrWKxepPS_XhVML8X9S4dt6xcYqSi_4q7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alisher Navoiy Theater",
+                "category": "Opera house",
+                "url": "http://www.gabt.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPbqtp-_-Mx7DFk9PU5t-jV0Ng4dMLGWWC2ytM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of Courage",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkKRZ8TfZeuLb41Nb7WGa5shHR5s_CBWZaznJZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "G‘alaba bog‘i",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsUUKXEqDz-foffoYd6SOaE5ywVzVrGLsN4bZ6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Advantour Travel - Uzbekistan Tours",
+                "category": "Tour operator",
+                "url": "https://www.advantour.com/uzbekistan/tours.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTvHZqZ9Xeh0bD5ZA7_it_3Wp_MHG8pkdARoMH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Khudáyár Khán",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBSYFnf0yHdDRWDA4UIm6OHA3uWd8fiCnPht4k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokand",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPROi2KTlsxfizuEFFBrUwLbLq39T9VB_cfLSs9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokaldash Madrasah",
+                "category": "Education Centre",
+                "url": "http://kukaldosh.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGe62G1ww_9ALtOaH7uZNrpOW3J3BQSRkrG4g0=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the Temurids",
+                "category": "History museum",
+                "url": "http://temurid.uz/",
+                "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chimgan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Nnxb0qa1XYIaWUXrOcZt8Klup5BGOLBp9mgL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aydar Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN69Bi9wIRXht_MH7JTduwlwHegfZs_w02ndrBg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi-zMUteU40nWzMIHdWrShUyWhwV6_YpkXrrRx=w148-h148-n-k-no"
+            },
+            {
+                "title": "The palace of Grand Duke Nicholas Constantinovich",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJKsLsI5fFItI_xuRi2pF7FYPByRni87keyiF6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barakhan Madrasah",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMslROBeqVzR-HLU2zTWf8YNhY3mpfNF8lwDmOv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minor Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhSavxL7_-fVeSzfBFM_RBfYWBP7cKoz2sHO1b=w148-h148-n-k-no"
+            }
+        ],
+        "Koson": [
+            {
+                "title": "Statue of Amir Temur",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGPu5TntkbdVCBBNkg4ER7T-uTf0jImJKo1ZqL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Happy Bird Art Gallery",
+                "category": "Art Centre",
+                "url": "https://www.h-b-art.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8lBfY-dOisMXgj7HjUF0XW-quNTo-arupdOi6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ak-Saray Palace",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFXVnJa8K1iB5wi7GLx3p1Fxev_yaPi6pVetDT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ulugʻbek madrasasi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOejcmpQ0Pe6Lef_rmdUedJnbfaYoZhZSlMpI0S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qo'sh Madrasa",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrDOIdhoKwfIPv0i1ZzLlQB_a2n4YoKVd-IUuL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUKJxpuB_lagI98o3iM0QLK9DZIoefQB0FWRXS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir-i-Arab Madrasa",
+                "category": "Religious destination",
+                "url": "https://mirarabmadrasa.uz/uz",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPY6_kn6j3_P5SOyBVHTsXR-8gZ2vp9_zxHA8DH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tilya-Kori Madrasah",
+                "category": "Historical landmark",
+                "url": "http://registon.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKU0TYdfBPdrA9tHyp54A62QA2DKiAYkvmd5P3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nadir Divan Begi Madrasah",
+                "category": "Faith school",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNan2hIJnmno39zzR0L_EHHMYCRLhoUlaugkzQF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibi Khanym Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1LOXmcDDjnlKdTyJ8ffZLHXcbv62hkeVO5FlL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kok Gumbaz Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNE1DZ2j9mk0sMskt8Ff5JoH-EdAvBhAGx22Pi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Mausoleum Gur-i Amir Сomplex",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTE_3ancg0p_RcWy4d2ClVYLFnjE35L8gn7_2x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah-i-Zinda",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKFFXADZtzRkelhvuZnHWjoKmpRV2yZxCWCZqg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibi-Khanym Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt3WZAAOG3MznLmzR8owNMS_TrtLT_254Ni_Y6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ark of Bukhara",
+                "category": "Fortress",
+                "url": "http://bukharamuseums.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLp8_-Z4zo1aolYHaclyVsvJ2VOjFl1KiymFQI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lyabi House Hotel",
+                "category": "Hotel",
+                "url": "http://www.lyabihouse.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8lSdpicC1MUX-HxHnEoArvTPjKgWV8_PzkM1j=w148-h148-n-k-no"
+            }
+        ],
+        "Beruniy": [
+            {
+                "title": "Ayoz qalʼa",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpkvmIeCVKimRp_sfkRdaFjf97sE-gPSWswsx-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Itchan Kala west gate",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWvigZMLwU_KwLJ9lwtMnRxkcw8WhiArRUIGnE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Topraq-Kala",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVich4ljj9MogKKFBuptaek5cFNb1x7LzCfn5t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuhna Ark",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKlBoaB5I7Q1u_dUou9U9j7FXCNmTX-K9qJFZt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mohammed Amin Khan Madrassah",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuH4AIg3y_hNPlxdvh1QavqwKYkR7b1K2gJZOX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Itchan Kala",
+                "category": "History museum",
+                "url": "http://khivamuseum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9J-H4pwWwtaf4M74XwOZp17afuJMzaKixxBk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pahlavan Mahmoud Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM55zQLHNy6fHvekryYW10C5z2mUCIqoib9XPF5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalta Minor Minaret",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcu2aI0PHM18p9ZmBlHmvTXrzsb98KxueRlerJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juma Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7HSdsebpcK-PujBGi7qCjXWFcZ9TZgaoY8eZ-=w148-h148-n-k-no"
+            }
+        ],
+        "Angren": [
+            {
+                "title": "Chorsu Bazaar",
+                "category": "Historical market square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAHadgeZPuLG4L9EtUK19be-GDMmt9fCt4lUfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the History of Uzbekistan",
+                "category": "Museum",
+                "url": "https://history-museum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1QkUtLqF3xc1vjn78oFOtwON5Yz1bvmlmWvvT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXgqJ3WP7nRR3wFyjAAn4pFAvISyJPygHExL-1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minor Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhSavxL7_-fVeSzfBFM_RBfYWBP7cKoz2sHO1b=w148-h148-n-k-no"
+            },
+            {
+                "title": "OLD Tashkent",
+                "category": "Hotel",
+                "url": "http://www.oldtashkenthotel.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8BdB7isiryWtvTZ-9kEhSD6QBaWeQF7z18oVF=w148-h148-n-k-no"
+            }
+        ],
+        "Andijon": [
+            {
+                "title": "Gumbaz Masjidi",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8F8eRUrOU9GBKxJQ7qrNMX6n1oIPxkEKbK3IG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Limon arena",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtSr5pIQHGGKWojWiNateSsMe_0_2qe0OQUQeB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statue Of Z.M. Babur",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwhVlJKS8K4QIH_e56ouUj3t-BUy6N6E8neHbS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bogishamol Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMNRqZDuYirOyEPDCEGqmw5v78j3yZldw12rKO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Istiqlol Stadioni",
+                "category": "Stadium",
+                "url": "http://fcneftchi.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1Rv-CGfh673f-gVCS5XnS9m6M9ieYJmbB4I6N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saroy arena",
+                "category": "Futsal court",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRS7YZl11xdHU-VJipuvMmv3MKcWW3_CqjsYyr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadion Sog'lom Avlod",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6m53k-wmC1N3_9s4axzjRgvBDnwV5qSlrVVNj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadion Yozyovon sport maktabi",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTKCQS-gHlf9b6EpNAuH8tV7qbEBbRq8UQdMPG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahrixon Markaziy o'yingoh kirish",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwaPYE8-RUqjqov-eaoLrYZX5g1hMDXXvz_SJP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Xojaobod Markaziy Stadioni",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcPC7m5m-TZa4LVSSr0o6rRAvEX6UIEs3GT7fN=w148-h148-n-k-no"
+            }
+        ],
+        "Parkent": [
+            {
+                "title": "Museum of Applied Arts",
+                "category": "Art museum",
+                "url": "http://www.artmuseum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-N5Ffpuv4kISoJx_uYqZ1i0Zv96KRdx5jWBHJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokaldash Madrasah",
+                "category": "Education Centre",
+                "url": "http://kukaldosh.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGe62G1ww_9ALtOaH7uZNrpOW3J3BQSRkrG4g0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi-zMUteU40nWzMIHdWrShUyWhwV6_YpkXrrRx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mustaqillik Maydoni",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtG_6Dd1IlpOsx9iTAS6N5PAq5RMC0zpphhAG2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alisher Navoiy Theater",
+                "category": "Opera house",
+                "url": "http://www.gabt.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPbqtp-_-Mx7DFk9PU5t-jV0Ng4dMLGWWC2ytM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hazrati Imam Mosque",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFRc-6u86WTfRRs4wCC76hIn5dUITt5dN_qXJu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chinor Garden Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdEyKU0bB8ZQnTok-Ei5OWNX7ov5BdmNNK8LIZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Uzbekistan Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMN2iiRQP_rCxxAGb7NzYVEpzAo2TxQX8LGMe3J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magic City Park",
+                "category": "Amusement park",
+                "url": "http://magiccity.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTQWVN9LEUYCACOE2TTvtsLOqQe4v0GLlGYUJd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXgqJ3WP7nRR3wFyjAAn4pFAvISyJPygHExL-1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Assumption Cathedral Church",
+                "category": "Russian Orthodox church",
+                "url": "http://pravoslavie.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkLzyTUOpcMjLbB8Sb9GF5tFEZnNMJ7imt-PTW=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the History of Uzbekistan",
+                "category": "Museum",
+                "url": "https://history-museum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1QkUtLqF3xc1vjn78oFOtwON5Yz1bvmlmWvvT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent Tower",
+                "category": "Tower",
+                "url": "http://tv-tower.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMymKPAEsWmp_eXoZ_ohaEeyWSjnifJCFvGkcan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minor Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhSavxL7_-fVeSzfBFM_RBfYWBP7cKoz2sHO1b=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the Temurids",
+                "category": "History museum",
+                "url": "http://temurid.uz/",
+                "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chorsu Bazaar",
+                "category": "Historical market square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAHadgeZPuLG4L9EtUK19be-GDMmt9fCt4lUfM=w148-h148-n-k-no"
+            }
+        ],
+        "Guliston": [
+            {
+                "title": "Hazrati Imam complex",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRbjkG3k0cyiGTqes7qsO2JxcH-ZCsYhuDhskH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Magic City Park",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTQWVN9LEUYCACOE2TTvtsLOqQe4v0GLlGYUJd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of Courage",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkKRZ8TfZeuLb41Nb7WGa5shHR5s_CBWZaznJZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent City Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPskIbGXyqlQcnPXmlkQJ7uKtnvOIckp9GYv-Li=w148-h148-n-k-no"
+            },
+            {
+                "title": "Memorial Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMe_hPa75b3L4dlbPC64U0l47iqy36w5ph-TUVq=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the Temurids",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pamyatnik A.S. Pushkinu",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDJfhpGAfZS4ZmYrRUkJ6l88qry20edTLdO6jG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Madrasah of Abdulkasim Sheikh",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiu-_Fr0sDvtvFNpwHMe2VdVSly_Jsje6UmC_k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8AVy4Zm5RbEOUvBlGQOkrE4z_aH80qDXmW-sr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amirsoy",
+                "category": "Ski resort",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvR6YFcFLtx2Yd3YZWl5gVriXA8iIeJp4cnVW0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Navruz Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEAl4PnggdIaVD5Ayxs0c3ZE_jF5HireRW5YML=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Park of Uzbekistan named after Alisher Navoi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVzaDZwLCEe_PDSFHg7Of551CtgUfbvXGcoozg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Milliy Bog",
+                "category": "Underground Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzZKSSgaZDQbFO55Hrnbf2ozUtTFi0CT-qFnlY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chimgan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Nnxb0qa1XYIaWUXrOcZt8Klup5BGOLBp9mgL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chinor Garden Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdEyKU0bB8ZQnTok-Ei5OWNX7ov5BdmNNK8LIZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Charvak Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhvW7vCGEn4Qk9J0So2RUSfWORMEZhZma3_jnC=w148-h148-n-k-no"
+            }
+        ],
+        "Kogon Shahri": [
+            {
+                "title": "Bukhara",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtQxCxMlgWBR6g68IexNn4hgJUUIJONBrl7BSo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUKJxpuB_lagI98o3iM0QLK9DZIoefQB0FWRXS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir-i-Arab Madrasa",
+                "category": "Religious destination",
+                "url": "https://mirarabmadrasa.uz/uz",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPY6_kn6j3_P5SOyBVHTsXR-8gZ2vp9_zxHA8DH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ark of Bukhara",
+                "category": "Fortress",
+                "url": "http://bukharamuseums.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLp8_-Z4zo1aolYHaclyVsvJ2VOjFl1KiymFQI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nadir Divan Begi Madrasah",
+                "category": "Faith school",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNan2hIJnmno39zzR0L_EHHMYCRLhoUlaugkzQF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Toki Sarrofon",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGLKOOVD_LFhxGsjj42rIz3PovePfI8DGHY0K2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lyabi House Hotel",
+                "category": "Hotel",
+                "url": "http://www.lyabihouse.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8lSdpicC1MUX-HxHnEoArvTPjKgWV8_PzkM1j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bolo Hauz Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmOO2fVEQBwlkWn9QDktM5XwevOOHIdnRTGTIk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chor Minor Madrasah",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfQvaKmBHKbZWHpcS6Qvz30ee1A8oGoX1EXGtp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ulugʻbek madrasasi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOejcmpQ0Pe6Lef_rmdUedJnbfaYoZhZSlMpI0S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ismail Samani Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzpeMrCQRPLOWxV8XBm-A5fUFa-tMISKnYTXdV=w148-h148-n-k-no"
+            }
+        ],
+        "Tŭytepa": [
+            {
+                "title": "Hazrati Imam complex",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRbjkG3k0cyiGTqes7qsO2JxcH-ZCsYhuDhskH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Khudáyár Khán",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBSYFnf0yHdDRWDA4UIm6OHA3uWd8fiCnPht4k=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the History of Uzbekistan",
+                "category": "Museum",
+                "url": "https://history-museum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1QkUtLqF3xc1vjn78oFOtwON5Yz1bvmlmWvvT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lal Bahadur Shastri Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5V7IIVt2tM_UCTP-PurIQbxofgWlR1RxkT3j1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent Tower",
+                "category": "Tower",
+                "url": "http://tv-tower.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMymKPAEsWmp_eXoZ_ohaEeyWSjnifJCFvGkcan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokand",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPROi2KTlsxfizuEFFBrUwLbLq39T9VB_cfLSs9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of Courage",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkKRZ8TfZeuLb41Nb7WGa5shHR5s_CBWZaznJZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fergana Valley",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPROi2KTlsxfizuEFFBrUwLbLq39T9VB_cfLSs9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aydar Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN69Bi9wIRXht_MH7JTduwlwHegfZs_w02ndrBg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Applied Arts",
+                "category": "Art museum",
+                "url": "http://www.artmuseum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-N5Ffpuv4kISoJx_uYqZ1i0Zv96KRdx5jWBHJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alisher Navoiy Theater",
+                "category": "Opera house",
+                "url": "http://www.gabt.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPbqtp-_-Mx7DFk9PU5t-jV0Ng4dMLGWWC2ytM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chimgan",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Nnxb0qa1XYIaWUXrOcZt8Klup5BGOLBp9mgL=w148-h148-n-k-no"
+            },
+            {
+                "title": "The palace of Grand Duke Nicholas Constantinovich",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJKsLsI5fFItI_xuRi2pF7FYPByRni87keyiF6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokaldash Madrasah",
+                "category": "Education Centre",
+                "url": "http://kukaldosh.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGe62G1ww_9ALtOaH7uZNrpOW3J3BQSRkrG4g0=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the Temurids",
+                "category": "History museum",
+                "url": "http://temurid.uz/",
+                "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashkent",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi-zMUteU40nWzMIHdWrShUyWhwV6_YpkXrrRx=w148-h148-n-k-no"
+            }
+        ],
+        "Namangan": [
+            {
+                "title": "Park Bobur",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRDsEKssB3_zC2g009c-645X6S-cmy9GdAs8ZX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afsonalar vodiysi masjid",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5rklJwinvzhJ8PtqiAuVuhOCclp0mlYuh87gW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gold Afsona",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLB0oXkLoKwC8RREEf6_dShoHE0Jf2xnmFPW_U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pavloniya Plantattsiya",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMyEkzrOuXOFSR4Wiz-8PoLmND4Ii8ciGfsIwS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afsonalar vodiysi, Namangan",
+                "category": "Park and Garden",
+                "url": "https://afsonaland.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN01Zx5PhsDqGBcVJV7_Ln4rc1lIpXtnmJs4AM9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park \"Mavlono Lutfulloh\"",
+                "category": "Amusement park",
+                "url": "http://chust.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiQjwJRTspzr3zLc_dil1kxmof2FXZxiGuoyOg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chorsu Bazaar",
+                "category": "Historical market square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAHadgeZPuLG4L9EtUK19be-GDMmt9fCt4lUfM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suv Ombor",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPltP4sQoGYXPTnKMfnYkuRRADS8czARH0PY05E=w148-h148-n-k-no"
+            }
+        ],
+        "Bekobod": [
+            {
+                "title": "Uzumfermer.uz Гостиница винодельня hotel & winery",
+                "category": "Winery",
+                "url": "http://uzumfermer.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-KrdIvBUyKtFSIJGfAAz-zVoSLBt-Z9rZCvAF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Observatory of Ulugbek",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJc0qmm0D7gm4dPHjzx5lDqeSD4Q-ahSbWEqLy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument of Courage",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkKRZ8TfZeuLb41Nb7WGa5shHR5s_CBWZaznJZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rishtan",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdW24Ix8oQDAxrhKnH_R7JrToyiERsucVJ3HBe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Khudáyár Khán",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBSYFnf0yHdDRWDA4UIm6OHA3uWd8fiCnPht4k=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Park of Uzbekistan named after Alisher Navoi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVzaDZwLCEe_PDSFHg7Of551CtgUfbvXGcoozg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokand",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPROi2KTlsxfizuEFFBrUwLbLq39T9VB_cfLSs9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Former Plov Centre",
+                "category": "Cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpUdGITsfOlf27NzvopevB1ijMpq1jglpFKC2G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lal Bahadur Shastri Monument",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5V7IIVt2tM_UCTP-PurIQbxofgWlR1RxkT3j1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Greater Chimgan",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE91j7zoda4MJVq9nlK0DnH0GM3IG-LT9HQSR-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aydar Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN69Bi9wIRXht_MH7JTduwlwHegfZs_w02ndrBg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Uzbekistan",
+                "category": "Hotel",
+                "url": "https://hotel-uz.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmRCZfzWJ2pV0_pRu7N9VTUXu1uaX4xkG5HGGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hazrati Imam complex",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRbjkG3k0cyiGTqes7qsO2JxcH-ZCsYhuDhskH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Assumption Cathedral Church",
+                "category": "Russian Orthodox church",
+                "url": "http://pravoslavie.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkLzyTUOpcMjLbB8Sb9GF5tFEZnNMJ7imt-PTW=w148-h148-n-k-no"
+            },
+            {
+                "title": "State Museum of the History of Uzbekistan",
+                "category": "Museum",
+                "url": "https://history-museum.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1QkUtLqF3xc1vjn78oFOtwON5Yz1bvmlmWvvT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Charvak Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhvW7vCGEn4Qk9J0So2RUSfWORMEZhZma3_jnC=w148-h148-n-k-no"
+            }
+        ],
+        "Marg‘ilon": [
+            {
+                "title": "Kombinat Bozori",
+                "category": "Fleamarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNCvvkRyGBD2wzQaFIt15K8oq-Nznb_ef_hcj3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khonakhan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuhTHbh4QWPm5mdgi2QUHzzV8YqoUUkMKSglPo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yodgorlik Silk Factory",
+                "category": "Company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwAzPqdS1icsHkSTStlGNRJkyH50UWhT5a0Oxw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Istiqlol Stadioni",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1Rv-CGfh673f-gVCS5XnS9m6M9ieYJmbB4I6N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afsonalar vodiysi, Namangan",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8x9GRrP0VSk7XYXYVNv2k3O-35AVaNJ_yFYbo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Margilon Istirokhat Bogi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCCFPOET7eiRwwwWPm7OY6YSF9QWbHZ-gTf679=w148-h148-n-k-no"
+            }
+        ],
+        "Denov": [
+            {
+                "title": "Samarkand Tourist Information Center",
+                "category": "Visitor centre",
+                "url": "https://www.facebook.com/touristinfomationcentre/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKNqeOXXcsHany6pApJKsEP4_EDTdD_KDITV3r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahrisabz",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIsWfUNiSpirWY9tZ6ualLm6UsFDdoAZvOTBaX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Saodat Mausoleum",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt-ALUgRCu564HnpSWwgdg-7pxCd7xDHJNYZl_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bobotog Mountains",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEsExfsN4DnM6gP_Gxi-kHHce9nAmMRppQn1Gs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samarkand",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOea5slBP0B9CHOXr8vtSxTs7WmzvMYbKR0L1Ft=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibi Khanym Mausoleum",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1LOXmcDDjnlKdTyJ8ffZLHXcbv62hkeVO5FlL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fayaztepe",
+                "category": "Archaeological site",
+                "url": "https://nomadsland.travel/en/before-you-go/uzbekistan/fayaz-tepe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMb4nofq3w4UXf_q3sxAWX9Y5tpMgbvsi6gwBsd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibi-Khanym Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt3WZAAOG3MznLmzR8owNMS_TrtLT_254Ni_Y6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Happy Bird Art Gallery",
+                "category": "Art Centre",
+                "url": "https://www.h-b-art.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8lBfY-dOisMXgj7HjUF0XW-quNTo-arupdOi6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shah-i-Zinda",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKFLGKKa9U4611WcSAQsF8vS_uj3gHHmJzjNHw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amir Temur Mausoleum Gur-i Amir Сomplex",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTE_3ancg0p_RcWy4d2ClVYLFnjE35L8gn7_2x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Registan Square",
+                "category": "Historical landmark",
+                "url": "http://www.registon.uz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjZB5eixJGUpiTnFA5G5Jq6nZN9fvsc5iQQvgb=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Registan Square",
+            "category": "Historical landmark",
+            "url": "http://www.registon.uz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNjZB5eixJGUpiTnFA5G5Jq6nZN9fvsc5iQQvgb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tashkent",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMi-zMUteU40nWzMIHdWrShUyWhwV6_YpkXrrRx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bukhara",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPtQxCxMlgWBR6g68IexNn4hgJUUIJONBrl7BSo=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chorsu Bazaar",
+            "category": "Historical market square",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOAHadgeZPuLG4L9EtUK19be-GDMmt9fCt4lUfM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Amir Temur Mausoleum Gur-i Amir Сomplex",
+            "category": "Historical place",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOTE_3ancg0p_RcWy4d2ClVYLFnjE35L8gn7_2x=w148-h148-n-k-no"
+        },
+        {
+            "title": "Itchan Kala",
+            "category": "History museum",
+            "url": "http://khivamuseum.uz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN9J-H4pwWwtaf4M74XwOZp17afuJMzaKixxBk8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Shah-i-Zinda",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMKFFXADZtzRkelhvuZnHWjoKmpRV2yZxCWCZqg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bibi-Khanym Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMt3WZAAOG3MznLmzR8owNMS_TrtLT_254Ni_Y6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Siyob Bozor",
+            "category": "Farmers' market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPBup9h2rCDRr3yAXF6xoYLb71sL0TxG3BaBAyg=w148-h148-n-k-no"
+        },
+        {
+            "title": "State Museum of the Temurids",
+            "category": "History museum",
+            "url": "http://temurid.uz/",
+            "img": "https://lh5.googleusercontent.com/proxy/aMIHD6KtEbkD88IO1AUS8x8HIq94opmDNTqO6hax9fKgwoSplnTygxAwT5JFW_yEbOYgSexJLE18MK44BN87nqa8DNTxvbhVaJg9u8JKecAxyiCfTDPn9SMPbW92S-bnMTg_jcmyl08sE0hDiKgU1Wk9YVqpvQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Samarkand",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOea5slBP0B9CHOXr8vtSxTs7WmzvMYbKR0L1Ft=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ismail Samani Mausoleum",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPzpeMrCQRPLOWxV8XBm-A5fUFa-tMISKnYTXdV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kalon Tower",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdxqYHdB5WIoK43j4Mkjdt_lN9fy9h83Bazr0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khiva",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM7xwy3UkTF_xppPk3FbJFrCvVRx63OmnnBfSU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Juma Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO7HSdsebpcK-PujBGi7qCjXWFcZ9TZgaoY8eZ-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hazrati Imam complex",
+            "category": "Historical place",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPRbjkG3k0cyiGTqes7qsO2JxcH-ZCsYhuDhskH=w148-h148-n-k-no"
+        }
+    ]
+}

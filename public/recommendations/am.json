@@ -1,0 +1,362 @@
+{
+    "cities": {
+        "Gyumri": [
+            {
+                "title": "Vardanants Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO60GuhbmIhB5O8191G9ihZrka-tMlZyUrc8uTg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Black Fortress",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_K_X75KMhvD_mchPdzOSR92sxKlWDkEr4O6gv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Poloz Mukuch",
+                "category": "Restaurant",
+                "url": "https://www.polozmukuch.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3BJVvo5kWKGHtPsEwr2ffNprGFnk23Pj5NBaI=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. All Saviors",
+                "category": "Armenian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-p0zE2c-9nOnTV2ExPjWyuypLEvjtgj4U_0GN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mher Mkrtchyan Museum",
+                "category": "Museum",
+                "url": "https://www.facebook.com/profile.php?id=100034983308592",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkmZ9DGRdQQVIWm9UXc4kskf_gLMURvkcB7vu1=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Iron Fountain",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqJxrdhES3h4IiF-3MFBzBFyIPqRWfBLknoE7I=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Gallery of Mariam and Eranuhi Aslamazyan Sisters",
+                "category": "Museum",
+                "url": "http://www.aslamazyanmuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDAOcmakPDHDFEq0PfQrGLz_AVgvwrVhvIg28I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Illusions Armenia",
+                "category": "Amusement Centre",
+                "url": "http://museumofillusions.am/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTxlrF2paDHS4v9lVdmcuSbPu94OkcymccS6p0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gyumri Railway Station",
+                "category": "Railway Company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-asCdMZdJWhysV1wxdxdv4QIXxeGccn1TveEF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of National Architecture and Urban Life",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSL14mp9wWd7gq7wTxx0zLMG9k7PPM37giUL2a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hovhannes Shiraz House-Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXv59h9kVCuOhM8ezScro-L5xJcL2gH2e-MdZe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cobweb Art Gallery and Museum",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf7h_P_k-zCNr2XaF8rkk_FlgRHuRW1oXWKCEe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alexandra Spa And Oriental Bath",
+                "category": "Spa",
+                "url": "https://alexandra-spa.am/menudigital/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1zkq_xTh8C7Vm8iDeNvRMDxUZ2KCMG6ZBRiA4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gevorgyan Ceramics",
+                "category": "Pottery manufacturer",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgGPb0muymE9zk5kinouzu5415S12CO1ARs09G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Venus Gift's House",
+                "category": "Gift shop",
+                "url": "https://www.facebook.com/profile.php?id=100091003129071&mibextid=ZbWKwL",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZYPXNeSMvC77x7D_C0ds2eSa-PAYZ8h8XLSKU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Harichavank",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6EM95U0PJWRgPU5hARhYI6N4K5eQUwqRI1y7l=w148-h148-n-k-no"
+            }
+        ],
+        "Yerevan": [
+            {
+                "title": "Republic Square",
+                "category": "Historical landmark",
+                "url": "http://www.yerevan.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEyFi1f9SImBAahsSjfCK7_HnWCu6Tk5O3wdPn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vernissage",
+                "category": "Handicraft fair",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-Z6949CX0xyHbkbrhZ8zi3tZPVoi7o0UjXukQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsitsernakaberd Armenian Genocide Memorial Complex",
+                "category": "Monument",
+                "url": "http://www.genocide-museum.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOz7i-4co5WezUrJ914xqO0Uki5gZ61BcYcaj57=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cascade Complex",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAAe2SN6cPx4okI5ePaZgCXBFWN0y9efQ1YCPB=w148-h148-n-k-no"
+            },
+            {
+                "title": "ARARAT Museum",
+                "category": "Museum",
+                "url": "https://en.araratbrandy.com/museum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcTFvp_C8iBS0zOfnfAU7jzZW-1wQVgo5mJoSP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Park",
+                "category": "Park and Garden",
+                "img": "https://lh6.googleusercontent.com/proxy/bZETZq8Suf6qw3RQCCmV5E9DtUcwXeTVIYvbITJbhlj2wl0hdWsqrZMo4pHWLivcDp0_C7tvnAbFmWF61QuvLYnHKZ36tidjeB6MuJ3q_L9ENIUFF-23-lE6MpDeToKlQoDEzAinEfbxIxPmwTtVmnE7zMzd_dU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sergei Paradjanov Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIibwRUbOIslIj-TQTlfhSFlTpWV3q7h6fR_2V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matenadaran",
+                "category": "Art museum",
+                "url": "http://www.matenadaran.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtRHODMLHnZHRBLfwXgjaiGqaC3l-lkT-OTkhn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yerevan Park",
+                "category": "Theme park",
+                "url": "http://yerevanpark.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXolKfrlB2uxMukcGXyH4h7GkuBrxaz0fJxKYR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cafesjian Center for the Arts",
+                "category": "Art Centre",
+                "url": "https://www.cmf.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-p71LQ8QVzH4Sxgxtbl0yC3-R0AyrsGmMrCU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBjY5vkSU4pUzmK_mESPWDhHt0Q3YSQKyt-JBD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Armenian National Opera and Ballet Theatre",
+                "category": "Opera house",
+                "url": "http://www.opera.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqBMH_jrB4xtUxfioyfDrU2QlXPZLcLlSU72J_=w148-h148-n-k-no"
+            },
+            {
+                "title": "History Museum of Armenia",
+                "category": "Museum",
+                "url": "http://www.historymuseum.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSn92VCylMPZ-SqoGcCxdhJXSveHVOQPF4ZktL=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Gallery of Armenia",
+                "category": "Art museum",
+                "url": "http://www.gallery.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbvnz383FWsA68CgJeEK_SiGWSaTdmgNnV-iXI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Gregory The Illuminator Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDzm0qkN9JYAsXQP-tVFtK35_08u2fEHud8uE6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Erebuni Archaeological Museum",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0VEY3ORc6ky0c1Zr6QU09Q4LfqSD_roDRGeCq=w148-h148-n-k-no"
+            }
+        ],
+        "Vanadzor": [
+            {
+                "title": "Boo Mountain Bike Park",
+                "category": "Tourist attraction",
+                "url": "https://www.facebook.com/Boomountainbikepark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBwyLhBPUAVL6hq_kDFuGcXDjFjKv2sAqedc4A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vanadzor Fine Arts Museum",
+                "category": "Museum",
+                "url": "http://www.vanart.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzbiKAZi-my4NPG7dVxg62H7V_-5bt_Ea6BQ3P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mineral Fountain Tetuh Djour",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-wlL8dJz2y1vzra0Rw3hN-T7sGAXD58pfHcwd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haghpat Monastery Complex",
+                "category": "Armenian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxA5ChcQZNc3BB2l7OAe9pU_PmX-HaKMgSK911=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stepan Zoryan's House Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3jFYfRH0wgo6znEgYPPpSOwvLR9nTnwjxfIKM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sanahin Monastery Complex",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5C04x58xf0PFbUM8nhkXCQXJJKp6Geig1UGCQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Geghard Monastery",
+                "category": "Armenian church",
+                "url": "http://www.mshakuyt.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU1xYuKqjqL_Y5Q5RNFcw057BicLAtHkRsWY8U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Grigor Narekatsi Church of Alaverdi",
+                "category": "Armenian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOE9zEaOH7_z5gTigoSlNHkVznbbZiNNObtw___=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Gregory The Illuminator Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDzm0qkN9JYAsXQP-tVFtK35_08u2fEHud8uE6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cafesjian Center for the Arts",
+                "category": "Art Centre",
+                "url": "https://www.cmf.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-p71LQ8QVzH4Sxgxtbl0yC3-R0AyrsGmMrCU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kecharis Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPavXgIx0VVKvUzwSiIw2Y4WAKletzpB6BOuV9b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Mother of God the Mighty Church",
+                "category": "Church",
+                "url": "http://www.surbzoravor.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRkTKBPeXpP4W5bggPecHgEvqem6-UJ3atVVYh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akhtala Monastery Fortress",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0Ql-gG6wyGzcSMVcDD1bYoSC858M5WgO0146a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yell Extreme Park",
+                "category": "Amusement park",
+                "url": "http://www.yellextremepark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGVyCTDUyMhrF66cKomSXcVB173JCsIwbX9oV1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zip Line Tsaghkadzor",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvXyNVWk649L76Fdd1iW1ExCQ4wWaECg4MHBg=w148-h148-n-k-no"
+            },
+            {
+                "title": "History Museum of Armenia",
+                "category": "Museum",
+                "url": "http://www.historymuseum.am/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSn92VCylMPZ-SqoGcCxdhJXSveHVOQPF4ZktL=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Cascade Complex",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPAAe2SN6cPx4okI5ePaZgCXBFWN0y9efQ1YCPB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Geghard Monastery",
+            "category": "Armenian church",
+            "url": "http://www.mshakuyt.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOU1xYuKqjqL_Y5Q5RNFcw057BicLAtHkRsWY8U=w148-h148-n-k-no"
+        },
+        {
+            "title": "Republic Square",
+            "category": "Historical landmark",
+            "url": "http://www.yerevan.am/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNEyFi1f9SImBAahsSjfCK7_HnWCu6Tk5O3wdPn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khor Virap Monastery",
+            "category": "Monastery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNh2kAkbX_1GVOTeCP0er8s2Y_95gnriSFlfNhf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Noravank",
+            "category": "Monastery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOeTqFAOQQY3GjVcJxIQ9_OYd7lh--YO3cmK5cg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tsitsernakaberd Armenian Genocide Memorial Complex",
+            "category": "Monument",
+            "url": "http://www.genocide-museum.am/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOz7i-4co5WezUrJ914xqO0Uki5gZ61BcYcaj57=w148-h148-n-k-no"
+        },
+        {
+            "title": "Saghmosavank",
+            "category": "Monastery",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPF5V94X823aZknvyTQ4u36Ka5i-XJL7ydVckLT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Amberd fortress",
+            "category": "Fortress",
+            "url": "https://www.amberddesign.com/fortress-of-amberd/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOmUBjCdV2x6PHo0cZ7mgShexDzcCl2vh_v2SBS=w148-h148-n-k-no"
+        },
+        {
+            "title": "Matenadaran",
+            "category": "Art museum",
+            "url": "http://www.matenadaran.am/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPtRHODMLHnZHRBLfwXgjaiGqaC3l-lkT-OTkhn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dilijan National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOk2SkIlrFCaLObT_8Wdu_TkFRULq28iZ6NbWAw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sergei Paradjanov Museum",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNIibwRUbOIslIj-TQTlfhSFlTpWV3q7h6fR_2V=w148-h148-n-k-no"
+        },
+        {
+            "title": "Yerevan",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMaDZDEH_d5gN8Gyx8_d1X1uYtBBrdyV_Yt4PUK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Wings of Tatev | Tatever",
+            "category": "Mountain cable car",
+            "url": "http://www.tatever.am/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNZCUx5LKQq6PqurnmxCCcStzYw8625gbV-e8cN=w148-h148-n-k-no"
+        },
+        {
+            "title": "ARARAT Museum",
+            "category": "Museum",
+            "url": "https://en.araratbrandy.com/museum/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPcTFvp_C8iBS0zOfnfAU7jzZW-1wQVgo5mJoSP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Haghpat Monastery Complex",
+            "category": "Armenian church",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMxA5ChcQZNc3BB2l7OAe9pU_PmX-HaKMgSK911=w148-h148-n-k-no"
+        },
+        {
+            "title": "Areni-1 Cave",
+            "category": "Archaeological site",
+            "url": "http://arenicave.am/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMw4c1203j1OZsSM_r28U3rgUyR7oc0NkSpXSc=w148-h148-n-k-no"
+        }
+    ]
+}

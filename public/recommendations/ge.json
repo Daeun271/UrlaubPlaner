@@ -1,0 +1,498 @@
+{
+    "cities": {
+        "Rustavi": [
+            {
+                "title": "Rustavi International Motorpark",
+                "category": "Racetrack",
+                "url": "https://rim.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrfh1_jJ-JQvNkqV7eLb6RrcN2XfwMpIXHjz2Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pepela",
+                "category": "Toy Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbRwWTlyKZDSZDemfcEVWS7x8-NI6yrWudJySo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Birtvisi Fortress",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqllAYoLWoe5HwdZfFZglVY2TicHNjYhj0vMs3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tbilisi Open Air Museum of Ethnography",
+                "category": "Open-Air Museum",
+                "url": "https://museum.ge/index.php?lang_id=ENG&sec_id=46",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYZMnIOM1qDelShO8X7CuGfJx5cfo9dHYcGF3A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metekhi Virgin Mary Assumption Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyghIwF-IiBPZmB5yhc9qnNsXXJZzKP0YUvojK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Culture and Rest",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSNybXhtk0Pvu02OIMqnq1drqcUkSwtb7hrmIU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liberty square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPArATYYyvQwug_bW2ck-q-lE77ZR32KIBsQGDo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Svetitskhoveli Cathedral",
+                "category": "Cathedral",
+                "url": "http://www.heritagesites.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNytrBV4p75lIkhoGd4RmizY-RPMoeC5mkNLEqT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mother of Georgia",
+                "category": "Monument",
+                "img": "https://lh6.googleusercontent.com/proxy/E2L8p1AYw8QPBC6ZtF38k6DqS-3pbzu9fRXVZ0hVVyz0s7yg0ijIEnN3JFDPom3IQCF0JB06XB1xwnMx5yAl13ilGea-XmeBau698hIaLaxGUnGmNDFpYATURPgx-J0f1wovSVyf7KnIqqtoPVRkqQD4_6DPc6s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jvari Monastery",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsv4NtlZoZgYD1uRKw3S9sG4qaxaybJvqLYxEe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral of Tbilisi",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMp8WfD0DFBNGMZ83SEBI0TTxxHffvVaEGAnHps=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sulfur Baths",
+                "category": "Thermal Baths",
+                "url": "http://www.chreli-abano.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOrX29Z3IrdZkWbDYGSXvjpdC2cdZLIC1dMaPl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Georgian National Museum",
+                "category": "National museum",
+                "url": "http://museum.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN36jqKyminELgpTwGMgtm68xp44gy5qOaJTqs0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narikala",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlxPrXLFPTWPwzUSMz9H_I7AOTjnShfY9oYqqA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tbilisi sea",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMP-LFZcBolNDUx0fW6peOUw2_v7igHYI161IWH=w148-h148-n-k-no"
+            }
+        ],
+        "Batumi": [
+            {
+                "title": "Batumi Botanical Garden",
+                "category": "Botanical garden",
+                "url": "http://bbg.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO78EVlx16-2Wcyq5KUD9AU-QEo6yicDbtRN4PN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Batumi Boulevard",
+                "category": "Park and Garden",
+                "url": "http://www.boulevard.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1b4bnREn3rXiKv7oA8APtI59b3wLit33x0DRh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ali & Nino Statue",
+                "category": "Tourist attraction",
+                "url": "https://batumi.ge/ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-v71obBl0xbiuwdv9urOr3j-zKrjJba-6EWCI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Argo Cable Car",
+                "category": "Mountain cable car",
+                "url": "https://argo-batumi.ge/en/home",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwNayUe-p3JrWg67VWYK18L8xIMaCxPRsB1a7o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Batumi Dolphinarium",
+                "category": "Aquarium",
+                "url": "http://dolphinarium.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOx8YhMSEulsyuYW1QwRyi-3tADFMvNKX42cY0I=w148-h148-n-k-no"
+            },
+            {
+                "title": "6 May Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYd_3pZT6mdfwtIksd99Ka2PiOAVfZb_U7E__Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Batumi Piazza Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdfIFayiYvk3H5o-7PZmNDjSowkgsKoQA3iw0o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Europe Square",
+                "category": "City park",
+                "url": "https://madloba.info/batumi/architectural-landmarks/europe-square/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt0Rj-vRnxG7XLdvalPv5pfr8p7yg6bq3Jtj24=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gonio Fortress",
+                "category": "Fortress",
+                "url": "https://ajaraheritage.ge/en/museums/gonio-afsarosis-arqeologiur-arqiteqturuli-muzeum-nakrdzali/1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmfpNzSlVxp5_138LiVcOevIGYw6B73YZ4G9Yt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnographic Museum \"Borjgalo\"",
+                "category": "Open-Air Museum",
+                "url": "https://instagram.com/ethnographic_museum_borjgalo?igshid=YmMyMTA2M2Y=",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvwzC1I8odesHUw8K4x_-wwEXxiISMSoWdWmJW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miracle Park",
+                "category": "Park and Garden",
+                "url": "https://boulevard.ge/en/things-to-do/sightseeing/alphabet-tower/223",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmDE-S5g59Onuai0n7m5OptcFlKKkrODAw3hUA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Statue of Medea",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/proxy/cWL5_NjDlpME6QprcrP-cVVc4-BUnu-thX9Y-y2KFFTI5L9B6yJBh-y2d4wY0Z5xUQCn3tr-odQHZNQdeq1SaFzuOzFEzixGvioff_pmfbbaAs_ElO9AoEkc86QLNy6pstzXE8Ulor8UX38p4PQY5zo6oyvrDEg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Mother Virgin Nativity Cathedral",
+                "category": "Orthodox church",
+                "url": "https://www.facebook.com/profile.php?id=100079706566071&mibextid=ZbWKwL",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZwVj8TPEDdp28Pka-2zu4JX9zv8lDK_iwwG6f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Batumi Central Masjid",
+                "category": "Mosque",
+                "url": "http://www.amag.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmCWwpuBHZugF19BZoqXb2cKwPdcwx7b80HQoz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gonio Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSsXWt19dtStcBonzpq2gyzk_2HpQd8Omzvu8C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kvariati Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGKDoUue7DvdG4p0qPUnnJGmdxyPbMgd__P6sJ=w148-h148-n-k-no"
+            }
+        ],
+        "Tbilisi": [
+            {
+                "title": "Bridge of Peace",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdYZhcjHF5ZIuTjvHv3IUmTtDfx6wS2Cs230Yb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral of Tbilisi",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMp8WfD0DFBNGMZ83SEBI0TTxxHffvVaEGAnHps=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narikala",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlxPrXLFPTWPwzUSMz9H_I7AOTjnShfY9oYqqA=w148-h148-n-k-no"
+            },
+            {
+                "title": "მთაწმინდის პარკი -Mtatsminda Park",
+                "category": "Amusement park",
+                "url": "https://park.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5yoi4mkMTvSCeOpoiXtRUI5sfOW3_kGYSkc1F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rike Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMct53hk__IW-aWMKES_dRVEw6srZ2NpO9v5CkI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liberty square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPArATYYyvQwug_bW2ck-q-lE77ZR32KIBsQGDo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metekhi Virgin Mary Assumption Church",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyghIwF-IiBPZmB5yhc9qnNsXXJZzKP0YUvojK=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Botanical Garden",
+                "category": "Botanical garden",
+                "url": "http://nbgg.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_8oWnLWtSz3vJOySJPz9TyzrwrCUttAfmnS6l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sulfur Baths",
+                "category": "Thermal Baths",
+                "url": "http://www.chreli-abano.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOrX29Z3IrdZkWbDYGSXvjpdC2cdZLIC1dMaPl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Georgian National Museum",
+                "category": "National museum",
+                "url": "http://museum.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN36jqKyminELgpTwGMgtm68xp44gy5qOaJTqs0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mother of Georgia",
+                "category": "Monument",
+                "img": "https://lh6.googleusercontent.com/proxy/E2L8p1AYw8QPBC6ZtF38k6DqS-3pbzu9fRXVZ0hVVyz0s7yg0ijIEnN3JFDPom3IQCF0JB06XB1xwnMx5yAl13ilGea-XmeBau698hIaLaxGUnGmNDFpYATURPgx-J0f1wovSVyf7KnIqqtoPVRkqQD4_6DPc6s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chronicle of Georgia",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6m8OixDIvm8oCJLxwUraSWK7NMqv8RKGiRGHo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sion Cathedral of Tbilisi",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmTV3fN7DTFifzuJPKSUqLMu3J6OR_ca9gnd-q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gabriadze",
+                "category": "Performing arts theatre",
+                "url": "https://gabriadze.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwRCDIpWwWg9m2whRHNUPXqVypW1fjTauGOZDB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tbilisi Open Air Museum of Ethnography",
+                "category": "Open-Air Museum",
+                "url": "https://museum.ge/index.php?lang_id=ENG&sec_id=46",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYZMnIOM1qDelShO8X7CuGfJx5cfo9dHYcGF3A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vake Park",
+                "category": "City park",
+                "url": "https://tbilisi.gov.ge/pages/parks",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuRuPMJ9J6kT5kCXpk2LZvtggJ8qmIFnfgoK6O=w148-h148-n-k-no"
+            }
+        ],
+        "Sokhumi": [
+            {
+                "title": "Sokhumi Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjHmO6qnzkU_P-9w-iIz0u6OhiNldKH0RZvDFS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Набережная Сухум",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIhZKHCPtdKXSH2DGotk1Gf921BZpc4oAR9Roc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bagrat Castle",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkWq8rWVffz65zukxPTBP8HvfEjOPzZIizGPjS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sokhumi Lighthouse",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPi5_vDB2fdq9IUv3HdBf_QcdGRCoX7SSJO6oZC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anacopia Fortress",
+                "category": "Castle",
+                "url": "https://www.youtube.com/@abkhazia1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNZ_hW8fYHUgMvrtmCDFPEtScU6Q-DtczdgZnT=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Athos Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWyBDsixzsY3yWCHCohjgbDHSLuO64vmf9sr69=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Athos Cave ახალი ათონის მღვიმე",
+                "category": "Tourist attraction",
+                "url": "https://en.wikipedia.org/wiki/New_Athos_Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6uwHtzcvnaKqpHBOvblbtqQYwgWnbWHjDCt4V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gagra",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFcYvTM8LSq6a2s2SZd8uHRmjPON7PRlIdj0_U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tkvarcheli",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMK3zn-jQtQmHR8SLuJL_3UJhHLUKze8jjkawDk=w148-h148-n-k-no"
+            }
+        ],
+        "Kutaisi": [
+            {
+                "title": "Bagrati Cathedral",
+                "category": "Cathedral",
+                "url": "http://heritagesites.ge/?lang=geo&page=327&q",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwlGyvtkyEY_tithiEzVCYm9kNM4Nw5sIylh4s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colchis Fountain",
+                "category": "Tourist attraction",
+                "url": "http://kutaisi.gov.ge/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtQCMze6CYRrftNOYNya3g7fB0qUYnlDp1x7bh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Bazaar",
+                "category": "Farmers' market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWUpEWPlVlXvcmlUEdp97vuz2-87gfHyBcWTrq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kutaisi Holy Annunciation temple",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMznQ81Jl-mj5puJ4Sl7ut88DR4epUTwDvQuvXo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lilestan",
+                "category": "Restaurant",
+                "url": "https://www.lilestan.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8DyWP2A6ZXyQCBTvV_gjzVZF1_CVmvMEnepSJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "White Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBt9rtmTtO7I57Ohw9TClaUjzLNxxBuqsTsEku=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tea House Foe-Foe",
+                "category": "Tea room",
+                "url": "https://www.facebook.com/tearoomfoefoe/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjMyoyWYYyLhHiR_mgtKr96mNHYxxw51UHoZ5K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kutaisi synagogue",
+                "category": "Synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhbuDmkYTvYWaJkSE6UOmP67DgL6IcoQn3T1XH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gelati Monastery",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPu55yMFcL9Ax0gVFL7yS4kYOfpxSueguIpJULi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kutaisi Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmZyjo9nd-fLKs0bq3pz4Ism-BLzd0wgHOxycU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sataplia Nature Reserve",
+                "category": "National park",
+                "url": "http://www.apa.gov.ge/en/eco-tourism/servisebi-da-tarifebi/sataflia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTvh-jfS-Lsl0Den3s43Zl7IdoPrUQ_9P91___=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rafting in Kutaisi",
+                "category": "Raft trip outfitter",
+                "url": "http://www.raftinginkutaisi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNC5s2LcJAkfUp1860_-c7cz_P4gx4WvD-koAPB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Motsameta Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMroNOGt1YbwqRDZID-AqEpyYq0OFxmvzs8_wdP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Besik Gabashvili Amusement Park",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzcUT69MmdrdddLov3qe-wkT_Xo_Sgzs_Q-5Ex=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mate's Wine Cellar",
+                "category": "Winery",
+                "url": "http://www.facebook.com/winecellarmate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0NHLruRAuBxkwa7GoJn1R1EE1vfSgNx8acF0W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Satsnakheli Wine Bar",
+                "category": "Wine bar",
+                "url": "https://www.facebook.com/satsnakheli/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSdASFVfHmeh-hg0C6goUwr-afPsWVhu0PjBz1=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Bridge of Peace",
+            "category": "Bridge",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdYZhcjHF5ZIuTjvHv3IUmTtDfx6wS2Cs230Yb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Holy Trinity Cathedral of Tbilisi",
+            "category": "Orthodox church",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMp8WfD0DFBNGMZ83SEBI0TTxxHffvVaEGAnHps=w148-h148-n-k-no"
+        },
+        {
+            "title": "Batumi Botanical Garden",
+            "category": "Botanical garden",
+            "url": "http://bbg.ge/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO78EVlx16-2Wcyq5KUD9AU-QEo6yicDbtRN4PN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Narikala",
+            "category": "Fortress",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPlxPrXLFPTWPwzUSMz9H_I7AOTjnShfY9oYqqA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jvari Monastery",
+            "category": "Orthodox church",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMsv4NtlZoZgYD1uRKw3S9sG4qaxaybJvqLYxEe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Batumi Boulevard",
+            "category": "Park and Garden",
+            "url": "http://www.boulevard.ge/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM1b4bnREn3rXiKv7oA8APtI59b3wLit33x0DRh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gergeti Trinity Church",
+            "category": "Orthodox church",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN7GtWrrvicCukSY7yS6zxx4xeGElOavYvE0_YB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Batumi Dolphinarium",
+            "category": "Aquarium",
+            "url": "http://dolphinarium.ge/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOx8YhMSEulsyuYW1QwRyi-3tADFMvNKX42cY0I=w148-h148-n-k-no"
+        },
+        {
+            "title": "მთაწმინდის პარკი -Mtatsminda Park",
+            "category": "Amusement park",
+            "url": "https://park.ge/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM5yoi4mkMTvSCeOpoiXtRUI5sfOW3_kGYSkc1F=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ananuri Fortress Complex",
+            "category": "Historical landmark",
+            "url": "http://www.heritagesites.ge/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNk1rL1r8x69YWGGQxZtmTt-67eG-j_IpARZarJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Vardzia",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPYQCrPHL1kd2RaUGoxLezyzuD3WUhz_6SrIPiL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Prometheus Cave Natural Monument",
+            "category": "Tourist attraction",
+            "url": "https://apa.gov.ge/en/eco-tourism/servisebi-da-tarifebi/Prometheuscave",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPoQlyYMuNoIV_zb0fvh4awGVoZ77utzaUK0r-x=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sulfur Baths",
+            "category": "Thermal Baths",
+            "url": "http://www.chreli-abano.ge/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMOrX29Z3IrdZkWbDYGSXvjpdC2cdZLIC1dMaPl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ali & Nino Statue",
+            "category": "Tourist attraction",
+            "url": "https://batumi.ge/ge/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN-v71obBl0xbiuwdv9urOr3j-zKrjJba-6EWCI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mother of Georgia",
+            "category": "Monument",
+            "img": "https://lh6.googleusercontent.com/proxy/E2L8p1AYw8QPBC6ZtF38k6DqS-3pbzu9fRXVZ0hVVyz0s7yg0ijIEnN3JFDPom3IQCF0JB06XB1xwnMx5yAl13ilGea-XmeBau698hIaLaxGUnGmNDFpYATURPgx-J0f1wovSVyf7KnIqqtoPVRkqQD4_6DPc6s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Svetitskhoveli Cathedral",
+            "category": "Cathedral",
+            "url": "http://www.heritagesites.ge/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNytrBV4p75lIkhoGd4RmizY-RPMoeC5mkNLEqT=w148-h148-n-k-no"
+        }
+    ]
+}

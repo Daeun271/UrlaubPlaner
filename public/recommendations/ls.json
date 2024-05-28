@@ -1,0 +1,255 @@
+{
+    "cities": {
+        "Maseru": [
+            {
+                "title": "Nexx square",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIqkku3Oi9sZxuVlBP9y5N9b4QCenIKbX8GhWW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maseru Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.facebook.com/pg/maserumall/about/?ref=page_internal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdt9TObZKRBY8qwBx6tycorYo12ihq1Hb2mmp6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pioneer Mall",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkSTHEOuaoJlWllhZ4NmpuWV2m0K-ICGZ1x4ix=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lancers Gap",
+                "category": "Mountain pass",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFc0JTWgOqt894M70guhzgRQqvwQ_dveVr1n35=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Lion Rock Mountain",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXT-i1EJ-IkmoHvt5nY3JMcLUv-1Kn7w1RD_-J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thaba Bosiu",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgI_XLbbdj7GRp4l3EUZW5yshXVKQe8jwZjtbF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kome Caves",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMarVTOyl4QqT-59KkTvQ8J6AgO6EPdn2tcobAh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mohale Dam",
+                "category": "Water utility company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfPXivg_wiOlk5oX-rPFO7uXgqmrvoPUds7OPS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Katse Dam Botanical Gardens & Nursery",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaWy9QZB2uDF_je_P5wNFfY7YQEbtooriyu329=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maletsunyane Falls",
+                "category": "Waterfall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFQVsdsR05V6lTwVS09Br1_9cxJtLuOjGiKgap=w148-h148-n-k-no"
+            },
+            {
+                "title": "Katse Dam",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIA5r4PjakI7SeMPeN0Jih1sXFz5C1XMFljWnq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mafika Lisiu Pass View Point",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWcAOOLqicsb-EnC-xNdCjsKnK6FOKxJrA1x8q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maluti Mountains",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwDXu6LeetHyIw5XcogmvFWcgTSLWi-_VrV7sl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gates of Paradise Pass",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUMSenOhaot1YGX7ISDMWNJnHp6vHHVoay0AlN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Setsoto Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUCF0jN2_tUehI7Y0tyha0zY6qp5LgoP783HeH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basotho Hat",
+                "category": "Shops and Shopping",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPidDmRVy_Thmt9BRSpPpGHGBc3BuiMx8uKl_t2=w148-h148-n-k-no"
+            }
+        ],
+        "Maputsoe": [
+            {
+                "title": "Liphofung Cave,chalets",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO-7NDSXencV4YusTiiEoVxE16-TXjfUM-EKI5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maseru",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMoH4-lgzrPZBz6LslObbN8Qjy8bVbwiAzYsh1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pioneer Mall",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkSTHEOuaoJlWllhZ4NmpuWV2m0K-ICGZ1x4ix=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maletsunyane Falls",
+                "category": "Waterfall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFQVsdsR05V6lTwVS09Br1_9cxJtLuOjGiKgap=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Moorosi",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuSlPpHwuSGq4Q2_4AQr7KY-fL3M6VrBaeTe6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afriski Mountain Resort",
+                "category": "Ski resort",
+                "url": "http://www.afriski.net/",
+                "img": "https://lh3.googleusercontent.com/proxy/UIh8x7j6dDwmcWXQ9Ygx6mkm8ewRkOgahcIj5G6Phx2IW94mgIWZb4WZWHATQOTEOtsEMvvnk53a2Z2K1SWFuG9NgIC6Ulh2499f490grDx0x3QIs-d-9_kGVS5os2rdH38kkzzj-4G5gezqg-Z_87OGKzNsmg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Katse Dam Botanical Gardens & Nursery",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaWy9QZB2uDF_je_P5wNFfY7YQEbtooriyu329=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kome Caves",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMarVTOyl4QqT-59KkTvQ8J6AgO6EPdn2tcobAh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thaba Bosiu",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgI_XLbbdj7GRp4l3EUZW5yshXVKQe8jwZjtbF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basotho Hat",
+                "category": "Shops and Shopping",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPidDmRVy_Thmt9BRSpPpGHGBc3BuiMx8uKl_t2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lancers Gap",
+                "category": "Mountain pass",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFc0JTWgOqt894M70guhzgRQqvwQ_dveVr1n35=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mohale Dam",
+                "category": "Water utility company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfPXivg_wiOlk5oX-rPFO7uXgqmrvoPUds7OPS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maluti Mountains",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwDXu6LeetHyIw5XcogmvFWcgTSLWi-_VrV7sl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Katse Dam",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIA5r4PjakI7SeMPeN0Jih1sXFz5C1XMFljWnq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mafika Lisiu Pass View Point",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWcAOOLqicsb-EnC-xNdCjsKnK6FOKxJrA1x8q=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Lion Rock Mountain",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXT-i1EJ-IkmoHvt5nY3JMcLUv-1Kn7w1RD_-J=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Maluti Mountains",
+            "category": "Mountain range",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNwDXu6LeetHyIw5XcogmvFWcgTSLWi-_VrV7sl=w148-h148-n-k-no"
+        },
+        {
+            "title": "Katse Dam",
+            "category": "Building",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNIA5r4PjakI7SeMPeN0Jih1sXFz5C1XMFljWnq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mohale Dam",
+            "category": "Water utility company",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPfPXivg_wiOlk5oX-rPFO7uXgqmrvoPUds7OPS=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maletsunyane Falls",
+            "category": "Waterfall",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMFQVsdsR05V6lTwVS09Br1_9cxJtLuOjGiKgap=w148-h148-n-k-no"
+        },
+        {
+            "title": "Thaba Bosiu",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPgI_XLbbdj7GRp4l3EUZW5yshXVKQe8jwZjtbF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Thaba Bosiu Cultural Village",
+            "category": "Tourist attraction",
+            "url": "http://thevillage.co.ls/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP5nV9EqOE_xVfApwQDXoQ4avKiJCwhAV6QTBUC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kome Caves",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMarVTOyl4QqT-59KkTvQ8J6AgO6EPdn2tcobAh=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Lion Rock Mountain",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNXT-i1EJ-IkmoHvt5nY3JMcLUv-1Kn7w1RD_-J=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pioneer Mall",
+            "category": "Building",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMkSTHEOuaoJlWllhZ4NmpuWV2m0K-ICGZ1x4ix=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gates of Paradise Pass",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOUMSenOhaot1YGX7ISDMWNJnHp6vHHVoay0AlN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Maseru",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMMoH4-lgzrPZBz6LslObbN8Qjy8bVbwiAzYsh1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Morija Museum & Archives",
+            "category": "Museum",
+            "url": "https://www.morijamuseum.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipODYRecF-OohKt8XS1gSFNbM6MCUuEKdZEHOW54=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sani Mountain Lodge",
+            "category": "Self-catering accommodation",
+            "url": "http://www.sanimountain.co.za/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNxQQt2cB9nM7783X1UgaonQwAPP2ztsS-fgrIm=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mafika Lisiu Pass View Point",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNWcAOOLqicsb-EnC-xNdCjsKnK6FOKxJrA1x8q=w148-h148-n-k-no"
+        },
+        {
+            "title": "Thabana Ntlenyana",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOcsUs1pufPRE6v1rUGDmwvraKKkaVw3kCpH2Kj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Katse Dam Botanical Gardens & Nursery",
+            "category": "Botanical garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOaWy9QZB2uDF_je_P5wNFfY7YQEbtooriyu329=w148-h148-n-k-no"
+        }
+    ]
+}

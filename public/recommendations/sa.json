@@ -1,0 +1,1867 @@
+{
+    "cities": {
+        "Buraydah": [
+            {
+                "title": "Aloqilat Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN61n40Ne3-8S71YPjcwEfJvlwwA7G5W1tELhdO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Bdoor Grand Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPf441VHc9jQhBETh0rzT6hYixxEwy_CDf4CBN0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buraidah Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN72wUrc5virkvDyrpyUxgowlhhqDqr-4AT_5cM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nakheel Mall Masjid (Mens)",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPocnXkb8hbx1HCbZs8p1hcdA0QRD8K34h7yeY=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Khalid Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjsGcoM7Bzdqd9wBrI2uVPYLFLWYZXdg5fyd5n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aliskan park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODvLlaheukO_lirKOt5apRPHJE_9I5aQ2vUQc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Talents Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1QP2oX2DpfAKCUYtJt0Pa9AagOqk7qgfXjl--=w148-h148-n-k-no"
+            }
+        ],
+        "Al Līth": [
+            {
+                "title": "Raghadan Forest Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIn1aGj3ouY7dnvSdUdPznyRotnn3p8C_zhj7z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Taybat International City Museum of Science and Information",
+                "category": "Museum",
+                "url": "https://www.musaksa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1BtoS025r3xygI07nKhJeiUW15W_aOSZPEWe1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shafa Mountain Park - Taif",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ2cPNnuTY7VA2qyEiGGgXwXHHyL-61nKEUyGQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Khulb Park and Restaurant",
+                "category": "Holiday park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNH5vBRDGszJhyWJ7h1Rn4e2yYM0ut0nQYbBSy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Overlooking Shifa",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjZAFGY3stslryoL86FZ1772qzrQhLwtp-VI_2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jeddah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOchmmVWAAE-pHC8e9ixl8wvlbbLgcEZQbk_ARR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Makkah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVktvmM4uDx6HIeArZ2W1RpGTv0MZ6Ddr533-b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ruddaf",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoAvgHqYFTyVTx7CHOpvqF-IG5Oh_YKA0jzMAy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Sea",
+                "category": "Sea",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCpjHXCdtFmzWxSaieg9O5vgUT9OYDho_RA8z0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahdan Park",
+                "category": "Community garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6cTP1Q3N9JnTsAMI7TIhmqSgaSQSyBDJ8POn3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Aisha “Umm al-Mumineen”(Masjid Al-Taneem)",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlObPjQWvTFaAZnkiukGCjBSrSxTET_azXRI24=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safa and Marwa (Saee)",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0dOUVV3Hf2s71Sh4PtiC5-AjkqQTRbJsJZLLZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alwasqah Corniche",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1d8kWS-oOxY4ucpIEfZMSVwnMY6RWiClUDiv7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maqaam-e-ibrahim",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0eMNDkL0CkGh00n0k2QmAIetobbsSfj6JLkVt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Hussam Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL6rJ-rRRFJRpylYEo0fa9qDgF4RzLwXRO3u2C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khairah Forest Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIgBTLrghjrjNCj8XetnGIyHWq9q8pf_RR6JRh=w148-h148-n-k-no"
+            }
+        ],
+        "Najrān": [
+            {
+                "title": "King Saud Park",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0_nPh28i7S260CUzrpCb8Kzgy009_COOFgygA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Raoum",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUGf0zsBlY9Jzbbaj9QGETbVX8Wi6828ocYO51=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Khalid University Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqYrIS2LpwbETQVHYM4ArARFV9VZfKUf-ggW70=w148-h148-n-k-no"
+            },
+            {
+                "title": "Scheme 5 Gridiron",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5F92ewCOmyxT-NMMPEdfkTLKf87qIFkU1iNwI=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Fahd Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLjfdhub5X7sMuu5JcPr9wFNtD-mb8Wggbr5Nr=w148-h148-n-k-no"
+            },
+            {
+                "title": "AlUkhdud Archaeological Site",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNORRMiaUEEd99W-gW1jJeaUWNXEoG308uAsHzw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Najran Valley Dam",
+                "category": "National forest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCW2idD-DqK5LkvNqWwClEX_ncK2snkxpq6PyC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jerash Sports Club A Rafidah",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEPzMQPSdxtybUKX4r9CrrhgtRbt8UqUE7i3F9=w148-h148-n-k-no"
+            }
+        ],
+        "Dammam": [
+            {
+                "title": "Al Othaim Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.othaimmalls.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSSOSNx1ApcyjFEvIHWGCmj-juSeo-2qgyOmvS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Life Park (King Fahd Park)",
+                "category": "Park and Garden",
+                "url": "https://www.lifepark.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOF5Pn-vaJbi94bdM9j2RhrNSltnbekEVotlqQ5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Modon Lake Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPd2ru2WVzjXqVCTDsDSbIoCAb92ir9RgV6FfTn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Heritage Village",
+                "category": "Tourist attraction",
+                "url": "https://heritage-village.com.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdHtkjkGqwkqVFk9wK8XvObiwVD4WD7lIUSGot=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tick Tock Escape Rooms",
+                "category": "Escape room centre",
+                "url": "https://ticktocksa.com/booking/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIg2kYUAUI6Vb-XaHtuvrFrJEb3HIlvxsSFqLX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dyno Rock Climbing",
+                "category": "Rock climbing gym",
+                "url": "http://www.instagram.com/dynoksa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTpyaff3D2kCAPfT-VTzxlDBsdG8gsicDBKMqY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dammam Corniche",
+                "category": "Park and Garden",
+                "url": "https://www.eamana.gov.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2cTzWLaoXoWJR0FPahaYCzCAPzS9j4SGryY_f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dates Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_NliGf7YEtMToyqhA1gza-hEhCKGkL44ttyri=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alfelwah and Aljowharah Museum",
+                "category": "Museum",
+                "url": "https://instagram.com/alf.aljmuseum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPw5_mf0e69HgE3FMneSLfePvqshvu6OP9ILoTn=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Abdulaziz Center for World Culture - Ithra",
+                "category": "Cultural centre",
+                "url": "https://www.ithra.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWYz_DNUMgad1eGkTztwz6wtS703tNnoJAry8k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventure World",
+                "category": "Amusement park",
+                "url": "https://www.instagram.com/adv_world_saudi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg8pdG5FCcy7gX7J2M9bcmB6A3aNR7xB4-lO8P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marjan island",
+                "category": "Museum",
+                "url": "http://www.tmowel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmq34zL67jMzw1zNe-tXt-YdV_LIVbs3sp9g-c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Mohammed Bin Fahd Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuhiTco3LF4VrL5Rw8a_2tbaJev5OkzH2eYtst=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxszhDw8ChuNdR-VZ5b4jyUhjy84LQjP5G4J-J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Rashid Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDj9flvbQtOK98LvOhCc5s02GOv8uXHNpAulk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mahara Karting Track",
+                "category": "Racetrack",
+                "url": "https://shorturl.at/CJMQ5",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9R0bTz4xLPlbuVlXdHz_m_F1vpbQqEn9j6Xia=w148-h148-n-k-no"
+            }
+        ],
+        "Az Zulfī": [],
+        "Riyadh": [
+            {
+                "title": "The National Museum",
+                "category": "Museum",
+                "url": "https://x.com/saudimuseum?s=21&t=cmwh9l4azqBAJbcwycwusw",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqH8BgQ8r7sf4pia5jgJOiA-8tzr14Ri9zYy6J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boulevard Riyadh City",
+                "category": "Tourist attraction",
+                "url": "https://instagram.com/blvdruhcity?",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpQylZaA4HesJewu_dsd_Hn1btWWCPmnMBrSXb=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Abdullah Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORjZmGMtSVmm948x-0fT-pFXx6Cy7fGMdKeFeY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Faisaliah Tower",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvXndxTF6J8JO3xXxWZ9Bi0fTzyWbleHhe2cc3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Rajhi Mosque",
+                "category": "Mosque",
+                "url": "http://riyadh.rm.org.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSb9TG0ApIOn0OkGpyZQklijXxTPSy6f6ApUoo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cenomi Al Nakheel Mall",
+                "category": "Shopping Centre",
+                "url": "https://mall.cenomicenters.com/en/malls/alnakheelmallriyadh",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6ODZ3XdF3IrVTHp0WXupyf00DXmvE76BY0I2Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boulevard World",
+                "category": "Theme park",
+                "url": "https://instagram.com/blvdworldsa?igshid=MzRlODBiNWFlZA==",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkMrczd-6JJifTnIw9F9q6QgNM_nzo5tBmXBbd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roshn Front - Shopping Area",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJ7TeeSsvXCvxAYAvjGZpVraqW8tF6VN0wrdMY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riyadh Zoo",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMCTvqjDaJ6wYXgVUW7h60WlhIhVsc31sIyfL-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kingdom Centre Tower",
+                "category": "Shopping Centre",
+                "url": "http://kingdomcentre.com.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMC6gDZbbuwiuuOiqU0NkPkI1OQ3b-cJbZ2GE2W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riyadh Season",
+                "category": "Tourist attraction",
+                "url": "https://riyadhseason.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0N5SK06JQaeNwAQG231jwmbg66awUU4jrxBTr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Masmak Palace Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOc-9PftSAAYO3xrAQQTkv-ukhfHK24YrXzF7f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cafe Bateel & Bateel - Tahlia Street",
+                "category": "Restaurant",
+                "url": "https://www.bateel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP36rVdubSNIwAtsY5EoW8hx2ucbjKRkZ8Nz334=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Abdulaziz Equestrian Field",
+                "category": "Racecourse",
+                "url": "https://www.frusiya.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLQ_EuvujdlIACHW-d7ZAo_lSECHa12_DyI7Cw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saqer Al-Jazirah Royal Air Force Museum",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_n8BcjUcFcHnujrieyIBMdQaLhBqtCnBGQuGx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salam Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhl1kEPFp4B-SocRhaGMN3pCSSuinpFeJpyHqe=w148-h148-n-k-no"
+            }
+        ],
+        "Medina": [
+            {
+                "title": "Al Masjid an Nabawi",
+                "category": "Mosque",
+                "url": "https://wmn.gov.sa/public/?page=Home",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOD07SZKoLJxidpayoSdpnM40TPEIqaTehfms8k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Quba",
+                "category": "Mosque",
+                "url": "https://www.moia.gov.sa/Pages/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFlICcEcX1htERgcZk7YoO0LoFu9vFUblIj46o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dhul Hulaifah Miqat Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8rrnTMqV67fovrQi9QVD3zbNf3jizsK2-Xg7m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Al Qiblatain",
+                "category": "Mosque",
+                "url": "https://heritage.moc.gov.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXVNjl7zWMHAXeX2iu7R7taIMEBinT54KqY4Xu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dar Al Madinah Museum",
+                "category": "History museum",
+                "url": "https://twitter.com/Daralmadinahmus",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzF3i-3N1jxrlIyAdELCQ2TCLXCQelXjDT6eqt=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Seven Mosques",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzdbF6-CPFu0LiJ-3UdudGt-9oWsQUjx81Hp23=w148-h148-n-k-no"
+            },
+            {
+                "title": "متحف السكة الحديد",
+                "category": "Museum",
+                "url": "https://heritage.moc.gov.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeufOtb1LpInRgYDnaXz6MOM599w3xFRUEaWsA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Al Ghamamah",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbQo3FfOBpiZbOlaSiCI9ONL7_FN4TUM1uJ1PW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Noor Mall",
+                "category": "Shopping Centre",
+                "url": "https://mall.cenomicenters.com/en/malls/al-noor-mall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLJxsa4SIz1k0kSiL0dMVO02Zugq8_JDQRlp6i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Baqi Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEvvue_fPWH0-lD5hdc0nqWEBNfb4vehINKv8d=w148-h148-n-k-no"
+            },
+            {
+                "title": "The International Fair and Museum of the Prophet's Biography and Islamic Civilization",
+                "category": "Museum",
+                "url": "https://salamfairs.com.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZOgZyLkR-z5qhkyldf9reymAeq4f7j4x_S-H9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uthman Ibn Affan's Farm & Well",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYN7fIkf3pi2ehuzNPCVYxGOJHzzDCxzH9YVHW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhud Mountain",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgYdgAvfGAdpwH8RTVbr6-Tb5PBmYT1LKGNROq=w148-h148-n-k-no"
+            },
+            {
+                "title": "جبل الرماة",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRbqYGz0135wAqzPTPYZ48GRoXMox8IF4P7F_S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sela",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPY1hcD18CVtIiTDLun5FOBMpCzbMqG_rQMFdql=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadi E Jin",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOB_qHem3AED86flVOXKs2GHzStzQefvA3EfPx6=w148-h148-n-k-no"
+            }
+        ],
+        "Sulţānah": [
+            {
+                "title": "Ghars Well",
+                "category": "Historical place",
+                "url": "https://www.islamiclandmarks.com/madinah-other/al-ghars-well",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyKaxHMyLLnTE6RfYq11IciN_EKVUwHN5hLp_f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid AL-Jummah",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIkW2eNy88j4ev5NVvE8VZlhdkjjyXP8FUZ6xA=w148-h148-n-k-no"
+            },
+            {
+                "title": "The House of Syeda Fatima bint al-Husayn",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhL1Ub8OwMBfB2G66jSKcPitEYcg3PTeqA6IJ2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anbariya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1jaC50OqzstwgvnptmnDvAXIqqAv6c4HoBsTE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dar Al Madinah Museum",
+                "category": "History museum",
+                "url": "https://twitter.com/Daralmadinahmus",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzF3i-3N1jxrlIyAdELCQ2TCLXCQelXjDT6eqt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Al Ghamamah",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbQo3FfOBpiZbOlaSiCI9ONL7_FN4TUM1uJ1PW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Al Qiblatain",
+                "category": "Mosque",
+                "url": "https://heritage.moc.gov.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXVNjl7zWMHAXeX2iu7R7taIMEBinT54KqY4Xu=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Seven Mosques",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzdbF6-CPFu0LiJ-3UdudGt-9oWsQUjx81Hp23=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uhud Mountain",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgYdgAvfGAdpwH8RTVbr6-Tb5PBmYT1LKGNROq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Baqi Cemetery",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEvvue_fPWH0-lD5hdc0nqWEBNfb4vehINKv8d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Quba",
+                "category": "Mosque",
+                "url": "https://www.moia.gov.sa/Pages/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFlICcEcX1htERgcZk7YoO0LoFu9vFUblIj46o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Masjid an Nabawi",
+                "category": "Mosque",
+                "url": "https://wmn.gov.sa/public/?page=Home",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOD07SZKoLJxidpayoSdpnM40TPEIqaTehfms8k=w148-h148-n-k-no"
+            }
+        ],
+        "Al Mubarraz": [],
+        "Al Kharj": [
+            {
+                "title": "King Abdulaziz Grand Mosque",
+                "category": "Mosque",
+                "url": "http://moia.gov.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKVqqDHnud7KgeeIeMvGowKquX3nuyd6NmYYJs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abdulaziz Abdullah Al’askar mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0YNHcK3X2AjWidKyk4nDI2gaagwiysEHsB2HC=w148-h148-n-k-no"
+            },
+            {
+                "title": "King AbdulAziz Palace",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPELWVWuPuS9K8Diabf16_xKJi_r-F8-K5_4kwk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jaw Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2TIVDBKrABHZ1nY4NciaRc9VxH0XvARAPe164=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shoullah Club",
+                "category": "Sports club",
+                "url": "http://www.alshulh.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTfyOntGVQv5YuVm2ZxMfzaaTjbgStWcHDZ1AO=w148-h148-n-k-no"
+            },
+            {
+                "title": "King AbdulAziz Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXcWcTrT20UaaBHCNzInEC-9kPbuBWf6-eECam=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Abdulrahman bin Nasser Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrR9UYXJmyLGhl0ZM3hywrUHBHk5CX3n0u2MLO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rose Garden neighborhood",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODYCspNNTfRZRyva_JVg_HIsMMEj02XKZHVDxB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barber Al-Seeh",
+                "category": "Barber shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORoVCtqa5Vs-QCKqP3hvrEXU_4uDr9UVRBjShs=w148-h148-n-k-no"
+            }
+        ],
+        "Hafar Al-Batin": [],
+        "Sayhāt": [
+            {
+                "title": "AlKhaleej Club",
+                "category": "Athletic Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyTOvgdiFB7M9Apt0iIB15w5YzX7Mza0PpzKT_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hamza Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0NmvapQ3X52oWbabDJAzKAjeJBYxBizXiOLGz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alhasan Bin Ali Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtgrSp8bfYIZmFRv9_M7j86gRUonJY9LxFCJoc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Imam Ali Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvqFswncMblJl-suqHbczxSgcE2Dx8vGiUoaNo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ghadir",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmxm-VvOR1qWk57nII-AsHTNPdmF4pkDO1s8yG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Nayef Sports City",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmRBH1G-032GU7SMgWMb5DZmusLHzRxT-S0rs0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rome playgrounds",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOz3Fw_QaowEA1GUHnzOLUxGki7gGZBk8c3P9KH=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Abdulaziz Center for World Culture - Ithra",
+                "category": "Cultural centre",
+                "url": "https://www.ithra.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWYz_DNUMgad1eGkTztwz6wtS703tNnoJAry8k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Sports Halls of Dammam",
+                "category": "Sports complex",
+                "url": "https://mos.gov.sa/ar/facilities/sportsfacilities/Pages/damamsalat.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOrD-9cF1rCRd96TdRTwrdBVn_cGdgkGh2PB2y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dammam Sports City",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORbq-cR6561u5OgU0omN8-IJLl1R7-hsdxOGbG=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Fahad Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMGgu0L5V7_SnR5hqbOz7D8heu937aGmJvYgAz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sultan Hall 1 Faisaliah",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOACY6A4DYV9vodm_Vp2DRA_XxyCuG6-XMvOJfx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ibrahim Palace",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZZr1SheSYteoRT7Px57CZHHKrTkxj3ZlBdk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Mohammed Bin Fahd Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuhiTco3LF4VrL5Rw8a_2tbaJev5OkzH2eYtst=w148-h148-n-k-no"
+            },
+            {
+                "title": "Z5 Stadiums",
+                "category": "Football pitch",
+                "url": "https://linktr.ee/z5stadiums",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD8NDyetmENl8axbLwKHFwzNBTQ0N7IdY_0fWn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khobar corniche",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv9PQzZKp_DBWtaQspxkrOpb8VDO1jEIcxcLig=w148-h148-n-k-no"
+            }
+        ],
+        "Qal‘at Bīshah": [],
+        "Şabyā": [
+            {
+                "title": "The Corniche Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJyzyU3u_J2uUwvEHrpHjCMWvrP8hxGFgpm8PF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mango Roundabout",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIWre8y2Hi4x4MUDq_WzsS6dSFM_ounTPxhOI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baish Corniche",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJ-HA1kYofQCHho8X6E1CIn2zVe8aqVvFzTLbB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadi Lajab",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjwxj_jzKbIA2zWD5UmlTq2F1yfdji4oXMmtG_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adosareyah Castle",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPJf8umKdP8VMQVMcGVPTobWuHFQGYXobW6Eoo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Awqat Saeeda Theme Park",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyPCCj5pgcBU8L4dicH9Gzvvd0dgxtXdRa7Xh1=w148-h148-n-k-no"
+            }
+        ],
+        "Al Khafjī": [
+            {
+                "title": "Corniche Al Khafji",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMy4No9weznnPa5lo4x6wUOKquR8oTlQQk8tWR1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khafji beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3eQjxQG4VqaO-QouVanzT4ISCp39y55rJWZo-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hessa AL-Hajery Mosque",
+                "category": "Mosque",
+                "url": "https://www.moia.gov.sa/Systems/Masjed",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlb9hsLPKk0AD7k3_gTvY2hBuPIvd9TnGRlSAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omar Ibn Al-Khattab Mosque",
+                "category": "Mosque",
+                "url": "https://www.moia.gov.sa/Systems/Masjed",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlDBhFSieXItgacRcId7CQbVnkjBloUmokOZA2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Furqan Mosque",
+                "category": "Mosque",
+                "url": "https://www.moia.gov.sa/Systems/Masjed",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPudtTOFDyThFwKTnfnk9DFktifx2hN0Ot5ni8W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eid Prayer",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCB6piGNSm5k2JzFYey9jolhq9mmmeJx1SihCa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abdullah bin Masood Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt2GoR6PK_XlAXXEY9GuDAHNLQR3nAyslgcJgo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dharman Ajami Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7aKuhrPU__hsPDvV0zFKggHVMTTU0scvy1PRP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khafji Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDoLANbnBG-VAKSeOmifpVA8NVOcS8QVSrYJQ8=w148-h148-n-k-no"
+            }
+        ],
+        "Jizan": [
+            {
+                "title": "Al Rashid Mall JAZAN",
+                "category": "Shopping Centre",
+                "url": "http://saudibonyan.com.sa/en/malls-and-retails/9/alrashid-mall--gizan",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO346wYxx-dMFqt1I3phWw9hCR8xVY5kqMUTP3K=w148-h148-n-k-no"
+            },
+            {
+                "title": "القرية التراثية",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFLV2ATzgiTVd6uEjWtQAvFs_XaUCKf9dxWkSA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Khazzan Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYEPoq9dir72RUGlT6cB3AZq0-epvPTWglWdBR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kadi Mall | كادي مول",
+                "category": "Shopping Centre",
+                "url": "http://www.kadi-mall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMX6B37IH6zatwgt8R6Os4oVswr_oyGRLCxhW06=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Corniche Park",
+                "category": "Park and Garden",
+                "url": "http://www.jazan.sa/ar/pages/ProjectDetails.aspx?projectId=3",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJyzyU3u_J2uUwvEHrpHjCMWvrP8hxGFgpm8PF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sky Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuFBfZSlhnHnucmImkEovvU9pZm38gAJ7eDgH6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adosareyah Castle",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPJf8umKdP8VMQVMcGVPTobWuHFQGYXobW6Eoo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alshamil Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHxeb9UtNxSKuWCUBmVS7Ag5QJqfo9gJiNyMLg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jazan Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEsWOoTrOdrUxmVtvavXjdIcH8WrQislUh_NUX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Dakhli السوق الداخلي جازان",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBDReoNGjyv5jZ5PVcNtrgwnuhbFBE9vErxtAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ashwar Holding Company- Steel Factory",
+                "category": "Exhibition and trade centre",
+                "url": "http://www.ashwar.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqbaS6fkKowBwRkegQLeypI7Ht6twiqCdJlUpf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Farasan Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ2hYyFqYdFtn29w7zex9J4iaV5rmpOJo70V9B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Nakhil Center",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOg-a2FjJ0LL9nnswqn0S4Wkab3RrKoKPB2coF-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Farasan Islands",
+                "category": "Archipelago",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLMwVsTDLL141OQ3F04LDW7FfT24KuZauJWSsO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thoo Alrakah Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSVehAQojDf9x3mcbLs6GgBXeDI8NSFCbuyFNU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadi Lajab",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjwxj_jzKbIA2zWD5UmlTq2F1yfdji4oXMmtG_=w148-h148-n-k-no"
+            }
+        ],
+        "Ash Shafā": [
+            {
+                "title": "Masjid al-Haram",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmHV_TtUFAAEDMySz1xthaGvYszyZXpiOPiMRg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shafa Mountain Park - Taif",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJ2cPNnuTY7VA2qyEiGGgXwXHHyL-61nKEUyGQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaaba",
+                "category": "Pilgrimage place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMANJA4ubuoFwBonSiUp8JxI0KSzq7i3lzND-eP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ruddaf",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoAvgHqYFTyVTx7CHOpvqF-IG5Oh_YKA0jzMAy=w148-h148-n-k-no"
+            }
+        ],
+        "Al Qaţīf": [
+            {
+                "title": "I Love Qatif",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNRPxnQkvfjNthNSCbrJqxukaXVyL2LKCPEYtW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corniche Al-Nasrah",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpu4eq4GNQzaurZL1HnT_TPEHct_afbwEuW6n0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alkhamsah Corniche",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuWT-kJRPFwFIqUiAh7H3lJlE8tojwTgRG2vOJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amna mosque",
+                "category": "Mosque",
+                "url": "https://www.instagram.com/masjed_aminah?igsh=MWR0bjVxbGN6b2RrZA==",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiB4UNays-eAwUoLVA4uWzULfUQ4pRhcBfBpxS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Quds Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_4wbNaeDNSA0ROY26n85cgRPHvObbRhV8fRML=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qatif Entertainment Castle",
+                "category": "Theme park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHT4KLtBtuujqNco-KooqZkGBfIlpfZHqMDjQD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khobar corniche",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv9PQzZKp_DBWtaQspxkrOpb8VDO1jEIcxcLig=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tarout Castle",
+                "category": "Heritage Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2UYKCjgbcdrIN3h5sM1Mxh8O4ywtJ2KpUgGXG=w148-h148-n-k-no"
+            }
+        ],
+        "Sakakah": [
+            {
+                "title": "Marid Castle",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcOPILXOYXyi_-RmDjybuW6eVXVyYbb1i8Vi7H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Sultan bin Abdulaziz Al Saud Mosque",
+                "category": "Mosque",
+                "url": "https://sbaf.org.sa/Contact",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNigA1VaoHYZhRWddWm3e7ak_Omj4OhdTo_x2Wf=w148-h148-n-k-no"
+            },
+            {
+                "title": "قلعة زعبل |Zaabal Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOW7Jw-9FSPacccbYGZrtgGjq_DxAjeqfzb89xn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rajajil Columns",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2yriED34Ygrr7X_BOdGBsNxL-5Qs6iXKjrYbE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sisra well",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPesLthm07bJlpLQxr4PPssU6P0RgdWfao9Ei8y=w148-h148-n-k-no"
+            }
+        ],
+        "Bariq": [],
+        "Al Hufūf": [
+            {
+                "title": "Cenomi Al Ahsa Mall",
+                "category": "Shopping Centre",
+                "url": "https://mall.cenomicenters.com/en/malls/al-ahsa-mall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlsc_V1aJOTBhXjWKpY2rA_U0bPaiG8cxfffgu=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Abdullah Environmental Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaMOgLAvztKtbC_9yeNS4miw-IwTa9EneaMSIb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qaisariya Al-Ahsa Souq",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaDUFjCxRGfnhn0Rilws89bJfzJxLdHGV4vM6E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asfar Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoW06V8L1cOVWq7vO4bFD9hDGoprAaEmpFOTfB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ibrahim Palace",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZZr1SheSYteoRT7Px57CZHHKrTkxj3ZlBdk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jawatha Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtc_wHcPuqTZvxsqY9K86yXooQl0FHuHY-CRJK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Uqair fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSxz7gWMfXNg_KlVb6g_KJuz97t6WfnM8A-Fbn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Qara Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk7fePqqXDK7_7eLnJkVDGKHxb0izHDrM6uS62=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Uqayr",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNA-m9XR5B2ifA2_AvcgRDAsqJFficFMNZA8ee_=w148-h148-n-k-no"
+            }
+        ],
+        "Tabuk": [
+            {
+                "title": "Masjid at-Tawba",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOKbLq9g82bmTQi6jeidCm1bbrJnRy9gwW-vNe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tabuk Fortress",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGLlMenwdKfuA2SfC23rYDJhlQguh8qs1QiaRg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Fahad bin Sultan",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrsBvCkRYcoH5x48qk_QqysatrzYINhMgCX4PN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jabal al-Lawz",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8dTJ1SpPZIEU71YwzXqcWPRDrVpWr2I5ID2rq=w148-h148-n-k-no"
+            },
+            {
+                "title": "وجهات لتنظيم الرحلات السياحية Wejhat tours",
+                "category": "Tour operator",
+                "url": "https://www.wjhats.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1o8IBof0yIWywyEPRmAEYxxRrpH4nEj-E9zD-=w148-h148-n-k-no"
+            }
+        ],
+        "Ha'il": [
+            {
+                "title": "Qishlah Palace",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0cuQyBODuUIxBKZoX7QztJ7XhVfw3g7B_hdFO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Garden Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMwLoErsDmknq2J63-1_eqA3fBJAuZDng5KYTf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Nufud Al Kabir",
+                "category": "Desert",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkK6utWo2tLxgDwOYaCbg-6GahahzXj7JA3nI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Samra Mountain",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpntVOeA3_F14O0PHvd3t3tnxCzQmZLIMi-zW0=w148-h148-n-k-no"
+            },
+            {
+                "title": "A'arif fort",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpMU3S03Nkhnzjzs3l_gNfr-67Ap4he35xxL1v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qishlah",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj97xMU2kiJbygtM4Z9h8qEjHYi-_PybbmrXy3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jubbah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP20DIxBEQV25JSnwYaxZsBqFnLvmnUT_1_rPPY=w148-h148-n-k-no"
+            }
+        ],
+        "Arar": [],
+        "Jeddah": [
+            {
+                "title": "Red Sea Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmzdQlMB9qYvJ_StAnW2JnzRrBxzWTLvZh3a53=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Fahad's Fountain",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZi0_1KScOjK4lrwDEAUZtvBWl0Y18ZGhpinyi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cenomi Mall of Arabia",
+                "category": "Shopping Centre",
+                "url": "https://mall.cenomicenters.com/en/malls/mall-of-arabia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPik0iypZdpiwI4pg6jxunAlosghVyOWj1UsLWw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Taybat International City Museum of Science and Information",
+                "category": "Museum",
+                "url": "https://www.musaksa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1BtoS025r3xygI07nKhJeiUW15W_aOSZPEWe1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shallal Recreational Park",
+                "category": "Amusement park ride",
+                "url": "http://www.alshallal.com.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQxHlDChPdSetG2Z8SYcITZaVOAtX1910OhVfG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fakieh Aquarium",
+                "category": "Aquarium",
+                "url": "http://www.fakiehaquarium.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzc6POBmb35_PTKaZ4ikwm_-ladLBLvcNQLUg_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crowne Plaza Jeddah, an IHG Hotel",
+                "category": "Hotel",
+                "url": "https://www.ihg.com/crowneplaza/hotels/gb/en//jeddah/jedsa/hoteldetail",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_Q8nRAlOtCdr3p2iBjktFby246QM_F7mh_1hZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nassif House Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJ8enWKcwkKhsCqhSGmnbKVIchCWozVTkmy922=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Rahmah Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtEQ4gP5xtnnMB_hlvuOwRdg4GypPiFY2avuNr=w148-h148-n-k-no"
+            },
+            {
+                "title": "MASJID SHATIE",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhEWaE5w9WvtW_t0J8ackFwBWDpZHzf4MELxt1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Hyatt Jeddah – Marina, Club And Spa",
+                "category": "Hotel",
+                "url": "https://www.hyatt.com/en-US/hotel/saudi-arabia/park-hyatt-jeddah-marina-club-and-spa/jedph/?src=corp_lclb_gmb_seo_jedph",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUpFItfZdZnCuKQVZnjhTOUsJEdJ00iqzbDpJz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Rahma Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNk1Va2YZJbqADrP8N_d-B0J_4MEHrmJ-SToeEq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Jeddah, Al Balad",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnR97Z26SNoqRIGH8Rfs7h5IwtiN-Qqzy-rBR6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheraton Jeddah Hotel",
+                "category": "Hotel",
+                "url": "https://www.marriott.com/en-us/hotels/jedsi-sheraton-jeddah-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNqhqsVJe6VKYLMvm1JKqMMRftWI9abiu7uebv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khuzam Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjOxkrgOKUqvypJ9ifTHIOCePZvjnhl7iUUm0s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jeddah Flagpole",
+                "category": "Cultural landmark",
+                "url": "http://jeddah.gov.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8-DihNtucCm-0-B46KFDeo1OTkMJNrUEHI-9G=w148-h148-n-k-no"
+            }
+        ],
+        "Ta’if": [
+            {
+                "title": "حديقة الحيوانات",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMw4-zI0M37AqHbOLE1LUqry07nReMyFOXm_AD0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shubra Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJygFpC-fYwDgp2U_U_Er4WohubPeFlSKMJldn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Faisaliah garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKngqJVqNvRaiVtXA8FQmOD1qUx_LMj_V4udqS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ruddaf",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoAvgHqYFTyVTx7CHOpvqF-IG5Oh_YKA0jzMAy=w148-h148-n-k-no"
+            },
+            {
+                "title": "مزرعة الفراولة ورد الطائف",
+                "category": "Farm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLs6D2mv0tTcWcRBUq8BjgiCXE9Cd4pw3cdWUs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taif's Heart Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.taifsheart.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUCPa7tqYM6VyW4v8MfblhXIgSk81-fNqLnJn3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taif Zoo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrKcmemktK4DJBsLE6ODRni61zYuOLxtsdQ38h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arruddaf Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS9-PiQ8B2QfjfQXAJNpdJMTi1eY2ozBNR8a-b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Daka Mountain",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLnOwHdcf-0fY1KmEGHyUo5GVq5e_w7Ht5zftw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Okaz",
+                "category": "Historical place",
+                "url": "http://www.sooqokaz.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ0VoOaj8OmulItudpBsIAmcrCwXIZhxyRZwlS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alanoud Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOWcaEfILcFACXaNcn4K6W-PLzkMh9DkG34Dak=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jouri Mall by Cenomi",
+                "category": "Shopping Centre",
+                "url": "https://mall.cenomicenters.com/en/malls/jouri-mall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNw1_tNKlWLq8yFO6LrDTSRBt9eX6Q3wDuoF09=w148-h148-n-k-no"
+            },
+            {
+                "title": "Addaas Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL7vIEzV2VP-dA9LJiwryvSknoVPAwebia3Akm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Shareef Museum",
+                "category": "Heritage museum",
+                "url": "https://g.page/r/Cd6jd0UlTA5nEAo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMThzTPd6VnATJs7R1VkKFSG36mxuChgs-QNp85=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Faisaliah garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCIlzTyeKJK7VtAqaPHoDGl5B0_mR0jua3tiLf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Mountain Resort",
+                "category": "Theme park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgSIa5FsVbA9kMX88sUTdaIWw3Z-YnpHnFFgFF=w148-h148-n-k-no"
+            }
+        ],
+        "Qurayyat": [
+            {
+                "title": "Quriyat Castle",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj38ZtLP7UmXJdQ5HS5oBMW0NzcVTjpact6Mf2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadi Al Arbeieen",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcgpXZx1sXEMgwkwdpGYekTBptS0adTUnaSPQU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Majlis al Jinn | مجلس الجن",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxossgxKJ4M8Rwrb5cMvJdxGdYRwfCmyNEp4ec=w148-h148-n-k-no"
+            },
+            {
+                "title": "Husaak Adventures Wadi Dayqah",
+                "category": "Adventure sports centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2FMTjqO7JKIlhJ_FW2Gy9JQ26_5Ifb5qteYSM=w148-h148-n-k-no"
+            }
+        ],
+        "Ad Dawādimī": [],
+        "Sabt Alalayah": [],
+        "Al Jubayl": [
+            {
+                "title": "Al Huwailat Center",
+                "category": "Shopping Centre",
+                "url": "https://www.instagram.com/huwailat_center",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIYqud936T3Yai03HxPF6d5HCUUGGe8KEVZ992=w148-h148-n-k-no"
+            },
+            {
+                "title": "Andalus Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfme8ziaAxUuKLdG4pbq8JcXEB1O8JV3zv2Dqg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corniche Jubail",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPST1q8KQPmOoHzbm-a2gf70tXeawItIoJ0cTMN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Fanateer Corniche",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsVmmd42Gc4fK5USSHTf5ZOX1UaEQ71VsOrYbu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muvi Cinemas - Jubail Mall",
+                "category": "Cinema",
+                "url": "http://www.muvicinemas.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsSziAekhPqPvLpG-7zFBORmnWSidL0pZiXpmz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Knowledge and Creativity Centre",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0mmz9RQSOf7KvMJpvy9ys5QJskeArjlzeVhwr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corniche Fanateer",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSGmWnqTUWwL7Sh7hlDChKRmM40fLKon9c054s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deffi Park",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkdmKJjE_lWaFmEMz7JnPMzTsYTvCb4hE4zfjc=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Abdulaziz Center for World Culture - Ithra",
+                "category": "Cultural centre",
+                "url": "https://www.ithra.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWYz_DNUMgad1eGkTztwz6wtS703tNnoJAry8k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fanateer Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPw9FuJ-gXoWJDvSXInuRtyuZPQJ38U79ba0tyF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galleria Mall",
+                "category": "Shopping Centre",
+                "url": "https://twitter.com/galleriamallsa?s=09",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNe1WQVVgCIJM55zO5CedFw0hbqkfXZK-n0vBM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Nakheel Beach",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzTDc9nfLyYtI7CHr0ae3jybpAVF9zd33uk-vl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Tawi Archaeological Tower",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1aQ0E_8-qgR1-7IZvU3925L6goQMsucGkoRU8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nature Touch Spa | مساج لمسه الطبيعه",
+                "category": "Massage spa",
+                "url": "http://www.thenaturetouchspa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOeGPRTmCjlMWhVhuvx4abJROBO9QhBhKFargTH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galleria Mall Jubail",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaWSW1xzqE9X8K3E9IW8ooXv78EhVhTFcUiqVb=w148-h148-n-k-no"
+            }
+        ],
+        "Khobar": [
+            {
+                "title": "Khobar Sea Front",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOUplY05n8obSuGjfQDSbjpUOxeYTA5iz2U59q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ajdan Walk",
+                "category": "Tourist attraction",
+                "url": "https://ajdan.com/space/ajdan-walk",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcotKoe94uql7ZI6L9TdFxZbDHAfJSvoPS2MOp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dugheither Leisure Island",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWcuPPP-cnecFbSxP_V_zvRvfjTUF6YNKQnprr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khobar Water Tower",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyYmxbXCCSPoRixPMr0FLUFG9bY-bqxvCnoffX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nirvana Spa and Fitness Center",
+                "category": "Spa and health club",
+                "url": "https://www.hyatt.com/en-US/spas/Nirvana-Spa-and-Wellness-Centre/home",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Jij3LVufxWejn6As23mxtzMk7ISqgQxYE2R9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Escape the Room",
+                "category": "Escape room centre",
+                "url": "http://www.escapetheroomsa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMl_mD659GyEEhyhS98xiZzOFXNOElo-wueNao=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khobar Pavilion",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOi-B5afrTVkURbiMCghs1LjsqYI-GOGyEocky0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Ibn Jalawy Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOd56be--Uwy4iQl6VXS4td1Ywil_KopJzoU2hG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khobar corniche",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv9PQzZKp_DBWtaQspxkrOpb8VDO1jEIcxcLig=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Rashid Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDj9flvbQtOK98LvOhCc5s02GOv8uXHNpAulk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Scitech(prince sultan Science and Technology Center)",
+                "category": "Science museum",
+                "url": "https://scitech.sa/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOag731zV5MWziWzvaq_M_JXWnOg-UvjZ63ZBAh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gravity Trampoline Parks - قرافيتي",
+                "category": "Amusement Centre",
+                "url": "https://instagram.com/gravityksa?igshid=MzRlODBiNWFlZA==",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOM9CUX600ktItrzedvpPB0N_nknEu_pFdHlxlS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taybeen Museum",
+                "category": "Museum",
+                "url": "https://www.altaybeen.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTT_PxPrynAjwEOszly0AQBTrItidIYml3MYA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alkurnaish",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpGML3HKEZkfDsJFqaf9rd3DDgsExpqpC3cs7s=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Fahd Causeway",
+                "category": "Bridge",
+                "url": "https://kfca.sa/#/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUaaj8A4mbrE_ze7_AhqO9CZR2HHmHVdtSsF7k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dhahran Hills Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnp8Man-r_xsBeO_2abvOmw6pLntq-jXx0w2UX=w148-h148-n-k-no"
+            }
+        ],
+        "Dhahran": [
+            {
+                "title": "Mall of Dhahran",
+                "category": "Shopping Centre",
+                "url": "https://mall.cenomicenters.com/en/malls/mall-of-dhahran",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoCy_xX3v7Ep1TmJTXN610h5gkluwngFAC_nN4=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Abdulaziz Center for World Culture - Ithra",
+                "category": "Cultural centre",
+                "url": "https://www.ithra.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWYz_DNUMgad1eGkTztwz6wtS703tNnoJAry8k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Energy Exhibit",
+                "category": "Science museum",
+                "url": "http://www.saudiaramco.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCMWirY46r-qsRqXmpT1b-mXeTS2qDTZzpXt5A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gravity Trampoline Parks - قرافيتي",
+                "category": "Amusement Centre",
+                "url": "https://instagram.com/gravityksa?igshid=MzRlODBiNWFlZA==",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOM9CUX600ktItrzedvpPB0N_nknEu_pFdHlxlS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Half Moon Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrqr-VyLFYRMmbTZrMouahFXMY1C9ucHDeTolM=w148-h148-n-k-no"
+            },
+            {
+                "title": "ChillinG Moment",
+                "category": "Restaurant",
+                "url": "https://instagram.com/chillingmomentksa?r=nametag",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN96ffhLjtVx1DXjnzuvjTzVPnm-8I-vfktvoIa=w148-h148-n-k-no"
+            },
+            {
+                "title": "خليج الدانة - Dana Bay",
+                "category": "Tourist attraction",
+                "url": "https://www.danabay.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8NJ5DRizcENqqeuRJtS8TR7nmIO4ybzHFnshR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Saud Bin Naif Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6tdIYL0NkS9OFoi2cjk6umJhBia2jhLdHsIlz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alfelwah and Aljowharah Museum",
+                "category": "Museum",
+                "url": "https://instagram.com/alf.aljmuseum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPw5_mf0e69HgE3FMneSLfePvqshvu6OP9ILoTn=w148-h148-n-k-no"
+            },
+            {
+                "title": "حديقة لووباجوون المائية | Loopagoon Water Park",
+                "category": "Water park",
+                "url": "https://www.loopagoon.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMa_vvM1jGANtESja65VV-IooctXJNMnPC9DqlW=w148-h148-n-k-no"
+            }
+        ],
+        "Ar Rass": [],
+        "Abha": [
+            {
+                "title": "Fatima Museum of home decoration and women's clothes",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtkjAidBImt8ZJgrP4OxHsvJ1nKV_ikDUwFq-h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abha Airport Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYIUJkJSDYdxKZSywPhy1G8QyDVy4Ig9pot8jR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abu Kheyal Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Y-53Obv-Y2pvFfE8jrIZ21_qVbjsYlAYx_dP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Andalus Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3Jgx5kmubX3-AlIOeUby3-wLS0FliM6EFU-10=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Muftaha",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJl363U4BbycQ9ijCuTdp-jHEL55D3aZ6K6xi3=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Art Street",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSrlWCmgXb1pTv582PynJy9wa_IOENwVhbBH01=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abha Dam",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOZ6VdTaEo24Lf_BuX6MKlmQYwKcBDEJfO5Z3C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Raqdi Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOx4kUQOtgziyzKildn4UeKLmuIl2xD71LZbhdE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Mountain",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs4O6vuGtLasByl9mXU2xoTDb3IIV5GW-5k0pG=w148-h148-n-k-no"
+            },
+            {
+                "title": "منتزه مطار أبها",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNURzZmvh9LTeg2TjW-M275Ncjx1maROcHKb9-z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shada Archaeological Palace",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtgACCqeXPMz4W8dipyMLptDFB0-Ci3_bs2pLO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asir Régional Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO7I05xrYTHXcrAjrkOsz1rpNXB5y8b9tWY6nU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abha Al Jadidah",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNN-QLL8S_1DglmINyr9_wcgeEJmhA7rCYx7UQ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shamsan Historical Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoAaUFmPg94haOzT5XVQ5FlhfsAAWoESb5s0WF=w148-h148-n-k-no"
+            },
+            {
+                "title": "حديقة السلام",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLbsrVotXPHhLkz_hUR6cjgp8vFyARIzIEViRq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Damside Park",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMO_ybloWna156J1DGusq2m_xwck_HcYt88lQM=w148-h148-n-k-no"
+            }
+        ],
+        "Al Bahah": [
+            {
+                "title": "Jabal Shada",
+                "category": "Wildlife Refuge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyGCodUyH0Lz-5a5r4tiVJMrKjY7L2GXTRYRxR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thee Ain( Zee Ain or Dhee Ain) Ancient Village",
+                "category": "Historical place",
+                "url": "https://scth.gov.sa/Pages/default.aspx#2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqgcW6nOak2O8bcjb0ynNdMBiHEPiflFn0WhqN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Khulb Park and Restaurant",
+                "category": "Holiday park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNH5vBRDGszJhyWJ7h1Rn4e2yYM0ut0nQYbBSy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Raghadan Forest Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIn1aGj3ouY7dnvSdUdPznyRotnn3p8C_zhj7z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khairah Forest Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIgBTLrghjrjNCj8XetnGIyHWq9q8pf_RR6JRh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prince Hussam Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL6rJ-rRRFJRpylYEo0fa9qDgF4RzLwXRO3u2C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zaithun(Olive) Farm",
+                "category": "Tourist attraction",
+                "url": "https://linkfly.to/40312dY4PZy?utm_source=qr",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaIZHiLqoSo9IhOt8Pq5KThoiKKLnTflI9KKf0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baljurashi National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCKBoJEelslltNnOyJ10nD2iSbKNsT0ncDeqaY=w148-h148-n-k-no"
+            }
+        ],
+        "Khamis Mushait": [
+            {
+                "title": "Shamsan Historical Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoAaUFmPg94haOzT5XVQ5FlhfsAAWoESb5s0WF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rijal Almaa Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXUiTKkiv_7gPtW-jhGZAq7eibr_kH_a34iySU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Habala",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIp7tovNbmrkCFj45YRrSHs-S93V3-slnUX66R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aseer National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPU8i3CYP-meLtTOUySrOW-t-BMeuvndjClQFB8=w148-h148-n-k-no"
+            }
+        ],
+        "Yanbu": [
+            {
+                "title": "Dana Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.kinan.com.sa/?q=en/node/81",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8-zMdjhHxbBamWDiEfxq9OFRRc_3974ce6thb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Commission Beach Yanbu",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrQupPTlg2EI-OlO2fWXnQlapfCfkPwMaG9nRa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Waterfront Industrial Yanbu",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqJETqDwBDf0iGfEuru9o8l_Hp0Kf86CUqWwnn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lawrence of Arabia's House",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2yfiuFp_Imq8KnuUQ2zHhnIZ4yMP5e_epTrzp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanbu Lake Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5iOM1Xh7orfxHFh3yQMSN_0-mUsv0ZX9Pxz39=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Nawras Island",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsnTx68nXIVRe2txu8VkVFj356CzXChWZ1wAMZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prime Shot Billiard",
+                "category": "Pool billard club",
+                "url": "https://instagram.com/prime.shot.sa?igshid=YmMyMTA2M2Y=",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLtDJCF3_5yDKlbWU03ERiNn7xqNbK-Wl71Q4V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanbu Flower Festival",
+                "category": "Garden",
+                "url": "https://yanbuflowerfestival.com.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsdF1AZ-VVch4YhVzqqg_99nDfTEPI2UvCoYL4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dolphin Diver",
+                "category": "Diving Centre",
+                "url": "https://salla.sa/dolphindiver.com",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpBB_Ogu_KnVnlxj9ic9h9QsDr8SqlVMqWWgjt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanbu Lake",
+                "category": "Pond",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj5h2Riym0bcQ9n3pEL9BRDdtQ6Gy_5OKexKRc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Fairouz Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKjBLMCv2vL5yqPW7f6kYIaSMu5MroVfZHQ0k7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yanbu Historic Area",
+                "category": "Museum",
+                "url": "https://digitalmenu.applova.io/webstore/BIZ_4ig273uw775/menu?session=1634415315240",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbHCTwJz8ehA6vRj36zf9E412AHKEXzW0LNTHf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Water Front Beach Swimming area",
+                "category": "Swimming lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIkRQLnXS0k7ykiKlthq0TT4F1YJOoGHyavSyg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alsubh Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKp8m2p8qqdKdlmzpttXiUvqSmXXqcUHWdU0dY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Waterfront Beach Royal Commission Yanbu",
+                "category": "Swimming lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4FsUCglT0k0io4JC6oP7wZ4Nnqn28SfGyQ9A_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Celebration Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9f5HypSYxRZFs9cChTGZF1uFwh4q8x5imtwBg=w148-h148-n-k-no"
+            }
+        ],
+        "Al Mithnab": [],
+        "Mecca": [
+            {
+                "title": "Zamzam Well",
+                "category": "Drinking-Water Fountain",
+                "url": "http://www.gph.gov.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-ZaWfEXXsn1TUhvz2gOVJ5MTPBgP_ioX_GgGY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid al-Haram",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmHV_TtUFAAEDMySz1xthaGvYszyZXpiOPiMRg=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Clock Towers",
+                "category": "Hotel",
+                "url": "https://theclocktowers.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUdU74puHkBltp7WIVdmTzaJDRB3Qplkqn9r3Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaaba",
+                "category": "Pilgrimage place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMANJA4ubuoFwBonSiUp8JxI0KSzq7i3lzND-eP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hira Cave, Jabal Al-Nour",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPm2TN1emT-ICMgUH145WcK_hmUKw6yRuTuPf2f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hira Cultural District",
+                "category": "Tourist attraction",
+                "url": "https://heritagesites.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCf6h7K3DDGvv4kFwB4-vOa7Ofef2l9-tOkKpY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thour Cave",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRWqDOsEOi6xmHndpTpuozB5R5liUK68vpE4zz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Makkah Clock Royal Tower A Fairmont Hotel",
+                "category": "Hotel",
+                "url": "https://www.fairmont.com/makkah/?goto=fiche_hotel&code_hotel=A5F2&merchantid=seo-maps-SA-A5F2&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+                "img": "https://lh3.googleusercontent.com/proxy/Lx4x06dBOI8Iq3qaF1S6YT07RFTL0LsneTX2W_blXLuO1ykCb9NSZQJV_vzQvrHofBtsRaY194pVRmEtoSyw4Aar2xkWuchzRxo7VFsLelCP1z5qoRR-3WDdVEYYppmQPS8Z8kjWx9PzMPPG-tKY5TBAA1AVBA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Aisha “Umm al-Mumineen”(Masjid Al-Taneem)",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlObPjQWvTFaAZnkiukGCjBSrSxTET_azXRI24=w148-h148-n-k-no"
+            },
+            {
+                "title": "Exhibition Of The Two Holy Mosques Architecture",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvX7EWAVHWlCc-Xej7nqsg_Fvgf_zVP8RM8NUx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clock Tower Museum",
+                "category": "Technology museum",
+                "url": "https://twitter.com/ClockTowerMuse?s=09",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPUx4RNLnJl6wRuNSyWe_2mRXEX0nrFAuGMxTO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maqaam-e-ibrahim",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0eMNDkL0CkGh00n0k2QmAIetobbsSfj6JLkVt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosque of the Jinn",
+                "category": "Mosque",
+                "url": "https://heritage.moc.gov.sa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO90S3V6-iWVhk8Q3M_TkC_VfiL3KvOMFo60jA8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Al Khaif",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOohXXmCHLERYt1t0RzG-Fzo7KAwYxJgYof-TJR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Muallaa Cemetery",
+                "category": "Cemetery",
+                "url": "https://www.holymakkah.gov.sa/Static/Pages/deathqueery.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSuw40FagZvDRat8QPoifn8e100O4lttphAX9E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamaraat Bridge",
+                "category": "Pedestrian bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCaYkWtwsXKnuMDo7Z4-4MuJV34ZEfwAG5hzRO=w148-h148-n-k-no"
+            }
+        ],
+        "Tārūt": []
+    },
+    "sights": [
+        {
+            "title": "Al Masjid an Nabawi",
+            "category": "Mosque",
+            "url": "https://wmn.gov.sa/public/?page=Home",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOD07SZKoLJxidpayoSdpnM40TPEIqaTehfms8k=w148-h148-n-k-no"
+        },
+        {
+            "title": "Masjid al-Haram",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNmHV_TtUFAAEDMySz1xthaGvYszyZXpiOPiMRg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Masjid Quba",
+            "category": "Mosque",
+            "url": "https://www.moia.gov.sa/Pages/default.aspx",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOFlICcEcX1htERgcZk7YoO0LoFu9vFUblIj46o=w148-h148-n-k-no"
+        },
+        {
+            "title": "The National Museum",
+            "category": "Museum",
+            "url": "https://x.com/saudimuseum?s=21&t=cmwh9l4azqBAJbcwycwusw",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOqH8BgQ8r7sf4pia5jgJOiA-8tzr14Ri9zYy6J=w148-h148-n-k-no"
+        },
+        {
+            "title": "Red Sea Mall",
+            "category": "Shopping Centre",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOmzdQlMB9qYvJ_StAnW2JnzRrBxzWTLvZh3a53=w148-h148-n-k-no"
+        },
+        {
+            "title": "King Fahad's Fountain",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMZi0_1KScOjK4lrwDEAUZtvBWl0Y18ZGhpinyi=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Taybat International City Museum of Science and Information",
+            "category": "Museum",
+            "url": "https://www.musaksa.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN1BtoS025r3xygI07nKhJeiUW15W_aOSZPEWe1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Qaisariya Al-Ahsa Souq",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMaDUFjCxRGfnhn0Rilws89bJfzJxLdHGV4vM6E=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dar Al Madinah Museum",
+            "category": "History museum",
+            "url": "https://twitter.com/Daralmadinahmus",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOzF3i-3N1jxrlIyAdELCQ2TCLXCQelXjDT6eqt=w148-h148-n-k-no"
+        },
+        {
+            "title": "King Abdullah Park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipORjZmGMtSVmm948x-0fT-pFXx6Cy7fGMdKeFeY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Rahmah Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPtEQ4gP5xtnnMB_hlvuOwRdg4GypPiFY2avuNr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Riyadh Zoo",
+            "category": "Animal park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMMCTvqjDaJ6wYXgVUW7h60WlhIhVsc31sIyfL-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Faisaliah Tower",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMvXndxTF6J8JO3xXxWZ9Bi0fTzyWbleHhe2cc3=w148-h148-n-k-no"
+        },
+        {
+            "title": "متحف السكة الحديد",
+            "category": "Museum",
+            "url": "https://heritage.moc.gov.sa/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOeufOtb1LpInRgYDnaXz6MOM599w3xFRUEaWsA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Uhud Mountain",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNgYdgAvfGAdpwH8RTVbr6-Tb5PBmYT1LKGNROq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fakieh Aquarium",
+            "category": "Aquarium",
+            "url": "http://www.fakiehaquarium.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNzc6POBmb35_PTKaZ4ikwm_-ladLBLvcNQLUg_=w148-h148-n-k-no"
+        }
+    ]
+}

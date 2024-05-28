@@ -1,0 +1,676 @@
+{
+    "cities": {
+        "Šiauliai": [
+            {
+                "title": "Cat Museum",
+                "category": "Museum",
+                "url": "https://gamtininkucentras.lt/katinu-muziejus/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPi3E7D-OZR7FYo9Y_DwIKzPpym3fW_WymJKv-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Healas",
+                "category": "Amusement Centre",
+                "url": "https://healas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAj-Fz_dBNvvCNkDxy6EOQp66--1bQBPUZYDqP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Photography",
+                "category": "Museum",
+                "url": "http://www.fotomuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqt3KKDscNjrfXgOJIN2oknjpyGZ6f-c0P4boR=w148-h148-n-k-no"
+            },
+            {
+                "title": "“Rūtos” šokolado muziejus",
+                "category": "Museum",
+                "url": "http://www.sokoladomuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDKfRvcg_98Blsnuezs7Oh_od3Sb6a65z5AGI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vilniaus universitetas, Šiaulių akademija",
+                "category": "University",
+                "url": "http://www.su.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuUttE7PS8yEY68-4Jy0DlHBbwGvVT232Y7XD5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sundial Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOCNoucLil4TdxUdgabNotW0XO-btF23uv5KIa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Siauliu Ausros muziejus",
+                "category": "Museum",
+                "url": "http://www.ausrosmuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtFGfzJYpU_KAUfC4akoZxdmP2lHOrQuqhXhY2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Telefonijos muziejus",
+                "category": "Museum",
+                "url": "https://www.telephony.museum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMI26sIAqkVwU7zltl9_cVmyJB5O_Le8KxC9rVP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zaliukiu vejo malunas, Siauliu Ausros muziejus",
+                "category": "Museum",
+                "url": "https://www.ausrosmuziejus.lt/zaliukiu-malunininko-muziejus/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2ZnuqE1GzSqpW7NotbP9KvhaxLr0YFkyaGaxI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Venclauskių home-museum",
+                "category": "Museum",
+                "url": "https://www.ausrosmuziejus.lt/venclauskiu-namai/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3_Vu04dI5nzGpKjpc5Mno8iWw0di6G4Gy7iAV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hill of Crosses",
+                "category": "Religious destination",
+                "url": "https://kryziukalnas.lt/?id=44",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRBd6vXLAgUfOThcMsD4k-WU48piBGSKVPvGDw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valstybinis Šiaulių dramos teatras",
+                "category": "Performing arts theatre",
+                "url": "http://www.vsdt.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvqqrKHsyUhNH3BWtcd3N9R9iZD8dXnxqxUnho=w148-h148-n-k-no"
+            },
+            {
+                "title": "Forum Cinemas Šiauliai",
+                "category": "Cinema",
+                "url": "https://www.forumcinemas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOulOIJez5zAlzL44Kzby17qlOiN_Lk-9-R_ZV9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanical Garden",
+                "category": "Botanical garden",
+                "url": "http://www.sa.vu.lt/bs",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7g6TRFCX9PTDSH49peTyIne8YCvR4GMeuj8gp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rėkyva Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3o0_aEfgDmgtOoMpHjRL-VZC3jrJVUhzFm1Th=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mega afterparty bar",
+                "category": "Nightclub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBPMnr7T1iSQF523wxKvwbszpsRAY5Rn79GKOC=w148-h148-n-k-no"
+            }
+        ],
+        "Vilnius": [
+            {
+                "title": "Gediminas Castle Tower",
+                "category": "History museum",
+                "url": "http://lnm.lt/muziejai/gedimino-pilies-bokstas/",
+                "img": "https://lh5.googleusercontent.com/proxy/pbmvpQX5uwI_jMPHJKsYVANDmTcIXJc5obBf6Dz0zfPeIzTOTH7oaKKwbEREWg-03wWfHxPxDQpol5len2ZhzDNGHhk4cNosV-smWjPAvdcdBc0BiMvZS-UJEboHKxA7m_YAVfLye1SKtWqCL_IGx-X9DNgU6tE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gate of Dawn",
+                "category": "Pilgrimage place",
+                "url": "http://www.ausrosvartai.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMW_WujWPEJ3-rhcRGC-x4FStBhZ0TSKEebC4lA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Three Crosses Monument",
+                "category": "Historical landmark",
+                "url": "http://www.vilniauspilys.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-KIoc7tNMg6Qu2RQUHiPEcKtEP2v7kM7fpdEc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vilnius Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://www.katedra.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-4YcRUns_m_VvXrOf1i2DpzjVQefjT7MgO8dq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Occupations and Freedom Fights",
+                "category": "National museum",
+                "url": "http://genocid.lt/muziejus/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY9CygtR2-l6XJNlUbBCEdq0OmmS7tTtVdZW7O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lukiškių kalėjimas 2.0",
+                "category": "Historical landmark",
+                "url": "https://www.lukiskiukalejimas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcrZFUwVEO9pmJF2O2JpFgtSylTeJB-9kjaxnc=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Anne's Church",
+                "category": "Catholic church",
+                "url": "https://vilniausonosbaznycia.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlkaiCBFSTBdwmF8l2yZ-3ftoq8m3YIYQ4uA4j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vilnius Museum of Illusions",
+                "category": "Museum",
+                "url": "http://vilnil.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhdISKOruzqTFAcHnzuGGvx-852vyckIs52zD3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Sts. Peter and Paul",
+                "category": "Catholic church",
+                "url": "https://www.vilniauspetropovilo.lt/",
+                "img": "https://lh4.googleusercontent.com/proxy/NlgtPLqc4dZ0mYUTtqtFW_enI8bpXmNSXUo80ay9DoRsLICqxq__gASnIQdK6H-WBapSgofwfMkdCxsDeTNlHzLwoHv57bHcg2UiTxyb8A6JlDT0oEz5wMeoIZSWAUPVNtNymByH2mBmwvMKIpA1r9qIyWFGmI8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Constitution of the Republic of Užupis",
+                "category": "Tourist attraction",
+                "url": "https://www.uzupiorespublika.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtAnSHxK5pB0BzUakWB_eMwDM1iSq-87rUiQVq=w148-h148-n-k-no"
+            },
+            {
+                "title": "MO Museum",
+                "category": "Modern art museum",
+                "url": "http://www.mo.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv4xIoVuUM8tD6wx_GoqvClwpl3HP-DWSNIaw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of the Grand Dukes of Lithuania",
+                "category": "History museum",
+                "url": "http://www.valdovurumai.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLmWYZgr1JYSlkwCTekSVr-UsKJOjZTD_uAp3-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8z2xm9iBKosTyFjgxc5f7y8oGBrOFgZQBZwBu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Orthodox Church of the Holy Spirit, Vilnius",
+                "category": "Russian Orthodox church",
+                "url": "http://www.orthodoxy.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwtqb3TA04qDZGHcQO6ZmQHxFn6G9auyQucNFr=w148-h148-n-k-no"
+            },
+            {
+                "title": "The New Arsenal of National Museum of Lithuania",
+                "category": "Museum",
+                "url": "http://lnm.lt/muziejai/naujasis-arsenalas/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkVPQ-4FNkDUwa1PSMnvw2wA6BqzmdYCEi87c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bastion of the Vilnius Defensive Wall",
+                "category": "Museum",
+                "url": "http://lnm.lt/muziejai/vilniaus-gynybines-sienos-basteja/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNM3KQhQ55DGxh4AZ5nwYchGYLwwMPzNqsJjVUD=w148-h148-n-k-no"
+            }
+        ],
+        "Kaunas": [
+            {
+                "title": "Akropolis",
+                "category": "Shopping Centre",
+                "url": "http://akropolis.lt/lt/kaunas",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXbQbKgAw5DeohyA1glEjjFr-o9PFAK1LHrRf0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Žalgirio arena",
+                "category": "Arena",
+                "url": "http://zalgirioarena.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxft9stnZsf-yCgegRkDXe4uJsZmdzGoAGBzDc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaunas Castle",
+                "category": "Castle",
+                "url": "https://kaunomuziejus.lt/pilies_skyrius/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdbaCC5KIp6LXsFoFFzkTzAFMTZXqO6l5Kxrus=w148-h148-n-k-no"
+            },
+            {
+                "title": "9th Fort of the Kaunas Fortress",
+                "category": "Museum",
+                "url": "http://www.9fortomuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8pzuQEhcn2meDDvzTxX4m5DUEBmMIp-4JA7UL=w148-h148-n-k-no"
+            },
+            {
+                "title": "M.K. Čiurlionis Museum of Art",
+                "category": "Art museum",
+                "url": "http://www.ciurlionis.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKrrgw3nyEqKDy2Jk9y7PjtIySJT14EiMWPth7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Devils' Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3W4XaQyfDbJ4ASuhyO2zM0yojGnOrfVlYEO96=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral-Basilica of St. Peter and St. Paul",
+                "category": "Catholic cathedral",
+                "url": "https://www.kaunoarkikatedra.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUMlHiaPUZQ2EfaOxUXoP5HfdI70d747nw1Lav=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pažaislis Monastery and Church",
+                "category": "Monastery",
+                "url": "http://www.pazaislis.org/",
+                "img": "https://lh6.googleusercontent.com/proxy/457Eo5PjHndeaHQklIWcEE-cpgxNRkwaeCHV7QjbZVAKoqj2FrNdXSAYOvjx5SbJH4933UrZM1CogwBB0gQymzHlCpB9MycorZgt6RBRLGhcQEuidRr97q-iUHcJAhE62zwX3Yo_pYucUI4y8SdJvyWZsa3UIqw=w148-h148-n-k-no"
+            },
+            {
+                "title": "KGB Atomic Bunker Museum",
+                "category": "Museum",
+                "url": "http://www.atominisbunkeris.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8IAXZcSA02MOpD3MI5b-oo7QosbcDWvorwi3a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gokart track „Kartlandas Kaunas“",
+                "category": "Go-Cart Track",
+                "url": "http://www.kartlandas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7UsCJhkWCPhI0zeCcCFEqRmSGCBTgoGLMFJlh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the History of Lithuanian Medicine and Pharmacy",
+                "category": "Museum",
+                "url": "https://lsmu.lt/apie-lsmu/apsilankyk-lsmu/lietuvos-medicinos-ir-farmacijos-istorijos-muziejus/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQRP-uXqrEAiVz7rYz-fYv91yFVguGNVdiXoUL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaunas Town Hall",
+                "category": "Town Hall",
+                "url": "http://www.kaunas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzTzaZw7uBiIMIhMaXeXlUIlsYpUL64NaMXNiL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaunas 9th Fort Museum",
+                "category": "Museum",
+                "url": "http://www.9fortomuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDtUn4YNHicjvXaaYUimMpr0M9_H0amB9vRJyH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yard Gallery",
+                "category": "Art gallery",
+                "url": "https://kaunas.kasvyksta.lt/2016/09/16/kultura/atidaryta-kiemo-galerija-pasakojanti-namo-istorija/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNId-dr_Ej3duzTMWaNTDjHtI8fnGR5pf_rY1xK=w148-h148-n-k-no"
+            },
+            {
+                "title": "BC Zalgiris Kaunas",
+                "category": "Basketball club",
+                "url": "http://www.zalgiris.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNH9YqSvJ1EMgYOCLI4fmmZOT5TQYTGShZ_vvDz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. Gertrude",
+                "category": "Catholic church",
+                "url": "http://gertrudosbaznycia.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWkT6kCmW-LgvTqprRt6cnUZq_K1ylo70AYXc6=w148-h148-n-k-no"
+            }
+        ],
+        "Klaipėda": [
+            {
+                "title": "Lithuanian Sea Museum",
+                "category": "Maritime museum",
+                "url": "http://muziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjb_Eeu5cnjWdRw3KXCSqhMyUPqKBuxnbeGdN8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akropolis Klaipėda",
+                "category": "Shopping Centre",
+                "url": "https://www.akropolis.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP32bdZOK4XK0-F8eO1eElsXdOlTAlUq59r1f3N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Švyturys Bhouse",
+                "category": "Gastropub",
+                "url": "https://www.svyturysbrewery.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwf5Yld8arV4nQEfR6OgorE8sx5wR1Op1Wiyc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meridian",
+                "category": "Restaurant",
+                "url": "http://www.restoranasmeridianas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNegEeQAfI5kazx47mxLKbbDHxIptPmwPB3lUdA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Clocks",
+                "category": "Museum",
+                "url": "http://www.ldm.lt/lm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQMB4zByOhSj3PtMwTR-phwbgf8HXyEBMMczQo=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Castle Museum",
+                "category": "Museum",
+                "url": "https://www.mlimuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2PpszoopjkczdbIbwv_G5Dm8tikpu_0nVfipB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Smiltynės Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP18FgsrdCBtKD26gLwp1tzc-1nYJiXx3nMISaU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Melnrage Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2LSsU0-Yru1hppU6Nj_TwYLf5bf5Zzo8E0Zx_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lietuvos jūrų muziejus ir delfinariumas",
+                "category": "Aquarium",
+                "url": "https://muziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1uyCnGSyN5rVC_Qh5tOct8BwKiYguDxXzSuad=w148-h148-n-k-no"
+            },
+            {
+                "title": "Klaipėda Sculpture Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJRtmI6XAAWsNM8DmPB_pVi3SqzY1FgaNgAXwa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Curonian Spit National Park",
+                "category": "National park",
+                "url": "http://www.nerija.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-05NxN8AV6V5lh9pSHui0Rj91dRIv3QYTv3z-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Klaipėda Castle",
+                "category": "Castle",
+                "url": "https://www.mlimuziejus.lt/lt/muziejus/pilies-muziejus/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgzx13d9wwsOO4xBZS0Vc8ku15Pbl0mWHWse9D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Black Ghost of Klaipėda",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOswCoCJ8eVdm1uatI5tlF-UCMlt_0eFt87tQMO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lithuania Minor History Museum",
+                "category": "Museum",
+                "url": "http://www.mlimuziejus.lt/en/information-for-visitors/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2XMuiEAcACTXqtO0-JCMlhdJFHma_qOM3g7Xw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the History of Lithuania Minor, Blacksmith Museum",
+                "category": "Museum",
+                "url": "https://www.mlimuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdCR_yCZM4HLBEuvKA32PImOI07tVnvUAn3Ke_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Klaipėda Drama Theatre",
+                "category": "Drama theater",
+                "url": "http://kdt.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVMAdS6xJLKtxX8BBZgCT4jFkkHi_f1StpPZiT=w148-h148-n-k-no"
+            }
+        ],
+        "Dainava (Kaunas)": [
+            {
+                "title": "6th Fort of the Kaunas Fortress",
+                "category": "Historical landmark",
+                "url": "http://www.vdkaromuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjYODW18iUrIpO3Fe7pqhmv_LnVcKcevR28PTB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vieškūnai mound (Šuneliškiai Hill)",
+                "category": "Tourist attraction",
+                "url": "http://www.piliakalniai.lt/piliakalnis.php?piliakalnis_id=159",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwOJawb7sx_DaZ7uQwd6pkAZvHKb8QMaHV3NxP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyplių mound",
+                "category": "Tourist attraction",
+                "url": "http://www.piliakalniai.lt/piliakalnis.php?piliakalnis_id=172",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4WvDGCB-kX9F9R83Mf7dJTbGYKXHiN27QXO7s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Upper Station of Žaliakalnis Funicular Railway",
+                "category": "Transportation service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEdYbkTSHqWx_OTi86k7MLzejcfZ_-49y2XDKr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaunas 9th Fort Museum",
+                "category": "Museum",
+                "url": "http://www.9fortomuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDtUn4YNHicjvXaaYUimMpr0M9_H0amB9vRJyH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaunas Priest Seminary",
+                "category": "University",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0Sf1FXIJY9FAqDOe8vwZmEgTn4Qhrv2LnSJW2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lithuanian Museum of Aviation",
+                "category": "History museum",
+                "url": "http://www.lam.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpuZJXpjJ6Ka8Qv7CWV8i1HNwExSsRRZ0P6a4h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaunas Lagoon Regional Park",
+                "category": "National park",
+                "url": "http://www.kaunomarios.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtjNoa11yM7FnX5oCegWDLND67HfQvtZzCJPCm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Raudondvaris",
+                "category": "Museum",
+                "url": "http://www.raudondvariodvaras.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-zVcwykZXAS3IkJkon4rcTbw_JOAXOwqnMn0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ's Resurrection Church",
+                "category": "Basilica",
+                "url": "http://www.prisikelimas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEaMB7vo_yTxqy1DqS0DZXII0NFqeVbuaHQfcA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Žalgirio arena",
+                "category": "Arena",
+                "url": "http://zalgirioarena.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxft9stnZsf-yCgegRkDXe4uJsZmdzGoAGBzDc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaunas State Musical Theater",
+                "category": "Performing arts theatre",
+                "url": "http://www.muzikinisteatras.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuk0LUvDLtjOwqT-pn3E6ciFrilY_D0VBnS_Jg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaunas Tadas Ivanauskas Museum of Zoology",
+                "category": "Museum of zoology",
+                "url": "http://www.zoomuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNC0kNG4CZT4jcIA4SmBlgl9Npp6Y1IBIyM4AFk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleksotas Observation Deck",
+                "category": "Observation deck",
+                "url": "http://renginiai.kasvyksta.lt/76/kaunas/aleksoto-apzvalgos-aikstele",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6MsgSl0pgISWWB7LUk8S1VJd4azkUki4xXiJo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Historical Presidential Palace, Kaunas",
+                "category": "Museum",
+                "url": "http://www.istorineprezidentura.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjai7Ge51Il4UcTC19uJC3Ds1j1QKhJSCNYHRi=w148-h148-n-k-no"
+            },
+            {
+                "title": "VDU Botanical garden",
+                "category": "Botanical garden",
+                "url": "https://botanika.vdu.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOl3Zixz2ZRKtFSx0fRKzXQuzebzCHTcGRcGln4=w148-h148-n-k-no"
+            }
+        ],
+        "Panevėžys": [
+            {
+                "title": "Babilonas",
+                "category": "Shopping Centre",
+                "url": "http://www.pcbabilonas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJtzbzabXjfMs5qpVawNJQVTRD6Tga_eqaUMZU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skaistakalnis Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqMka8NNI9Drv8xI7XLzccfzQqKATMZ5ovzR1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Senvagė",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcH8Gt9J9kxES5D9KKQdJ-LGadOwcg2j2QplLr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. Peter and St. Paul, Panevėžys",
+                "category": "Catholic church",
+                "url": "https://petropoviloparapija.lt/pamaldu-tvarka-svenciu-dienomis/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbnQlOVIxAYZLJ6ncsB27zRIJ-FUPa0FZWpLTq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalnapilio arena",
+                "category": "Events Venue",
+                "url": "https://www.facebook.com/profile.php?id=100086084349328",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwqpSaKr_L3PvCwJZaTwScFBiF39_qkHwUxxjY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panevezys Civic Art Gallery",
+                "category": "Art gallery",
+                "url": "http://arspanevezys.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRYs_PpBJbg-BNnKH4dbe0khZOY2wWcH85Vbbv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shopping and entertainment center \"Rožynas\"",
+                "category": "Shopping Centre",
+                "url": "http://www.rozynas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNxKKfG_EHJ58n1dA_uCM0kmjBJAO8R8fZj2nx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panevėžio kraštotyros muziejus",
+                "category": "Local history museum",
+                "url": "http://www.paneveziomuziejus.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMItcT_nffJWwDiM_lAVyQanpGenfgfgha2MEjH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panevėžys Cathedral",
+                "category": "Catholic cathedral",
+                "url": "https://paneveziokatedra.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFNO6nV2T_VdIEp9ARPy848Av5IARfYXDIYT5-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aukštaitija narrow gauge railway",
+                "category": "Tourist attraction",
+                "url": "http://www.siaurukas.eu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS_cKjYjbQ2Sr8WjQYggVzbGCodYDsoXgqBJWl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Culture Palace community center of Panevezys",
+                "category": "Cultural centre",
+                "url": "https://www.pankultura.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAL_s20fXjZUp67y3xesfZw-j9PiFWdTQVkITw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juozo Miltinio dramos teatras",
+                "category": "Performing arts theatre",
+                "url": "https://www.miltinioteatras.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOh2e3avGG31ZXNTE0YmY2ZFUmg7eLwpZITyHbt=w148-h148-n-k-no"
+            },
+            {
+                "title": "PANEVĖŽIO ŠVČ. Trinity Church",
+                "category": "Catholic church",
+                "url": "https://www.paneveziovyskupija.lt/parapijos/panevezio-svc-trejybes-rektoratas/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfRGbCw2GZilNMgSfhofRrVCHYwFhEnZDlbfvI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kirkilai Lakes and Observation Tower",
+                "category": "Tourist attraction",
+                "url": "https://www.visitbirzai.lt/kirkilai-tower/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOjSrr1GoalGTJUdCgGpm2L8c1rH__MHUsOxJy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flax museum - Mill | Linų muziejus",
+                "category": "Museum",
+                "url": "https://www.pamatyklietuvoje.lt/details/linu-muziejus-stultiskiu-vejo-malunas/881",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0DVZF4Oe4Jfcv8yyrSljY9Xs8HzvzdlQ6TbFl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menas, Panevezio teatras",
+                "category": "Theater production",
+                "url": "http://www.teatrasmenas.lt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpTeL9zAEWUUNWuXW1bs0Dy9Hn6h_3KL1rTUvI=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Trakai Island Castle",
+            "category": "Castle",
+            "url": "https://trakaimuziejus.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNy9SV5eNttitKwtOVzyJCiEx99q91pXgHGKPx6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gediminas Castle Tower",
+            "category": "History museum",
+            "url": "http://lnm.lt/muziejai/gedimino-pilies-bokstas/",
+            "img": "https://lh5.googleusercontent.com/proxy/pbmvpQX5uwI_jMPHJKsYVANDmTcIXJc5obBf6Dz0zfPeIzTOTH7oaKKwbEREWg-03wWfHxPxDQpol5len2ZhzDNGHhk4cNosV-smWjPAvdcdBc0BiMvZS-UJEboHKxA7m_YAVfLye1SKtWqCL_IGx-X9DNgU6tE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lithuanian Sea Museum",
+            "category": "Maritime museum",
+            "url": "http://muziejus.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOjb_Eeu5cnjWdRw3KXCSqhMyUPqKBuxnbeGdN8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Curonian Spit National Park",
+            "category": "National park",
+            "url": "http://www.nerija.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP-05NxN8AV6V5lh9pSHui0Rj91dRIv3QYTv3z-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Palace of the Grand Dukes of Lithuania",
+            "category": "History museum",
+            "url": "http://www.valdovurumai.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNLmWYZgr1JYSlkwCTekSVr-UsKJOjZTD_uAp3-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museum of Occupations and Freedom Fights",
+            "category": "National museum",
+            "url": "http://genocid.lt/muziejus/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMY9CygtR2-l6XJNlUbBCEdq0OmmS7tTtVdZW7O=w148-h148-n-k-no"
+        },
+        {
+            "title": "Vilnius TV Tower",
+            "category": "Tourist attraction",
+            "url": "https://tvbokstas.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMU-Ql5rHvn10KV_OPcq5MX-4OVn5m5nUvY9P2S=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hill of Crosses",
+            "category": "Religious destination",
+            "url": "https://kryziukalnas.lt/?id=44",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMRBd6vXLAgUfOThcMsD4k-WU48piBGSKVPvGDw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pažaislis Monastery and Church",
+            "category": "Monastery",
+            "url": "http://www.pazaislis.org/",
+            "img": "https://lh6.googleusercontent.com/proxy/457Eo5PjHndeaHQklIWcEE-cpgxNRkwaeCHV7QjbZVAKoqj2FrNdXSAYOvjx5SbJH4933UrZM1CogwBB0gQymzHlCpB9MycorZgt6RBRLGhcQEuidRr97q-iUHcJAhE62zwX3Yo_pYucUI4y8SdJvyWZsa3UIqw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gate of Dawn",
+            "category": "Pilgrimage place",
+            "url": "http://www.ausrosvartai.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMW_WujWPEJ3-rhcRGC-x4FStBhZ0TSKEebC4lA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hill of Witches",
+            "category": "Theme park",
+            "url": "http://www.raganukalnas.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMT-Ex5fegg6XLyrkkV8ZUei1bbhFvoK0LZA6Fg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Grūto Parkas",
+            "category": "Park and Garden",
+            "url": "http://www.grutoparkas.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO5cidW9_koslaIupHRFHgveDd0P040JmRo5jBF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Devils' Museum",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN3W4XaQyfDbJ4ASuhyO2zM0yojGnOrfVlYEO96=w148-h148-n-k-no"
+        },
+        {
+            "title": "LLB Museum",
+            "category": "Museum",
+            "url": "http://www.llbm.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPrRkqumND0Cq-K6BltR3SYe72n7ZBMRUqfkaNH=w148-h148-n-k-no"
+        },
+        {
+            "title": "9th Fort of the Kaunas Fortress",
+            "category": "Museum",
+            "url": "http://www.9fortomuziejus.lt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP8pzuQEhcn2meDDvzTxX4m5DUEBmMIp-4JA7UL=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. Anne's Church",
+            "category": "Catholic church",
+            "url": "https://vilniausonosbaznycia.net/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMlkaiCBFSTBdwmF8l2yZ-3ftoq8m3YIYQ4uA4j=w148-h148-n-k-no"
+        }
+    ]
+}

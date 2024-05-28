@@ -1,0 +1,187 @@
+{
+    "cities": {
+        "Kaédi": [],
+        "Zouérat": [],
+        "Nouadhibou": [
+            {
+                "title": "Auberge Sahara",
+                "category": "Hotel",
+                "url": "https://aubergesaharandb.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFyQ1aWrOAKJ-we7_c49HSeOaWFfFxHa5F9ex9=w148-h148-n-k-no"
+            },
+            {
+                "title": "HOtel Tasiast",
+                "category": "Extended stay hotel",
+                "url": "http://www.hoteltasiast.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwgeuI1mHJZHHYochRHzmq0rREwzU-aZ9fc_5S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apparts Hotel Esma",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPW_u7R5WoR3G0EM0ZlsAUzG_g-F1F738rE4SjM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hôtel Sahel",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/73HF12Y09eZIQQu_uYkilarYCU3IhMjzMWVilOPsXlsWnxLhMDWVnRa0Ds8dg2H7U2JOW0hLzoKYmf68I_xytL0aMkZr6EV8Ax4HubKbc3kk8Bba5QtXsIuuwKd2v3f7ZPFdSvlU7eSzJvhngwz6npoODhbxIMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arguin",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbVBdZWah9IeZSHu4r9fuBwS7KAF-sPf9cjpdf=w148-h148-n-k-no"
+            }
+        ],
+        "Mbera": [],
+        "Nouakchott": [
+            {
+                "title": "Galerie Zeinart",
+                "category": "Art gallery",
+                "url": "http://www.zeinart.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBDhU4_WGVsVF2OZGXRwVlZEaj7Nwc-CYMalqE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosque Ould Abas",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ruRZ-BciZbij-ME050sXungJtQzeg8y8Jw9w=w148-h148-n-k-no"
+            },
+            {
+                "title": "MARCHE TURC",
+                "category": "Clothing Shop",
+                "url": "http://www.facebook.com/MarcheTurc",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOzaoH9ocuqav0eskAepqNHqEuUEnM8g3h-dEf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marche Capitale",
+                "category": "Shopping Centre",
+                "url": "https://shopping-center-28719.business.site/?utm_source=gmb&utm_medium=referral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrZjEb-ICQTOzBrWnY965okuX3DLroiwyQkLVg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parc National du Diawling",
+                "category": "National park",
+                "url": "http://www.pnd.mr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt0KtRKryDEnnmyJP2VsmCTtnIFzLh4olUycXM=w148-h148-n-k-no"
+            }
+        ],
+        "Dar Naim": [
+            {
+                "title": "Parc National du Diawling",
+                "category": "National park",
+                "url": "http://www.pnd.mr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt0KtRKryDEnnmyJP2VsmCTtnIFzLh4olUycXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosque Ould Abas",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6ruRZ-BciZbij-ME050sXungJtQzeg8y8Jw9w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galerie Zeinart",
+                "category": "Art gallery",
+                "url": "http://www.zeinart.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBDhU4_WGVsVF2OZGXRwVlZEaj7Nwc-CYMalqE=w148-h148-n-k-no"
+            },
+            {
+                "title": "MARCHE TURC",
+                "category": "Clothing Shop",
+                "url": "http://www.facebook.com/MarcheTurc",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOzaoH9ocuqav0eskAepqNHqEuUEnM8g3h-dEf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marche Capitale",
+                "category": "Shopping Centre",
+                "url": "https://shopping-center-28719.business.site/?utm_source=gmb&utm_medium=referral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrZjEb-ICQTOzBrWnY965okuX3DLroiwyQkLVg=w148-h148-n-k-no"
+            }
+        ],
+        "Néma": [],
+        "Kiffa": []
+    },
+    "sights": [
+        {
+            "title": "Richat Structure",
+            "category": "Tourist attraction",
+            "url": "https://earthobservatory.nasa.gov/images/92071/richat-structure",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMVyY07m-vFl-MG7anvILZ2ahyZmJXMqacx0rL9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chinguetti Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMplU_s_gZmQeoj-bDlkZdER88kUpHsYrQjVmFT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ben Amera",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipObu-cBVPq3NxBroomh_5zA1LB82gZv0AIwbNNe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Terjit",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN9yfTbHPi1IC7jAoCtvhVIELh2o_YW9-VpibU_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Arguin",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPbVBdZWah9IeZSHu4r9fuBwS7KAF-sPf9cjpdf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Galerie Zeinart",
+            "category": "Art gallery",
+            "url": "http://www.zeinart.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNBDhU4_WGVsVF2OZGXRwVlZEaj7Nwc-CYMalqE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Marche Capitale",
+            "category": "Shopping Centre",
+            "url": "https://shopping-center-28719.business.site/?utm_source=gmb&utm_medium=referral",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMrZjEb-ICQTOzBrWnY965okuX3DLroiwyQkLVg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tichit",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPAziA_-2aUKwmyDQHpxWeDRtdhfuMUgi5eKuaM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Adrar Plateau",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPUjqJKNC378Vzf2vHDacaXU-M5TaeEsY_JmJdd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mosque Ould Abas",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO6ruRZ-BciZbij-ME050sXungJtQzeg8y8Jw9w=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parc National du Diawling",
+            "category": "National park",
+            "url": "http://www.pnd.mr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOt0KtRKryDEnnmyJP2VsmCTtnIFzLh4olUycXM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nouadhibou",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPoATPzBVPHpUhSN2Dt8dh_thFKtMe-cYuUnH5a=w148-h148-n-k-no"
+        },
+        {
+            "title": "Atar",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPtYNNFKJD65TPLT4Ezp00q21P8ceu9uQvL4hya=w148-h148-n-k-no"
+        },
+        {
+            "title": "MARCHE TURC",
+            "category": "Clothing Shop",
+            "url": "http://www.facebook.com/MarcheTurc",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNOzaoH9ocuqav0eskAepqNHqEuUEnM8g3h-dEf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ouadane",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMh3Vsw8E6JfgS6LUPTY7Fp9DWipaAemmWqh10Z=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tidjikja",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMKSG8wnIstqJNzV9QOHVyGfQGEh1bECt1utm__=w148-h148-n-k-no"
+        }
+    ]
+}

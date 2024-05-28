@@ -1,0 +1,175 @@
+{
+    "cities": {
+        "Cayenne": [
+            {
+                "title": "Cocosoda",
+                "category": "Bar",
+                "url": "https://www.facebook.com/cocosodabar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFu7gPq5uIgaNGj9ug-UK9FU5Tmn_Yfi-zEd50=w148-h148-n-k-no"
+            },
+            {
+                "title": "Place des Amandiers",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNp8yFdfe8aQXbwyhxo9ncACYA_8HxZkAuClTiO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gadepam",
+                "category": "Handicraft",
+                "url": "http://www.gadepam.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfC2FJ0h6Rh7kKSZNpO-xGzFkGC1Nxj7pM6fj6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée Des Cultures Guyanaises",
+                "category": "Museum",
+                "url": "https://www.guyane-amazonie.fr/activites-de-loisirs/ASCCTG973V50006B/detail/cayenne/musee-des-cultures-guyanaises",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZCQ2oartLPf-f8jS_xgcA6I1O-skuVXh10LfA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musée Alexandre-Franconie",
+                "category": "Museum",
+                "url": "http://musee.ctguyane.fr/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNezR3wVqAnbGhTriXPIwg2FemfnT-Swnr6aib=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fontaine de Montravel",
+                "category": "Fountain",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMch0HjdbRoLi27CiwlMyF1G8MOMriCxyi2GNr4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amazscape",
+                "category": "Escape room centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNr47Jg7oaCnGFk1aFLEbUMyyR6ZpEwAbKdfj1N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Island Chapel",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNqlXXsKHwe_78UDyx4T4FVVJ9dZdJo6Gve_T7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Phare de Fort Cépérou",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYtrU-3HwBL9Qx5jBo8962HrgcCseB6K3dsNHI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cayenne River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpEKjRQzkwE97GwRrjojrqF0oL5k19v1GgMO0w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathédrale Saint-Sauveur",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWQ-YhGZ3m5TY-7tJ0iFLlpcpltWCBFuY5p11n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel des Palmistes",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/proxy/cn52idGJOVEs1dYSV0NTVRgLvwy2k-ZgVGqsHw3yyV0CR6sdbJLpM4kzY1LWlzeiFqz0NK7I6eNvV-tMiOYg0Z8kwh0sSQImayrkDX6HnIxGuOmZr3f0pvoFvvsSzlQ2mUgcrj9m5Kgm9IC1hs8aCRkpu2rmIw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Remire-Montjoly",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1VCkpj3zb7Wpuxq7K_nTbrtZQKNwhfuiKOLbT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Devil's Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk9OngCtiqNe9V-rqahCAi4XAM6dtny2PgKfF-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bar des Palmistes",
+                "category": "French restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBSF20gRLLikrP8dadEvmemsFgQCEXucUxzePS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salvation's Islands",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFalQF39njtgOx_Ztepn2epAYvn76h6Phqg4jO=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Guiana Space Centre",
+            "category": "Aerospace company",
+            "url": "https://centrespatialguyanais.cnes.fr/fr",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMWxX2Aje9zjUMdUVeTDJfkcIPkhJmTu6PE4wF4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Zoo de Guyane",
+            "category": "Zoo",
+            "url": "http://www.zoodeguyane.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOBlDeHkKY87yIl0vzfRlsXy6O-PLoSwFqTQHnB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Monkey Mountain trail",
+            "category": "Hiking area",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMpP_xDf81G4YSTFJ-da04NxmdpvOPFD1PK7Gf1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Salvation's Islands",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNFalQF39njtgOx_Ztepn2epAYvn76h6Phqg4jO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Remire-Montjoly",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP1VCkpj3zb7Wpuxq7K_nTbrtZQKNwhfuiKOLbT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Saint-Laurent-du-Maroni",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPKXLbdSFPmRaKraAmKAf0Kvdy6BFPlGEsBtaQv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sentier du Rorota",
+            "category": "Hiking area",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMI-bn7LLlFCD_gCkeiIMsk_0fLFghht1GdF24e=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hotel des Palmistes",
+            "category": "Hotel",
+            "img": "https://lh5.googleusercontent.com/proxy/cn52idGJOVEs1dYSV0NTVRgLvwy2k-ZgVGqsHw3yyV0CR6sdbJLpM4kzY1LWlzeiFqz0NK7I6eNvV-tMiOYg0Z8kwh0sSQImayrkDX6HnIxGuOmZr3f0pvoFvvsSzlQ2mUgcrj9m5Kgm9IC1hs8aCRkpu2rmIw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Musée Des Cultures Guyanaises",
+            "category": "Museum",
+            "url": "https://www.guyane-amazonie.fr/activites-de-loisirs/ASCCTG973V50006B/detail/cayenne/musee-des-cultures-guyanaises",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPZCQ2oartLPf-f8jS_xgcA6I1O-skuVXh10LfA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Plage des Hattes",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPojTueOlUixcdAPPS8ZW5ZJAhGxi6q-7t5T3nQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Place des Amandiers",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNp8yFdfe8aQXbwyhxo9ncACYA_8HxZkAuClTiO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bagne des Annamites",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNvfAaF6fNmxr6cHg7L6b6TzdH8o0QVOnAKSM7s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Phare de Fort Cépérou",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMYtrU-3HwBL9Qx5jBo8962HrgcCseB6K3dsNHI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Devil's Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMk9OngCtiqNe9V-rqahCAi4XAM6dtny2PgKfF-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fontaine de Montravel",
+            "category": "Fountain",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMch0HjdbRoLi27CiwlMyF1G8MOMriCxyi2GNr4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dreyfus Tower",
+            "category": "Tower",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMQwnbzTyIN1iG4ZMX9ePxafjIIKyAOouvunko-=w148-h148-n-k-no"
+        }
+    ]
+}

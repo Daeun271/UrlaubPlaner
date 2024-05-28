@@ -1,0 +1,756 @@
+{
+    "cities": {
+        "Bougouni": [
+            {
+                "title": "Sikasso",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtr8m_3fVdqOSBguRUvkBD2pUqU7ImMF2KZf8b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino de l'Amitié à Bamako",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no"
+            },
+            {
+                "title": "OUTLET223",
+                "category": "Shopping Centre",
+                "url": "http://outlet223.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMni8TPU8QPaEXgLcwN8fuQWf2lcefYv16-5mC2=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bamako",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamako",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjQ44SDFeLDhjsOq-y3UwoyTsFISrQkUhf3vcT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mali National Park.",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKjeAaqNfzaSqja3V1JatZRObnejy5iELbKry8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZOO NATIONAL DU MALI",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no"
+            }
+        ],
+        "Niono": [
+            {
+                "title": "Segou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAJ7rAMClbkLPPW-4fHEq7Qj5TLiV9EobkFV7c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mopti",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN46tCvINKtHI3pqAituF4HONEzMNQJmJqzXHbD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Le NDOMO",
+                "category": "Artistic handicrafts",
+                "url": "http://ndomo.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRHZ-VExWVoEQTZHoA1ToJcjWYJ-3gfGr1_cfz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Djenne",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf9oI1DyGaTtCepkLaBUesK6sTdEsuun0NxgCt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centre Soroble",
+                "category": "Market",
+                "url": "http://www.soroblecentre.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQaQubN7CVpy-yuaUt3RtmLpcYsgLDt8kUsOYV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Papillon Reizen",
+                "category": "Travel Agent",
+                "url": "http://www.papillonreizen.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORLNQD3qe1wCE_Fy0BrcLn0afUBNW9pTHwzDdH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Mosque of Djenne",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbwDuXYkCYIJ0ptHJhwiwEnpDtIIEDa1LAzh8=w148-h148-n-k-no"
+            }
+        ],
+        "Markala": [],
+        "Kalaban Koro": [
+            {
+                "title": "Le Byblos",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNak3axQAejtpgkALzWgWZgBLCazYXNp5DbO9Zf=w148-h148-n-k-no"
+            },
+            {
+                "title": "IPSMART",
+                "category": "Institute of technology",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDfbQYWSinQckDcpSX4bnxT2PBknT7D-zlwvX6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palais des SPORTS BAMAKO MALI",
+                "category": "Basketball court",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFGHnn0IAH0NScesB4J_kFn7Z4eh0F_01W-xOC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yacouba Guindo Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqSgoQ-Mpy8cjJ3VW97Gox2Gew8ug625VMerY3=w148-h148-n-k-no"
+            },
+            {
+                "title": "26th of March Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZST38ieuAGiKFS1mI2QeJhF5XFql1qsx8NLh3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of the Sacred Heart of Bamako",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcpEKi8MZD7IciJZQEt1c49HlFy_YI8UVZKZMP=w148-h148-n-k-no"
+            },
+            {
+                "title": "OUTLET223",
+                "category": "Shopping Centre",
+                "url": "http://outlet223.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMni8TPU8QPaEXgLcwN8fuQWf2lcefYv16-5mC2=w148-h148-n-k-no"
+            },
+            {
+                "title": "INTEC SUP ACI 2000",
+                "category": "Private university",
+                "url": "http://intec-sup.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEiSwtKAmf5mM-CuMZAsIP3O3GvW05xef3UBwF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino de l'Amitié à Bamako",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mali National Park.",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKjeAaqNfzaSqja3V1JatZRObnejy5iELbKry8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZOO NATIONAL DU MALI",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bamako",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no"
+            }
+        ],
+        "Gao": [
+            {
+                "title": "Dudhsagar Falls",
+                "category": "Scenic point",
+                "url": "https://www.goa.gov.in/places/dudhsagar-waterfalls/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPI-KJH8jWecrgce0ItKscubeoCH7Lghtl5yPLG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baga Beach goa",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4Xh2Sr7oWwMeUXsIsA1ZoAdGoK-8u13taq1hF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of Bom Jesus",
+                "category": "Basilica",
+                "url": "https://goa-tourism.com/church/basilica-of-bom-jesus/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdh6s-FIUe1bNNbrZ-N3jxuj-UFJQ0fsvQHhkZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Candolim Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkzaU7jnCg_pRonlulxc__FxyunWRzTG8Nj5iU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thalassa",
+                "category": "Greek restaurant",
+                "url": "http://thalassaindia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3nX5PsfSSQsRuW5bMe-toXRkpj3VFY1ToNZlI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sinquerim Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTksyq0si0nO_hTlTIM2n9rIqCRzvV5p7-nqEH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Se Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtolE69Bjun6m3w9BJfoyf2m2BHUw5SQZb6jRP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mandrem Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlzPcTitsuyNjPRUnsDjmcmzHBP4QRWwOKMcWo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Immaculate Conception Church",
+                "category": "Catholic church",
+                "url": "http://icchurchpanjim.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBMj79OwC6-OZJQT7dhQ0pF1X78LXn32__KVh_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Harvalem Waterfalls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-u4LE2qeR1sW8eb3e1K51Rj3tBmEDnBmnocg7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mollem National Park & Bhagwan Mahavir Wildlife Sanctuary",
+                "category": "National park",
+                "url": "https://www.goa.gov.in/places/bhagwan-mahavir-wildlife-sanctuary/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfTWAnRhAlj9bwTHnbV9L_izeiqvhbJOvuiyP3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aguada Fort",
+                "category": "Fortress",
+                "img": "https://lh6.googleusercontent.com/proxy/zR6al-ohOXXZuf8PLesgIdo7lekCzhkhDK-ae88OeX4C2pkoXndqLU85ogGtwv12PQsM0gsrigkMzJ1jpmZN-asBV1_rFpKWVqXjxYrwKut_a7eSNTefb1KzE_s11qFtAiKHENwZx4ajG2uPDLm6vlGhFD91wz0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of St. Francis of Assisi",
+                "category": "Catholic church",
+                "url": "https://www.incredibleindia.org/content/incredible-india-v2/en/destinations/goa/church-of-st-francis-of-assisi.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlpnU2M-gi8Rz1q2zvbM2Tgy28x7Bb8p1zlUeD=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Augustine Tower",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt_jGaEM1AXGiLcYs_GzL0gNCWygsTYuLqTBvY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colva Beach, Goa",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNApts4DqIyjyf0laQG0VT3arU9lF3iVtwRITv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deltin Royale",
+                "category": "Casino",
+                "url": "http://www.deltin.com/deltin-royale/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPqUa_jyzpTcNYM7gqw90CG31YA5tVF2xqmRf-=w148-h148-n-k-no"
+            }
+        ],
+        "Dialakorodji": [
+            {
+                "title": "Le Byblos",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNak3axQAejtpgkALzWgWZgBLCazYXNp5DbO9Zf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yacouba Guindo Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqSgoQ-Mpy8cjJ3VW97Gox2Gew8ug625VMerY3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palais des SPORTS BAMAKO MALI",
+                "category": "Basketball court",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFGHnn0IAH0NScesB4J_kFn7Z4eh0F_01W-xOC=w148-h148-n-k-no"
+            },
+            {
+                "title": "26th of March Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZST38ieuAGiKFS1mI2QeJhF5XFql1qsx8NLh3=w148-h148-n-k-no"
+            },
+            {
+                "title": "IPSMART",
+                "category": "Institute of technology",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDfbQYWSinQckDcpSX4bnxT2PBknT7D-zlwvX6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino de l'Amitié à Bamako",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no"
+            },
+            {
+                "title": "OUTLET223",
+                "category": "Shopping Centre",
+                "url": "http://outlet223.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMni8TPU8QPaEXgLcwN8fuQWf2lcefYv16-5mC2=w148-h148-n-k-no"
+            },
+            {
+                "title": "INTEC SUP ACI 2000",
+                "category": "Private university",
+                "url": "http://intec-sup.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEiSwtKAmf5mM-CuMZAsIP3O3GvW05xef3UBwF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamako",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjQ44SDFeLDhjsOq-y3UwoyTsFISrQkUhf3vcT=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mali National Park.",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKjeAaqNfzaSqja3V1JatZRObnejy5iELbKry8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZOO NATIONAL DU MALI",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bamako",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no"
+            }
+        ],
+        "Bamako": [
+            {
+                "title": "Tower Of Africa",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrrrcdNzFhQRnzrHTC8JdTdS4tbLqXNYn2HlFn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yacouba Guindo Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqSgoQ-Mpy8cjJ3VW97Gox2Gew8ug625VMerY3=w148-h148-n-k-no"
+            },
+            {
+                "title": "26th of March Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZST38ieuAGiKFS1mI2QeJhF5XFql1qsx8NLh3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument de l'Indépendance",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPa8oOUidK3wAv-L5nVucS1ViLTXrgBsQLPRF8=w148-h148-n-k-no"
+            },
+            {
+                "title": "IPSMART",
+                "category": "Institute of technology",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDfbQYWSinQckDcpSX4bnxT2PBknT7D-zlwvX6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palais des SPORTS BAMAKO MALI",
+                "category": "Basketball court",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFGHnn0IAH0NScesB4J_kFn7Z4eh0F_01W-xOC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Le Byblos",
+                "category": "Night Club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNak3axQAejtpgkALzWgWZgBLCazYXNp5DbO9Zf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Point G",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNH6V07FUQm4ptkAcjk_UWAPtavXYTshKOf6DAG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cultural Palace Hamadou Hampaté BA",
+                "category": "IT security service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpEG8kO9nnPALXUvLezCpRbBmnDWqqB5pmxTtg=w148-h148-n-k-no"
+            },
+            {
+                "title": "INTEC SUP ACI 2000",
+                "category": "Private university",
+                "url": "http://intec-sup.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEiSwtKAmf5mM-CuMZAsIP3O3GvW05xef3UBwF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mali National Park.",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKjeAaqNfzaSqja3V1JatZRObnejy5iELbKry8=w148-h148-n-k-no"
+            },
+            {
+                "title": "OUTLET223",
+                "category": "Shopping Centre",
+                "url": "http://outlet223.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMni8TPU8QPaEXgLcwN8fuQWf2lcefYv16-5mC2=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bamako",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino de l'Amitié à Bamako",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZOO NATIONAL DU MALI",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no"
+            }
+        ],
+        "Koulikoro": [
+            {
+                "title": "INTEC SUP ACI 2000",
+                "category": "Private university",
+                "url": "http://intec-sup.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEiSwtKAmf5mM-CuMZAsIP3O3GvW05xef3UBwF=w148-h148-n-k-no"
+            },
+            {
+                "title": "OUTLET223",
+                "category": "Shopping Centre",
+                "url": "http://outlet223.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMni8TPU8QPaEXgLcwN8fuQWf2lcefYv16-5mC2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamako",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjQ44SDFeLDhjsOq-y3UwoyTsFISrQkUhf3vcT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino de l'Amitié à Bamako",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mali National Park.",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKjeAaqNfzaSqja3V1JatZRObnejy5iELbKry8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZOO NATIONAL DU MALI",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bamako",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no"
+            }
+        ],
+        "San": [
+            {
+                "title": "Mopti",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN46tCvINKtHI3pqAituF4HONEzMNQJmJqzXHbD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Segou",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAJ7rAMClbkLPPW-4fHEq7Qj5TLiV9EobkFV7c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Djenne",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf9oI1DyGaTtCepkLaBUesK6sTdEsuun0NxgCt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Mosque of Djenne",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbwDuXYkCYIJ0ptHJhwiwEnpDtIIEDa1LAzh8=w148-h148-n-k-no"
+            }
+        ],
+        "Mopti": [],
+        "Kita": [
+            {
+                "title": "Bamako",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjQ44SDFeLDhjsOq-y3UwoyTsFISrQkUhf3vcT=w148-h148-n-k-no"
+            },
+            {
+                "title": "OUTLET223",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMni8TPU8QPaEXgLcwN8fuQWf2lcefYv16-5mC2=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino de l'Amitié à Bamako",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bamako",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mali National Park.",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKjeAaqNfzaSqja3V1JatZRObnejy5iELbKry8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZOO NATIONAL DU MALI",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no"
+            }
+        ],
+        "Sikasso": [],
+        "Koutiala": [],
+        "Timbuktu": [],
+        "Nioro": [],
+        "Fana": [
+            {
+                "title": "Centre Korè",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM57QvSqlGlk0J2-HtvlwJUuVWZwzKKFVATov1T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée de Konobougou",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2y_QuEzY6s15ubeTvcLh7gHBmd2JbGwz6l7ms=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yacouba Guindo Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqSgoQ-Mpy8cjJ3VW97Gox2Gew8ug625VMerY3=w148-h148-n-k-no"
+            },
+            {
+                "title": "IPSMART",
+                "category": "Institute of technology",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDfbQYWSinQckDcpSX4bnxT2PBknT7D-zlwvX6=w148-h148-n-k-no"
+            },
+            {
+                "title": "26th of March Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZST38ieuAGiKFS1mI2QeJhF5XFql1qsx8NLh3=w148-h148-n-k-no"
+            },
+            {
+                "title": "INTEC SUP ACI 2000",
+                "category": "Private university",
+                "url": "http://intec-sup.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEiSwtKAmf5mM-CuMZAsIP3O3GvW05xef3UBwF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino de l'Amitié à Bamako",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no"
+            },
+            {
+                "title": "OUTLET223",
+                "category": "Shopping Centre",
+                "url": "http://outlet223.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMni8TPU8QPaEXgLcwN8fuQWf2lcefYv16-5mC2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamako",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjQ44SDFeLDhjsOq-y3UwoyTsFISrQkUhf3vcT=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mali National Park.",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKjeAaqNfzaSqja3V1JatZRObnejy5iELbKry8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZOO NATIONAL DU MALI",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bamako",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no"
+            }
+        ],
+        "Pèlèngana": [],
+        "Ségou": [
+            {
+                "title": "Centre Korè",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM57QvSqlGlk0J2-HtvlwJUuVWZwzKKFVATov1T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosquée Mohamoud Kadhafing de Ségou",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrHM9u8j38tYmfXR89JNtxSLqi5gFlD7ddhjCK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Le NDOMO",
+                "category": "Artistic handicrafts",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRHZ-VExWVoEQTZHoA1ToJcjWYJ-3gfGr1_cfz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stade Amari Daou",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGejf689mKJNa1b44IvrFDHSoUkK2MSZbYAgod=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mieruba Art Center - MAC",
+                "category": "Art Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR2NraB9lLAcIetgQNJNHy2W25YBgr9kk35gaS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Papillon Reizen",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORLNQD3qe1wCE_Fy0BrcLn0afUBNW9pTHwzDdH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centre Soroble",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQaQubN7CVpy-yuaUt3RtmLpcYsgLDt8kUsOYV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Ségou",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAiCbeQKx61ryQeqR7rdIqHZwr0JtDeF7iPNAf=w148-h148-n-k-no"
+            }
+        ],
+        "Kati": [
+            {
+                "title": "Palais des SPORTS BAMAKO MALI",
+                "category": "Basketball court",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFGHnn0IAH0NScesB4J_kFn7Z4eh0F_01W-xOC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of the Sacred Heart of Bamako",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcpEKi8MZD7IciJZQEt1c49HlFy_YI8UVZKZMP=w148-h148-n-k-no"
+            },
+            {
+                "title": "26th of March Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZST38ieuAGiKFS1mI2QeJhF5XFql1qsx8NLh3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casino de l'Amitié à Bamako",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no"
+            },
+            {
+                "title": "OUTLET223",
+                "category": "Shopping Centre",
+                "url": "http://outlet223.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMni8TPU8QPaEXgLcwN8fuQWf2lcefYv16-5mC2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bamako",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjQ44SDFeLDhjsOq-y3UwoyTsFISrQkUhf3vcT=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Mosquée de Bamako",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mali National Park.",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKjeAaqNfzaSqja3V1JatZRObnejy5iELbKry8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZOO NATIONAL DU MALI",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no"
+            }
+        ],
+        "Kayes": []
+    },
+    "sights": [
+        {
+            "title": "Great Mosque of Djenne",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMbwDuXYkCYIJ0ptHJhwiwEnpDtIIEDa1LAzh8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Djingareyber Mosque",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPYSXVfEqLnwvNEK0YDql9S8ia_Oyqn2mxuG-Fo=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum",
+            "category": "National museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNAARuDXEYqfkqIBrLVdfBHuzpJz2p8fd7nLRBZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mali National Park.",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMKjeAaqNfzaSqja3V1JatZRObnejy5iELbKry8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tower Of Africa",
+            "category": "Heritage museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOrrrcdNzFhQRnzrHTC8JdTdS4tbLqXNYn2HlFn=w148-h148-n-k-no"
+        },
+        {
+            "title": "ZOO NATIONAL DU MALI",
+            "category": "Zoo",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMzi5hX2Qa0hF8_q-bxggQPKAszKWMu2vSVykIu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bamako",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNjQ44SDFeLDhjsOq-y3UwoyTsFISrQkUhf3vcT=w148-h148-n-k-no"
+        },
+        {
+            "title": "OUTLET223",
+            "category": "Shopping Centre",
+            "url": "http://outlet223.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMni8TPU8QPaEXgLcwN8fuQWf2lcefYv16-5mC2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Segou",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNAJ7rAMClbkLPPW-4fHEq7Qj5TLiV9EobkFV7c=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Hombori",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMTrT2Qvxslgg51-4yF9awwWpvX0saW_syddcEp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mopti",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN46tCvINKtHI3pqAituF4HONEzMNQJmJqzXHbD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Grande Mosquée de Bamako",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNCAZX6gnmp4WrprBZU_1ONi14ElhgMESk-r_3g=w148-h148-n-k-no"
+        },
+        {
+            "title": "Monument de l'Indépendance",
+            "category": "Monument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPa8oOUidK3wAv-L5nVucS1ViLTXrgBsQLPRF8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Timbuktu",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN5LRZhT8yUIIfMPPFdlA5WYKUhHx3MNRuLnt99=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tomb of Askia",
+            "category": "Monument",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOyhBDYc65Osu2XCrrIGzdguE6OC58rQuXtWiRE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Casino de l'Amitié à Bamako",
+            "category": "Casino",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNyBkTUGBrakumVw2LU1iKKzS-9VlbVH8B_ooRu=w148-h148-n-k-no"
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "cities": {
+        "Suva": [
+            {
+                "title": "Albert Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvG9kXILDlKuOQcEeE-LZK8N65stFkeVQv_upm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Damodar City",
+                "category": "Shopping Centre",
+                "url": "https://www.facebook.com/damodarcitycentre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyUA9XcweGbI8927xDg_XVT2DzhJFTCCxdyWZv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fiji Museum",
+                "category": "Local history museum",
+                "url": "http://www.fijimuseum.org.fj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOr7UDd5tzfszxnaOX9OvD-x9x9yERnA6kadh4x=w148-h148-n-k-no"
+            },
+            {
+                "title": "TappooCity Suva",
+                "category": "Shopping Centre",
+                "url": "http://www.tappoo.com.fj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4snh9jsSh7bWzKo0az-Hdm-m_buLzisxgh9OJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Pacific Hotel",
+                "category": "Hotel",
+                "url": "https://www.ihg.com/spnd/hotels/gb/en/suva/suvgd/hoteldetail",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3ZUd_ON5TsuJiNDJD1PbQhmqnr7eGMoIif28M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suva Municipal Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-qrl1VdnV_5PYcPSBi1xQp3DVyW23F4INDuDJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sacred Heart Cathedral",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqGIochpyU8Mld1mcgC--6z4MYAlavS6aNgpF3=w148-h148-n-k-no"
+            },
+            {
+                "title": "The University of the South Pacific",
+                "category": "University",
+                "url": "https://www.usp.ac.fj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqUGcRycI5b3XEyhglp-naHmKoeCSsyk4AM5id=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colo-I-Suva Forest Park",
+                "category": "National park",
+                "url": "http://www.experiencesuva.com/dir/colo-i-suva-forest-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIkNEvi3SNuk9iI1QXlf52lnRRXIfSrQcB_VBd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Government Building Suva",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiidCzkJS56STR0-y55dEnTyW_mjuW0Gj2JbOo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thurston Gardens",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO46VnZvxeIyAQVAtlyEnPJrxUXY2lxYAfs-jOC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sacred Heart Cathedral",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLfvf5BkJdiA2QJJEqTLQar9zcrrLLoQ9a30W5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Handicraft Centre",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6Qyoe6hPgZ-jNkfY7ttBRl9mDAytu0q9dfbr6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victoria Parade",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHvUoD49PmLAB7AKOxMk7wDB2sMVRsssJSlIq0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Korobaba",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6nQR8BFr-C0fNnHUHm029kGjWYaaR7N9es3TT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dravuni Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ5uzP0cBfmArVFYxOGVQVkNVYJtcJ30HDLYrc=w148-h148-n-k-no"
+            }
+        ],
+        "Lautoka": [
+            {
+                "title": "Sabeto Hot Spring Mud Pool and Tours",
+                "category": "Tourist attraction",
+                "url": "https://sabetohotspringandmudpool.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrxajkp5eZrcUE_Zm3zDbqo1PVB5RSiEMkKtjK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Churchill Park",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOg8a98ThZhX7avVMjH2v3ow0AS0Qverd1WqqrJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Whale's Tale Cruises Fiji",
+                "category": "Boat tour agency",
+                "url": "http://whalestale.com.fj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCQmZtQ9EyaE8EdHMAayXW0wnx_dx47XhOtZg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oolala Cruises",
+                "category": "Tour operator",
+                "url": "http://www.oolalacruises.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMX7b66TLOxAos2qrDf_iYMEfGt9559IekIYHlj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iskcon, Krishna Kaliya Temple, Hare Krishna",
+                "category": "Hindu temple",
+                "url": "http://iskcondesiretree.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGINYM71WliIVYIVqIOtVGOf97jeOYG6kmidUq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tivua Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMK5EifqHr3qNFXCDCvwoWSXSEoSIPum156AZwx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hauraki Adventures Fiji",
+                "category": "Diving Centre",
+                "url": "http://haurakiadventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY5M3q0aEv-OHO2cujAwoHQPUH2oFKY709An41=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rise Beyond The Reef",
+                "category": "Souvenir Shop",
+                "url": "http://risebeyondthereef.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIH1c7KW0uO9DxmzcA3hdhA9-ahSUa1vY4zAAX=w148-h148-n-k-no"
+            },
+            {
+                "title": "TappooCity Lautoka",
+                "category": "Shopping Centre",
+                "url": "http://www.tappoo.com.fj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsu9EeYSi0rgOaEkR9dVcj3D2iwt3-ecP35AOH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Garden of the Sleeping Giant",
+                "category": "Botanical garden",
+                "url": "https://www.gardenofsleepinggiant.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3y4mYQKYvkhJD2X7GnkxKPL0DGVNvirQ55hdu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mana Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNF3vbo2eZoSsx4erl170hdSXFMrFsD3lLyvTwT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malolo",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuuYkK07F3-4pp6WLEVTDORdDf3J6FewgpOuk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lautoka Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOANPG2jqdH0u12Q5gGrd51pU4ON9_HLSGqq4z6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village 4 Cinemas",
+                "category": "Cinema",
+                "url": "https://damodarcinemas.com.fj/village-4-lautoka",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNblXYOOrp8KfZK6zJqYLlFkS_7anPNoqCwdYT5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tavewa Seabus",
+                "category": "Shipping service",
+                "url": "https://www.seabus.com.fj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5yHSFl-RHKtdKh1HfteCLsURu9x2DPNkWxx5U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Koroyanitu",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPc3rNy0I569S5rDXJQfcEGzBOFa5880ERahb9N=w148-h148-n-k-no"
+            }
+        ],
+        "Nasinu": [
+            {
+                "title": "TappooCity Suva",
+                "category": "Shopping Centre",
+                "url": "http://www.tappoo.com.fj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4snh9jsSh7bWzKo0az-Hdm-m_buLzisxgh9OJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suva Municipal Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-qrl1VdnV_5PYcPSBi1xQp3DVyW23F4INDuDJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Levuka Historical Port Town",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMF0TvG22v9w_0CYejPn-_Z3xfMkKCtD_TCHsEj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Levuka",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvGI3fBBsbXhlrXGga3UOGkR4XHoB_cv2yCXsR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Biausevu Waterfall",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcoCkzDXPFf_nyYqLAf7XTm2hGE6AmM4smMQZ2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vanua Levu",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_EMXQ39HyZenyW1jSPHTFN06kkbWFyZVaMRsE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Handicraft Centre",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6Qyoe6hPgZ-jNkfY7ttBRl9mDAytu0q9dfbr6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vuadomo Waterfall",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8DaGJ7-8HDTPtVIKZScYmom2ODcHhZfzO09VN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nausori Highlands",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNiki4XE3GDvyxEK11awbCKXaDiPi-xJ6GzjnRc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wailoaloa Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNz7PEl92T90XPhnjiJPb7fCNHeoEKHbSJrwmXi=w148-h148-n-k-no"
+            },
+            {
+                "title": "President's Office, Fiji Government House",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkQGJqPrC-p-j3G_aU_SYkWvHCqXOlxzrPD33j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fiji Culture Village",
+                "category": "Museum",
+                "url": "http://culturevillagefiji.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONuOcdw4NzO12eKSp7iYlp6pqsPq9K0hhodQKt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Thurston Gardens",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO46VnZvxeIyAQVAtlyEnPJrxUXY2lxYAfs-jOC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albert Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvG9kXILDlKuOQcEeE-LZK8N65stFkeVQv_upm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village 6 Cinemas",
+                "category": "Cinema",
+                "url": "http://www.damodarcinemas.com.fj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNszDjDfLAVSRih5OjA6cl4KUvw0EafJ21cDkWA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fiji Museum",
+                "category": "Local history museum",
+                "url": "http://www.fijimuseum.org.fj/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOr7UDd5tzfszxnaOX9OvD-x9x9yERnA6kadh4x=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Kula WILD Adventure Park",
+            "category": "Amusement park",
+            "url": "http://www.fijiwild.com/",
+            "img": "https://lh5.googleusercontent.com/proxy/y8DCavl8Xn0p2BUHXM6NgMRsfm2GTOy5pnmoNV6XatncMaK2bA0sV4tyNjU9jaqjHCtJ2pQ_ojgLIoDvvjmN1q_TzgXEar_wWS0Y0DRGgUvbK6WBdUFmnQz1_vskG6aPsI60hTX-cbULbmS5X1ZW9l3wHJf-uYA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Port Denarau Marina",
+            "category": "Marina",
+            "url": "https://www.denaraumarina.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOTJBrB-wQ4uDE2OlCikMxV9dHsi2Ax3-aXmFz7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Garden of the Sleeping Giant",
+            "category": "Botanical garden",
+            "url": "https://www.gardenofsleepinggiant.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN3y4mYQKYvkhJD2X7GnkxKPL0DGVNvirQ55hdu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sri Siva Subramaniya Swami Temple",
+            "category": "Hindu temple",
+            "url": "http://www.sangamfiji.com.fj/",
+            "img": "https://lh4.googleusercontent.com/proxy/95-L_8vrGejIphjzkJJj9MlnANof9h86sUDG_jKtwRyFeIbGLYlPn9N3jigJ8cyMYYucXKRtWv_GpyMG2WRZjl7PYDwvC1va4y7_LYQalUsGP41gLct_6UgVE8BPFyW8HlvKarXx2EtFKmSho1XgChBtW_In6A=w148-h148-n-k-no"
+        },
+        {
+            "title": "Colo-I-Suva Forest Park",
+            "category": "National park",
+            "url": "http://www.experiencesuva.com/dir/colo-i-suva-forest-park/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPIkNEvi3SNuk9iI1QXlf52lnRRXIfSrQcB_VBd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sabeto Hot Spring Mud Pool and Tours",
+            "category": "Tourist attraction",
+            "url": "https://sabetohotspringandmudpool.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOrxajkp5eZrcUE_Zm3zDbqo1PVB5RSiEMkKtjK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fiji Culture Village",
+            "category": "Museum",
+            "url": "http://culturevillagefiji.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipONuOcdw4NzO12eKSp7iYlp6pqsPq9K0hhodQKt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lavena Coastal Walk",
+            "category": "Hiking area",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOd2hBiylrWFyNd7VAlsM-Sapi1Jp-3WIAx7h4t=w148-h148-n-k-no"
+        },
+        {
+            "title": "Robinson Crusoe Island Tours",
+            "category": "Tourist attraction",
+            "url": "https://www.rcitours.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNYrnEPzskqc1i2uu-4mEAAmP99OoYV4eiamEpJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Natadola Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNpus8ch5pj2cIR60UzgtztIj7qNlW0tHg3T-Il=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sigatoka Sand Dunes National Park - Visitor Information Center",
+            "category": "National park",
+            "url": "https://nationaltrust.org.fj/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO3L6C1LkM2q_qfSqVnR6ETq8-pTCvKZkgKjs2q=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fiji Museum",
+            "category": "Local history museum",
+            "url": "http://www.fijimuseum.org.fj/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOr7UDd5tzfszxnaOX9OvD-x9x9yERnA6kadh4x=w148-h148-n-k-no"
+        },
+        {
+            "title": "Musket Cove Island Resort & Marina",
+            "category": "Resort hotel",
+            "url": "http://www.musketcovefiji.com/",
+            "img": "https://lh6.googleusercontent.com/proxy/ekckEIm_PbbZ7bdR4CxAvsQiHtNI755rwL9FZZB7QEfeXGYV0bPZ1_vRzcBMzFS0fYmBveTjPNUFRQCL5FhMo4U96BJrXglEjZKLtEc5tQiK8sDqp4sr-or3g3BVTpRltXvRdyFu4edwNp8m0atWw7JVCDcY6jE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bouma National Heritage Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOBRK8YFh4bbc7yLyRIe4d3kouvjF530C02-Gi2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sawa-i-Lau Caves",
+            "category": "Tourist attraction",
+            "url": "https://www.facebook.com/pg/sawailaucave",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP0VRfADG93g2r0fmDXWtnUKMXcgFzUJb7yqA71=w148-h148-n-k-no"
+        },
+        {
+            "title": "Vanua Levu",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNQITdoLXfchlig-V6Z6__GW9qHmZe66fi3VwMN=w148-h148-n-k-no"
+        }
+    ]
+}

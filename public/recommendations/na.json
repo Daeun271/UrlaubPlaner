@@ -1,0 +1,358 @@
+{
+    "cities": {
+        "Walvis Bay": [
+            {
+                "title": "Dunes Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLCe7u_xTXpWjmel1nvZ18HygFODsIk3z5nSlp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anchors Waterfront Restaurant",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-tQUOaNByToXuh7kYx_tQ2VafGnZPZC-MfwTv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pelican Point Kayaking",
+                "category": "Canoe & kayak tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGjPTFc9FcyzOlpKC-YFBuofu2btJWsXCNRczq=w148-h148-n-k-no"
+            },
+            {
+                "title": "McClune Shuttle Office",
+                "category": "Transportation service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBH6grFMeUaC_OFaSPlmvZggrATzlXj0_Y4q46=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mat-Travel Tours and Safaris",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY-mU6cSANHgmJzUDJSJ2NAorEjgxeDRvEJVw9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carlo's Shuttle and tours cc",
+                "category": "Taxi service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_Qk_pbFE0huQ0twuzfna6VzEPp38quTSUX0kV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flamingo Lagoon",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNanlDP6FppjkvDFxhYmXQbUGcHZ0eFtdjjJ9MY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Waterfront",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtkB22Wlbli0a_zkOjyTRqWV9Yf7BInztUmCYX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Namib-Naukluft National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjdWxmR8fppaTrsRgM9DLhzQGOV1395WjCf-8S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Walvis Bay Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaVFDyxIZJFswmwNR4g2Jt-9yjKlC0uMzu0C7B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sandwich Harbour 4x4 - Booking and Check-in Office",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAcLpN5VD26dL6UMBWQCBeDPk_u87Me_JTcStr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dune 7",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe5uInMldVUMnGUv2xKDr5K_TXaaXdZiZvz2ol=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catamaran Charters - Booking and Check-in Office",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9qyDDHJ3TyQmKx1CBXeuCHXwiWHRMne1408G1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mola Mola Safaris",
+                "category": "Boat tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOa8wCzVJXJEXSKC9KylH8JhSMSq0TBMn3CK4hb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuisebmond Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuKjcWAbGHIjSGRbLdtmSo2Q9sU8j3TR2oOXOn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sun Sail Catamarans Namibia",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNp8fd84FbL1UuRa4bzbxMPkFQJNl7poHjY7r-q=w148-h148-n-k-no"
+            }
+        ],
+        "Rundu": [],
+        "Windhoek": [
+            {
+                "title": "Maerua Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.maeruamall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOqT1TvCtvmCvtlSSjWJF7-ErjiP9YQlivqb9i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wernhil",
+                "category": "Shopping Centre",
+                "url": "http://www.wernhil.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmSAO-9thJpEs9Bg3ntrFQIXfjKwzNVaKK_KY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Joe's Beerhouse",
+                "category": "Restaurant",
+                "url": "http://www.joesbeerhouse.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoT-jMRLkahrrPbVvMooDKDyU4jOGQyDrUGrzh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Namibia Craft Centre",
+                "category": "African goods shop",
+                "url": "http://namibiacraftcentre.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTpZpCRD0GuGm0LCxMtv_xka-vdnts4ABrhpSO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avani Windhoek Hotel & Casino",
+                "category": "Hotel",
+                "url": "https://www.avanihotels.com/windhoek?utm_source=GoogleMyBusiness&utm_medium=GMB&utm_term=Windhoek&utm_content=Home&utm_campaign=Google_GMB",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj1G_sDDDEjvNA3gYISRLhduQPTq6RPOz3ezTP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christuskirche",
+                "category": "Lutheran church",
+                "url": "http://www.namibweb.com/christ.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnTJ0ahygVbvrcounPRlsgYHh_TPlZ6rJW7dRl=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Grove Mall of Namibia",
+                "category": "Shopping Centre",
+                "url": "http://www.thegrovemallofnamibia.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSOv8GZhsoklD4oVGAAXSRAIxuhcuQlmHvvBg9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Museum",
+                "category": "National museum",
+                "url": "http://www.museums.com.na/museums/windhoek/independence-museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqM0rzYi8m8YR8Q2VmDoZRzi-f9q6mCSok6YWX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stratos At Avani",
+                "category": "Restaurant",
+                "url": "https://www.avanihotels.com/en/windhoek/restaurants",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOG48Rdna1FHs_lSuUXtl_Y5cjSzkvev99wel0c=w148-h148-n-k-no"
+            },
+            {
+                "title": "TransNamib Museum",
+                "category": "Museum",
+                "url": "http://www.namibweb.com/railmuseum.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODjmlzaqS-42t6QQJTDF3DooWtozSPizenb3Oe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Windhoek Railway Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNk2GOpsKioRP_8G7urkthuSEls0OhGUaiMhCUV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tintenpalast",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7Y_PCBAEnAamtQlfLhssTFQKaOQQyf3CbMx8G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carl List Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.facebook.com/carllistmall/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLrW0d6YLmXexxb97pG5rfYiUKECgiPH0KQkAn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avis Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbtl3S1EhCvJnRexru3Jzz8LvsLBIFdiF9WxCu=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Namibia: Owela Display Centre",
+                "category": "Museum",
+                "url": "http://www.museums.com.na/museums/windhoek/national-museum-of-namibia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXmht4peh5E7dmX_lwme5m4Qu289rGFnqkFvCh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoo Park",
+                "category": "Park and Garden",
+                "url": "http://www.namibweb.com/windhoek-zoo-park.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4-Gs_sUfgTmigotsFbn1ct6IQgzDi0kcryvr9=w148-h148-n-k-no"
+            }
+        ],
+        "Swakopmund": [
+            {
+                "title": "Swakopmund Museum",
+                "category": "Museum",
+                "url": "https://www.sciswk.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8IfTKM24WTjrhzB2KfK4qbmgK2mwj_Tjqe6En=w148-h148-n-k-no"
+            },
+            {
+                "title": "Platz Am Meer Waterfront",
+                "category": "Shopping Centre",
+                "url": "http://www.platzammeer.com.na/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUIbJzGn5yUj80ysE1j5_UlgYGtLji9hJLWsd_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Desert explorers adventure centre",
+                "category": "Tourist attraction",
+                "url": "http://www.namibiadesertexplorers.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDWYL3INdtqIYaUc4KsNy2eDqVeAhAlxyMPuEB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Peter's Antiques",
+                "category": "Shops and Shopping",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmZlndbB_JcVGgmIiaOY9Ai0XdE7xETY1WtkRM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tommy's Living Desert Tours",
+                "category": "Tours",
+                "url": "http://www.livingdeserttours.com.na/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPb7FULdIfGSwzEr5Y4-p1Dk_h_I7F5oq8Ehzho=w148-h148-n-k-no"
+            },
+            {
+                "title": "Snake Park",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSoB5CiUWh_sFwAjcDhrcQnkKEybCnk2Vu7ew8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kristall Galerie",
+                "category": "Museum",
+                "url": "http://www.namibiangemstones.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4x8FNRW7IY7bkWqpyd4VvsyiyTqq-yWWkWHkM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Prinzessin Rupprecht B&B Swakopmund Namibia",
+                "category": "Hotel",
+                "url": "https://www.hotel-prinzessin-rupprecht.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWXqaY61kM01QCZHjGBA8n6CQQzjPM1KzvCvu_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Namib-Naukluft National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjdWxmR8fppaTrsRgM9DLhzQGOV1395WjCf-8S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Woermannhaus",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdJ8fQ-pR_xoqeAgk8VqtIQRKJ6-oHgQCSfCrP=w148-h148-n-k-no"
+            },
+            {
+                "title": "LUMYS SWAKOPMUND ADVENTURES",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNl3Inu-97flxIvOSgpwx8rwrYdVceJkOQMM7SW=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Marine Aquarium",
+                "category": "Aquarium",
+                "url": "http://namibweb.com/aquarium.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjUhOOsswQ-d-YEWAJIg7vy5Fv1aDhm5sHUHkC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marine Denkmal",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhP5nshVfBjb_OaoTFMMdz9lKxf2Mh1S87_Tjj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swakopmund Mole",
+                "category": "Tourist attraction",
+                "url": "http://www.destination-swakopmund.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOw0KNeNXXcKEtYaIXYpdmgii3MHLzu6IXda2ZM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mondesa",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOriooUOwfyWmYmVti5rGLp9nCWqiLt3w5hLlVP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Swakopmund Lighthouse",
+                "category": "Lighthouse",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbA2nrxnlkLxYkQbaPDgrp3gU2D78Anv5X6XmY=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Etosha National Park",
+            "category": "National park",
+            "url": "https://etoshanationalpark.co.za/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOO7auOxyS6Wxu7Nzb7ga3hkPlEkQcFkVPt7csK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Deadvlei",
+            "category": "Tourist attraction",
+            "url": "https://www.sossusvlei.org/attractions/deadvlei/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdwJjY5H3igl0LJBcwZfGwvFB9uxe3OIvWkoop=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sossusvlei",
+            "category": "Seasonal lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP-fmdvt0rj7V-HdOYI5gF4mDQr9tHyQWGF4bI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Okaukuejo Etosha",
+            "category": "Tourist attraction",
+            "url": "https://www.nwr.com.na/resorts/okaukuejo-resort/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMPJYAGXa2Q0vj2eJ6CxBcbb4I0F1c5BOp4NR95=w148-h148-n-k-no"
+        },
+        {
+            "title": "Namib Desert",
+            "category": "Desert",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN1SkvniYoULK3oHuEG4KGgl2J8JgZop4dpFdxy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Skeleton Coast National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPO3qh56LEoFLtFjouvUUep4d_SjfM6qf89cZSh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fish River Canyon",
+            "category": "Ravine",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMN6zVH4qgb6o1x-HD-cYsuJvogxoCC0MCF18rz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Spitzkoppe",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOIyogqFaaGcMkgwLMOXYXyFYrxQ40lBlK1euEC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kolmanskop",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMQRQBy80L7qiqK1pS4NeEQpDVY_7RB449MqPBT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dune 45 Sossusvlei",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMED54weDTfiAxtIBCAJbcR8pKgr7K2tmNWPOLe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Namib-Naukluft National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPjdWxmR8fppaTrsRgM9DLhzQGOV1395WjCf-8S=w148-h148-n-k-no"
+        },
+        {
+            "title": "Etosha Pan",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPBpeSfmul8hAmphETcwIXA1fH9FyRec3dYCXkD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Swakopmund",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMJlYm2u6M2MwexdBzO8EH-N7_F9ckX5D4_aP-N=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cape Cross Seal Reserve",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP1e68otHyRjs0DUWJSfwCEZwkyaduwQIQN_F55=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sesriem",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN1SkvniYoULK3oHuEG4KGgl2J8JgZop4dpFdxy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Waterberg Plateau National Park",
+            "category": "National park",
+            "url": "http://www.waterberg-namibia.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOvGjGNo_rjPxjEsg20NIhsZwj10ESvrHVGKIVv=w148-h148-n-k-no"
+        }
+    ]
+}

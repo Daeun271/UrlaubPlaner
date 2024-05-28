@@ -1,0 +1,191 @@
+{
+    "cities": {
+        "Bridgetown": [
+            {
+                "title": "Kensington Oval",
+                "category": "Cricket ground",
+                "url": "http://www.kensingtonoval.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdZsBrLu59j4FKyMwaruBJi1bjxVy-LlOML5RT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Gay Visitors' Centre",
+                "category": "Tourist attraction",
+                "url": "http://www.mountgayrum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdFJWnq8RRtA9W0OCvVhEiXYJa2ka1MgeGlWCe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barbados Museum & Historical Society",
+                "category": "History museum",
+                "url": "http://www.barbmuse.org.bb/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhn0cQLoIT_rh1tgNYbNxpimAJrCDGZ_qbvUt8=w148-h148-n-k-no"
+            },
+            {
+                "title": "George Washington House",
+                "category": "Historical place",
+                "url": "http://www.georgewashingtonbarbados.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNh9_HBpMVaKdaE4Mm1XpDfLfUigLAlPkBV2ccw=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Nidhe Israel Synagogue and Museum",
+                "category": "Heritage museum",
+                "url": "http://synagoguehistoricdistrict.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0yekYCTLfpcDYFePkZnh1Frbh6ggPIEQhiH38=w148-h148-n-k-no"
+            },
+            {
+                "title": "Harbour Lights Barbados",
+                "category": "Dinner theatre",
+                "url": "http://www.harbourlightsbarbados.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYCvDO1A3tTzHgXdUUuwRTPxhbUTfMeYYS1w18=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pebbles Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPQof61Uio-F6jAmguJmIiAw8cSdunb-qq_eG7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brownes Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBTqmOSbiHJj20_0kM0n42K9vqBZHfHmD7bWbu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Garrison",
+                "category": "Neighborhood",
+                "img": "https://lh3.googleusercontent.com/proxy/xpf-LmgwAQMRZaDYqVoUiNuoPnkDTkuftZ2-T2GYbZKCMBXHzG-4VL7yaFrwMe_YbJVY5wuzMAXCDdRqaTN6sw4IFQyLhpEy1iX9Qf5LQP18mzIRgRVRB6btpscRPHNoQQGU6ruKrtyO1QukwfZ1SBWfjENJ-_0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parliament Buildings",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpX_9GrLq6vNIp8Ku83uuXlQSbCLqXKk18lq7x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atlantis Submarines Barbados",
+                "category": "Tourist attraction",
+                "url": "https://barbados.atlantissubmarines.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY_1C2o5RdzurGY0NXEqDIx88Ef2_9Lexj6pqU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Batts Rock Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzshrmme4XeqAxW3BJNU7XbP3u2HU8D9y4mo3D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carlisle Bay",
+                "category": "Bay",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjUYtybkx35JBJEESZ_PRAAkV6_7C--x7qHNoT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Garrison Savannah",
+                "category": "Racecourse",
+                "url": "http://www.barbadosturfclub.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMX-5DODRaFl9CiIiCZA1Y8lvfXURGl_Djuu2sV=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Michael's Cathedral",
+                "category": "Church",
+                "url": "http://saintmichaelscathedral.bb/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvxJUn9JhLYubeqypyganCRQTUELYJdoyTz02y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rockley Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSh-vDc0s9JMuWKQiWq9HMLKL5IUm9nAm_4Yu9=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Harrison's Cave Eco-Adventure Park",
+            "category": "Tourist attraction",
+            "url": "https://chukka.com/destinations/barbados/harrisons-cave/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPtWL3pGO0qU-a2DKf4ABkg_YljHQvBMLozlK4o=w148-h148-n-k-no"
+        },
+        {
+            "title": "Oistins Fish Market",
+            "category": "Seafood market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPnSajf0ubKsQnLIfebutp93XWtZIKj1BcuhmQa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Animal Flower Cave & Restaurant",
+            "category": "Tourist attraction",
+            "url": "http://www.animalflowercave.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPa7ZUo0SFRQaeITQt6qdP5-aMul1665w08JqYr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hunte's Gardens",
+            "category": "Garden",
+            "url": "http://huntesgardens-barbados.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMta6Na09vZtIzCf4_sSxhPpV91y3OteNbrSPQg=w148-h148-n-k-no"
+        },
+        {
+            "title": "St. Nicholas Abbey and Steam Railway",
+            "category": "Heritage museum",
+            "url": "http://www.stnicholasabbey.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM2FTXjOSJwzNNLrCdWCSCDd8kV_bs8v-tfCDod=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Gay Visitors' Centre",
+            "category": "Tourist attraction",
+            "url": "http://www.mountgayrum.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOdFJWnq8RRtA9W0OCvVhEiXYJa2ka1MgeGlWCe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Andromeda Botanic Gardens",
+            "category": "Botanical garden",
+            "url": "http://www.andromedabarbados.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMw4bz9Xo943R3DzVoL_-TyxYQ2q1LF_ubkEdt3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Barbados Museum & Historical Society",
+            "category": "History museum",
+            "url": "http://www.barbmuse.org.bb/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNhn0cQLoIT_rh1tgNYbNxpimAJrCDGZ_qbvUt8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Welchman Hall Gully",
+            "category": "Tourist attraction",
+            "url": "http://www.welchmanhallgullybarbados.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNkI2tOH23uxjhW2B3CALAvqCBdvAqgC4V1nVb_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Barbados Wildlife Reserve",
+            "category": "Zoo",
+            "url": "https://barbados.org/reserve.htm",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM4y1pgqwmVDBSdkJN9iUCryWUGL7u8mWhVV2WJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Flower Forest Botanical Gardens",
+            "category": "Botanical garden",
+            "url": "https://www.flowerforestbarbados.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOc-Rrih-14j2O3EUg-r1s672v8iqn3JNmvqi04=w148-h148-n-k-no"
+        },
+        {
+            "title": "Atlantis Submarines Barbados",
+            "category": "Tourist attraction",
+            "url": "https://barbados.atlantissubmarines.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOY_1C2o5RdzurGY0NXEqDIx88Ef2_9Lexj6pqU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Carlisle Bay",
+            "category": "Bay",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNjUYtybkx35JBJEESZ_PRAAkV6_7C--x7qHNoT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Foursquare Rum Distillery",
+            "category": "Distillery",
+            "url": "https://altamarbrands.com/brands/foursquare-rum-distillery/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOAi_YhbXj3YNCBfc3r8PwDvPujiJ3uWLOpdqNt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Folkestone Marine Park & Visitors' Centre",
+            "category": "Park and Garden",
+            "url": "https://barbados.org/folkstone.htm",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOL2qOHssNzMGTazed1xOvr5aOCYjOPSWDZ_Y_4=w148-h148-n-k-no"
+        },
+        {
+            "title": "George Washington House",
+            "category": "Historical place",
+            "url": "http://www.georgewashingtonbarbados.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNh9_HBpMVaKdaE4Mm1XpDfLfUigLAlPkBV2ccw=w148-h148-n-k-no"
+        }
+    ]
+}

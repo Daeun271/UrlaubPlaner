@@ -1,0 +1,1166 @@
+{
+    "cities": {
+        "Al Shamkhah City": [
+            {
+                "title": "Dalma Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.dalmamall.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8oc2tpHkcE39VQNZ8o-5PbE77oKibTKqeBMig=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umm Al Emarat Park",
+                "category": "Park and Garden",
+                "url": "http://www.ummalemaratpark.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9JQmq2AJY-WqDG63bRB_UUkiTWEWzXBcKjebj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qasir Al Walima Restaurant",
+                "category": "Yemeni restaurant",
+                "url": "https://allmylinks.com/qasar-walima",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-wgJlW3GgwHywQepUAGAQU1gbLE-1U_njSN23=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Bateen Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0wX5V8GKfn32svb0EBOzMRDWZsZ7z9mpzNUcH=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Joseph's Cathedral",
+                "category": "Catholic church",
+                "url": "http://www.stjosephsabudhabi.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzZUyk5RMkLtuO8CQeKEwV8elwNiwLWzc0jKo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aldar headquarters building",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMR67EFu5tL56i9dz4P615XqSfu4DNjiJffI8Xi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saadiyat Island",
+                "category": "Island",
+                "url": "http://www.saadiyat.ae/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0XkGBwKp4Z9d7f1HheQxQo3mMDS-kYT01rKnL=w148-h148-n-k-no"
+            },
+            {
+                "title": "SeaWorld Yas Island, Abu Dhabi | سي وورلد جزيرة ياس، أبوظ",
+                "category": "Aquarium",
+                "url": "https://www.seaworldabudhabi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPytghQdpwpPhSETGjxLdRQ1iloYD6AxNjrodNC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emirates Park Zoo",
+                "category": "Zoo",
+                "url": "http://www.emiratesparkzooandresort.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfktmHnetWuiwXbq0GVgGJjmbXjDVTLpEcWChz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emirates Heritage Village",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7TRh3IBBcpjTVf3eDi1QWqDs0fU1h08J-_le1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Marina Circuit Abu Dhabi",
+                "category": "Racetrack",
+                "url": "https://www.yasmarinacircuit.com/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Tfzcrf6q9Y4QUgf2hMcpTz4R_8IkWmr-uVEK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masdar City",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHr5hPPS5h4GwY2bMumfMDqNCVb4NqMzY9lplt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mangrove Marine National Park",
+                "category": "Nature reserve",
+                "url": "https://www.ead.ae/Pages/Mangrove-National-Park.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOvJnnSzqfuB0Dig6eF1FexnCbc7wy93_EGnvH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qasr Al Hosn",
+                "category": "Fortress",
+                "url": "https://qasralhosn.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFyj8M-xF2oPZyD4sZxAPzYQslUOEg1gP8YD0r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.yasmall.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeAN6hh_ZQbVU8_axZUQNbvzBa-zK60G6EHXeX=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Aquarium Abu Dhabi",
+                "category": "Aquarium",
+                "url": "https://thenationalaquarium.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMazYgDW5Thqxhn4wI0bD9xx4Sq5SogAnhZo-nB=w148-h148-n-k-no"
+            }
+        ],
+        "Bani Yas City": [
+            {
+                "title": "Yas Island",
+                "category": "Island",
+                "url": "http://www.yasisland.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6XnutR1uv3yoLBmqHR6g436VwZrsRS-cglizO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sir Bani Yas Cruise Ship Beach",
+                "category": "Beach pavillion",
+                "url": "https://www.adportsgroup.com/?utm_source=google&utm_campaign=local_search&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWvGc5nAjb2obrGxrtUKaxtdtHfzG4yMMjhQfj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ferrari World Yas Island, Abu Dhabi",
+                "category": "Theme park",
+                "url": "https://www.ferrariworldabudhabi.com/ar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOehTNXyjD3Tl9K-92FdC8_n3IDb9Xut1GsyuLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.yasmall.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeAN6hh_ZQbVU8_axZUQNbvzBa-zK60G6EHXeX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Waterworld Abu Dhabi",
+                "category": "Water park",
+                "url": "https://www.yaswaterworld.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp2_gOA7JNANIn6D9wWekkRlWnidNHaqy5_3pV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Etihad Park",
+                "category": "Live music venue",
+                "url": "https://flashentertainment.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpo1ItlE45Is0ooQ_-Qdck_WTtexUUlvSqrumz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Beach",
+                "category": "Beach pavillion",
+                "url": "https://yasbeach.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIMCX5CAijc4c3p43f3IOdH4re2btXALTmm5GM=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Fountains - Yas Mall",
+                "category": "Tourist attraction",
+                "url": "http://yasmall.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCyDtpX7qEBLEyXIMoercTKNDG76xVvygsxKLG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Marina Circuit Abu Dhabi",
+                "category": "Racetrack",
+                "url": "https://www.yasmarinacircuit.com/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Tfzcrf6q9Y4QUgf2hMcpTz4R_8IkWmr-uVEK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Links Abu Dhabi",
+                "category": "Golf course",
+                "url": "https://www.viyagolf.com/yaslinks/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOo8EBMnajN4of81xiar92sD3x1VUwo7Ytcqocj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sir Bani Yas Cruise Port",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYJunDRKS1nZC9nfiX0ul44yNmTZiCHL1GaCj7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Gateway Park North",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgAgnYKDvvaokQ0f0AKBd2wPzCq1l5XFJvdZkj=w148-h148-n-k-no"
+            }
+        ],
+        "Abu Dhabi": [
+            {
+                "title": "Louvre Abu Dhabi",
+                "category": "Art museum",
+                "url": "https://www.louvreabudhabi.ae/ar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGkkqAKW9-UP3BpgB5URG1lMpXvlmDf2ajE8I5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emirates Palace Mandarin Oriental",
+                "category": "Hotel",
+                "url": "https://www.mandarinoriental.com/ar-ae/abu-dhabi/emirates-palace",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOnDWpOtqBn5Xi_1S0EXyrhn1GKR5nJS6_aWlg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ferrari World Yas Island, Abu Dhabi",
+                "category": "Theme park",
+                "url": "https://www.ferrariworldabudhabi.com/ar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOehTNXyjD3Tl9K-92FdC8_n3IDb9Xut1GsyuLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Zayed Grand Mosque",
+                "category": "Mosque",
+                "url": "https://www.szgmc.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvnvcVpCkBoKPG1UCfqQ2V5uVXqdrSjAF-jYpx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Warner Bros. World Abu Dhabi",
+                "category": "Amusement park",
+                "url": "https://www.wbworldabudhabi.com/?utm_source=gmb&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2D5jvdYjuiCx8hXakTLi49hG8O1xFulTsfdV8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Waterworld Abu Dhabi",
+                "category": "Water park",
+                "url": "https://www.yaswaterworld.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp2_gOA7JNANIn6D9wWekkRlWnidNHaqy5_3pV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qasr Al Watan",
+                "category": "Tourist attraction",
+                "url": "https://www.qasralwatan.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9KuzrxM5f5y6GTDckZOOy5uNVxTkg0q-7C2Ci=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Aquarium Abu Dhabi",
+                "category": "Aquarium",
+                "url": "https://thenationalaquarium.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMazYgDW5Thqxhn4wI0bD9xx4Sq5SogAnhZo-nB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.yasmall.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeAN6hh_ZQbVU8_axZUQNbvzBa-zK60G6EHXeX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umm Al Emarat Park",
+                "category": "Park and Garden",
+                "url": "http://www.ummalemaratpark.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9JQmq2AJY-WqDG63bRB_UUkiTWEWzXBcKjebj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Mall",
+                "category": "Shopping Centre",
+                "url": "https://marinamall.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqch0N71ZUkceBIFX9u_Ei_YQyE3sBwTjGIwzM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Observation Deck at 300",
+                "category": "Tourist attraction",
+                "url": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/dining/observation-deck-at-300/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOq4pWV0AaUU2G-J_5OOXnILhCGTfwmHeixbfh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Bateen Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0wX5V8GKfn32svb0EBOzMRDWZsZ7z9mpzNUcH=w148-h148-n-k-no"
+            },
+            {
+                "title": "SeaWorld Yas Island, Abu Dhabi | سي وورلد جزيرة ياس، أبوظ",
+                "category": "Aquarium",
+                "url": "https://www.seaworldabudhabi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPytghQdpwpPhSETGjxLdRQ1iloYD6AxNjrodNC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manarat Al Saadiyat",
+                "category": "Art gallery",
+                "url": "http://manaratalsaadiyat.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtZG8nteiRc1NWsCsxQalIsuKvcYsORK8fsVWl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kai Beach Saadiyat",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyuOM5xTddVQ0-LXLvoaldEeaxFxLZFynH3o_b=w148-h148-n-k-no"
+            }
+        ],
+        "Al Ain City": [
+            {
+                "title": "Bawadi Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.bawadimall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOji6GxEKA9fIhUCJDp6g6HyHwdPgHrZN9Zoaig=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ain Mall",
+                "category": "Shopping Centre",
+                "url": "https://alainmall.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyEbLfzDWPT2fxGbE_G8MlBAyU-mz2vk-EBQra=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Zayed Desert Learning Centre",
+                "category": "Natural history museum",
+                "url": "https://alainzoo.ae/sheikh-zayed-desert-learning-centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO25zv1kG107jGuHMTc8b3iRTF9vscriWUlgbJ4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qasr Al Muwaiji - قصر المويجعي",
+                "category": "Tourist attraction",
+                "url": "https://abudhabiculture.ae/en/experience/historic-landmarks/qasr-al-muwaiji",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCcEa63maRt3IFt7-37y8bTn85GoWw6XJeKKQr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wild Wadi Waterpark Jumeirah",
+                "category": "Water park",
+                "url": "https://wildwadi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyV-E0_XdXsaguffjhxzVgbf8KDaO-HCcnZDwJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ain Palace Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/bqy60-rWhGgmhrC6nVB-N10EV5SnLnMtmA8UAWmWhsqNAbdpc0kRLkSNbuQobuAgM0wM1GQ6Pg0RWB3HSryP4h2yi7USoQQsTySXhjVgN8460akvQT9km91ufnKYfAYfP2p9Kh4H2LPGEKSkfIO5NjAc0CN6trc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ain Zoo",
+                "category": "Zoo",
+                "url": "https://www.alainzoo.ae/ar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNP16seMi2wpBUFu_JZxHJmABaJknYHa8zh_tFf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jebel Hafeet Beehive Tombs",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqkZPUUlLdG16j21-GNsFikYL1xu8zsLauwerJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Mubazzarah",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQGfyj-2BLxk_Ydpvg2Y7l8XaTqz12C4GgBJJ9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ain Camel Market",
+                "category": "Livestock Auction House",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwImg7FNcfPK7K7YP8AFPi-8I6NuPocxMeke-a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Mubazzarah Lake",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOk3cFYsOeEcf6HTL1nFE2-fxfQFxldW0irp-WQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Jahli Park",
+                "category": "Park and Garden",
+                "url": "http://dmt.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK31DHWoZMaDgTniyMxaXHLKSwLYYt1uNXbnHS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ain National Museum",
+                "category": "National museum",
+                "url": "https://www.abudhabi.ae/portal/public/ar/citizens/culture_and_recreation/cultural_and_historical_sites/gen_info20?docName=ADEGP_DF_66064_AR&_adf.ctrl-state=3ea34uk0w_171&_afrLoop=4342180796121343",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrMGSNjVwBVP1mUccuqKITtBFCunoi22gbIgtU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bin Helal Fort Al Ain Abu Dhabi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7FMEyWRYFDVbZYCU-dPGUBLhxrJXTCvifuXwu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Jahili Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2go4eD62gbq9Mtxet8ERSbD6sCqG6hF6UN6n1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mubazzarah Park",
+                "category": "Botanical garden",
+                "url": "http://dmt.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNJjmfYrkHE9dSfJAEGF7IrEDFkAHo9C_RCvuB=w148-h148-n-k-no"
+            }
+        ],
+        "Al Fujairah City": [
+            {
+                "title": "Fujairah Adventures Park",
+                "category": "Tourist attraction",
+                "url": "https://fujairahadventurepark.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtY0uwi93JGzuNSCjBj5w1NzPKIhFOfvLyTJ7G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Aqah Beach",
+                "category": "Beach",
+                "img": "https://lh4.googleusercontent.com/proxy/bzad2ZQKhLB5ynGcwtX0gXmZlv5QOinZxde7qGKdJrSBSW69ipjhgV8WOOWoEC2oUv-X60Q4Nmu5wwk7hAKx8zPSqOveucOXGeLOuzVbs7kzg5PvD3tP6VuVBDDPARhcNxmJjmz11zo33e8PKgymG_aKHDGyt18=w148-h148-n-k-no"
+            },
+            {
+                "title": "Century Mall",
+                "category": "Shopping Centre",
+                "url": "http://centurymalls.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvZ5xpx19y3cnovTpJjQYzrESX9SRI4q9p308=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fujairah Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk1lHxLbqkqQWvUkp6iMQ6UCQ2hc4zgt5QzWfT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dibba Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhQGD6IXheAExaKRCpVZ3ThG4ebvsIgQbZ3K4X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sandy Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY57PsEbz4jB6-SgTekoG9LqPMKESfRAoQj7Uu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadi Wurayah Biosphere Reserve محمية وادي الوريعة",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIgtSD7oCwlrlgHkjnb7GVLvsz3m0RFzRLq9ra=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sambraid Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHbnJ3VHrFpxx7tAEuwmA6js9ze8exoU44ZTFO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Sharyah",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPq3lM6s2EZ5iDgjmXfSwAXRgP5J8QzVsSaOAZU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fujairah",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIgwtCWnutco5GVBblHHY7CqJLKWF6-7TdHyqG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadi Hub at Hatta Resorts by Dubai Holding",
+                "category": "Tourist attraction",
+                "url": "http://visithatta.com/?utm_source=google&utm_campaign=local_search&utm_medium=organic&utm_content=HattaWadiHub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMNLtit50f4o4fMqP3iS1EXl2k-t0xey6bM5Xh=w148-h148-n-k-no"
+            },
+            {
+                "title": "VOX Cinemas City Center Fujairah",
+                "category": "Cinema",
+                "url": "https://uae.voxcinemas.com/cinemas/city-centre-fujairah?utm_source=google&utm_campaign=local_search&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMC465-diTmVAZF0sFZxMkNk10-FPopn8S4rJ1i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady Of Perpetual Help Church",
+                "category": "Catholic church",
+                "url": "https://olphfujairah.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPolwTRxmKT2QoKBNuDpc5KajWI4xUt03H1zPhI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Awhala Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO56DcA6VwbwjLQ9XiTbJl29LIo0X5Bch7C8szd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hail Mountains",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7yfm8jzitr4Q3dUpeuD5gKO-oCXOMwd1nvllC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Zayed Grand Mosque",
+                "category": "Mosque",
+                "url": "https://www.szgmc.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvnvcVpCkBoKPG1UCfqQ2V5uVXqdrSjAF-jYpx=w148-h148-n-k-no"
+            }
+        ],
+        "Ajman City": [
+            {
+                "title": "Burj Al Arab",
+                "category": "Hotel",
+                "url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB6fwvLuOQn2ByH7G70FJnMoIuKyvE-i--Tsk9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Zayed Grand Mosque",
+                "category": "Mosque",
+                "url": "https://www.szgmc.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvnvcVpCkBoKPG1UCfqQ2V5uVXqdrSjAF-jYpx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marsa Ajman",
+                "category": "Tourist attraction",
+                "url": "http://www.marsaajman.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSCYB_w6b5T_JovxpgPT5zYXkIY9KdBmIH3Vh-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Zorah Marina 1",
+                "category": "Park and Garden",
+                "url": "http://alzorah.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_gVNCwnks8D2SXusENLDqkPcUKldnZ2L1mtoQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Zayed Mosque",
+                "category": "Mosque",
+                "url": "https://www.awqaf.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEBl26qH1RsYqHAxxPXk4lmPoY3AFuA2D0wy_l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jumeirah Beach Hotel",
+                "category": "Resort hotel",
+                "url": "https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcXjI_EH0iTyCaTdCJZDqpXtDR4jcgdh6jufDe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hamidiya Park",
+                "category": "Park and Garden",
+                "url": "http://www.am.gov.ae/ar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtIzwmjsC2zMVBJZc00iKR85Vm7fwhmG3e__vU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Madinat Jumeirah",
+                "category": "Resort hotel",
+                "url": "https://www.jumeirah.com/en/collection/madinat-jumeirah",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUf_0CPJ6DrMnZW-fMQdIxyHMkRVpm1_zbtXyR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rashidiya ladies park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOb7LtvAVqOsE7ntL9VnslgDsdw3ytZh-c1Gbo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ajman Marina",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHToMDFc3UlVxZlx0ZdUkx6qA-xiM7UiDzDO1w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Zorah Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOETYPZl2Cz4zOoLiLId3QPdJnPmAoZ_3bKFkqt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arabian Ranches Golf Club",
+                "category": "Golf club",
+                "url": "https://www.arabianranchesgolfclub.com/",
+                "img": "https://lh3.googleusercontent.com/proxy/4OgtHSVmQGKqdtJrD5a9HmAdu28q_nUypJhEeJReXVJAFF52xmHtzrEUqp4PKIOLWsXWkpDRY3Vtyt5GwOw4_EyQC3xFxy49oD5n1SfAwdOzfeR8yTwnhrhZcfa9cbFXNMdbAQbf_BMgoQY-uZLjgHe6vZGu6Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Zorah Natural Reserve - Ajman",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN24UTmFC_hrYy8xywEmlW5L1_J22yBo4P_MNww=w148-h148-n-k-no"
+            },
+            {
+                "title": "COVEBEACH",
+                "category": "Restaurant",
+                "url": "https://covebeach.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgmfraiX1VEIQgIBURD9ELXD0NCXkOlDLYxEY_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umm Al Quwain Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_kJUSR2Z4k4pMHAwn3Hl3KjjUTr_Rup1vvpjE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umm Al Quwain- Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZTpan1un9OCDRmtBtB5ON-j0osvbUgoYBn7f0=w148-h148-n-k-no"
+            }
+        ],
+        "Musaffah": [
+            {
+                "title": "Umm Al Emarat Park",
+                "category": "Park and Garden",
+                "url": "http://www.ummalemaratpark.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9JQmq2AJY-WqDG63bRB_UUkiTWEWzXBcKjebj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubai Mall",
+                "category": "Shopping Centre",
+                "url": "https://thedubaimall.com/ar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkiFNo4E5CVdZQ_2_XLrwgpJvAQAkwK4598IF2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Burj Khalifa",
+                "category": "Landmark",
+                "url": "http://www.burjkhalifa.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe6dgydz_aiG9iYIRhtG_oi_q6w89K_LPXfliY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Mall",
+                "category": "Shopping Centre",
+                "url": "https://marinamall.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqch0N71ZUkceBIFX9u_Ei_YQyE3sBwTjGIwzM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubai Aquarium & Underwater Zoo",
+                "category": "Aquarium",
+                "url": "https://www.thedubaiaquarium.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODiz6BkoiXKtAOoTT7_vyqeJjWZCxmL2aVKcUB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquaventure Waterpark",
+                "category": "Water park",
+                "url": "https://www.aquaventureworld.com/?utm_source=googleplaces&utm_medium=location&utm_campaign=mwp&utm_content=listing",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJtvzMz8R1cU9Gb39mAxV6lzIY5kavj7ALcYE1=w148-h148-n-k-no"
+            },
+            {
+                "title": "AlBahar at the Corniche",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/proxy/6rzRv3fxCkjSbWLh4OJeWVAlAMFrTfnp6RoE9eDb1nU4Fu2ZxKRYx4iDHXWy1cJEh71JPZ88mT-wt1Ig0H5MKUbhWF7fXpuaobuvXycVUSPjZ3LrixbHbh24BuD3o0De-gcqQvb2Nkb6Wf0OTH0ayXi3HELeMA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Beach",
+                "category": "Beach pavillion",
+                "url": "https://yasbeach.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIMCX5CAijc4c3p43f3IOdH4re2btXALTmm5GM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abu Dhabi Desert Safari",
+                "category": "Tour operator",
+                "url": "https://www.abudhabi-desert-safari.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIwSe7Szk2m1cJx0fpr6eF20dc7k4GvAN2NR_l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dalma Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.dalmamall.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8oc2tpHkcE39VQNZ8o-5PbE77oKibTKqeBMig=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Ain Zoo",
+                "category": "Zoo",
+                "url": "https://www.alainzoo.ae/ar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNP16seMi2wpBUFu_JZxHJmABaJknYHa8zh_tFf=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Dubai Fountain",
+                "category": "Fountain",
+                "url": "https://www.burjkhalifa.ae/ar/downtown-dubai/the-dubai-fountain/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMC5x5erWlAHMyyGUN_T12rX2HDXCxB6Q4Aj1Ls=w148-h148-n-k-no"
+            },
+            {
+                "title": "Etihad Arena",
+                "category": "Arena",
+                "url": "https://www.etihadarena.ae/?utm_source=gmb&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmvdMiZJJUhCg-ZpaEYnN4rt9otpQgOyzHMHsd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Burj Al Arab",
+                "category": "Hotel",
+                "url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB6fwvLuOQn2ByH7G70FJnMoIuKyvE-i--Tsk9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Montazah Parks",
+                "category": "Water park",
+                "url": "http://almontazah.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrNLwp9cXK4q8w78QssTft0hpyxMya6M2BWmbd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emirates Bio Farm مزرعة الامارات البيولوجية",
+                "category": "Organic farm",
+                "url": "http://emiratesbiofarm.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOINkVQTW45jh8MZV7kKVKc5K4N77BqLb8gOUhE=w148-h148-n-k-no"
+            }
+        ],
+        "Dubai": [
+            {
+                "title": "Burj Khalifa",
+                "category": "Landmark",
+                "url": "http://www.burjkhalifa.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPe6dgydz_aiG9iYIRhtG_oi_q6w89K_LPXfliY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Burj Al Arab",
+                "category": "Hotel",
+                "url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB6fwvLuOQn2ByH7G70FJnMoIuKyvE-i--Tsk9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubai Mall",
+                "category": "Shopping Centre",
+                "url": "https://thedubaimall.com/ar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkiFNo4E5CVdZQ_2_XLrwgpJvAQAkwK4598IF2=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Dubai Fountain",
+                "category": "Fountain",
+                "url": "https://www.burjkhalifa.ae/ar/downtown-dubai/the-dubai-fountain/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMC5x5erWlAHMyyGUN_T12rX2HDXCxB6Q4Aj1Ls=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubai Miracle Garden",
+                "category": "Garden",
+                "url": "https://www.dubaimiraclegarden.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQSizf0fiT-agznhT-5qywd9293La_XR9MN5N3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ski Dubai",
+                "category": "Ski resort",
+                "url": "https://www.skidxb.com/ar-ae/ski-dubai",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfyfVPRrU7MhlCttbT4DjTgEJVZ6MoGtKFjtVV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubai Aquarium & Underwater Zoo",
+                "category": "Aquarium",
+                "url": "https://www.thedubaiaquarium.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODiz6BkoiXKtAOoTT7_vyqeJjWZCxmL2aVKcUB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall of the Emirates",
+                "category": "Shopping Centre",
+                "url": "https://www.malloftheemirates.com/en?utm_source=google&utm_medium=organic&utm_campaign=google_my_business",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0B0skICMGbnQmCcHLe-XmSsXwmp8TR_HO0uvU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquaventure Waterpark",
+                "category": "Water park",
+                "url": "https://www.aquaventureworld.com/?utm_source=googleplaces&utm_medium=location&utm_campaign=mwp&utm_content=listing",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJtvzMz8R1cU9Gb39mAxV6lzIY5kavj7ALcYE1=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Lost Chambers Aquarium",
+                "category": "Aquarium",
+                "url": "https://www.aquaventureworld.com/lost-chambers-aquarium?utm_source=googleplaces&utm_medium=location&utm_content=listing",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9PtZ7FIuleA-HD-B-gBdh5uNgzecUwsaXXsD4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Madinat Jumeirah",
+                "category": "Resort hotel",
+                "url": "https://www.jumeirah.com/en/collection/madinat-jumeirah",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUf_0CPJ6DrMnZW-fMQdIxyHMkRVpm1_zbtXyR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kite Beach",
+                "category": "Beach",
+                "url": "http://www.kitebeach.ae/?utm_source=google&utm_campaign=local_search&utm_medium=organic&utm_content=KiteBeach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUcmEbYq4ShaAI-21rSMFobej1WQe-PiTPOKBa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souk Madinat Jumeirah",
+                "category": "Shopping Centre",
+                "url": "https://www.jumeirah.com/en/collection/madinat-jumeirah",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9LN10wmkbpYoi3ng2VJ45ymtf6bV0XX0NNWoT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jumeirah Beach Hotel",
+                "category": "Resort hotel",
+                "url": "https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcXjI_EH0iTyCaTdCJZDqpXtDR4jcgdh6jufDe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ain Dubai by Dubai Holding",
+                "category": "Tourist attraction",
+                "url": "http://www.aindubai.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=ain-dubai-gmb",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtJvUrjKHrmjrd1eHSBFA6qzL64Und_PsEzlLw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubai Gold Souk",
+                "category": "Bazar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxZ8B5PDWYmkAIUz4FXDINQhVYFstv_Ab40_7d=w148-h148-n-k-no"
+            }
+        ],
+        "Khalifah A City": [],
+        "Umm Al Quwain City": [
+            {
+                "title": "Umm Al Quwain- Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZTpan1un9OCDRmtBtB5ON-j0osvbUgoYBn7f0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitesurf Beach Center",
+                "category": "Tourist attraction",
+                "url": "https://kitebeachcenter.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvFb6osavPGP6GZSkVMeN_gEK42qmQQ6gx6-jM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vida Beach Resort Umm Al Quwain",
+                "category": "Hotel",
+                "url": "https://www.vidahotels.com/en/vida-beach-resort-umm-al-quwain/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyFqWBzyVKR9CadS2uEKLAZP5x6jLpTNvEXFg-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umm Al Quwain Museum",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_kJUSR2Z4k4pMHAwn3Hl3KjjUTr_Rup1vvpjE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mall of UAQ",
+                "category": "Shopping Centre",
+                "url": "http://www.uaqmall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP1gW5t_WholbJYpLj3bxBbBWfZgy3Cp3j4Vsk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Imar Spa",
+                "category": "Spa",
+                "url": "http://imarspa.co/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvhmgBKd-Vqjvxm5ZdL3nrda9pOUQ9R13zifV2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubai Aquarium & Underwater Zoo",
+                "category": "Aquarium",
+                "url": "https://www.thedubaiaquarium.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODiz6BkoiXKtAOoTT7_vyqeJjWZCxmL2aVKcUB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubai Frame",
+                "category": "Monument",
+                "url": "https://www.dubaiframe.ae/ar/plan-your-visit",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5v9AxXsGgxHwnbhmK2VoPdjp92og9d13D4kK2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ajman Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPb1zT8db7jcP5IRerThx8OIiWpPrJkF12bPrP4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mangrove Beach",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-WU2Jvz8Buvqyan_O36THDX2ijP9-mhQELnLO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of The Future",
+                "category": "Museum",
+                "url": "https://museumofthefuture.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnkODReT0k89f9tvZdn2bTlSrhWS_8DvksINft=w148-h148-n-k-no"
+            },
+            {
+                "title": "UAQ Marine Club",
+                "category": "Marina",
+                "url": "http://www.uaqmarineclub.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBHmR2NQ1kk74EIH8y8s8kfqcXxcSPx0U8GEtT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubai Gold Souk",
+                "category": "Bazar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxZ8B5PDWYmkAIUz4FXDINQhVYFstv_Ab40_7d=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Mangrove Beach | شاطئ القرم",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt7j0LtoLfUqegLXVUAIV8aVI42Q_sWqmNnqGd=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Zoo Wild Life Park Umm Al Quwain",
+                "category": "Zoo",
+                "url": "http://www.thezoopark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJ6V2zKR099pEd1pT221au7Km5DdGa5vfq5NSG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mamzar Beach- sharjah",
+                "category": "Beach",
+                "url": "https://www.visitsharjah.com/en/activities/beaches/al-mamzar-beach-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNZm4dXUgtyK9yKj8A7I5g3AU2H4B8i7V3SN6E=w148-h148-n-k-no"
+            }
+        ],
+        "Reef Al Fujairah City": [],
+        "Ras Al Khaimah City": [
+            {
+                "title": "Manar Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjRP628UveuQAFB9qlQxwtvoN-CukTcBQmvXr_=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ras Al Khaimah",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/-VZMYlAxeSDO0kGga76z-J5-XOvFVH68Zw6jfS3pgpK03zhPJN-tX2F-uwgyUugllvfNut5Pj1hx1IM4gDXXsU_R1Rfr0WkeU3S1O1tNhR-lY5G9p7gNY-nP7Jm9oJeuf_Isl-6rSgwUv9AeMYYB8Y94h0bRcVc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jebel Jais",
+                "category": "Tourist attraction",
+                "img": "https://lh4.googleusercontent.com/proxy/fsEHWFK2R4ZZatEdV6QEaWPV7IEW-dEpfj0fiRYpejzW3B_E4DxT13NLRCRU9cYQsWoJ7Wzag73zKgDJIWsdoGgbadsj1ZFfIDW8BqQchIUi5zHo9beqKyyXgHZk5UvLoPPPmqODWsCJ_UOThCkBIBphK77ehw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rak Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRhZPV6Ahzr-FVVNEJvVVy5Ui3qookkCsfTEHg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Flamingo Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1QjTBVC9OKzuEt8-rQLXahO2HtbttBLgX8ZUL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saqr Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNV1GptjRg1J1o-FfY0XR87Y2xjNhB5GizyifCW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tridom - Indoor Theme Park",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO60AmmWDsjUhZsFuueglZRiNgiG_gr6A4i_g61=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tower Links Golf Club",
+                "category": "Golf club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEB-vgVFK1S7xn9gM5j8zHJKs67EjXMsE62Soc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dhayah Fort",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzDcWaiixj0u77szm5N3zWZiyqkDGxSrXBM2pd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hamra Beach, Ras Al Khaimah.",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyBy6kvwA6kblIqwQ5uCyAIHbiaFDitnqEyaI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rak Natures Treasures",
+                "category": "Historical place museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN4yKaG2D6LWeDw4AMXd8W4RPSNru7l985mozN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suwaidi Pearls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPG_S8oJcp54tGoefKDj6YPWLqZl5iD3ecTWdan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khatt Springs Stable",
+                "category": "Horse riding school",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcwEmCp2xjCzImnOt_TXrKy4q_fdxAKNShIory=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hamra Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgnkFde5B0iSgg3TefUOkQnYGzuLpFUx2nbQzc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khuzam",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJOfvFmPcF3OyN5vAmotgbGPh__J71t9JdXiYF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shamal",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO97XqB8ZtywyjMc4ufHH-xncR-1RKccN77lP85=w148-h148-n-k-no"
+            }
+        ],
+        "Sharjah": [
+            {
+                "title": "Al Majaz Waterfront",
+                "category": "Park and Garden",
+                "url": "http://www.almajaz.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdWcGh78m--R3X-x8AsHmcWtqOkrNJPspeXY_c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Mamzar Beach Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbT5QJ9hn1rseQfkSo_wSdSjx9wgDtkGl5SNMj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Khan Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmKMjDnv_eISQk6m9WU4KIL7EBnT4kPM2Ab9iV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sharjah Mosque",
+                "category": "Mosque",
+                "url": "http://www.sia.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqiVG9wJSyVdCXzOQLhyt-1nDfyWBNG-kD3jaz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Souq Al Jubail",
+                "category": "Fresh food market",
+                "url": "http://www.souqaljubail.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsaLLiEGW6MTP-Is7c2uacmZptYt3xjXpf9ZO7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sharjah Golf and Shooting Club",
+                "category": "Golf club",
+                "url": "https://golfandshootingshj.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGpNJPhI6tuqhxlRStJcRfXrygw-DGAB9qNdOd=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Flag Island",
+                "category": "Tourist attraction",
+                "url": "http://shurooq.gov.ae/project/flag-island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXvxGc-h4-NefVeMhPvdjZLwESDA0hrDsecRpq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Burj Al Arab",
+                "category": "Hotel",
+                "url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB6fwvLuOQn2ByH7G70FJnMoIuKyvE-i--Tsk9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sharjah National Park",
+                "category": "National park",
+                "url": "http://portal.shjmun.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpnbXzZfoJze6wqJ2sg1E7T1hvYM9dmectCXxc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Noor Mosque, Masjid, مسجد",
+                "category": "Mosque",
+                "url": "http://www.sia.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrr72TLM0ZvABMWsR-v40Ifxm6dUoa2Zl-EuYA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sharjah Heritage Museum",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEY129tsokKkemhK8NMsrWsflqnJH8ShZX9Aoa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sharjah Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6JC8s-s-dAphDP50_7HJMXye1HvuLBaWwlVW0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jumeirah Beach Hotel",
+                "category": "Resort hotel",
+                "url": "https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcXjI_EH0iTyCaTdCJZDqpXtDR4jcgdh6jufDe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventureland",
+                "category": "Amusement park",
+                "url": "https://www.adventurelanduae.com/",
+                "img": "https://lh4.googleusercontent.com/proxy/LHDhesGQfrQzNdBcmhnO4UBfwWtUagkZw-pJFMZ3APJlkIVQJnbHLLUAiE27geNqaNEMM-b-K42Gez55KxB4PuuFHFxm7Dr_BGQWGB7dXUyuyz7-oTyomkYAYGyJvGuthOjNqBLmDevMhdEd3biFw7cNRw0YM84=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ajman Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLTkmyLg0Wh9kLcbLvYB0JLCBYWJOM9NnA4Jbp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wasit Wetland Centre",
+                "category": "Wildlife park",
+                "url": "https://epaashj.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsId1Ot6TGBqpGQ9_YegrWqVLaujp6DMVnnB7V=w148-h148-n-k-no"
+            }
+        ],
+        "Zayed City": [
+            {
+                "title": "Yas Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.yasmall.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeAN6hh_ZQbVU8_axZUQNbvzBa-zK60G6EHXeX=w148-h148-n-k-no"
+            },
+            {
+                "title": "The National Aquarium Abu Dhabi",
+                "category": "Aquarium",
+                "url": "https://thenationalaquarium.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMazYgDW5Thqxhn4wI0bD9xx4Sq5SogAnhZo-nB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Observation Deck at 300",
+                "category": "Tourist attraction",
+                "url": "https://www.hilton.com/en/hotels/auhetci-conrad-abu-dhabi-etihad-towers/dining/observation-deck-at-300/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOq4pWV0AaUU2G-J_5OOXnILhCGTfwmHeixbfh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Louvre Abu Dhabi",
+                "category": "Art museum",
+                "url": "https://www.louvreabudhabi.ae/ar/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGkkqAKW9-UP3BpgB5URG1lMpXvlmDf2ajE8I5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yas Waterworld Abu Dhabi",
+                "category": "Water park",
+                "url": "https://www.yaswaterworld.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp2_gOA7JNANIn6D9wWekkRlWnidNHaqy5_3pV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Warner Bros. World Abu Dhabi",
+                "category": "Amusement park",
+                "url": "https://www.wbworldabudhabi.com/?utm_source=gmb&utm_medium=organic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2D5jvdYjuiCx8hXakTLi49hG8O1xFulTsfdV8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qasr Al Watan",
+                "category": "Tourist attraction",
+                "url": "https://www.qasralwatan.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9KuzrxM5f5y6GTDckZOOy5uNVxTkg0q-7C2Ci=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abu Dhabi Falcon Hospital",
+                "category": "Animal hospital",
+                "url": "https://www.falconhospital.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRU368K0A5CPjVQHiwN-mk-u5wZWmOV7T7nLAr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sheikh Zayed Grand Mosque",
+                "category": "Mosque",
+                "url": "https://www.szgmc.gov.ae/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvnvcVpCkBoKPG1UCfqQ2V5uVXqdrSjAF-jYpx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ferrari World Yas Island, Abu Dhabi",
+                "category": "Theme park",
+                "url": "https://www.ferrariworldabudhabi.com/ar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOehTNXyjD3Tl9K-92FdC8_n3IDb9Xut1GsyuLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emirates Palace Mandarin Oriental",
+                "category": "Hotel",
+                "url": "https://www.mandarinoriental.com/ar-ae/abu-dhabi/emirates-palace",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOnDWpOtqBn5Xi_1S0EXyrhn1GKR5nJS6_aWlg=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Dubai Aquarium & Underwater Zoo",
+            "category": "Aquarium",
+            "url": "https://www.thedubaiaquarium.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipODiz6BkoiXKtAOoTT7_vyqeJjWZCxmL2aVKcUB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Burj Al Arab",
+            "category": "Hotel",
+            "url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPB6fwvLuOQn2ByH7G70FJnMoIuKyvE-i--Tsk9=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Dubai Fountain",
+            "category": "Fountain",
+            "url": "https://www.burjkhalifa.ae/ar/downtown-dubai/the-dubai-fountain/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMC5x5erWlAHMyyGUN_T12rX2HDXCxB6Q4Aj1Ls=w148-h148-n-k-no"
+        },
+        {
+            "title": "Aquaventure Waterpark",
+            "category": "Water park",
+            "url": "https://www.aquaventureworld.com/?utm_source=googleplaces&utm_medium=location&utm_campaign=mwp&utm_content=listing",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPJtvzMz8R1cU9Gb39mAxV6lzIY5kavj7ALcYE1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ferrari World Yas Island, Abu Dhabi",
+            "category": "Theme park",
+            "url": "https://www.ferrariworldabudhabi.com/ar",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOehTNXyjD3Tl9K-92FdC8_n3IDb9Xut1GsyuLx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dubai Mall",
+            "category": "Shopping Centre",
+            "url": "https://thedubaimall.com/ar",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPkiFNo4E5CVdZQ_2_XLrwgpJvAQAkwK4598IF2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Yas Waterworld Abu Dhabi",
+            "category": "Water park",
+            "url": "https://www.yaswaterworld.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPp2_gOA7JNANIn6D9wWekkRlWnidNHaqy5_3pV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Emirates Palace Mandarin Oriental",
+            "category": "Hotel",
+            "url": "https://www.mandarinoriental.com/ar-ae/abu-dhabi/emirates-palace",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMOnDWpOtqBn5Xi_1S0EXyrhn1GKR5nJS6_aWlg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jumeirah Beach Hotel",
+            "category": "Resort hotel",
+            "url": "https://www.jumeirah.com/en/stay/dubai/jumeirah-beach-hotel?utm_source=google&utm_medium=google%20places&utm_campaign=hotel",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOcXjI_EH0iTyCaTdCJZDqpXtDR4jcgdh6jufDe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Motiongate Dubai",
+            "category": "Theme park",
+            "url": "https://www.motiongatedubai.com/ar",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPNGMZGiKiyzDSr4TuZ56pJnkYR0VE1LbNwE_Lh=w148-h148-n-k-no"
+        },
+        {
+            "title": "Madinat Jumeirah",
+            "category": "Resort hotel",
+            "url": "https://www.jumeirah.com/en/collection/madinat-jumeirah",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPUf_0CPJ6DrMnZW-fMQdIxyHMkRVpm1_zbtXyR=w148-h148-n-k-no"
+        },
+        {
+            "title": "IMG Worlds of Adventure",
+            "category": "Theme park",
+            "url": "https://www.imgworlds.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPU2rbI7YhuUwyidk0LKtCstRM-oUaJ1OF5yyG1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dubai Museum",
+            "category": "Museum",
+            "url": "https://dubaiculture.gov.ae/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMtdLn-2bgR4S4flMqXrwj0ReHmKs7vbFbDk7Ti=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museum of The Future",
+            "category": "Museum",
+            "url": "https://museumofthefuture.ae/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPnkODReT0k89f9tvZdn2bTlSrhWS_8DvksINft=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kite Beach",
+            "category": "Beach",
+            "url": "http://www.kitebeach.ae/?utm_source=google&utm_campaign=local_search&utm_medium=organic&utm_content=KiteBeach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOUcmEbYq4ShaAI-21rSMFobej1WQe-PiTPOKBa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Warner Bros. World Abu Dhabi",
+            "category": "Amusement park",
+            "url": "https://www.wbworldabudhabi.com/?utm_source=gmb&utm_medium=organic",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN2D5jvdYjuiCx8hXakTLi49hG8O1xFulTsfdV8=w148-h148-n-k-no"
+        }
+    ]
+}

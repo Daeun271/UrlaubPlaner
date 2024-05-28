@@ -1,0 +1,3014 @@
+{
+    "cities": {
+        "Ra'anana": [
+            {
+                "title": "Sky Jump",
+                "category": "Children's Amusement Centre",
+                "url": "https://www.skyjump.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxMTRq1mNLDINz3l0O86hvNvDEaQYUHj4MEEZO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ra'anana Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTv0Dh_MOvHBoGAS8VW63mPSj5VxHDybJAZli3=w148-h148-n-k-no"
+            },
+            {
+                "title": "EL ÁTICO - Librería y editorial en español (Israel)",
+                "category": "Book Shop",
+                "url": "http://www.elatico.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgbD4WlKcxE_Fo-1lOvozH0kUg4bOSgblKSuf7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lookout and Observation Stock Mishmar Hasharon and reservoirs Emek Hefer",
+                "category": "Bird watching area",
+                "url": "http://www.eyarok.org.il/trip.aspx?id=1754",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeDCRupQBxp6wxh2RZCW8tRgUs5XUCysXnU---=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/horvat-midras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Aviv Museum of Art",
+                "category": "Art museum",
+                "url": "http://www.tamuseum.org.il/he/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvUGM_yConeY8XaO4rHsx99plW07103PDJO-E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laser Street",
+                "category": "Laser Tag Centre",
+                "url": "https://www.laserstreet.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO5Wne8NBXz-gg2ykt3-kvUH5jiKesomV0zwfP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Me‘arot Pa‘amon",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPACkF21SWsFXDH5ibOHepu4hoNfZV_eB0kAHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beit Samueli",
+                "category": "Reform synagogue",
+                "url": "http://www.beit-samueli.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPcss-rpddzxduNJol8l11aS5W5Zxvdfl3Fq8m=w148-h148-n-k-no"
+            },
+            {
+                "title": "ToMo Candy Israel",
+                "category": "Sweet shop",
+                "url": "http://www.tomocandy.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNar847ORQuWd2kcDCm4N7_azHSawCGWpbDPlyM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ma Belle Gallery - גלריה היפה",
+                "category": "Art gallery",
+                "url": "http://www.mabellegalerie.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrztTj54KTro3xmia9y6p5FoItY1SuYn1F64Vc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holistic Body Center",
+                "category": "Clinic",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObfnSlxHfAR3ZHmGxWhdBin-wYENB3IYEbqC1F=w148-h148-n-k-no"
+            }
+        ],
+        "Rosh Ha‘Ayin": [
+            {
+                "title": "Migdal Tsedek National Park",
+                "category": "State park",
+                "url": "https://www.parks.org.il/reserve-park/migdal-tzedek/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVEepEjvaKRIheYRX-yk01as2NPOmqDI2IjLDX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Sepulchre",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Western Wall",
+                "category": "Shrine",
+                "url": "https://www.thekotel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoMS0Tub_zNJkxOX9sj7xImrbO-ojh7U6rgoxq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dome of the Rock",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwn8E43PpLaX-BoLHyfjSsDqQgHikGFxi0N6ry=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Aviv Museum of Art",
+                "category": "Art museum",
+                "url": "http://www.tamuseum.org.il/he/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHk8u2rVaoBiE2I_0z3FUOM_9VLt7XDYMpHbAL=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "url": "https://www.imj.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old City",
+                "category": "Neighborhood",
+                "img": "https://lh4.googleusercontent.com/proxy/VmB3XPpdQ57dYKLVfnWGl39Z1vn8HOu6zSir3bXDqiqESmGtIp2iJsgETEWtMDPhEBQbXJyGPgV8g8JpGNYS3Y5-mxFEdUNHL1l7ORkyT1FGJ2_jvaJ0b7gwwejNhDvEdeXyAZO_SZcaB_DVC225M-WxLjYDGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dead Sea",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZvtW3AczgH0dAZ9OMacv77RDh9bWPlKZPCx-k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount of Olives",
+                "category": "Ridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDBUsBEwDkZh2sCqg4-tfattuhlGYJuUrSqydY=w148-h148-n-k-no"
+            }
+        ],
+        "Beersheba": [
+            {
+                "title": "Tel Be’er Sheba",
+                "category": "National park",
+                "url": "https://en.parks.org.il/reserve-park/tel-beer-sheva-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOAPcB3Wpu6zxAw0zISyi9vXApBLR_KmD-NrXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "River Park Beer Sheva",
+                "category": "National park",
+                "url": "http://www.beer-sheva.muni.il/Visitors/Attractions/Parks/Pages/ParkNahalBR7.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7eRYocpJtN8Qw-aa1PkInXibo9j3rxz8xsz2n=w148-h148-n-k-no"
+            },
+            {
+                "title": "פארק הילדים של באר שבע",
+                "category": "City park",
+                "url": "http://www.beer-sheva.muni.il/City/Projects//Lists/List/DispForm.aspx?ID=13",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpO7KvZagUWzEdMitSEFAi6qIJ9QYZ16l-8tOu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Islamic and Near Eastern Cultures",
+                "category": "Historical place museum",
+                "url": "http://www.ine-museum.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKw7a9ifWpftjwSTlV1ZuQ1iyF9cFRi1Ia9DD2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ben Gurion University of the Negev",
+                "category": "Public university",
+                "url": "https://www.bgu.ac.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPahB47JZQj5EFPLsrV246VsE3wkCXuWUHAInZC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ibrahimi Mosque",
+                "category": "Religious destination",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxrY274vgiMGYvZk3Xmb04G3q4npvlFR0G1tf4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mamshit National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqk1EgoCjrJtpfpV93dR9jA0NSNCNIs_rM58hQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "HaBsor National Park (Eshkol Park)",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%94%D7%91%D7%A9%D7%95%D7%A8-%D7%A4%D7%90%D7%A8%D7%A7-%D7%90%D7%A9%D7%9B%D7%95%D7%9C/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0pmqLsFoe7h47XwbZ3CxvDGymwDsTQdFpLBeZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "צריף בן-גוריון",
+                "category": "Historical place museum",
+                "url": "http://www.ben-gurion.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO16AvGT2CNdRIK9ZYi-behM0ZeO1Th4gTTxNSy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Israeli Air Force Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfYcIoHZ5HREJt7U6iUqHzmMSW3kazzZxNlHoJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carasso Science Park",
+                "category": "Science museum",
+                "url": "http://www.sci-park.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEEUB1VdAtvoCAE7eAGTkaNddXBHgnZwwDli0c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Negev Zoo",
+                "category": "Wildlife park",
+                "url": "http://midbarium.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHLQUXCXu4CB0L0qpYan6eRUA3dyn9Ai5ykS4c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/horvat-midras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lunada - לונדע",
+                "category": "Children's museum",
+                "url": "http://www.lunada.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ4PyBZKzA7MuHuvq16iy3DqU-1AgzlQi1smk7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carmey Avdat Farm",
+                "category": "Winery",
+                "url": "http://www.carmey-avdat.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPq12sr_mowK-4SY-cs_4tYQmipdwQwXnjjN60-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abraham's Well",
+                "category": "Visitor centre",
+                "url": "https://www.facebook.com/AbrahamswellBR7/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSLNUjuo1ldd9dGWQR38UT9TnpOVLgj8rqa8CS=w148-h148-n-k-no"
+            }
+        ],
+        "Kfar Saba": [
+            {
+                "title": "Isaac Wald Park - Kfar Saba Park",
+                "category": "Park and Garden",
+                "url": "http://www.kfar-saba.muni.il/?CategoryID=227",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzuzJn8S3L9gYWDdOlZl8_M2y8BIzfWZGHfjsl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Planet Bowling",
+                "category": "Bowling Alley",
+                "url": "https://www.planetbowling.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNC4gHraDNQYHSTTFCekFESJd7UxUd6Pp1RAbi4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ra'anana Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTv0Dh_MOvHBoGAS8VW63mPSj5VxHDybJAZli3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sailing Israel",
+                "category": "Boat Hire Service",
+                "url": "http://www.sailingisrael.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1eJOwDv0Vm7p4kA0lrHU6BjP512i_G6kRvgk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "BenHaim Winery.",
+                "category": "Winery",
+                "url": "http://www.benhaim.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfSftA6n0lYZ2QFmVNaTWMO6FjEl-yROPwyYf7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Herzliya Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxOpbOOVdgCxQfGtwyYTF9QJO81X5t2JeHEdrE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paintball Israel",
+                "category": "Paintball centre",
+                "url": "http://www.paintball.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6JA6Exh6GP3RkPZsA8q-rpRgynU6lMaJ5ECnF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apollonia National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%90%D7%A4%D7%95%D7%9C%D7%95%D7%A0%D7%99%D7%94-%D7%AA%D7%9C-%D7%90%D7%A8%D7%A9%D7%A3/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeATTU4iJl01ADsE0TfTyJs79qixPbFneHBFtL=w148-h148-n-k-no"
+            },
+            {
+                "title": "G Mall Kfar Saba",
+                "category": "Shopping Centre",
+                "url": "https://www.gazit-g.com/property/g-%D7%9B%D7%A4%D7%A8-%D7%A1%D7%91%D7%90/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxQFOs_pVO1VTZ52bl7wnuX852cAJNHdg4Eemc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kfar Saba Museum",
+                "category": "Archaeological museum",
+                "url": "http://www.kfar-saba-museum.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf4VNpwoEdztNtIRgWsA8Fsu0lvmG5ExYzSFf9=w148-h148-n-k-no"
+            },
+            {
+                "title": "פארק הכושר - Shape Park",
+                "category": "Athletic park",
+                "url": "https://shapepark.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYpQlElkzllyGBZvnj35_rt_a_6Ki6ZjKUvvSx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galei HaSharon",
+                "category": "Public swimming pool",
+                "url": "http://galeyhasharon.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFjH3hTIymKb6jYvB9xg3KIqC_VS9QldPuNf52=w148-h148-n-k-no"
+            },
+            {
+                "title": "Israel Private Tour Guide",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3yvYraWMGOYVrnNa6rbVLVz5VUtx0PgdWN16-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Via Sabra - Unfolding Israel",
+                "category": "Tour operator",
+                "url": "https://viasabra.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-primary-website-link",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCk_CYSqa8Y4Q6ZMxq3TKZ74_Yk31ZSwyPnWhY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acadia Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpuxJL_Ay76yIwmNtMyjzVBS9oSXRsKV0qniNi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arim Mall/Weizmann",
+                "category": "Bus stop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmfYjTFMukpEv-vkhQ6zRwjD0jiCBxyEM6Wg8=w148-h148-n-k-no"
+            }
+        ],
+        "Bet Shemesh": [
+            {
+                "title": "The Israel Police Heritage Museum",
+                "category": "Museum",
+                "url": "https://www.policemuseum.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO-ta7dWodeAPSR69OmuBShMgu01H2fRLZJ3ka=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khirbet Qeiyafa",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXH4_a4oETwPbQDbbu8J2q4Artx4KXv9Ww05DB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Beit Shemesh",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMB2tEiXvTnUerx4c_l_W1_vp2gbJ_aFQh6mU8b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ella Valley Winery",
+                "category": "Winery",
+                "url": "http://www.ellavalley.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTChFSrYdkHa075wU7TvsxC8504QYoaCzkXU_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ein Hemed National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%A2%D7%99%D7%9F-%D7%97%D7%9E%D7%93/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2WeS_sPo3tTynN50NXrEjoFklbCH-oJZ66S5U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayalon Canada Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGAdhBrowEj8jULzJtUWajXyRTlVVQUR-KuuxK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Sepulchre",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dome of the Rock",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwn8E43PpLaX-BoLHyfjSsDqQgHikGFxi0N6ry=w148-h148-n-k-no"
+            },
+            {
+                "title": "بيت جمال",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPivSCbiH9m7jRHHc_7z7hGZgMvWy5NiqInorSi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Western Wall",
+                "category": "Shrine",
+                "url": "https://www.thekotel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoMS0Tub_zNJkxOX9sj7xImrbO-ojh7U6rgoxq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Me‘arot Pa‘amon",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPACkF21SWsFXDH5ibOHepu4hoNfZV_eB0kAHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "url": "http://gilfanto.co.il/?page_id=14",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "url": "https://www.imj.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dead Sea",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZvtW3AczgH0dAZ9OMacv77RDh9bWPlKZPCx-k=w148-h148-n-k-no"
+            },
+            {
+                "title": "מערת הנטיפים",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%9E%D7%A2%D7%A8%D7%AA-%D7%94%D7%A0%D7%98%D7%99%D7%A4%D7%99%D7%9D/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJi_4A-5JDjy16cX0-25FmodEdTwcWHxaPiAIG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moshe Braun Fine Judaic Art",
+                "category": "Art gallery",
+                "url": "http://www.moshebraun.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcxEFgkjA7lOekdJwSnNK_ndyNerSZ81lwjJBT=w148-h148-n-k-no"
+            }
+        ],
+        "Jerusalem": [
+            {
+                "title": "Yad Vashem",
+                "category": "Museum",
+                "url": "https://www.yadvashem.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY8OmfgbDSdHbq2RCg9X4C4QKQFvx23JrZ6bWj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mahaneh Yehudah Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYVf1KAbwsu_07IXcSSzz2SjcuCL00OKykHS30=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Sepulchre",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "url": "https://www.imj.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Western Wall",
+                "category": "Shrine",
+                "url": "https://www.thekotel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoMS0Tub_zNJkxOX9sj7xImrbO-ojh7U6rgoxq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Aqsa Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRY4VwEfTXCtl2Cnwf4PsDg2_Dy7zHzk-SBEoL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tower of David",
+                "category": "History museum",
+                "url": "https://www.tod.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7faa8LfO8Y-H6dQTT-lNVGzeZgUxl6BdXBAXv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gethsemane",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOsHTkFcvmTfKvnVwDECoJtOiBESUTSOlAJrNw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dome of the Rock",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwn8E43PpLaX-BoLHyfjSsDqQgHikGFxi0N6ry=w148-h148-n-k-no"
+            },
+            {
+                "title": "Damascus Gate",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8KZvJyC76KjeK0-u3PIk5D3W08SLsL2SfW2XC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple Mount",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAv4CURZwJvahz6RIQ7BoKk6-Rvii8NOCInMZc=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Garden Tomb Jerusalem",
+                "category": "Garden",
+                "url": "http://www.gardentomb.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-cGK0Iw9trBW4hRrr7nA27fGSKSN61J5RTSnl=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Tisch Family Zoological Gardens in Jerusalem",
+                "category": "Zoo",
+                "url": "http://www.jerusalemzoo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwU18k2QmPTnGQaFMquXL-MMwy_CaaiqJfEgtL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dormition Abbey - Hagia Maria",
+                "category": "Abbey",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND65npeXYPn6uyG30_CpTbxj4JtcNowB_4BlBh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Islamic Art",
+                "category": "Art museum",
+                "url": "http://www.islamicart.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9y7SMdImCZ6fLrqu3kPq8G4HV7cznul1AWXw=w148-h148-n-k-no"
+            },
+            {
+                "title": "בית כנסת החורבה - Hurva Synagogue",
+                "category": "Orthodox synagogue",
+                "url": "https://travelrova.co.il/hurva/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNFrsEf7EktjohRcF3uw86XVkIN1NcWZ9jOZsx=w148-h148-n-k-no"
+            }
+        ],
+        "Ness Ziona": [
+            {
+                "title": "Sandstone Hills National Park",
+                "category": "Nature reserve",
+                "url": "https://www.facebook.com/kurkarnessziona",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdhFuI48Qc1rbLGx-jkS_ubk7UcF8WvjSW9Hjt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Sepulchre",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Western Wall",
+                "category": "Shrine",
+                "url": "https://www.thekotel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoMS0Tub_zNJkxOX9sj7xImrbO-ojh7U6rgoxq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sarona Market",
+                "category": "Market",
+                "url": "http://saronamarket.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxkix_Df4woKfGNA2O-kQA0kZb3T53f3ygY7g5=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "url": "https://www.imj.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Cameri Theatre",
+                "category": "Theatre Company",
+                "url": "http://www.cameri.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgZnDD98wlMet-vaBm2-Sa9zhmnxK39TozdZYi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park HaTachana",
+                "category": "Historical landmark",
+                "url": "http://www.hatachana.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4-MwHzIKhhL2q398dnbkK6m7P1ozUfvwlmyyz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menora Mivtachim Arena",
+                "category": "Stadium",
+                "url": "http://www.sportpalace.co.il/en/menora-mivtachim/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdzIO9ti1ajkFG9cpBfYuf-kFsfssXFnkph8t0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dead Sea",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZvtW3AczgH0dAZ9OMacv77RDh9bWPlKZPCx-k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old City",
+                "category": "Neighborhood",
+                "img": "https://lh4.googleusercontent.com/proxy/VmB3XPpdQ57dYKLVfnWGl39Z1vn8HOu6zSir3bXDqiqESmGtIp2iJsgETEWtMDPhEBQbXJyGPgV8g8JpGNYS3Y5-mxFEdUNHL1l7ORkyT1FGJ2_jvaJ0b7gwwejNhDvEdeXyAZO_SZcaB_DVC225M-WxLjYDGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "The White City of Tel Aviv",
+                "category": "Tourist attraction",
+                "url": "https://www.touristisrael.com/the-white-city-tel-aviv/344/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUWFmx3_-5UTTcd-CiUBm5scRhu6QB6mwN6Zgc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old City",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPl12XfgvqKv_99i9G7HXthVg7aoLCnZwmF5bzv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Aviv Museum of Art",
+                "category": "Art museum",
+                "url": "http://www.tamuseum.org.il/he/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvUGM_yConeY8XaO4rHsx99plW07103PDJO-E=w148-h148-n-k-no"
+            }
+        ],
+        "Herzliya": [
+            {
+                "title": "Ra'anana Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTv0Dh_MOvHBoGAS8VW63mPSj5VxHDybJAZli3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seven Stars Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.7star.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP54CK6cfba1WUl5wqNTK20_s5lfh8lNQIs4Nij=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apollonia National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%90%D7%A4%D7%95%D7%9C%D7%95%D7%A0%D7%99%D7%94-%D7%AA%D7%9C-%D7%90%D7%A8%D7%A9%D7%A3/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeATTU4iJl01ADsE0TfTyJs79qixPbFneHBFtL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zappa Herzliya",
+                "category": "Live music venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdFw2zRqGqKWEO34qOVeqQ_2WhHw4XAs5l2iP6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Herzliya Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxOpbOOVdgCxQfGtwyYTF9QJO81X5t2JeHEdrE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marina Herzliya",
+                "category": "Marina",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiTHQOD6Lo1BoNfuo5gZxDKMNMgv_6a2dH-98X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Herzliya Museum of Contemporary Art",
+                "category": "Museum",
+                "url": "http://www.herzliyamuseum.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbcrZtkPRpTckp2XJVs7iyGeayMWMkKg0vadAD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Herzliya Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH-dzFsqLwaCo-Yxy-qlAx0ZFBPzVd2Wqobhjq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sidna Ali Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzvrYgYpbDhmKBug8J1hMq7njlAJF6YPcTX6_H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shefayim Water-Park",
+                "category": "Water park",
+                "url": "http://www.waterpark.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrDzKypEks-G-BYzCVZDZPmu1ZCcy7RlHyNC1u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Acadia Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpuxJL_Ay76yIwmNtMyjzVBS9oSXRsKV0qniNi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beit Rishonim",
+                "category": "History museum",
+                "url": "https://brhmuseum.wixsite.com/education",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMARJbaHexzBghwLVYOY735z4AcH1xveTSI4Iuh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lookout and Observation Stock Mishmar Hasharon and reservoirs Emek Hefer",
+                "category": "Bird watching area",
+                "url": "http://www.eyarok.org.il/trip.aspx?id=1754",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeDCRupQBxp6wxh2RZCW8tRgUs5XUCysXnU---=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/horvat-midras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aviv Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOppRB87fzikkJN5SV6l3ZXSbAicMtBMaPO8Zfc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "url": "http://gilfanto.co.il/?page_id=14",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            }
+        ],
+        "Umm el Faḥm": [
+            {
+                "title": "Caesarea National Park",
+                "category": "National park",
+                "url": "https://en.parks.org.il/reserve-park/caesarea-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsmBTi9FlEls4_jgJhKp9JJYsv_YOa42oOEIQ2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gan HaShlosha National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%92%D7%9F-%D7%94%D7%A9%D7%9C%D7%95%D7%A9%D7%94-%D7%94%D7%A1%D7%97%D7%A0%D7%94/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRyrUDr1nf9EC1hpCvZFSqnGz643z2g1jyiq_N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yardenit",
+                "category": "Religious destination",
+                "url": "https://www.yardenit.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsioeXWAW-olHjboD6YW-ywsM58Yemmq2144AK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beit Guvrin-Maresha National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%91%D7%99%D7%AA-%D7%92%D7%95%D7%91%D7%A8%D7%99%D7%9F/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGCKE1h47G_MfkI1LhKUZX8inWd6pAR8iwvD2u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paris Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaVQN6W5v0ZxOup_Nb9IB5FGF-B_YXAkDfur-L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jurayneh Mosque مسجد الجرينه حيفا",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOcG1uH4p_uOSINqvb_IDsbTC7Z0gQIgbbK7qP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastery of the Discalced Carmelite Nuns",
+                "category": "Convent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOq97lgBBwXlJMxtRHg2EJZZJWuLvAfhy5BdCYD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chabad of Haifa",
+                "category": "Religious organisation",
+                "url": "http://www.chabad.org/centers/default_cdo/aid/118067/jewish/Chabad-of-Haifa.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObAu_M-uJp39o_5J6dH71N1uwyx7vnXliDQfnP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Caesarea",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKysb8nMSQXmYaJMDb5L8AyEwc5eIx1BXL6yAg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haifa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgTFbmiwhhm3jbeeX9nzbjRWzfOLvvpsRnZ6mL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadi Nisnas",
+                "category": "Neighborhood",
+                "img": "https://lh4.googleusercontent.com/proxy/ak9H6wXN2rrDeAe1NpKqt19kQDZ47cwZ33Etcy0aU2fpvWqWWL_9Yx_acz53x5r62mc93PSPR9btRCEy99kCXsv8bVy2lxI1yCE0PTAH89r1oRqONxYfLHSEO_lNaTNVYnApk2j3_JkzZMiyuZU7PsQY0SJQ3Mk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old City",
+                "category": "Neighborhood",
+                "img": "https://lh4.googleusercontent.com/proxy/VmB3XPpdQ57dYKLVfnWGl39Z1vn8HOu6zSir3bXDqiqESmGtIp2iJsgETEWtMDPhEBQbXJyGPgV8g8JpGNYS3Y5-mxFEdUNHL1l7ORkyT1FGJ2_jvaJ0b7gwwejNhDvEdeXyAZO_SZcaB_DVC225M-WxLjYDGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramat Hanadiv",
+                "category": "Tourist attraction",
+                "url": "http://www.ramat-hanadiv.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaQME2SWpi3WzZiUSdXgdayZmCdqUjml_6XHBa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sammy Ofer Stadium",
+                "category": "Stadium",
+                "url": "https://www.haifa-stadium.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8WzYx14ywm2nsXVypZC60lZJYMaKq1Bq0ek-X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hecht Museum",
+                "category": "Museum",
+                "url": "http://mushecht.haifa.ac.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZUHQoVaVq3TPn9CRABKCemvGPBrSuPFjPmZJL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Technion - Israel Institute of Technology",
+                "category": "University",
+                "url": "http://www.technion.ac.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_m4KN4AiLyu4tLof2fDwg9pBOrOEF6nXbpNdY=w148-h148-n-k-no"
+            }
+        ],
+        "Nahariyya": [
+            {
+                "title": "Nahariya's Promenade",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY4D_clMl5sDrgIqMDBzUM6Q0BJRmIlAun1r4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nakhal Kziv Reserve",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%A0%D7%97%D7%9C-%D7%9B%D7%96%D7%99%D7%91/#10",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCR9ARWwC788FTyBYD8a5d6i-l9zvNCNnBTsOK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rosh HaNikra Grottoes",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-TxWtw0Sy7x7TlX3CgHGU18zH_ol7QcOVaRU0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yehiam Fortress",
+                "category": "National park",
+                "url": "https://en.parks.org.il/reserve-park/yehiam-fortress-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOd5jyZ6zNUtUyRV5FXxAdbFwKVWfNT6pbZIl1-=w148-h148-n-k-no"
+            },
+            {
+                "title": "BIG Regba",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNosDOSpsj42B0fYtEwFzgDEmnXwEW-jVXGjypN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Keshet Cave",
+                "category": "Tourist attraction",
+                "url": "https://www.parks.org.il/trip/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%9E%D7%A2%D7%A8%D7%AA-%D7%A7%D7%A9%D7%AA-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C-%D7%98%D7%99%D7%95%D7%9C/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIBgUzIIUgplxAwbtFpLwiUtCDG1h7DzkQtLP7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Montfort Fortress",
+                "category": "Hiking area",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%9E%D7%91%D7%A6%D7%A8-%D7%9E%D7%95%D7%A0%D7%A4%D7%95%D7%A8/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnEJzInjyZfrzWYNFzL62fyVU_dch-C591ry95=w148-h148-n-k-no"
+            },
+            {
+                "title": "Extreme Park",
+                "category": "Theme park",
+                "url": "http://www.pex.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIVyPNVGcO_qzBfH39M0BZ3UDk1ZhwTXT9WFNR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Treasures in the Walls Museum",
+                "category": "Museum",
+                "url": "https://www.akko.org.il/attraction/the-ethnographic-museum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNi_ECN4BOtIWl86fkM8mQ0ggaLERHTzk7raRYL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Underground Prisoners Museum",
+                "category": "Museum",
+                "url": "https://museums.mod.gov.il/sites/Aco/Pages/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8NgFw4laybI-AgBuL2KBy_w1qQf0sV3sgKU9q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Achziv National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%90%D7%9B%D7%96%D7%99%D7%91-%D7%95%D7%97%D7%95%D7%A3-%D7%90%D7%9B%D7%96%D7%99%D7%91/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNC_jYgQlCVAYbKFDGDRSlBgcXWuZyX7jCRVkx9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adir Winery",
+                "category": "Winery",
+                "url": "http://www.adir-winery.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3BYn6bZgB5f3UBxEcT-NUdCcvI9J84ZARzJtE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galil Mountain Winery",
+                "category": "Winery",
+                "url": "http://www.galilmountain.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGKWRnK5s43pRmad_R-Iiw1SHhkE5btWrhCFPK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bar-David Museum of Art and Judaica",
+                "category": "Art museum",
+                "url": "http://www.bardavid-museum.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqYGRpm4owbd4nI2bHVwbZOM27a4G0YdIRUC_3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Synagogue Emet V'Shalom",
+                "category": "Reform synagogue",
+                "url": "https://www.emetveshalom.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPn02NrSVeFxpCqdYY5s1xyja5cRDIRQdu4r_TQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akhziv Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg-4zTU4Sh64DcC3f4FGYJ_V-Nw2kryb0FHeIo=w148-h148-n-k-no"
+            }
+        ],
+        "West Jerusalem": [
+            {
+                "title": "Dormition Abbey - Hagia Maria",
+                "category": "Abbey",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Zedekiah's Cave",
+                "category": "Historical place",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Zion Gate",
+                "category": "Historical place",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Monastery of the Cross",
+                "category": "Convent",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Al-Aqsa Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Museum of Islamic Art",
+                "category": "Art museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Gazelle Valley",
+                "category": "Park and Garden",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "King David's Tomb",
+                "category": "Historical landmark",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Dung Gate",
+                "category": "Historical place",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Pater Noster church",
+                "category": "Church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Damascus Gate",
+                "category": "Tourist attraction",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Rockefeller Archaeological Museum",
+                "category": "Archaeological museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Golden Gate",
+                "category": "Historical place",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Armenian Quarter",
+                "category": "Neighborhood",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Yad Vashem",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Tomb of Lazarus",
+                "category": "Religious destination",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Haifa": [
+            {
+                "title": "Madatech",
+                "category": "Science museum",
+                "url": "https://www.madatech.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMinKe9aIkw0SAfsuaWT1M2j43jkWWqERZozAWB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baháʼí Garden Haifa",
+                "category": "Pilgrimage place",
+                "url": "http://ganbahai.org.il/",
+                "img": "https://lh6.googleusercontent.com/proxy/55CauuF6nQo1QOtU4FlfTLyUiQkLbzJa75Yty3XBy2NdsS6NY2OybLP5qmalHUR0Ps__wDIcS_22bkc3vYLzp0IBFmjX8gksK4Qq66T7DQmurB6rqfS8ApaMkfEnUfbedHO8RZiOtBFNh6R9cwdvl9UF6brjMIU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Louis Promenade",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdBvfLHWmuNfMWr1UnHOhlF6_fkjIKTwyzNAVv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stella Maris Monastery",
+                "category": "Church",
+                "url": "http://www.carmelholylanddco.org/stella-maris-church/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjEk2pNwHHmGZABSCNN3BLw3SA9lSC1RdA9g-w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hecht Museum",
+                "category": "Museum",
+                "url": "http://mushecht.haifa.ac.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZUHQoVaVq3TPn9CRABKCemvGPBrSuPFjPmZJL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clandestine Immigration and Naval Museum",
+                "category": "Museum",
+                "url": "https://museums.mod.gov.il/sites/Haapala/Pages/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVYjRlzlfPHpjDi-_OWgY9Cv8USmjMM888Q4_8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hecht Park",
+                "category": "Park and Garden",
+                "url": "https://www.haifa.muni.il/place/hecht-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDspfBncul3y_RwtWXp0T8jymB5d-FgYv3-Mra=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Maritime Museum",
+                "category": "Maritime museum",
+                "url": "http://www.nmm.org.il/%D7%A6%D7%95%D7%A8_%D7%A7%D7%A9%D7%A8",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaPx-wuQ8jl3Mw9mayWKjI2xicyaifrzoCfAh5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haifa Port",
+                "category": "Ferry Terminal",
+                "url": "http://www.haifaport.co.il/english.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMme3abksckdGHoBQlFsyoZT0U6MUmWGw3YlwXR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tikotin Museum of Japanese Art",
+                "category": "Art museum",
+                "url": "http://www.tmja.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8pj8jExEf4wsda738v_UjlJrQECIx4abu72g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nesher Park",
+                "category": "Park and Garden",
+                "url": "http://www.nesher.muni.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtxUnGPhD2Q2i8PhfWPrH9Up7QqhkVwBEcbPTA=w148-h148-n-k-no"
+            },
+            {
+                "title": "HaZkenim Falafel",
+                "category": "Falafel restaurant",
+                "url": "https://www.instagram.com/falafel_najla_hazkenim/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPu3TqcriLtK2yw14pTPwSS4rthuK5ApGi0WYAt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haifa Zoo",
+                "category": "Zoo",
+                "url": "https://www.haifazoo.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO9xqI1zqmvJsFABfATEBLW5kQ9HClbCe3eMCO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dado Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqc4tuKwauKlLjOkNg6PD19-DdhNSrqdETNiFW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Carmel National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%A4%D7%90%D7%A8%D7%A7-%D7%94%D7%9B%D7%A8%D7%9E%D7%9C/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzNlpwh5ICk4m_-xnHmg6MwY5-V8fsl07gpSbn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shrine of the Báb",
+                "category": "Shrine",
+                "url": "https://www.bahai.org/the-bab/shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd9VaeRSXNCXGRhuv2vP1dF4OrozyYiToCGAvb=w148-h148-n-k-no"
+            }
+        ],
+        "Ashkelon": [
+            {
+                "title": "Delila Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnz7ryKeVia40e4v4qv3U8M-_MGGx_L7NaVIyl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dlila Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPf0mCdB_WVR1y_WFSjx8xi917sj6bGzCoBOIQI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holot Nitsanim Reserve",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH0ypFVRP-7rD1XxpYUrY7kDwH9N6VHSJDyEFv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ashkelon National Park",
+                "category": "National park",
+                "url": "https://en.parks.org.il/reserve-park/ashkelon-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmYw1_bmZvRo-2RVYQLLVTT-vvMhQ1M0upaED3=w148-h148-n-k-no"
+            },
+            {
+                "title": "HaBsor National Park (Eshkol Park)",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%94%D7%91%D7%A9%D7%95%D7%A8-%D7%A4%D7%90%D7%A8%D7%A7-%D7%90%D7%A9%D7%9B%D7%95%D7%9C/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0pmqLsFoe7h47XwbZ3CxvDGymwDsTQdFpLBeZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Lachish",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/lacish/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0GUEhT9uoB87Rw57TxRW_gfuZcZnMt2eIg2VM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zikim Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqmsKYiDTpcaLpOX-2uDIFKX6wyXhxSmNJFqdX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/horvat-midras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adullam Grove Nature Reserve",
+                "category": "National park",
+                "url": "https://www.kkl-jnf.org/tourism-and-recreation/forests-and-parks/adulam-france-park.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpg5s6g3pzFYkQ2rehBt0oJKt2cV40yvqj9d0Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ashkelon Marina",
+                "category": "Marina",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDiKBlo8vazNs_RYBEnl5psSI4rwGyQwAep7rk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "url": "http://gilfanto.co.il/?page_id=14",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Me‘arot Pa‘amon",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPACkF21SWsFXDH5ibOHepu4hoNfZV_eB0kAHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "The White City of Tel Aviv",
+                "category": "Tourist attraction",
+                "url": "https://www.touristisrael.com/the-white-city-tel-aviv/344/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUWFmx3_-5UTTcd-CiUBm5scRhu6QB6mwN6Zgc=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Western Wall Plaza",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIa7F6DIWXGx5EwU1I6EqXpK5SBpwW_cBZ0O7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount of Olives",
+                "category": "Ridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDBUsBEwDkZh2sCqg4-tfattuhlGYJuUrSqydY=w148-h148-n-k-no"
+            }
+        ],
+        "Bnei Brak": [
+            {
+                "title": "Church of the Holy Sepulchre",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Western Wall",
+                "category": "Shrine",
+                "url": "https://www.thekotel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoMS0Tub_zNJkxOX9sj7xImrbO-ojh7U6rgoxq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Synagogue of Tel Aviv",
+                "category": "Synagogue",
+                "url": "http://tlvgreatsynagogue.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMPkV7l8xFgD3H8I-Qs9l5-4tlNwkfEXZ7CqOi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sarona Market",
+                "category": "Market",
+                "url": "http://saronamarket.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxkix_Df4woKfGNA2O-kQA0kZb3T53f3ygY7g5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dome of the Rock",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwn8E43PpLaX-BoLHyfjSsDqQgHikGFxi0N6ry=w148-h148-n-k-no"
+            },
+            {
+                "title": "סיור בבני ברק עם אבי וחזקי - Bnei brak tour with avi and hizki",
+                "category": "Tours",
+                "url": "https://bnei-brak.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDdMC-ETJSrKQWYgBIfUZwd1A_KhC2mFnxH0Pp=w148-h148-n-k-no"
+            },
+            {
+                "title": "HaRav Kahanman Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeAoc4OVJQ3-SjijUA7Gxav1R_pXKphOyJqvjE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Aviv Museum of Art",
+                "category": "Art museum",
+                "url": "http://www.tamuseum.org.il/he/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvUGM_yConeY8XaO4rHsx99plW07103PDJO-E=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "url": "https://www.imj.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old City",
+                "category": "Neighborhood",
+                "img": "https://lh4.googleusercontent.com/proxy/VmB3XPpdQ57dYKLVfnWGl39Z1vn8HOu6zSir3bXDqiqESmGtIp2iJsgETEWtMDPhEBQbXJyGPgV8g8JpGNYS3Y5-mxFEdUNHL1l7ORkyT1FGJ2_jvaJ0b7gwwejNhDvEdeXyAZO_SZcaB_DVC225M-WxLjYDGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Itzkovitz Synagogue",
+                "category": "Orthodox synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCpgXUmgJE6zddGIw-5I70HI1jeeZYBj2kiHe3=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Coca-Cola Visitor Center",
+                "category": "Visitor centre",
+                "url": "http://sense-center.cocacola.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkgMv1sMeBStainnbyIshTKxMlDdHVkdlRrCZ6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lederman synagogue",
+                "category": "Orthodox synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOC-Sg4NMHXrAg4tYQZ6n05qX8C6oAU5u3RN65t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grayish & Co - בית לעיצוב ולסדנאות יצירה",
+                "category": "Art studio",
+                "url": "http://www.grayish.co.il/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4451404165533334713",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzhTJI0TFyfeYku7Nc1f9BqNOqw9viuYiXyuqE=w148-h148-n-k-no"
+            }
+        ],
+        "Lod": [
+            {
+                "title": "Lod",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBcGqKze_VVMIRtX8dfLY6sH3ouq7kSqOoIki2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dome of the Rock",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwn8E43PpLaX-BoLHyfjSsDqQgHikGFxi0N6ry=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Clock Tower",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCjP-CXHwG_-m1SpF9FdbefjKle9DnOJH_MM1j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tower of David",
+                "category": "History museum",
+                "url": "https://www.tod.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7faa8LfO8Y-H6dQTT-lNVGzeZgUxl6BdXBAXv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pool of the Arches",
+                "category": "Historical landmark",
+                "url": "http://www.goramla.com/category/%D7%91%D7%A8%D7%99%D7%9B%D7%AA-%D7%94%D7%A7%D7%A9%D7%AA%D7%95%D7%AA",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrA1UY_T88V5WNALJszJ6l8IaMP16P1tK6YYDV=w148-h148-n-k-no"
+            },
+            {
+                "title": "נמל יפו",
+                "category": "Tourist attraction",
+                "url": "http://www.namalyafo.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS05c_64_ayXMBDas1HXPym-_s-_bces5JAYB0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carmel Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP30QgGLkn3X0NPq8iJb5ZWLCk32ZVeuQz5GLd8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Afek National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/en/reserve-park/yarkon-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNTF9GforG78ByKEwUgDdUTZrdZPtzAbN8DSCq=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Cameri Theatre",
+                "category": "Theatre Company",
+                "url": "http://www.cameri.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgZnDD98wlMet-vaBm2-Sa9zhmnxK39TozdZYi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sarona Market",
+                "category": "Market",
+                "url": "http://saronamarket.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxkix_Df4woKfGNA2O-kQA0kZb3T53f3ygY7g5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ben Gurion Airport",
+                "category": "International airport",
+                "url": "https://www.iaa.gov.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpLRGncZi6KSuSTizcXoqAb8Ou_Xo-XuhSMMzA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple Mount",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAv4CURZwJvahz6RIQ7BoKk6-Rvii8NOCInMZc=w148-h148-n-k-no"
+            },
+            {
+                "title": "White Tower",
+                "category": "Historical landmark",
+                "url": "http://www.goramla.com/category/%D7%94%D7%9E%D7%92%D7%93%D7%9C-%D7%94%D7%9C%D7%91%D7%9F",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyc3oWaqHCW31j0Ru7OjJ9Rurg2F9GjXKOiIvj=w148-h148-n-k-no"
+            },
+            {
+                "title": "תיאטרון גשר",
+                "category": "Performing arts theatre",
+                "url": "http://www.gesher-theatre.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAZyhDJkUpYVwXYXtoX9Mu8urhvyfBlXz8yVr4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Migdal Tsedek National Park",
+                "category": "State park",
+                "url": "https://www.parks.org.il/reserve-park/migdal-tzedek/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVEepEjvaKRIheYRX-yk01as2NPOmqDI2IjLDX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yarkon Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMtndnj07MT5Xp2OR5t9AH9RP2EgsDxyusS-A1=w148-h148-n-k-no"
+            }
+        ],
+        "Qiryat Ata": [
+            {
+                "title": "BIG Krayot",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8xf3RcLFoN6RGDXrAKofzyKEJERcZ4zjmqSpo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babylon Park",
+                "category": "Children's Amusement Centre",
+                "url": "https://babylonpark.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEPocxkcVzOWu8kz8VArjVjOSJ0ZDvDtW2LoPr=w148-h148-n-k-no"
+            },
+            {
+                "title": "\"Hermits' mill\"",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpYz4CvTqblHSV3sBs6_r5K1KzrNcoRQ4iNtwE=w148-h148-n-k-no"
+            },
+            {
+                "title": "מיינד אטאק | מתחם אסקייפ רום צפון: קריות וחיפה",
+                "category": "Escape room centre",
+                "url": "https://www.mindattack.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_2tV5lpo1Kpx1nr0lNbgJU6zi6oXbCqAbP_Nk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nesher Park",
+                "category": "Park and Garden",
+                "url": "http://www.nesher.muni.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtxUnGPhD2Q2i8PhfWPrH9Up7QqhkVwBEcbPTA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hai Park Kiryat Motzkin",
+                "category": "Animal park",
+                "url": "http://www.haypark.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP73wGZ9HkautBP3bo0UNsAG5KfZD-X0FeVz4LM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stella Maris Monastery",
+                "category": "Church",
+                "url": "http://www.carmelholylanddco.org/stella-maris-church/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjEk2pNwHHmGZABSCNN3BLw3SA9lSC1RdA9g-w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hecht Museum",
+                "category": "Museum",
+                "url": "http://mushecht.haifa.ac.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZUHQoVaVq3TPn9CRABKCemvGPBrSuPFjPmZJL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clandestine Immigration and Naval Museum",
+                "category": "Museum",
+                "url": "https://museums.mod.gov.il/sites/Haapala/Pages/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVYjRlzlfPHpjDi-_OWgY9Cv8USmjMM888Q4_8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baháʼí Garden Haifa",
+                "category": "Pilgrimage place",
+                "url": "http://ganbahai.org.il/",
+                "img": "https://lh6.googleusercontent.com/proxy/55CauuF6nQo1QOtU4FlfTLyUiQkLbzJa75Yty3XBy2NdsS6NY2OybLP5qmalHUR0Ps__wDIcS_22bkc3vYLzp0IBFmjX8gksK4Qq66T7DQmurB6rqfS8ApaMkfEnUfbedHO8RZiOtBFNh6R9cwdvl9UF6brjMIU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Madatech",
+                "category": "Science museum",
+                "url": "https://www.madatech.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMinKe9aIkw0SAfsuaWT1M2j43jkWWqERZozAWB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Carmel",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlFKLnEOKU5anVNniB5ifj8ErHWdMFv2yxiWl_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Haifa Port",
+                "category": "Ferry Terminal",
+                "url": "http://www.haifaport.co.il/english.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMme3abksckdGHoBQlFsyoZT0U6MUmWGw3YlwXR=w148-h148-n-k-no"
+            },
+            {
+                "title": "German Colony",
+                "category": "Neighborhood",
+                "img": "https://lh6.googleusercontent.com/proxy/sDYoBqq2iRDybvxmJGwLZexat4pMZr7eAAcwZ043mU1AvZQeWz3IuI07TccWjRiM1P7SuWNZaGbh9hH6eQuDUQtKmdQBNU2TG-6siJxoWk_mT_RHdeKi1CItc9T_n3tkeyUJ16ShNy1XvpevjFPj_EM9nfJt6w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Louis Promenade",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCW3jHcqJXZiePkwL-VBLvomb_c_-J0elbNsn5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yefe Nof Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1bkP9HHBTDTspoK9mVkvigiR1O2YoIpqMivQ8=w148-h148-n-k-no"
+            }
+        ],
+        "Kiryat Gat": [],
+        "Hadera": [
+            {
+                "title": "Caesarea National Park",
+                "category": "National park",
+                "url": "https://en.parks.org.il/reserve-park/caesarea-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsmBTi9FlEls4_jgJhKp9JJYsv_YOa42oOEIQ2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gedor Sea Reserve",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/gdor/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGf2U141U_EeYLKb_du15UU4uJf-M4Y-Pd2gjA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alexander River National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%A0%D7%97%D7%9C-%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8-%D7%97%D7%95%D7%A3-%D7%91%D7%99%D7%AA-%D7%99%D7%A0%D7%90%D7%99/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYQ2RaXdFhvSlUlefQzgBd5-TSBqMJVtrgz0Yy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ralli Museum, Caesarea",
+                "category": "Art museum",
+                "url": "http://www.rallimuseums.com/146",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6D0Ufck_txereAEhF7zobaEGqV4dw-Zekr-G1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Olga Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9-St6_hNn2oOk75c48DQf8d9ekPe2i7S6S3QE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nahal Mearot Nature Preserve",
+                "category": "Nature reserve",
+                "url": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%A0%D7%97%D7%9C-%D7%94%D7%9E%D7%A2%D7%A8%D7%95%D7%AA/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7NI9Eg6koCIakED_fb70-LITPiQ7t3jv1zKVt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mikhmoret Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-I2TGA_l_f2QC5sRpFdKNaGX89FKoQ3-WIFEP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lookout and Observation Stock Mishmar Hasharon and reservoirs Emek Hefer",
+                "category": "Bird watching area",
+                "url": "http://www.eyarok.org.il/trip.aspx?id=1754",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeDCRupQBxp6wxh2RZCW8tRgUs5XUCysXnU---=w148-h148-n-k-no"
+            },
+            {
+                "title": "Binyamina Winery",
+                "category": "Winery",
+                "url": "http://www.binyaminawines.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEtXIK86ArgtSKmioHZsZk644xMUdE5UzMQRqj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tishbi winery",
+                "category": "Winery",
+                "url": "http://www.tishbi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGVMC_GcCORnY1Aw1rQvM8jToiSdto6MQIzZLF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cactus Ranch",
+                "category": "Horse-Riding Service",
+                "url": "http://www.cactus4u.biz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeiixTKfgIAZHpw8MJmDC6ymAr9ADjPPnO5t8F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shvil Hatapuzim",
+                "category": "Amusement Centre",
+                "url": "http://www.shvil-hatapuzim.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzHPF5pr013k_GnmzVWmXwVd8eXoosfw0rxZkE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hadera Stream Park",
+                "category": "State park",
+                "url": "http://www.hadera-tour.city/?id=48",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMna_qtCBncyeNtPowHXs7bCyjf3BBzCYgFQ3YC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khan Museum",
+                "category": "Local history museum",
+                "url": "http://www.museum-khanhadera.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEN21nAGwGpmlRGNsA8ZLRzp5gKcpNVnCFz9Fc=w148-h148-n-k-no"
+            },
+            {
+                "title": "טכנודע - המוזיאון הישראלי לרפואה ומדע חדרה",
+                "category": "Science museum",
+                "url": "http://www.technoda.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuI4F9d3xDtoJie9psJGMfrF0Jk-3mrMJ6c1qS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Bay Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOG-TtH9dI1FHC7OA7NDaig5HHHBu0qx6iTTD5u=w148-h148-n-k-no"
+            }
+        ],
+        "Bat Yam": [
+            {
+                "title": "Shimon Peres Park",
+                "category": "Park and Garden",
+                "url": "https://park-peres.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY0X2kxtxyl8tC0GNYkoA1NXcPuwEkpD25fjzI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bat Yam Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoVF-oQl7HGiBiUaYv46oNR7zfQfreHQkSQmd4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gan B’Ivrit – Rishon LeTsiyon Park",
+                "category": "Park and Garden",
+                "url": "https://www.rishonlezion.muni.il/Lists/List17/CustomDispForm.aspx?ID=201",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPy8DeNGto65FF6BZ2pcnFCI3273oLa7su1-Jhq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bat Yam Museum of Art",
+                "category": "Art museum",
+                "url": "http://moby.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLbxbFQI8bfhbSYjhgVIFmCm_VZMJHO-hkLqRP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khorshat ha-Yam Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmT6GqmlfLpJsAWq-Y6naZf3xWP2bFcumu78ej=w148-h148-n-k-no"
+            },
+            {
+                "title": "WINE N 'DINE",
+                "category": "Off Licence",
+                "url": "https://www.wine-n-dine.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcMEQCQNdtyvL3yFdRD4Int5swuj6_Z54iIgjh=w148-h148-n-k-no"
+            },
+            {
+                "title": "נמל יפו",
+                "category": "Tourist attraction",
+                "url": "http://www.namalyafo.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS05c_64_ayXMBDas1HXPym-_s-_bces5JAYB0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Givat Aliya Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8Nw3khW24T7MtmSQd80ZAklKfHIrGaD_WDM9R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adina Plastelina Jewelry",
+                "category": "Jewellery Store",
+                "url": "http://www.adinaplastelina.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLyH99-Ubww_4e71tdZoLNhbsSOL1WEijXAJVL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jaffa Flea Market",
+                "category": "Fleamarket",
+                "url": "https://www.tel-aviv.gov.il/Visitors/KnowTelAviv/Pages/Markets.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2dtFdPX2Lo0hog9-3-D54HBSKPEmD5vqqkB-A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Peres Center for Peace and Innovation",
+                "category": "Visitor centre",
+                "url": "https://www.peres-center.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_rhW1BY3elrNUx1392rGYGVpqi0B6cGDb61Gf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "url": "http://gilfanto.co.il/?page_id=14",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lookout and Observation Stock Mishmar Hasharon and reservoirs Emek Hefer",
+                "category": "Bird watching area",
+                "url": "http://www.eyarok.org.il/trip.aspx?id=1754",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeDCRupQBxp6wxh2RZCW8tRgUs5XUCysXnU---=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/horvat-midras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nalaga'at Center",
+                "category": "Cultural centre",
+                "url": "http://www.nalagaat.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5dux2OG6fj5IXLszOkr47xmksiA7cEoDAAEVJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilana Goor Museum",
+                "category": "Museum",
+                "url": "https://www.ilanagoormuseum.org/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJG7vSbtOwCNlGjkANTxTit5juZ2Q37oo8Kuw=w148-h148-n-k-no"
+            }
+        ],
+        "Netanya": [
+            {
+                "title": "Ir Yamim Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.iryamim-mall.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrUfsmS6ek-Y3I0XEIsnqaIQxanD5Y6uuSbJcP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Monument",
+                "category": "War memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9h-UTlUvWNyx-BAePzy7xmwiq46jqnQ0jIAB9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Netanya Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFEwbxnWhb5MQvcHDmYhoSLSjYu5UNfLRKr4t_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Caesarea National Park",
+                "category": "National park",
+                "url": "https://en.parks.org.il/reserve-park/caesarea-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsmBTi9FlEls4_jgJhKp9JJYsv_YOa42oOEIQ2=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Well House Museum (Beit Habe'er)",
+                "category": "Museum",
+                "url": "https://shimur.org/sites/%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F-%D7%91%D7%99%D7%AA-%D7%94%D7%91%D7%90%D7%A8-%D7%A0%D7%AA%D7%A0%D7%99%D7%94/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrToLZdJHEaWoqAplaEAZqaXATDMw4J-w-nXEi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Planetanya- Planetarium Netanya | פלנתניה- פלנטריום נתניה",
+                "category": "Planetarium",
+                "url": "https://planetanya.smarticket.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-Gq7jRN0B3btf2tUWr1R7PWbv6sTO4RXnWWjy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sironit Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXISVwIkMW830VfEivRvTTyThDWKrzEBu0OgSy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Argaman Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOn5aHKqzYyGuFURCUP_dXUzWVVKdGIFsNQwY9w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Poleg Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOIHv27-ENwd02m-QCIEfcrQ5qf8wAoN5KLSLn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kiryat Sanz Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQXOENjUFmMNeHDd-VddcWvTECWYZmEvYYwxqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Bay Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOG-TtH9dI1FHC7OA7NDaig5HHHBu0qx6iTTD5u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alexander River National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%A0%D7%97%D7%9C-%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8-%D7%97%D7%95%D7%A3-%D7%91%D7%99%D7%AA-%D7%99%D7%A0%D7%90%D7%99/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYQ2RaXdFhvSlUlefQzgBd5-TSBqMJVtrgz0Yy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shefayim Water-Park",
+                "category": "Water park",
+                "url": "http://www.waterpark.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrDzKypEks-G-BYzCVZDZPmu1ZCcy7RlHyNC1u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lookout and Observation Stock Mishmar Hasharon and reservoirs Emek Hefer",
+                "category": "Bird watching area",
+                "url": "http://www.eyarok.org.il/trip.aspx?id=1754",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeDCRupQBxp6wxh2RZCW8tRgUs5XUCysXnU---=w148-h148-n-k-no"
+            },
+            {
+                "title": "טכנודע - המוזיאון הישראלי לרפואה ומדע חדרה",
+                "category": "Science museum",
+                "url": "http://www.technoda.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuI4F9d3xDtoJie9psJGMfrF0Jk-3mrMJ6c1qS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sarona Market",
+                "category": "Market",
+                "url": "http://saronamarket.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxkix_Df4woKfGNA2O-kQA0kZb3T53f3ygY7g5=w148-h148-n-k-no"
+            }
+        ],
+        "Ramat Gan": [
+            {
+                "title": "Ariel Sharon Park",
+                "category": "Park and Garden",
+                "url": "http://www.parksharon.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJK2T9qf0HkysXs-Pr7ia0AmUOVQyoJpTVNx8B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menachem Begin Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNGY1zyVNVuJXhjeInK-K2qbqXVZw-on4Tu1tM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Aviv Museum of Art",
+                "category": "Art museum",
+                "url": "http://www.tamuseum.org.il/he/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvUGM_yConeY8XaO4rHsx99plW07103PDJO-E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Man and the Living World Museum",
+                "category": "Natural history museum",
+                "url": "http://www.adamvechai.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_-NR2OMS5s82FJZx6NdlMhoWxf05Et5RdJekf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramat Gan Museum of Israeli Art",
+                "category": "Modern art museum",
+                "url": "http://www.rgma.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxvpdSSzy6KccucrTxsfJdXMq4FHnXcg53hzlW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yarkon River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Uiv2vXnUlA-PqflhP9oRSbQwnYVe5sS7ubFX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lookout and Observation Stock Mishmar Hasharon and reservoirs Emek Hefer",
+                "category": "Bird watching area",
+                "url": "http://www.eyarok.org.il/trip.aspx?id=1754",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeDCRupQBxp6wxh2RZCW8tRgUs5XUCysXnU---=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayalon Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.azrielimalls.co.il/%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99_%D7%90%D7%99%D7%9C%D7%95%D7%9F",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4lpL5DsaVVZcj7qEJsu6MtwCfePXkboDFBDCD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/horvat-midras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "url": "http://gilfanto.co.il/?page_id=14",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramat Gan National Park",
+                "category": "National park",
+                "url": "https://www.ramat-gan.muni.il/en/?catid=%7B214F09F0-E5EC-4C55-8A32-9FA6FAF52A9D%7D",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwusG4RDeiJNHEfviv0lcDa39GgQztSdIGZfkZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Israel Diamond Exchange",
+                "category": "Diamond Dealer",
+                "url": "https://www.isde.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxYKGyVKwq5rMAT4jmoW7HXzvbL8nnxLlEPxqW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safari",
+                "category": "Wildlife and safari park",
+                "url": "https://www.safari.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkj23fI4tWX8xCDNXsMaYBZPatI3xST8Py9ssM=w148-h148-n-k-no"
+            },
+            {
+                "title": "The White City of Tel Aviv",
+                "category": "Tourist attraction",
+                "url": "https://www.touristisrael.com/the-white-city-tel-aviv/344/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUWFmx3_-5UTTcd-CiUBm5scRhu6QB6mwN6Zgc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Me‘arot Pa‘amon",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPACkF21SWsFXDH5ibOHepu4hoNfZV_eB0kAHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Western Wall Plaza",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIa7F6DIWXGx5EwU1I6EqXpK5SBpwW_cBZ0O7l=w148-h148-n-k-no"
+            }
+        ],
+        "Jaffa": [
+            {
+                "title": "The Clock Tower",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCjP-CXHwG_-m1SpF9FdbefjKle9DnOJH_MM1j=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Peter's Church",
+                "category": "Catholic church",
+                "url": "https://www.cicts.org/en/catholic-masses-outside-jerusalem-0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTLs1uadZXOTCSAmsg0VPL63NVhAl-F6oGEGIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jaffa Flea Market",
+                "category": "Fleamarket",
+                "url": "https://www.tel-aviv.gov.il/Visitors/KnowTelAviv/Pages/Markets.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2dtFdPX2Lo0hog9-3-D54HBSKPEmD5vqqkB-A=w148-h148-n-k-no"
+            },
+            {
+                "title": "נמל יפו",
+                "category": "Tourist attraction",
+                "url": "http://www.namalyafo.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS05c_64_ayXMBDas1HXPym-_s-_bces5JAYB0=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Simon the Tanner",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLyVx_BxAJpysHknT8zJGo_6AoL7sUihW_MyEY=w148-h148-n-k-no"
+            },
+            {
+                "title": "ננו תכשיטים",
+                "category": "Jewelry manufacturer",
+                "url": "https://www.nano-jewelry.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPuI6s2F61Og0ahjqVuA2IrOFxfHPu29s_UX0fN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zielinski & Rozen",
+                "category": "Perfume store",
+                "url": "https://www.zrp.co.il/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=235125634730952927",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg3HgxcqYX-L5YZAu12XWI-MmddxqtDuhiNdIV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mahmoudiya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeEAbRtfy-pnCMrgjiT3aSPaXX1bWGz-XtWGvF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old City",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPl12XfgvqKv_99i9G7HXthVg7aoLCnZwmF5bzv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "url": "http://gilfanto.co.il/?page_id=14",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Immanuel Church",
+                "category": "Lutheran church",
+                "url": "http://www.immanuelchurch-jaffa.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5AO6AszK9BoSr7rRW8y8inNGLigE9sG38PGrH=w148-h148-n-k-no"
+            },
+            {
+                "title": "House Number 3",
+                "category": "Event management company",
+                "url": "http://housethree.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeB4yxAjjQe3TCwlBhD7lgnYVImyMlNe3XKt4F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Candleroom",
+                "category": "Candle shop",
+                "url": "https://www.candleroomshop.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-fXVHIMl5Ou0Z4_QuT6j_62HA7-_SIcqJhuDX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Synagogue Zichron Moshe",
+                "category": "Synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyy-bh-ckPzd-bhFrh814hixufWKhs5Hadun0f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilana Goor Museum",
+                "category": "Museum",
+                "url": "https://www.ilanagoormuseum.org/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJG7vSbtOwCNlGjkANTxTit5juZ2Q37oo8Kuw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ben Gurion Airport",
+                "category": "International airport",
+                "url": "https://www.iaa.gov.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpLRGncZi6KSuSTizcXoqAb8Ou_Xo-XuhSMMzA=w148-h148-n-k-no"
+            }
+        ],
+        "Reẖovot": [
+            {
+                "title": "פארק ההדרים רחובות",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIx57MeonCXboeXXbyrnYcmAW2EYB19tmV-AAj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gan B’Ivrit – Rishon LeTsiyon Park",
+                "category": "Park and Garden",
+                "url": "https://www.rishonlezion.muni.il/Lists/List17/CustomDispForm.aspx?ID=201",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPy8DeNGto65FF6BZ2pcnFCI3273oLa7su1-Jhq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayalon Canada Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGAdhBrowEj8jULzJtUWajXyRTlVVQUR-KuuxK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lookout and Observation Stock Mishmar Hasharon and reservoirs Emek Hefer",
+                "category": "Bird watching area",
+                "url": "http://www.eyarok.org.il/trip.aspx?id=1754",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeDCRupQBxp6wxh2RZCW8tRgUs5XUCysXnU---=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/horvat-midras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tower Tag - לייזר טאג במציאות מדומה (סניף רחובות)",
+                "category": "Events Venue",
+                "url": "http://www.tower-tag.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJLdJyji1MyJT00uvw3xkP0_haHTFwpkP0Qhci=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "url": "http://gilfanto.co.il/?page_id=14",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Me‘arot Pa‘amon",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPACkF21SWsFXDH5ibOHepu4hoNfZV_eB0kAHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pic4you",
+                "category": "Gift shop",
+                "url": "http://www.pic4you.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOjohPb7Y7OTqm3qKMWSnRYlpKl4xjXWOc_NrL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ori Stern - Israel Private Tours",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSGHDWpEqS_zeft712sVvDsWPcBcumufsRcjEZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "מיאון דה מייק חדרי קריוקי פרטיים",
+                "category": "Karaoke bar",
+                "url": "https://www.meonthemic.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqXENr1SU5h9ji2VR5xkxmDHUnrVLTp4oQ1_YH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Weizmann Institute of Science",
+                "category": "Research institute",
+                "url": "https://www.weizmann.ac.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkJNIIZ-NT8YMrCQ2oRsUL18FXkSZE3te_X0Mc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adat Shalom-Emanuel",
+                "category": "Conservative synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBjDtdbe_tqnTYCDF_TcOracsVc22YCflORx2n=w148-h148-n-k-no"
+            },
+            {
+                "title": "מוזיאון גן המדע ע\"ש קלור - מכון דוידסון",
+                "category": "Science museum",
+                "url": "http://davidson.weizmann.ac.il/science-garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVl05DJSEUxYd4khLDraQWlnQNVRJjgv1zT2Wc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minkov Citrus Orchard Museum",
+                "category": "Visitor centre",
+                "url": "https://shimur.org/sites/%D7%90%D7%AA%D7%A8-%D7%94%D7%A4%D7%A8%D7%93%D7%A1%D7%A0%D7%95%D7%AA-%D7%A2%D7%A9-%D7%9E%D7%99%D7%A0%D7%A7%D7%95%D7%91-%D7%A4%D7%A8%D7%93%D7%A1-%D7%9E%D7%99%D7%A0%D7%A7%D7%95%D7%91/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdPrn2rNrRvFxdUq2phGVHX70XablPyDM2iIrP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Replay Bowling and Billiards",
+                "category": "Bowling Alley",
+                "url": "https://replayb.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnRYdDy4BXXlVCy2rFQwQW3o3bwtNPpbCcvZR3=w148-h148-n-k-no"
+            }
+        ],
+        "Tel Aviv": [
+            {
+                "title": "Tel Aviv Museum of Art",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvUGM_yConeY8XaO4rHsx99plW07103PDJO-E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carmel Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP30QgGLkn3X0NPq8iJb5ZWLCk32ZVeuQz5GLd8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ANU Museum of the Jewish People",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_D_mulSLLX-BxUDXRbwRUaO1BllIVpYvfXZ9C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sarona Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxkix_Df4woKfGNA2O-kQA0kZb3T53f3ygY7g5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jaffa Flea Market",
+                "category": "Fleamarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2dtFdPX2Lo0hog9-3-D54HBSKPEmD5vqqkB-A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yarkon Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8--YX02u-NheYnuxrOKCaiXYthYsVChcvLSDs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eretz Israel Museum",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-yAmcaAbY_dYOVVrCMOzko-5l1zY4RoWtEYwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suzanne Dellal Centre for Dance and Theatre",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdHocRs4WEKZATeultZA2Ay70ys0axr8VOw-sX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palmach Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_GtmAM4e-O8OW02XVfcCIVZJAO2pW38AgeXNb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rabin Square",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdm6l3bDhE21Bwb2nV0lV44cchT449PJ6j-dh1=w148-h148-n-k-no"
+            },
+            {
+                "title": "נמל יפו",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS05c_64_ayXMBDas1HXPym-_s-_bces5JAYB0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yitzhak Rabin Center",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzvoZubmzuRDHiJ5wO32pEYgniGY9mXW-SWypp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Aviv Port",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg6Pz2eeN98lLHKoLCDo09cTW9DGQsrZh9p-Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Steinhardt Museum of Natural History",
+                "category": "Natural history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMIC6uk0AEuDEwrNzcx0GCR2AMnrb9nZYPC25o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luna Park",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTvmhed5tHoL8bptW2e4fpFGKEnjUJ4hTYndO9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilana Goor Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJG7vSbtOwCNlGjkANTxTit5juZ2Q37oo8Kuw=w148-h148-n-k-no"
+            }
+        ],
+        "Givatayim": [
+            {
+                "title": "Deda",
+                "category": "Georgian restaurant",
+                "url": "https://deda.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2SZ3Yl7zyvSl-GskX3KiCcltIhHsKD7vbXJ26=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mazada Tours Tel Aviv - Israeli Tour Operator Since 1981",
+                "category": "Tour operator",
+                "url": "http://www.mazada-tours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE2X2ME01T2Vs-zxlg75nNawuEUZtV7zewoVIF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pizza Porto",
+                "category": "Italian restaurant",
+                "url": "http://pizzaporto.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9JcBlWrnRWdQU8hNR-gi4PprIZz9sx18GtfVW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Aviv Museum of Art",
+                "category": "Art museum",
+                "url": "http://www.tamuseum.org.il/he/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvUGM_yConeY8XaO4rHsx99plW07103PDJO-E=w148-h148-n-k-no"
+            },
+            {
+                "title": "אקס אנד קו | Axe & Co",
+                "category": "Tourist attraction",
+                "url": "https://axenco.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPcBRMdKc5cq2or9cZpwkWMB40vSYJA0o67FCO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramat Gan Theater",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg5cgTkY2HYX1ovmy0HkMTiYnyR6-cA8CoUMI-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beit Zvi School for the Performing Arts",
+                "category": "Drama school",
+                "url": "http://www.beit-zvi.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3nm9cyIViQfl_AGbux20RcmqDwHZ4Fr50X5Ts=w148-h148-n-k-no"
+            },
+            {
+                "title": "Givatayim Observatory",
+                "category": "Observatory",
+                "url": "https://astronomy.org.il/index.php/obsevatory/obs-info",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMngFYNRLQ6S1Lon5Xfv7y4Re7I_yi1fwyK8zKY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ovad's Sabich",
+                "category": "Fast food restaurant",
+                "url": "https://he-il.facebook.com/%D7%94%D7%A1%D7%91%D7%99%D7%97-%D7%A9%D7%9C-%D7%A2%D7%95%D7%91%D7%93-120265768133462/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaQAXfWfwqjMoyqLSFFFc-yxbQjCNjbEq8lWD2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guia Brasileiro Em Israel",
+                "category": "Travel Agent",
+                "url": "http://www.guiabrasileiroemisrael.com.br/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM8L-P2b_nR19xdxGmZsSyZdVNZcLzQZNBrrlh=w148-h148-n-k-no"
+            },
+            {
+                "title": "black bar 'n' burger",
+                "category": "Restaurant",
+                "url": "http://blackbarburger.co.il/portfolio/%D7%92%D7%91%D7%A2%D7%AA%D7%99%D7%99%D7%9D/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDb1ryJF5r3BR2KzoRQ8RTvYb2v-B3AIgrx6k4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoot Allures",
+                "category": "Cocktail bar",
+                "url": "http://zootallures.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkHq6TAzPhsHP_DgJiMIVsQK6homqbojLfqSwL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Azrieli Givatayim",
+                "category": "Shopping Centre",
+                "url": "https://www.azrielimalls.co.il/%D7%9E%D7%99%D7%93%D7%A2_%D7%A9%D7%99%D7%9E%D7%95%D7%A9%D7%99/15/%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99-%D7%92%D7%91%D7%A2%D7%AA%D7%99%D7%99%D7%9D/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9kN2fQRl7UWpdyDptzCkdLMquVK-9LXtjZoM8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cafe Nelson",
+                "category": "Restaurant",
+                "url": "https://cafenelson.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6sm7QgrYqtfcVL73SGFPxi0szR4OYm0jNeqTh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Torii Asian Kitchen",
+                "category": "Asian restaurant",
+                "url": "http://www.torii.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdx-kXLke0I6LcINVQt4wo4K1wiuvCOUk8jZJ4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Favela",
+                "category": "Restaurant",
+                "url": "http://www.favela.rest.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_bSZhoKN4NDoqpDNDX3SvXpO7kZf6tHxiQ3ve=w148-h148-n-k-no"
+            }
+        ],
+        "Ramla": [
+            {
+                "title": "Trucks and Transport Museum",
+                "category": "Museum",
+                "url": "https://www.taavura.com/trucks-and-transport-museum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMq8eu3cYbkZstUkCi8nMYRA2fV14H4bGjQ8Hyn=w148-h148-n-k-no"
+            },
+            {
+                "title": "המסגד הגדול",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDnh-313BQCFL4Quris7IIZSXKto5D5sIIZDo1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramla Museum",
+                "category": "Museum",
+                "url": "http://en.goramla.com/category/ramla-museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQVCI_Mg4KS1x-o7jOVjZNnb4XGm75mLJm6Pl3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramla Market",
+                "category": "Market",
+                "url": "http://www.shukramla.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvmS3EuupXgSyhFSmZXEMqWOVy5-_2VFivkX9W=w148-h148-n-k-no"
+            },
+            {
+                "title": "White Tower",
+                "category": "Historical landmark",
+                "url": "http://www.goramla.com/category/%D7%94%D7%9E%D7%92%D7%93%D7%9C-%D7%94%D7%9C%D7%91%D7%9F",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyc3oWaqHCW31j0Ru7OjJ9Rurg2F9GjXKOiIvj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pool of the Arches",
+                "category": "Historical landmark",
+                "url": "http://www.goramla.com/category/%D7%91%D7%A8%D7%99%D7%9B%D7%AA-%D7%94%D7%A7%D7%A9%D7%AA%D7%95%D7%AA",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrA1UY_T88V5WNALJszJ6l8IaMP16P1tK6YYDV=w148-h148-n-k-no"
+            },
+            {
+                "title": "בית הכנסת הקראי רמלה - The Karaite Synagogue in Ramla",
+                "category": "Synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvabRTEEqmC3tYFScmkek1418gDQDiHJVHSyAa=w148-h148-n-k-no"
+            }
+        ],
+        "H̱olon": [
+            {
+                "title": "Israeli Cartoon Museum",
+                "category": "Museum",
+                "url": "https://cartoon.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQ9KqtPinazm-wgzxBo73W_09T46e0M5Br8W3J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Afek National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/en/reserve-park/yarkon-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNTF9GforG78ByKEwUgDdUTZrdZPtzAbN8DSCq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shimon Peres Park",
+                "category": "Park and Garden",
+                "url": "https://park-peres.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY0X2kxtxyl8tC0GNYkoA1NXcPuwEkpD25fjzI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "url": "http://gilfanto.co.il/?page_id=14",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lookout and Observation Stock Mishmar Hasharon and reservoirs Emek Hefer",
+                "category": "Bird watching area",
+                "url": "http://www.eyarok.org.il/trip.aspx?id=1754",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeDCRupQBxp6wxh2RZCW8tRgUs5XUCysXnU---=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/horvat-midras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "נמל יפו",
+                "category": "Tourist attraction",
+                "url": "http://www.namalyafo.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPS05c_64_ayXMBDas1HXPym-_s-_bces5JAYB0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hai Kef",
+                "category": "Zoo",
+                "url": "http://hay-kef.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb2Zoymt9GLSWtg7w9jg8oa8vC_cPS3Uai0N4p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safari",
+                "category": "Wildlife and safari park",
+                "url": "https://www.safari.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkj23fI4tWX8xCDNXsMaYBZPatI3xST8Py9ssM=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Cube",
+                "category": "Museum",
+                "url": "http://www.fridakahlo.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNG6KLR96PZcIXBfSucqFx1w2fRyRxgdryn-4MT=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "url": "https://www.imj.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park HaHorshot",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMw5qqiShhSwPEHcM7rJYpgaKZXTLO_Za099LV5=w148-h148-n-k-no"
+            },
+            {
+                "title": "YesVR - Virtual Reality Arena",
+                "category": "Amusement Centre",
+                "url": "https://www.escaperoom.co.il/holon-yesvr",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMeiU-8H6Zeo7q8552sMnoqhVX7RebLDHuZ2oM=w148-h148-n-k-no"
+            },
+            {
+                "title": "The M&H Distillery",
+                "category": "Visitor centre",
+                "url": "https://mh-distillery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-ReuuRL7oacZxwrzLvH7cBK1aC7Rj7537LuRk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Me‘arot Pa‘amon",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPACkF21SWsFXDH5ibOHepu4hoNfZV_eB0kAHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Israel Unlimited - Creative Luxury Experience",
+                "category": "Tours",
+                "url": "http://www.israelunlimited.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKtM3J95yVjvWMJhupPVRPNZyNUGbewsDIsHBB=w148-h148-n-k-no"
+            }
+        ],
+        "Modiin Ilit": [
+            {
+                "title": "Ben Shemen Forest",
+                "category": "National forest",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "url": "https://www.imj.org.il/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Anava Park",
+                "category": "Park and Garden",
+                "url": "http://www.modiin.muni.il/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Azrieli Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.azrielimalls.co.il/%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C%D7%99_%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "4Chef",
+                "category": "Corporate office",
+                "url": "http://www.4chef.co.il/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Dead Sea",
+                "category": "Lake",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Gethsemane",
+                "category": "Historical place",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Tower of David",
+                "category": "History museum",
+                "url": "https://www.tod.org.il/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "The Garden Tomb Jerusalem",
+                "category": "Garden",
+                "url": "http://www.gardentomb.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Church of the Annunciation",
+                "category": "Church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Temple Mount",
+                "category": "Place of worship",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Tel Aviv Port",
+                "category": "Tourist attraction",
+                "url": "http://www.namal.co.il/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Iza Pziza",
+                "category": "Dairy farm",
+                "url": "http://izapzizadairy.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "St. Anne's Church, Jerusalem",
+                "category": "Church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Ilana Goor Museum",
+                "category": "Museum",
+                "url": "https://www.ilanagoormuseum.org/en/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Nazareth Village",
+                "category": "Open-Air Museum",
+                "url": "http://www.nazarethvillage.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Modi‘in Makkabbim Re‘ut": [
+            {
+                "title": "Anava Park",
+                "category": "Park and Garden",
+                "url": "http://www.modiin.muni.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwjNuowoD3tw03y7LjRjiXtVldMPlvQoqnw0aO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Neot Kedumim שמורת טבע נאות קדומים",
+                "category": "Nature reserve",
+                "url": "https://www.n-k.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiZ6Mwh6H8G5WE-u4SLBd0bqQTwA-IOpAnQsO8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Sepulchre",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Western Wall",
+                "category": "Shrine",
+                "url": "https://www.thekotel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoMS0Tub_zNJkxOX9sj7xImrbO-ojh7U6rgoxq=w148-h148-n-k-no"
+            },
+            {
+                "title": "4Chef",
+                "category": "Corporate office",
+                "url": "http://www.4chef.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTH1wATWoYfs1vHfuzZUPG6g78WT2AbyyfwRNy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple Mount",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAv4CURZwJvahz6RIQ7BoKk6-Rvii8NOCInMZc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castel National Park",
+                "category": "National park",
+                "url": "https://en.parks.org.il/reserve-park/castel-national-site/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRZkU88i3Y6fALJjr9QkPvonMzTNJJVgZoL4Ov=w148-h148-n-k-no"
+            },
+            {
+                "title": "אום אל עומדן",
+                "category": "Archaeological site",
+                "url": "http://www.modiin.muni.il/ModiinWebSite/ArticlePage.aspx?PageID=312_207",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuxHhg_B0bVtSwEbzmo2xzOFvhgYWat_3mNjvG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simon Levy Memorial Roundabout",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYTdU_s3CDYuSW2yfaT0ICZE-4PaUB-sjMZ0eM=w148-h148-n-k-no"
+            }
+        ],
+        "Rishon LeTsiyyon": [
+            {
+                "title": "FlyBox",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMryoTNW3DOznOHZ88CJcdm2-K_Ip4nANcJ3UE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shimon Peres Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMY0X2kxtxyl8tC0GNYkoA1NXcPuwEkpD25fjzI=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Childrens Museum",
+                "category": "Children's museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFyNd1xbP9lG1u36wGQvj4zex7CO9hrFLCTg2v=w148-h148-n-k-no"
+            },
+            {
+                "title": "פארק לאומי חוף פלמחים",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_z9N7gRZsbr23ZkrVDmhQcPoGIxhW2Z3yYw8d=w148-h148-n-k-no"
+            },
+            {
+                "title": "מוזיאון ראשון לציון, \"אלבום המשפחות\"",
+                "category": "Historical society",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIFKB3ajMsVj24I4cuEd8_Qlkep_hfsxNyiBvn=w148-h148-n-k-no"
+            },
+            {
+                "title": "לייב פארק שוואקי",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeADbcK62P4bW0st2cSl9QV0bYAelO4Faz3j6z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayalon Institute",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP067zpyOHZU1s54ygq48EIW9sSjjp1-DBElROW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beit Guvrin-Maresha National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGCKE1h47G_MfkI1LhKUZX8inWd6pAR8iwvD2u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ariel Sharon Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJK2T9qf0HkysXs-Pr7ia0AmUOVQyoJpTVNx8B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igudan Visitor Center",
+                "category": "Visitor centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJwvejdTbn_PsrwOst27EyJC2hRcJuVxxVbk1z=w148-h148-n-k-no"
+            },
+            {
+                "title": "HaSela Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNF6BYji6a37FzaKlZNbr4lzmqtcplBblsXKngw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khirbet Qeiyafa",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXH4_a4oETwPbQDbbu8J2q4Artx4KXv9Ww05DB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tel Beit Shemesh",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMB2tEiXvTnUerx4c_l_W1_vp2gbJ_aFQh6mU8b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Planet Rishon LeTziyon",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMe4_m0T5f__xecd4BN9TMJOQlH9Jl_NZRZGmKb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gordon Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMF7nfAw54Ggegye6MJOClwVJzmM-rwqQDjAvbm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            }
+        ],
+        "Hod HaSharon": [
+            {
+                "title": "Hod HaSharon Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBFmCMvQTD9oRo9-EWjivUwRxPzPxpe7LmGs_b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Holy Sepulchre",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Israel Museum, Jerusalem",
+                "category": "Art museum",
+                "url": "https://www.imj.org.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Caesarea National Park",
+                "category": "National park",
+                "url": "https://en.parks.org.il/reserve-park/caesarea-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsmBTi9FlEls4_jgJhKp9JJYsv_YOa42oOEIQ2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Aqsa Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRY4VwEfTXCtl2Cnwf4PsDg2_Dy7zHzk-SBEoL=w148-h148-n-k-no"
+            },
+            {
+                "title": "HaBanim Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPIw3vpTdY4S9oTDdvUnhSYx7jA7UpxzuY3ORd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old City",
+                "category": "Neighborhood",
+                "img": "https://lh4.googleusercontent.com/proxy/VmB3XPpdQ57dYKLVfnWGl39Z1vn8HOu6zSir3bXDqiqESmGtIp2iJsgETEWtMDPhEBQbXJyGPgV8g8JpGNYS3Y5-mxFEdUNHL1l7ORkyT1FGJ2_jvaJ0b7gwwejNhDvEdeXyAZO_SZcaB_DVC225M-WxLjYDGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "The White City of Tel Aviv",
+                "category": "Tourist attraction",
+                "url": "https://www.touristisrael.com/the-white-city-tel-aviv/344/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUWFmx3_-5UTTcd-CiUBm5scRhu6QB6mwN6Zgc=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Western Wall Plaza",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIa7F6DIWXGx5EwU1I6EqXpK5SBpwW_cBZ0O7l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shalvata Hospital",
+                "category": "Psychiatric hospital",
+                "url": "https://hospitals.clalit.co.il/shalvata/he/Pages/default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUQz2B-ZRlX80ugQ1w0ZyyXQw2ro3BUtMcZv_g=w148-h148-n-k-no"
+            },
+            {
+                "title": "BenHaim Winery.",
+                "category": "Winery",
+                "url": "http://www.benhaim.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfSftA6n0lYZ2QFmVNaTWMO6FjEl-yROPwyYf7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soko 77",
+                "category": "Bar",
+                "url": "https://ontopo.co.il/77soko?source=google",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOi0DSZdeiiMk__a9oLBLG2A8Nk1LNWK0_ztlYD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lev Cinema",
+                "category": "Cinema",
+                "url": "http://lev.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjmN41n0Cw849lTiL6n0qxTFLzS0USHD65QNnO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinema City Glilot",
+                "category": "Cinema",
+                "url": "http://www.cinema-city.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNo9mp_VFDDhGfKtDfH5ZNJGCPXSMtM4sC6V7N8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afeka Caves",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkrgRWwxymwFqfL4xhfNy03nMTuA0IzFqcR4CY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laser City Glilot",
+                "category": "Laser Tag Centre",
+                "url": "http://www.laser-city.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSH75bEJznsA83hTXUSonunN-hUOIEL8PinWL4=w148-h148-n-k-no"
+            }
+        ],
+        "Petaẖ Tiqva": [
+            {
+                "title": "Tel Afek National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/en/reserve-park/yarkon-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNTF9GforG78ByKEwUgDdUTZrdZPtzAbN8DSCq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Migdal Tsedek National Park",
+                "category": "State park",
+                "url": "https://www.parks.org.il/reserve-park/migdal-tzedek/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVEepEjvaKRIheYRX-yk01as2NPOmqDI2IjLDX=w148-h148-n-k-no"
+            },
+            {
+                "title": "קריית המוזיאונים",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlkbZfyUlHDCfJyZ31roy91WqZdn6LKYgqfiy7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Menachem Begin Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNGY1zyVNVuJXhjeInK-K2qbqXVZw-on4Tu1tM=w148-h148-n-k-no"
+            },
+            {
+                "title": "הארכיון לתולדות פתח תקוה",
+                "category": "Museum",
+                "url": "http://www.ptarchive.co.il/he/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3R4X9GdC4WoweA4GA1lC-E6zvmN3Wz_d2H8AG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lookout and Observation Stock Mishmar Hasharon and reservoirs Emek Hefer",
+                "category": "Bird watching area",
+                "url": "http://www.eyarok.org.il/trip.aspx?id=1754",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeDCRupQBxp6wxh2RZCW8tRgUs5XUCysXnU---=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "url": "https://www.parks.org.il/trip/horvat-midras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Petach Tikva Museum of Art",
+                "category": "Art museum",
+                "url": "http://www.petachtikvamuseum.com/he/Default.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHRjasL8Qdthqld63GDDMQV3ZsHlPny-Nanf-u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ramat Gan National Park",
+                "category": "National park",
+                "url": "https://www.ramat-gan.muni.il/en/?catid=%7B214F09F0-E5EC-4C55-8A32-9FA6FAF52A9D%7D",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwusG4RDeiJNHEfviv0lcDa39GgQztSdIGZfkZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yarkon River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_Uiv2vXnUlA-PqflhP9oRSbQwnYVe5sS7ubFX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jerusalem Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlYZgz3jvGHFLxz5bd6aKbHPZv3AvfyyCHGVtn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Made in Eretz Israel",
+                "category": "Museum",
+                "url": "http://gilfanto.co.il/?page_id=14",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq4jRZYwRwa9aPVmQUYpoebRvU_kNHmFLEhfyZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gethsemane",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOsHTkFcvmTfKvnVwDECoJtOiBESUTSOlAJrNw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dome of the Rock",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwn8E43PpLaX-BoLHyfjSsDqQgHikGFxi0N6ry=w148-h148-n-k-no"
+            },
+            {
+                "title": "Me‘arot Pa‘amon",
+                "category": "Cave",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPACkF21SWsFXDH5ibOHepu4hoNfZV_eB0kAHN=w148-h148-n-k-no"
+            },
+            {
+                "title": "North Cliff",
+                "category": "Public beach",
+                "url": "https://www.tel-aviv.gov.il/Visitors/Beaches/Pages/Hatzuk.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZp0JpQDYLTA4Qe_2OVA2OGFo8DmYuG9WgZ3SH=w148-h148-n-k-no"
+            }
+        ],
+        "Ashdod": [
+            {
+                "title": "BIG FASHION Ashdod",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2MYrmjEaLY_Y8uiUcti6qfEVMohAALjENJZSu=w148-h148-n-k-no"
+            },
+            {
+                "title": "פארק אשדוד ים",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnTHbLYO0fAtApsMLxY_aomdFx7PPAYjXk4lPx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Philistine Culture",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOg-D6tYUFk7NyXQLbYgqz3zrKloYobmSRG9GK3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gils Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBzOKO-rsAzEHaAJJIFecUJOb1eScGXMS5n0Us=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lorence Bar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXtj3KSkgJrdOI2EA_H0KUI-unzhYrx6jnpe8O=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Eye of the Sun, by Motti Mizrachi",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhVpw35RSCSv74t8mqH4Nv4ciZoF84FVQxcbsG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Etgarim Lakhish Park",
+                "category": "Woods",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1QuKgF8V0RaqXmTxUQHYC4eJwUvVH6fJKDo0D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Britannia Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPOJLObEt6g082Z6xU9Pc0WygK5w4seUOdaBEw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yad Vashem",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY8OmfgbDSdHbq2RCg9X4C4QKQFvx23JrZ6bWj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Delila Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOnz7ryKeVia40e4v4qv3U8M-_MGGx_L7NaVIyl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gethsemane",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOsHTkFcvmTfKvnVwDECoJtOiBESUTSOlAJrNw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sarona Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxkix_Df4woKfGNA2O-kQA0kZb3T53f3ygY7g5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horvat Midras",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdv5NZ5nIHQhm3ewiTcL2zUDYAGqeQ7KeoGmTY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holot Nitsanim Reserve",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH0ypFVRP-7rD1XxpYUrY7kDwH9N6VHSJDyEFv=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Clock Tower",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCjP-CXHwG_-m1SpF9FdbefjKle9DnOJH_MM1j=w148-h148-n-k-no"
+            },
+            {
+                "title": "המנזר הרוסי",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpQHT-1StPoqKZWtkkpLgRB4uprkhq_cIZFe7n=w148-h148-n-k-no"
+            }
+        ],
+        "Nazareth": [
+            {
+                "title": "Church of the Annunciation",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcjcK0D8sh2wu00bpuuj8_Zq0QCHVIjxjp1nyF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nazareth Village",
+                "category": "Open-Air Museum",
+                "url": "http://www.nazarethvillage.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWGfBqAXtIX-dD7EopDAcW5shpao_Ew1bSKRp4=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Greek Orthodox Church of the Annunciation",
+                "category": "Greek Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNloQKWB_VWJF3_PdmEopqS5C05K96g2WeNpW-9=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Joseph's Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVLsypzgp5DZg-DPK-TScQsizNurQYp6VwN2Tx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mary’s Well",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWoMKYsgKXkO37T-6LtO1dPjdeNVdv8ZzSInI8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tzipori National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpe8t9j0sULUew2FD74ScGOKjIkFiB4A9iuXXo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fauzi Azar by Abraham",
+                "category": "Guest house",
+                "url": "http://www.abraham.travel/nazareth",
+                "img": "https://lh4.googleusercontent.com/proxy/zhCj458NdyzeBqjaLr3yvdiIg2HoAOx0PKf-YvgLZVr_IKd8PnACeQNINOjgIKO_nIeOTUemVkwiHQRwQAX_mx8k73MA9Na858mnjdVLhwOuHHFPfjSPd9Mib-ZY6CAM1rmGF2boUnjEx6dBRthu2GrHIcQq17k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mensa Christi Church - Franciscan Order",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipND3BMUuRqIyyXSybAp99qGckoRcxr2snohjHik=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Greek Catholic Church of the Annunciation",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM95iv0ay4bvIaRuWDpKdf-bEph1qC3QtFQbbDF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of Jesus the Adolescent",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJmaYIXsjZtWhZYmiHAP1NisLcjjG7Jvv_S4VF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musmar Pottery",
+                "category": "Pottery shop",
+                "url": "https://www.facebook.com/MusmarPottery/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-SlJj7mB2mvx3uvRwTtGbOWInetdPIxDJc7Br=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Jesus Trail",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIoip97A_dtQeZmqgIYbxQfJ4hvWrL7diWSqMy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ Anglican Church",
+                "category": "Anglican church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6DiivPXqRPtakCkKOb3BD77xvl3ZADxHmaiBl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bet She'arim National Park",
+                "category": "National park",
+                "url": "https://en.parks.org.il/reserve-park/bet-shearim-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgkvLn0zpKXSvXPDfHSlFB183cc-TeIQYUR6g5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Transfiguration",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbStJGjpLwT6bamMIZ3LRrmU3UJr9oihcg4Mev=w148-h148-n-k-no"
+            },
+            {
+                "title": "Megiddo National Park",
+                "category": "National park",
+                "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%AA%D7%9C-%D7%9E%D7%92%D7%99%D7%93%D7%95/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4EXWHXX81jtYsi_2Q95s34hhXXJN0mVz_FwrP=w148-h148-n-k-no"
+            }
+        ],
+        "Eilat": [
+            {
+                "title": "Underwater Observatory Park",
+                "category": "Aquarium",
+                "url": "https://coralworld.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2z_Nr6THOMPFuRRfrDauFv9Enq2Vwf7XH7Gjx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eilat Coral Beach Nature Reserve",
+                "category": "Beach pavillion",
+                "url": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%97%D7%95%D7%A3-%D7%94%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXL5WGW0TTnkeWaUpBpacYvB5rjgP1KxSo89fQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dekel Beach",
+                "category": "Public beach",
+                "url": "http://www.dekelbeach.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMajFtChpzgxFPorSL1yqzBLXjJJQI-PlWnxdTJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Isrotel Theater Wow Show",
+                "category": "Theatre Company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDClrj44TjP1VuRcVe0vwwBalAzdPxIxlaJCwb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dolphin Reef",
+                "category": "Tourist attraction",
+                "url": "http://hebrew.dolphinreef.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZXSpc_T_PHd8BiCyj5vB-2XESZi1CEbYvdJRx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Musical Fountain Eilat",
+                "category": "Tourist attraction",
+                "url": "https://eilat.city/%D7%94%D7%9E%D7%96%D7%A8%D7%A7%D7%94-%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA-%D7%A9%D7%9C",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNsHQL8NBXV1AuxCMPfXxX6DPhmXXaqeXwRlK6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eilat Ornithological Park",
+                "category": "Bird watching area",
+                "url": "http://www.eilatbirds.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkdxv0zLUoaBNOGdQFPhdd70-j4YuTNnnFOIvC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosh Beach",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7FJ7kJkSJXHxgF3q_Q3BimKvIURbR0cWQdCoS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ice Mall",
+                "category": "Shopping Centre",
+                "url": "https://icemalleilat.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8Jwud7bZYF45J4GsUwALrQppvp-8g8ASmaavl=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Botanical Garden",
+                "category": "Ecological park",
+                "url": "http://www.botanicgarden.co.il/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPH3cC-Sc2qi6dPcduIKx8QIZnUgsaPAIfSLTTq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dolphin Reef Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_-KVy2m-Hbu5mW0OKc51r3qGJCIpGp98FIub9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Migdalor Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPjssugrrLqBkG1sRNuQKBLjlrL_zHU2qwOkjl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coral Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFbk1D7fID6KUpxffAx2xCLT-P2WfkxE-xR7wL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Princess Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxeSzyXWuzE-bADHZxyWzJDL-uoq8zyy1VDIOO=w148-h148-n-k-no"
+            },
+            {
+                "title": "אטרקציות באילת",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNr9iB3h5G-HXuYuoThB4mcYxtXR2-F2Q1g8oW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chabad Synagogue Tabernacle Moses",
+                "category": "Synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaQZIjP8EOYtm66mnYj89yFPpI8-EqZd1tj3lN=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Masada National Park",
+            "category": "Historical landmark",
+            "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%9E%D7%A6%D7%93%D7%94/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNaJdlbCDmo1VjaAgw5JiUlHVuM3lo8dhMwB1u2=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Israel Museum, Jerusalem",
+            "category": "Art museum",
+            "url": "https://www.imj.org.il/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPv07MNxLJ2WyyHTVDiaXa8vlKfdM3dkIHUOikv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Yad Vashem",
+            "category": "Museum",
+            "url": "https://www.yadvashem.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNY8OmfgbDSdHbq2RCg9X4C4QKQFvx23JrZ6bWj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Church of the Holy Sepulchre",
+            "category": "Church",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPgbqCx3vVNVqqnLmnmgiPtfTW1NRAw89pvQsoj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mahaneh Yehudah Market",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOYVf1KAbwsu_07IXcSSzz2SjcuCL00OKykHS30=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bahá’í Gardens Haifa (Bahá’í Holy Place)",
+            "category": "Pilgrimage place",
+            "url": "http://ganbahai.org.il/",
+            "img": "https://lh6.googleusercontent.com/proxy/55CauuF6nQo1QOtU4FlfTLyUiQkLbzJa75Yty3XBy2NdsS6NY2OybLP5qmalHUR0Ps__wDIcS_22bkc3vYLzp0IBFmjX8gksK4Qq66T7DQmurB6rqfS8ApaMkfEnUfbedHO8RZiOtBFNh6R9cwdvl9UF6brjMIU=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Tisch Family Zoological Gardens in Jerusalem",
+            "category": "Zoo",
+            "url": "http://www.jerusalemzoo.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNwU18k2QmPTnGQaFMquXL-MMwy_CaaiqJfEgtL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ein Avdat National Park",
+            "category": "National reserve",
+            "url": "https://www.parks.org.il/reserve-park/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%A2%D7%99%D7%9F-%D7%A2%D7%91%D7%93%D7%AA/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMR6H5Y9J9-osGAGPfOoPMwbCT0yZJBKNSo-4Tj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Carmel Market",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP30QgGLkn3X0NPq8iJb5ZWLCk32ZVeuQz5GLd8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Western Wall",
+            "category": "Shrine",
+            "url": "https://www.thekotel.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNoMS0Tub_zNJkxOX9sj7xImrbO-ojh7U6rgoxq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ramat Hanadiv",
+            "category": "Tourist attraction",
+            "url": "http://www.ramat-hanadiv.org.il/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNaQME2SWpi3WzZiUSdXgdayZmCdqUjml_6XHBa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Eilat Coral Beach Nature Reserve",
+            "category": "Beach pavillion",
+            "url": "https://www.parks.org.il/reserve-park/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA-%D7%98%D7%91%D7%A2-%D7%97%D7%95%D7%A3-%D7%94%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOXL5WGW0TTnkeWaUpBpacYvB5rjgP1KxSo89fQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Stella Maris Monastery",
+            "category": "Church",
+            "url": "http://www.carmelholylanddco.org/stella-maris-church/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNjEk2pNwHHmGZABSCNN3BLw3SA9lSC1RdA9g-w=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sarona Market",
+            "category": "Market",
+            "url": "http://saronamarket.co.il/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOxkix_Df4woKfGNA2O-kQA0kZb3T53f3ygY7g5=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bet She'arim National Park",
+            "category": "National park",
+            "url": "https://en.parks.org.il/reserve-park/bet-shearim-national-park/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPgkvLn0zpKXSvXPDfHSlFB183cc-TeIQYUR6g5=w148-h148-n-k-no"
+        },
+        {
+            "title": "Knights' Halls, Old Akko",
+            "category": "Historical landmark",
+            "url": "http://www.akko.org.il/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNivFyIHEeMgn1j-bs6gEFXJXiS8wucckxHpo-l=w148-h148-n-k-no"
+        }
+    ]
+}

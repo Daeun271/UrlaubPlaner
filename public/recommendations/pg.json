@@ -1,0 +1,178 @@
+{
+    "cities": {
+        "Port Moresby": [
+            {
+                "title": "Port Moresby Nature Park",
+                "category": "Tourist attraction",
+                "url": "https://www.portmoresbynaturepark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-lp9zruOpO-XXB2UpNPIcMd_A5pLugGRe_Nm_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Papua New Guinea National Museum and Art Gallery",
+                "category": "National museum",
+                "url": "https://museumpng.gov.pg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZh3XmgYtJGatSftQFtg2JXwIhygxqElAi7g-n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ela Beach Road",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvdNRKVfFimQwPaIDCEFLgsi1ojn0THQF20boR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mosque Hohola",
+                "category": "Mosque",
+                "url": "http://ispng.blogspot.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjdDL2lEQ5afiuTyKoHQZLaGyxCYtjTLs6bUvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ela Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFi5qZIK62JKc6X65oMtZmyWcIaNLahIkZuZiz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Papua New Guinea Parliament House",
+                "category": "Government office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFmQAjdaCE4E-_2FbSRLIr7nIXGV6G_6ijLKzO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Touaguba Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaLGSZcy7ozbSj3AlPhCm0XQ8EkeJb8y7OmFvt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Remembrance Park",
+                "category": "Monument",
+                "url": "https://www.tracesofwar.com/sights/119674/Port-Moresby-Remembrance-Park.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcbYLPKeJUu3lCe5o3rhRBy0UQn2Rl7wzouTd7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vision City Mega Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.visioncitypng.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2epQcpyNDyeCmUz-VimFhPDO2kCBbkxy5Nup-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vision City Post Office",
+                "category": "Post Office",
+                "url": "http://www.postpng.com.pg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMH9zthKDkVI1YGiH1Y-72iuYQcYL_muyZOfAqO=w148-h148-n-k-no"
+            },
+            {
+                "title": "UPNG Map",
+                "category": "Public university",
+                "url": "http://www.upng.ac.pg/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdbEV-ezp8dn5V22KyOb99tOqCT0O0qTEnwI4M=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Football Stadium (Santos) Boroko Port Moresby",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzWppsZyR25Cy9aHGHDMjSoc_CBd7Ux81JyXkG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sir John Guise Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQ1qOuXAohGxMFxZTQLqCooJdww8uQodazmAzl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Mary's Catholic Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNC6aEMx-atZr3bxrohKU0gb_hq3bTb8_u3eAI8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventure Park PNG",
+                "category": "Theme park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPn-rnPfErarFrPKoir5y9yrnUJRxzthut2luTk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bomana War Cemetery",
+                "category": "Military cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSl75B9VCxxcmsi7evn4VwwTHThIo5mxSff0iP=w148-h148-n-k-no"
+            }
+        ],
+        "Lae": []
+    },
+    "sights": [
+        {
+            "title": "Port Moresby Nature Park",
+            "category": "Tourist attraction",
+            "url": "https://www.portmoresbynaturepark.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN-lp9zruOpO-XXB2UpNPIcMd_A5pLugGRe_Nm_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Papua New Guinea National Museum and Art Gallery",
+            "category": "National museum",
+            "url": "https://museumpng.gov.pg/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMZh3XmgYtJGatSftQFtg2JXwIhygxqElAi7g-n=w148-h148-n-k-no"
+        },
+        {
+            "title": "New Britain",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOs_LVcvjytRZuV-GE85X-uGpJ3wJhlVH_wmufe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kokoda Track",
+            "category": "Route",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMc8_YsKK7O5SfLnOFrHNDx2gBDDf_jUhVnlRYk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Wilhelm",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPoxjwQTnyoJCcPJcyeJyJevJ6ahPv7F2Qc8DDD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tavurvur",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNphe-0BbGu91IIe9Qs1VEexXqwtjbhXOnhXUuO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Giluwe",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNRJRZCgmkdp2Bagsh7vlV1Peoy_LZJmi30Y_SE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Varirata National Park",
+            "category": "State park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMVkdAS8_xCPFROF633UxFJUgkRUtUtg_Ufg1qS=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kitava Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMO2ofVUQdsEiaPZBMKyb9lRuYOgaZ2ySnxUW6D=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sepik River",
+            "category": "River",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMaIpBsuEzUHg4WbRr5H3qbWGICEJXf91j35Ope=w148-h148-n-k-no"
+        },
+        {
+            "title": "Loloata Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMVc0jbCPtQb4IhpBnCGd5QtH-spkZKZsBsDt3c=w148-h148-n-k-no"
+        },
+        {
+            "title": "Saint Mary's Catholic Cathedral",
+            "category": "Catholic cathedral",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNC6aEMx-atZr3bxrohKU0gb_hq3bTb8_u3eAI8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kokopo War Museum",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP7dAaCmYg275oTJ7z7k4eXmgjf1ibDTvH4zKLV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Samarai Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP8KevKRdyb2poR5I3D9SCJubsgDDu8tc7fZ840=w148-h148-n-k-no"
+        },
+        {
+            "title": "Conflict Group",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPQNi0GctcmWq1-IWDSKhCSCtfQNacJfon-YyP2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rabaul caldera",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOIRi8aAVETDlljpXQgmuYm5qBQ21FS4DOnF1-m=w148-h148-n-k-no"
+        }
+    ]
+}

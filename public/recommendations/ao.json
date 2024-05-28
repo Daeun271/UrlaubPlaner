@@ -1,0 +1,863 @@
+{
+    "cities": {
+        "Nzagi": [],
+        "Luena": [],
+        "Ganda": [],
+        "Gabela": [
+            {
+                "title": "Vrelo Bune",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHv7QAysgBVs6BMVRYg74nVcCaUoCrTp_GYWyx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brdo Križevac",
+                "category": "Pilgrimage place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYTIfqWNb1XN2fXBx8wAbALgbG83yF69b5PIwT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sunnyland",
+                "category": "Amusement park",
+                "url": "https://sunnyland.ba/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNE39oV_u2GzsONKrbqbuICviW3-oFAqs7WnZk3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ravne 2",
+                "category": "Park and Garden",
+                "url": "https://parkravne2.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9UgC0GdCK_-mmH-ChivAcaBmAOZuLZ0O1Eou4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pionirska dolina",
+                "category": "Zoo",
+                "url": "http://park.ba/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMC1Xch3huNiWw_a8T0Fk5617t5LA5ZEpkUCLNw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Slana Banja Sports and Recreation Complex",
+                "category": "Memorial park",
+                "url": "https://tztz.ba/ba/sportsko-rekreacioni-kompleks-slana-banja/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYhS91tffFrNhiQOMzI8aGPxJNcgYT9cFV8zYH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hutovo Blato",
+                "category": "Park and Garden",
+                "url": "http://hutovo-blato.ba/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNU6eSzjdEzSAefnYToyLuO7xym89nTBv2aoZ6A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skakavac Waterfall",
+                "category": "Tourist attraction",
+                "img": "https://lh6.googleusercontent.com/proxy/-3JsBPoBDGZ12QZusk5eh0Nh6xpmSA-6ct-J0NBQejB_XHjEiXBLgiZXZDKqpmAgWhxCdG06D7iqfRpdTDdJNzppDunXSm6lHQ_08Dv2l50zZQX-MS8_L3egWqjMbctO4lEbJ8c050OZ-gDYqYs9x58y7MO20x4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bazar Kujundžiluk",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVay0o6dzoeCZU5JBph_R07mAOBWX18fn_kDnD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Visions",
+                "category": "Travel Agent",
+                "url": "https://greenvisions.ba/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvbz3hAUxdLjFkQ9VSBFpSfLThvPUcDEXzVkHp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mostar",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPm1inXl6ZCfdJJG2PdEcHy9IQhjjQzqHJx6KJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trebišnjica",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmdYc5SIGhY_wgcW-AyTBwQC1lOlzwJKgkwsLK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Igman",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsluh1d3qfDimOIB-qq4Xn-ooUfvREQSlYVNwV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vlašić",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtoFg_FVsPf-32jbA1zwAssbZvbsLmA0GUZEws=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vrbas",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeoKsNHQeM3o_-bGRbfRyDzopTbhHpNt60Omx-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trebinje",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiKJKHF-hknDRe_260kGecIPhy2WUe1GwZUZUA=w148-h148-n-k-no"
+            }
+        ],
+        "Camacupa": [],
+        "Lobito": [
+            {
+                "title": "Terminus Hotel",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/jSGtJo_VSFQ7hdl9H3qV0RLORl1i789uFa5BkHbTz5EkV9Agb0RBJ5o0kpOgPV9eQ3B3wP6CSrVj2TPPq2GVGRqtaUcI_5ROivrTcaS5ccrd3HYJ81LL9IHrEP1Okkt2qMLKsgnZ1h5fBbwIUhoQu9fw7ReDGg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Turimar",
+                "category": "Hotel",
+                "url": "http://www.turimarhotel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMj141IB7iOSRjqmRRk55RP8Z06ksHdUhvd5i3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Restinga",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/E47_-Bs31n2xUi8HPH1XAN6uase-YlpRDSFSPzryOGvyAqi9ejhkdcOfYu5BnyAlOim6huFn3FGkpI2IZaBw5kUi8bXVanfD-Xw0OUr7HV5k9GVqpJGMCVuAq4ZwVSKRerZ7vgw0gdDQIC9049iNuJG3IYGF6SI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Complexo Turistico TGV",
+                "category": "Hotel",
+                "img": "https://lh4.googleusercontent.com/proxy/UoGX-75MhYHg7mTlbLY7hoqFIDaueqei9XHzafUpKd0mMhwjOScZ3PD33C4WHeWifAPdx93G4IrqLmJ9dsei3TBsQXSI8fa1hsKqEB3nqy_sNoDhL-Pon5L2G4hyyMC3VzORDIAM4F9MkJj2qBzK0V7uhgO10Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lobito Bay",
+                "category": "Bay",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNE8V5FolUvkyM1FWMAw6azaBKrnSurkkVQ_gO6=w148-h148-n-k-no"
+            }
+        ],
+        "Cuango-Luzamba": [],
+        "N'dalatando": [
+            {
+                "title": "Estádio dos Dinizes",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPixq6CMQD0NokyTqrdTNZxEk47u0ZRpFrnJDn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zap Cinemas, Shopping Avenida",
+                "category": "Cinema",
+                "url": "http://www.zap.co.ao/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNo2GFUw2kX-jI3r9oeccC7RbISCt_Pi3ngF4m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinemax Belas Shopping",
+                "category": "Cinema",
+                "url": "http://www.cinemax.co.ao/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYaEM9MbWjs49wS4o93IRh4OfDK9_mSYIDmtMv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento O Soldado desconhecido",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMH1fliC8G4txFcJVFlIcam2y4iAQjBSrGU3z8F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belas Shopping",
+                "category": "Shopping Centre",
+                "url": "http://belasshopping.co.ao/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIcvf0AUEoiQHDGJY4uRK30lQqYO0UE0idV4BI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional do Quicama",
+                "category": "National park",
+                "url": "https://www.africatourvisa.com/angola/national-parks-and-wildlife/qui%C3%A7ama-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK5t_SBToAmcSg_pgEIi-OGuYdez8q3hI6mZz-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luanda",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxqXw7-YWLLVdSk2qpdHosfAOGVGrSTxQuVYhJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Our Lady of Remedies",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOz9Bj7ch7JavCOVjvC_y8EgyLUhvKts6Rjhb0V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Eduvirtu",
+                "category": "Education Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRvqgoxb8xzPwGRbW_oMPp3NVxIyxJr00kX9X9=w148-h148-n-k-no"
+            },
+            {
+                "title": "CIDADE ALTA",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSWbzC0SdJhZHBOype2Talse4qJLLn_VF_yqA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calandula Falls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkmHMKQXQhRsX0-ciGz0zqEzJ0f83hkRD2h783=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu da Moeda",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBhybhV8DIwWQO742Nqm7gyTZtgrFudsljhPg7=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Anthropology",
+                "category": "Ethnographic museum",
+                "url": "https://pamim.blogspot.com/2006/09/um-pouco-de-cultura-angolana-no-museu_17.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmvW10nUx1ZR7Q6OtuodqLr-QBd2MXqamATaAU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza de São Miguel",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeqh238hELA52MFiwMfNaQZwj5EY7LqQpwr7ZW=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Slavery Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT-aYKIoh3_y5HCnZOwdyVGmi6BgpcdXsUZvV-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iron Palace",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUk5cL29q3034B4vjQO-3xtpSJUiyST_5CK52A=w148-h148-n-k-no"
+            }
+        ],
+        "Saurimo": [
+            {
+                "title": "Resort Uhenha",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6JoaIZfBWBZCp8vxdoum-VgfTasRz2eCIfrcj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Restaurante Luboia",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfhzzwvDIRNUVJ3fmz8eRzG4v2bjenKvgSLdI3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Restaurante - Bar O Quintal",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT_yexlE6q-NpqabmJAqD7esJRoeGVnXKt0XQb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Lunda",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOewJEo8ehngiUa9_MV9p76jf9REBxijhR6NOPa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Restaurante Mobil",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKS9c-N08IKwv2So8IXFHYHeFS8Oj59gA5UAD8=w148-h148-n-k-no"
+            },
+            {
+                "title": "ICILE-CAR,LDA",
+                "category": "Transportation service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7T3POyGuS7nl38SMr4_WZFwlU0V8rEatVIm6w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Kawissa Saurimo",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/2YYF-vVoDkuSAhrTPgzUmnZWnSjNTTyRtSYfV3EJuwyp2qXsK_Sb5TnLBeoY2hM9oYGLfPKqwwIucfkAGM74mFBv2o50Y26K4yroLsIrnLvv-35N9ywtwE_s9m1mvSAIkTC_hJrDQfpFeIhckjISPaqPnyuFlso=w148-h148-n-k-no"
+            }
+        ],
+        "Caxito": [
+            {
+                "title": "Iron Palace",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUk5cL29q3034B4vjQO-3xtpSJUiyST_5CK52A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Peninsula Mussulo",
+                "category": "Peninsula",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5eCe0d30QAhwqdFtYlmHqg2Kx-vfhFpzum83i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional do Quicama",
+                "category": "National park",
+                "url": "https://www.africatourvisa.com/angola/national-parks-and-wildlife/qui%C3%A7ama-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK5t_SBToAmcSg_pgEIi-OGuYdez8q3hI6mZz-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luanda",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxqXw7-YWLLVdSk2qpdHosfAOGVGrSTxQuVYhJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viewpoint of the Moon",
+                "category": "Observatory",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD29z5tEmU8vvKz6E4gC09EmruXeqASFpy60Od=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Slavery Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT-aYKIoh3_y5HCnZOwdyVGmi6BgpcdXsUZvV-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza de São Miguel",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeqh238hELA52MFiwMfNaQZwj5EY7LqQpwr7ZW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha do Mussulo",
+                "category": "Land mass",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEqyvVgNMt4I5PfRhPjf-K83ImRkVPMy9DWf-V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida 4 de Fevereiro",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg8GNhBehRE0bjcMqqFc9YpcjhajFWn_M0BOmn=w148-h148-n-k-no"
+            }
+        ],
+        "Luau": [],
+        "Dondo": [
+            {
+                "title": "Belas Shopping",
+                "category": "Shopping Centre",
+                "url": "http://belasshopping.co.ao/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIcvf0AUEoiQHDGJY4uRK30lQqYO0UE0idV4BI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha de Luanda",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQv3PmjnBUdqyHbtgD4tvFOQqQdluwOqAy-uPD=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Anthropology",
+                "category": "Ethnographic museum",
+                "url": "https://pamim.blogspot.com/2006/09/um-pouco-de-cultura-angolana-no-museu_17.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmvW10nUx1ZR7Q6OtuodqLr-QBd2MXqamATaAU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luanda",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxqXw7-YWLLVdSk2qpdHosfAOGVGrSTxQuVYhJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu da Moeda",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBhybhV8DIwWQO742Nqm7gyTZtgrFudsljhPg7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iron Palace",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUk5cL29q3034B4vjQO-3xtpSJUiyST_5CK52A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional do Quicama",
+                "category": "National park",
+                "url": "https://www.africatourvisa.com/angola/national-parks-and-wildlife/qui%C3%A7ama-national-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK5t_SBToAmcSg_pgEIi-OGuYdez8q3hI6mZz-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viewpoint of the Moon",
+                "category": "Observatory",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD29z5tEmU8vvKz6E4gC09EmruXeqASFpy60Od=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calandula Falls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkmHMKQXQhRsX0-ciGz0zqEzJ0f83hkRD2h783=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Slavery Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT-aYKIoh3_y5HCnZOwdyVGmi6BgpcdXsUZvV-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza de São Miguel",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeqh238hELA52MFiwMfNaQZwj5EY7LqQpwr7ZW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha do Mussulo",
+                "category": "Land mass",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEqyvVgNMt4I5PfRhPjf-K83ImRkVPMy9DWf-V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida 4 de Fevereiro",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg8GNhBehRE0bjcMqqFc9YpcjhajFWn_M0BOmn=w148-h148-n-k-no"
+            }
+        ],
+        "Cubal": [],
+        "Barra do Dande": [],
+        "Dundo": [],
+        "Cabinda": [
+            {
+                "title": "Executive Paraíso Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2TNX3xL0hYVi_md-spuJM5kw31g8otyXnXEGI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Pôr do Sol",
+                "category": "Hotel",
+                "img": "https://lh4.googleusercontent.com/proxy/avA9PSq-hTXRDLfMS9VNoBCSHh_hZOP00k7Y4yLL5I7nSsDG8idBcq43sSJvJnHkTazctwc38EBEH7ro3pfiChEhnhwi5OGEam1vZFSX6dFlhd3ETmJYOObL8JJHGpdVfMvVzh51z7vSoERIGFSKUgacXHgw7po=w148-h148-n-k-no"
+            },
+            {
+                "title": "Municipal Tafe Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvyUE-NKGnl939PN286Bmd3E0xW3PTEMXiVJvK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Dellaz. Cabinda",
+                "category": "Hotel",
+                "img": "https://lh6.googleusercontent.com/proxy/uWHD3pyDPPCbYWEl8tUBbWqBcIq2v5iiWsx8E1hiUyEQXYr4Q-Fc4QUnCP1xPCM231XuuG4HVqm-UjKQ2y3TdPzyytZFgrGY9G7OrsY9S-E8_G8n4w0658b2LreZo2X6zomcvzRfenDl4oaZUmVlepfEocHs1sw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cabinda Airport",
+                "category": "Airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkhx8zmR3z2szD0A9qLOBsjC6MNNbWJCqetl1g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Maiombe",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwOisSczeB-18xOj1QE60rWtdbhLg2rC7r_VKv=w148-h148-n-k-no"
+            }
+        ],
+        "Huambo": [],
+        "Luanda": [
+            {
+                "title": "Fortaleza de São Miguel",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeqh238hELA52MFiwMfNaQZwj5EY7LqQpwr7ZW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museu da Moeda",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBhybhV8DIwWQO742Nqm7gyTZtgrFudsljhPg7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zap Cinemas, Shopping Avenida",
+                "category": "Cinema",
+                "url": "http://www.zap.co.ao/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNo2GFUw2kX-jI3r9oeccC7RbISCt_Pi3ngF4m=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Anthropology",
+                "category": "Ethnographic museum",
+                "url": "https://pamim.blogspot.com/2006/09/um-pouco-de-cultura-angolana-no-museu_17.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmvW10nUx1ZR7Q6OtuodqLr-QBd2MXqamATaAU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinemax Belas Shopping",
+                "category": "Cinema",
+                "url": "http://www.cinemax.co.ao/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYaEM9MbWjs49wS4o93IRh4OfDK9_mSYIDmtMv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Carmo",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZGv-dDpyBiJjdrkw3npeXwpXniEno32u2eJFN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belas Shopping",
+                "category": "Shopping Centre",
+                "url": "http://belasshopping.co.ao/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIcvf0AUEoiQHDGJY4uRK30lQqYO0UE0idV4BI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida 4 de Fevereiro",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg8GNhBehRE0bjcMqqFc9YpcjhajFWn_M0BOmn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iron Palace",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUk5cL29q3034B4vjQO-3xtpSJUiyST_5CK52A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Memorial Doutor António Agostinho Neto",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBPLXyfWpVChFHhIU-L7JyWn7rxMs_FnysYpU1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha de Luanda",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQv3PmjnBUdqyHbtgD4tvFOQqQdluwOqAy-uPD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Our Lady of Remedies",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOz9Bj7ch7JavCOVjvC_y8EgyLUhvKts6Rjhb0V=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Slavery Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT-aYKIoh3_y5HCnZOwdyVGmi6BgpcdXsUZvV-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viewpoint of the Moon",
+                "category": "Observatory",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD29z5tEmU8vvKz6E4gC09EmruXeqASFpy60Od=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha do Mussulo",
+                "category": "Land mass",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEqyvVgNMt4I5PfRhPjf-K83ImRkVPMy9DWf-V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento O Soldado desconhecido",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMH1fliC8G4txFcJVFlIcam2y4iAQjBSrGU3z8F=w148-h148-n-k-no"
+            }
+        ],
+        "Negage": [],
+        "Bailundo": [],
+        "Gama": [],
+        "Menongue": [],
+        "Ondjiva": [
+            {
+                "title": "COMBUESA",
+                "category": "Motel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0tI-t-3T5yIL9nWX1uFEU4pveyeoWf2oYZ0bV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mupa National park",
+                "category": "Park and Garden",
+                "url": "http://www.governo.gov.ao/VerNoticia.aspx?id=17043",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrvCuFIu4gVYBO2udPkIJLS5MttK6qiLHB3fDi=w148-h148-n-k-no"
+            },
+            {
+                "title": "SOS Motel",
+                "category": "Self-catering accommodation",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMK4U445Lt4J42mHIO0EVdHUfEqbcG7_3lHS98=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pensão Maroka",
+                "category": "Lodging",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjUoVWF66peKMBu4K8AaXLoITTMDtpn6aPqgFY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ondjiva Pereira Airport",
+                "category": "Airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQXrekXQWo-0T8Quwle83q4AwDSr3nG8yIep3n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Águia Verde Hotel",
+                "category": "Hotel",
+                "img": "https://lh3.googleusercontent.com/proxy/ucCwBeSj5ZvS2jrCXMJzC8WplWmr2dVD2QoCz9r8R-B7zv3983XiIfrequAkyF2uf1mzbKbqyxdXN5YXUrvtnpFDNy9WHV23uwSnC_A4n3DGuZMRU3TNVfzKZpcPi9m3shc08hWqz1FyXRwsWjilpUYt7itYwvA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Villa Okapale",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAdkcQtPm4v5wIDWsfei8ghV_7YeV1C6olL3xx=w148-h148-n-k-no"
+            }
+        ],
+        "Matala": [
+            {
+                "title": "Matala beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP5uKkSnCaUH88HCZ5hX-aAo_HJMlDIF40MVh3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk8Cj0ruxfSaTKxStxvht49O-dzbfcyT6nNRyR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kommos beach",
+                "category": "Beach",
+                "url": "http://www.cretanbeaches.com/Beaches/Heraklion/kommos-beach/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0ZVecJyG-tJK1b7X0x93Pq_UuGLTwTkr6zS3w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalamaki Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrVxY6E9QEhPRX2uSEx7NXbWVYqGOBGeZ3cu_w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Site of Agia Triada",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtqsMQ3UQoGFmVDT6XT-RWdf_BvNwhdnYvO786=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vathi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1NNSff-Zgf021exqu6nix07rPl5J5EyAoxNQc=w148-h148-n-k-no"
+            }
+        ],
+        "Catumbela": [],
+        "Soyo": [
+            {
+                "title": "Hotel Nempanzu",
+                "category": "Hotel",
+                "img": "https://lh6.googleusercontent.com/proxy/NKH4gNa6yk0FKj4oywC4MsXFwAsr3JfHEwfmms4ENwEVF4PCc6hTriuStFEdAaDAXFQ7py4Oype7OsviY6jax0Tu_XM4hI6qNev3GSQsqM8Dujnx2P1EXcoIoB3OSpEJtNy-GDSdI_0rWjB2Jfj52fLw3qk4ykQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Mpampa",
+                "category": "Internet marketing service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSWryJe_fWA-ZJ6qinxwtiQFVGKdY_0Yki3eBW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Casmad",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQK8OgxLctwzFiGPZGqSci7MYO-SeEFLo7cX5f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soyo Airport",
+                "category": "Airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-tNnm0oUMF5X_UvVhHQ12gYedr3oGemfntbmr=w148-h148-n-k-no"
+            }
+        ],
+        "Uíge": [
+            {
+                "title": "Largo do Governo Provincial",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDCODlScrB4rNUQC2q7TJHAVtobNBi8--rXfxb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estádio 4 de Janeiro",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1-866arp6nK0t2I23xzyiR9cbA5UtQ7FSwEs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mussulo",
+                "category": "Administrative Area3",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGQ2eQN54XzMi_GsgB9SNOQ5QS9QrYyS9g3q8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pastelaria Pinguim",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdVnr8_k5mi7jqk5L6pbgMhfzvaTDonExerchj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Bago Vermelho",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4IyldQ6Aa4NgRLECoWzdw8p9QEQnXx2HWTgQP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grande Hotel do Uíge",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMu1-UU8PHxx7pukzNyz62Hk2x7nv8XHqJilFl8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Salala",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlQy-yBzwO9Lo1pRYTrFNAqtgR85JxBXsaDhjq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viewpoint of the Moon",
+                "category": "Observatory",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMD29z5tEmU8vvKz6E4gC09EmruXeqASFpy60Od=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Slavery Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT-aYKIoh3_y5HCnZOwdyVGmi6BgpcdXsUZvV-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calandula Falls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkmHMKQXQhRsX0-ciGz0zqEzJ0f83hkRD2h783=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fortaleza de São Miguel",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNeqh238hELA52MFiwMfNaQZwj5EY7LqQpwr7ZW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Avenida 4 de Fevereiro",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNg8GNhBehRE0bjcMqqFc9YpcjhajFWn_M0BOmn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilha do Mussulo",
+                "category": "Land mass",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEqyvVgNMt4I5PfRhPjf-K83ImRkVPMy9DWf-V=w148-h148-n-k-no"
+            }
+        ],
+        "Cuito": [],
+        "Cafunfo": [],
+        "Mbanza Kongo": [
+            {
+                "title": "Garcia Eleck",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJNPaFIh1m1j1HhELyqwQYS7XKKPsuLNCraeop=w148-h148-n-k-no"
+            },
+            {
+                "title": "Seven Hotel and Restaurant",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnfIkqiRI4xi9GMSSqDItqgCsMoBGWrVllLk5L=w148-h148-n-k-no"
+            },
+            {
+                "title": "M'Banza Congo Airport",
+                "category": "Airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9z0b1TgCIWY_7dSQf_fUeEPsmoK_kmSc3osW0=w148-h148-n-k-no"
+            },
+            {
+                "title": "António Massamba Mbiyeye Lda",
+                "category": "Discount supermarket",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6VZfUkVEqtHaGUupX4AyIkCq00yiwp0VmkAvi=w148-h148-n-k-no"
+            },
+            {
+                "title": "iu Hotel M'banza Congo",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs0V8uo-9NOU-TZGuudnEoQKxR6M0c1bBnsKx6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Estrela do Congo",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpDvzyDTyKGER4lGqtPi4eZpcVjUnWkWwbsDdS=w148-h148-n-k-no"
+            }
+        ],
+        "Benguela": [],
+        "Lubango": [
+            {
+                "title": "Pululukwa",
+                "category": "Hotel",
+                "img": "https://lh6.googleusercontent.com/proxy/xz6_IEdmRd57gaIhvoFy9QX1B_Akr90DhweJ_g5tI4M_99nlSR6m5g2BgZTT1p6MANs7cSsTtbdX1NhNRAPPWUovIjjUHS8QW2HpWjbAsMtRPoxwaYga8Tf5g8WrL3pggFEP2deCJuBeeoOvaTN53UVIZBVjrg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sé Catedral de São José",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxqHAf1ex95SKiwg8i91NHwPjkymwmMpzwUIKT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Missão Católica Do Lubango",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNc8YLTGQ-G249LB8Ucn66pFkV1tEcrTGkGAQzB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Regional Museum of Huila",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOG3h4yUPinYST6rX36HLt1FhKg27A8GgwfdQwE=w148-h148-n-k-no"
+            },
+            {
+                "title": "CineGospel",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqRqfONO8lKZec_FNOjk3gAT_ygu2lBQP31J4X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kimbo do Soba",
+                "category": "Indoor accommodation",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf2bUjQiVru2s3lOHRXxQRBI8gUMAmc4W57Dp-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estrada da Tundavala",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4blgFJuhpoMFOAGw14o87x2KOW_5JMJ_WF9JC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Railway Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAnVouZgmgaw9VooAw4WLev3ttH2qpcj8bG67T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ the King Statue",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj0dE76U6ovpO4eLtbmez8fDT3ru991syxakrJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Serra da Leba",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj4EscTFXKHcFZgDgrvNpI_hUmXEVu4E6uQC78=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estádio Da Tundavala",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOn5sZrZm9fIu7OsSYSVOwIxmJjYnU4vHOt4DQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady Of Senhora De Monte Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGD67fpxzc75XlLRlqHu9ObJj_EdRmUnJGmdNu=w148-h148-n-k-no"
+            }
+        ],
+        "Sumbe": [],
+        "Quissecula": [],
+        "Lucapa": [],
+        "Caála": [],
+        "Porto Amboim": [],
+        "Mossamedes": [],
+        "Cela": [
+            {
+                "title": "Huambo Province",
+                "category": "Administrative Area1",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjVz8J4A9IU6uBRu0RgqkZCVnNh4eV_JxQ7LUH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Huambo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYYlc7cThof_kcHhjOSzuzICJYqQrUWtreZgnc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lobito",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvmc7W5qFTw78FeqZUnWB8b1ScCFifJ5Hr2QcT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional da Cangandala",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKCNddcIllyg-yW8dTq5j_dKjuWYt-fpfMkfbi=w148-h148-n-k-no"
+            }
+        ],
+        "Malanje": []
+    },
+    "sights": [
+        {
+            "title": "Calandula Falls",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNkmHMKQXQhRsX0-ciGz0zqEzJ0f83hkRD2h783=w148-h148-n-k-no"
+        },
+        {
+            "title": "Fortaleza de São Miguel",
+            "category": "Fortress",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNeqh238hELA52MFiwMfNaQZwj5EY7LqQpwr7ZW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Viewpoint of the Moon",
+            "category": "Observatory",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMD29z5tEmU8vvKz6E4gC09EmruXeqASFpy60Od=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Slavery Museum",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNT-aYKIoh3_y5HCnZOwdyVGmi6BgpcdXsUZvV-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Christ the King Statue",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPj0dE76U6ovpO4eLtbmez8fDT3ru991syxakrJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lubango",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMku-s0EmyolJN87wp97QccybojENDBN6yivMaz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ilha de Luanda",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNQv3PmjnBUdqyHbtgD4tvFOQqQdluwOqAy-uPD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ilha do Mussulo",
+            "category": "Land mass",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMEqyvVgNMt4I5PfRhPjf-K83ImRkVPMy9DWf-V=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ruacana Falls",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOWoRlz9A2z7IpFacwclTArYWFnRZ_dAfO0d179=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museu da Moeda",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOBhybhV8DIwWQO742Nqm7gyTZtgrFudsljhPg7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Serra da Leba",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPj4EscTFXKHcFZgDgrvNpI_hUmXEVu4E6uQC78=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pululukwa",
+            "category": "Hotel",
+            "img": "https://lh6.googleusercontent.com/proxy/xz6_IEdmRd57gaIhvoFy9QX1B_Akr90DhweJ_g5tI4M_99nlSR6m5g2BgZTT1p6MANs7cSsTtbdX1NhNRAPPWUovIjjUHS8QW2HpWjbAsMtRPoxwaYga8Tf5g8WrL3pggFEP2deCJuBeeoOvaTN53UVIZBVjrg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional da Cangandala",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOKCNddcIllyg-yW8dTq5j_dKjuWYt-fpfMkfbi=w148-h148-n-k-no"
+        },
+        {
+            "title": "Avenida 4 de Fevereiro",
+            "category": "Route",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNg8GNhBehRE0bjcMqqFc9YpcjhajFWn_M0BOmn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Iron Palace",
+            "category": "Building",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPUk5cL29q3034B4vjQO-3xtpSJUiyST_5CK52A=w148-h148-n-k-no"
+        },
+        {
+            "title": "Estrada da Tundavala",
+            "category": "Route",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN4blgFJuhpoMFOAGw14o87x2KOW_5JMJ_WF9JC=w148-h148-n-k-no"
+        }
+    ]
+}

@@ -1,0 +1,866 @@
+{
+    "cities": {
+        "Tirana": [
+            {
+                "title": "Skanderbeg Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-4wJjl1loyBspXIs8y9UzHH9ufOkqe0oYd-7y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tirana Park",
+                "category": "City park",
+                "url": "http://aprtirana.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCe_rw2P_1KsohjmQ1cbOH7hof7pcFDWgMJuk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bunk'Art 2",
+                "category": "Museum",
+                "url": "http://bunkart.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMb9xUznIYRDxcIz06-I_9xnHGOtfpfoOEswc4z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Et'hem Bej Mosque",
+                "category": "Mosque",
+                "url": "https://qarkutirane.gov.al/xhamia-e-ethem-beut-tirane/",
+                "img": "https://lh4.googleusercontent.com/proxy/jN168ubWAu9wq1GBeV9UkgLcrD75JQR8bIUqoISeFUisfXDQ7-oa9XFkQtq1jBs6iJaNNLqNPTLaC0ToUdLsIQUJU4hQg7zEbrRpCiZkoNvTcFts2NJCgH1LBNLH-Asxr5dbjpebf95y8RIhXQcAP1KOXwVwMuI=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of Leaves Museum",
+                "category": "History museum",
+                "url": "http://muzeugjethi.gov.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvPGbryaFM5xjO9ZJUIYunFHBOq8TppbMijmH2=w148-h148-n-k-no"
+            },
+            {
+                "title": "BUNK'ART",
+                "category": "Museum",
+                "url": "http://bunkart.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzi4gqiP7n23muPmnLWX9pnXL6PO_qt2hN4kyK=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Historical Museum",
+                "category": "National museum",
+                "url": "http://www.mhk.gov.al/?lang=en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCTR1phypItM0t3eDtfXAMzf5OQgDW9RevcPUH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dajti Ekspres",
+                "category": "Cable car station",
+                "url": "http://www.dajtiekspres.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPmwM2qBTYp2-skIhd6SjFtgFGfvXHmdWKJnA3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tirana Castle",
+                "category": "Cultural landmark",
+                "url": "http://kalajaetiranes.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXqeffReIiKRSivRoK1YwmatxxkQV-JLJCXI_Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rinia Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEgjM4Gn_NWDRZvYTlEkqTPnsAII8jz6ybc64=w148-h148-n-k-no"
+            },
+            {
+                "title": "Resurrection of Christ Orthodox Cathedral",
+                "category": "Eastern Orthodox Church",
+                "url": "http://www.orthodoxalbania.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0Eid1b2-Jb7zSA47YO3frwBqMH4UKoiS06y7z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanners' Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHErnKBieUrgLKYd4lYNeugszEkSyVvUempX4w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pyramid of Tirana",
+                "category": "Historical landmark",
+                "url": "https://piramida.edu.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8OYSyns_IxV6zwOgMftF6Q_Rq3gIYrnYhlQ1V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle of Kruja",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgM6Wlsni0vRguH1oH4lQHba3qehAeAGiaWdcD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kulla e Sahatit",
+                "category": "Tower",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb0tOTvxAxZrOm17oi1AgO4oQr3wgogvgiRdBG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galeria Kombëtare e Arteve",
+                "category": "Art gallery",
+                "url": "https://www.facebook.com/GaleriaKombetareArteve/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmna5xa1MEX5lvFM8GsaVnUF_wUkUzCvlmppFW=w148-h148-n-k-no"
+            }
+        ],
+        "Fier": [
+            {
+                "title": "Divjaka-Karavasta National Park",
+                "category": "National park",
+                "url": "http://akzm.gov.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPBwWRISmKff3-cAKET74NAp5m5alp_ktAZ4MU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manastiri i Ardenicës",
+                "category": "Monastery",
+                "url": "https://m.facebook.com/ManastiriiArdenices/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLEAbYKJxoCP0m45E9e5D-OPVyvqaVP6KF_sZH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropol Center",
+                "category": "Shopping Centre",
+                "url": "http://www.metropolcenter.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPH-4a1J1bEN6pIDFQSIDOcx_DQhaR_qK_XDh8s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apollonia Archaeological Park",
+                "category": "Archaeological museum",
+                "url": "https://apolloniaarchaeologicalpark.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzsANTlU6vep3mEMVq2z077G7Es_Zb4I-WL8Xa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skanderbeg Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-4wJjl1loyBspXIs8y9UzHH9ufOkqe0oYd-7y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kulla 360°",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCTbwHouYLBGDFf8FfQ-pQLP2UJbmuQH6_yOmq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum of Apolonia",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaI-eDYVx-lIjY2owlniHF8vnLqfiboCpWYt-B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle of Kruja",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgM6Wlsni0vRguH1oH4lQHba3qehAeAGiaWdcD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karavasta Lagoon",
+                "category": "Lagoon",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxIqTeFno-jfVT0-ckK2PIBvC62I7DCMhic-J4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vega Beach",
+                "category": "Beach",
+                "url": "http://www.beachrex.com/en/albania/vlore/vlore-beaches/plazhi-vega",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIK-7LczX5iGXGX9dv7jaCGbg9NbZN97ucHgSU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kanina Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUp3fmSItFa7OM0D693F3ASld8QdF7cc73ukcM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Preza Castle",
+                "category": "Historical landmark",
+                "url": "https://www.facebook.com/Prezionsat/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFlu3_W6kj0iRWr5ZUxqKD1cEaSW3u-r50ECrK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Petrela Castle",
+                "category": "Traditional restaurant",
+                "url": "http://kalajapetreles.strikingly.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3s9pp5_pHBRjPEPAKXbW74s-GoNFUHc_BC1LJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Historical Museum",
+                "category": "National museum",
+                "url": "http://www.mhk.gov.al/?lang=en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCTR1phypItM0t3eDtfXAMzf5OQgDW9RevcPUH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Berat Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOc7dLVqs9HVo1qeia9O8JBMNBrevmxpMqqJc1G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tirana e Re Bus Stop",
+                "category": "Bus stop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOMFV8_crSaNMpm0GA6-6ek8fRh9KMcr3S0mRP=w148-h148-n-k-no"
+            }
+        ],
+        "Fier-Çifçi": [
+            {
+                "title": "Divjaka-Karavasta National Park",
+                "category": "National park",
+                "url": "http://akzm.gov.al/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Byllis Archaeological Park",
+                "category": "Archaeological site",
+                "url": "https://apolloniaarchaeologicalpark.al/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kanina Castle",
+                "category": "Castle",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Archaeological Museum of Apolonia",
+                "category": "Archaeological museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Preza Castle",
+                "category": "Historical landmark",
+                "url": "https://www.facebook.com/Prezionsat/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Petrela Castle",
+                "category": "Traditional restaurant",
+                "url": "http://kalajapetreles.strikingly.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Skanderbeg Square",
+                "category": "Tourist attraction",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Castle of Kruja",
+                "category": "Castle",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "National Historical Museum",
+                "category": "National museum",
+                "url": "http://www.mhk.gov.al/?lang=en",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Berat Castle",
+                "category": "Castle",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Metropol Center",
+                "category": "Shopping Centre",
+                "url": "http://www.metropolcenter.al/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Manastiri i Ardenicës",
+                "category": "Monastery",
+                "url": "https://m.facebook.com/ManastiriiArdenices/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Tirana e Re Bus Stop",
+                "category": "Bus stop",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Karavasta Lagoon",
+                "category": "Lagoon",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kulla 360°",
+                "category": "Tourist attraction",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Apollonia Archaeological Park",
+                "category": "Archaeological museum",
+                "url": "https://apolloniaarchaeologicalpark.al/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Shkodër": [
+            {
+                "title": "Rozafa Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH_6lta78K40ciJM2CZsK_c536i-KDajjHGJom=w148-h148-n-k-no"
+            },
+            {
+                "title": "\"Marubi\" National Museum of Photography.",
+                "category": "Art museum",
+                "url": "http://marubi.gov.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZq05UHpFqVesc3WRov9_282VOJIgO9qNSUeCY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vila Bekteshi Restorant",
+                "category": "Restaurant",
+                "url": "http://www.cocja.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO699loc38JC5Cks2snuQodJkV3gO8dnXOaF43j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Site of Witness and Memory",
+                "category": "History museum",
+                "url": "http://www.vdkshkoder.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqCaTK3exjbGjhcmura13NtDL8LRAmNTGjx3QK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Venice Art Mask Factory",
+                "category": "Souvenir manufacturer",
+                "url": "http://www.veniceartmask.eu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxWyRZgY9-J6jHlUTbuWLfQbuWSuYFlIIyyitm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Xhamia e Madhe - Ebu Bekr mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmBXpR9WQjfNTW2uxtrpUiNefSKTunBLBmQF6T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Theth National Park",
+                "category": "National park",
+                "url": "http://thethi-guide.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4UAqUvpzyltiEr-klSTCQB89-Lb9omLpq4UX6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mesi Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMld1ZtAxflAtKsdu-WjF0CiJd9cpJTiCudZUo-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tirana",
+                "category": "Locality",
+                "img": "https://lh6.googleusercontent.com/proxy/8ABD_a3NshCkHx__JUsOS_oKx7K50Qj77WsDgGJowlNbtI_Vcdj0Now0JEjBLDeBFXSSLHQD6Lr7X7FVO8y-GgMFlADie4j5NytNqvtZYOpgKfrmj_ttij6FUzMS6SCz14gbJmXYHHRLK4i-cjjFB0wfWfWl8A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kantina Mani / Mani Winery",
+                "category": "Winery",
+                "url": "http://www.kantinamani.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFZoD5pefvNYQYZLfmYlHr0G_zGvk2F4jDydax=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shkodra Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMycrwWM9TqOgXH_2Fxz25R0-wkka1MQDWsKoKk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albanian Alps",
+                "category": "Mountain range",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9NpiwXTZxcH_feD2OzmE6kgeQvP4fSRV6KIJN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buna River - Velipoja",
+                "category": "Nature reserve",
+                "url": "http://livingbuna.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiZAHjzUHV2QIKGlAH58HCJxBchzLyDQqN3EHx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Върхове на Балканите",
+                "category": "Trail head",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-FYpynultJ6oY3ZSgjNoE1PBUz7HARbN22c6h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lezhë Castle",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMz37JdhmhYNfV6oYYsYQSfLvgterKc6GPAbth9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Velipoja Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPckO2MKxYTSI8s6VpYPHB7bE3radw3q3q1PAdH=w148-h148-n-k-no"
+            }
+        ],
+        "Vlorë": [
+            {
+                "title": "Independence Monument",
+                "category": "Tourist attraction",
+                "url": "http://bashkiavlore.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkUM1VUSINBc2lVAU7FEQUQdQtJ5ViApWiuQCb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muradie Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObLoHqnRzMVv6n7LNf3BqhcE0LQ0pHU1M-jveL=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Independence",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOh9Pr-cPmRvQd3Oq5aJ2P0stRCwH98uF3-bSc7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lungomare",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMu6RTkI6sBLMfI1ZMPjimNhZ9N8qYqRSe4tf1i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vlora Old Town",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYOfGvXp4Z3GHnluOdFVhD9RPQwjsmsCVSsa7E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuzum Baba",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSCsxiJzLDcB0HbAbwcQmPyzRqrwDn5cRmWhw=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Blue Eye",
+                "category": "Nature reserve",
+                "url": "http://wildtouralbania.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRrdqmlTIRhDOynnjgLPaLbdbRaMmXle3iIa6w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kanina Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUp3fmSItFa7OM0D693F3ASld8QdF7cc73ukcM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plazhi i Vjeter",
+                "category": "Beach",
+                "url": "http://ultimaspiaggia.ml/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfsHYt-iP-45bAasdznlUrR3ZjpBK_TaMntZf_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zanzara Beach Bar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORAb8eAsIrarXT1dFYIzHwYoYS85nhhaIs6l0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plazhi i Ri",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMw4vee3x5G3y_JA3TgKI-vUCZeKthOv_tc-cyn=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Mary's Monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7MIhZJvhA3fUICKQJixZQY3lYBHexFzoDUJNu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karaburun-Sazan National Marine Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0YLpdaXfPajDXEv48YBexHJJmPCasgBvS48bE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Butrint National Archaeological Park",
+                "category": "National park",
+                "url": "https://butrint.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoR5SIeX3TOy44rmakid6xZQ0A0If_QBrywZqi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bora Bora",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtulaee17toBY8rxfgamMjaxTu8kimlcjAn2Ps=w148-h148-n-k-no"
+            },
+            {
+                "title": "Radhimë Beach",
+                "category": "Beach",
+                "url": "http://www.infoprona.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5gPRBiEOfDgkywat2SWeCH4i5LIQkhJT6Qp8_=w148-h148-n-k-no"
+            }
+        ],
+        "Elbasan": [
+            {
+                "title": "Elbasan Castle",
+                "category": "Fortress",
+                "url": "https://bizz.al/bashkia-elbasan/landmarks/elbasan-castle/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMW2N8RWJSWjYnANxSLbBmz96ZWbggJYytXQzUl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elbasan Arena",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgpudHj5GUQu0m5FxaYWBG8EQXX_GwC3eOQZqM=w148-h148-n-k-no"
+            },
+            {
+                "title": "King Mosque, Elbasan",
+                "category": "Mosque",
+                "url": "http://www.xhamiambret.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsjvkF3jcIsFNp8hSh0epNjEnZwVdBAqHez_8f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basilica of Bezistan",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnPeJIGVU2QkH8E2jyHKUV3UD_YI_6pc2oDfre=w148-h148-n-k-no"
+            },
+            {
+                "title": "KIsha Fjetja e Shën Marisë",
+                "category": "Eastern Orthodox Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzbGhpzjIZu5bLPqVAZgBWeeyeZedyxdDk1rNa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kombinati Metalurgjik",
+                "category": "Metallurgy company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9rQK9IXickmLG3fkjUZrCQNW6FsNfsuc-9qDg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shebenik National Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPI7jIMFP_rEv1KEmAgfwvkmhJj0StBepxiU7OV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tirana Park",
+                "category": "City park",
+                "url": "http://aprtirana.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCe_rw2P_1KsohjmQ1cbOH7hof7pcFDWgMJuk8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sotire waterfall",
+                "category": "National reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_cnkGRAmPmzaxcfm-nTim6d-mjLbvYrS7yIC7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liqeni i Dushkut",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDaquER7p-_LjQE1SiHgQqh7zX3Wwp26r_Bfpb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liqeni i Dushkut",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1bsC0BIhp_Kth9pJgDsW4AoX-O8T-RI1QnRGg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kanioni i Holtes",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgDxD5TftlOVA6HWV6_WX4xaqI-0eksxqK5j8o=w148-h148-n-k-no"
+            },
+            {
+                "title": "SkyFlySports",
+                "category": "Adventure sports centre",
+                "url": "http://www.flytandem.al/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipON2R1EWoOg0U0OHreuxEmtRGvVY1n4pjVpDkxA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albania Holidays",
+                "category": "Tour operator",
+                "url": "http://www.albania-holidays.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyv1ChZ39rzu-cfVG7FIeOyGbzFyJ-lWv22-Uy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liqeni i Marinës",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHtRvHUUoYSL5MW61lXHk_nUg3aXYn34ShqD-U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tirana e Re Piramida",
+                "category": "Bus stop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqUUQZmjLY5Xl7Vaa_XXEpKLbPinpOJPq_-JnM=w148-h148-n-k-no"
+            }
+        ],
+        "Korçë": [
+            {
+                "title": "Parku Rinia",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcG40tqKJviabUhM96VLGAHynTRLIF9nh2z7j0=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Medieval Art",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgaFOaKIPTWFSaqutiGUvz_SAfpicXEzP3E7Oq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taverna Vasili",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0UNsBCZRbNuXA7Sq2O6k36OPN60l7-bMInQx2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Bazaar of Korçë",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4vIawm3ebrKLjA93NWfHWBNzH-X_-jcmj2dHt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Komiteti - Kafe Muzeum",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdM2ncl5Mfxux0HPZpKxfhrO512NVSGEILG6w1=w148-h148-n-k-no"
+            },
+            {
+                "title": "French Military Cemetery",
+                "category": "Military cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVmpptrDRFtyWEIhbr7e3nP-hQ755wYXwZ8WHB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Birra Korça",
+                "category": "Brewery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQzAPdvQAR6RDivCaR9mNgXx3RN6tbRi3tV9UM=w148-h148-n-k-no"
+            },
+            {
+                "title": "ÇARDHAK / Morava Mountain highest point",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmb8QT-QVeY418EM5RF-fmetwfNaSKmZridy7Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Archaeological Museum, Korça",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9F_-CRH3Cm9v5QL1xIftqAIyLa8xbcsHEBDb7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galeria Kombëtare e Arteve",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmna5xa1MEX5lvFM8GsaVnUF_wUkUzCvlmppFW=w148-h148-n-k-no"
+            },
+            {
+                "title": "\"Gjon Mili\" Photography Museum",
+                "category": "Art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv-JG9w9oXfIS5SXGqbmbODzn_5gD0R9zpzzsG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bulevardi Shën Gjergji",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOT30z4kItutG1RWG2X3dczOb1IjV9RRHC35FB-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Clock Tower of Korçë",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpQ46ViX-a20eJHbPcxQCPr5kqf7a6VZukgDwd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rinia Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEgjM4Gn_NWDRZvYTlEkqTPnsAII8jz6ybc64=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vithkuq, Korçë",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4yiqemNs7MhpnNHxKVX7GEpJfR0bc5kys9tnV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kamenica Tumulus",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvpUGDxnYR6B7XhEacevvTn3Ezkt-7304tTtvc=w148-h148-n-k-no"
+            }
+        ],
+        "Durrës": [
+            {
+                "title": "Durrës Amphitheatre",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVnBTazKSFkEsGAPG9B1y_Km1Q8Vx62yAh55re=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muzeu Kombëtar Arkeologjik",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ20WYdEZwPu70f5y6zrud-J8tvw1aeS_k2BTb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Venetian Tower of Durrës",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONqETKUzbw6dgcpsgpeT0Ncn_qmFplciHn5UQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Great Mosque of Durrës",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO24xJTBXJHRvUWMj_e7QCbTdm5XQ2mZlNJ1bw3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sfinksi",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9tdVyteUQhVvmIjxHNkaW3ARlZslXeBCEpfC-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Mosque of Durrës",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmla5QrX3BAmaZLHWeyu4ND7RfbXjm_hc_aUXV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Beach of Durrës",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgcBGRuf1h4vasrrWW5rGHCaIBJaw0raakB3w5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rodon, the God of the Sea",
+                "category": "Sculpture",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQ64E7-mhnUTMq-EEKMLkQjRisuBMEtKBU2S3i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kallmi",
+                "category": "Resort hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3hVeuYMD6qra-7HBs9G-xeVj75c8q9SSssHX5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abaia Winery and Vineyard",
+                "category": "Winery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUAtC57MPioOTaNVOrjqASUrcyEvhjyYLkhgbo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tirana",
+                "category": "Locality",
+                "img": "https://lh6.googleusercontent.com/proxy/8ABD_a3NshCkHx__JUsOS_oKx7K50Qj77WsDgGJowlNbtI_Vcdj0Now0JEjBLDeBFXSSLHQD6Lr7X7FVO8y-GgMFlADie4j5NytNqvtZYOpgKfrmj_ttij6FUzMS6SCz14gbJmXYHHRLK4i-cjjFB0wfWfWl8A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kisha e Apostull Pavlit dhe Shën Astit",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOlg09EkMSQBIpJH2uzXZCr7Zv91GOlUbScW_H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tirana Castle",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXqeffReIiKRSivRoK1YwmatxxkQV-JLJCXI_Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Byzantine Forum (Durrës)",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOClIUxu2tcP6zEFn9AQ_tKD7aO2FX_YJw9sHA9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brunnen Shatervani",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGFS4DSZN09xySIWGsX5oQpIZoMBaKvzcIHoUw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Villa of Durrës",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZxbXCuWXHP8y3CQhhtTUXtfdsMLOG7_rqa_ww=w148-h148-n-k-no"
+            }
+        ],
+        "Pogradec": [
+            {
+                "title": "Shtëpia e Miqve",
+                "category": "Architect",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYDijJzd0CoqBI2qZR9UrrmXPzviF929077Gr2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kisha Fjetja e Shen Marise",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVKxXZ9ND_EZmBspkXaGuRm7fZlybgdEUXmumM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastery Saint Naum",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORR1hcJP0jp_bp64jRjZrYtohs7oEQWkND4pkU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skanderbeg Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-4wJjl1loyBspXIs8y9UzHH9ufOkqe0oYd-7y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Berat Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOc7dLVqs9HVo1qeia9O8JBMNBrevmxpMqqJc1G=w148-h148-n-k-no"
+            },
+            {
+                "title": "National park „Galičica\"",
+                "category": "National park",
+                "url": "http://www.galicica.org.mk/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXF4dIEMUJhXztVLYczAqb94Rx1VtXrEYbJXW4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pazari i Korçës",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQ1B3mUTA6XVd51BBes87PaTXmteRgbgdm_O6O=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Park of Drilon",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFyU0UCm23VTi-gi5kqh1NOReGiv8KrjrYCYxF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Valamara",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPm-819ytJyA-dJ76ZJelMIEiZlCdAtKuIzpWt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mali i Thatë",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_C_Au8MHyOpSbgWOnNwOngKfwKyw1VwoPBLO_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lin Ancient Mosaics",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSn4Xf8XiOqwrYjp7ZzuEZfjeyEqjkosz3-qPK=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Historical Museum",
+                "category": "National museum",
+                "url": "http://www.mhk.gov.al/?lang=en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCTR1phypItM0t3eDtfXAMzf5OQgDW9RevcPUH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pogradec Panoramic View Point",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkKhdPUOMFoCcc-L8VYHOkAnkvaTzo5m6dT6Ls=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guri i Kamjes",
+                "category": "Ridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsDdS84mwhejknnj83-NqoY4g7XVpgA4Y1kiMq=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "The Blue Eye",
+            "category": "Nature reserve",
+            "url": "http://wildtouralbania.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMRrdqmlTIRhDOynnjgLPaLbdbRaMmXle3iIa6w=w148-h148-n-k-no"
+        },
+        {
+            "title": "Butrint National Archaeological Park",
+            "category": "National park",
+            "url": "https://butrint.al/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNoR5SIeX3TOy44rmakid6xZQ0A0If_QBrywZqi=w148-h148-n-k-no"
+        },
+        {
+            "title": "Castle of Gjirokastra",
+            "category": "Castle",
+            "url": "http://www.drtkgjirokaster.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMuLIpn6E1zogxy3TNN1WEwdrvJmM2m-imhAfCx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tirana",
+            "category": "Locality",
+            "img": "https://lh6.googleusercontent.com/proxy/8ABD_a3NshCkHx__JUsOS_oKx7K50Qj77WsDgGJowlNbtI_Vcdj0Now0JEjBLDeBFXSSLHQD6Lr7X7FVO8y-GgMFlADie4j5NytNqvtZYOpgKfrmj_ttij6FUzMS6SCz14gbJmXYHHRLK4i-cjjFB0wfWfWl8A=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bunk'Art 2",
+            "category": "Museum",
+            "url": "http://bunkart.al/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMb9xUznIYRDxcIz06-I_9xnHGOtfpfoOEswc4z=w148-h148-n-k-no"
+        },
+        {
+            "title": "Castle of Kruja",
+            "category": "Castle",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPgM6Wlsni0vRguH1oH4lQHba3qehAeAGiaWdcD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Plazhi Ksamilit",
+            "category": "Beach",
+            "url": "https://ksamil.al/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOf1J37UNyjdhc8c-gpXisDi2NyUja0VZEY-8A_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Shkodër",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPOMtaareu37tOz9FHmE-VbScDSymuOqL-pacmG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Llogara National Park",
+            "category": "National park",
+            "url": "http://akzm.gov.al/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPbmXHCKlcCttE4wwvttu7HQBcg-iHcyXdziHtP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Skanderbeg Square",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN-4wJjl1loyBspXIs8y9UzHH9ufOkqe0oYd-7y=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kalaja e Lëkurësit",
+            "category": "Castle",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNtelNUOslF64YAgSZU9mOLBVxEkcCGLtlqaLYA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Albanian Alps",
+            "category": "Mountain range",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN9NpiwXTZxcH_feD2OzmE6kgeQvP4fSRV6KIJN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Berat Castle",
+            "category": "Castle",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOc7dLVqs9HVo1qeia9O8JBMNBrevmxpMqqJc1G=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gjirokaster",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMVD7slP5vguacjycIW7kNSjS6H2QUmxBqX6fFO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kanionet e Osumit",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOJ3Nne61moL1ypXZ9sp_FxOH4UKsmeUUSP5vVH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Berat",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOXWy2TUcJE7jTlOO8uck03jKOS5ULseq6sfuJp=w148-h148-n-k-no"
+        }
+    ]
+}

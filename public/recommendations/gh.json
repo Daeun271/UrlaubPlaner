@@ -1,0 +1,2462 @@
+{
+    "cities": {
+        "Koforidua": [
+            {
+                "title": "Umbrella Rock",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFhmFv12IhjYS5x6dJPmotrOVqsjFT4ho_iPHn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bunso Eco Park (Bunso Arboretum)",
+                "category": "Tourist attraction",
+                "url": "https://www.facebook.com/Bunso-Eco-Park-GH-1675346852533451/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRDX7TXee5augO1ePzacKP3FB_akVF_n5dLplF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Arts Centre",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpecpoOwgA-ILRGjuB-YdMtPUb2ZlfF6HeGxUm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centre for National Culture",
+                "category": "Shops and Shopping",
+                "url": "http://www.ghanaculture.gov.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4hQM9-YlFnVBYTV_NoPCaEP0NqEISRBdCAVUq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adom Waterfalls",
+                "category": "Tourist attraction",
+                "url": "http://www.adomhills.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDaXo5h5wCoRDZxSOztWstzxAD-ALyK9njrt1S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Centre For National Culture",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM22A3jZtxLOb71VUTNu-SUXclx5z7EaC1ZDGhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamestown Cafe",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_rWfjwe4T_JBbFdcLcRcjfPGgoG4_ADhAvTM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjIsfY-RQhIv3XpAhj11xRYxhiMzxmtCQu2a8V=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ghana",
+                "category": "Museum",
+                "url": "http://www.ghanamuseums.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzbTDP-sny4aMV3qQoW5Bejz372eUxQgUY3j_D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osu Castle",
+                "category": "Museum",
+                "url": "https://www.ghanamuseums.org/forts/fort-christianburg.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1y4TPHbG4VXRDVLUELzqvrniCOyxeSluM7Wti=w148-h148-n-k-no"
+            },
+            {
+                "title": "IDARKCONSULT LTD",
+                "category": "Architecture firm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtEShGj_mxwrObFkBKsncD26iMyNsb7VpVjpeV=w148-h148-n-k-no"
+            },
+            {
+                "title": "THREE JUNCTION",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMxMLdgyjj9TYN4n8pOCEbxT6Si4KlbxAHNBM6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pokuase Y junction",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsUc64KTxMOfPdEq_W8n_0JkcwHIbPTcIgYZXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atewa Range",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNZAo_VcUbrkVF0lmHMdQu42jG-NNz52Q7T7fP=w148-h148-n-k-no"
+            }
+        ],
+        "Adenta": [
+            {
+                "title": "ICGC Holy Ghost Temple",
+                "category": "Church",
+                "url": "http://icgcholyghosttemple.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLXQ6D9XpLQW_pj9uh5fts1KFGQu3EQexVvz4k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamestown Lighthouse",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEkDaQuUm8BxOP6uw7YhHzs6ZClXXt1qDy0ij8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silverbird Cinemas Accra Mall",
+                "category": "Cinema",
+                "url": "http://www.silverbirdcinemas.com/accra",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk7cr85-TyvBylsu2uLBCVkiMZxDWm1VMfUFDc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ Temple, International Central Gospel Church",
+                "category": "Gospel church",
+                "url": "http://www.centralgospel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzkAao_Bw2fSCa7OyGd6XTbZD1kBzYSJvUrEoX=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Qodesh",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzow2Y3cHhnjTpquZ-7imRbkEs8mVNrRaszlD7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Perez Chapel International (Perez Dome), Dzorwulu",
+                "category": "Church",
+                "url": "http://www.perezchapel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYczt-Z24j2RkLw4I4C67q32tVIv6e2Ry0ez79=w148-h148-n-k-no"
+            },
+            {
+                "title": "Achimota Forest",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4FEw7oxPn6LmQNVOYQ_nTTx_7xZ_5ACpKOGl9=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ghana",
+                "category": "Museum",
+                "url": "http://www.ghanamuseums.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzbTDP-sny4aMV3qQoW5Bejz372eUxQgUY3j_D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjIsfY-RQhIv3XpAhj11xRYxhiMzxmtCQu2a8V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akosnachi Enterprise Gh.",
+                "category": "Wholesale Jeweller",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv66aqs5mFeQookl-iS7TfNHO7AL3yBMiz5lKU=w148-h148-n-k-no"
+            }
+        ],
+        "Tafo": [
+            {
+                "title": "Manhyia Palace",
+                "category": "Museum",
+                "url": "http://manhyiapalace.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCmAnDA8H4pwb3CXH88DiUBjHBGjkwACChpGPY=w148-h148-n-k-no"
+            },
+            {
+                "title": "KNUST Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3SjuwW94bqFpE199wwMcb-SYmfEMSahgtmB_0=w148-h148-n-k-no"
+            },
+            {
+                "title": "komfo Anokye Sword Site",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDfj8-NGzPM46lK-mFuPjgeUfbwz2cxCNkwb8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Arts Centre",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpecpoOwgA-ILRGjuB-YdMtPUb2ZlfF6HeGxUm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamestown Lighthouse",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEkDaQuUm8BxOP6uw7YhHzs6ZClXXt1qDy0ij8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pokuase Community Library",
+                "category": "Library",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWGCTD8BUCGCRmFe9stgVjBHwR2w6UPYuPL3Zw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akosnachi Enterprise Gh.",
+                "category": "Wholesale Jeweller",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv66aqs5mFeQookl-iS7TfNHO7AL3yBMiz5lKU=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ghana",
+                "category": "Museum",
+                "url": "http://www.ghanamuseums.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzbTDP-sny4aMV3qQoW5Bejz372eUxQgUY3j_D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elmina Castle",
+                "category": "Castle",
+                "url": "http://www.everycastle.com/Elmina-Castle.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boti Waterfalls",
+                "category": "Tourist attraction",
+                "url": "https://touringghana.com/boti-falls/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0SdcQsGBR30grejbNbftaFbKFM73xFtn7Zf1Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asenema Waterfalls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzBZK95LUi1GHaWnA0-6qf1i6PEaUKV2oxnfbJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abetifi Stone Age Park",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPG09mXtcKZusy0daNw18kcc5S_3QuxeHYiIySp=w148-h148-n-k-no"
+            },
+            {
+                "title": "ATV Aburi - Quad biking",
+                "category": "Adventure sports centre",
+                "url": "https://atv-aburi.reservio.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_2bQnem3DZjG9ygb-yvGT6WdaNXrGK1BwTjBD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            }
+        ],
+        "Sekondi": [
+            {
+                "title": "Vienna City Beach",
+                "category": "Restaurant",
+                "url": "http://viennacity.com.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnJCPUSj5bIdNzDdROCzDinMa2XhoP3JJN2BOy=w148-h148-n-k-no"
+            },
+            {
+                "title": "AcquahBar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbnQ8FcugxZq0CxboZBj8TBbXB6gomPulnFlQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakum National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrP9JgPxYEjhqpZE3yAJqmEU0eOvOhW71xMxr-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fetish Priest Statue",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-GdsAayw2bKqF_3Tuj05GQUVeGhOl7j1_Pk1Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elmina Castle",
+                "category": "Castle",
+                "url": "http://www.everycastle.com/Elmina-Castle.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Batenstein",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1m2JYlJkdlENPXzM78XznX1EWnHlrgSbEVgYi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNodktgjfXbiQ76onFb3dtIC-UbfLzYoxeFDB1e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Metal Cross | TortoisePath.com",
+                "category": "Fortress",
+                "url": "https://tortoisepath.com/place/fort-metal-cross/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpp06eMFD-Ylx0nLIMtI5RaEek-xGthr3TNtqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort San Sebastian",
+                "category": "Fortress",
+                "url": "http://www.ghanamuseums.org/forts/fort-san-sebastian.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKW_OB4zymDAku5b8bvIaMfGvKzOs9VYWycK9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjIsfY-RQhIv3XpAhj11xRYxhiMzxmtCQu2a8V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Noah's Ark Mini Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTMUWRU1dJmlODfEYaMKgvZUgmB5stY5XUtNwn=w148-h148-n-k-no"
+            },
+            {
+                "title": "International Stingless Bee Centre",
+                "category": "Ecological park",
+                "url": "http://www.beenestghana.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjIpHEajaPScGJ98t2mZsUDXaywkKvjLNN14Yq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bobiri Butterfly Entrance Gate",
+                "category": "Hiking area",
+                "url": "https://csir-forig.org.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7r3SpF7Cdzd7rf7HIdegSqsa3xDOz2ohqmqUN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Zoological Gardens",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0uDTsvG5cdATTe3ijWUHqQ32NWwUaL7JBc499=w148-h148-n-k-no"
+            }
+        ],
+        "Aflao": [
+            {
+                "title": "Cape St. Paul Lighthouse",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMj2SgV4aLcj41UwUXSCIfrqBj204e5hIZu3VI4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lower Volta Bridge",
+                "category": "Bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYCN7fzL7UPs0jkBwhy7_4E8tUeW27kVyXb58u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tafi Atome Monkey Sanctuary And Cultural Village",
+                "category": "Tourist attraction",
+                "url": "http://www.visitghana.com/attractions/tafi-atome-monkey-sanctuary/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnH0KlX4WPze2KBRpYCl6XV1ibXFHnIHw8x1zQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ote Falls",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOl9DOEab2YF54LPmKDGq2UcC8yeP6_xGgXd_mw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aflabo Waterfalls",
+                "category": "Tourist Information Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMrbu444IhdZ34O6ew36h4frVHTj5BuY22HUqA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Afadja",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHSFlKI0F9wHwu8m-QNj7HA8w02onnj8hTHNhy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wli Agumatsa Waterfalls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7P4t9CsctbcpwvOJ4N1BX6lSoOnz5bMCCsRr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tafi Abuife Kente Village",
+                "category": "Clothing Shop",
+                "url": "http://www.facebook.com/tafiabuife/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0gt6_oo5IhFCpJN7muBpNuNAgi5gY6x8f79F7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mt. Gemi",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNW0V6oiK1z6M8Mme-a84aIKrl_jRqJbjigj-Zs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tagbo Falls",
+                "category": "Waterfall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6wTHxmESe8XpnGCupSgc_JWmARhj4rV2atl78=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Prinzenstein, Keta",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEGj4Z5U2FoU65muLA04BnkpPzppIELec3JW6i=w148-h148-n-k-no"
+            }
+        ],
+        "Wa": [
+            {
+                "title": "MELCOM",
+                "category": "Shopping Centre",
+                "url": "http://melcomgroup.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcAs6woqqZHbFgE271KfeWVUIGRu8E5Fj3V4Zq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wa Airport",
+                "category": "Regional airport",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNynpZD9TXRvGGU0Qij8vVbKE_BVy8hq30wIyX5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Real Spicy Foodies Restaurant",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8fbwGnTjzIBejz6ILUB9fQf2SJE7mwkL5C3k-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wa Municipal Assembly",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNblhYtrk1X-AM3RwLHjV0hEfsXaAhCQG1pbMmW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tamale",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOK_Og6gO1nn9bU08RJZq4AmeYUX_nrZjqN2M8S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Hyatt Lodge",
+                "category": "Hotel",
+                "img": "https://lh4.googleusercontent.com/proxy/5YJDbB-ehnAKbAgF8mwUMfzozKXJTBIu4oneOzP3MLe4mcDxETvmyZkLnQYGl0p4PPyUUXSpFprk-PO4V8UZMMtHTKoCghfDnb_8OyxYYZAU1Rn_plUSwT63cLCiXfrvdDWyovnm2bxhZp9o4-DZxLhoSdrelck=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mole National Park",
+                "category": "National park",
+                "url": "https://molenationalpark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIBjt1krlFyk7hXzNlDx-VEDmzDrVu0H0ogtu5=w148-h148-n-k-no"
+            }
+        ],
+        "Winneba": [
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taxi Rank, Winneba",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3UjRr7uXL9c_emDMOzgByvVJ9gJtcbzErxDBT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osu Mantse (Nortse Nii Nortey Owuo IV)",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO7HkFC9XudiSA5SjH0DxLEjj1Pp0MVfVCWA-a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centre for National Culture",
+                "category": "Shops and Shopping",
+                "url": "http://www.ghanaculture.gov.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4hQM9-YlFnVBYTV_NoPCaEP0NqEISRBdCAVUq=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamestown Lighthouse",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEkDaQuUm8BxOP6uw7YhHzs6ZClXXt1qDy0ij8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Advance Park",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZdRr6-ClCRJi3UaQX8AEf2-uVZN7O2mKzeI1t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort James",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCKbPH6XtSQKZm7P0Xr2Ar6aFijw23ABPVx1qv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Good Hope",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWe0cJKYv6bLx5QLAVeqm2-lPdUOJda993EFJI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dansoman Children's Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbmna0Wl54i6-KQdj-ql2gLgxJVv8U6Up_gdE6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Efua Sutherland Children's Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPELRxjBZJdaGVqQ3GdpfcVf9aBPxuXdUlisvXT=w148-h148-n-k-no"
+            }
+        ],
+        "Buduburam": [
+            {
+                "title": "Royalhouse Chapel International",
+                "category": "Church",
+                "url": "http://www.royalhousechapel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWj3aIr9ZHHnU02Hr07TE8YfAv94Bl7hH5WI6u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anagkazo Bible and Ministry Training College- Mampong Campus",
+                "category": "Private university",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_XiBM84UGQ_7DvcNLiD90BjWi6TbiPSLED4hh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Sports Stadium",
+                "category": "Sports complex",
+                "url": "https://sportsauthority.gov.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK69JbRX47w9xXvls_zi5y6xCOvw9zcBnsVOe0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gallery 1957",
+                "category": "Art gallery",
+                "url": "http://www.gallery1957.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgXMC8Lb32OwesP4yxObUWs9NhftfnbMIwA2lK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort James",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCKbPH6XtSQKZm7P0Xr2Ar6aFijw23ABPVx1qv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tafi Atome Monkey Sanctuary And Cultural Village",
+                "category": "Tourist attraction",
+                "url": "http://www.visitghana.com/attractions/tafi-atome-monkey-sanctuary/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnH0KlX4WPze2KBRpYCl6XV1ibXFHnIHw8x1zQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Busua Beach Resort",
+                "category": "Resort hotel",
+                "url": "http://www.gbhghana.net/",
+                "img": "https://lh5.googleusercontent.com/proxy/_6Sw7MUcHrfFkc64ubsJiDyQ3_SQ9Uc7O_s8eEYnnYrCVtSNScYksBf8iFjShe-FMpnBY2MpmHasl53JQ8l_QLswAA7AiRhuyp1EwZKM4PywPiptL7vuBKFgOCBHuw4s-morRGDrCmotgx8vdX1gASsRVdZiGw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjIsfY-RQhIv3XpAhj11xRYxhiMzxmtCQu2a8V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ote Falls",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOl9DOEab2YF54LPmKDGq2UcC8yeP6_xGgXd_mw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Butuase Waterfall | TortoisePath.com",
+                "category": "Tourist attraction",
+                "url": "https://tortoisepath.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM71QJH0aj6WzqTq01j0jQ95LxyEJ7ea-9kAAi8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sakumono",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO4zNLCHMvSdbHxjQaXJ9r-20xLX9_PdOaaPzr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mt. Gemi",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNW0V6oiK1z6M8Mme-a84aIKrl_jRqJbjigj-Zs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Volta",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf0YnFgvi-Psd3z9YB6s6EXc0gVSwW9WHrd6wN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tagbo Falls",
+                "category": "Waterfall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6wTHxmESe8XpnGCupSgc_JWmARhj4rV2atl78=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Arch",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOi45pHtJdY81Uk6RDxUlpo7gTwyh7M5oFjteT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Artists Alliance Gallery",
+                "category": "Art",
+                "url": "http://www.artistsalliancegallery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyLJB86FUmOabcjLjS63V9MHRPAVcOabwaDBEk=w148-h148-n-k-no"
+            }
+        ],
+        "Tema New Town": [],
+        "Mandela": [],
+        "Takoradi": [
+            {
+                "title": "AcquahBar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbnQ8FcugxZq0CxboZBj8TBbXB6gomPulnFlQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vienna City Beach",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnJCPUSj5bIdNzDdROCzDinMa2XhoP3JJN2BOy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bisa Aberwa Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCAR9ZzDttzoWdjcpVPS5Puq6GQ0KBwMKzJi-J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakum National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrP9JgPxYEjhqpZE3yAJqmEU0eOvOhW71xMxr-=w148-h148-n-k-no"
+            },
+            {
+                "title": "COP AIRFORCE BASE ENGLISH ASSEMBLY",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9ebpdIwQcsK48quh56fjM0IZhKYLpe7AuK0YV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elmina Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apremdo Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGDpf7tt3jWyrKYEa_zPD_xr_tCKCuGZw4X0gB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNodktgjfXbiQ76onFb3dtIC-UbfLzYoxeFDB1e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Batenstein",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1m2JYlJkdlENPXzM78XznX1EWnHlrgSbEVgYi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort San Sebastian",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKW_OB4zymDAku5b8bvIaMfGvKzOs9VYWycK9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "International Stingless Bee Centre",
+                "category": "Ecological park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjIpHEajaPScGJ98t2mZsUDXaywkKvjLNN14Yq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elder’s place",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-8croXCo_3UMLvO5t8JOptcSLahM-jsbS4MRH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Metal Cross | TortoisePath.com",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpp06eMFD-Ylx0nLIMtI5RaEek-xGthr3TNtqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Groß-Friedrichsburg",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOgjCILCz8MQ-zzTBQJLagY5pEOF0gfPZZXrY0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Science Quadrangle",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU4_MrX7v-R2HixYXcdxm8ZpYVAi70UyfJiwMw=w148-h148-n-k-no"
+            }
+        ],
+        "Obuase": [
+            {
+                "title": "Cofkans Hotel",
+                "category": "Hotel",
+                "url": "http://www.cofkanshotelgh.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvZ93X1NusFMzEsiYNZBdhrDKPAWpnk7f6W37L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elmina Castle",
+                "category": "Castle",
+                "url": "http://www.everycastle.com/Elmina-Castle.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mawuli Hotel Obuasi",
+                "category": "Hotel",
+                "url": "https://www.mawulihotel.com/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6Fh6xA5i3KaUTdTNUSzn8kkpvfuCRABhWPw7N=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Nyamebekyere",
+                "category": "Lodging",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7ul0BUQ7Elttfkv-9CjFtyfylsLgJjY24SX3f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sam Jonah Estate",
+                "category": "Housing Development",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgBVw_o4o_MB1ouhzAwovUWk7eZ3hoiXOEoTKd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prirayvon Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhbiNR21BInUwmB015b_EEOByOWsNJEbil6x9e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coconut Grove Miners Lodge",
+                "category": "Lodge",
+                "url": "https://coconutgrovehotelsghana.com/minershotel/",
+                "img": "https://lh6.googleusercontent.com/proxy/-fNqGQKGCFqVAmfH1Z0JZ3rzbkQ4TmeZYIp4Zlj9pvI3unf4FV-6eappAyPqoq1Rc--PT_-CCuCggHGAGBXSX94hE5_3_yQ_yeAdZui51Vu40N6GsNob1IgAVSmtNRZaelh0ZfCulPd5zbpRQfkG4R668zkESTE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Obuasi Bogobiri Junction",
+                "category": "Landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPREln-i8w9Rp6EXlIwegvHL5rrW0FtbYcdgIk4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Len Clay Sports Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIaOUIYlEjY3HskR18tgm7PE5fagTGLp24Y8GW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort San Sebastian",
+                "category": "Fortress",
+                "url": "http://www.ghanamuseums.org/forts/fort-san-sebastian.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKW_OB4zymDAku5b8bvIaMfGvKzOs9VYWycK9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Metal Cross | TortoisePath.com",
+                "category": "Fortress",
+                "url": "https://tortoisepath.com/place/fort-metal-cross/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpp06eMFD-Ylx0nLIMtI5RaEek-xGthr3TNtqF=w148-h148-n-k-no"
+            },
+            {
+                "title": "KNUST Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3SjuwW94bqFpE199wwMcb-SYmfEMSahgtmB_0=w148-h148-n-k-no"
+            }
+        ],
+        "Tamale": [
+            {
+                "title": "Uprise Travel",
+                "category": "Car rental company",
+                "url": "http://www.uprisetravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvHAHbzJcCBwmGygsRU6m1aySiSHusbibgJKDL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grassroot Tours Ghana",
+                "category": "Tour operator",
+                "url": "http://www.grassroottours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQqMcoA4BTjN-bnzQzRUcjyf-nBAQlc6QyPaEy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tamale Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSd_zf_UZG4xBzVf9J2j1LGe4u6i8nhh44klqw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afa Ajura Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWTCdjoypjEbLkFyJBogJjeUHBHD0Qw78X8UFJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aliu Mahama Sports Stadium, Tamale",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_DHz0s__i0JqyFz21VtmeNkc-Tru3QFX3FAgk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jowato SME Marketplace",
+                "category": "E-commerce service",
+                "url": "https://jowato.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtMKuhLsu7cfS5zG3tu5_3wVuiA4IgbWUn59cy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sagnarigu Chief Palace",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf18ui41JTGbcusibA5Mn_gOqLUHSet8YGh2z2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ahmadiya Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCy64eElQV1rqkiLvMixewOf6us8XPyUImy2iV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sognaayili, Ghanaian Hut",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9oXUYpYmwharTB4KUSyVu9maDjb-rLe5U27Kb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kaladan Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9mvKcBk08ZxXTe7lIBlP1vkVhDjRk2_zmMP6x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Централен пазар Тамале",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNy8zZlmj-zdhJjnwG_-vrO42aVB5Pdm1flx0Sq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mole National Park",
+                "category": "National park",
+                "url": "https://molenationalpark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIBjt1krlFyk7hXzNlDx-VEDmzDrVu0H0ogtu5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Larabanga Mosque",
+                "category": "Mosque",
+                "url": "https://larabangamosque.site/?utm_source=gmb&utm_medium=referral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhv12o-Bc7sD7CsTdnGfkJx6HmzWR6g2i1IEu2=w148-h148-n-k-no"
+            }
+        ],
+        "Atsiaman": [],
+        "Tema": [
+            {
+                "title": "Golden Dragon Casino Tema",
+                "category": "Casino",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjSdISnfv8GgD-Thh-RO1GtelCB7XTEnU657Km=w148-h148-n-k-no"
+            },
+            {
+                "title": "BAR ROSSO",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt0NXpophfjsN93e7H_XzM9ENDrOy3YodYDBOg=w148-h148-n-k-no"
+            },
+            {
+                "title": "TROPICANA lounge",
+                "category": "Cocktail bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVov74AbSuMrK1OwVTY35CuE4SFoH8t15OXPkI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tema Golf Park/Golf City.",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrRE1QYgk6YN7FDqqfYDsGP6Nmc0gmFtBGm892=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventure Birding Tours",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAnLUwJnrbndsQITihrcxhe1n4TJW8gpsANH0v=w148-h148-n-k-no"
+            },
+            {
+                "title": "A1 Raceway Go Karting",
+                "category": "Go-Cart Track",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVOFW9Dg2uqc7X6J5_Ym-zUM2ti6c1bEMQpUOI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "Big Bottle Pub",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkbdD6Xpjrw6rMvtpsh_1AMsZkeSAUmDBU61Bh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elmina Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakum National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrP9JgPxYEjhqpZE3yAJqmEU0eOvOhW71xMxr-=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osu Castle",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1y4TPHbG4VXRDVLUELzqvrniCOyxeSluM7Wti=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sakumono",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO4zNLCHMvSdbHxjQaXJ9r-20xLX9_PdOaaPzr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Legon Botanical Gardens Ghana..",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6nCNJz5Q4YJRtc6wPgMc4kphHAnQSnfJO7yRF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sajuna Beach Club",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUs909P1yUQhwXSFoZQKZSe_uJ0GKIJ_EWj3JN=w148-h148-n-k-no"
+            },
+            {
+                "title": "IDARKCONSULT LTD",
+                "category": "Architecture firm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtEShGj_mxwrObFkBKsncD26iMyNsb7VpVjpeV=w148-h148-n-k-no"
+            }
+        ],
+        "Bolgatanga": [],
+        "Hohoe": [
+            {
+                "title": "Tafi Atome Monkey Sanctuary And Cultural Village",
+                "category": "Tourist attraction",
+                "url": "http://www.visitghana.com/attractions/tafi-atome-monkey-sanctuary/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnH0KlX4WPze2KBRpYCl6XV1ibXFHnIHw8x1zQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Shia Chief's Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZu42ABuonGy5V94Pf1axZmOaBLr72UjuSu2NR=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ghana",
+                "category": "Museum",
+                "url": "http://www.ghanamuseums.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzbTDP-sny4aMV3qQoW5Bejz372eUxQgUY3j_D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Likpe Todome",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJBjhRM9YGJxbfZl2Pc9HQ7H55nSjFxDZoAtFh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lipke Abrani Publc Square & Sculpture",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtsudcujb00haQLRekJbPYhRh3NQ4nivUMVPUi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            }
+        ],
+        "Mampong": [
+            {
+                "title": "Manhyia Palace",
+                "category": "Museum",
+                "url": "http://manhyiapalace.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCmAnDA8H4pwb3CXH88DiUBjHBGjkwACChpGPY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rattray Park",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCVe6VVARMedHlVXfajHMag4qAAWfWuT9YSyRY=w148-h148-n-k-no"
+            },
+            {
+                "title": "CCB Auditorium",
+                "category": "Auditorium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPARltbaZtE1spjYdR2mZdsrgHWQcA7q1SGHEY1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Centre For National Culture",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM22A3jZtxLOb71VUTNu-SUXclx5z7EaC1ZDGhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Parade Grounds",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4TRSP_ANyHEEXPKI0qH0DJoSgZucL0SIDEGWD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Zoological Gardens",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0uDTsvG5cdATTe3ijWUHqQ32NWwUaL7JBc499=w148-h148-n-k-no"
+            },
+            {
+                "title": "komfo Anokye Sword Site",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDfj8-NGzPM46lK-mFuPjgeUfbwz2cxCNkwb8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Central Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMst8FTMUKDBD6g_LFi83JEd4kvELqt3zDGYzSC=w148-h148-n-k-no"
+            },
+            {
+                "title": "KNUST Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3SjuwW94bqFpE199wwMcb-SYmfEMSahgtmB_0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paa Joe Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNi6y2Un04xoXX9Afc2jPh0Zthhzs2THC4Xf-vT=w148-h148-n-k-no"
+            }
+        ],
+        "Ho": [
+            {
+                "title": "W.E.B Du Bois Memorial Centre for Panafrican Culture - Ghana.",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXAS7maXPQeTphM-EAhrNrbBqKa4BDD2m2drYH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra International Conference Centre",
+                "category": "Conference Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM6TCtiG7KIYp9j0y50_eN0bZkaRLOGFPLmglu=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ghana",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzbTDP-sny4aMV3qQoW5Bejz372eUxQgUY3j_D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oxford Street Mall Osu",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEqKRIDs-9g-ONblbJUzXktSV8jplSanxKquKM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Labadi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVp8nrT8yPt1HX_l2MLPNV6F9mvbgunz28SZsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osu",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO27t6eB0iNGS4PP5dAPNjo80tqbUuZo9kzYRrL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tafi Abuife Kente Village",
+                "category": "Clothing Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0gt6_oo5IhFCpJN7muBpNuNAgi5gY6x8f79F7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Arch",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOi45pHtJdY81Uk6RDxUlpo7gTwyh7M5oFjteT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osu Castle",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfUnaLO5xcFSBUJU79LT_5pSdIGprRfjLdng6X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamestown Lighthouse",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEkDaQuUm8BxOP6uw7YhHzs6ZClXXt1qDy0ij8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Prinzenstein, Keta",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEGj4Z5U2FoU65muLA04BnkpPzppIELec3JW6i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wli Agumatsa Waterfalls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7P4t9CsctbcpwvOJ4N1BX6lSoOnz5bMCCsRr8=w148-h148-n-k-no"
+            },
+            {
+                "title": "IDARKCONSULT LTD",
+                "category": "Architecture firm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtEShGj_mxwrObFkBKsncD26iMyNsb7VpVjpeV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bojo Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcMxdltB_Wq8BJ2AIuTXbvS_z78PfhhN3zmnLV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            }
+        ],
+        "Kumasi": [
+            {
+                "title": "Kumasi City Mall",
+                "category": "Shopping Centre",
+                "url": "http://kumasicitymall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOB47bV3p-C0ZppEzhvY53oiNk-dNmzG6QpmJCh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manhyia Palace",
+                "category": "Museum",
+                "url": "http://manhyiapalace.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCmAnDA8H4pwb3CXH88DiUBjHBGjkwACChpGPY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kejetia Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6nlTwOhODX7pVQJ05abnBGnJ7QnOJAfB4D0aJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Centre For National Culture",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM22A3jZtxLOb71VUTNu-SUXclx5z7EaC1ZDGhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wesley Methodist Cathedral",
+                "category": "Recruiter",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6EuldjJBJdYfHA6UuD9hz5lSfSQBe-T2JINmo=w148-h148-n-k-no"
+            },
+            {
+                "title": "komfo Anokye Sword Site",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDfj8-NGzPM46lK-mFuPjgeUfbwz2cxCNkwb8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Armed Forces Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPKJcsg4sYkHWU3-UttQ2yTVDwFAHwIomZ62wA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rattray Park",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCVe6VVARMedHlVXfajHMag4qAAWfWuT9YSyRY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prempeh II Jubilee Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkq-H8d5vOyBWohGWhTkqk3-beRv8o3c0NOHK8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Parade Grounds",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4TRSP_ANyHEEXPKI0qH0DJoSgZucL0SIDEGWD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bantama High Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPffDJjW5Ugfy_LyrSxkyS0mP4cAgAwnVLu2Mb6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paa Joe Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNi6y2Un04xoXX9Afc2jPh0Zthhzs2THC4Xf-vT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Zoological Gardens",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0uDTsvG5cdATTe3ijWUHqQ32NWwUaL7JBc499=w148-h148-n-k-no"
+            },
+            {
+                "title": "Owabi Wildlife Sanctuary",
+                "category": "Park and Garden",
+                "url": "http://www.fcghana.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv3GMlfTLw5Ta8D3AlPY2GlcAV1hDr1yKMVwRT=w148-h148-n-k-no"
+            },
+            {
+                "title": "KNUST Botanical Garden",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3SjuwW94bqFpE199wwMcb-SYmfEMSahgtmB_0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Black Root Tours-Ghana",
+                "category": "Tours",
+                "url": "https://backtoyourroottourghana.bokun.io/v2/products/activities/editor/754120/activity/overview",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1QkGhDZeUX_5g40-OUjK9TEN10Ds7evBNUZGd=w148-h148-n-k-no"
+            }
+        ],
+        "Kasoa": [
+            {
+                "title": "Kokrobite Beach Cottage",
+                "category": "Home Stay",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLgvjma5m8WWaSibtxrgbHEGs6m3aDRlWnotjH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bojo Beach",
+                "category": "Beach",
+                "url": "http://www.bojobeachresort.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcMxdltB_Wq8BJ2AIuTXbvS_z78PfhhN3zmnLV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamestown Lighthouse",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEkDaQuUm8BxOP6uw7YhHzs6ZClXXt1qDy0ij8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akosnachi Enterprise Gh.",
+                "category": "Wholesale Jeweller",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv66aqs5mFeQookl-iS7TfNHO7AL3yBMiz5lKU=w148-h148-n-k-no"
+            },
+            {
+                "title": "IDARKCONSULT LTD",
+                "category": "Architecture firm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtEShGj_mxwrObFkBKsncD26iMyNsb7VpVjpeV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mile 7 Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM487OFAp6DdMtI1dFsxsR5QjS1n4YDqcBRgkI2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Legon Botanical Gardens Ghana..",
+                "category": "Recreation Centre",
+                "url": "http://www.legonbotanicalgardens.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6nCNJz5Q4YJRtc6wPgMc4kphHAnQSnfJO7yRF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brazil House",
+                "category": "Museum",
+                "url": "http://instagram.com/chalewoteofficial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY8e3kKsSMqT5gJGcbe967R2paevgFMkvYtUaZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spintex, East-Legon Tunnel",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtOCuNCBu4iVJYzT3XFKhK2yrT3MyW6lcdmuAl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Densu Delta Protected Area",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMM9qovoVxHZTi00eXxG5L6F0LIupID2pDTA6_L=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Page Centre",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYT0ARm7KSJD-O1XcSp9sEM8kT-P94X2L3V3tR=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ghana",
+                "category": "Museum",
+                "url": "http://www.ghanamuseums.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzbTDP-sny4aMV3qQoW5Bejz372eUxQgUY3j_D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjIsfY-RQhIv3XpAhj11xRYxhiMzxmtCQu2a8V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tony Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFL81X8BTWpTctYeVr8yATOBma2Ur50kjbX3Ez=w148-h148-n-k-no"
+            },
+            {
+                "title": "Efua Sutherland Children's Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPELRxjBZJdaGVqQ3GdpfcVf9aBPxuXdUlisvXT=w148-h148-n-k-no"
+            }
+        ],
+        "Japekrom": [
+            {
+                "title": "Manhyia Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCmAnDA8H4pwb3CXH88DiUBjHBGjkwACChpGPY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kintampo Waterfalls & Fuller Waterfalls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPT2PRqE4qZMbjnGZfEhYgQGlJDQF4CojqqBqHb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Armed Forces Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPKJcsg4sYkHWU3-UttQ2yTVDwFAHwIomZ62wA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abanpredease Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-0VCWADLj0UshLnXRdx1pXXO9pjGKghQQKbwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Opoku Ware II Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqudLWKyI-_RFhviTySmr6zyGwxt6nrhAg-hLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Post Office Clock Tower",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgwolJGeFyK0W0P7OnRFZoQ42gIx82H1g3j_Fk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asante Mampong Chief's Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKrYLIxyj3XxsBKynIcela7qXiDyW3ous3FOWs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prempeh II Jubilee Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkq-H8d5vOyBWohGWhTkqk3-beRv8o3c0NOHK8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fiapre",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoaoBChtFVJo8hHg1xZOG-hQ8VHfPEH1b_OLI0=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Centre of Ghana",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDMNG6iJdNiy7soG5ShnPKVOEOZxp2yLKbkZU2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wadie Adwumakase",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGBfohUgojtuwD3TQ3mS-P8NoIdK6HhtK5ODU=w148-h148-n-k-no"
+            },
+            {
+                "title": "komfo Anokye Sword Site",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDfj8-NGzPM46lK-mFuPjgeUfbwz2cxCNkwb8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fuller Waterfalls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWihiQllHG5N-PFw3JZhX6tuoSLZPpjN_mubdT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boabeng Fiema Monkey Sanctuary",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAjc8ixxurHdd1hcwThfzmdy6xvZpeazA_0UJu=w148-h148-n-k-no"
+            }
+        ],
+        "Cape Coast": [
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elmina Castle",
+                "category": "Castle",
+                "url": "http://www.everycastle.com/Elmina-Castle.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+            },
+            {
+                "title": "UCC Sports Complex",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWHkTkTIrq6cd2bfHEnbND2Ixk2_eVZTgDPsqC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Science Quadrangle",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMU4_MrX7v-R2HixYXcdxm8ZpYVAi70UyfJiwMw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort William, Ghana",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4ro8rZeo7VaD5vJOXaAHcN9mRUPbrIPk7iEN2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Amsterdam",
+                "category": "Fortress",
+                "url": "https://ghanatrvl.com/places-to-see/fort-amsterdam/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPP8I6HT9NhQ0uk5oOTFl5-8ZgQ8Epi09-hBFKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Sports Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXLZtJn7zrkxUtVdpqOXkI3MJv58f1eDbD14Sp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centre for National Culture",
+                "category": "Shops and Shopping",
+                "url": "http://www.ghanaculture.gov.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4hQM9-YlFnVBYTV_NoPCaEP0NqEISRBdCAVUq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakum National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrP9JgPxYEjhqpZE3yAJqmEU0eOvOhW71xMxr-=w148-h148-n-k-no"
+            },
+            {
+                "title": "International Stingless Bee Centre",
+                "category": "Ecological park",
+                "url": "http://www.beenestghana.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjIpHEajaPScGJ98t2mZsUDXaywkKvjLNN14Yq=w148-h148-n-k-no"
+            }
+        ],
+        "Sunyani": [
+            {
+                "title": "Pentecost International Worship Centre",
+                "category": "Pentecostal church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJEY1rifm1zG5TPTlpWQv0oGijtArQ0w8QHoFr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Spirit Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUBVrIT8uP_JT2zTdabewdTstOY0OK6BHtptEw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Presbyterian Church -Ebenezer Congregation",
+                "category": "Presbyterian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFe7QDzNw5wEZ2H4QxW13lVvBXecOh6fSScm_q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calvary Charismatic Center, Sunyani",
+                "category": "Church",
+                "url": "http://www.cccghana.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFPdaSyMU2mg4TXcRNOXNE_NaMGBlIwcDoa9H5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wesley Cathedral - Sunyani",
+                "category": "Wesleyan church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnq2uazxw9qzzlnVaUu1aPGd-OmcFfypqJxM_N=w148-h148-n-k-no"
+            },
+            {
+                "title": "ICGC, Salem Temple, Baakoniaba Sunyani",
+                "category": "Gospel church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_hWa9wH2WQP_BpWEXGASVBJzeVzPDnU9DdYZ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manhyia Palace",
+                "category": "Museum",
+                "url": "http://manhyiapalace.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCmAnDA8H4pwb3CXH88DiUBjHBGjkwACChpGPY=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Peter's Catholic Church, Fiapre",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeWjTfCwR-fK8C3RRQnaIz-Ahe_OQWsPP0Q8HD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Centre For National Culture",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM22A3jZtxLOb71VUTNu-SUXclx5z7EaC1ZDGhU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Techiman Traditional Council",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXzENDkLJqOsYT-xaaaPtmMteArSb4MzbxRMsq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asante Mampong Chief's Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKrYLIxyj3XxsBKynIcela7qXiDyW3ous3FOWs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abanpredease Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-0VCWADLj0UshLnXRdx1pXXO9pjGKghQQKbwv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amakom APS",
+                "category": "School",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTB_G4YPig2yYBfS4Lj8p3NnO7FfEMsyYBxEWD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aljanna Base",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf7RTLtFf0ls4pgahONvcdYkH46wfCK579WQEK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Offinso Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4Nt8cfrmQ96_MaFmoS1S2LO30Y8CewD9WIBAv=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Centre of Ghana",
+                "category": "Cultural landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDMNG6iJdNiy7soG5ShnPKVOEOZxp2yLKbkZU2=w148-h148-n-k-no"
+            }
+        ],
+        "Berekum": [
+            {
+                "title": "Church of Pentecost - James McKweon Temple",
+                "category": "Pentecostal church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1g0v7Jgv4L2farpwStOj27VbLOnnyfRereAtt=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Teresa Of Avila Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMAMd6tGkc5Ol8KoOfKUQVz_w43cbm_NXNFJ0s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emmanuel Presby Church, Berekum",
+                "category": "Presbyterian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQhlGjpZ6ASvNaYOvyQEJJ3PNAOz6x_cWWqRAr=w148-h148-n-k-no"
+            },
+            {
+                "title": "مركز الخلفاء الرشدين Al- Khulafa'au Rashideen Centre",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB97ovZJYLFziWQ1otIR2kW8Y-TnK2woaEtuvF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamdede park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfaGN-kKZMJLDqP9lDe3ahEngDV0PpwrRSx_al=w148-h148-n-k-no"
+            },
+            {
+                "title": "Golden City Park",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNb3khd8K_IVN4AljBxX-0La2TFhPhI4zzKhi_N=w148-h148-n-k-no"
+            },
+            {
+                "title": "omanhene park",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqRI7wIADw-KHnYDDRM_dQQkW357WXBRmHqZkh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fiapre Park",
+                "category": "Athletics field",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPInMqPp5AQG95528mRJLot2Tg1ZYsdlNFjIyyu=w148-h148-n-k-no"
+            }
+        ],
+        "Amanfrom": [
+            {
+                "title": "Nubuke Foundation",
+                "category": "Art gallery",
+                "url": "http://www.nubukefoundation.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPG2Rx_m3AowU5bf-WpYPSesRA9adw2b2NiTbEK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centre for National Culture",
+                "category": "Shops and Shopping",
+                "url": "http://www.ghanaculture.gov.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4hQM9-YlFnVBYTV_NoPCaEP0NqEISRBdCAVUq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Arts Centre",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpecpoOwgA-ILRGjuB-YdMtPUb2ZlfF6HeGxUm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abetifi Stone Age Park",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPG09mXtcKZusy0daNw18kcc5S_3QuxeHYiIySp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tafi Atome Monkey Sanctuary And Cultural Village",
+                "category": "Tourist attraction",
+                "url": "http://www.visitghana.com/attractions/tafi-atome-monkey-sanctuary/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnH0KlX4WPze2KBRpYCl6XV1ibXFHnIHw8x1zQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Arch",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOi45pHtJdY81Uk6RDxUlpo7gTwyh7M5oFjteT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atewa Range",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNZAo_VcUbrkVF0lmHMdQu42jG-NNz52Q7T7fP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokrobite Beach Cottage",
+                "category": "Home Stay",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLgvjma5m8WWaSibtxrgbHEGs6m3aDRlWnotjH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adansi Travels Ltd",
+                "category": "Travel Agent",
+                "url": "http://10.adansitravels.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgIV-9gfg6XclB6-Dc5gUw1pRiZLE6emqbewkz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nkofieho Caves Admin.Office",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMJipZXMcil4QZB5FyKtukH-m2j8YD4Fa2EhPx=w148-h148-n-k-no"
+            },
+            {
+                "title": "International Stingless Bee Centre",
+                "category": "Ecological park",
+                "url": "http://www.beenestghana.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjIpHEajaPScGJ98t2mZsUDXaywkKvjLNN14Yq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afia Tours Ghana",
+                "category": "Tour operator",
+                "url": "http://www.afiatours-ghana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLMV4lzDTjP6xgm5u7yXFxX-Fbu0HjQaovSRLm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Atakwame Island",
+                "category": "Water park",
+                "url": "https://www.facebook.com/atakwameisland/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUMX2q3MQGkppHaQmPm15r834ixQbd7bWdI1CT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silverbird Cinemas Accra Mall",
+                "category": "Cinema",
+                "url": "http://www.silverbirdcinemas.com/accra",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMk7cr85-TyvBylsu2uLBCVkiMZxDWm1VMfUFDc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boti Waterfalls",
+                "category": "Tourist attraction",
+                "url": "https://touringghana.com/boti-falls/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0SdcQsGBR30grejbNbftaFbKFM73xFtn7Zf1Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Efua Sutherland Children's Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPELRxjBZJdaGVqQ3GdpfcVf9aBPxuXdUlisvXT=w148-h148-n-k-no"
+            }
+        ],
+        "Kintampo": [
+            {
+                "title": "Kintampo Waterfalls & Fuller Waterfalls",
+                "category": "Tourist attraction",
+                "url": "https://ghanatrvl.com/places-to-see/kintampo-waterfalls/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPT2PRqE4qZMbjnGZfEhYgQGlJDQF4CojqqBqHb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kejetia Market (New)",
+                "category": "Service establishment",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOm7SqO8Nhc3uYYm80UgsWEGC32qh7H-zSZ1UN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mole National Park",
+                "category": "National park",
+                "url": "https://molenationalpark.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIBjt1krlFyk7hXzNlDx-VEDmzDrVu0H0ogtu5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rattray Park",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCVe6VVARMedHlVXfajHMag4qAAWfWuT9YSyRY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Digya National Park",
+                "category": "National park",
+                "url": "https://www.africatouroperators.org/ghana/digya-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxruUxViD8w__uh7Nvmsvm-S8R5zYWMf8xmipK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kumasi Zoological Gardens",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0uDTsvG5cdATTe3ijWUHqQ32NWwUaL7JBc499=w148-h148-n-k-no"
+            }
+        ],
+        "Sekondi-Takoradi": [
+            {
+                "title": "AcquahBar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbnQ8FcugxZq0CxboZBj8TBbXB6gomPulnFlQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vienna City Beach",
+                "category": "Restaurant",
+                "url": "http://viennacity.com.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnJCPUSj5bIdNzDdROCzDinMa2XhoP3JJN2BOy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bisa Aberwa Museum",
+                "category": "Museum",
+                "url": "http://www.bisaaberwamuseum.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCAR9ZzDttzoWdjcpVPS5Puq6GQ0KBwMKzJi-J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakum National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrP9JgPxYEjhqpZE3yAJqmEU0eOvOhW71xMxr-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elmina Castle",
+                "category": "Castle",
+                "url": "http://www.everycastle.com/Elmina-Castle.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort San Sebastian",
+                "category": "Fortress",
+                "url": "http://www.ghanamuseums.org/forts/fort-san-sebastian.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKW_OB4zymDAku5b8bvIaMfGvKzOs9VYWycK9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fort Batenstein",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1m2JYlJkdlENPXzM78XznX1EWnHlrgSbEVgYi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNodktgjfXbiQ76onFb3dtIC-UbfLzYoxeFDB1e=w148-h148-n-k-no"
+            },
+            {
+                "title": "International Stingless Bee Centre",
+                "category": "Ecological park",
+                "url": "http://www.beenestghana.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMjIpHEajaPScGJ98t2mZsUDXaywkKvjLNN14Yq=w148-h148-n-k-no"
+            }
+        ],
+        "Ejura": [
+            {
+                "title": "Kumasi City Mall",
+                "category": "Shopping Centre",
+                "url": "http://kumasicitymall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOB47bV3p-C0ZppEzhvY53oiNk-dNmzG6QpmJCh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ejura Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN8EWi1os5CtL9L7nJ9yy3_geHCvyWmy01SfUG-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manhyia Palace",
+                "category": "Museum",
+                "url": "http://manhyiapalace.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCmAnDA8H4pwb3CXH88DiUBjHBGjkwACChpGPY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Queens Farm",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObqlgXq7PXamnqz3-tY8mURwDY705iJCnlKx6i=w148-h148-n-k-no"
+            },
+            {
+                "title": "komfo Anokye Sword Site",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDfj8-NGzPM46lK-mFuPjgeUfbwz2cxCNkwb8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Prempeh II Jubilee Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkq-H8d5vOyBWohGWhTkqk3-beRv8o3c0NOHK8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bantama High Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPffDJjW5Ugfy_LyrSxkyS0mP4cAgAwnVLu2Mb6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Bosomtwe",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN38ioLTsbCTG-RDD9ulcbVvKGorkNrHDoPHAQ7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ejura Sekyedumase Municipal Assembly",
+                "category": "Local Government Office",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQjbPsGgbfpo2Oj4-x05DOEdCfcyOb2f9ZDNJP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rattray Park",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCVe6VVARMedHlVXfajHMag4qAAWfWuT9YSyRY=w148-h148-n-k-no"
+            }
+        ],
+        "Nungua": [
+            {
+                "title": "Oak Wellness Hub",
+                "category": "Chiropractor",
+                "url": "http://www.oakwellnessgh.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm_8yiaxcHC8vW9d0qdIj0sRfaWnIsSj3nylob=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silver Orchid(VIP BRANCH) Massage and Spa Accra",
+                "category": "Massage therapist",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgxy-rXcH99Jvel-DU5eVPdQ8DcgzlzdqZH3HL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dinel Massage and Spa",
+                "category": "Thai massage therapist",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-yYwMBftZE62w4aoAVfwO8aut9mOAmcdhVkx_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adansi Travels Ltd",
+                "category": "Travel Agent",
+                "url": "http://10.adansitravels.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgIV-9gfg6XclB6-Dc5gUw1pRiZLE6emqbewkz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra luxury Apartments",
+                "category": "Furnished apartment building",
+                "url": "https://www.accraluxuryapartments.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0NlPLX_XfVnOhchmU0yrW4YwuIt3Vd48_Gzwi=w148-h148-n-k-no"
+            },
+            {
+                "title": "KICC Dominion Centre",
+                "category": "Place of worship",
+                "url": "http://www.kiccghana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOz-0Gzijs5uFM0hVQKPn4Ri4pbU8I7CQ3gqPbu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dream Destination Massage & Spa",
+                "category": "Massage spa",
+                "url": "https://wa.me/c/233532687317",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTDMOorfuTe1lp_v8AKxojc9C_7fjKFoNn02AE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abusua Travel & Tour Services",
+                "category": "Travel Agent",
+                "url": "https://abusuatravels.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcmizq19vOGSEaV2N2Hfvt9bDH5VwFh7MUDa_v=w148-h148-n-k-no"
+            }
+        ],
+        "Bawku": [
+            {
+                "title": "Fountain Gate Chapel. Desert Pastures",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJpj3cuhmY5gpo_nMHuc4n1_txlluoNhctZdFJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tongo Hills and Tengzug Shrine",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNI5US30omwNcY4mHSztHvD89M9y-UkspkwSqUx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Ghost Temple Assemblies of God Church",
+                "category": "Assemblies of God church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6GTXqc8KimCGUMy18xPorZ7rMBoRdxuJxKprn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bawku Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHIdkxlrEyr89GH4uoj8h8b1mCYqoVem0wtdZU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bolgatanga Central Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODCDErt8tttsHWXe8AwoI5g71bdxPgvZWlN5kQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bolgatanga Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKj0Y-_mdse1-2m1X4Ia7B7NmDmgb3ZjdiflRx=w148-h148-n-k-no"
+            }
+        ],
+        "Medina Estates": [
+            {
+                "title": "Abusua Travel & Tour Services",
+                "category": "Travel Agent",
+                "url": "https://abusuatravels.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcmizq19vOGSEaV2N2Hfvt9bDH5VwFh7MUDa_v=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Mall",
+                "category": "Shopping Centre",
+                "url": "http://accramall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTFK9c8XE6VuasyEy8tHrFYrQN-vexUl5k31JJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace Hypermarket",
+                "category": "Shopping Centre",
+                "url": "https://palacestores.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnXpCkywKBqB420f118pMyvhG5PBOrfeBFI_P-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shoprite Accra Mall",
+                "category": "Supermarket",
+                "url": "http://www.shoprite.co.za/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVyPF3GrZO2lAYnKsauxXNNxWRgxWkpqmeDAty=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kotoka International Airport - Accra",
+                "category": "International airport",
+                "url": "https://www.gacl.com.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCLX1KouAiiahnrXvc4PWPQ43EUOs5YCUj2okv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Marriott Hotel",
+                "category": "Hotel",
+                "url": "https://www.marriott.com/en-us/hotels/accmc-accra-marriott-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEeOzMHUrOFUzFPsoFLYVgwWm6Z2FC3lJ95Rr9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dinel Massage and Spa",
+                "category": "Thai massage therapist",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-yYwMBftZE62w4aoAVfwO8aut9mOAmcdhVkx_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Achimota Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.achimotaretailcentre.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOrZq3wJD1AIMXXW_tAhCTDwt-n0oHvjeMa7c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lancaster Accra",
+                "category": "Hotel",
+                "url": "http://www.lancasteraccra.com/",
+                "img": "https://lh5.googleusercontent.com/proxy/DBe39xF3O4qzO3h045zyza40st7GRCmaXZ-OUIhnoIm6QdHGKLqRJfNBeSBp2-dr-ePj0VUEzs4mwvd8phqTsyRdFiaTt0DqbOg0UlvLYdtjKBA8h6vZVl5j6iOnoftfk_mDwXfgsSyiBfNi792zyOC0_Jj6LQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lakeside Estate",
+                "category": "Property Developer",
+                "url": "http://lakesideestate.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpBGLkJjMZ5-zHT5P6MwEACbaeyUNvlPusGivz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Silver Orchid(VIP BRANCH) Massage and Spa Accra",
+                "category": "Massage therapist",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgxy-rXcH99Jvel-DU5eVPdQ8DcgzlzdqZH3HL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elmina Castle",
+                "category": "Castle",
+                "url": "http://www.everycastle.com/Elmina-Castle.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra luxury Apartments",
+                "category": "Furnished apartment building",
+                "url": "https://www.accraluxuryapartments.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0NlPLX_XfVnOhchmU0yrW4YwuIt3Vd48_Gzwi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royalhouse Chapel International",
+                "category": "Church",
+                "url": "http://www.royalhousechapel.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWj3aIr9ZHHnU02Hr07TE8YfAv94Bl7hH5WI6u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Sports Stadium",
+                "category": "Sports complex",
+                "url": "https://sportsauthority.gov.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNK69JbRX47w9xXvls_zi5y6xCOvw9zcBnsVOe0=w148-h148-n-k-no"
+            }
+        ],
+        "Accra": [
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Legon Botanical Gardens Ghana..",
+                "category": "Recreation Centre",
+                "url": "http://www.legonbotanicalgardens.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6nCNJz5Q4YJRtc6wPgMc4kphHAnQSnfJO7yRF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gallery 1957",
+                "category": "Art gallery",
+                "url": "http://www.gallery1957.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgXMC8Lb32OwesP4yxObUWs9NhftfnbMIwA2lK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osu Castle",
+                "category": "Museum",
+                "url": "https://www.ghanamuseums.org/forts/fort-christianburg.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1y4TPHbG4VXRDVLUELzqvrniCOyxeSluM7Wti=w148-h148-n-k-no"
+            },
+            {
+                "title": "Artists Alliance Gallery",
+                "category": "Art",
+                "url": "http://www.artistsalliancegallery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyLJB86FUmOabcjLjS63V9MHRPAVcOabwaDBEk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Labadi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVp8nrT8yPt1HX_l2MLPNV6F9mvbgunz28SZsi=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ghana",
+                "category": "Museum",
+                "url": "http://www.ghanamuseums.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzbTDP-sny4aMV3qQoW5Bejz372eUxQgUY3j_D=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Arch",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOi45pHtJdY81Uk6RDxUlpo7gTwyh7M5oFjteT=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Most Holy Trinity Cathedral",
+                "category": "Anglican church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgvh1VR3zxSP84au_MxUraMMQFbyxGsDhuY_dm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laboma Beach",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiktak0cipi7dv6qV982nzYUyaqdw29KEvsEvJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Flagstaff House",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEv-C45KRp9Eickzf6XD2MHiEM3Qybv4a8dBs2=w148-h148-n-k-no"
+            },
+            {
+                "title": "James Town",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpGbyyr1waEi4hMtModSAbXTm68KT7BAXH23MD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bojo Beach",
+                "category": "Beach",
+                "url": "http://www.bojobeachresort.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcMxdltB_Wq8BJ2AIuTXbvS_z78PfhhN3zmnLV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ussher Fort",
+                "category": "Museum",
+                "url": "http://www.ghanamuseums.org/index.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNReWeXAeWetzzpDc-Fh2_ggRjPgwhP4BienmO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akosnachi Enterprise Gh.",
+                "category": "Wholesale Jeweller",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv66aqs5mFeQookl-iS7TfNHO7AL3yBMiz5lKU=w148-h148-n-k-no"
+            }
+        ],
+        "Techiman": [
+            {
+                "title": "Roman Catholic Cathedral Church",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdpVrLjtCFPZTCftYWM3qPANsB8k4tKTUjh5xE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ohene Ameyaw Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9oluSryaWqtSdTxCAGHzT4jk_PaRDrM00TeXR=w148-h148-n-k-no"
+            },
+            {
+                "title": "komfo Anokye Sword Site",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDfj8-NGzPM46lK-mFuPjgeUfbwz2cxCNkwb8l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kintampo Waterfalls & Fuller Waterfalls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPT2PRqE4qZMbjnGZfEhYgQGlJDQF4CojqqBqHb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kejetia Roundabout",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHIhb9eEXtSoOtgh3yfI8lskwYpovL4HPVOon_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anloga junction",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB7Jrx_MLfwsDrvg6U0Ew5rtQBdOz-jPD5fiqa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kenyasi Palace",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLZwNYuDkrvVt2cfJ0cE3J_ZiLD2BObssh3TAn=w148-h148-n-k-no"
+            },
+            {
+                "title": "KNUST Engineering Gate",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9z7iuf94JAkoLyQ6pI-iFu2yzb12bvHgOM0pG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apeadu-Kokoben Station",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_jGNmk6zr_zRfsjGyfIduvAqthtXlQjfRr7G-=w148-h148-n-k-no"
+            }
+        ],
+        "Suhum": [
+            {
+                "title": "Zipline Omenako",
+                "category": "Logistics service",
+                "url": "https://flyzipline.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAZlMCX-YsgmFbsO2sE1KvToHTfR9A7ToKok0t=w148-h148-n-k-no"
+            },
+            {
+                "title": "Delako Guest House",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqNN1vOHCbrQTKntYxJ280ThxHPojmEqfSzXbI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Point Three Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMV2FWhiRtEu_uXZ9tJWO5XI1QSXaRc5W-wCx8z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwamens Alisco Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUmqIoukbXgGrQ4FSaC3BahKU2rBlMf-AbNUBH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suhum Senior High Technical School",
+                "category": "Senior high school",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9C7ep2G4hv1n3VXU7YnOFRebdyA2cizIIvABz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Presbyterian Senior High School, Suhum",
+                "category": "School",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzYKZbM_emMAFHCI0T3v62pLrwAPVSrvH6K4lD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dan Villa Hotel",
+                "category": "Hotel",
+                "url": "http://www.danvillahotel.com/",
+                "img": "https://lh5.googleusercontent.com/proxy/dohcfJtF-9CDSB8fa677p0pYj0gAB7ou0OMatI3Dckem9Zv-W9JgE0Ucb8SlrCJ4HApOrQUHZV6c0FRAgbKb1pKFbGWBm15RwutAjI3NW8aX6y8i1Ji0ZtaKUisOL347ou6Ck7c8M3hwF3Sv64vzg_f8PNLJsw=w148-h148-n-k-no"
+            }
+        ],
+        "Akim Oda": [
+            {
+                "title": "St. Luke Methodist Cathedral",
+                "category": "Methodist church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMID99yP8fkQJ73r5MdjRqZuHtqbfo0iNISl_sq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akim Oda Sports Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9GQUG7VjwL4aBdwpXE8g-iHFiBMGOn-UOlmyo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kakum National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrP9JgPxYEjhqpZE3yAJqmEU0eOvOhW71xMxr-=w148-h148-n-k-no"
+            },
+            {
+                "title": "IDARKCONSULT LTD",
+                "category": "Architecture firm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtEShGj_mxwrObFkBKsncD26iMyNsb7VpVjpeV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Apapam Chief Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBwfDjg_XxhBzBpgLSZcMuTSEZ7FEr78ikCsZR=w148-h148-n-k-no"
+            },
+            {
+                "title": "River Abukyen",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXhB2BH1qD2vcWA3lAbN_29Hic1FPc3b74WC7S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bojo Beach",
+                "category": "Beach",
+                "url": "http://www.bojobeachresort.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcMxdltB_Wq8BJ2AIuTXbvS_z78PfhhN3zmnLV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamestown Lighthouse",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEkDaQuUm8BxOP6uw7YhHzs6ZClXXt1qDy0ij8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kokrobite Beach Cottage",
+                "category": "Home Stay",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLgvjma5m8WWaSibtxrgbHEGs6m3aDRlWnotjH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Akosnachi Enterprise Gh.",
+                "category": "Wholesale Jeweller",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv66aqs5mFeQookl-iS7TfNHO7AL3yBMiz5lKU=w148-h148-n-k-no"
+            }
+        ],
+        "Gbawe": [
+            {
+                "title": "IDARKCONSULT LTD",
+                "category": "Architecture firm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtEShGj_mxwrObFkBKsncD26iMyNsb7VpVjpeV=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osu Castle",
+                "category": "Museum",
+                "url": "https://www.ghanamuseums.org/forts/fort-christianburg.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1y4TPHbG4VXRDVLUELzqvrniCOyxeSluM7Wti=w148-h148-n-k-no"
+            },
+            {
+                "title": "KFC Dansoman",
+                "category": "Fast food restaurant",
+                "url": "http://www.kfc.com.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMopuvL6VKBZ3IuAXiciAoKzr_aWhAKnop-KFM1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Digital Centre",
+                "category": "Technology park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM25iBvWC3ah_K4KYVfw5874_4GsnXOVx6Da5sf=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ghana",
+                "category": "Museum",
+                "url": "http://www.ghanamuseums.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzbTDP-sny4aMV3qQoW5Bejz372eUxQgUY3j_D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jamestown Lighthouse",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEkDaQuUm8BxOP6uw7YhHzs6ZClXXt1qDy0ij8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Accra Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOjIsfY-RQhIv3XpAhj11xRYxhiMzxmtCQu2a8V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brazil House",
+                "category": "Museum",
+                "url": "http://instagram.com/chalewoteofficial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY8e3kKsSMqT5gJGcbe967R2paevgFMkvYtUaZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Intercity STC Coaches Limited",
+                "category": "Bus company",
+                "url": "https://stc.gov.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiobNz9og41k-cYC_kVGk0mM-1FX3NDmwToCyN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Spirit Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://holyspiritcathedralaccra.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlVC01-KTJuMHS_HfsifXGBBn9z3qTUqEo37VE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spintex, East-Legon Tunnel",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtOCuNCBu4iVJYzT3XFKhK2yrT3MyW6lcdmuAl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gbawe Methodist Church",
+                "category": "Methodist church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_aZp-3bIjLVcUQTNRKaTWtlTjq7yRJZWZrkuw=w148-h148-n-k-no"
+            },
+            {
+                "title": "MANDYVILLE GARDEN",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP56hHprmtiGeI07bafjGkkkNWWdHH74DUkJQUq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pentecost Pensions Guest House",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUcRpSrjGb_pGo67A74bqZOLBAx_unhG35Mykr=w148-h148-n-k-no"
+            }
+        ],
+        "Swedru": [
+            {
+                "title": "SWESBUS Park",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlHC0dxxwUIxzJqNAPup9hz8iKKKrJUNsI4lTl=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theatre",
+                "category": "Performing arts theatre",
+                "url": "http://www.nationaltheatre.gov.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx9trWeHSVrWlXtLZNPCk4UJw58JT6wmaoH-V1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centre for National Culture",
+                "category": "Shops and Shopping",
+                "url": "http://www.ghanaculture.gov.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4hQM9-YlFnVBYTV_NoPCaEP0NqEISRBdCAVUq=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Ghana Computing Systems(UGCS)",
+                "category": "IT support and services",
+                "url": "http://ugcs.ug.edu.gh/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlPrqTRusc0CqX0TL0oWSbhAkH4MKIdPn7Zl08=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tafi Atome Monkey Sanctuary And Cultural Village",
+                "category": "Tourist attraction",
+                "url": "http://www.visitghana.com/attractions/tafi-atome-monkey-sanctuary/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnH0KlX4WPze2KBRpYCl6XV1ibXFHnIHw8x1zQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Assin Manso Slave Market and River Site",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhx03n_Rx1QrCbijae9652kVZRlqsVweVwoC7s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Asafo Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfDRLH-3tJCXEHMPfI3h7GXgPhXsu-guQ__n4Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kwashieman Addy Junction",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPy47wqs4aj2MK1ctmkfI_IsE5mMCa97r8lKX6X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "THREE JUNCTION",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMxMLdgyjj9TYN4n8pOCEbxT6Si4KlbxAHNBM6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pokuase Y junction",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsUc64KTxMOfPdEq_W8n_0JkcwHIbPTcIgYZXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Presbyterian school park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwc2lfTs3hARfc0hQFvgGFakzMURGBkjTriOhc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tafi Abuife Kente Village",
+                "category": "Clothing Shop",
+                "url": "http://www.facebook.com/tafiabuife/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0gt6_oo5IhFCpJN7muBpNuNAgi5gY6x8f79F7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taxi Rank, Winneba",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3UjRr7uXL9c_emDMOzgByvVJ9gJtcbzErxDBT=w148-h148-n-k-no"
+            },
+            {
+                "title": "NSUEKYIR CHIEF’s PALACE",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNJ4IPVRr9OWUtd_5G2H3VaTXZ3G-S01sa_E_O=w148-h148-n-k-no"
+            }
+        ],
+        "Yendi": [],
+        "Teshi Old Town": [
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laboma Beach",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiktak0cipi7dv6qV982nzYUyaqdw29KEvsEvJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B Du Bois Memorial Centre for Panafrican Culture - Ghana.",
+                "category": "Monument",
+                "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXAS7maXPQeTphM-EAhrNrbBqKa4BDD2m2drYH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Osu Mantse (Nortse Nii Nortey Owuo IV)",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO7HkFC9XudiSA5SjH0DxLEjj1Pp0MVfVCWA-a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Presbyterian Church of Ghana, La Bethel",
+                "category": "Presbyterian church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNY7wtRwkpBLRp2jRIQfuSyuStRHE73xCTeHKvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Berj Art Gallery",
+                "category": "Art gallery",
+                "url": "http://www.berjartgallery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCa2swYgb-pNC26B1VActJ-GqfNsQGfhnvE4-S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quemsa Afrique",
+                "category": "Jewellery Store",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6Wo19B8yrlbq7rzZHW0Mw0MUGTkyfrB7n4IAz=w148-h148-n-k-no"
+            }
+        ],
+        "Ashaiman": [
+            {
+                "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cape Coast Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+            },
+            {
+                "title": "W.E.B. DuBois Centre in Accra",
+                "category": "Museum",
+                "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO4ksCBwRrvHn3ysoF6HHUpiUasuALBTQsRc8-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Elmina Castle",
+                "category": "Castle",
+                "url": "http://www.everycastle.com/Elmina-Castle.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Cape Coast Castle",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/proxy/aqF6D6rx0MYeOqj63_mlEecqeDULKc8GhRqQfBLWxiU1l1vYg1lsdsKbG9-JbFa5PiYpenfvjmazZNwvJNUPvqrZ_0rP928OaMu_KbfrePCq-Q_LHi6ttQQJ2oKIC9LtohxCUMIVROuS6_9PrXDugkSBTFyc694=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kakum National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMrP9JgPxYEjhqpZE3yAJqmEU0eOvOhW71xMxr-=w148-h148-n-k-no"
+        },
+        {
+            "title": "Elmina Castle",
+            "category": "Castle",
+            "url": "http://www.everycastle.com/Elmina-Castle.html",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPdzNXtlauvI8wR91PHQbqVRgIjzJa4Y-DBaevS=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kwame Nkrumah Memorial Park & Mausoleum",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/proxy/xHT84E2HROTovHAbu9qq8MzzFVUXIMzkSuwy3NWdnCYyXixog2A4k1dKkM_StIJI3ch-M26TGIr1V2vgYQ4kribkytVat2fWpkwtgTuQDfUOyE2x7Nv8mFWACdEuEYMOgDGOLrab-Z8Za7eGYLNNySnGotxgVPs=w148-h148-n-k-no"
+        },
+        {
+            "title": "IDARKCONSULT LTD",
+            "category": "Architecture firm",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMtEShGj_mxwrObFkBKsncD26iMyNsb7VpVjpeV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mole National Park",
+            "category": "National park",
+            "url": "https://molenationalpark.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOIBjt1krlFyk7hXzNlDx-VEDmzDrVu0H0ogtu5=w148-h148-n-k-no"
+        },
+        {
+            "title": "Legon Botanical Gardens Ghana..",
+            "category": "Recreation Centre",
+            "url": "http://www.legonbotanicalgardens.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN6nCNJz5Q4YJRtc6wPgMc4kphHAnQSnfJO7yRF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Wli Agumatsa Waterfalls",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO7P4t9CsctbcpwvOJ4N1BX6lSoOnz5bMCCsRr8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Independence Arch",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMOi45pHtJdY81Uk6RDxUlpo7gTwyh7M5oFjteT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bojo Beach",
+            "category": "Beach",
+            "url": "http://www.bojobeachresort.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMcMxdltB_Wq8BJ2AIuTXbvS_z78PfhhN3zmnLV=w148-h148-n-k-no"
+        },
+        {
+            "title": "W.E.B Du Bois Memorial Centre for Panafrican Culture - Ghana.",
+            "category": "Monument",
+            "url": "http://webduboiscentreaccra.ghana-net.com/index.html",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOXAS7maXPQeTphM-EAhrNrbBqKa4BDD2m2drYH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Osu Castle",
+            "category": "Museum",
+            "url": "https://www.ghanamuseums.org/forts/fort-christianburg.php",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO1y4TPHbG4VXRDVLUELzqvrniCOyxeSluM7Wti=w148-h148-n-k-no"
+        },
+        {
+            "title": "Zaina Lodge",
+            "category": "Lodge",
+            "url": "http://zainalodge-ghana.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMx_DRp-oF1cft2uzNiPIE7OfeSnE1n66bBBbdA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Wesley Methodist Cathedral",
+            "category": "Recruiter",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP6EuldjJBJdYfHA6UuD9hz5lSfSQBe-T2JINmo=w148-h148-n-k-no"
+        },
+        {
+            "title": "Labadi Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNVp8nrT8yPt1HX_l2MLPNV6F9mvbgunz28SZsi=w148-h148-n-k-no"
+        },
+        {
+            "title": "Boti Waterfalls",
+            "category": "Tourist attraction",
+            "url": "https://touringghana.com/boti-falls/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO0SdcQsGBR30grejbNbftaFbKFM73xFtn7Zf1Y=w148-h148-n-k-no"
+        }
+    ]
+}

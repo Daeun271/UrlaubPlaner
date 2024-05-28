@@ -1,0 +1,1353 @@
+{
+    "cities": {
+        "Al Bāb": [
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Umayyad Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBWE8Re-HerQNTTZqOcJTBMQG8JwAufi00BSfV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Halawiyah Madrasa",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3IaJxWzgZIizEqp4gxK3XzV6E7u9zsAnmfEgi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            }
+        ],
+        "Ath Thawrah": [
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Euphrates Dam",
+                "category": "Dam",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrIKHdTt598rglrT32n2y70wyggNo6zNg8xIS0=w148-h148-n-k-no"
+            },
+            {
+                "title": "باب بغداد",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhyDl0Kt2fhJgxJBRDUVX2y4PGdU31hsC17i9R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Firdous Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzafLhRf_uJXVOJIzYtqOw7JywocSE3TaADlCL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Resafa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJsnV5G-ZRi77r5OmGDfHT3XyNoZWGg10DqQNS=w148-h148-n-k-no"
+            }
+        ],
+        "As Safīrah": [
+            {
+                "title": "Hama",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8sS9r_lt48j28_LsPd_P21ZvpS_sC9qYQIJWj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palmyra",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPy2l0-Bhd8BOrmS6k8DozW0uP_sNy8K0WSorZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartus‎",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmcEfUzhdgD2pzNwajRRATMA9iVFO0xRzuc3NF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krak des Chevaliers",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDgmlW9cAkM5ta5rh7gRpKIajKD3Q9bpjcfQ4r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            }
+        ],
+        "Al Ḩasakah": [],
+        "Aleppo": [
+            {
+                "title": "Aleppo National Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMV2Qqm5r6pqChK2Qxc8X2qdmfdvKngyIOyX4rN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Public Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOb8hEOnq0DlurmNv0UaO3-wRJPN09kvDAz68z1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAqqCLBXsXjcRXal1KotyoospMSbMw2VWmrrnl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Rahman Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6QDm-vJ6Pd30Q8jCVlI8U6TApGW_7ujXH9sw8=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Cathedral of St. Simeon Stylite",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoVHOqfZGH0p13_5V1dCPOVAyzgSa2aRUCooce=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabil Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzaIxbOTHCjqHGlo_Qm35LwnoH73qIcoKIdAC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Rawdah Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9mkgC6hyh6mBYQw0LxUfWBv4N-QqBwVBjeGvc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marja Square",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOELciXDNmJN-ltyqYbGRJoiJhhD9Gr1lRV-LQA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Umayyad Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBWE8Re-HerQNTTZqOcJTBMQG8JwAufi00BSfV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krak des Chevaliers",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDgmlW9cAkM5ta5rh7gRpKIajKD3Q9bpjcfQ4r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Halawiyah Madrasa",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3IaJxWzgZIizEqp4gxK3XzV6E7u9zsAnmfEgi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            }
+        ],
+        "I‘zāz": [
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            }
+        ],
+        "Ţarţūs": [
+            {
+                "title": "Citadel of Arwad",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMArW2nrM8dzRw-JyhzIZ8LLSYyq7H1NUmQX0MA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chastel Blanc (Safita Tower)",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKsE5Wb-QFsvwDU95fUmfQmhaUrzXPbwVKrPyo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khan As'ad Pasha Al-Azem",
+                "category": "Historical place museum",
+                "url": "https://www.facebook.com/Khan.Asaad.Basha/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfTK_v0mqKhFQy0_QSg4EGZBRZmciIZd8KyWXf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastero Saint Takla - Maaloula (Siria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLGFxYeUjQ1aUfu89nmKh-q3i_pmn5MOxp-aLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dar al-Assad for Culture and Arts",
+                "category": "Live music venue",
+                "url": "https://www.facebook.com/Damascus-Opera-House-%D8%AF%D8%A7%D8%B1-%D8%A3%D9%88%D8%A8%D8%B1%D8%A7-%D8%AF%D9%85%D8%B4%D9%82-221386104554396/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1NZub3JE58nHGpeIoW02Ycbkwh9EBx-BRQnvt=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Syria",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9ycIVjljXq-T8qAQWo6xrZgVLh2armJL8oPpV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle roe",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBZObPGcH7QgmNMF4lzNeSmEClL6teE24s7TLJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hanania Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7A1pWC3BuiqgERGaoyTMg1L5BkQUUFPBs0r2C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umayyad Mosque",
+                "category": "Mosque",
+                "img": "https://lh6.googleusercontent.com/proxy/Gy9qgHaQoM6Lp4dsqmSMhD2nqIod2bDGXlQrSIJFsiJGdxEljFFVPTOr9aKSwV4EaVfzB1INTwesrnzE5Cw0OWN_Ni1_ydIJsMiuPiWqABxyNTEn8G1e05GtYWaJiDXKXS4Co4BAEeVM_LZZRcFXIw1actcZNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNLpIbbqi2Z6T5qz2y1-1zbdMdlWjUEyAphb0R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Mounira Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_cJJWZ4US42ULxssMBYvLwUuksjgJFe4BzxZ8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sea Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPYlfmLGhbpy87r-WmzitpgUqjObTlEFI24axE=w148-h148-n-k-no"
+            }
+        ],
+        "Idlib": [
+            {
+                "title": "Aleppo International Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAqqCLBXsXjcRXal1KotyoospMSbMw2VWmrrnl=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Umayyad Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBWE8Re-HerQNTTZqOcJTBMQG8JwAufi00BSfV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Rahman Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6QDm-vJ6Pd30Q8jCVlI8U6TApGW_7ujXH9sw8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabil Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzaIxbOTHCjqHGlo_Qm35LwnoH73qIcoKIdAC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Halawiyah Madrasa",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3IaJxWzgZIizEqp4gxK3XzV6E7u9zsAnmfEgi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartus‎",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmcEfUzhdgD2pzNwajRRATMA9iVFO0xRzuc3NF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krak des Chevaliers",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDgmlW9cAkM5ta5rh7gRpKIajKD3Q9bpjcfQ4r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            }
+        ],
+        "Dar‘ā": [],
+        "At Tall": [
+            {
+                "title": "Damascus Citadel",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV-AXUAS3Cd5hU4yhITpv_WKmW0fpJDn5CKVtD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hanabila Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_zSO_yqHtUs6AEC88fptau2BL0EVTbnzXnHya=w148-h148-n-k-no"
+            },
+            {
+                "title": "Syrian Guides",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ3pVerVc01U_BImdFWtyvsjN-s1AQzr6NdDbc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mithra Travel & Tourism",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2OwW0xifHWrrlvXjTlkaynuzLT67NWqiluiqO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luxor Travel & Tourism",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUxXZTYkmGekbHgCAaoBAjrKKkJKCeh2149Ik=w148-h148-n-k-no"
+            },
+            {
+                "title": "Daraa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWC5D4PNj6QfY8rnXTWQSwrg_yYuPDGyFm8xpq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hama",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8sS9r_lt48j28_LsPd_P21ZvpS_sC9qYQIJWj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umayyad Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpM5GAcKFC0qNqnEqSjIUfDYiVOAL3tPWkaYI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Damascus",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK5WsmQSlGnSzzZejjZnJhnAli7c8knN_Oi0l6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Homs‎",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODCfNmP4-nRa3lG3m5YbZY-7gxBSVaJ2dgd574=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sayyida Zaynab Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvPnHHKYMvPmSHsA6d7X-exypTYtaZdapl2Gap=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML3Bqhk-OCCMtzaIcvoGFVm-E7DUXI3G3Rosi_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Hamidiyeh Souq",
+                "category": "Shops and Shopping",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqvf_Epz9t3S9SZrzyg7OsztC3uLrYhClbUE6F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastero Saint Takla - Maaloula (Siria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLGFxYeUjQ1aUfu89nmKh-q3i_pmn5MOxp-aLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dar al-Assad for Culture and Arts",
+                "category": "Live music venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1NZub3JE58nHGpeIoW02Ycbkwh9EBx-BRQnvt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deir Mar Musa el-Habashi",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcJZUdBthxBhJNctxvYXl96j1p5J_bKJ629mT_=w148-h148-n-k-no"
+            }
+        ],
+        "Manbij": [
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            }
+        ],
+        "Latakia": [
+            {
+                "title": "Al Ajjan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOveJHPD-yzoWzOHMS15ehV6Fl_P733hmKf52pF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Latakia Sports City",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOygJQ3da0Z0Eepe2mU3b9KmgG8y2Ryt7rCCbV3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastero Saint Takla - Maaloula (Siria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLGFxYeUjQ1aUfu89nmKh-q3i_pmn5MOxp-aLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basel Alassad stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNP6WSmnXTIo4bHGiT6J4mUn2MruMOMclMr4MeS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartus‎",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmcEfUzhdgD2pzNwajRRATMA9iVFO0xRzuc3NF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Huryieh Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIUmbz-pVJHEyThEFb4IsazriFUtXZjBBU4G3R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soufan Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3Idkgci2Zda_WT2AXkS3hDmNER8h7Tvq9HucV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Omar Ibn AlKhattab Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkhxLigrSFPb1AA-8u_xx3HPmWX9-h2zfkJxNM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Latakia Tetraporticus",
+                "category": "Historical place",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4aQgs_12HLrdrgUSDm-3QSE_8K79hBlxiAnoL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marqab Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWB0w2GiA7GaPOg_QubOJNOGsR2fODeJ2F2dw6=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBFsrkSR443KtJpjVKQndryyILvM_htusMmkLk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albazar Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORkFf3dRZsRfT6UtEX2bOi4fVhU6wK9uxs2kgd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            }
+        ],
+        "Dūmā": [],
+        "Ar Raqqah": [
+            {
+                "title": "باب بغداد",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhyDl0Kt2fhJgxJBRDUVX2y4PGdU31hsC17i9R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Firdous Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzafLhRf_uJXVOJIzYtqOw7JywocSE3TaADlCL=w148-h148-n-k-no"
+            },
+            {
+                "title": "قصر البنات - الرقة",
+                "category": "Archaeological museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPA51HC8ZfVfeHWLcA1beJtusP6fgA1qdW6-pd1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muzexaneya Reqa",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi8ZoXnG-omup-iYHjKxhH-LnfASqIjsT8seZ6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Resafa",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJsnV5G-ZRi77r5OmGDfHT3XyNoZWGg10DqQNS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Euphrates Dam",
+                "category": "Dam",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrIKHdTt598rglrT32n2y70wyggNo6zNg8xIS0=w148-h148-n-k-no"
+            }
+        ],
+        "Homs": [
+            {
+                "title": "Citadel of Homs",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBRTqYl5b17-6CMbwrPS1fsyg9euwX6t-MfKo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umayyad Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpM5GAcKFC0qNqnEqSjIUfDYiVOAL3tPWkaYI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "The public arena Kfrbo",
+                "category": "Landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa64AiQPPpWi7cEjLZUgztL3HyHvabk7J9Cts2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Hijaz Train Station",
+                "category": "Train station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0ce4Yg3PB51thiEpeNnrNBsb8CqWXdYXhea5d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sayyidah Ruqayya Shrine",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaE5-WNIRb2BXTlbmiB6Z6jsppHLVG4Jg4JdXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastero Saint Takla - Maaloula (Siria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLGFxYeUjQ1aUfu89nmKh-q3i_pmn5MOxp-aLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deir Mar Musa el-Habashi",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcJZUdBthxBhJNctxvYXl96j1p5J_bKJ629mT_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afif Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOJ7ZdJZH2Hi2T0bpKrsH1ZRfyf64HtAoSHg1bS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marrota Travel & Tourism",
+                "category": "Travel Agent",
+                "url": "http://www.marrota.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqK0jg57JjnxJEmlQjQ3qxtXQuCHuRzOQ04W2p=w148-h148-n-k-no"
+            },
+            {
+                "title": "جامع سيف الدين يلبغا",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkwTwJJpQdAylaFWvAEOYn2VmLZbQbU5FdrJja=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartus‎",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmcEfUzhdgD2pzNwajRRATMA9iVFO0xRzuc3NF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maaloula",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdZ95fLJzd4c7I1UjeethRq9rHEwmE2zCoLMs8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saroujah",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlWKG9nO5TyBeXFmtkRQDv0aJlDIsOjtbuGHYP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hanabila Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_zSO_yqHtUs6AEC88fptau2BL0EVTbnzXnHya=w148-h148-n-k-no"
+            }
+        ],
+        "Damascus": [
+            {
+                "title": "باب شرقي",
+                "category": "Ruin",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2LfgQ9LjxCHWs_x1kWnIocN4zIYU0RjaQf4Rl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Marjeh Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwhbVrfun2SMrpRliQ9gTHNJk2FVTvcyV5fVFW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Qasioun",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtRGDnVLECg3Myh2z7Ae25N-Ya7i3yBbZdQy_c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sulaymaniyya Takiyya",
+                "category": "History museum",
+                "url": "https://wikip.one/2ayTD6",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTE5tFboj1RjJMIK3H4EKm8ZQeT6Ady06P6Sao=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umayyad Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpM5GAcKFC0qNqnEqSjIUfDYiVOAL3tPWkaYI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Syria Scope Travel",
+                "category": "Travel Agent",
+                "url": "http://www.syriascopetravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCn9lTb7rIcEyFlB-yYldWORj7fOj83EqGrf0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML3Bqhk-OCCMtzaIcvoGFVm-E7DUXI3G3Rosi_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deir Mar Musa el-Habashi",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcJZUdBthxBhJNctxvYXl96j1p5J_bKJ629mT_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tishreen Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWH8nGk72wEX6TTlFmLE9myf49B03GEFwxm3Za=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maaloula",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdZ95fLJzd4c7I1UjeethRq9rHEwmE2zCoLMs8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Busra",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_nh_aPo1KnLKpwbCZEVJgIMHBj1_8LkCTSM35=w148-h148-n-k-no"
+            },
+            {
+                "title": "Syrian Guides",
+                "category": "Tour operator",
+                "url": "https://syrianguides.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ3pVerVc01U_BImdFWtyvsjN-s1AQzr6NdDbc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krak des Chevaliers",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDgmlW9cAkM5ta5rh7gRpKIajKD3Q9bpjcfQ4r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Damascus Citadel",
+                "category": "Historical landmark",
+                "url": "http://www.dgam.gov.sy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV-AXUAS3Cd5hU4yhITpv_WKmW0fpJDn5CKVtD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Hamidiyeh Souq",
+                "category": "Shops and Shopping",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqvf_Epz9t3S9SZrzyg7OsztC3uLrYhClbUE6F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Azem Palace",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZt4wIOwHQja3wimCY5YVQsHnwKhkyiIB3hRcq=w148-h148-n-k-no"
+            }
+        ],
+        "Ḩamāh": [
+            {
+                "title": "M'amouriya waterwheel",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNrtS93PjNsSppa-jRNVjlT5x1xvyhbx2pyw8fY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afamia alsham",
+                "category": "Hotel",
+                "url": "https://www.facebook.com/Afamia-AlSham-1642772042718465/?_rdr",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNA9cZKBx2k0bW2aRLSF5Fa6lqrASWAW_EoTOLH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hama Municipal Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLyIr32avOhud9sf6oDo_dN8aSnNJfGZI-Yges=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sayyidah Ruqayya Shrine",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaE5-WNIRb2BXTlbmiB6Z6jsppHLVG4Jg4JdXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hama Castle",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODTmdw9zhLB3avevhthfKGqztsvdl7HbOESjDf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Um Al Hasan Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGJ40MEKerMD8P-b_HAZnu-36ppWN9dNTXR7de=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jableh",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIKA1yvvNSjjnbDTN9-LWtuMRaq6VbQh3_Uvv6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Norias of Hama",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-Tfz9wut-ptOl-grwFsV8BsO8YYl14l3CL-Kn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khaled Ibn Al-Walid Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiPzlmuMYiWzpcCdPQqn5WK69L4dilZblGIiwZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Um Al Zenar Church",
+                "category": "Church",
+                "url": "https://www.facebook.com/%D8%AC%D9%88%D9%82%D8%A9-%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%D8%A3%D9%8F%D9%85-%D8%A7%D9%84%D8%B2%D9%86%D8%A7%D8%B1-%D8%AD%D9%85%D8%B5-1626906274255021/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaf8mOlZhaW1GeyJN3i_p0OIzz4LWbJMLdwrMl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastero Saint Takla - Maaloula (Siria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLGFxYeUjQ1aUfu89nmKh-q3i_pmn5MOxp-aLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartus‎",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmcEfUzhdgD2pzNwajRRATMA9iVFO0xRzuc3NF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khan As'ad Pasha Al-Azem",
+                "category": "Historical place museum",
+                "url": "https://www.facebook.com/Khan.Asaad.Basha/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfTK_v0mqKhFQy0_QSg4EGZBRZmciIZd8KyWXf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deir Mar Musa el-Habashi",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcJZUdBthxBhJNctxvYXl96j1p5J_bKJ629mT_=w148-h148-n-k-no"
+            }
+        ],
+        "Jablah": [
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastero Saint Takla - Maaloula (Siria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLGFxYeUjQ1aUfu89nmKh-q3i_pmn5MOxp-aLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deir Mar Musa el-Habashi",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcJZUdBthxBhJNctxvYXl96j1p5J_bKJ629mT_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartus‎",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmcEfUzhdgD2pzNwajRRATMA9iVFO0xRzuc3NF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maaloula",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdZ95fLJzd4c7I1UjeethRq9rHEwmE2zCoLMs8=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Umayyad Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBWE8Re-HerQNTTZqOcJTBMQG8JwAufi00BSfV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Halawiyah Madrasa",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3IaJxWzgZIizEqp4gxK3XzV6E7u9zsAnmfEgi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krak des Chevaliers",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDgmlW9cAkM5ta5rh7gRpKIajKD3Q9bpjcfQ4r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            }
+        ],
+        "Ālbū Kamāl": [],
+        "As-Suwayda": [
+            {
+                "title": "Old As-Suwayda",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvs8ZqkFL-YcaDtVrDWxtE4IzBm5jzcCNTl02k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umayyad Mosque",
+                "category": "Mosque",
+                "img": "https://lh6.googleusercontent.com/proxy/Gy9qgHaQoM6Lp4dsqmSMhD2nqIod2bDGXlQrSIJFsiJGdxEljFFVPTOr9aKSwV4EaVfzB1INTwesrnzE5Cw0OWN_Ni1_ydIJsMiuPiWqABxyNTEn8G1e05GtYWaJiDXKXS4Co4BAEeVM_LZZRcFXIw1actcZNA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sayyida Zaynab Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvPnHHKYMvPmSHsA6d7X-exypTYtaZdapl2Gap=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umayyad Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpM5GAcKFC0qNqnEqSjIUfDYiVOAL3tPWkaYI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Damascus Citadel",
+                "category": "Historical landmark",
+                "url": "http://www.dgam.gov.sy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV-AXUAS3Cd5hU4yhITpv_WKmW0fpJDn5CKVtD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML3Bqhk-OCCMtzaIcvoGFVm-E7DUXI3G3Rosi_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Azem Palace",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZt4wIOwHQja3wimCY5YVQsHnwKhkyiIB3hRcq=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Syria",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9ycIVjljXq-T8qAQWo6xrZgVLh2armJL8oPpV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shahba",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoQkZ_RGJvcU1Qn2o-_82WL8GX2nSqVwmKKBPz=w148-h148-n-k-no"
+            }
+        ],
+        "Ar Rastan": [
+            {
+                "title": "Hammam Al Malik Al Zahir",
+                "category": "Historical place",
+                "url": "https://www.facebook.com/hammam.almalik.alzahir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCqzrtlDAoqF5t3nILpL7Fg8lkW55YmOvRWHXS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marrota Travel & Tourism",
+                "category": "Travel Agent",
+                "url": "http://www.marrota.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqK0jg57JjnxJEmlQjQ3qxtXQuCHuRzOQ04W2p=w148-h148-n-k-no"
+            },
+            {
+                "title": "جامع سيف الدين يلبغا",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkwTwJJpQdAylaFWvAEOYn2VmLZbQbU5FdrJja=w148-h148-n-k-no"
+            },
+            {
+                "title": "Syrian Guides",
+                "category": "Tour operator",
+                "url": "https://syrianguides.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ3pVerVc01U_BImdFWtyvsjN-s1AQzr6NdDbc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mithra Travel & Tourism",
+                "category": "Tours",
+                "url": "http://www.mithratravel.biz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2OwW0xifHWrrlvXjTlkaynuzLT67NWqiluiqO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luxor Travel & Tourism",
+                "category": "Tour operator",
+                "url": "https://luxortravel.net/destination/syria",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUxXZTYkmGekbHgCAaoBAjrKKkJKCeh2149Ik=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arwad",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_bdXi4oQpHwLXoSTR3j-ZB7nBD5Br6aDDrVUR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salsa Spark Dance Academy",
+                "category": "Dance school",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPA1pqkZI-UaSza-r1UpVek1FDi3Ezg9eRVpUwn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zarzar Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJnZ_7dueLOYEjEDEo24oqeEnO0B4YtB1h3QHi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barada River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMUctg8u2Q0ic-ZO5SutDSrADxzcio6Cj1MwT7F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saroujah",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlWKG9nO5TyBeXFmtkRQDv0aJlDIsOjtbuGHYP=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Umayyad Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBWE8Re-HerQNTTZqOcJTBMQG8JwAufi00BSfV=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Syria",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9ycIVjljXq-T8qAQWo6xrZgVLh2armJL8oPpV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hanabila Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_zSO_yqHtUs6AEC88fptau2BL0EVTbnzXnHya=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sayyidah Ruqayya Shrine",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaE5-WNIRb2BXTlbmiB6Z6jsppHLVG4Jg4JdXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Halawiyah Madrasa",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3IaJxWzgZIizEqp4gxK3XzV6E7u9zsAnmfEgi=w148-h148-n-k-no"
+            }
+        ],
+        "Al Mayādīn": [],
+        "As Salamīyah": [
+            {
+                "title": "Sayyida Zaynab Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvPnHHKYMvPmSHsA6d7X-exypTYtaZdapl2Gap=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Hamidiyeh Souq",
+                "category": "Shops and Shopping",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqvf_Epz9t3S9SZrzyg7OsztC3uLrYhClbUE6F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umayyad Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpM5GAcKFC0qNqnEqSjIUfDYiVOAL3tPWkaYI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Damascus Citadel",
+                "category": "Historical landmark",
+                "url": "http://www.dgam.gov.sy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV-AXUAS3Cd5hU4yhITpv_WKmW0fpJDn5CKVtD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Jamea Alkabir",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWNQlFeDyy58Nv7nmEynvk0_43EvHneTXkk1gG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML3Bqhk-OCCMtzaIcvoGFVm-E7DUXI3G3Rosi_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qalaat Fakhr ad-Din al-Maani",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNShqoOyxXBcT9MpVRtdI9Vl0NovjfdSMlUzm_s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qasr ibn Wardan Church",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwUgk8ACnlR1lHH2_f0oGrVmHeQD-hUaTmKyuR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastero Saint Takla - Maaloula (Siria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLGFxYeUjQ1aUfu89nmKh-q3i_pmn5MOxp-aLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartus‎",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmcEfUzhdgD2pzNwajRRATMA9iVFO0xRzuc3NF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dar al-Assad for Culture and Arts",
+                "category": "Live music venue",
+                "url": "https://www.facebook.com/Damascus-Opera-House-%D8%AF%D8%A7%D8%B1-%D8%A3%D9%88%D8%A8%D8%B1%D8%A7-%D8%AF%D9%85%D8%B4%D9%82-221386104554396/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1NZub3JE58nHGpeIoW02Ycbkwh9EBx-BRQnvt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sayyidah Ruqayya Shrine",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaE5-WNIRb2BXTlbmiB6Z6jsppHLVG4Jg4JdXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Azem Palace",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZt4wIOwHQja3wimCY5YVQsHnwKhkyiIB3hRcq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khan As'ad Pasha Al-Azem",
+                "category": "Historical place museum",
+                "url": "https://www.facebook.com/Khan.Asaad.Basha/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfTK_v0mqKhFQy0_QSg4EGZBRZmciIZd8KyWXf=w148-h148-n-k-no"
+            }
+        ],
+        "Tadmur": [
+            {
+                "title": "Temple of Bel",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCNHZVF5rHcqTlpJTvjS-ak6KBZhp-WvObJeZP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arch",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJW210Fx8GvgHoxj-FxzmFuguBc72VEfDk9LM3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temple of Bel-Shamin",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOM7wEJ70E6zek5bPbi3Pop2Ydm1hB_4DDm5jfn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Palmyra",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOA0w-49bedS7vIuF9eA1L5H3g28asDeoS_U7dr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Qalaat Fakhr ad-Din al-Maani",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNShqoOyxXBcT9MpVRtdI9Vl0NovjfdSMlUzm_s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deir Mar Musa el-Habashi",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcJZUdBthxBhJNctxvYXl96j1p5J_bKJ629mT_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maaloula",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdZ95fLJzd4c7I1UjeethRq9rHEwmE2zCoLMs8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastero Saint Takla - Maaloula (Siria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLGFxYeUjQ1aUfu89nmKh-q3i_pmn5MOxp-aLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krak des Chevaliers",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDgmlW9cAkM5ta5rh7gRpKIajKD3Q9bpjcfQ4r=w148-h148-n-k-no"
+            }
+        ],
+        "Deir ez-Zor": [],
+        "Kabbasin": [
+            {
+                "title": "The Umayyad Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBWE8Re-HerQNTTZqOcJTBMQG8JwAufi00BSfV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSbnbuR6HFW9f8Q-sPcxyp86atpT-2LjWNxRAw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Halawiyah Madrasa",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3IaJxWzgZIizEqp4gxK3XzV6E7u9zsAnmfEgi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bab Al-Faraj",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYuf2uAggOV_6tS7Who4NmW8fIeoNmyDqpwna5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjLAGPqbnzmxty76n5cp26GQi92MV3IlV0Tfm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aleppo Citadel",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXCn0ZPt9T-WUP0UXAvFpzWYVU3QH1ewXRXvjU=w148-h148-n-k-no"
+            }
+        ],
+        "Dārayyā": [
+            {
+                "title": "Damascus Citadel",
+                "category": "Historical landmark",
+                "url": "http://www.dgam.gov.sy/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV-AXUAS3Cd5hU4yhITpv_WKmW0fpJDn5CKVtD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khan As'ad Pasha Al-Azem",
+                "category": "Historical place museum",
+                "url": "https://www.facebook.com/Khan.Asaad.Basha/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfTK_v0mqKhFQy0_QSg4EGZBRZmciIZd8KyWXf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Busra",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_nh_aPo1KnLKpwbCZEVJgIMHBj1_8LkCTSM35=w148-h148-n-k-no"
+            },
+            {
+                "title": "Umayyad Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpM5GAcKFC0qNqnEqSjIUfDYiVOAL3tPWkaYI_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monastero Saint Takla - Maaloula (Siria)",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLGFxYeUjQ1aUfu89nmKh-q3i_pmn5MOxp-aLx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Deir Mar Musa el-Habashi",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcJZUdBthxBhJNctxvYXl96j1p5J_bKJ629mT_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maaloula",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdZ95fLJzd4c7I1UjeethRq9rHEwmE2zCoLMs8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tartus‎",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmcEfUzhdgD2pzNwajRRATMA9iVFO0xRzuc3NF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sayyida Zaynab Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvPnHHKYMvPmSHsA6d7X-exypTYtaZdapl2Gap=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al-Hamidiyeh Souq",
+                "category": "Shops and Shopping",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqvf_Epz9t3S9SZrzyg7OsztC3uLrYhClbUE6F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dar al-Assad for Culture and Arts",
+                "category": "Live music venue",
+                "url": "https://www.facebook.com/Damascus-Opera-House-%D8%AF%D8%A7%D8%B1-%D8%A3%D9%88%D8%A8%D8%B1%D8%A7-%D8%AF%D9%85%D8%B4%D9%82-221386104554396/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1NZub3JE58nHGpeIoW02Ycbkwh9EBx-BRQnvt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saladin Mausoleum",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipML3Bqhk-OCCMtzaIcvoGFVm-E7DUXI3G3Rosi_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sayyidah Ruqayya Shrine",
+                "category": "Shrine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaE5-WNIRb2BXTlbmiB6Z6jsppHLVG4Jg4JdXT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hanania Church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7A1pWC3BuiqgERGaoyTMg1L5BkQUUFPBs0r2C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krak des Chevaliers",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDgmlW9cAkM5ta5rh7gRpKIajKD3Q9bpjcfQ4r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Al Azem Palace",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZt4wIOwHQja3wimCY5YVQsHnwKhkyiIB3hRcq=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Damascus Citadel",
+            "category": "Historical landmark",
+            "url": "http://www.dgam.gov.sy/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPV-AXUAS3Cd5hU4yhITpv_WKmW0fpJDn5CKVtD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Temple of Bel",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNCNHZVF5rHcqTlpJTvjS-ak6KBZhp-WvObJeZP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Marqab Castle",
+            "category": "Castle",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOWB0w2GiA7GaPOg_QubOJNOGsR2fODeJ2F2dw6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Qalaat Jabaar",
+            "category": "Historical place",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNxNaSgHQqMSjtao13ODfjyrMgVsn828LSzKTt6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sulaymaniyya Takiyya",
+            "category": "History museum",
+            "url": "https://wikip.one/2ayTD6",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMTE5tFboj1RjJMIK3H4EKm8ZQeT6Ady06P6Sao=w148-h148-n-k-no"
+        },
+        {
+            "title": "Teatro Romano - Sito archeologico di Bosra (Siria)",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMdgTk5SrakXgZik4_G9PYuPxbTWz3l5OYre2DP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Al Buzuriyah Souq",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipONq95zsykwICeLzNeCnYPkynw9hdX0jF4-vgqP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Aleppo National Museum",
+            "category": "Local history museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMV2Qqm5r6pqChK2Qxc8X2qdmfdvKngyIOyX4rN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Qalaat Fakhr ad-Din al-Maani",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNShqoOyxXBcT9MpVRtdI9Vl0NovjfdSMlUzm_s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Arwad",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM_bdXi4oQpHwLXoSTR3j-ZB7nBD5Br6aDDrVUR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Syrian Desert",
+            "category": "Historical landmark",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPVSyoXTeiHPKaFG_LTHS4GLLWb3wHesBA37hLb=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museum of Palmyra",
+            "category": "Museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOA0w-49bedS7vIuF9eA1L5H3g28asDeoS_U7dr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Barada River",
+            "category": "River",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMUctg8u2Q0ic-ZO5SutDSrADxzcio6Cj1MwT7F=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Qasioun",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOtRGDnVLECg3Myh2z7Ae25N-Ya7i3yBbZdQy_c=w148-h148-n-k-no"
+        },
+        {
+            "title": "Damascus",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPK5WsmQSlGnSzzZejjZnJhnAli7c8knN_Oi0l6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lattakia",
+            "category": "Administrative Area3",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPOwFeyJ9sBjLtM1BM5yrTb2Tfek2LEonlaXOtH=w148-h148-n-k-no"
+        }
+    ]
+}

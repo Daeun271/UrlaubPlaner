@@ -1,0 +1,1425 @@
+{
+    "cities": {
+        "Quevedo": [
+            {
+                "title": "Museo de Quevedo",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzV6MoQav4pke_mvyWcLifFmb3hNCR3betVx25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malecon 2000",
+                "category": "Tourist attraction",
+                "url": "http://malecon.org.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOazGATJjziOBAoOkbI3sxWH4cRXAx2gR0eIowY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio 7 de Octubre",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSqhE2fk115E-915Yr1Hlq8pZ10L2tsrshr32r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galeria De Arte Rier",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2PiDivQUFdvWVXu_j_VGL60crJA2hnrEHN6bd=w148-h148-n-k-no"
+            },
+            {
+                "title": "TelefériQo Cable Car",
+                "category": "Mountain cable car",
+                "url": "https://teleferico.com.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnJ4w22tImaCH5riog30X9kv2wfYDyNoTBj2sN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Intiñan Equator Museum",
+                "category": "Museum",
+                "url": "https://www.facebook.com/museointinan/?locale=es_LA",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMvpXPLi5YiW4zQmRh7QM288-ErybRkawkhO7R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Society of Jesus",
+                "category": "Catholic church",
+                "url": "http://www.fundacioniglesiadelacompania.org.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrOGshpughFhfkP599_yfqwQ-MLxltBIJPJSYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Ecuador",
+                "category": "Museum",
+                "url": "https://www.culturaypatrimonio.gob.ec/museo-nacional-quito-provincia-de-pichincha/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOS3RuocZEaFNWdvXTs3_5TZhQBNI0JFgEI_rCZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Cajas",
+                "category": "National park",
+                "url": "http://www.parque-nacional-cajas.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaZs9R9Cw4TE67dEKsQlFGTwCUbdOYhfCWm2F7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Middle of the World City",
+                "category": "Monument",
+                "url": "https://www.mitaddelmundo.gob.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKgY6OMWjWn6WXY9nohtUCZLe59-PryWbyP-BR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Presley Norton Museum",
+                "category": "Museum",
+                "url": "https://museos.culturaypatrimonio.gob.ec/redmuseos/index.php/museos/itemlocales/itemmuseopresley",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNnw79F5UbYpdMmGGtBk-Sf71OdwSPxH0aXwu2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estancia de Don Vicho",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPSBQM7_hSkIJ9SwEpUbR1XTgTfBU1hLh2SuRb8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old town Quito Suites",
+                "category": "Hotel",
+                "url": "http://www.oldtownquitosuites.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/my3Cq2qx_jYucdChvAEgvD1G0Y6milijGVmiBO8YDIRzgofMO-O1Q6HsDe5GtHcfIBX3bMOt9jxbKl7NyXCnT1eICx7cEQ7LH2vTW5tdUNh_uGOUvoIizHCirsi_E-A1LtOZlC4u050kSO6bL_qsVu34uFyPgA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quilotoa Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS3HfCjd4VKeoa8xw1KFipIw4-CfmEls-WljaS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Templo del Sol Pintor Cristobal Ortega Maila",
+                "category": "Museum",
+                "url": "https://www.facebook.com/MuseoTemplodelSolOficial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeups8IxNop-Vd2iuDXVNxdCzll5SUi2c6qYTN=w148-h148-n-k-no"
+            }
+        ],
+        "Cuenca": [
+            {
+                "title": "Calderon Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxFc2k0V-DTN5XWIes23alyJp8EECjbeD_vhm3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pumapungo Museum",
+                "category": "Art museum",
+                "url": "https://www.culturaypatrimonio.gob.ec/museo-y-sitio-arqueologico-pumapungo-provincia-de-azuay/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQZSywJqXa3Ems78joUUcq4rMY1zTB8SHblqvA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de la Inmaculada Concepción",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwTWs2JgsV7kW6-5V_G_u7Bk_ATHB-IluRB7q0=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Blas Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6mAtnamt6DcEMm1T_LBTt9KIvoDKiVQlFofuh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puente Roto",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEowOR8emniTQbASGcRJDMZQNHa56-syGARMhR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza San Francisco Cuenca Ecuador",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPHMxeIA9LqYu1JJSCOiig8ESCMHeAbMcblpwQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mercado 10 de Agosto",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzlSf1q9mwJJ-LTi59-Ai1Nk_NDE518byomD4Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amaru Zoológico Bioparque",
+                "category": "Zoo",
+                "url": "http://www.zoobioparqueamaru.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVdtkbQj28Irek4IQ0XuriOKBosA-L93OgbyvB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza de las Flores",
+                "category": "Flower market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp0wFQSq1DteS78jFqR8cTOi9DlpOTTzk6O_Ga=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Cathedral of Cuenca",
+                "category": "Catholic church",
+                "url": "https://www.facebook.com/museocatedralvieja/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuh-8A5MjUYEWe4CLn3cmuMJOfsA9Ju3Am-ce3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Homero Ortega Hats",
+                "category": "Museum",
+                "url": "http://www.homeroortega.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcyhr8edYcxWV-8L_tpph_ALL-fBABv2wE9kCc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador de Turi",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4MNOxXBJBP-viS0gyMsGKcfT4IgfCnt7r607m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Free Walking Tours Cuenca",
+                "category": "Sightseeing Tour Agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBlrAbVtae0ETLrkoO9H7bBlWYAKlz-ldaF916=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel Cruz del Vado",
+                "category": "Hotel",
+                "url": "http://www.arthotelsecuador.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqtx8caHEBIrFBLgy3uNhonPj1WT3JRNhfS_pb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo de las Madres Conceptas",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfz7A-nVpK93b2x0A2ROza1RZRtPvKdrL8f1Fb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colegio Benigno Malo",
+                "category": "Secondary school",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMG-hJaZeJa6MI_er9PBfB3sqIwUzAcPwfVyb9s=w148-h148-n-k-no"
+            }
+        ],
+        "Manta": [
+            {
+                "title": "Malecon Escenico Murcielago",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWPnbgMPoVjv4Wz4QnyMbFfcNCVEzHvddv1XF-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Terminal Portuaria De Manta",
+                "category": "Fishing Pier",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5KoNx8Bd-vdG98qIsIsqXv_VxfxUtkjIaYSdw=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Murcielago",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs-ms6-coNlXbniOXfRp0ESMNBdBY2yqGcUuVu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Tarqui",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeyjKANYZE9CfmQ793UfPOEMoG04DAC6Xsp-xR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barbasquillo",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIFWpCSt9r2m-P1Y_vfoXOLEJYgN2hirRJn7Nz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Santa Marianita",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRJBBXdE5V4_LCveqIkgbQYKBCH4dzxvEh7gTz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Civic Center \"Ciudad Alfaro\"",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsmEECFGp6M6F0liUFOREzMRExkSWmaq_QhR34=w148-h148-n-k-no"
+            },
+            {
+                "title": "Madre Fuente Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxPvNDcvzP2sLmdSjgEKGvy9SgeSzxsdOzx1Z8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa de Tarqui",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnlM-nhiaZt7CxlxmtnenSwsJFIVNfF5rSk42q=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Mateo Beach Hostal",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLoA4Wo8PPS9TwicQiqnWHPfAvVhx8P30sZlTg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Cultural Buque Azart",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNhv8DCu_yWxZ7UryAbbd3jMS_sKu_4goSfLK_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kite Ecuador",
+                "category": "Adventure sports",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKWsIGcjKAZ_ieu_N1e1FzjUyYZycYFNBfcFXp=w148-h148-n-k-no"
+            },
+            {
+                "title": "PLASTILOPEZ Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrMqrCAbF2-QBVN2A0AZ7hilBQ56TvTTf4ymeB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa San Lorenzo",
+                "category": "Free Car Park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTkxov-0B0fVW_e23RqSRObdbfJykX7t0GmUE=w148-h148-n-k-no"
+            }
+        ],
+        "Ambato": [
+            {
+                "title": "Cevallos Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxMb_sp9S5f2LpbbQhJkJfeSt0IxX7GH-E6eHb=w148-h148-n-k-no"
+            },
+            {
+                "title": "\"Andes\" Shopping Mall",
+                "category": "Shopping Centre",
+                "url": "https://malldelosandes.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-R2a56BTof6hII-PE3uENCDkRXgSlkusOeBah=w148-h148-n-k-no"
+            },
+            {
+                "title": "complejo intercultural y deportivo mushuc runa",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPn_kr90gXpE82EGAjzv5_23VwbWwQrQgX7W-ef=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quinta de Juan León Mera",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSpRQZuNxYYgnCRPgt4EGh-PNWDwFd4S7Emqj7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdDlVpOa8Af5a1VspEFMYR8nU9rK1GQr0GB104=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basílica del Voto Nacional",
+                "category": "Catholic church",
+                "url": "https://www.facebook.com/profile.php?id=100066717811328",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOumtpt6mL4cGsVDeQTuz_1le845F06UfblNmQh=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Catedral",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPO2CAcU8Vik7A_7HgIfFw7cw7piBvdqMG56m9a=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Francisco Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh6.googleusercontent.com/proxy/N1pWIHzz4Jrta96cS0C6nujVzYN3bp0mAYVde8rkhVNaqEwhkhtB5hee-EuxZnbqd1Mtz4rI_eKWX6nwij9phMGecgbLNi-pAuoDTtaNFu5lvOXr3oOtli44PK7RKPY5o59sLI2ccuFYAXEkojLuJTYsVtXAVA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Provincial Park of the Family",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyMANfHSv-eFXdyrJrpSyY8xonrBvn7YU6AffR=w148-h148-n-k-no"
+            },
+            {
+                "title": "GAD GUANO",
+                "category": "Museum",
+                "url": "https://www.municipiodeguano.gob.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL48y4PEf90H260YEOLsuJzcB5jIM4o_z6BYZ0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muristour Expediciones- Agencia De Viajes",
+                "category": "Travel Agent",
+                "url": "https://m.facebook.com/profile.php?id=429514867108280&ref=content_filter",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWL0HWsajceEO9qw8lOASpwPk3-naPnRnEA626=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanical Garden Atocha-La Liria",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbmaRPx94oCt_stkZaPR7sM1upLkmkDLpyiCi9=w148-h148-n-k-no"
+            },
+            {
+                "title": "AVENTURA SAN MARTIN Park",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_KRjhRzf-01ElaePc9in4HSW6hKu2FjF78al8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Montalvo",
+                "category": "Park and Garden",
+                "url": "https://tungurahuaturismo.com/es-ec/tungurahua/ambato/parques-plazas/parque-montalvo-ambato-ag8y02jp6",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj0vAww3HQsnor3eW3wDB-YGsNZ4KZoj6_ptPh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chimborazo",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOyJxR8naUVuPGzeLVDIYGQLgtnNQe3LxuiQckq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia Católica del Barrio Solís",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkRhLkPuZ611IXbmpU4pqAZvUFTHb0xK8Rylpf=w148-h148-n-k-no"
+            }
+        ],
+        "La Libertad": [
+            {
+                "title": "Sunset Park",
+                "category": "Amusement park",
+                "url": "http://www.istu.gob.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORknC4o3fhcfk2scQvXABEqM9RzU7kHjLxbJ1G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa el Obispo",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN08cYcXyI07dLXiqznhx0R1mi0SkdeSlZ-ns1V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa ''Punta Roca'' La Libertad",
+                "category": "Tourist attraction",
+                "url": "https://surfinglatino.com/olas/punta-roca/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkQYoYIcaFMenpVMnzoO-DER_-8TT-ksa0dwBU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Las Flores",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-_2aGv-GcsFlLHLT0DCSerKGrP_Q4-vCMnyGl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to the Divine Savior of the World",
+                "category": "Historical landmark",
+                "img": "https://lh4.googleusercontent.com/proxy/ZiV6z-rTwtIAnFWsfBfTNvETHFdL36pocpXkE4DRnk8QC7KccyzootcXcAYoZNtXHCPHqUH56caQ48yYD6e1z9cHlBDnGZ4zRnPhpDiEvRAgT9OQCkBtu5aPhiohKehwR3djMbRP0FBJV9pdRbx8uXZzImE9Lg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa de Conchalio",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8bJM3cg4gfE7mWdU7E3AZ37kA8utX25lnH_us=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Gran Via",
+                "category": "Shopping Centre",
+                "url": "http://www.lagranvia.com.sv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKFJquVRGwiYxX0olMI3N9g3UY4ZMBtQEJGp3o=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Libertad",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDn8qv9uESX2lw8-3bNRIvxjer9_WPyDBfLRw7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cinemark La Gran Vía",
+                "category": "Cinema",
+                "url": "https://www.cinemarkca.com/el-salvador/?tag=784&cine=el_salvador_-_la_gran_via",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN47763IRI1H8u6S40J_GhhwUMWkCnHjiIW00ZU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa El Majahual",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtXHD65zKkZQjXx8aCJwESBqi50Q06R6XajZWc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque del Bicentenario",
+                "category": "Ecological park",
+                "url": "https://www.elsalvadormipais.com/parque-bicentenario",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxM9Xd0Ym-CyDTgJv3C2qYXprcePqAOV3LJJ_j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Walter Thilo Deininger National Park",
+                "category": "National park",
+                "url": "https://www.istu.gob.sv/2020/09/parque-de-aventuras/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNM9UBczdOzAT7WD7d2meatUqMrwmCr9GioYC7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Water Park Ichanmichen zacatecoluca City",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCkCiZ5ZMfHH8Gigilo-P0TOD6hmOfWDXc4u1m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia El Rosario",
+                "category": "Catholic church",
+                "url": "https://www.facebook.com/iglesiaelrosariosv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPh3VfAuAGc-V2NDxBl1p3MTf3m7P57CyIikre7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa El Sunzal",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZMHNOai2niss5uN4cr7L6Isp19HSJIxxDW0Lp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Antiguo Cuscatlan Central Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuZPriZOMxi8jTufRyphK3FqoWKeAhJxLKgCgn=w148-h148-n-k-no"
+            }
+        ],
+        "Babahoyo": [],
+        "Loja": [
+            {
+                "title": "Parque Recreacional Jipiro",
+                "category": "Park and Garden",
+                "url": "http://loja.gob.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOqNThtjxYxWU6MJuHJTLo2vZkNRtckdahfNU1r=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral Católica de Loja - Parroquia El Sagrario",
+                "category": "Catholic cathedral",
+                "url": "https://facebook.com/CatedralLoja",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZKztcNB5DrUZmOIwfXgYe1HEEFIi0uHWkjmoF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Market",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxnr26USjx8DtEIAdWHgjRELcGiSVsnU1Lx27P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gate of the City",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBZuHKbgcq8bXqBhdtGsaSB-o890slrjnbi4RT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zarza Brewing Co., Loja",
+                "category": "Brewery",
+                "url": "http://www.zarzabrewing.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMo8pCDjVed6M4tLyF9JE0oyrL9YqclzihvCqzJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square \"San Sebastian\"",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuUI17rhBs0jq7CcMn2UI46bci8B8kz_nsaqJq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Calle Lourdes",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFCOwOebxSADcwiem1MfZH8XJjRGj37IuRAydI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Lineal La Tebaida",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs9cAz_s68NNqlmYeY544U85p39IYvhAHzSrpb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loja Zoo",
+                "category": "Zoo",
+                "url": "http://www.loja.gob.ec/contenido/zoologico",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrYm8Vhe5NTSIeccL8JR6FHjPdeWetvGmCORaK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza La Pileta",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHpKtl9wAWfMF58M6TcJF0Z7VRY7YXClN4Xqqz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Podocarpus",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnCpPPiTiHTxA0SsJPa4V4u4ZI6oRmsoDHyg2z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wind Central Villonaco - CELEC EP GENSUR",
+                "category": "Power station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFFh44UGbtS9szhNY6K9j1kuGcbFxtV4Ra8cTN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Federativo “Reina de El Cisne”",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSgbAnYRzeoKqJ82vafB_s65NExOGDleva1ljE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catamayo Central Park",
+                "category": "State park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1joSMFbiTs2Mfnm1dPjMJKS2V8KLfU0D3xwe6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yacurí National Park",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFQUT0jaWvpiscReCNwfJmbjXxw62MRvKFs0B4=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Cisne",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAPMzbhUYBn3tSLRR5cxKn1zs0axawFvz79lIa=w148-h148-n-k-no"
+            }
+        ],
+        "Riobamba": [
+            {
+                "title": "Reserva de Produccion Faunistica Chimborazo",
+                "category": "Protected area",
+                "url": "https://instagram.com/rpfchimborazo?igshid=ZDdkNTZiNTM=",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOii8RDRqiCsz_MWYQbUrwALqm2F1kvjk4uSsc1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Sucre",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkOhEUF64PEi4q1eDAiKcFMBofG-JOj9OzYOQ3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maldonado Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNN_dP-Zto4M-60zSW2Zhy7cQ5M8Jt6JkteFL1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pro Bici",
+                "category": "Tourist attraction",
+                "url": "http://www.probici.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPCV53fGLDdX3jo2hmk9wGbSVlC9G-k1niqAay=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna Condor Cocha",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxzXCyq1pSztqUyR0lr9VfxTxU8u5JoKpwHMM6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Volcan Altar",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPU1YVaOuSpLRZwWTRq47njimDaiWq08_KUTWYh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Primera Iglesia Católica del Ecuador (1534) - María Natividad de Balbanera",
+                "category": "Catholic church",
+                "url": "http://balbanera.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCXzJCJeLorKr_qGJnmlPWMtdw-G3mzxLIWC-_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque 21 De Abril",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgy0PwsAo92dMFHSSMEfem5xiQh-b1C5nMK7Ko=w148-h148-n-k-no"
+            },
+            {
+                "title": "Julio Verne Travel",
+                "category": "Tour operator",
+                "url": "http://www.julioverne-travel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9024XeZENdDDGdA9X1r8aQJiXM3_I7-BKkViX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna Colta",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOc8Vzoc46vJgK9KcjU0jvyWDILi4AdUVvtjsKT=w148-h148-n-k-no"
+            },
+            {
+                "title": "GAD GUANO",
+                "category": "Museum",
+                "url": "https://www.municipiodeguano.gob.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPL48y4PEf90H260YEOLsuJzcB5jIM4o_z6BYZ0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lagunas de Ozogoche",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZUPyrq5xAJ0SlaV_4kowmmXVyC-epzEnBBjeq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Volcan Sangay",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmlHCEKomLdTRFr8FRtRaJBd59r_jeYWU5j_PR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque de los Enamorados",
+                "category": "Ecological park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPNyruk9_iFL3ohRW_g3ZsQgViiTTBWERZ8UdFv=w148-h148-n-k-no"
+            }
+        ],
+        "Ibarra": [
+            {
+                "title": "Plaza Shopping Center",
+                "category": "Shopping Centre",
+                "url": "http://www.laplaza.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFTkTzpSMTLILZc4Tu-JB81eV_TQYV9ZCRQe5B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yahuarcocha Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHvZobCct0GaPHYPpb1YwIly4fk8OyAEUi90GV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Ciudad Blanca (Céntrica)",
+                "category": "State park",
+                "url": "https://www.facebook.com/parquebulevarcentrica/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWJw7A-8TFeyHy5kzH3Ko8BlvuCzi9vnYS5pcR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque La Carolina",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6DOTT9sSAL4kmQB4gUXEHyJm9SuqvIFcWABH9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basílica del Voto Nacional",
+                "category": "Catholic church",
+                "url": "https://www.facebook.com/profile.php?id=100066717811328",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOumtpt6mL4cGsVDeQTuz_1le845F06UfblNmQh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdDlVpOa8Af5a1VspEFMYR8nU9rK1GQr0GB104=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pedro Moncayo Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjiOlcK448ByAlxRZVnfE7alxeJXu-2_PlXQ5p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mirador San Miguel Arcangel",
+                "category": "Observation deck",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnf1U3PprckIvzOk-KZUsqYBUO6oT0RsTKpLhD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ibarra Olympic Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMK7gPYPoc-5v64xbRxEHHDZXo8kl-psxYqR9W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro Comercial Laguna Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzBTaKaDORlkB_zpvx1teMlVfbATduZbfpWpgR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna de Yahuarcocha",
+                "category": "Tourist attraction",
+                "url": "https://www.rutaviva.com/ibarra/yahuarcocha",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWFS4HmPo-Dm5VS8s9waqopSYZ46H5-3tfeGqM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Nicolas Herrera",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN65VqzWAx8mXwTYEWnpVYPf4k5JTiyg72DlQW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Peguche Waterfall",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhAzGc8O2EXdVmB_PVRrkznhwiWqn-nY020Qj_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Middle of the World City",
+                "category": "Monument",
+                "url": "https://www.mitaddelmundo.gob.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKgY6OMWjWn6WXY9nohtUCZLe59-PryWbyP-BR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quito Historic Center",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzIm_p8lGDb0P0YjjZwt7LpYQjk-cLsmOEJSug=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Bank Museum - Ibarra",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXrB5tst5IdnQ3AL-0qt8w55To5YudtE1Yo4jF=w148-h148-n-k-no"
+            }
+        ],
+        "Guayaquil": [
+            {
+                "title": "Malecon 2000",
+                "category": "Tourist attraction",
+                "url": "http://malecon.org.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOazGATJjziOBAoOkbI3sxWH4cRXAx2gR0eIowY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samanes Park",
+                "category": "City park",
+                "url": "https://m.facebook.com/parquesamanes",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXMCJGUYgPe8WA5eEuNnb3PEkBez2GRDMEtsOf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Seminario",
+                "category": "Park and Garden",
+                "url": "http://www.guayaquilesmidestino.com/en/squares-and-parks/downtown/seminario-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOE8Pa9Kz27qnWYLSjLoA2AtjrnqLDUNkBoU4II=w148-h148-n-k-no"
+            },
+            {
+                "title": "Banco Pichincha Monumental Stadium",
+                "category": "Stadium",
+                "url": "http://www.barcelonasc.com.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNW291LVlxarUttJWmWpCClKMfCPg1K_Xd72ue2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Capwell",
+                "category": "Stadium",
+                "url": "http://www.emelec.com.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoa9bm7lJ6W1TMSpTJBQj80TS7bGiLGPdEHrqm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral Católica Metropolitana de Guayaquil",
+                "category": "Catholic cathedral",
+                "url": "http://catedraldeguayaquil.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnhNu9MuwJMFy9PYk4u-x1wpiUk9m0vGcOp0jB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia de San Francisco",
+                "category": "Catholic church",
+                "url": "https://facebook.com/sanfranciscoguayaquil/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJC4zcFUg7GR7UmuX7Va3i25oA5a6ErLEUsqcJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guayaquil Historical Park",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbBJqHNl9RpWrM7qVN1J-jiwvcbM7U3f5UV14S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malecón del Salado",
+                "category": "Park and Garden",
+                "url": "http://www.malecon2000.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTuq3VlOq31JdrusTLeWQDd548GuCe6NSp7BTR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Centenario",
+                "category": "Park and Garden",
+                "url": "http://guayaquilesmidestino.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIyzktohADfAYnhnX8pjC0HUN4A_5AnMLv2HzJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Guayarte",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlYAle8vcEJhtGi-dwpH-XO3U6tbkG2XmVHPUm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Crystal Palace",
+                "category": "Convention centre",
+                "url": "http://malecon.org.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRnjtV4-US5rSXLnxwRQX-5JemcRqytNl7gvyA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Antropologico y de Arte Contemporaneo",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzhUCPDKaOZrv4wmvFKHj03Hgjpyw6OO9GOe2n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bosque Protector Cerro Blanco",
+                "category": "Nature reserve",
+                "url": "http://bosquecerroblanco.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM84oSmgbDQwkUYnG3w6_sNT2rx15XDgs4P1bL5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basílica Menor Católica Nuestra Señora de La Merced",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpKwihnxF_Um9e2gpWOiZG9pky83aLBMWkfH4U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Lagos",
+                "category": "Shopping Centre",
+                "url": "http://www.plazalagos.com.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjN78O1WWhSYxCrqVrEiz4BC_Wn5s2_f4jjJo8=w148-h148-n-k-no"
+            }
+        ],
+        "Machala": [
+            {
+                "title": "Zoila Ugarte Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdight4LGSr65PxN9wcGVUKsFBTUH0IXiLKr1K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Colón Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOn6Ve5zcVX3yh_KWe73Af5zaoDt1B-O_cmG2_S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Lineal",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQVERZsjpp9WOqAFaYvcgEqXSWsLt-OU8RDQ0Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centenary Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlDbsbAv59rI1G46hRZNZ_zuNHH6kmHjYoitW5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio 9 de Mayo",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuJa-zBXgOo4uZnqlZXmS-iekaXqsFE4soI7hr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skuisyto Cocteles",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTLaf-DCuFBOUcAlO9B5JvjPCWGDlvUXtkPC9J=w148-h148-n-k-no"
+            },
+            {
+                "title": "S.O.S AUTOCENTRE",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkJyo5YYP44se9KwVRI7V9Lr_wvJERM8zCZqnq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monumento al Bananero",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-0OpecGYvAm4uEE9W0D8yA7Ntn2NNTvOvoCO-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Infantil Acuático de Puerto Bolivar Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPoqEdT4E7_qJ0Feup6YxghQMedQwVv8MqJIKS1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Picapiedra Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsoFQEYN0-p4eOa4JxzqiGE-pPBiqdYmP05JVD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iglesia Católica Nuestra Señora de Chilla | Machala",
+                "category": "Catholic church",
+                "url": "https://facebook.com/Parroquia-Eclesiastica-Nuestra-Se%C3%B1ora-de-Chilla-Machala-108353667568244/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOatj6-WslanZcN_AGaW9KdKMoufXwCsDtG_6kU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuenca",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyXo_rsi_SCB41dYg2Khvd1l8s-oe9rtJj4lWp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Salinas",
+                "category": "Locality",
+                "img": "https://lh4.googleusercontent.com/proxy/3PNv2BsPZyvZ2edbJiH49jusc6CXxNDxVeOZ5XvAmTJoybKGSGtC6C2w2kiO_IQjKlCdmePBZQ5HhyWb1xRIeEiXB7p7dk5GcfzN9S3a1NF9jgEP4u0auLWuRFK19PW-v4slxhar8Rk0ufG5WtkJdp5EzyOfTA=w148-h148-n-k-no"
+            }
+        ],
+        "Eloy Alfaro": [
+            {
+                "title": "El Pailón del Diablo",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAhSuJB9-Um8QMHr36MGoDh3NWiKylKVp8zHvf=w148-h148-n-k-no"
+            },
+            {
+                "title": "RUTA DE LAS CASCADAS",
+                "category": "Sightseeing Tour Agency",
+                "url": "https://ivagatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO48KfaQ2gmO3SX39r3ytbnE0KW8CdmNv0pmXMu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Montanita",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1W7ipcET9bMvYMfgOwz1Gu48yV137_nvBcSmO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plata Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvcECeYfvNd63PvEbqaTvnPvVwYAcPn1lsODIE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malecon 2000",
+                "category": "Tourist attraction",
+                "url": "http://malecon.org.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOazGATJjziOBAoOkbI3sxWH4cRXAx2gR0eIowY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amaru Zoológico Bioparque",
+                "category": "Zoo",
+                "url": "http://www.zoobioparqueamaru.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVdtkbQj28Irek4IQ0XuriOKBosA-L93OgbyvB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Santa Ana Hill",
+                "category": "Elevated",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO5SfLw8ysB6_x8AR5rPsYYuDdh6PZJyi707K9e=w148-h148-n-k-no"
+            },
+            {
+                "title": "CASCADA EL PAILÓN del DIABLO",
+                "category": "Tourist attraction",
+                "url": "http://www.cascadaelpailon.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpjlCo3rUxlPldB-7dVKLFKa4r-R8FnZlwNubu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pro Bici",
+                "category": "Tourist attraction",
+                "url": "http://www.probici.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPCV53fGLDdX3jo2hmk9wGbSVlC9G-k1niqAay=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guayaquil",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPUb4ArmCHwJ7hqGyr7ojqmKfP9x7LRBnPu3a6d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Banos",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuJK4u0iVos0wsIMrEP0bKSFYuQP38K6qguydG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral Católica Metropolitana de Guayaquil",
+                "category": "Catholic cathedral",
+                "url": "http://catedraldeguayaquil.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnhNu9MuwJMFy9PYk4u-x1wpiUk9m0vGcOp0jB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cuenca",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyXo_rsi_SCB41dYg2Khvd1l8s-oe9rtJj4lWp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Guayaquil Historical Park",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbBJqHNl9RpWrM7qVN1J-jiwvcbM7U3f5UV14S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Cajas",
+                "category": "National park",
+                "url": "http://www.parque-nacional-cajas.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaZs9R9Cw4TE67dEKsQlFGTwCUbdOYhfCWm2F7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de la Inmaculada Concepción",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMwTWs2JgsV7kW6-5V_G_u7Bk_ATHB-IluRB7q0=w148-h148-n-k-no"
+            }
+        ],
+        "Esmeraldas": [
+            {
+                "title": "Malecon Las Palmas",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRWCzbqdXMtO6ufl9h7SN657BaWQqH9SMLcqpw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malecón de Tachina",
+                "category": "Community garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNaisfQKoRPY6eSrPryxkLhptIaUX2VW7yaqx1o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Central",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhkSMzJzQ8Dg2G-uGLfYvwHugvRe_KCauDFf7f=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aqua Park El Surillal",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdqfNq4sLJ6UscxQW44fTIWdyuB17pgZlwRdKa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Folke Anderson",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPUKOa5KpE_wd9Vbp7IC-jlqRzH7a2EVzpZLNb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Infantil Roberto Luis Cervantes",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwY31TBVPzONsaYuLtulxQB0RxuS5WoqAm0Sg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa de Mompiche",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQS7eknv5PS2NYKsrmgt-F-9WF-6fTiVt-r-fS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Isla Portete",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCe1lS9a3HQ9QYE59HNSnYoafN7_6wCD3NINdA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mompiche",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6usHQpyEvrVPpBPJSkAUV5GJ7GmgtfIbc1Iug=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa de Atacames",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnf3Csld_yvbdL4D0rUMXrhvV1xqc7XbBQLZfb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Regional de Arqueologia",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6TnsYmFrpoYkxyImerN2G-yqgpmChR8VjH0Wr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cotacachi Volcano",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMutrC4DMw_LRoQTgI6Bgo1PSRkpiaMsAsiYjzK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las Palmas Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIFV0bDzPPYdTWIvm8sXoeWVwJQIYYlyDQHH3W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa De Tonsupa",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOj7aIgn2lcxdsJlruzU0dikVtukyRmPmtkNzbO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quininde",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXoBYqU66lS_K2XOr7TCWx4KRqlnvTcJgEW68f=w148-h148-n-k-no"
+            }
+        ],
+        "Santo Domingo de los Colorados": [
+            {
+                "title": "Supercines Santo Domingo",
+                "category": "Cinema",
+                "url": "https://www.supercines.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQ5erA0u_BwNCVXn6NDgRIOP64pSTN7gd6VIys=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juventud y la Familia Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNLa9cNWi3t0WmrnJwDsbhBrQ2A7dujpaNUySmi=w148-h148-n-k-no"
+            },
+            {
+                "title": "PARQUE ACUÁTICO ZEUS SPA",
+                "category": "Aquatic centre",
+                "url": "http://www.zeusspa.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0tpV-KOVejuRGO2y0Td-MWiS4CatuL6IPVPJu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quito Historic Center",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzIm_p8lGDb0P0YjjZwt7LpYQjk-cLsmOEJSug=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque La Carolina",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6DOTT9sSAL4kmQB4gUXEHyJm9SuqvIFcWABH9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basílica del Voto Nacional",
+                "category": "Catholic church",
+                "url": "https://www.facebook.com/profile.php?id=100066717811328",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOumtpt6mL4cGsVDeQTuz_1le845F06UfblNmQh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Middle of the World City",
+                "category": "Monument",
+                "url": "https://www.mitaddelmundo.gob.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKgY6OMWjWn6WXY9nohtUCZLe59-PryWbyP-BR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdDlVpOa8Af5a1VspEFMYR8nU9rK1GQr0GB104=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zoologico La Isla Del Tapir",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM1jU3XKpT_oyxbVbue0OUtZrx8DmyK-gInl2zK=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Francisco Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh6.googleusercontent.com/proxy/N1pWIHzz4Jrta96cS0C6nujVzYN3bp0mAYVde8rkhVNaqEwhkhtB5hee-EuxZnbqd1Mtz4rI_eKWX6nwij9phMGecgbLNi-pAuoDTtaNFu5lvOXr3oOtli44PK7RKPY5o59sLI2ccuFYAXEkojLuJTYsVtXAVA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Loty Rodriguez - Spa y Centro Estético",
+                "category": "Spa and health club",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-pfftYvwwukqmVZR3T3DwdEO11A74S2O50oZ8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Etho Vega",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxNJRa9pxtZxLcqor765MmChu5jF6x23tkWIcf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Finca Turística A Pata Limpia",
+                "category": "Sightseeing Tour Agency",
+                "url": "https://www.facebook.com/apatalimpia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPumDUoYYf2hNFajTI6ZR5BrIOP_ZBgCTvCWuC3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Awakenings Ayahuasca Retreat Museo Etnográfico Tsáchila / Fitseyah Cabins",
+                "category": "Retreat Centre",
+                "url": "http://awakeningsayahuasca.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMG9c9qFGAOTX5VQBeMg8s5R2fu0nLv43UIAO4P=w148-h148-n-k-no"
+            }
+        ],
+        "Latacunga": [
+            {
+                "title": "Tierra Zero Tours",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOp5K7DLMT6VGS6cNRmAfCRigO1f6KjyvwDKk9X=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tour Operador Earth Volcano",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNby14TMlOR1aNdm3ovGq967pMfAWQYhM0TpDKU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Cotopaxi",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4Wqw9ADD2SekzI5Z5l33cmXw11kQGSmxUJm3b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna de Limpiopung",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEpTaIn6XAOqm0U8LVh7u0PoVTSdINuiVBorrl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cotopaxi",
+                "category": "Volcano",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCQAC3Z-fOXxrmgbAL01sLTLkhGFDkypPbh8rL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Laguna De Limpiopungo",
+                "category": "Tourist attraction",
+                "url": "https://ecuadormitierra.com/lagunas-del-ecuador2/laguna-de-limpiopungo-en-cotopaxi/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzygxOAI72bHoEzw6XpVPZXW6ayz1VRUVkTm8=w148-h148-n-k-no"
+            },
+            {
+                "title": "INTI CHAKRA",
+                "category": "Horse-Riding Service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGBiOcN62Do4REwWe30vfbq9VBSAqTxXbrPzuv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Area Nacional de Recreacion El Boliche",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbQ0pm6yK-dSK29fxy0YxVfSXO6nra_POKvQtT=w148-h148-n-k-no"
+            },
+            {
+                "title": "CocoBongo593",
+                "category": "Bar",
+                "url": "https://instagram.com/cocobongo593?igshid=ZDdkNTZiNTM=",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWBd-kmlsOXn79p7a4vfG0Q0jpUBoX3FroRj5H=w148-h148-n-k-no"
+            }
+        ],
+        "Daule": [],
+        "Milagro": [],
+        "Quito": [
+            {
+                "title": "TelefériQo Cable Car",
+                "category": "Mountain cable car",
+                "url": "https://teleferico.com.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnJ4w22tImaCH5riog30X9kv2wfYDyNoTBj2sN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Middle of the World City",
+                "category": "Monument",
+                "url": "https://www.mitaddelmundo.gob.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKgY6OMWjWn6WXY9nohtUCZLe59-PryWbyP-BR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Basílica del Voto Nacional",
+                "category": "Catholic church",
+                "url": "https://www.facebook.com/profile.php?id=100066717811328",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOumtpt6mL4cGsVDeQTuz_1le845F06UfblNmQh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of the Society of Jesus",
+                "category": "Catholic church",
+                "url": "http://www.fundacioniglesiadelacompania.org.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrOGshpughFhfkP599_yfqwQ-MLxltBIJPJSYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Capilla del Hombre",
+                "category": "Art museum",
+                "url": "http://guayasamin.org.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO80dYlVIiRytTXzZChVM404l4SfixjzBXiRGN_=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Francisco Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh6.googleusercontent.com/proxy/N1pWIHzz4Jrta96cS0C6nujVzYN3bp0mAYVde8rkhVNaqEwhkhtB5hee-EuxZnbqd1Mtz4rI_eKWX6nwij9phMGecgbLNi-pAuoDTtaNFu5lvOXr3oOtli44PK7RKPY5o59sLI2ccuFYAXEkojLuJTYsVtXAVA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Intiñan Equator Museum",
+                "category": "Museum",
+                "url": "https://www.facebook.com/museointinan/?locale=es_LA",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMvpXPLi5YiW4zQmRh7QM288-ErybRkawkhO7R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque La Carolina",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6DOTT9sSAL4kmQB4gUXEHyJm9SuqvIFcWABH9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa del Alabado Pre-Columbian Art Museum",
+                "category": "Museum",
+                "url": "http://alabado.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWVNeYe3h9YmzUY7Tt7WCPkrpRSQt7qH99We4I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of the City",
+                "category": "Museum",
+                "url": "https://fundacionmuseosquito.gob.ec/mdc/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpA2C-2KQfpv_zruMIC4Thtf3pB_4_rfmXmts0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casa Museo Guayasamín",
+                "category": "Art museum",
+                "url": "http://guayasamin.org.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUt7Bm6CCJlNSU9-ljXibAzK_P-0nFDXtwuAQy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Quito Historic Center",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzIm_p8lGDb0P0YjjZwt7LpYQjk-cLsmOEJSug=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque El Ejido",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMaYUSbUNY5bKzJL3_YXInQ9hc8qLWKhmS9RCv6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Contemporary Art Center of Quito",
+                "category": "Modern art museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOH1bqVReduOJNqGl1yULn3EzjCM0ESpxR1Sz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Templo del Sol Pintor Cristobal Ortega Maila",
+                "category": "Museum",
+                "url": "https://www.facebook.com/MuseoTemplodelSolOficial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeups8IxNop-Vd2iuDXVNxdCzll5SUi2c6qYTN=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Mariscal Artisan Market",
+                "category": "Market",
+                "url": "https://artesanalquito.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMV_cbpFzKPENSiYb3m1XkL6GJ-oIbRnAyXkixn=w148-h148-n-k-no"
+            }
+        ],
+        "Tulcán": [
+            {
+                "title": "Tulcan Cemetery",
+                "category": "Memorial park",
+                "url": "http://www.carchi.gob.ec/turistico/index.php/vive-el-carchi/turismo-por-canton/tulcan/120-cementerio/206-atractivo-cementerio-municipal-jose-maria-azael-franco",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtcIXp51tGbprR42s0H9GSte7WLLW7b9r9dCrL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ayora Park",
+                "category": "Park and Garden",
+                "url": "http://www.carchi.gob.ec/turistico/index.php/que-hacer/ocio-y-diversion/229-parque-isidro-ayora",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV6CGzBpQqyAl7qCI_yG39kyKWRwe0ahMBCbPc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Recreacional",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtaTdrzqHXzrYp-a9N9W2eAKVhHhhEP4c3LzCf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaza Padre Carlos",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOw2TCPkB7VJZayMe_cifugGn0VJCZXTYMf2-Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "CAFE TULCAN",
+                "category": "Diner",
+                "url": "https://cafetulcan.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNSpUfo1ppDO2QoQaE_jU6bN8mEcqTENWn0a5W2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Olímpico",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxCdeDd06ZM8AWXOWuiyk3oxFRaT_zM7AbuVCH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gruta de La Paz",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOAuszS_vu8Yul57kCpMPKaebZZEkQaqUGkupq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boulevard De La Juventud",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY2w9h3TrRef-BK_MI2Ne5FV_X-PjpSdgjN-CF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bosque De Los Arrayanes Cuba",
+                "category": "Wildlife park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1cHR2nW3Ud9N7qal8UCcXdqpY6H3DPIddJa8s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unión De Las Dos Calles",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObSAoScgjttycw_4pWIyaQ3WlXWB7HXqEZL9ZD=w148-h148-n-k-no"
+            }
+        ],
+        "Portoviejo": [
+            {
+                "title": "Las Vegas Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKKcaOdXDX05-XBaTE_J1efSXvd0rX1-lQ3yfN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Forestal",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLPrP3JiKSxKVCuqZG2NTrq0Wqx9mzYxAb67aY=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Rotonda Park",
+                "category": "Park and Garden",
+                "url": "http://www.portoviejo.gob.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoF7lw1ikhr0OUtNnehAjx8wxm0yxELXStU3pk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jardín Botánico",
+                "category": "Botanical garden",
+                "url": "http://www.utm.edu.ec/jardinbotanico.asp",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBQLnLCSH37inyzLngw4_-08UaxS5ByvThUPSn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Reales Tamarindos",
+                "category": "Arena",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXynovIfuMW6cL0OnLie2SlQ5pIPMfC5-ws3iU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Hojas Jaboncillo, Museo de sitio, Picozá, Manabí , Ecuador",
+                "category": "Archaeological site",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORie2t9nqEcdgSMuZ7TdnjhP-x9I8vFKL_5kf-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Vicente Amador Flor",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdwl4nzj_M8KK1lLUChhJTGLrUaidKTsjte_2F=w148-h148-n-k-no"
+            },
+            {
+                "title": "Civic Center \"Ciudad Alfaro\"",
+                "category": "Cultural centre",
+                "url": "http://www.ciudadalfaro.gob.ec/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsmEECFGp6M6F0liUFOREzMRExkSWmaq_QhR34=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Trova Bar Gourmet",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP240UuKp_NmQM2etnXfYSUHF5pctBPVZ2zknv3=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "TelefériQo Cable Car",
+            "category": "Mountain cable car",
+            "url": "https://teleferico.com.ec/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPnJ4w22tImaCH5riog30X9kv2wfYDyNoTBj2sN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Quito",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNNGXY-WI9c7Z3A_KkT-GvL00ESvQdKGv68y6mN=w148-h148-n-k-no"
+        },
+        {
+            "title": "La Mariscal Artisan Market",
+            "category": "Market",
+            "url": "https://artesanalquito.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMV_cbpFzKPENSiYb3m1XkL6GJ-oIbRnAyXkixn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional Yasuní",
+            "category": "National park",
+            "url": "http://areasprotegidas.ambiente.gob.ec/es/areas-protegidas/parque-nacional-yasun%C3%AD",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOpkQ-0ELAdMHUy--wp8_zwIBHf2_a05B9_yRfy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Plaza de Ponchos",
+            "category": "Market",
+            "url": "http://www.plazadeponchos.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNAxlbS95tAGsJzj51CxRFE6VmB99phefxlTbgS=w148-h148-n-k-no"
+        },
+        {
+            "title": "CASCADA EL PAILÓN del DIABLO",
+            "category": "Tourist attraction",
+            "url": "http://www.cascadaelpailon.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMpjlCo3rUxlPldB-7dVKLFKa4r-R8FnZlwNubu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Playa Montañita",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNlSL-wG3oN31OccqYDXkpy2dU9Pow_znkDNzrk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Seminario",
+            "category": "Park and Garden",
+            "url": "http://www.guayaquilesmidestino.com/en/squares-and-parks/downtown/seminario-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOE8Pa9Kz27qnWYLSjLoA2AtjrnqLDUNkBoU4II=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional Cotopaxi",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP4Wqw9ADD2SekzI5Z5l33cmXw11kQGSmxUJm3b=w148-h148-n-k-no"
+        },
+        {
+            "title": "Capilla del Hombre",
+            "category": "Art museum",
+            "url": "http://guayasamin.org.ec/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO80dYlVIiRytTXzZChVM404l4SfixjzBXiRGN_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional Cajas",
+            "category": "National park",
+            "url": "http://www.parque-nacional-cajas.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOaZs9R9Cw4TE67dEKsQlFGTwCUbdOYhfCWm2F7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Museum of the City",
+            "category": "Museum",
+            "url": "https://fundacionmuseosquito.gob.ec/mdc/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPpA2C-2KQfpv_zruMIC4Thtf3pB_4_rfmXmts0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cuenca",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMyXo_rsi_SCB41dYg2Khvd1l8s-oe9rtJj4lWp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pumapungo Museum",
+            "category": "Art museum",
+            "url": "https://www.culturaypatrimonio.gob.ec/museo-y-sitio-arqueologico-pumapungo-provincia-de-azuay/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNQZSywJqXa3Ems78joUUcq4rMY1zTB8SHblqvA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Contemporary Art Center of Quito",
+            "category": "Modern art museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOoOH1bqVReduOJNqGl1yULn3EzjCM0ESpxR1Sz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Intiñan Equator Museum",
+            "category": "Museum",
+            "url": "https://www.facebook.com/museointinan/?locale=es_LA",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOMvpXPLi5YiW4zQmRh7QM288-ErybRkawkhO7R=w148-h148-n-k-no"
+        }
+    ]
+}

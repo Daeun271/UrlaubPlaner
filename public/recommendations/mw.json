@@ -1,0 +1,269 @@
+{
+    "cities": {
+        "Kasungu": [],
+        "Zomba": [],
+        "Blantyre": [
+            {
+                "title": "St.Michael's and All Angels Church",
+                "category": "Presbyterian church",
+                "url": "http://www.ccapblantyresynod.org/sunday-worship1.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1jJZGIe_VYDUA8C4aXJteNewXs_DtBHXtvJEk=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Adventure's Feet Malawi",
+                "category": "Tour operator",
+                "url": "https://www.theadventuresfeet.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOpn18sj1if1AI1jMVYmw8LanaL3-EMZO_pdeQQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sky Lounge Bar",
+                "category": "Bar & grill",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhSkPzqvgT_412vR_lSjyNF5YKg984UTWG-shy=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Caverna",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3GK02hvBAkmpwCmARn5Y5FpZ_U_uMIRCEfawX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anchors Lounge",
+                "category": "Bar & grill",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPw8gDvgYoYsqZlbV1ZiK7ssk3tRM7ll08i-N_N=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anna's Car Rental",
+                "category": "Car rental company",
+                "url": "http://www.annascarrentals.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsw2FQTd1QXBAtr20D87TIyvDoJ1DSIfxnwfH2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Adventures with Colby",
+                "category": "Tour operator",
+                "url": "https://adventureswithcolbymw.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt9sJB3fb_sD-c4TAbZryEYzQ9u2QlWBm29NgQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Soche East Shopping Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYpPsdQ_BPDOXLhUfq8uf04jy4DrPEboyHfBaE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ginnery Corner",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYaOJbqvFlMb8NiPs4gKUh9UaT2C5ehCItisFO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Orbis DMC",
+                "category": "Tour operator",
+                "url": "http://www.orbis-dmc.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlb3sgXtLvwqchtuzAcXEpIe8WhEq2pAAShXs3=w148-h148-n-k-no"
+            },
+            {
+                "title": "H S Winehouse",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNyZV46gMhsxOK4oWvnlc_XcJgejR9hb8q23vX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Malawi",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd6J3jtabwssurlqrS9MKC2QM8kTGzqP5B0xvb=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Society of Malawi Library",
+                "category": "Library",
+                "url": "https://societyofmalawi.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPjZnhwLRi8_k1l5tAzH5zXTo6CXgjCT76VY49y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kamuzu Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTvAeUYdNKbP1GvqXluMaBJ_ZOrAMAj00KUWD1=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Columba CCAP Church",
+                "category": "Presbyterian church",
+                "url": "http://www.ccapblantyresynod.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMrrrlL-mQ9P1PcPF5jTB0c7DaI_-AO6fQ2P-i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Soche",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpgoXmMQHIVN_niNWQoTqYtBGIk50PIEwPQKsB=w148-h148-n-k-no"
+            }
+        ],
+        "Mzuzu": [
+            {
+                "title": "Shoprite Mzuzu",
+                "category": "Supermarket",
+                "url": "http://www.shoprite.co.za/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHCp57ENr1wAcnBo-2gfiwRgIuJYo8nw-_--aN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mzuzu University",
+                "category": "University",
+                "url": "http://www.mzuni.ac.mw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBZTD-MTqMNGweiXudjWcHPduuKnHzu-J0CoGf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chatonda Lodge",
+                "category": "Lodging",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhkfvQ5aXM6nDKaix5SpR49OsQuTzzqXS7FY4e=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sunbird Mzuzu",
+                "category": "Hotel",
+                "url": "https://www.sunbirdmalawi.com/hotels/sunbird-mzuzu",
+                "img": "https://lh4.googleusercontent.com/proxy/Gkdrb5oUbRAidZf9fRifK4NaX2SnjN_K1fbrdZnccfcCkbnDrm44KKGHDR7ygm42KPOI2s_Bde8x_Ekh-I78BzET1UZyHiY3iEdsOFlMMeaEUxcaU9nMDbXI5nuMnlIhQdACjussifYTgLEnxRxoBAqglrCLYA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ilala Crest Lodge",
+                "category": "Hotel",
+                "url": "http://ilalacrestlodge.com/contact-us",
+                "img": "https://lh4.googleusercontent.com/proxy/p8yo5M8mrb0BopUvGenp_fVgrLzfRhfFb5YvCn8cSqEkdJSB6qS22J8QRMGScf2a6U5CE_iqAqOUGwJuzYOuXOV3Paq1s4_dRho6NMD7AAmZRu2VFJTg8W9sm4jQfVlJ_WmkiFwFdHrNXFNt4ei1Z94q7cA7eiw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coffee Den",
+                "category": "Cafe",
+                "url": "http://www.mzuzucoffee.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrSSajXlQ8870eQc7x3s-XQTyW2SexSRsgdmi4=w148-h148-n-k-no"
+            }
+        ],
+        "Lilongwe": [
+            {
+                "title": "Old Town Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBQyrlO3gIgil1f__Nh3V1bJLypCCAzsW9J39U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lilongwe Wildlife Centre",
+                "category": "Wildlife Refuge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvHm3WsY9vH7LhwN2vXwOr8z-89wQ1sMBSzR96=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anake taxi services",
+                "category": "Taxi service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrtL1w8Ae2V9dLx6_KY2ybEQNvll1V7pFxspBO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lizulu Horticulture Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQjJE3fc6zkDjcD16I_apxRUzPF3oIQsEmDl9G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lilongwe Nature Sanctuary",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMuZiEBulWGGimvdM1pLZT8jIR56ky2JvsfBpIn=w148-h148-n-k-no"
+            },
+            {
+                "title": "World War I Memorial",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd1sCY3aPc0zW4ahbF1exeZAkvpEEHdWJdgYc-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maula Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMixN1GxIh4JEwOX291cU1U0ak-PvQDcBwBAea4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nkhoma mountain",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMhCxzmdDToHIFH5oYAXIxzWNb1ez-a49tiE3HI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bunda Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMILzuJxxSOf8lc_iMrTn0T75nPkjv0pqcz88ni=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chongoni Rock Art Area",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYwZ_R14t0RFU13tlWkro7bZC7Zqh2kIx5X7NJ=w148-h148-n-k-no"
+            }
+        ],
+        "Mangochi": [],
+        "Karonga": []
+    },
+    "sights": [
+        {
+            "title": "Liwonde National Park",
+            "category": "National park",
+            "url": "https://www.africanparks.org/the-parks/liwonde",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNpdMGOM-MQ-7Ze8Et12wtufwQCvCCrlUAt_e42=w148-h148-n-k-no"
+        },
+        {
+            "title": "Majete Wildlife Reserve",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPmA5LsL3zQTv3W6i6pQgPL16HWIDmPXY6mq8sI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Blantyre",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPpK6w1_uzlCh28zhfev4Ly5hmobQIftn4NhZ6u=w148-h148-n-k-no"
+        },
+        {
+            "title": "Likoma Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO8dI2EWS4uGj4DM7CvaPl2UKmA6xGBt3F_dSH3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mzuzu",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNVUxlsG--t3V3f0HypihcKFk75RbvI9O76VopY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cape Maclear",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdEVD7nR4CvrTEcMaRr8EDwEjXqZZ_vVqliAd4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Vwaza Marsh Wildlife Reserve",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPx8VUgw9zL1Brr132tRuwGpce1WniAI1wa7Vhk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kasungu National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMkqIl0rkzd8ELZkP-A8wnjIDJ8IEzjInZWSWGx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nkotakhota Wildlife Reserve",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPehrz28_qaMEOwwk8RTqrdNK04xB88iqgAkrqz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lilongwe",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO39jklWq1BlQs9EdccL7Mhcik73pc32EYq5IHk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nyika Plateau",
+            "category": "Plateau",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO40TPNtwbm84p0elr9IRf7VRWgFZ5QuqgAOq1K=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Malawi National Park",
+            "category": "Nature reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPq5mF9iSayUc-sCfpFigW7V53X2ENjSMLJw0gQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Zomba",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOlpXBQinV4ci77KF2F-0347553VFvVJ9EY2Apa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Zomba Massif",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNaEHQ-Qs9Z_atkwoAmlmJHaT6c-idQPu4ymrKT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lengwe National Park",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOPXTCO-QU-v3CkR1hOucegaVrqkXfRQQUfEPmJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kande Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN_3XmmpFSwjiiroSNXj_nHmLmQZIufbMTWDVU=w148-h148-n-k-no"
+        }
+    ]
+}

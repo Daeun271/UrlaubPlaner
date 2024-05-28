@@ -1,0 +1,585 @@
+{
+    "cities": {
+        "Tlokweng": [
+            {
+                "title": "Gaborone",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKMvmAHqNk8q_ps0Di6lP5dajLuKZ-LiHct5l1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mokolodi Nature Reserve",
+                "category": "Non-profit organisation",
+                "url": "http://www.mokolodi.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/vw7ZPXfKe8r_-k-m7hvcUcN_L1VIXUvQHoen1n8OroJKYeykHmemR0HhpGHpUlk8z1mG8mmygwibySVjpi9DWrLTpG7lIZXwCUrIqgrnE3sWR-KWGhDGRsi6Fe3gFkJxTjRDOHgqUWROIqYGMVJo9kdAXhSiYw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahurutshe Cultural Village",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlOKENgmuBvldBJQ-J33yq9LQ55wZ40rf6baco=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manyana Rock Paintings",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj5TKBcMzCqF_rnAAa1yVS1pg6xpJ_n5QTLBWo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kgale Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeaHFaJAIKVrGheC5ZgNkpnrn9RUSzT2lKW6a4=w148-h148-n-k-no"
+            }
+        ],
+        "Maun": [
+            {
+                "title": "Bettys Travel Agency Trading As Lelobu Safaris",
+                "category": "Corporate office",
+                "url": "http://www.botswanabudgetsafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4qG-Q6KO-QRxLFASx_2ovR1WZ82bI2hM-cW3K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nhabe Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbmAsj23CQdN8Yo2W56SUXDyLM5_aAbxlI5Ar4=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Jacana Safari Tours",
+                "category": "Tours",
+                "url": "http://www.africanjacana.travel/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVGitS4FVk0-7bDDMfTQqf8YdoKCAwi-v3I3H1=w148-h148-n-k-no"
+            },
+            {
+                "title": "African Big Five Tours and Safaris",
+                "category": "Tour operator",
+                "url": "http://africanbig5safari.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOtomTLye8cjcH783eQqkaB8HcnTEY_K6thwQ3R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Go Bold Adventure Tours",
+                "category": "Tour operator",
+                "url": "http://www.goboldsafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRnZawpu1ndn-nmYlXPI1RIucyCSjj8o1et0k1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Island Mobile Safaris",
+                "category": "Outdoor activity organiser",
+                "url": "http://www.islandmobilesafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMm_UwvJ9O7xKdestzgVPbC4aCSsHdweiPgdsSJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marvelous Mobile Safari",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQZODPvbPp8gVBn-RoUo3PpPolZICTRH5sbiIY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brave Africa",
+                "category": "Tour operator",
+                "url": "https://braveafrica.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkIOnsFUbPJsjJUmaTN7dv3FWUUwG5TJ1wOLqx=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Space Botswana",
+                "category": "Art gallery",
+                "url": "http://www.thespacebotswana.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8_DPf9bFNj0JiWr8Hd_xg-o-_tvg2G7qZJI-U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Motsana Centre & The Arts Cafe",
+                "category": "Cafe",
+                "url": "https://www.facebook.com/MotsanaCentre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0aqhBlJBXOfK5B9TqoDWvpCLJlF3f4679U4Mz=w148-h148-n-k-no"
+            },
+            {
+                "title": "WildRidge Bushtrails safaris",
+                "category": "Wildlife and safari park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfquL-NsiYfXkA2DuPzkb4xZioq151MtxE1qPc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bush Ways Safaris",
+                "category": "Tour operator",
+                "url": "http://www.bushways.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPieLUbMV5wkR0zX7hZQ7S8xCDgFvnlLJfCwRrx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Temogo Safari",
+                "category": "Tour operator",
+                "url": "https://www.temogosafari.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPckzO8Qwn5TbUMYmjvm96JIro8_1FVzs0rZvkD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Okavango Delta",
+                "category": "Wetland",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWW_ZadVSwl-d6-Rw_CrIRPMBsGJOzw0KoPVeT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Helicopter Horizons",
+                "category": "Tourist attraction",
+                "url": "http://www.helicopterhorizons.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4BbN76Z77qJl7UFeZSTnswTY6ZyWli-5z7gUD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gondwana Tours & Safaris",
+                "category": "Tour operator",
+                "url": "http://www.gondwanatoursandsafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP3EreEMp6C9tsAHNgu-EDTIkEt-xf4yEHjpGRh=w148-h148-n-k-no"
+            }
+        ],
+        "Gaborone": [
+            {
+                "title": "Airport Junction Shopping Centre",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxXCCrbZor6GFQ7EvGqBYClkxUkwYJNW-Q1uZA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gaborone Game Reserve",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-K6NVBJcdmCCv3lKLwZxMU6RG61gdcQHwmNNJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ the King Cathedral",
+                "category": "Catholic church",
+                "url": "http://dioceseofgaborone.mariannhillmedia.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7FmiybdXohZJ64fK77tNpE8JAX35u8smw3QIM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Balaji Temple",
+                "category": "Hindu temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbGgntOa5Q6btHTlT4IvjbT-ORXlpPewEh-DYK=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Three Dikgosi Monument",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPI1nPwwKBcHA91gTxBCbBmjqsKpr9hUbFDjZQ-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kgale Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeaHFaJAIKVrGheC5ZgNkpnrn9RUSzT2lKW6a4=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Capitol Cinemas - Masa",
+                "category": "Cinema",
+                "url": "https://www.instagram.com/newcapitolcinemas/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUz0s70WpTIgfBot10a1WusrbIEknZLWkAu3Fa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gaborone Yacht Club",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWoM-jTgsa9vUfdm-DhsdheQMhKdlz8k4Y-cwK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riverwalk Mall",
+                "category": "Shopping Centre",
+                "url": "http://www.facebook.com/riverwalkmall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6HZtLGu_V6s5OuixuIEdq-J8A_CxWcwVkFeAN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sir Seretse Khama Statue",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpCQPryhXuZvCMzeBZhQ4VUjXVHJql_bZDB2Yl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mokolodi Nature Reserve",
+                "category": "Non-profit organisation",
+                "url": "http://www.mokolodi.com/",
+                "img": "https://lh5.googleusercontent.com/proxy/XrVvl9cGdSPjIUpVmcpnvsS2KPfwUyG-vZhlKTipeqKDZqvDiUagESj9dW-JqnKLO1a8Z6zDrT36cn8t5z-dlNpeNDEFWHvcFHxEoAT-sfTw77ERgAetj-5CBJixlAUtF47F8DTH4LfZumc9DacVacDcpZtEwA=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum and Art Gallery",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzbvMGfDRbLCJ044yJKtMxEjtMqHnzSYBPXfo-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lion Park Resort",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGjjju_SyWIpqdjBi6_k-6nTPj0gWfM84O_yJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsholofelo Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKc4OMVyjsdoNVnGjGca3J3gBPus9gvZZOUOUb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Main Mall",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOt9wEA9Fy8-6TZza0_PNoGzb786YzUzD-_P1tB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Suits Africa",
+                "category": "Clothing Shop",
+                "url": "http://www.suitsafrica.co.bw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAvYPGCPB4VBO1PmGivkATGT-lTF-teA_QE4D-=w148-h148-n-k-no"
+            }
+        ],
+        "Molepolole": [
+            {
+                "title": "Lion Park Resort",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGjjju_SyWIpqdjBi6_k-6nTPj0gWfM84O_yJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Botswana Indoor Sports Centre",
+                "category": "Sports complex",
+                "url": "https://www.ub.bw/campus-life/culture-sports-and-recreation/facilities/campus-indoor-sports-centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN2dLA3Ij0Atpf_hccoHo4W6DdKK2XqFoEoCQD=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Botswana Swimming Pool",
+                "category": "Outdoor Swimming Pool",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm6dasyTBIsppN5w9jIey8SJ43tfclXr7NycRy=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Three Dikgosi Monument",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPI1nPwwKBcHA91gTxBCbBmjqsKpr9hUbFDjZQ-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsholofelo Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKc4OMVyjsdoNVnGjGca3J3gBPus9gvZZOUOUb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mokolodi Nature Reserve",
+                "category": "Non-profit organisation",
+                "url": "http://www.mokolodi.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/vw7ZPXfKe8r_-k-m7hvcUcN_L1VIXUvQHoen1n8OroJKYeykHmemR0HhpGHpUlk8z1mG8mmygwibySVjpi9DWrLTpG7lIZXwCUrIqgrnE3sWR-KWGhDGRsi6Fe3gFkJxTjRDOHgqUWROIqYGMVJo9kdAXhSiYw=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum and Art Gallery",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzbvMGfDRbLCJ044yJKtMxEjtMqHnzSYBPXfo-=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Capitol Cinemas - Masa",
+                "category": "Cinema",
+                "url": "https://www.instagram.com/newcapitolcinemas/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUz0s70WpTIgfBot10a1WusrbIEknZLWkAu3Fa=w148-h148-n-k-no"
+            }
+        ],
+        "Mochudi": [
+            {
+                "title": "The Three Dikgosi Monument",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPI1nPwwKBcHA91gTxBCbBmjqsKpr9hUbFDjZQ-=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Botswana Indoor Sports Centre",
+                "category": "Sports complex",
+                "url": "https://www.ub.bw/campus-life/culture-sports-and-recreation/facilities/campus-indoor-sports-centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN2dLA3Ij0Atpf_hccoHo4W6DdKK2XqFoEoCQD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lion Park Resort",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGjjju_SyWIpqdjBi6_k-6nTPj0gWfM84O_yJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "University of Botswana Swimming Pool",
+                "category": "Outdoor Swimming Pool",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm6dasyTBIsppN5w9jIey8SJ43tfclXr7NycRy=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Capitol Cinemas - Masa",
+                "category": "Cinema",
+                "url": "https://www.instagram.com/newcapitolcinemas/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUz0s70WpTIgfBot10a1WusrbIEknZLWkAu3Fa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsholofelo Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKc4OMVyjsdoNVnGjGca3J3gBPus9gvZZOUOUb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mokolodi Nature Reserve",
+                "category": "Non-profit organisation",
+                "url": "http://www.mokolodi.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/vw7ZPXfKe8r_-k-m7hvcUcN_L1VIXUvQHoen1n8OroJKYeykHmemR0HhpGHpUlk8z1mG8mmygwibySVjpi9DWrLTpG7lIZXwCUrIqgrnE3sWR-KWGhDGRsi6Fe3gFkJxTjRDOHgqUWROIqYGMVJo9kdAXhSiYw=w148-h148-n-k-no"
+            },
+            {
+                "title": "New Capitol Cinemas - Acacia",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrWbbfcv0fTND8pYJ1GXmxDlddx2koLXIiKFVT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lily's Petting Farm",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOa4wIMe5EJKiQReBjJghxSv-bu7y-Lm3FvNygH=w148-h148-n-k-no"
+            },
+            {
+                "title": "SERENE VIEW GARDENS PHAKALANE OODI RD",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiiUeYXqABWPo09N8UaEd2sIdaAjXUt3MCtwjR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahurutshe Cultural Village",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlOKENgmuBvldBJQ-J33yq9LQ55wZ40rf6baco=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum and Art Gallery",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzbvMGfDRbLCJ044yJKtMxEjtMqHnzSYBPXfo-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kgale Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeaHFaJAIKVrGheC5ZgNkpnrn9RUSzT2lKW6a4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manyana Rock Paintings",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj5TKBcMzCqF_rnAAa1yVS1pg6xpJ_n5QTLBWo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ngotwane River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_47LocTBAMIg8_u6ibwM4JNVygXAbGlXDnaFn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sabi Sabi Gardens",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO2cLPfRaatgkrjn1EFriRlT4t02tucoCip8fwD=w148-h148-n-k-no"
+            }
+        ],
+        "Serowe": [
+            {
+                "title": "Khama III Memorial Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPGeC8t68-fiiwOkQ6qDDgI4tZ9CiMRpeIL3mg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Serowe UCCSA",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL8Cuf6jEFeQEjmXqOCAiixq4yt_oKuYYo04VG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Serowe National Library",
+                "category": "Library",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlDygtJ6VnLrF_bs-wmEVGWB2CBXMvPeTuvutG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khama Rhino Sanctuary",
+                "category": "Animal park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMFaX5vz59aIG6eILMQfck8Mo-3oTptslV3Aff9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Palapye church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdrcqhly2F2BzX47VC_R9exJgVOAaS7nm__UVJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stevensford Game Reserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFXnsEAWnhvmsvHBZSmkLA7PE7lD7GqHho8Wfu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Little Paws Tea Garden",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOR7c4wJu2bTAaLTCwCcFYTY6QWy1c0aWjTKeXb=w148-h148-n-k-no"
+            }
+        ],
+        "Mogoditshane": [
+            {
+                "title": "ISKCON Temple, Botswana",
+                "category": "Hindu temple",
+                "url": "https://centres.iskcon.org/centre/iskcon-gaborone-botswana/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHat51Ycf4Z5uIWDpNxesDfm6Us8uuClrft5GP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Airport Junction Shopping Centre",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxXCCrbZor6GFQ7EvGqBYClkxUkwYJNW-Q1uZA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lion Park Resort",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGjjju_SyWIpqdjBi6_k-6nTPj0gWfM84O_yJm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khutse",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4Ikh5aISyOd9cywwLuG8xVaD4m5vFRKR7-kGd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gaborone Game Reserve",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-K6NVBJcdmCCv3lKLwZxMU6RG61gdcQHwmNNJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Christ the King Cathedral",
+                "category": "Catholic church",
+                "url": "http://dioceseofgaborone.mariannhillmedia.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7FmiybdXohZJ64fK77tNpE8JAX35u8smw3QIM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Manyana Rock Paintings",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPj5TKBcMzCqF_rnAAa1yVS1pg6xpJ_n5QTLBWo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bahurutshe Cultural Village",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlOKENgmuBvldBJQ-J33yq9LQ55wZ40rf6baco=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mokolodi Nature Reserve",
+                "category": "Non-profit organisation",
+                "url": "http://www.mokolodi.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/vw7ZPXfKe8r_-k-m7hvcUcN_L1VIXUvQHoen1n8OroJKYeykHmemR0HhpGHpUlk8z1mG8mmygwibySVjpi9DWrLTpG7lIZXwCUrIqgrnE3sWR-KWGhDGRsi6Fe3gFkJxTjRDOHgqUWROIqYGMVJo9kdAXhSiYw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kgale Hill",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeaHFaJAIKVrGheC5ZgNkpnrn9RUSzT2lKW6a4=w148-h148-n-k-no"
+            }
+        ],
+        "Francistown": [
+            {
+                "title": "Obert Itani Chilume Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNn4imObdPDFU4MCDKPwSbDlrVOnINsWDoEn2cv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Supa Ngwao Museum",
+                "category": "Local history museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM_m4ga1fMrIFN9SIrXIwK76KumINFBTldp9pG_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Lady of the Desert Cathedral",
+                "category": "Catholic cathedral",
+                "url": "http://www.gcatholic.org/churches/africa/3459.htm",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXwtzeoreu8XslDPzu8QzCCol-QhHL3_U6eVlY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kuminda Farm",
+                "category": "Hotel",
+                "url": "http://kumindafarm.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOW5krfF3b33ty66LAu-LZbObc5UUyh7nDaZIye=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mathangwane",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNT0v35iHHBbxeccDKBXFMkCOhinR1dRrzkXW5G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marapong",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYVytfVXbsH9BEBdZpgoRCLpjIA8CAc_sOozXW=w148-h148-n-k-no"
+            }
+        ],
+        "Palapye": [
+            {
+                "title": "Segaigai Farm",
+                "category": "Events Venue",
+                "url": "https://segaigaifarm.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcK6FRKQAIh004dSjl-orgu_vkB9G7xx0o-Xud=w148-h148-n-k-no"
+            },
+            {
+                "title": "Goo-Moremi Gorge Resort",
+                "category": "Lodge",
+                "url": "http://www.facebook.com/GooMoremiGorgeBotswana",
+                "img": "https://lh6.googleusercontent.com/proxy/hMuPcG8BtOeQbbkkzz7uLLb8CbEzYlDwFFnAF4GdngiQlFXXXwhlecx5HfZgCxzVAxpMOAh8y6W5TpNctgE6JrxpDqdMDorvfk2Hq1cfhkHEvGBtVFfom0_3hzFwRrxh8MoTlhPI_LZT3foMowbafuAf_CCv4Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Palapye church",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdrcqhly2F2BzX47VC_R9exJgVOAaS7nm__UVJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bonita Gardens Cafe - Palapye, Botswana",
+                "category": "Cafe",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzUv1b3cuH2295ZXeKFZNWyOp4phdk1iiKBNFD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cresta Botsalo",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/proxy/2c7w7n0IjU5-JMTTQpfVWQGhvVSpcLRE0pcfd2ffR5mmxIJkYMztIeBwqHecMEBUQF4PnZMNIFpciTYuMNR04WakMZWbJh3ynvUiN5PxIJ7qZpjhCGDKbXg2LIZiVTkq1M0vn2wTGC9gBxVbLjYZ8FlF9K5tedY=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Chobe National Park",
+            "category": "National park",
+            "url": "https://www.chobe.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPa6Zs3_koa_sUrXqwnU9JbIKzglX8qb1fnEwzz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kgalagadi Transfrontier Park",
+            "category": "National park",
+            "url": "https://www.botswanatourism.co.bw/explore/kgalagadi-transfrontier-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPQWJA_kUP2vZs7SH2E1KQhq-mWqwwG3nMyL4u4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Moremi Game Reserve",
+            "category": "Nature reserve",
+            "url": "https://www.botswanatourism.co.bw/explore/moremi-game-reserve",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNeTPXUHqg6SAJ-ARcC5fpvBWatprh2YsxxWLQ3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Okavango Delta",
+            "category": "Wetland",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPWW_ZadVSwl-d6-Rw_CrIRPMBsGJOzw0KoPVeT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khama Rhino Sanctuary",
+            "category": "Animal park",
+            "url": "http://www.khamarhinosanctuary.org.bw/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMFaX5vz59aIG6eILMQfck8Mo-3oTptslV3Aff9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kalahari Desert",
+            "category": "Desert",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMSoYV38Px-knZpc1F3YKvJ7HQX1eejdBusvn73=w148-h148-n-k-no"
+        },
+        {
+            "title": "Central Kalahari Game Reserve",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNoX130Cmv7BVChs50zo9YZcrZX8__2Zx4buIsM=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mokolodi Nature Reserve",
+            "category": "Non-profit organisation",
+            "url": "http://www.mokolodi.com/",
+            "img": "https://lh5.googleusercontent.com/proxy/XrVvl9cGdSPjIUpVmcpnvsS2KPfwUyG-vZhlKTipeqKDZqvDiUagESj9dW-JqnKLO1a8Z6zDrT36cn8t5z-dlNpeNDEFWHvcFHxEoAT-sfTw77ERgAetj-5CBJixlAUtF47F8DTH4LfZumc9DacVacDcpZtEwA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Makadikadi Basin",
+            "category": "Salt flat",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPXAcz53vdzLbtv0r9stauUYgE7T-wxlFkKCXaT=w148-h148-n-k-no"
+        },
+        {
+            "title": "Makgadikgadi Pans National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO0-c0Un7fJTLRt9shJuONqlNqLaM8jfNJ7K4gr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nxai Pan",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN5zFKBiP6fgIjHE0qjhjZcjhOqnkY6i86BWdn6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gaborone",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKMvmAHqNk8q_ps0Di6lP5dajLuKZ-LiHct5l1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Moremi",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOP0LOEote6A-E-dVmh3YDzDD9s348N9A-PA8x5=w148-h148-n-k-no"
+        },
+        {
+            "title": "Baines Baobabs",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOfSTBknpEMOrGtDA4NmQMBojuXDMW20QJZ2T0m=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tsodilo Hills",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOnzZcOXYgQCjEQE3YF5CXX-mOxDD1nNB3ekeHd=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kubu Island",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNeAGoJ1lT3M4p5iG_7gLMGG0mhTWpT8uUrm8y-=w148-h148-n-k-no"
+        }
+    ]
+}

@@ -1,0 +1,1548 @@
+{
+    "cities": {
+        "Navapolatsk": [
+            {
+                "title": "Čaliuskincaŭ Park of Culture and Recreation",
+                "category": "Park and Garden",
+                "url": "http://parki.by/All-parks/2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdZrDH8ds-yM7u_0nTniPdRLzzNU-nwonsnk0n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Biarezinski Biosphere Reserve",
+                "category": "Wildlife Refuge",
+                "url": "http://berezinsky.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObEt2JWR6APUdtvjKnnXMGx2QmiPa_X8SI9sv_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Stones",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/proxy/QBafLq8tivFepP8CMLLMWaUix8GPgXBIK1ypSXU9dvh9ow99VcpSxMJFaJ5qkLxIeqCaNiqxjlHFsh15Kb0sGGpycAMbUlIDRv4UJ2U8kvYNasKjd8AR8f-ONcvnPlHIqSeEI-faP0oBHdMXDEX8f_Wej64fMw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dolphinarium Nemo",
+                "category": "Amusement park",
+                "url": "https://dolphinminsk.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeAjeNQDIH2Ef0YWNOpi0TAN1nGgyhWMZp2tIF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk-Passazhirskij",
+                "category": "Train station",
+                "url": "https://www.rw.by/passengers_services/railway_stations/minsk_passenger/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIGEP46Rc8q3E59rbmbojgwCqIo8Wz93FyxYeJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Zoo",
+                "category": "Zoo",
+                "url": "http://minskzoo.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyQl9QcHlwtQafKQOceXfa0I_0gTv8DMoq0QLD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narachanski National Park",
+                "category": "Wildlife Refuge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5S1ceNsQWbg3ZxCZKbHRIHJQUlM60DLrBU0tO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "url": "http://belarusmini.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "url": "http://www.warmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Arena",
+                "category": "Sports complex",
+                "url": "https://minskarena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khatyn Memorial Complex",
+                "category": "War memorial",
+                "url": "http://khatyn.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqKg2G8Q9Erl0l_uas7k1qZYPfkJ-ZkmTlyp_J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkAGUgG2m6bXTPxsOfRqUcoLO4xyLVH64TAd_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square, Minsk",
+                "category": "Public Transport Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL6E7_SI7pw6TwTRfI1If27KqIE3g8_EveTNvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "url": "http://www.nlb.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Simon and Helena",
+                "category": "Catholic church",
+                "url": "http://chyrvony.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narach Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN996ObGnonbxD9EGbsIbkcWZWmJC0bBHhMmwVX=w148-h148-n-k-no"
+            }
+        ],
+        "Mazyr": [],
+        "Slutsk": [
+            {
+                "title": "Khatyn Memorial Complex",
+                "category": "War memorial",
+                "url": "http://khatyn.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqKg2G8Q9Erl0l_uas7k1qZYPfkJ-ZkmTlyp_J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ružany Palace",
+                "category": "Museum",
+                "url": "http://rozana.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpRotNUAoFA4ctmQdaWN4MfOSrr1JKdApEc8Ks=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catholic Corpus Christi",
+                "category": "Catholic church",
+                "url": "http://niasvizh-kasciol.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH_qdiXDSvGdDobzj1apLvteTKZesvl7RLuZnC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nesvizh National Historical and Cultural Museum-Reserve",
+                "category": "Museum",
+                "url": "http://www.niasvizh.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Bx4m3iXqylioOegLxIL69ePSTmR7uNaM1_K8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Свята-Духаў кафедральны сабор",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWAdUg9w6X2W096poXBQwrjQKZ9PBfxCpQta0I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square, Minsk",
+                "category": "Public Transport Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL6E7_SI7pw6TwTRfI1If27KqIE3g8_EveTNvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Niasviž",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvFaBYs7BvjvlnEdqlQwB7h_YEPW4Wdt0z7bnO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pripyatsky National Park, Belarus",
+                "category": "National park",
+                "img": "https://lh3.googleusercontent.com/proxy/7fWRk8JljipYOv_el03p7vOZ3PdBNKQACAODOG_g3i_GPTTD7HK9715ICYMOoULDFn6vGMgq49d608sZnnxqsEIWbGIUW7mwa9yNBoKuvAUNpPFAPVRBr4QnLBnveIzPyVlSaD8LyFPIH1HcRXUbN7OzEhxkXDU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lida",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWmRMHDYjLzbLCqKYcKniXlIPNfW1QxhAUlRtl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zaslawskaye Reservoir",
+                "category": "Reservoir",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxyK7rwWagKR68ed6fb-QnNJoSiwd2Eq4TWjoe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Arena",
+                "category": "Sports complex",
+                "url": "https://minskarena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "url": "http://www.warmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dudutki",
+                "category": "Museum",
+                "url": "http://www.dudutki.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3C8MxDRV9sVWhB2Eax6M5aCCTwdh7Ffyujfin=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkAGUgG2m6bXTPxsOfRqUcoLO4xyLVH64TAd_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "url": "http://www.nlb.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Simon and Helena",
+                "category": "Catholic church",
+                "url": "http://chyrvony.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+            }
+        ],
+        "Mahilyow": [
+            {
+                "title": "Mahilioŭ Town Hall",
+                "category": "Historical landmark",
+                "url": "http://museumhm.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZtRmALBJFmq0ApNUfIJNSaRD57Yj6q_5FRvgz=w148-h148-n-k-no"
+            },
+            {
+                "title": "P. Maslienikaŭ Mahilioŭ Regional Art Museum",
+                "category": "Art museum",
+                "url": "http://maslenikov.museum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNc68cpqZPfx51WRtRTlzt4QuhT3Aaa5C0O0q3P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hudozhestvennyi Muzei V.K. Bjalynickogo-Biruli Filial Nacional'Nogo Hudozhestvennogo Muzeja",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP1YmJJWEg83KchH5Nb0chiIPQ5oZARjNq6gMil=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "url": "http://www.warmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Arena",
+                "category": "Sports complex",
+                "url": "https://minskarena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Simon and Helena",
+                "category": "Catholic church",
+                "url": "http://chyrvony.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "url": "http://www.nlb.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babrujsk-Arena",
+                "category": "Sports complex",
+                "url": "https://bobruiskarena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBuZkpaV9WkNZ41bXkA8EOsbqgcFJOG8zhVJ9M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "url": "http://belarusmini.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkAGUgG2m6bXTPxsOfRqUcoLO4xyLVH64TAd_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Island of Tears",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOn-PS3y6D59dhZAoxf7T5Kl8vD2JdU8i7TmlKl=w148-h148-n-k-no"
+            }
+        ],
+        "Zhlobin": [
+            {
+                "title": "Mideo Lounge",
+                "category": "Cafe",
+                "url": "http://mideo.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzG1euJP3GqxFDvf3c5ozCI5TdtZyIXv7OGZI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Бистро \"BLASUS\"",
+                "category": "Cafe",
+                "url": "http://instagram.com/bistro.blasus",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQpZEgo0zFkagmPaiQYc1XZ6bcJy6qHTIzhdq5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Čaliuskincaŭ Park of Culture and Recreation",
+                "category": "Park and Garden",
+                "url": "http://parki.by/All-parks/2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdZrDH8ds-yM7u_0nTniPdRLzzNU-nwonsnk0n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dolphinarium Nemo",
+                "category": "Amusement park",
+                "url": "https://dolphinminsk.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeAjeNQDIH2Ef0YWNOpi0TAN1nGgyhWMZp2tIF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Stones",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/proxy/QBafLq8tivFepP8CMLLMWaUix8GPgXBIK1ypSXU9dvh9ow99VcpSxMJFaJ5qkLxIeqCaNiqxjlHFsh15Kb0sGGpycAMbUlIDRv4UJ2U8kvYNasKjd8AR8f-ONcvnPlHIqSeEI-faP0oBHdMXDEX8f_Wej64fMw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of the Rumiancaŭ and the Paskievič",
+                "category": "Museum",
+                "url": "http://www.palacegomel.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBOscEfmJk-EJ1PttA6gO2eO1u5CUpgHi7aFcU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk-Passazhirskij",
+                "category": "Train station",
+                "url": "https://www.rw.by/passengers_services/railway_stations/minsk_passenger/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIGEP46Rc8q3E59rbmbojgwCqIo8Wz93FyxYeJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dnipro River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN78foS03ejI09eARo_qNET45e07WV_GTpoYxM2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Zoo",
+                "category": "Zoo",
+                "url": "http://minskzoo.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyQl9QcHlwtQafKQOceXfa0I_0gTv8DMoq0QLD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square, Minsk",
+                "category": "Public Transport Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL6E7_SI7pw6TwTRfI1If27KqIE3g8_EveTNvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mogilev",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxteQ4x3sWI5N-6WsoIqnNld4W0PX-h88BmCDF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "url": "http://www.warmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "url": "http://www.nlb.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkAGUgG2m6bXTPxsOfRqUcoLO4xyLVH64TAd_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "url": "http://belarusmini.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Simon and Helena",
+                "category": "Catholic church",
+                "url": "http://chyrvony.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+            }
+        ],
+        "Lida": [
+            {
+                "title": "Lida City Palace of Culture",
+                "category": "Cultural centre",
+                "url": "http://palace-lida.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQYgrtKnTDnAvBmQyoNYiahbr1fFYOLuR7sNvZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Гарадскi парк культуры i адпачынку",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJjp1lFRBSAD0RAsq-YKTl30Akn6lUAXXv3ppq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Castle of Lida",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8ePjcKmmcpBAK5J41v-AECMQrts857xntBez6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lida Castle",
+                "category": "Castle",
+                "url": "https://lixmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFTNCGjjqBulhsqz35euDQjLiJi0kQoHiX3Otk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Navahrudak Castle",
+                "category": "Castle",
+                "url": "http://posmotrim.by/article/novogrudskiy-zamok-belarus.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOU18pCQ1Gw17JXgGLsreFPgjASHwfVMRN6yanQ=w148-h148-n-k-no"
+            }
+        ],
+        "Orsha": [],
+        "Polatsk": [
+            {
+                "title": "Спаса-Ефрасінеўскі манастыр",
+                "category": "Monastery",
+                "url": "http://spas-monastery.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfXCoL8XutNPC88e-K9Nw72LBvpF-RvM0mbBlV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Sophia Cathedral",
+                "category": "Museum",
+                "url": "http://sophia.polotsk.museum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOv2_ZTJzs7JChxGwOzJHa3n7f3GdKXo06sdyBK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Polotsk Museum of Nature and Ecology",
+                "category": "Museum",
+                "url": "http://ecology.polotsk.museum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVv9qtVWC6c3JK1NGw00Bo7HcolnR6bWRbwB69=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Polatsk Historical and Cultural Open-air Museum",
+                "category": "Museum",
+                "url": "http://polotsk.museum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzaLdu6oBILylA-giYlImssC6rNTLFrBztc8iu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Local History",
+                "category": "Museum",
+                "url": "http://local.polotsk.museum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM57lqINM0KOxUCuI4a82Kuva6dfFOwyu2JPWNR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Art Gallery",
+                "category": "Museum",
+                "url": "http://gallery.polotsk.museum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx7JhGuIbX-tumX1r9O7Z9oibIxZzoZ00CLzMT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Polotsk museum of medieval knighthood",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPEP4ETKEx9zRPRagog50dkz2tboYmRP_CZNYQ=w148-h148-n-k-no"
+            }
+        ],
+        "Homyel'": [
+            {
+                "title": "Homieĺ Palace and Park Ensemble's Park",
+                "category": "Park and Garden",
+                "url": "http://www.palacegomel.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPYsJYjplNfQ66ryGf-p57XaMm1JeJNZnPshJnG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathedral of St. Peter and St. Paul",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDopxMTMJJhs7pygKJIGC0G6_PrZVnb7LGxCVC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of the Rumiancaŭ and the Paskievič",
+                "category": "Museum",
+                "url": "http://www.palacegomel.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBOscEfmJk-EJ1PttA6gO2eO1u5CUpgHi7aFcU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Homieĺ Regional Museum of Military Glory",
+                "category": "War museum",
+                "url": "http://milglory.gomel.museum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPV3eDHI13wAMZs6B7BjaeIUY2lJV2aht84Vff0=w148-h148-n-k-no"
+            }
+        ],
+        "Barysaw": [
+            {
+                "title": "Nesvizh Radziwiłł Castle",
+                "category": "Castle",
+                "url": "https://niasvizh.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwc0UtKbymrnMql6meng73vq4_PopR1YQ2-8E8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Horkaha",
+                "category": "Park and Garden",
+                "url": "http://parki.by/All-parks/1/kontaktygor",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNmtFjcgz4u5KLGFaogacsFMq00lHPAz3nJgP0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catholic Corpus Christi",
+                "category": "Catholic church",
+                "url": "http://niasvizh-kasciol.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH_qdiXDSvGdDobzj1apLvteTKZesvl7RLuZnC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiJBlpPGVs8rW9dnELBl1mLa9fxFNYEQqQN_qW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square, Minsk",
+                "category": "Public Transport Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL6E7_SI7pw6TwTRfI1If27KqIE3g8_EveTNvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument to Prince Boris",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZutCXS6TSPE-hJnZzlCKxhYgGrVKNYFkT34mo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Borisov Arena",
+                "category": "Stadium",
+                "url": "http://borisov-arena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrkQRQtcmTOadzOo6WnLDRBUBDeU-KUYT_4Zmh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jumanji Relax Hall",
+                "category": "Shisha bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0I8cC9VISGsFNQ8uxuETVE_Gn1ypHIlpcrPfz=w148-h148-n-k-no"
+            },
+            {
+                "title": "JGMINERALS",
+                "category": "Design agency",
+                "url": "http://instagram.com/jgminerals",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpUxbyv3Zz_bnY1-IIchGiuv8dV2Ou4PVaxqiO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khatyn Memorial Complex",
+                "category": "War memorial",
+                "url": "http://khatyn.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqKg2G8Q9Erl0l_uas7k1qZYPfkJ-ZkmTlyp_J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Arena",
+                "category": "Sports complex",
+                "url": "https://minskarena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "url": "http://belarusmini.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nesvizh National Historical and Cultural Museum-Reserve",
+                "category": "Museum",
+                "url": "http://www.niasvizh.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Bx4m3iXqylioOegLxIL69ePSTmR7uNaM1_K8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir Castle",
+                "category": "Museum",
+                "url": "http://www.mirzamak.by/",
+                "img": "https://lh4.googleusercontent.com/proxy/c77_3SG-Mw7Nhrlfr171aIw8iiwO_3rqXYhweF6zUjlNWW3syX6Jty2RaDKfKe07jdkxXIcR1ckTzL1mswp81xmelgmcyc_8hXPj8S7l5eD1b8aRc8g_MxkwPUqIuq_a8Sy_AVpGBu6cJjkmBP7EOcfI3OCJTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "url": "http://www.nlb.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "url": "http://www.warmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            }
+        ],
+        "Salihorsk": [
+            {
+                "title": "Khatyn Memorial Complex",
+                "category": "War memorial",
+                "url": "http://khatyn.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqKg2G8Q9Erl0l_uas7k1qZYPfkJ-ZkmTlyp_J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nesvizh Radziwiłł Castle",
+                "category": "Castle",
+                "url": "https://niasvizh.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwc0UtKbymrnMql6meng73vq4_PopR1YQ2-8E8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dudutki",
+                "category": "Museum",
+                "url": "http://www.dudutki.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3C8MxDRV9sVWhB2Eax6M5aCCTwdh7Ffyujfin=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Arena",
+                "category": "Sports complex",
+                "url": "https://minskarena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nesvizh National Historical and Cultural Museum-Reserve",
+                "category": "Museum",
+                "url": "http://www.niasvizh.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Bx4m3iXqylioOegLxIL69ePSTmR7uNaM1_K8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "url": "http://www.warmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Simon and Helena",
+                "category": "Catholic church",
+                "url": "http://chyrvony.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "url": "http://www.nlb.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir Castle",
+                "category": "Museum",
+                "url": "http://www.mirzamak.by/",
+                "img": "https://lh4.googleusercontent.com/proxy/c77_3SG-Mw7Nhrlfr171aIw8iiwO_3rqXYhweF6zUjlNWW3syX6Jty2RaDKfKe07jdkxXIcR1ckTzL1mswp81xmelgmcyc_8hXPj8S7l5eD1b8aRc8g_MxkwPUqIuq_a8Sy_AVpGBu6cJjkmBP7EOcfI3OCJTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkAGUgG2m6bXTPxsOfRqUcoLO4xyLVH64TAd_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Island of Tears",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOn-PS3y6D59dhZAoxf7T5Kl8vD2JdU8i7TmlKl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "url": "http://belarusmini.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            }
+        ],
+        "Baranovichi": [
+            {
+                "title": "Railway Museum",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtyeHs1YEc3SdvGCBGeJ8qxX-EiCDZoxxjrsbY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir Castle",
+                "category": "Museum",
+                "url": "http://www.mirzamak.by/",
+                "img": "https://lh4.googleusercontent.com/proxy/c77_3SG-Mw7Nhrlfr171aIw8iiwO_3rqXYhweF6zUjlNWW3syX6Jty2RaDKfKe07jdkxXIcR1ckTzL1mswp81xmelgmcyc_8hXPj8S7l5eD1b8aRc8g_MxkwPUqIuq_a8Sy_AVpGBu6cJjkmBP7EOcfI3OCJTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nesvizh Radziwiłł Castle",
+                "category": "Castle",
+                "url": "https://niasvizh.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwc0UtKbymrnMql6meng73vq4_PopR1YQ2-8E8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catholic Corpus Christi",
+                "category": "Catholic church",
+                "url": "http://niasvizh-kasciol.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH_qdiXDSvGdDobzj1apLvteTKZesvl7RLuZnC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malady park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOveW7ML2v_73QwEIx8J5uhcAJxrOZhY4rd3LRY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Litovka",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5YoMI_uKUb89x0Ehj1_Bvs02fV_WLN7CVVixq=w148-h148-n-k-no"
+            }
+        ],
+        "Babruysk": [
+            {
+                "title": "Skul'ptura Bobra",
+                "category": "Tourist attraction",
+                "url": "https://www.tuda-suda.by/countries/europe/belarus/bobruysk/pamyatnik-bobru",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNxdeGpocbYsLBgM_dMSDy7_9-UZxDRh2z1A1py=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central City Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsR8e8jECIqFpG2w78PMykg7GB2SoR4vqKyRZJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park KUL'Tury I Otdyha Gorodskoi",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPJXtM0bnttrG8_vYMA002u7HErQ5bmNFo5mSw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadion Im. Aleksandra Prokopenko",
+                "category": "Stadium",
+                "url": "http://www.fcbelshina.by/osp-dyussh-belshina/infrastruktura.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPAxTrXaEEF1A7w5nF_YOnAG4HapOul5grgnTt-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tavaryš",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPY94FiGNRaIDEC5uFi0LJtRrN-LhvA43ej8B5Z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babrujsk-Arena",
+                "category": "Sports complex",
+                "url": "https://bobruiskarena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBuZkpaV9WkNZ41bXkA8EOsbqgcFJOG8zhVJ9M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dudutki",
+                "category": "Museum",
+                "url": "http://www.dudutki.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3C8MxDRV9sVWhB2Eax6M5aCCTwdh7Ffyujfin=w148-h148-n-k-no"
+            },
+            {
+                "title": "Babrujsk Fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-CnPgRkGW5mX9ow7_3qzW12Xqhh_udIjRx3yz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khatyn Memorial Complex",
+                "category": "War memorial",
+                "url": "http://khatyn.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqKg2G8Q9Erl0l_uas7k1qZYPfkJ-ZkmTlyp_J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Arena",
+                "category": "Sports complex",
+                "url": "https://minskarena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nesvizh National Historical and Cultural Museum-Reserve",
+                "category": "Museum",
+                "url": "http://www.niasvizh.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Bx4m3iXqylioOegLxIL69ePSTmR7uNaM1_K8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir Castle",
+                "category": "Museum",
+                "url": "http://www.mirzamak.by/",
+                "img": "https://lh4.googleusercontent.com/proxy/c77_3SG-Mw7Nhrlfr171aIw8iiwO_3rqXYhweF6zUjlNWW3syX6Jty2RaDKfKe07jdkxXIcR1ckTzL1mswp81xmelgmcyc_8hXPj8S7l5eD1b8aRc8g_MxkwPUqIuq_a8Sy_AVpGBu6cJjkmBP7EOcfI3OCJTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "url": "http://www.warmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Simon and Helena",
+                "category": "Catholic church",
+                "url": "http://chyrvony.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "url": "http://belarusmini.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "url": "http://www.nlb.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            }
+        ],
+        "Horad Zhodzina": [
+            {
+                "title": "Lošyсki Park",
+                "category": "Park and Garden",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Park of Stones",
+                "category": "City park",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Dolphinarium Nemo",
+                "category": "Amusement park",
+                "url": "https://dolphinminsk.com/",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Minsk Zoo",
+                "category": "Zoo",
+                "url": "http://minskzoo.by/",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Свята-Духаў кафедральны сабор",
+                "category": "Cathedral",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Zaslawskaye Reservoir",
+                "category": "Reservoir",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Niasviž",
+                "category": "Locality",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Narach Lake",
+                "category": "Lake",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Narachanski National Park",
+                "category": "Wildlife Refuge",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Dudutki",
+                "category": "Museum",
+                "url": "http://www.dudutki.by/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Lebyazhiy",
+                "category": "Neighborhood",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Čaliuskincaŭ Park of Culture and Recreation",
+                "category": "Park and Garden",
+                "url": "http://parki.by/All-parks/2",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Nesvizh National Historical and Cultural Museum-Reserve",
+                "category": "Museum",
+                "url": "http://www.niasvizh.by/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Minsk",
+                "category": "Locality",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mir Castle",
+                "category": "Museum",
+                "url": "http://www.mirzamak.by/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Belarusian National Arts Museum",
+                "category": "Museum",
+                "url": "https://artmuseum.by/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Kobryn": [
+            {
+                "title": "Dom-Muzei A.V. Suvorova",
+                "category": "Museum",
+                "url": "http://suvorovmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIA4XvLPirHo3XeeEfEDgBiLtz4v_iXZ8FbxwD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Skver Im. Morozova",
+                "category": "Park and Garden",
+                "url": "http://ikobrin.ru/kobtur-skver-morozov.php",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsUabNultVadHdFslDWUZMilfwdiaj9zmQLTB9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Manor Niamcevič",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIJIzNvfDRIZys_KTyZAOSgen8AHOGKssfrt_V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bielaviežskaja pušča National Park",
+                "category": "National park",
+                "url": "http://npbp.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPYZLJX-kkQlae5K1XCuKZ0B7KOAKUsm_M3Itt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pružany city park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNsoo22shOm_ZDY2I4sOYdpdeftmvNomvEVr4R9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Naberezhnaya Frantsiska Skoriny",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3kml-KI15Zjv3l5K2TMZbgGpJaiR_h1BPRkrL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park 1000-Letiya Bresta",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO8T1f0jsB_PA6TKrq2vkb9MCSIw4EiF2UG_mdp=w148-h148-n-k-no"
+            }
+        ],
+        "Minsk": [
+            {
+                "title": "Belarusian National Arts Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlF9Wde0yCLfAFUFRjwTzsKgvG2VlJTCvsSKZH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Arena",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Simon and Helena",
+                "category": "Catholic church",
+                "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Academic Bolshoi Opera and Ballet Theatre",
+                "category": "Opera house",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNW109IuMOG_7BL1gbK9_zxLovUwqlscjpepBL8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Čaliuskincaŭ Park of Culture and Recreation",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdZrDH8ds-yM7u_0nTniPdRLzzNU-nwonsnk0n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Horkaha",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNmtFjcgz4u5KLGFaogacsFMq00lHPAz3nJgP0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Waterpark Lebyazhy",
+                "category": "Water park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBE7l9j-yfB-2G-5jRIffPSvIKRxwDvop6HdF5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMzK6wr_xXVQxcq-eYfTLI0a2frArQ9Mgd2L3d5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian Central Botanic Gardens",
+                "category": "Botanical garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdEstF79mwR0Xmd1g2_JuIJvysdI1d61rNlJ7_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Komarovsky Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqTNJ_piBEcgJO4KTZJvO6TSHyHEfQ03KgXO-o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saint Elisabeth Convent Minsk",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7K_8Ku-1whph5FclXxpO6II3inh_9xuoC-Lf5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian National History and Culture Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0afllUCnfM-C12XLbZiTq3cOmsOoVQWkkLiMQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Свята-Духаў кафедральны сабор",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWAdUg9w6X2W096poXBQwrjQKZ9PBfxCpQta0I=w148-h148-n-k-no"
+            }
+        ],
+        "Hrodna": [
+            {
+                "title": "Park Zhilibera",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMOUYxaaNuLVToBX_PCWQgNFpLdyUkKE-5K6fJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hrodna State Museum of Religion History",
+                "category": "Museum",
+                "url": "http://religija.museum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOz78pnaC1ZWYKxdD-QAbVuuXljK3P1j2E9iruC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Maksim Bogdanovich",
+                "category": "Museum",
+                "url": "http://bagdanovichmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNShwQcleLN_Ew1sLTVNTC4zHOz820n6ct1G6IH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grodno Drama Theater",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOraBregW7DFfntoBxeCcnD9CIXXVz1j6Rq4MzN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Savieckaja Square",
+                "category": "Plaza",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCjfGGpSvrmFRCWogj8rasCq8lTIGAtMEWXATz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Castle",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXs-9dQdBb3DpxFmhHuhiw1I4buLOjqoKEZFN6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir Castle",
+                "category": "Museum",
+                "url": "http://www.mirzamak.by/",
+                "img": "https://lh4.googleusercontent.com/proxy/c77_3SG-Mw7Nhrlfr171aIw8iiwO_3rqXYhweF6zUjlNWW3syX6Jty2RaDKfKe07jdkxXIcR1ckTzL1mswp81xmelgmcyc_8hXPj8S7l5eD1b8aRc8g_MxkwPUqIuq_a8Sy_AVpGBu6cJjkmBP7EOcfI3OCJTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grodno Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQp2UpcosU31i7Kntt_QtqeQebxMEr13_0Xc_Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lida Castle",
+                "category": "Castle",
+                "url": "https://lixmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFTNCGjjqBulhsqz35euDQjLiJi0kQoHiX3Otk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Evangelical Lutheran Church",
+                "category": "Lutheran church",
+                "url": "http://www.luther.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrpMTXeJoRhHTqNPRCZW4vsvWqQ7XNOKccdJWG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pharmacy and Museum Biotest NPK",
+                "category": "Pharmacy",
+                "url": "https://www.am.biotest.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBj-PsZRGfPWvktTbdwgKu3l_JtrvVFVMJnnJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Great Synagogue",
+                "category": "Synagogue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtwvineEQSOBMva5eiOggCnsWf_Ieb_TrH3BtX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zespół pałacowo-parkowy Wołłowiczów",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEowAmcYNPA5qFcvdJanj3_J4t5Ur5KHm4T7ym=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Intercession Cathedral",
+                "category": "Cathedral",
+                "url": "http://pokrovgrodno.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPG03Po7XkjxfPuARE8w2CdhFZsfsv7Om-LT0E1=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Francis Xavier Cathedral",
+                "category": "Catholic cathedral",
+                "url": "https://catholic.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODS7upwtSPPGq1TEj4JsT3gVR3eDV2DIjW9Xvi=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Boris and Gleb Church of Kalozha",
+                "category": "Orthodox church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHfdIKAprGGBwNscXSk4xtkp226b7ilETTRVE0=w148-h148-n-k-no"
+            }
+        ],
+        "Slonim": [
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "url": "http://www.warmuseum.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Arena",
+                "category": "Sports complex",
+                "url": "https://minskarena.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bielaviežskaja pušča National Park",
+                "category": "National park",
+                "url": "http://npbp.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPYZLJX-kkQlae5K1XCuKZ0B7KOAKUsm_M3Itt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dudutki",
+                "category": "Museum",
+                "url": "http://www.dudutki.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3C8MxDRV9sVWhB2Eax6M5aCCTwdh7Ffyujfin=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "url": "http://www.nlb.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nesvizh National Historical and Cultural Museum-Reserve",
+                "category": "Museum",
+                "url": "http://www.niasvizh.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0Bx4m3iXqylioOegLxIL69ePSTmR7uNaM1_K8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Etnakrama \"Cudounia\"",
+                "category": "Novelty shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeeDbb6uYa7MtALWpz01H4vPK1OsjBogRC6mBU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkAGUgG2m6bXTPxsOfRqUcoLO4xyLVH64TAd_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPiJBlpPGVs8rW9dnELBl1mLa9fxFNYEQqQN_qW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Simon and Helena",
+                "category": "Catholic church",
+                "url": "http://chyrvony.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Island of Tears",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOn-PS3y6D59dhZAoxf7T5Kl8vD2JdU8i7TmlKl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "url": "http://belarusmini.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catholic Corpus Christi",
+                "category": "Catholic church",
+                "url": "http://niasvizh-kasciol.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH_qdiXDSvGdDobzj1apLvteTKZesvl7RLuZnC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mir Castle",
+                "category": "Museum",
+                "url": "http://www.mirzamak.by/",
+                "img": "https://lh4.googleusercontent.com/proxy/c77_3SG-Mw7Nhrlfr171aIw8iiwO_3rqXYhweF6zUjlNWW3syX6Jty2RaDKfKe07jdkxXIcR1ckTzL1mswp81xmelgmcyc_8hXPj8S7l5eD1b8aRc8g_MxkwPUqIuq_a8Sy_AVpGBu6cJjkmBP7EOcfI3OCJTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ružany Palace",
+                "category": "Museum",
+                "url": "http://rozana.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpRotNUAoFA4ctmQdaWN4MfOSrr1JKdApEc8Ks=w148-h148-n-k-no"
+            }
+        ],
+        "Pinsk": [
+            {
+                "title": "Volna",
+                "category": "Stadium",
+                "url": "http://polessu.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmxpPBVDMDY_R7W6flByha9OSxXc-fNSq6I49O=w148-h148-n-k-no"
+            },
+            {
+                "title": "Semeynyy Tsentr Otdykha \"Leon\"",
+                "category": "Amusement Centre",
+                "url": "https://www.instagram.com/leonpinskii/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTUZgjRHbdwIBIBFHLQ9hf5WW8M7KFr-j-ZTln=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadion Dosaaf",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORKtH4BABql7lanyl4BSf2G4NAopnqVN-EGlUz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Orthodox church of St. Barbara",
+                "category": "Church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmCjr8h9wvQIDQNZwukrKhxA49k5xc2xEJzq78=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ploshchad' Lenina",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNud_mXnplyW3CYbc52U0Zuj_vrN49kGCmKdMqS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Polesye Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvbNeoe6zXh5rjGVAz2Ib4GTpCMfa8kCWgEqx7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bezdzezhskiye fartushki",
+                "category": "Museum",
+                "url": "http://www.fartushok.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOD95eE-6yFFBGVQb7bZt_3dllAgLuVy2KcFQai=w148-h148-n-k-no"
+            }
+        ],
+        "Vitebsk": [
+            {
+                "title": "Viciebsk Regional History Museum",
+                "category": "Museum",
+                "url": "http://ratusha-vit.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIa8FpcMrNSKneIGkN2BaVMRcBjZBN3dGKhp0F=w148-h148-n-k-no"
+            },
+            {
+                "title": "park Mazuryna",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPba9xYehAWBQheFE19draVwaUbOXt9fi9HcGc5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Музей Мопедов Владимира Гордеева",
+                "category": "Museum",
+                "url": "http://mopedmuseum.ru/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKoCZ4qenl6xAtEj_q6Q7FcTG3ISFXN5qdlKod=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vićba",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOVsd1udFo00rV_CWwapZHkTw7D_OllCMsr4mK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Marc Chagall Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOlnmg4fsIAZ6zl1hhZrwRQK8M3U-XIaH2hzxek=w148-h148-n-k-no"
+            },
+            {
+                "title": "Музей-усадьба Ильи Репина «Здравнёво»",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXMoW902sTXa1aoV8owAa6LAVXSAu851xHfZIS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Losvida Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmUuCiDHL_8P1PuKEasIDNUmkDLu64FM9hDavd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Berezina River",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPT2duKs4JINm0PLxsxCvACjYKEMl1qmVFOWxx4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Osveya",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOwcA1TrIcOaAr-4ivQUJKkAVYBoSArmB-ig9A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Polatsk",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNHCbGrPmJ_Q0tltrLuoz0LlXS4FYjOu5h4SgE=w148-h148-n-k-no"
+            }
+        ],
+        "Svyetlahorsk": [
+            {
+                "title": "Park Horkaha",
+                "category": "Park and Garden",
+                "url": "http://parki.by/All-parks/1/kontaktygor",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNmtFjcgz4u5KLGFaogacsFMq00lHPAz3nJgP0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dolphinarium Nemo",
+                "category": "Amusement park",
+                "url": "https://dolphinminsk.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPeAjeNQDIH2Ef0YWNOpi0TAN1nGgyhWMZp2tIF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Stones",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/proxy/QBafLq8tivFepP8CMLLMWaUix8GPgXBIK1ypSXU9dvh9ow99VcpSxMJFaJ5qkLxIeqCaNiqxjlHFsh15Kb0sGGpycAMbUlIDRv4UJ2U8kvYNasKjd8AR8f-ONcvnPlHIqSeEI-faP0oBHdMXDEX8f_Wej64fMw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Zoo",
+                "category": "Zoo",
+                "url": "http://minskzoo.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyQl9QcHlwtQafKQOceXfa0I_0gTv8DMoq0QLD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Свята-Духаў кафедральны сабор",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWAdUg9w6X2W096poXBQwrjQKZ9PBfxCpQta0I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Čaliuskincaŭ Park of Culture and Recreation",
+                "category": "Park and Garden",
+                "url": "http://parki.by/All-parks/2",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdZrDH8ds-yM7u_0nTniPdRLzzNU-nwonsnk0n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trinity Hill",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUcFcXh8YVFp6D2pn_dmwNvXvkactsq-xiPxVS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pripyatsky National Park, Belarus",
+                "category": "National park",
+                "img": "https://lh3.googleusercontent.com/proxy/7fWRk8JljipYOv_el03p7vOZ3PdBNKQACAODOG_g3i_GPTTD7HK9715ICYMOoULDFn6vGMgq49d608sZnnxqsEIWbGIUW7mwa9yNBoKuvAUNpPFAPVRBr4QnLBnveIzPyVlSaD8LyFPIH1HcRXUbN7OzEhxkXDU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk-Passazhirskij",
+                "category": "Train station",
+                "url": "https://www.rw.by/passengers_services/railway_stations/minsk_passenger/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPIGEP46Rc8q3E59rbmbojgwCqIo8Wz93FyxYeJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dudutki",
+                "category": "Museum",
+                "url": "http://www.dudutki.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3C8MxDRV9sVWhB2Eax6M5aCCTwdh7Ffyujfin=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of the Rumiancaŭ and the Paskievič",
+                "category": "Museum",
+                "url": "http://www.palacegomel.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBOscEfmJk-EJ1PttA6gO2eO1u5CUpgHi7aFcU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "url": "http://belarusmini.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Square, Minsk",
+                "category": "Public Transport Station",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL6E7_SI7pw6TwTRfI1If27KqIE3g8_EveTNvQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mogilev",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxteQ4x3sWI5N-6WsoIqnNld4W0PX-h88BmCDF=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "url": "http://www.nlb.by/",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkAGUgG2m6bXTPxsOfRqUcoLO4xyLVH64TAd_6=w148-h148-n-k-no"
+            }
+        ],
+        "Maladziečna": [
+            {
+                "title": "Mir Castle",
+                "category": "Museum",
+                "img": "https://lh4.googleusercontent.com/proxy/c77_3SG-Mw7Nhrlfr171aIw8iiwO_3rqXYhweF6zUjlNWW3syX6Jty2RaDKfKe07jdkxXIcR1ckTzL1mswp81xmelgmcyc_8hXPj8S7l5eD1b8aRc8g_MxkwPUqIuq_a8Sy_AVpGBu6cJjkmBP7EOcfI3OCJTQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kraevedcheskii Muzei Oblastnoi Minskii",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOsIQFY4bqlxM_MspTKyuIaYyCFnoucVqVLqwow=w148-h148-n-k-no"
+            },
+            {
+                "title": "Маладзечанскі замак",
+                "category": "Castle",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzbBW9jWxcs76N2XJ3L6zd2OHf_LxUD83DqZaN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Pobedy",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnVBiAovtiaz1jqjM7xb50kJH6LkBuQiAxINwZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mini Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoOEqOFCaAEbjE3ZtSIYo6YEizD6AR-X-R7qDE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Čaliuskincaŭ Park of Culture and Recreation",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdZrDH8ds-yM7u_0nTniPdRLzzNU-nwonsnk0n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Horkaha",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNmtFjcgz4u5KLGFaogacsFMq00lHPAz3nJgP0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Свята-Духаў кафедральны сабор",
+                "category": "Cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWAdUg9w6X2W096poXBQwrjQKZ9PBfxCpQta0I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Minsk Arena",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian State Museum of the History of the Great Patriotic War",
+                "category": "War museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saints Simon and Helena",
+                "category": "Catholic church",
+                "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library of Republic of Belarus",
+                "category": "Library",
+                "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belarusian National Arts Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlF9Wde0yCLfAFUFRjwTzsKgvG2VlJTCvsSKZH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Square",
+                "category": "Town square",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkAGUgG2m6bXTPxsOfRqUcoLO4xyLVH64TAd_6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Island of Tears",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOn-PS3y6D59dhZAoxf7T5Kl8vD2JdU8i7TmlKl=w148-h148-n-k-no"
+            }
+        ],
+        "Rechytsa": [],
+        "Brest": [
+            {
+                "title": "Railway engineering museum",
+                "category": "Rail museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOfMHLvdFsR5dZq08R6P7snJSshoIdAVVHQzWZA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Brest Fortress",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhmoCYmIUgWV3Dty_G-GW-TFJFMb2us_a3Lxn6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arkheologicheskiy Muzey Berest'ye",
+                "category": "Archaeological museum",
+                "url": "https://brokm.by/berestye",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjPfFA0O9Od-926pGsqv-K_SV2aNZ6b6c1yE9V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muzey Spasennykh Khudozhestvennykh Tsennostey",
+                "category": "Heritage museum",
+                "url": "https://brokm.by/spas/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN5Uc59MptH_QJGOzkmGCISR1ilueXMW7cDPuLE=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Nicholas Garrison Cathedral",
+                "category": "Orthodox church",
+                "url": "http://forts.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5IZNfsC93d7CdkWwDgL_f1giwndEfgYxgXpTR=w148-h148-n-k-no"
+            },
+            {
+                "title": "5 th fort",
+                "category": "Museum",
+                "url": "http://www.brest-fortress.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNyBK2O_y0NLdFvVyAxf6JFSfvBxsm5aVdSGodG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Muzey Oborony Brestskoy Kreposti",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGfbr6Ni1piJ3Yi3ZYMrEFA9OeuM9x3PT4WhE_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bielaviežskaja pušča National Park",
+                "category": "National park",
+                "url": "http://npbp.by/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPYZLJX-kkQlae5K1XCuKZ0B7KOAKUsm_M3Itt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tower of Kamyenyets",
+                "category": "Historical landmark",
+                "url": "https://brokm.by/vezha",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPu3Y5VSlgnzRUqGHYYFn6JMvkf5PBF23pJHUFs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Belae Lake",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCFtKafx5C1Kl4c8anFRdSe0WZbafzFjtjkTP-=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Brest Fortress",
+            "category": "Fortress",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNhmoCYmIUgWV3Dty_G-GW-TFJFMb2us_a3Lxn6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Nesvizh Radziwiłł Castle",
+            "category": "Castle",
+            "url": "https://niasvizh.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNwc0UtKbymrnMql6meng73vq4_PopR1YQ2-8E8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mir Castle",
+            "category": "Museum",
+            "url": "http://www.mirzamak.by/",
+            "img": "https://lh4.googleusercontent.com/proxy/c77_3SG-Mw7Nhrlfr171aIw8iiwO_3rqXYhweF6zUjlNWW3syX6Jty2RaDKfKe07jdkxXIcR1ckTzL1mswp81xmelgmcyc_8hXPj8S7l5eD1b8aRc8g_MxkwPUqIuq_a8Sy_AVpGBu6cJjkmBP7EOcfI3OCJTQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Park Horkaha",
+            "category": "Park and Garden",
+            "url": "http://parki.by/All-parks/1/kontaktygor",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMNmtFjcgz4u5KLGFaogacsFMq00lHPAz3nJgP0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bielaviežskaja pušča National Park",
+            "category": "National park",
+            "url": "http://npbp.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMPYZLJX-kkQlae5K1XCuKZ0B7KOAKUsm_M3Itt=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dudutki",
+            "category": "Museum",
+            "url": "http://www.dudutki.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO3C8MxDRV9sVWhB2Eax6M5aCCTwdh7Ffyujfin=w148-h148-n-k-no"
+        },
+        {
+            "title": "Belarusian State Museum of the History of the Great Patriotic War",
+            "category": "War museum",
+            "url": "http://www.warmuseum.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM4o2GPc74iga81ImyqFwroIj1k099GTJdwKybc=w148-h148-n-k-no"
+        },
+        {
+            "title": "Waterpark Lebyazhy",
+            "category": "Water park",
+            "url": "https://waterpark.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMBE7l9j-yfB-2G-5jRIffPSvIKRxwDvop6HdF5=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Library of Republic of Belarus",
+            "category": "Library",
+            "url": "http://www.nlb.by/",
+            "img": "https://lh3.googleusercontent.com/proxy/bUzFkhqgZGGvIwQwsGqLhPY9JXxFGgdmVh5LQrTacFybGw8dProTG6tT-R2hfN6vRAir9Jq4TfLtSZpwaz5M7fDQZAHH_AVEquUAFnmAZ1eQ3_UfrfnJvZIzzyykj-VY81C1dLojvUikVjMomjUPxtQ2Roui-pY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Stalin Line",
+            "category": "Open-Air Museum",
+            "url": "https://stalin-line.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMAGEOMjOeBw9KSIlsFxg2KqGJFDXGNLwU1xjl4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lida Castle",
+            "category": "Castle",
+            "url": "https://lixmuseum.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPFTNCGjjqBulhsqz35euDQjLiJi0kQoHiX3Otk=w148-h148-n-k-no"
+        },
+        {
+            "title": "Belarusian Central Botanic Gardens",
+            "category": "Botanical garden",
+            "url": "http://cbg.org.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdEstF79mwR0Xmd1g2_JuIJvysdI1d61rNlJ7_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Minsk Arena",
+            "category": "Sports complex",
+            "url": "https://minskarena.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN4X6inkcmpDPxRZmTXs5Zy49fGQAI3O6u4QkmK=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Academic Bolshoi Opera and Ballet Theatre",
+            "category": "Opera house",
+            "url": "https://bolshoibelarus.by/rus/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNW109IuMOG_7BL1gbK9_zxLovUwqlscjpepBL8=w148-h148-n-k-no"
+        },
+        {
+            "title": "Komarovsky Market",
+            "category": "Market",
+            "url": "https://komarovka.by/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNqTNJ_piBEcgJO4KTZJvO6TSHyHEfQ03KgXO-o=w148-h148-n-k-no"
+        },
+        {
+            "title": "Church of Saints Simon and Helena",
+            "category": "Catholic church",
+            "url": "http://chyrvony.by/",
+            "img": "https://lh3.googleusercontent.com/proxy/FLBPiibXDRk_TpgqYjcWluoT8SD_ge1_gjnjoo--J3klCfNRJ9XTTz3SwlgCytliDqt0JdKFVIbwF90xcoQVy8xdIPZqqjMDZG3Re8GMXBiI4_E0oW7JgVnWUwGMHfbdDtMgBz81Zk-VlaQ0LpvkB8wnG2cbTC8=w148-h148-n-k-no"
+        }
+    ]
+}

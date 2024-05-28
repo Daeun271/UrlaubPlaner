@@ -1,0 +1,298 @@
+{
+    "cities": {
+        "Bongor": [],
+        "Abéché": [],
+        "Kelo": [],
+        "Mao": [],
+        "Am Timan": [],
+        "Mongo": [],
+        "Doba": [],
+        "Moundou": [],
+        "N'Djamena": [
+            {
+                "title": "Eyte Voyages",
+                "category": "Travel Agent",
+                "url": "http://www.eytevoyages.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmbrua_ad4gvbQruJhJ4-4mT7dgl-OQ6-qL3oG=w148-h148-n-k-no"
+            },
+            {
+                "title": "N'Djamena Grand Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhX5AiYPtiYruVBpel8HGqouGPBrRQ_NaPfuaP=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of Chad",
+                "category": "National museum",
+                "url": "https://www.facebook.com/Mus%C3%A9e-National-Tchadien-NDjam%C3%A9na-114446211970879",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpZlyb08vnl3puNlb1H-YdzadPOYUb6RnDwCZp=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Normandy",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOSF5lKYYKo7gOldSIClaJKC-Gl_NMNj2renBQ5=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cathédrale Notre-Dame de la Paix",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqWYHN8NNiiSoG4x3WxJn0kYF2nAK-gRcprIWg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gaoui",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmEpTr7InEbbskJqXf5iBy5J5qQbcEjgxGZ6lL=w148-h148-n-k-no"
+            },
+            {
+                "title": "La Mirande Hotel",
+                "category": "Hotel",
+                "img": "https://lh5.googleusercontent.com/proxy/XNVk7lminccl3EkuIo_3MwhA4cYPsOnMFFxO0PPB7zS-i9uj87kIVefg8bDpeSlw2h1Yi5iWDKqs8UxQMCWC_APxJ3A5olNN3-F8dKuTbnF-vub0v9s3ctu_cqYOaF8EtofZ-ocnIujeCaFjwpdQ29ckbu8K8L0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Chad",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3RRG4Nx4GSyhV6li4Kgtw2j8x9WgeTuEGtlNN=w148-h148-n-k-no"
+            }
+        ],
+        "Koumra": [],
+        "Bol": [
+            {
+                "title": "Golden Horn Beach",
+                "category": "Public beach",
+                "img": "https://lh5.googleusercontent.com/proxy/bd0jiwgF0al76_COQaCPxn4tkzeHN5FeoesM_d1LcVhQPrA4TiZh9YxLimQnRrJXMxWALwisIBjnjVPP0sw_S9sdt_ccWPZHk-wc-QHxH0fqtcriOADhb71ZsXl3ylLaTsk_zTWod6Dz4PhRAyStaXL1QKJQL6Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bol port",
+                "category": "Marina",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlsp1QR55K5kcTZKg2t-TbGbVc_NPsfEYLoZo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stina Winery",
+                "category": "Winery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7sTxhC70lkUnz64_vOvwo4RzhEoLnr0FC59qv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dominican monastery",
+                "category": "Monastery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOMYnkYdiiAFdnmOwyzhsebou8QJmi1HL8zCbnL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Auro Cocktail bar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP75YfIM4fNZVk7da8EMoUZqg6IwW_Yn1KcZ4UQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martinica Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMQ-LXDT50GQgPK-XnTnxXdQY6Z_bCJ1WxqUOAL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaža Kotlina",
+                "category": "Public Baths",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBWvztHMteOhX3c5kzSUfgyoHyvg1Iwl1r43TF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Murvica beach",
+                "category": "Point of interest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvEVjp3OxIwWGflMjdfINL8DDhUofensvfduUb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vidova gora",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-sVcLNCaEE1rZ20uvzzIADY4FqPXUjGcFHYR0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blaca Hermitage",
+                "category": "Memorial",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeZdNGlpeAp-793k6auukcdP3DL2kNqU-9XuXh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Borak Beach Restaurant",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPlocxk3Dilu56IAT9SwUDkCbQAEyt09jEA2piw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaža Potočine",
+                "category": "Public Baths",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0oys4Yj-OhckvymVCBIs-i4c53oqz01PsibtN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Plaža Grabov Rat",
+                "category": "Public Baths",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi1WU0n4WM6pAQuTmBnS7vrfvgmZ8JK38VuNme=w148-h148-n-k-no"
+            }
+        ],
+        "Goz Beida": [],
+        "Sarh": [],
+        "Pala": [
+            {
+                "title": "St. Mary's Church Lalam (Old)",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtOa4tpp3809cu7_xhtUgw4Svl44NWMXVpl8Oo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pala Municipal Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6N0Kk1ah5BV_MclHdXX4ca2ZX4Rmcv4Ga994j=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Dominic's Church & St. Antony Shrine Mundankal",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNoZTQcoEy07cVK75p-knkxIE6CQVqKaSn1441D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chottanikkara Bhagavathy Temple",
+                "category": "Hindu temple",
+                "url": "http://www.chottanikkarabhagavathy.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDxQOqXXq8Z_gdIoXc2iJiHLFkaUqCpxIKHFz7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Illikkal Kallu",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLRMyXRdyyu7jbzAFcqjdqv4HjKBl4d4z7Pxb3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jawaharlal Nehru International Stadium Kochi",
+                "category": "Stadium",
+                "url": "http://www.gcda.kerala.gov.in/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0lxycLGYDj6aIozQd6SN0YNGsTnNUjegx-R-j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wonderla Amusement Park, Kochi",
+                "category": "Amusement park",
+                "url": "http://www.wonderla.com/kochi-amusement-park/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkbcNsf6LBbdG3_DS3EQQUZougJ0YooT1fBEI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hill Palace Museum",
+                "category": "Archaeological museum",
+                "url": "https://www.keralatourism.org/destination/hill-palace-museum/182",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6lur1DaeAHDriamHS1lVI6CEWvaYk6a3C9st3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Subhash Bose Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcxswx9bLmKMgvxqtTqiPIZvhxX8R8sibr8LPJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kattikkayam Waterfalls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQ-YFpSjaSpIuYryS1g1lOxMAtC0zsHQDQ3zA6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alleppey Beach",
+                "category": "Tourist attraction",
+                "url": "https://ilovealleppey.in/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6pz8e4G-RihClfE4k2qzyOrbWSIhxPAMlpvqh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ettumanoor Shri Mahadeva Temple",
+                "category": "Hindu temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFKm1csHs2AzdwyOHmLEsHXTvEYwaMXZqrFwyX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aruvikuzhy Waterfalls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1Eqjni7F5poKPTHb0yp0-xm0OSqlleBI5GMja=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aspinwall House",
+                "category": "Events Venue",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdd_iV4svvy0pcyIk7lHiE5B7hGUCfr9DqYEQT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mattancherry Palace",
+                "category": "History museum",
+                "url": "https://www.keralatourism.org/destination/mattancherry-palace-kochi/178",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhon6k-7OimsTdaNp3me6izOloGLFMfYOU6fhB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Krishnapuram Palace",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0Vq4y7XKUGgkJ-vMvndm_MOnEgKetsuy9jbOi=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Zakouma National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN-auRJFTS0e9LDyct6VNnB-4YE27EJCYzYBPrw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Chad",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO3RRG4Nx4GSyhV6li4Kgtw2j8x9WgeTuEGtlNN=w148-h148-n-k-no"
+        },
+        {
+            "title": "Aloba Arch",
+            "category": "Tourist attraction",
+            "url": "https://www.naturalarches.org/big10-5.htm",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPN6C7TbZDCgBSbKQEgrHmbIELmeBahPwnyZI3X=w148-h148-n-k-no"
+        },
+        {
+            "title": "Guelta d'Archei Lake",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPDhIBmSwdGYRcO2EOCzcWVmM-t9N0Xm6jlfWse=w148-h148-n-k-no"
+        },
+        {
+            "title": "N'Djamena Grand Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPhX5AiYPtiYruVBpel8HGqouGPBrRQ_NaPfuaP=w148-h148-n-k-no"
+        },
+        {
+            "title": "N'Djamena",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNclg727m5n40aRbeF0432CNgY8EN0XhgYqWIcH=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chari River",
+            "category": "River",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOjVSk6XUSdT0pCETX4UdUuHQ8VHWxtZmwljO32=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gaoui",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPmEpTr7InEbbskJqXf5iBy5J5qQbcEjgxGZ6lL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Emi Koussi",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNpl6iNIIjrZ-Fq_4l3GUJ3kw-WpQV0A5bxkvrz=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of Chad",
+            "category": "National museum",
+            "url": "https://www.facebook.com/Mus%C3%A9e-National-Tchadien-NDjam%C3%A9na-114446211970879",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMpZlyb08vnl3puNlb1H-YdzadPOYUb6RnDwCZp=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Yoa",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNBDgsCQxb2sSGIBI1NJCBmgGclYCED1wzmaKla=w148-h148-n-k-no"
+        },
+        {
+            "title": "Abeche",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO7C7xHWgmNuN_ur2d5oVNbckn7q7ltu0VcGc_Z=w148-h148-n-k-no"
+        },
+        {
+            "title": "Moundou",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOvckcvgDn590q-13t73CBtslvYIxZ7c5bScHLZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sarh",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNQo6qG9GV-S_867VsDOCnCdY-J8Xuj9USRKDsL=w148-h148-n-k-no"
+        },
+        {
+            "title": "Am Timan",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPsloWiEDTt_VHXuFqq2mFnEjDpjsxNfAEo8QHO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Goz Beida",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMWMI2FGVRFK9ydQgV5isqT5WmSSXFMqCEnMsT4=w148-h148-n-k-no"
+        }
+    ]
+}

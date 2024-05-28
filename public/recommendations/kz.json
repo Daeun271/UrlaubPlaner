@@ -1,0 +1,708 @@
+{
+    "cities": {
+        "Kentau": [],
+        "Baikonur": [],
+        "Pavlodar": [],
+        "Kyzylorda": [],
+        "Atyrau": [
+            {
+                "title": "ТРЦ \"Baizaar\"",
+                "category": "Shopping Centre",
+                "url": "https://www.facebook.com/baizaarguw/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP041es1liY9YFF-xUV1TR2HCXRle_DzcwGdxTg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Retro-park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIDQRdHKxJegK0LUSOntAISR1JCwzYKJlEhVga=w148-h148-n-k-no"
+            },
+            {
+                "title": "Аквапарк \"AQUA TOWN\"",
+                "category": "Aquatic centre",
+                "url": "https://instagram.com/aqua_town_atyrau?igshid=wib6k1xg7wsp",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfVGnqTto1CQSxn4gIkHcH8VkyB3RxOlbA8hvb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Imangali Mosque",
+                "category": "Mosque",
+                "url": "http://abuhanifa.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcIhB7PSciFlEOzhzfYUwB7wvFL55LUyDZqHp6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Isatay and Makhambet Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJOnPhf8bZURZuauizJCPimCuEqNK2Qq4SpFH8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Talisman SPA SAUNA",
+                "category": "Sauna",
+                "url": "https://instagram.com/talisman.spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnjFnDB-KNgPoFBvNgqCLRbVjxybFbBzNMgPR9=w148-h148-n-k-no"
+            }
+        ],
+        "Astana": [
+            {
+                "title": "Baiterek",
+                "category": "Tourist attraction",
+                "url": "https://www.baiterek.gov.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP5ZBfBpS9y7sLWPu7btAqSVVCqSDqGWJNNiUZt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hazrat Sultan Mosque",
+                "category": "Mosque",
+                "url": "http://www.muslim.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnMNMe6aa6Bf_Q60ojVPpNx9bIIakBEY7YDqDi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Astana Opera",
+                "category": "Opera house",
+                "url": "http://astanaopera.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWSTgAEp9unt5aUys3W3fNOJ3n4S39DeLY8QzX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nur Astana Mosque",
+                "category": "Mosque",
+                "url": "http://ummet.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2lP-KeCLH4ieFV1li03-bkP9gIp_YGwkOQh4I=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum of the Republic of Kazakhstan",
+                "category": "National museum",
+                "url": "https://nmrk.kz/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGyt40gml4_Uw_tbeSVKr5_HCoFPt9BVXBQPmK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Palace of Peace and Reconciliation",
+                "category": "Cultural centre",
+                "url": "https://astana-piramida.kz/",
+                "img": "https://lh4.googleusercontent.com/proxy/-SEydC6Y6JlSPT37VLGdEXorctSy_SOdytHJ7bWxwTGwu4JT4i2grVDmVBv84Fc1fOad-e-cqHy228WqOxFNZ40I2C2RjoUb7tkRe_aQuK6Um79M-py5ntHnRsVTnsRhtWMFK19PCfZ68sG_nvbp3DvKdijTyA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mega Silk Way",
+                "category": "Shopping Centre",
+                "url": "https://mega.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhTttUMYzOrgtfrSTf9m0SkNuGKuK0kfLmK4bm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Astana Central Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2yru5w-CsFqaIzp3oiukvUH-wURM0BBWzcv5A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nur Alem museum",
+                "category": "Museum",
+                "url": "https://qazexpocongress.kz/en/nur-alem/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRWp_GpA5KXDNVdnO-FeuvN8sTnDqjRBHDTQxn=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khan Shatyr Entertainment Center",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJHHnBCM4H4BpmXcRo2CzVrzgZD-CLmOC5rUEq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barys Arena",
+                "category": "Stadium",
+                "url": "https://www.hcbarys.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOBXiTrs4ov6l8yaVUHSMdPDbOmZ9IXKEhtM_o=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ak Orda Presidential Palace",
+                "category": "Government office",
+                "url": "http://www.akorda.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7Hrm1hIxpgGTJVh1D-tTrdX3BjeXVWPqztOsz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monument Kazakh Eli",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbTlsCsIuCwm7d3CJ903aqn617ed36IHNHio0m=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Museum of the First President of the Republic of Kazakhstan",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPOMrJAwwC1yTJmxbD_q8ZIECxQH00a-YR1h7FP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Saken Seifullin Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOHAa9NFr_Krc-8yXmiSzKiG38jCtGcZrSfvGrd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nurzhol Boulevard",
+                "category": "Notable street",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOosvUO7slVtzGI3y3ooAcd_blkl0UF_jBlEPOL=w148-h148-n-k-no"
+            }
+        ],
+        "Temirtau": [],
+        "Balqash": [],
+        "Qulsary": [
+            {
+                "title": "Аквапарк BLUE WATER",
+                "category": "Amusement park",
+                "url": "http://bestec.satu.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-AiM9u1rl8aahEIoldT2cxdF2braAL67l7Gog=w148-h148-n-k-no"
+            },
+            {
+                "title": "Truba Nachalo",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrhalIrURshIT-Q5EV6TWKIQ98Ot2HsEGT7b5V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sport Complex Samal",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK9lD13wehnXLnb6vPjUkO6tiL_WcIOFVKIGbp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park Vokzal",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNj0PX23rFbyeaC7GWwV6aHB4Q0P6zqXT9s93LL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Isatay and Makhambet Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJOnPhf8bZURZuauizJCPimCuEqNK2Qq4SpFH8=w148-h148-n-k-no"
+            },
+            {
+                "title": "Imangali Mosque",
+                "category": "Mosque",
+                "url": "http://abuhanifa.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcIhB7PSciFlEOzhzfYUwB7wvFL55LUyDZqHp6=w148-h148-n-k-no"
+            }
+        ],
+        "Almaty": [
+            {
+                "title": "Medeu",
+                "category": "Visitor centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNN0ef1oq4A5fOaSb2coSwPRrag_u2m6XzYz9qr=w148-h148-n-k-no"
+            },
+            {
+                "title": "First President park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJE6GwQcS6QtRHNRLMXJ97BUs1ZN3c49zu6Dsa=w148-h148-n-k-no"
+            },
+            {
+                "title": "28 Panfilov Guardsmen Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnn2rKZLql-e4Grod3amW5FGr1DNersmVsuiWz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green Bazaar",
+                "category": "Farmers' market",
+                "url": "https://instagram.com/kok.bazar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv4F2o64CjJuPlBS3d5xDaXDftiHm4jzIW-ZdH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ascension Cathedral",
+                "category": "Russian Orthodox church",
+                "url": "http://www.cathedral.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMd4_xMfw3FasPK-BTE3ErLIx6WHuKRuMYukQz4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abay Kazakh State Academic Opera and Ballet Theater",
+                "category": "Opera house",
+                "url": "http://www.gatob.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPCDOtauKZ9jiraRyYww8hsdajO9EqsTt51WCS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central State Museum of the Republic of Kazakhstan",
+                "category": "Museum",
+                "url": "http://csmrk.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_Kgdx3arjDzsY64kACGXZY_XTqnq6q_-C3eXM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kok Tobe",
+                "category": "Tourist attraction",
+                "url": "http://koktobe.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPp2Sfl3Q9uYd4ZgLsbbqIiHOMAniCYOl6L8kCU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shymbulak",
+                "category": "Ski resort",
+                "url": "https://shymbulak.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMO1qRvYTA4kOKUIYIv6sReZ-_6MeevIrHd-jq2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ile-Alatau National Park",
+                "category": "National park",
+                "url": "http://www.ile-alatau.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdebX7Myvzfrio7fvdhPuQ7J6AjKd98-nBqJhJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kok Tobe Hill Gondola Cableway",
+                "category": "Mountain cable car",
+                "url": "http://koktobe.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtsxBI5UjJCfEphWGh2WJyScyogH1mkv-611fw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Park",
+                "category": "Amusement park",
+                "url": "https://almatycentralpark.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcHuta-UvSkdSA6cJc0cvXmIUUyVQv83Bi8fnt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Almaty Zoo",
+                "category": "Zoo",
+                "url": "http://almatyzoo.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKTJCh_44sVM_rRqVTQwHUydncsP6BWBdZOUxF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Almaty Central Mosque",
+                "category": "Mosque",
+                "url": "http://azan.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHBAjNRsLFSLdY0TliOBz3QqEUmFiYtXaET50R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Botanical garden",
+                "category": "Botanical garden",
+                "url": "http://www.botsad.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnluqw55-fkDaJizU-qSH0mCWoNvuJ-Mv5yBF-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Musical Instruments",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtwayhZSQHED_gvloYCVb6PRdyey_EbWP8nKmH=w148-h148-n-k-no"
+            }
+        ],
+        "Taraz": [
+            {
+                "title": "Zhenis park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNN69KfgtT0CWz2RHmev65JnKbD-3l18uLEO3Aw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tsentral'nyy Park Kul'tury I Otdykha",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipODRkgykG1wurMZ0braPBE5CYld-vG45aw-Nd4j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Кинотеатр Астана Cinema",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbMdz9IANA16jfL_CAScsI0yzcqUsFUe1cBZ7S=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aisha Bibi Mausoleum",
+                "category": "Cemetery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMAIfydrwY1FOShBkd2dGplwMD_Kz8NHu3_yTg0=w148-h148-n-k-no"
+            }
+        ],
+        "Karagandy": [
+            {
+                "title": "Central Park of Karaganda",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3NzYOeq2VnKe-eZCa57tEns7mTw2iHpGQoObV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Local History Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-FVmIsm1t0_nUOhXCFdJlbTuIHcZ_48UcxIsS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karaganda Regional Museum of Fine Arts",
+                "category": "Art gallery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSHhQOyjU8XYcTff2EP9_sFKTW7-2a_2preNGX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karagandy Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOgiRIt-cuhkEPZwrU5yDNJvFW7GCe2M5R5BnPL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Karlag museum",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRO5uZ5w2QPqUdHu-7pl2ThBFGZEM-h276SNoO=w148-h148-n-k-no"
+            }
+        ],
+        "Oral": [],
+        "Zhanaozen": [],
+        "Semey": [],
+        "Turkestan": [
+            {
+                "title": "Mausoleum of Khoja Ahmed Yasawi",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMv5zkh5vDqTsEQqKU48K1Luv2nPMauwfpO1kbZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Masjid Khoja Ahmad Yassavi",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_KRz476wGFMrBfVwm-Yjefa-T03gq8ksHmIB1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Underground Mosque",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiVLI3tFlyh0w5SpM2TvdWumdKja_mGaO3ShfU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mausoleum of Rabia Sultan Begum",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-IiD689W39DzEKd3jeJZnoihZ8XaOmYdf0vDA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Farab Library",
+                "category": "Library",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNJn-Pwfb_7QHMjhAo4Zof1Vd13_2BkOB4B6d92=w148-h148-n-k-no"
+            },
+            {
+                "title": "Khanshaiym Plaza",
+                "category": "Amusement Centre",
+                "url": "https://www.instagram.com/khanshaiymplaza?igsh=d2x5YjRybTJieWd4",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHY8pg2tk_Vb0-V8pvuhtxidpMEw2IiFk88UVM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Шымкент плаза",
+                "category": "Shopping Centre",
+                "url": "http://tsd.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNXy_bj32VSUNC4vlKbIIsjS9l3ebQ2ZDUdizPY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aziret Sultan Reserve-Museum",
+                "category": "Museum",
+                "url": "http://azretsultan.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXjLT3i5uvZcYJe1-eYMlNys22ruPL1ZedSmjP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadion Lokomotiv",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPcYqMOtv2Pv4Hizf6fzYtfKsmwZ2pZn1RVIKsj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stadion Oktyabr' Zharylkapov",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkgC6aC7tpydNKCkAgMUNI-yevA6aEy8GMNd0s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shymkent",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdD1aIjjWlJquDpg3EqjgL1Vek5sPrUFHaGT5d=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arystanbab Mausoleum",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpa-JSedgudHkMUD3_9tOdd9d4GBuQlu7pJ_HV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ukasha Ata",
+                "category": "Place of worship",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4KJwKWgDJvw6tFkW0K2la4mIk39nFjXaFmuam=w148-h148-n-k-no"
+            },
+            {
+                "title": "Turkestan Arena",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGv9T3bUw6LaJAb6NjfecAx66osNGKkBrnYA9G=w148-h148-n-k-no"
+            }
+        ],
+        "Ust-Kamenogorsk": [],
+        "Petropavl": [],
+        "Ridder": [],
+        "Taldykorgan": [],
+        "Sarqant": [],
+        "Kokshetau": [],
+        "Ekibastuz": [],
+        "Kostanay": [
+            {
+                "title": "Victory Park",
+                "category": "Memorial park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMz2pHNoJIlOgY4M18Zl10YsvWB9rjN73lw5CTe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kostanai Regional Russian Drama Theatre",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOIvnKQb4YsA5R-fmNVBRNLPhB9ItYWUBk9k86I=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kostanay Central Stadium",
+                "category": "Stadium",
+                "url": "https://fctobol.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM52MAXwht6rVKQ1hTouTS0yZpn_rK9-vFzpOfO=w148-h148-n-k-no"
+            },
+            {
+                "title": "ZODIAC CINEMA [HD]",
+                "category": "Cinema",
+                "url": "http://zodiaccinema.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0JyCgxYpcm0xNs98FTSf4K47YT4Ngx_Dsxzr1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arman 3D",
+                "category": "Cinema",
+                "url": "http://arman3d.kz/cinema/kostanay/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGJ2_DCBvnJzXXQu9XARHMBOWYRsJMBTfYnPDa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Youth Boulevard",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPczI6YcogaYM4eLu6SNIog1gj4KCPlMlmTRjOQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lisakovsk Pentagram",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6YPPQGc5orF2LcqHugid4A_hZURr3EW6k8qLf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tutokruto",
+                "category": "Children's Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDlR7AOjkerY2vxGMkjM-DsHoIG_Z0EOlDXVMq=w148-h148-n-k-no"
+            }
+        ],
+        "Shymkent": [
+            {
+                "title": "Abay Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbJ2R7_TCUiDcqaY7IWlMDucpTEAkOHIN4KL0z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shymkent Zoo",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaTTLX4QiIronHR7NOPzE5y8UfikTX_b0rZp_L=w148-h148-n-k-no"
+            },
+            {
+                "title": "Independence Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPPfgQxWTJkYiJ0CaV1ChkJ1YDmx3slsoMoKKT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ethnic Park Ken Baba",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMumASoCaDWK0fEJfrLQDptloX2x_sbCLCCxuqx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sayram",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOvselovk5tk4zgpV-upWszx13Rlq7UnaGp-c3T=w148-h148-n-k-no"
+            }
+        ],
+        "Aktobe": [
+            {
+                "title": "Kinopark 7 Keruencity",
+                "category": "Cinema",
+                "url": "https://www.kinopark.kz/ru",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOAY16sxtIMeTPTcDs73cMMtkEiHMGv_TOiwjZj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aktobe Central Stadium",
+                "category": "Stadium",
+                "url": "http://fc-aktobe.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPo3U_4SJQV9bV2IjkU9_tX3x5ruSDkF_Zipcru=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abay Boulevard",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwim5lhMOCH7RuYMfbJGbBvhCbbJ8An6iKtuJt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yurta Park",
+                "category": "Amusement park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMiGWG9Mq7xuw2pus1sMKvsKtl9ihrbvi9bMYur=w148-h148-n-k-no"
+            },
+            {
+                "title": "Health Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMRijp3JAjzy54XYxy_IAhEWvzt5VCUumkrA4Gr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Батутный Центр Sky Jump Aktobe",
+                "category": "Amusement Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4DKyJlHc-lCdkgFDAA2O2jdcFw80P9CWwJE4V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Abul Khair Khan",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPrJK2Qlrj-lY_QLRPripw0uo1hu7rLxR3kh23H=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nurgasyr Regional Central Mosque",
+                "category": "Mosque",
+                "url": "http://www.nurgasyr.kz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMSh3wi6j_FI6rylJuUeE738W46jaKEBQSr6ZAs=w148-h148-n-k-no"
+            }
+        ],
+        "Shevchenko": [],
+        "Rudnyy": [
+            {
+                "title": "Sydney Opera House",
+                "category": "Performing arts theatre",
+                "url": "https://www.sydneyoperahouse.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMHftgSCBlvyjxYphi4gLqDC_62WWvZvyy1EBuh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Botanic Garden Sydney",
+                "category": "Botanical garden",
+                "url": "https://www.botanicgardens.org.au/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOA8yn2rxrMspLNf3EKa9AHnGxus2Q88oqc_-SZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sydney Harbour Bridge",
+                "category": "Bridge",
+                "url": "https://www.dcceew.gov.au/parks-heritage/heritage/places/national/sydney-harbour-bridge",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNy1m2e4SmwXDCVsX57X9Swfl7JYsV4v5LhN893=w148-h148-n-k-no"
+            },
+            {
+                "title": "Art Gallery of New South Wales",
+                "category": "Art gallery",
+                "url": "https://www.artgallery.nsw.gov.au/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdGKd7I2PQollmzNFy2M_GnWGwfMRQo2P3MUNc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taronga Zoo Sydney",
+                "category": "Zoo",
+                "url": "https://taronga.org.au/sydney-zoo",
+                "img": "https://lh5.googleusercontent.com/proxy/5b7s4wvOtTuQREZJQYbg_kg5TxdCqPdGzJL9ZMbqWU4YhQ0ylk9qkEK2TmnIMT94e9u8WvFiEZ83CpycjNY-H5WKbqIv1cDBJB3DP0p9mSBZdCWQJc2DIOVcx7f8rHK5TdRp-J9aRNhj0LcgaSDkZLMe-V8ArQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Darling Harbour",
+                "category": "Tourist attraction",
+                "url": "http://www.darlingharbour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPaGKL_cxgQ1XKgaUC943fg_1a1sGKS2sV3ada=w148-h148-n-k-no"
+            },
+            {
+                "title": "Queen Victoria Building",
+                "category": "Shopping Centre",
+                "url": "https://www.qvb.com.au/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOM4L6eRfoPb9JF0J4PT7pu772CTghHjSTcla6D=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Contemporary Art Australia",
+                "category": "Art museum",
+                "url": "https://www.mca.com.au/",
+                "img": "https://lh5.googleusercontent.com/proxy/qTwo-A3Inn-Rw4s0gPGTcXNF53gA53Kvts9mQC4z7fN1-ajOWUmVmzZbw2E8SyXTjH3JK5ij4G8WWlSgiFN2j7q8_bw3YECsFliJLJO8w6EzAEU5l4F8gE62xEHpIVZRHQbwnWkviokK9MwwNdTLExb-m_Dm_g=w148-h148-n-k-no"
+            },
+            {
+                "title": "BridgeClimb Sydney",
+                "category": "Tourist attraction",
+                "url": "https://www.bridgeclimb.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNf7n1gdHDCDcnefeCnZJLZ7qcqa5QuP6uwE7o1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hyde Park",
+                "category": "Park and Garden",
+                "url": "https://www.cityofsydney.nsw.gov.au/parks/hyde-park?utm_content=Hyde%20Park%20-%20Sydney&utm_campaign=googlemybusiness&utm_medium=organic&utm_source=google&utm_term=plcid_12610484903724465125",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOjW1HBWm0MgFf0rMePg-eN2SyunryJI8EFWKX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Australian National Maritime Museum",
+                "category": "Maritime museum",
+                "url": "http://www.sea.museum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXK_BIwJg1cqrpXh0sjnls4GUgMfGy64eBO88=w148-h148-n-k-no"
+            },
+            {
+                "title": "Featherdale Sydney Wildlife Park",
+                "category": "Wildlife park",
+                "url": "http://www.featherdale.com.au/?utm_source=google&utm_medium=organic&utm_content=main_button&utm_campaign=gmb",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxzqNdSvO435DAQvZvR_m1BjZ2xyMbchduBWQT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mrs Macquarie's Chair",
+                "category": "Historical landmark",
+                "url": "https://www.botanicgardens.org.au/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNq56CaBs_BwLEDlsVFbsIg2UtFhqMFfTbCbEVs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Australian Museum",
+                "category": "Museum",
+                "url": "https://australian.museum/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPs1JdzHlYMpWOWT4D8hIifw4s_U9Oyb3oSgg-W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Carriageworks",
+                "category": "Art Centre",
+                "url": "http://www.carriageworks.com.au/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMN61y66DxKpAC8b9W8H9NXvA2OabyvWC1NzN37=w148-h148-n-k-no"
+            },
+            {
+                "title": "Barangaroo Reserve",
+                "category": "Park and Garden",
+                "url": "http://www.barangaroo.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMfZsDE6moh4XSegiuDlGbM-P0Rd7dk3dyVXQBz=w148-h148-n-k-no"
+            }
+        ],
+        "Zhezqazghan": []
+    },
+    "sights": [
+        {
+            "title": "Medeu",
+            "category": "Visitor centre",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNN0ef1oq4A5fOaSb2coSwPRrag_u2m6XzYz9qr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Baiterek",
+            "category": "Tourist attraction",
+            "url": "https://www.baiterek.gov.kz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP5ZBfBpS9y7sLWPu7btAqSVVCqSDqGWJNNiUZt=w148-h148-n-k-no"
+        },
+        {
+            "title": "28 Panfilov Guardsmen Park",
+            "category": "City park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNnn2rKZLql-e4Grod3amW5FGr1DNersmVsuiWz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Hazrat Sultan Mosque",
+            "category": "Mosque",
+            "url": "http://www.muslim.kz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMnMNMe6aa6Bf_Q60ojVPpNx9bIIakBEY7YDqDi=w148-h148-n-k-no"
+        },
+        {
+            "title": "Green Bazaar",
+            "category": "Farmers' market",
+            "url": "https://instagram.com/kok.bazar",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMv4F2o64CjJuPlBS3d5xDaXDftiHm4jzIW-ZdH=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Museum of the Republic of Kazakhstan",
+            "category": "National museum",
+            "url": "https://nmrk.kz/en/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNGyt40gml4_Uw_tbeSVKr5_HCoFPt9BVXBQPmK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Charyn Canyon National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipORMuyS9leSY9Ey3GWfKR--iVOORl7BWi_WObXA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ascension Cathedral",
+            "category": "Russian Orthodox church",
+            "url": "http://www.cathedral.kz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMd4_xMfw3FasPK-BTE3ErLIx6WHuKRuMYukQz4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ile-Alatau National Park",
+            "category": "National park",
+            "url": "http://www.ile-alatau.kz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPdebX7Myvzfrio7fvdhPuQ7J6AjKd98-nBqJhJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Shymbulak",
+            "category": "Ski resort",
+            "url": "https://shymbulak.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMO1qRvYTA4kOKUIYIv6sReZ-_6MeevIrHd-jq2=w148-h148-n-k-no"
+        },
+        {
+            "title": "Almaty Zoo",
+            "category": "Zoo",
+            "url": "http://almatyzoo.kz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNKTJCh_44sVM_rRqVTQwHUydncsP6BWBdZOUxF=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kok Tobe Hill Gondola Cableway",
+            "category": "Mountain cable car",
+            "url": "http://koktobe.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNtsxBI5UjJCfEphWGh2WJyScyogH1mkv-611fw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kolsai Lakes National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPbRK2p1v4T2yhdtH3dAiuCN_6T-iZtHE53dkhK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bayanaul National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPqxkBUZn4sbJK7PCkLRJgU6xeZTcWE56Fh8lLF=w148-h148-n-k-no"
+        },
+        {
+            "title": "First President park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPJE6GwQcS6QtRHNRLMXJ97BUs1ZN3c49zu6Dsa=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khan Shatyr Entertainment Center",
+            "category": "Building",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPJHHnBCM4H4BpmXcRo2CzVrzgZD-CLmOC5rUEq=w148-h148-n-k-no"
+        }
+    ]
+}

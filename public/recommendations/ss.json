@@ -1,0 +1,158 @@
+{
+    "cities": {
+        "Wau": [],
+        "Juba": [
+            {
+                "title": "St. Joseph's Catholic Church",
+                "category": "Catholic church",
+                "url": "https://www.archdioceseofjuba.org/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "All Saints Cathedral",
+                "category": "Church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Standard Bar and Restaurant",
+                "category": "Bar",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kinyeti wild Tours Ltd",
+                "category": "Tour operator",
+                "url": "https://www.kinyetiwild.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "BomaHills Tourism Limited.",
+                "category": "Tours",
+                "url": "https://bomahills.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Juba Tours",
+                "category": "Tour operator",
+                "url": "http://www.jubatours.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mathiang Adventures Limited",
+                "category": "Tour operator",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Jebel Kujur",
+                "category": "Apartment building",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Konyo Konyo Market",
+                "category": "Market",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Metro Safaris (SS) Limited",
+                "category": "Tour operator",
+                "url": "http://www.metrosafaris.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "UAP Equatoria Tower",
+                "category": "Insurance agency",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Doctor John Garang Mausoleum Street",
+                "category": "Route",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "White Nile",
+                "category": "River",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Juba Nile Bridge",
+                "category": "Bridge",
+                "url": "https://www.mabeybridge.com/projects/juba-nile-bridge-repairs-south-sudan",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Bandingilo National Park",
+                "category": "National park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Kuacjok": [],
+        "Winejok": [],
+        "Yei": [
+            {
+                "title": "Standard Bar and Restaurant",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM7HVxVaxaPzwLMWJ90WI7D6xX27svLEf-O8VBa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kinyeti wild Tours Ltd",
+                "category": "Tour operator",
+                "url": "https://www.kinyetiwild.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIctOFUHIY_lfB_bYXuNyghMcCleOvoN2QwUlT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juba Tours",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3r2QboctdSK13sfkmC7fWAs55s3Ndrjelg2Qp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jebel Kujur",
+                "category": "Apartment building",
+                "img": "https://lh6.googleusercontent.com/proxy/e7OowjXxpQBU_tcz-fKa1jFQPkUq4emgj3PHJkI5yJU21SVbsj75LE5Wl08SLRNV4yCNTV6rDOLeJukaUU7CRsLWRiXrOSHxDhsee6SK0_fiWzLwb0VQuDnBUTFKZF0WqRD5PscaMLWqGI7mpaHAFBPOupqHZ8E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Konyo Konyo Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaBByj78yOFBHv2P6_fiIGbWXCr8tL3oKLLEck=w148-h148-n-k-no"
+            },
+            {
+                "title": "BomaHills Tourism Limited.",
+                "category": "Tours",
+                "url": "https://bomahills.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7SDB7b3l0c_U-hUekxMslDKNuyo0Gst5ZToLw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metro Safaris (SS) Limited",
+                "category": "Tour operator",
+                "url": "http://www.metrosafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORpxbd67muqEOmtJ2EdVikT8a63ojvR7AJL6dI=w148-h148-n-k-no"
+            },
+            {
+                "title": "UAP Equatoria Tower",
+                "category": "Insurance agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyIhXY8EZ7qWyDdsKIUfbeZnZbpXTQggvFPTBN=w148-h148-n-k-no"
+            },
+            {
+                "title": "White Nile",
+                "category": "River",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDfft6co5CLNhrPXh_LP__eLwW4xQ0LtJxX09R=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mathiang Adventures Limited",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWeCwQlhZ04r2OFnHo6tLFpyHb7NeWZ2_yCNnL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Doctor John Garang Mausoleum Street",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmUMuRwlYwUjNKz25MpuKV7HCqOGjwtP8I23Ve=w148-h148-n-k-no"
+            },
+            {
+                "title": "Juba Nile Bridge",
+                "category": "Bridge",
+                "url": "https://www.mabeybridge.com/projects/juba-nile-bridge-repairs-south-sudan",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOMyFdPLIzm7_0lOLDmXPbtCANjk5eJFRt0NWz=w148-h148-n-k-no"
+            }
+        ],
+        "Malakal": []
+    },
+    "sights": []
+}

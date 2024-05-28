@@ -1,0 +1,560 @@
+{
+    "cities": {
+        "Riga": [
+            {
+                "title": "The Freedom Monument",
+                "category": "Monument",
+                "url": "http://www.latvia.travel/lv/apskates-vieta/brivibas-piemineklis",
+                "img": "https://lh5.googleusercontent.com/proxy/c9Rxx23kRPuMoyHjYNttfxb8YI6vmv_J96zHczikKOO8gqxo8q2Kskqa8OkHdB81SyT8bF5TFXsK3JqfmEevIzvjN69GtUuEbze7na2YOe5N0euwSrs13ts_5vp4w0rfbWF0QnkHO90lO8nmsVJLTDK1j8eVIFI=w148-h148-n-k-no"
+            },
+            {
+                "title": "House of the Black Heads",
+                "category": "Museum",
+                "url": "https://melngalvjunams.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa4pZp_eUgzt7305Q7jf7KNPtO-fqAPpOlDgn6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riga Central Market",
+                "category": "Market",
+                "url": "http://www.rct.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwdyXWACY_fMQgVfZzEWbGfTG6Kl3p8XrvTUj5=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Peter's Church",
+                "category": "Lutheran church",
+                "url": "https://svpetera.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt2sHIdICjba9mIdI0f5kwbZEGP4AR0PQhocCd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riga National Zoological Garden",
+                "category": "Zoo",
+                "url": "http://www.rigazoo.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0UcUwYTP2yY1caftlJQwe0YAoNpq7D0rviDEr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Latvian National Museum of Art",
+                "category": "Museum",
+                "url": "http://www.lnmm.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGguh7IZzg0YoEiNJXC9-jA71X24nw1DBxmeAM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riga Motor Museum",
+                "category": "Technology museum",
+                "url": "http://www.motormuzejs.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPFDLa6uXPly77lQSoJauLHahvl2mA4SsPtsfs6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Latvian National Opera",
+                "category": "Opera house",
+                "url": "http://www.opera.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwjCpuM0jUGt1nPiEX8MVO9N03lpca_X6ajuFG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riga Cathedral",
+                "category": "Cathedral",
+                "url": "http://www.doms.lv/index/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNtkWG7WRQT69-HRmGuwIaBnhfF2p06PjVnI0yA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Art Nouveau building",
+                "category": "Museum",
+                "url": "http://www.jugendstils.riga.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMMyvKE7QQFG9ORV3uiXBRNr4C-jnWddM0eeLO_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riga Nativity of Christ Orthodox Cathedral",
+                "category": "Russian Orthodox church",
+                "url": "http://sobor.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxwvoWJEKZxk9-_gLv_eobZEM251Xpztdl2oGB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Three Brothers, Latvian Museum of Architecture",
+                "category": "Tourist attraction",
+                "url": "http://www.archmuseum.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNzOOJXf1AZPpcf1z8TH-rQYpvYlyS2jqyCVU42=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Corner House",
+                "category": "Museum",
+                "url": "https://www.bezrindas.lv/en/exhibition-history-of-kgb-operations-in-latvia-on-english/6335/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfvUKusd4zQ8E9c6YENbamvam7vBxO-xP-qWGq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vērmane Garden",
+                "category": "Park and Garden",
+                "url": "http://www.riga.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7hk0UjKpymc--yvwRgr3_X6YxLP_sLsoC2snm=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Ethnographic Open-Air Museum of Latvia",
+                "category": "Ethnographic museum",
+                "url": "http://brivdabasmuzejs.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUrn_68CyzieJmYdIt8hL5geezlGAiyDHeh0qV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Riga Art Nouveau Center, museum",
+                "category": "Museum",
+                "url": "https://jugendstils.riga.lv/eng/sakums/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMU-C5Qj8aZrXIPcdnHoyovlF-Ibl_ZufH9IrZ=w148-h148-n-k-no"
+            }
+        ],
+        "Liepāja": [
+            {
+                "title": "Karosta Prison",
+                "category": "Tourist attraction",
+                "url": "http://karosta.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNA62TAeaN3-yMZ5zMmedZUHBXEUYA1G-kz_6UZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liepaja seaside park",
+                "category": "Park and Garden",
+                "url": "http://liepaja.travel/lv/darit-un-redzet/pilseta/apskates-objekti/jurmalas-parks-/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMJQdV1rJS-kW_xL7aLRvSsbhT6Be1Zl6Z5-h3j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Concert Hall \"Great Amber\"",
+                "category": "Concert hall",
+                "url": "https://lielaisdzintars.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOZ_21w6JelmONSW6l-PXUjEeEASmlngmUcABqx=w148-h148-n-k-no"
+            },
+            {
+                "title": "Oskara Kalpaka Bridge",
+                "category": "Bridge",
+                "url": "https://liepaja-sez.lv/lv/port/oskara-kalpaka-tilts",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoXONPxNJesAjk4Lagy0KknVwFOKhcyr9pO67z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liepāja Northern Breakwater",
+                "category": "Tourist attraction",
+                "url": "https://liepaja.travel/darit-un-redzet/ziemelu-mols/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQvfNuj9uN0Yl3hFugAp28koYGi_jfQxly1pEp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liepājas muzejs",
+                "category": "Museum",
+                "url": "https://www.liepajasmuzejs.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzOFXSX68ulAF41-mqPcRSbxC1OUdp_U_z3cEi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Artillery battery No.1 (Northern Fort)",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXryCNJ4e3cuGArsI6WvoiahXy472d57MXP0uX=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Joseph’s Cathedral, Liepāja",
+                "category": "Catholic cathedral",
+                "url": "http://www.katedrale.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN_LlhAbSpPplr4OHCS_TiOP7sAKHig-48jzaVv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Holy Trinity Cathedral",
+                "category": "Lutheran church",
+                "url": "http://www.trinitatis.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP99ENeQPY55rnqEsS66Wiivhnypux2GFtQk-Vh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Red Sun Buffet",
+                "category": "Restaurant",
+                "url": "http://www.facebook.com/redsunbuffet",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPN9lT0coScDxeuDrXOHx9GqBlYUlZaqnY7vV4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liepaja beach",
+                "category": "Beach",
+                "url": "http://liepaja.travel/lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4jodR0XUxc5xeDt1zhsqg_VENmqNm2u6JRkFo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galerija Romas dārzs",
+                "category": "Art gallery",
+                "url": "http://galerijaromasdarzs.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMh3__O1al-abECI3wXJglu73mogjPsOc0g54jO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rose Square",
+                "category": "Garden",
+                "url": "https://liepaja.travel/darit-un-redzet/rozu-laukums/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWcshICtJrF4iIKIbaCzPrKpTdpPpG3wRBQhtZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Spoku koks (Tree of Ghosts)",
+                "category": "Tourist attraction",
+                "url": "https://liepaja.travel/darit-un-redzet/spoku-koks/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVPFsRUrUswc2Z551bFDeWo0Ma5mPcTLuU1W_k=w148-h148-n-k-no"
+            },
+            {
+                "title": "Liepājas 17. - 19.gs. interjera muzejs. Hoijeres kundzes viesu nams.",
+                "category": "Museum",
+                "url": "https://www.hoijeresnams.liepajasmuzejs.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPyK1wcVk1dIStfHvAKMJLon1-5J_hCPy375qKC=w148-h148-n-k-no"
+            },
+            {
+                "title": "BB wakepark",
+                "category": "Sports complex",
+                "url": "http://www.bbwakepark.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEPpjrQfA586tCkN4hqwhSFaXDDcVkmQgTwcPx=w148-h148-n-k-no"
+            }
+        ],
+        "Daugavpils": [
+            {
+                "title": "Rotko muzejs",
+                "category": "Art museum",
+                "url": "https://rothkomuseum.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/hV_RcuLi6y10SjP40DOAQyKSR_i7NFhFybkmlDDkNyXguqC4TOqBo1zTL0CvmYGNqmb_AYlHO1ev7izCEPHttvCuDAlDV3lUu7_r8nc72FGcvU7XxtgXj5qdQmZ5c4Eexc6hBI60Vvea959mv0kYrK6u-zSO1w=w148-h148-n-k-no"
+            },
+            {
+                "title": "Daugavpils Fortress",
+                "category": "Fortress",
+                "url": "https://www.visitdaugavpils.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0uDLcAnMvb8YeQJII3fBh0iciSRvvKWfhhX1x=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dubrovin Park",
+                "category": "Park and Garden",
+                "url": "https://www.visitdaugavpils.lv/turisma-objekts/dubrovina-parks/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCMuWlGs0iwZ68y8ReINzd3VWSklwBmrES29LM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shmakovka Museum",
+                "category": "Museum",
+                "url": "http://www.smakovka.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMcQh5zya6FCELV1q8mvtcXvFSdYyyvE8YRIg22=w148-h148-n-k-no"
+            },
+            {
+                "title": "Orthodox Cathedral of Saints Boris and Gleb",
+                "category": "Orthodox church",
+                "url": "https://www.visitdaugavpils.lv/turisma-objekts/sveto-moceklu-borisa-un-gleba-pareizticigo-katedrale/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYNmBZMz-rIAgE_DcqgXlJi1_xYvccCskc1HMz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Daugavpils Local History and Art Museum",
+                "category": "Museum",
+                "url": "http://www.dnmm.lv/en/home",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5utvg-9Ifzj_4RZwl0ONceElsRiEjLVH4Kr6M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Latgale Zoo",
+                "category": "Zoo",
+                "url": "http://www.latgaleszoo.eu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObrUUlyD4DKzegUbzJLTY-xzGRJJtq9i9ggcNv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Stropu ezers",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNuQLeOChWizAU3K79dZcElJbHlslA8fJtZw2o-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Martin-Luther’s Church in Daugavpils",
+                "category": "Lutheran church",
+                "url": "http://www.luterakatedrale.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYaCy8YoIg2al-I1jq2kMdAc7XY0pBM1Nq64s1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dvietes paliene",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXeqIIbtwAipNiHdsQIYs5t1DFpswnbKnVJ4BK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lielborne Manor",
+                "category": "Hotel",
+                "url": "http://www.lielbornesmuiza.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPghGlNGxBFh76tCq-PKKHa2lUVKr1uOb0yh60_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sartų regionins parkas",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhZmg21KRASnfY44N-2QHiYB0wP7r67kLMhSas=w148-h148-n-k-no"
+            },
+            {
+                "title": "Egļukalns",
+                "category": "Elevated",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDcqXtLeC-GlkC3h8PxrZK4ThFt6KQwMqnjlT2=w148-h148-n-k-no"
+            }
+        ],
+        "Jelgava": [
+            {
+                "title": "Jelgava castle",
+                "category": "Museum",
+                "url": "https://www.jelgavaspils.lv/en",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP7mLzgmLwQtSpa9XyIc8gvTd_0aCXlBeSfAGAb=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zemgales Olimpiskais centrs",
+                "category": "Sports complex",
+                "url": "http://zoc.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPK7NSnOoZeZz_VmTYtdw19GWUGJIchi7gtOMg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sculpture \"Student of Jelgava\"",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPBXfbT11O83Wc9_xCqXCaYUy2yZXvAa7NKHJxy=w148-h148-n-k-no"
+            },
+            {
+                "title": "St.Simeon and St.Ann Orthodox Cathedral",
+                "category": "Orthodox church",
+                "url": "https://visit.jelgava.lv/en/sightseeing/churches-and-cloisters/item/91-sv-simeona-un-sv-annas-pareizticigo-katedrale",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLGDgM1G2vp7oEC9vH-i1GABSjRArxa73wTMEX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jelgava St. Trinity Church Tower",
+                "category": "Tourist attraction",
+                "url": "https://visit.jelgava.lv/lv/sv-trisvienibas-tornis",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVz2hMX0OxtzDbLPMyGrvkQzzq8VcObvI1nN3T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Wooden boardwalks at the flood-land meadows of the River Svēte",
+                "category": "Tourist attraction",
+                "url": "https://visit.jelgava.lv/lv/apskates-objekti/dabas-parki/item/4671-koka-laipas-svetes-palienes-plavas",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNV9XARvCZhoG_iN_isTOc7NX7Yloik6owInaQL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Culture Centre of Jelgava",
+                "category": "Cultural centre",
+                "url": "http://kultura.jelgava.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1j2hgqI4E81rad-HWhWTXPMKHZRvm57rEyq1a=w148-h148-n-k-no"
+            },
+            {
+                "title": "Latvijas dzelzceļa vēstures muzejs",
+                "category": "Rail museum",
+                "url": "http://www.railwaymuseum.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNv0ErrQd-XnQdv0AGTb5QFHg59Q_puOPcjpYgr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3Vlw8X7RigjvdgqO2zzOkI5D6093ZqQu-qLH_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bramberģes muiža",
+                "category": "Castle",
+                "url": "http://www.bramberge.mozello.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOLJIcUaNuQhe0QlvrI3ZJ2A_KvwIw1jhvw05VB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vērmane Garden",
+                "category": "Park and Garden",
+                "url": "http://www.riga.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7hk0UjKpymc--yvwRgr3_X6YxLP_sLsoC2snm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blankenfelde Manor",
+                "category": "Guest house",
+                "url": "https://www.blankenfeldemanor.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMm_MZYXUdeAIN5u2rcofAkwCOM6T38qWpyNqKG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bastejkalna Park",
+                "category": "Park and Garden",
+                "url": "http://rigasmezi.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMZYAMB5g5_JXA__Nqi5wgJOLLxlscxcU5iyJyy=w148-h148-n-k-no"
+            },
+            {
+                "title": "St. Peter's Church",
+                "category": "Lutheran church",
+                "url": "https://svpetera.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMt2sHIdICjba9mIdI0f5kwbZEGP4AR0PQhocCd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Forum Cinemas",
+                "category": "Cinema",
+                "url": "https://www.forumcinemas.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-ou2hhCFkXysSoN54zg1r9oi8sLYxy-mDhtHG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Arena Riga",
+                "category": "Arena",
+                "url": "http://arenariga.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO-VC6tmThvy41FlG0xb2rQCBknUnexC-J1Jnl9=w148-h148-n-k-no"
+            }
+        ],
+        "Jūrmala": [
+            {
+                "title": "Ķemeri National Park",
+                "category": "National park",
+                "url": "http://www.kemerunacionalaisparks.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVYbCwU9einAGStoedkrP9iEi_w7CjZYxyCXZ3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dzintari Forest Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvKWrNCAhp2r6mlu8Tcm69ysfiNnvsSbZaAevs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bronze statue \"The Turtle\"",
+                "category": "Tourist attraction",
+                "url": "https://www.visitjurmala.lv/en/see-and-do/tourism-attractions/architecture/sculpture-brunurupucis-the-turtle/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNH0jyhxNxOpWfcrLkcWt9moG8DzT6_svo0bLlU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dzintari Concert Hall",
+                "category": "Concert hall",
+                "url": "http://www.dzintarukoncertzale.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP4ayc08K1xa0e5SX9KL40Cvxe_gqnrrSW5qPcY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jurmala Beach",
+                "category": "Beach",
+                "url": "https://www.visitjurmala.lv/en/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJ48Lcyka4wnxbv_3_LZE8GE6DgT6JdPxjph4b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jūrmala Open-Air Museum",
+                "category": "Museum",
+                "url": "https://www.facebook.com/jbmuzejs",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEeUrgG_6iET4WXUlCFRvZGiBV6syaSMdz--EB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jūrmalas pilsētas stadions \"Sloka\"",
+                "category": "Stadium",
+                "url": "https://www.visitjurmala.lv/lv/redzi-un-dari/maksla-un-kultura/baznicas/jurmalas-pilsetas-stadions-sloka/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPg3YLFDW0C-oILsXEaoVJ4o8SmwP92zQ_24Eg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cottage of Rainis and Aspazija",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRBPwVJ7HT6lLOkzyqrSDungugx4CuMOq5BgCz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jurmala Dubulti Evangelical Lutheran Church",
+                "category": "Lutheran church",
+                "url": "http://www.dubultudraudze.lv/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLPY--renFBTF0_loXR8sNqqoPO1WW6a4M4q25=w148-h148-n-k-no"
+            },
+            {
+                "title": "Art Studio 'Inner Light'‬",
+                "category": "Art gallery",
+                "url": "http://www.yermolayev.eu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPC7S9ShByi2qvjbeIclcaUHO7PvTrE0PDJk5oD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Majori Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxr8GI93BbIOWO6Me1_mZdtwMx7RW9ybF261wV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jurmala City Museum",
+                "category": "History museum",
+                "url": "https://www.jurmala.lv/lv/jurmalas-muzejs",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMafH6AC0wRLnxm60aH-jgv3H07-T5syCOS9wuS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ķemeru kūrorta parks",
+                "category": "Park and Garden",
+                "url": "http://www.kemerunacionalaisparks.lv/?r=37&n_apmekletajiem",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPMkh2eXi4l9j1c8f0QfETR1e3vLafFmv1Mmgc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ragakāpa",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_SW_mPScGgCz0Bs3y9T_M8TTy3Lo3kqalYUZB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jomas iela",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO1sMVb8mZGiGyj4DMHY_T-LmFrI-Cz1tXnw60E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Victory Park",
+                "category": "City park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO3Vlw8X7RigjvdgqO2zzOkI5D6093ZqQu-qLH_=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "The Freedom Monument",
+            "category": "Monument",
+            "url": "http://www.latvia.travel/lv/apskates-vieta/brivibas-piemineklis",
+            "img": "https://lh5.googleusercontent.com/proxy/c9Rxx23kRPuMoyHjYNttfxb8YI6vmv_J96zHczikKOO8gqxo8q2Kskqa8OkHdB81SyT8bF5TFXsK3JqfmEevIzvjN69GtUuEbze7na2YOe5N0euwSrs13ts_5vp4w0rfbWF0QnkHO90lO8nmsVJLTDK1j8eVIFI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Riga Central Market",
+            "category": "Market",
+            "url": "http://www.rct.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOwdyXWACY_fMQgVfZzEWbGfTG6Kl3p8XrvTUj5=w148-h148-n-k-no"
+        },
+        {
+            "title": "Turaida Castle",
+            "category": "Castle",
+            "url": "http://www.turaida-muzejs.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN_t05jGNQICfdKKKp26GLd7fkcZbPtBpOJJUWj=w148-h148-n-k-no"
+        },
+        {
+            "title": "House of the Black Heads",
+            "category": "Museum",
+            "url": "https://melngalvjunams.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNa4pZp_eUgzt7305Q7jf7KNPtO-fqAPpOlDgn6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bastejkalna Park",
+            "category": "Park and Garden",
+            "url": "http://rigasmezi.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMZYAMB5g5_JXA__Nqi5wgJOLLxlscxcU5iyJyy=w148-h148-n-k-no"
+        },
+        {
+            "title": "Riga Motor Museum",
+            "category": "Technology museum",
+            "url": "http://www.motormuzejs.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPFDLa6uXPly77lQSoJauLHahvl2mA4SsPtsfs6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ķemeri National Park",
+            "category": "National park",
+            "url": "http://www.kemerunacionalaisparks.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOVYbCwU9einAGStoedkrP9iEi_w7CjZYxyCXZ3=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gauja National Park",
+            "category": "National park",
+            "url": "http://entergauja.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOaSTs1puILOLDpdYDvfLVRhUK5qcWkOXiqvieP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Zviedru vārti",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMBa6Yi7PPsBCYSnWIQ_4EbS4ZhOL7s6w9kFQvl=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Corner House",
+            "category": "Museum",
+            "url": "https://www.bezrindas.lv/en/exhibition-history-of-kgb-operations-in-latvia-on-english/6335/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNfvUKusd4zQ8E9c6YENbamvam7vBxO-xP-qWGq=w148-h148-n-k-no"
+        },
+        {
+            "title": "Art Nouveau building",
+            "category": "Museum",
+            "url": "http://www.jugendstils.riga.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMMyvKE7QQFG9ORV3uiXBRNr4C-jnWddM0eeLO_=w148-h148-n-k-no"
+        },
+        {
+            "title": "Three Brothers, Latvian Museum of Architecture",
+            "category": "Tourist attraction",
+            "url": "http://www.archmuseum.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNzOOJXf1AZPpcf1z8TH-rQYpvYlyS2jqyCVU42=w148-h148-n-k-no"
+        },
+        {
+            "title": "The Ethnographic Open-Air Museum of Latvia",
+            "category": "Ethnographic museum",
+            "url": "http://brivdabasmuzejs.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOUrn_68CyzieJmYdIt8hL5geezlGAiyDHeh0qV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jurmala Beach",
+            "category": "Beach",
+            "url": "https://www.visitjurmala.lv/en/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOBkWigw7SXIajEqeqeezxcIInMnYyEvaeOiYKR=w148-h148-n-k-no"
+        },
+        {
+            "title": "Latvian War Museum",
+            "category": "War museum",
+            "url": "http://www.karamuzejs.lv/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP9_Pj0YeAZZUUAGVJOP9lG_u0xMatOvORoDkX4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Riga Art Nouveau Center, museum",
+            "category": "Museum",
+            "url": "https://jugendstils.riga.lv/eng/sakums/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNMU-C5Qj8aZrXIPcdnHoyovlF-Ibl_ZufH9IrZ=w148-h148-n-k-no"
+        }
+    ]
+}

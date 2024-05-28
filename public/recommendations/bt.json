@@ -1,0 +1,178 @@
+{
+    "cities": {
+        "Thimphu": [
+            {
+                "title": "National Memorial Chhorten རྒྱལ་ཡོངས་རྗེས་དྲན་མཆོད་རྟེན།",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNUU51tkaEXCUPIMAx2tJe00cCrQPGslo3OoWmD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simply Bhutan",
+                "category": "Heritage museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhsl0WC5pesDyTKng5wpSM9CI8filrQaTcR-_W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Buddha Dordenma Statue སྟོན་པ་རྡོར་གདན་མ།",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPmMjFCsbCwS9xY1wyLIx_jOMPYTwuIHCJtP04=w148-h148-n-k-no"
+            },
+            {
+                "title": "Folk Heritage Museum Kawajangsa",
+                "category": "Heritage museum",
+                "url": "http://www.folkheritagemuseum.org.bt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9V-X1pqoZbeM8-31KfxWGYYW--z5N1U16Gqtr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Simtokha Dzong སེམས་རྟོགས་ཁ་རྫོང་།",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNngkjwYm1HpJeIIXR7qf_ERTwLItmBVc3icgyO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Botanical Garden Serbithang",
+                "category": "Botanical garden",
+                "url": "https://nbc.gov.bt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNl1_zFOPqYgSM1Do2xGEA9Ip91Zn08j2IR9M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tashichho Dzong",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpydkI3_isbzPYq8ArBnhEmoBcCLh1nD00bZg2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Textile Academy རྒྱལ་འཛིན་ཐག་རིག་སློབ་སྡེ།",
+                "category": "Non-profit organisation",
+                "url": "http://www.rtabhutan.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdJbJaPI5X4xj3mK-XEJ0GuCUOwjD8H3c0ZUkM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Changlimithang Football Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkarpNRWYWR4x8Q5n-K76Dmci9AnLW8Tsf92sw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paro Taktsang",
+                "category": "Buddhist temple",
+                "url": "https://www.parotaktsang.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0okgZNaU2Hh9PL6_QoOJabt9PsG3y9MyNVeuf=w148-h148-n-k-no"
+            },
+            {
+                "title": "Changlimithang Archery Ground",
+                "category": "Sports",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOzCWbbzjcC7DCt5NIrIaHtWCRLvCzjDZC6VPCt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Takin Preserve",
+                "category": "Nature reserve",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMYlJrqTlE_HSaLevlVCh2AOawjB68LfaKU0osg=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Library & Archives of Bhutan",
+                "category": "National library",
+                "url": "http://www.library.gov.bt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOi-WurwF7CRE_Ut8dGhMUjcs97VVJDjVJ97UH_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zilukha Nunnery",
+                "category": "Religious institution",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFiMJIp6cSHEfB003RA1S8eOgsDuNSYrizuFWe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dechen Phodrang Monastery བདེ་ཆེན་ཕོ་བྲང་།",
+                "category": "Buddhist temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmp2A_ZJsVWJfNxUejSF7DJIZ4PgtX7NxcUH57=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bhutan Postal Museum",
+                "category": "Museum",
+                "url": "http://www.bhutanpost.bt/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNGtHxkFRrIafDZJ36zTzJXPJgtr8PROCubhgHL=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Paro Taktsang",
+            "category": "Buddhist temple",
+            "url": "https://www.parotaktsang.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN0okgZNaU2Hh9PL6_QoOJabt9PsG3y9MyNVeuf=w148-h148-n-k-no"
+        },
+        {
+            "title": "Buddha Dordenma Statue སྟོན་པ་རྡོར་གདན་མ།",
+            "category": "Buddhist temple",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOPmMjFCsbCwS9xY1wyLIx_jOMPYTwuIHCJtP04=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Memorial Chhorten རྒྱལ་ཡོངས་རྗེས་དྲན་མཆོད་རྟེན།",
+            "category": "Buddhist temple",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNUU51tkaEXCUPIMAx2tJe00cCrQPGslo3OoWmD=w148-h148-n-k-no"
+        },
+        {
+            "title": "Punakha Dzong སྤུ་ན་ཁ་རྫོང་།",
+            "category": "Buddhist temple",
+            "url": "http://www.punakha.gov.bt/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOtpmaIrZ9-fuqKD0d9A2AoEmUVWJZbNByfYdpB=w148-h148-n-k-no"
+        },
+        {
+            "title": "Thimphu",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN9-FN04BsTdAQ9FQoNs0sf15PPm1aO38LteSIe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chimi Lhakhang",
+            "category": "Buddhist temple",
+            "url": "http://www.punakha.gov.bt/en/tourism/chimi-lhakhang",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMekVcn2mK6shOXu4nZi2LpCIo-RKf_uXCPpD48=w148-h148-n-k-no"
+        },
+        {
+            "title": "Punakha",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOBiYJIWpbwL1VeK2Ub37cL71FgSZOeWM8U4UMe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Phobjikha Valley",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOanyZy6V6o8Bu1S9JUJG1JzYs3_INuAgqw5FUe=w148-h148-n-k-no"
+        },
+        {
+            "title": "Paro",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNynaeTlvoRnmwuNRVFKC8dMfn7C1RVL5NKPgwC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Punakha Suspension Bridge",
+            "category": "Bridge",
+            "url": "http://www.punakha.gov.bt/en/tourism/suspension-bridge",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMGGzEuqX8paK5coL1VRooj989S-9dij1mY9pWw=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kyichu Lhakhang སྐྱིད་ཆུ་ལྷ་ཁང་།",
+            "category": "Buddhist temple",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPzax3h3tTprNnASYeJewsnsjOx7g3gcKuUQN-c=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dochula Pass",
+            "category": "Mountain pass",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM7eKNNHfZDeyJjPa183u7BRW3PFczmshr31dGX=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bumthang",
+            "category": "Administrative Area1",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOE53XGvubd87KCV3jEqgYUd75tVO0pPKVD41j4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Simply Bhutan",
+            "category": "Heritage museum",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNhsl0WC5pesDyTKng5wpSM9CI8filrQaTcR-_W=w148-h148-n-k-no"
+        },
+        {
+            "title": "Simtokha Dzong སེམས་རྟོགས་ཁ་རྫོང་།",
+            "category": "Fortress",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNngkjwYm1HpJeIIXR7qf_ERTwLItmBVc3icgyO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Khamsum Yulley Namgyal Choeten",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM9ACt-XUt7-658R5mKBAhb9kILC1IBEHPjyn4p=w148-h148-n-k-no"
+        }
+    ]
+}

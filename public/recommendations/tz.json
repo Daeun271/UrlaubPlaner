@@ -1,0 +1,1591 @@
+{
+    "cities": {
+        "Morogoro": [
+            {
+                "title": "Tail Spotter Safari",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPD3ciL6o_22ve0WKQ5QH7rRF2G7Ox_3BaGPjj7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yetu Safaris Company",
+                "category": "Travel Agent",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyKoyaCSFeAl0ZTeFG0H5I1NsI2szvQVI99J4M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mount Premji",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPom4tep8FmQqo4inacdbrpxNM-JTE15d6wCsU6=w148-h148-n-k-no"
+            },
+            {
+                "title": "SUA university Botanic Garden",
+                "category": "Botanical garden",
+                "url": "http://www.sua.ac.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDxPb8ajt2CTzKxJp5iinbszyI4KGZp9JoCLet=w148-h148-n-k-no"
+            },
+            {
+                "title": "Choma Waterfalls",
+                "category": "Tourist attraction",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Downtown Club And Bar",
+                "category": "Nightclub",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Jamhuri Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Udzungwa Mountains",
+                "category": "Mountain peak",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Dar Es Salaam Yacht Club",
+                "category": "Yacht club",
+                "url": "https://daryachtclub.co.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Tangeni waterfalls",
+                "category": "Hiking area",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Sea Cliff Golf Course",
+                "category": "Golf club",
+                "url": "https://book.seacliffgolf.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mzumbe University Library",
+                "category": "Library",
+                "url": "http://dlts.mzumbe.ac.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "tantrap safaris",
+                "category": "Tour operator",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "One Ocean Dive Centre - Kiwengwa",
+                "category": "Dive shop",
+                "url": "https://zanzibaroneocean.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Zanzibar Local Experience",
+                "category": "Tour operator",
+                "url": "https://www.zanzibarlocalexperience.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Udzungwa National Park Entrance",
+                "category": "National park",
+                "url": "http://www.tanzaniaparks.go.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Dodoma": [
+            {
+                "title": "IVYTREND STORE",
+                "category": "Fashion accessories shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP8dQIKs3pdBQCfrSIM9A21hkqs6KTyVubgK7Rr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Four Ways Bar",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfCa2R1-43I-oNx8oisuk2sFk4U5r8GPETy6Ld=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kondoa Irangi Cultural Tourism",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPdFeikUrv4Kcng-U30-2tTxgz_iIMos8zgJjEB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Room87",
+                "category": "Video Game Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8P_d0YEIbaKF-yALvF8l_XC4tu35NcBYJj5hc=w148-h148-n-k-no"
+            },
+            {
+                "title": "St John University Library",
+                "category": "Library",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Misterious Sinematix Dodoma",
+                "category": "Cinema",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Lugarawa Bookshop",
+                "category": "Book Shop",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Lutheran Cathedral",
+                "category": "Cathedral",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "kilimani club",
+                "category": "Social club",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "CBE Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Jamhuri Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "University of Dodoma",
+                "category": "University",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Gadaffi Mosque",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Nyerere Square",
+                "category": "Town square",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kondoa Irangi Rock Paintings",
+                "category": "Historical landmark",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Tanga": [
+            {
+                "title": "New Majestic Cinemas",
+                "category": "Cinema",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMXcls70jwY8zxvydxbg4wZbEGiX-VVql7xxVog=w148-h148-n-k-no"
+            },
+            {
+                "title": "World War 1 Graves",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNEAgR4DgxYoJpbDh1Xks46bMFF2sJT4IphqzaK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anjuman-E-Burhani, Tanga Jamaat",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPDyGp2vyTX3V6SjeNeE7s06tjxfwNJMplkQ--9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Msikiti Wa Ibadhi",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMnICkIHzfA18izuA0ylsQj3gELGdc__MIfHQ3B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mkwakwani Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOx0jF9Olp9n_yZdu96pbhOVHzwaKjQtmqhUj2W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Unguja",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNDR3gd9IBiPulv6gTyPhNHC89pjWbFKNWwS7qM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nungwi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTlCh1vqtuiO_Nzm11eyn5ugrU4m3NMhEbB5Zk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Amboni Caves",
+                "category": "Heritage museum",
+                "url": "https://livanholidays.co.tz/album/amboni-caves/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0liJFWTU47d63Fpduc_Ro6Xy-XP5bGgjtZe5m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Usambara Eco Tours",
+                "category": "Hiking area",
+                "url": "http://www.usambaraecotours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNloErcNdW39Nkhg4DcKyKye-oMdIgTRH27ZrfR=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maziwi Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOhIIc6pS6cONPA0Q4HM3xK0lexZgc2lvmJ5roF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Usambara Mountains",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOiFcbn90n1uRIoab8AHRAqVivvNLsepBn7DnVd=w148-h148-n-k-no"
+            }
+        ],
+        "Zanzibar": [
+            {
+                "title": "People's Palace",
+                "category": "History museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOaXNkO4zkgyH7BHD4B1eCRD2a_iznZZNX13wxZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kendwa Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO4B8xrPFx6RvewNJwjF6IO7pAWMXc5o0Hgnv7i=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cheetah's Rock",
+                "category": "Wildlife rescue service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQLHZdRrAO6yL0l7nCDJI6vD9amH--0TNo1nFA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jambiani Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOY38aCuJn_3GWspCNVn3mCcMPRQFcZuN8aKZjL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Paje Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMBDGm0L1qHYwCeeRmK8M9dcOhYERUb5gsq7zkW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Slave Market/Anglican Cathedral",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNBzZsnj5jJmzMUvbtWfYG5_r8vg04AoJDbC13=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Rock Restaurant Zanzibar",
+                "category": "Seafood restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPfk0Yxd7jXYmZl7sViwRJT8UFg0TMvIPIwBTbk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nungwi Marine Turtles Mnarani",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRsqfJQS6mVikxMeFhSRhKIRDX_YLAAHBkZpuG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fabio tours",
+                "category": "Tours",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVOSnxTNdzYii_xMGzYpR5i1uhJ4MCZ6a1qGzm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Old Fort",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYKhbwdZBceJphRqqeKDirs6m0Dn9e0oqT4Rf3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nungwi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNTlCh1vqtuiO_Nzm11eyn5ugrU4m3NMhEbB5Zk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Village Green spice farm zanzibar",
+                "category": "Spice Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNX1E9mUY1Xg4tEAZCkoTC-H0DZz2ACKwndA-Cu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Changu Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO0gehPM9AbnkA0bXnoHCF5qBqfbsZLV8qGiVPz=w148-h148-n-k-no"
+            },
+            {
+                "title": "SISO SPICE FARM",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlUGZckhsxY91vZGyjGPK6Q1kyZTmzimDihlLt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jozani",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMG6pCsz6LtDkpbBmqTBcHNSnfCaQO1gnbo7Hyl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mussa Abasi village spice farm kisongoni",
+                "category": "Spice Shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOYdRPCnOCqwWN2GRxAer3EA2Q6WSAXcuP5wNMg=w148-h148-n-k-no"
+            }
+        ],
+        "Lindi": [],
+        "Singida": [
+            {
+                "title": "Liti Stadium",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRFJoPDZWPsfQ_s2O_UFdbBYUr740PWFH2e1XB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Manyara National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/national_parks/lake-manyara-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrjoXo5XHJZfKyRhEHF5nweAHt2z_AFZzgrBWO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kondoa Irangi Rock Paintings",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMckdbYlZy6yX0AeVenZ4SHACA9ARKgVcmORIYd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tarangire National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/national_parks/tarangire-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCbjsw2I4TCkeaXh6HDqnZuL7tftfv23iwspi7=w148-h148-n-k-no"
+            }
+        ],
+        "Babati": [
+            {
+                "title": "Tarangire National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/national_parks/tarangire-national-park",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Suricata Safaris",
+                "category": "Tour operator",
+                "url": "http://suricatasafaris.com/",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Lake Manyara Treetop Walkway",
+                "category": "Tourist attraction",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Ranger Safaris Ltd",
+                "category": "Travel Agent",
+                "url": "http://www.rangersafaris.com/",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Rupia Adventure",
+                "category": "Travel Agent",
+                "url": "http://www.rupiaadventure.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Mbeya": [
+            {
+                "title": "NEW MUST LIBRARY",
+                "category": "Library",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Royal Tughimbe Hall",
+                "category": "Concert hall",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mzumbe Garden",
+                "category": "Garden",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Sokoine Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kitulo National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/national_parks/kitulo-national-park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Sumbawanga": [
+            {
+                "title": "KRISTO MFALME",
+                "category": "Catholic church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Jjeggoen recreation",
+                "category": "Recreation Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mbizi Plantation Offices",
+                "category": "National forest",
+                "url": "http://tfs.go.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "ELCT, Lake Tanganyika Diocese",
+                "category": "Church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kantalamba SDA Church",
+                "category": "Seventh-day Adventist church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "RICHBOU MTUMBA STORE",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Jangwani SDA Church",
+                "category": "Seventh-day Adventist church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Musoma": [
+            {
+                "title": "Anglican Church Cathedral",
+                "category": "Anglican church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Nyakato SDA Church",
+                "category": "Seventh-day Adventist church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mara Conference of SDA Church - HQ",
+                "category": "Seventh-day Adventist church",
+                "url": "http://www.mcadventist.org/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "The Dream Garden",
+                "category": "Garden",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Nyarusurya SDA Church",
+                "category": "Seventh-day Adventist church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Grumeti River",
+                "category": "River",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Serengeti National Park",
+                "category": "National park",
+                "url": "https://www.serengetiparktanzania.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mwalimu Nyerere Museum Centre",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mara River",
+                "category": "River",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Arusha": [
+            {
+                "title": "Cultural Heritage Centre",
+                "category": "Cultural centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM0fHCgt4YakOi8igBjZugpOeeX4YbXpFvxtLOr=w148-h148-n-k-no"
+            },
+            {
+                "title": "AIM Mall",
+                "category": "Shopping Centre",
+                "url": "https://m.facebook.com/aimmall/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0QPhd4t_KFDRV82b6dMyuZeRQ89GG1y2kLd1m=w148-h148-n-k-no"
+            },
+            {
+                "title": "TANZANIA JUVENILE SAFARIS",
+                "category": "Tour operator",
+                "url": "https://tanzaniajuvenile.co.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnvQX8VumnFVxFcOuDMAZhHYHnAqGlgp0Aaxkf=w148-h148-n-k-no"
+            },
+            {
+                "title": "The School of St Jude, Sisia Campus",
+                "category": "School",
+                "url": "http://www.schoolofstjude.org/",
+                "img": "https://lh5.googleusercontent.com/proxy/SKL2dmcLKhJz2ny3U5auAM1DeITC8w-0msIVeUuC0r-Dxf59Rp5k-lQIB09Zg5IFOTEjxF1X8DRmlv6WbmClC5N0mGfPpw77WHCM5BVZiXcNyzL1sT-X319VQ_0kYDnvN-Aghk9mAscbxCWmKPBgl77Gu7Xj84Y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ngorongoro Conservation Area",
+                "category": "Nature reserve",
+                "url": "https://www.ncaa.go.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN0MQ1hwMoeNCAx9GoBZAx9RBIEAUYF9GBR0xdC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tarangire National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/national_parks/tarangire-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOCbjsw2I4TCkeaXh6HDqnZuL7tftfv23iwspi7=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Tanzanite Experience",
+                "category": "Jewellery Store",
+                "url": "http://www.tanzaniteexperience.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqoZ2YP60VDlya3NHFj-2sOqe7UgR7YbZb7eRG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Shanga Gift & Workshop",
+                "category": "Gift shop",
+                "url": "http://www.shanga.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMB2atrSN0AvPOFSZc1PELSyXpOS-YNb_eYC1eM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Manyara National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/national_parks/lake-manyara-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrjoXo5XHJZfKyRhEHF5nweAHt2z_AFZzgrBWO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kibowhy Safaris",
+                "category": "Wildlife and safari park",
+                "url": "http://www.kibowhysafaris.co.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNfQvllgLbNCEilkwoF8sbSqXqcYYCqJTdSGFc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Serengeti Wakanda Tours and Safaris",
+                "category": "Tours",
+                "url": "https://serengetiwakandatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNqrn5DHcSfKK7uMZaAuEOqXbb0mveWUhj8tQiX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Meserani Snake Park",
+                "category": "Park and Garden",
+                "url": "http://www.meseranisnakepark.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWaA5xz1333dJiv3jktAHmsO_FcdilcyqeJL5G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Savannah Explorers Limited",
+                "category": "Tour operator",
+                "url": "http://savannahexplorers.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB5zbi8hVlPByVY9ksM7Z9-6MLfPiVaNpcQ8T0=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Natural History Museum-ARUSHA",
+                "category": "Museum",
+                "url": "https://www.nmt.go.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEVcKylQC-jhQJXXI9o1GWrO9U2NYX_lm1dIUj=w148-h148-n-k-no"
+            },
+            {
+                "title": "Safari soles tours",
+                "category": "Tour operator",
+                "url": "https://safarisolestours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP_PLlbJFoCQtIWbi6uX77ZRc0-NMZCvo3SU4qU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tanzania Birding And Beyond Safaris",
+                "category": "Wildlife and safari park",
+                "url": "https://www.tanzaniabirding.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipORDf9xZsQbRlmkyTmMIYspMyzaw3YLI5Se59CK=w148-h148-n-k-no"
+            }
+        ],
+        "Buseresere": [
+            {
+                "title": "Bismarck Rock",
+                "category": "Tourist attraction",
+                "url": "http://mwanza.go.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdwwRvjUoBXp1iQFBxAz1PddjVTmk2aQhp8-Kt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samaki Corner",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoRs7PzlpLA41Grd8Ra5tt_l20r1aV_EHM-rM4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rock Beach Garden",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgl3PGolLCnI0jegA5Lsb5c_0v0OVYTGrZv2Ns=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rubondo Island Camp",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONK9-3HtBm6gTBGne5SPjEngeqhVOOhdVQJJJ4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Roman Catholic Church (Jimboni)",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyFCpHf5Fv1YYO-VeExlmOIPppb-tFdWFQ7JnI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mwatulole Masjid Isqaama",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHz4G_JxJxowrWvVk1B2Nc0J7Xy_3FWlIQZhce=w148-h148-n-k-no"
+            },
+            {
+                "title": "CCM Kirumba Stadium",
+                "category": "Stadium",
+                "url": "http://www.ccm.or.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUEX6gyUCbolpD9Adi-8_wgYKTzdMHm_V3wc9C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Geita Gold Mine Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvfljOkt47MXvvO20UtgXSbTT2rU1-xS_acoSc=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalangalala Ground",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrzwv4gFSjGZEkNf5fZskgBfeNjuzUG0yyZ_K7=w148-h148-n-k-no"
+            }
+        ],
+        "Mpanda": [],
+        "Tabora": [
+            {
+                "title": "Terrace Point",
+                "category": "Nightclub",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPmBxCpnYCnvxywd-C2fYnD2vGVrmIq6MWKNtnE=w74-h74-n-k-no"
+            },
+            {
+                "title": "IPULI CATHOLIC CHURCH",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMmtGc3RXkGNHa3hKoorI_tKD-N20BErXt775DG=w74-h74-n-k-no"
+            },
+            {
+                "title": "Msikiti Wa Ijumaa مسجد",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTqZeTjDpkNekNNnearHLw5QSbqtI1X2dz3VI-=w74-h74-n-k-no"
+            },
+            {
+                "title": "Police Football Ground",
+                "category": "Football pitch",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPxOTElc_D2MHYaS2C6rHsGBJFmaSDBTB7shRXG=w74-h74-n-k-no"
+            },
+            {
+                "title": "Ali Hassan Mwinyi Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Vita Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Katumba": [
+            {
+                "title": "Minnehaha Falls",
+                "category": "Scenic point",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkWo_40MScZfrFZC1goeF1I2XSQqzeiIZPAfmz=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narrow Neck Lookout",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf-aLeuDRKSFrCYWkVKPIfRTFlKZc71YNjxdeV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Mountains Adventure Company (BMAC)",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMtwKoQxu2UmrSVIM6FDZR2dzQIIq016rvpRv3J=w148-h148-n-k-no"
+            },
+            {
+                "title": "Everglades House & Gardens",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMz5Y9clGfsyFam3vUmT6DLGb3TkBc1U8CZezz4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Scenic Skyway",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMH_UrT-qJtOVhcVbLPEPnrXfdbcV28xcyJAtW0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Scenic Railway",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPkPwwnBXYvn4O4QWHjJiDMGeI235YQZM-nqTJS=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Mountains Chocolate Company",
+                "category": "Chocolate shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXZx71L6YxImwlnZiq1akDHqzHRUer06sPiCOa=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mountain Culture Brewery - Katoomba",
+                "category": "Brewery",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPhAVP30DuRU1RKsMsO1MYpwGMNoCVfHFyxN-1z=w148-h148-n-k-no"
+            },
+            {
+                "title": "Echo Point",
+                "category": "Peninsula",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPvq_3p0OMrGzWfNxLwqM2tzTkj9-CMIUq-MlG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taronga Zoo Sydney",
+                "category": "Zoo",
+                "img": "https://lh5.googleusercontent.com/proxy/5b7s4wvOtTuQREZJQYbg_kg5TxdCqPdGzJL9ZMbqWU4YhQ0ylk9qkEK2TmnIMT94e9u8WvFiEZ83CpycjNY-H5WKbqIv1cDBJB3DP0p9mSBZdCWQJc2DIOVcx7f8rHK5TdRp-J9aRNhj0LcgaSDkZLMe-V8ArQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lotus Thai Massage Katoomba",
+                "category": "Massage therapist",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNa2JiR4PEmHbQGembq_CQ9u_CytYLsJApWsk1n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Katoomba Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNkns8avzAstw3nq3WDHnpbVqbf3vdw2Z-N8hMv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Campbell Rhododendron Gardens",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsS9TgOoV9JD-mnNji4cAZVjOLDgVeantXGUaD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Narrow Neck Trail",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNwPb7ji6fFsovoGa4kIoV9dUlnnhpXjUygX6Ri=w148-h148-n-k-no"
+            },
+            {
+                "title": "Megalong Valley",
+                "category": "Ravine",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCw10IbeMJ3_BogQU9TimpSH7Mdr41U6kzXZzK=w148-h148-n-k-no"
+            },
+            {
+                "title": "SEA LIFE Sydney Aquarium",
+                "category": "Aquarium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPQDAwIUyduxl0F5N0RqNOt0kL-f_BxOOIkjm02=w148-h148-n-k-no"
+            }
+        ],
+        "Bukoba": [
+            {
+                "title": "Badestrand Bukoba",
+                "category": "Beach",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Linas Night Club",
+                "category": "Nightclub",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kyamunene caves and waterfalls",
+                "category": "National park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kanoni River",
+                "category": "River",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Bukoba Cathedral",
+                "category": "Catholic church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "BUNENA STONE BEACH",
+                "category": "Recreation Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kaitaba Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Iringa": [
+            {
+                "title": "Wild Gaze Safaris Ltd",
+                "category": "Tour operator",
+                "url": "http://www.wildgazesafaris.co.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Cruize Wild Safaris Ltd",
+                "category": "Tour operator",
+                "url": "http://www.cruizewildsafaris.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Udzungwa Mountains",
+                "category": "Mountain peak",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Udzungwa Mountains National Park",
+                "category": "National park",
+                "url": "http://www.tanzaniaparks.go.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Ruaha National Park INGRESSO",
+                "category": "Wildlife park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Sam Safaris & Tours",
+                "category": "Tour operator",
+                "url": "http://www.samsafaristourstanzania.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Samora Stadium, Iringa",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Magic Site Mkwawa",
+                "category": "Zoo",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Iringa Boma",
+                "category": "Museum",
+                "url": "http://fahariyetu.net/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mkwawa Museum",
+                "category": "Museum",
+                "url": "http://mkwawa.com/kalenga/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Zepisa African Safaris",
+                "category": "Tour operator",
+                "url": "https://www.zepisaafricansafaris.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Matumaini Centre",
+                "category": "Non-Governmental Organisation",
+                "url": "http://matumainicentre.wordpress.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kipengere Mpanga Game Reserve",
+                "category": "Nature reserve",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Gangilonga Rock",
+                "category": "Mountain peak",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Isimila stone Age site",
+                "category": "Tourist attraction",
+                "url": "http://www.tanzaniaparks.go.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Ruaha National Park",
+                "category": "National park",
+                "url": "http://www.chuguadventures.co.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Kilosa": [
+            {
+                "title": "Iringa Boma",
+                "category": "Museum",
+                "url": "http://fahariyetu.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgsh5obockeWCGaaTK58SyvJHvWQX_aO8sjGsT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Zepisa African Safaris",
+                "category": "Tour operator",
+                "url": "https://www.zepisaafricansafaris.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipObZ8VDAAJNvQgTr9NsiCxDkYcdSyFBCYuAY_Lw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Matumaini Centre",
+                "category": "Non-Governmental Organisation",
+                "url": "http://matumainicentre.wordpress.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNOkDKWyyZYNgpCxS5JH3O__5FvrmNTEyLmIRAM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ruaha National Park",
+                "category": "National park",
+                "url": "http://www.chuguadventures.co.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPGk878YmFf-UZNgKUFB2b7F7WmmeMIBTq5VAAX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gangilonga Rock",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHA3Cb2VZKMRv92qXt6I1w8ZHmfkUDKQKGXVD7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mikumi National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/national_parks/mikumi-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNlJSRTliSVq7ysKKRhmgGTaMittq5b9LTQwEn6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Isimila stone Age site",
+                "category": "Tourist attraction",
+                "url": "http://www.tanzaniaparks.go.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMqVVkZs-lyU4Zo5mldBUCNVuLINhujomgYIU2F=w148-h148-n-k-no"
+            }
+        ],
+        "Ushirombo": [],
+        "Moshi": [],
+        "Mwanza": [
+            {
+                "title": "Rock Beach Garden",
+                "category": "Recreation Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "CCM Kirumba Stadium",
+                "category": "Stadium",
+                "url": "http://www.ccm.or.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Buzuruga Plaza",
+                "category": "Plaza",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Misterious Sinematix Mwanza",
+                "category": "Cinema",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Tunza Resort",
+                "category": "Public beach",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Fortes Africa",
+                "category": "Vehicle repair shop",
+                "url": "http://www.fortes-africa.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Rock City Mall",
+                "category": "Shopping Centre",
+                "url": "https://www.rockcitymallmwanza.co.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kamanga Ferry Terminal",
+                "category": "Ferry Terminal",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Samaki Corner",
+                "category": "Historical landmark",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Bismarck Rock",
+                "category": "Tourist attraction",
+                "url": "http://mwanza.go.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Bujora Cultural Centre and Sukuma Museum",
+                "category": "Art museum",
+                "url": "http://sukumamuseum.org/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Saanane National Park",
+                "category": "National park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Rubondo Island Camp",
+                "category": "National park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Bunda": [],
+        "Kigoma": [
+            {
+                "title": "MyCabs MyTaxis Co. Ltd",
+                "category": "Taxi service",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOabRnH7tqqA0_pC_bVhbXxYY1My8-sB02XZnWD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Dr. David Livingstone Memorial",
+                "category": "Tourist Information Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMeOJ13fPbznYN77QdGrxmDDRIXFkc4IXEybz83=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gombe National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWd_-8xRhRArv2uu5AXHomQcN-lTdfqMCAuj0s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lake Tanganyika",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPb6so99doEv_-4uynNU0ccGwdfQCsHXDFxTyMe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Halisia Afrika",
+                "category": "Tour operator",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "We Cab Tours and Safaris Tanzania",
+                "category": "Tour operator",
+                "url": "https://wecabtours.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kigoma Eco-Cultural Tourism",
+                "category": "Travel Agent",
+                "url": "http://www.kigomaecotours.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Gombe Wild Chimp Safari",
+                "category": "Tour operator",
+                "url": "http://www.gombesafari.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mahale Mountains National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/national_parks/mahale-mountains-national-park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "BEACON ADVENTURE AND SAFARIS",
+                "category": "Tourist Information Centre",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Shinyanga": [
+            {
+                "title": "Tungu River",
+                "category": "River",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Nyahanga SDA church",
+                "category": "Seventh-day Adventist church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPsP3_-sU8azBKTKFSY08Qy66ZSe8L2z_NyFWAY=w74-h74-n-k-no"
+            },
+            {
+                "title": "Roman Catholic Church Ngokolo",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMs_1CRvswgbDwIvjAsvxFeKayqBLe6fO_ru2UK=w74-h74-n-k-no"
+            },
+            {
+                "title": "Makedonia Lutheran Church (KKKT)",
+                "category": "Lutheran church",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Masjid Mama Faridah",
+                "category": "Mosque",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Bujora Cultural Centre and Sukuma Museum",
+                "category": "Art museum",
+                "url": "http://sukumamuseum.org/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Nature's Land Safaris & Rentals Ltd",
+                "category": "Tour operator",
+                "url": "http://www.natureslandsafaris.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "The Dee's Lounge",
+                "category": "Night Club",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "CCM Kambarange Stadium",
+                "category": "Stadium",
+                "url": "http://www.ccmchama.blogspot.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Nyasubi Truck Parking",
+                "category": "Car Park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Uwanja Wa Taifa Kahama",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Makumbako": [
+            {
+                "title": "Maendeleo Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgEoryIWFGGXu9dCVQxNXZJ4qXdlhpnynjbst_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Green City Social Hall",
+                "category": "Concert hall",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMGygCz1BYUQ8c0lWWtijAiF1N4VUg8qGaWkmKI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kitulo National Park",
+                "category": "National park",
+                "url": "https://www.tanzaniaparks.go.tz/national_parks/kitulo-national-park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOe2DCp701OBwgft18LQsdRrkXUHyFGIbvQvBX4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Iringa Boma",
+                "category": "Museum",
+                "url": "http://fahariyetu.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNgsh5obockeWCGaaTK58SyvJHvWQX_aO8sjGsT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mkwawa Museum",
+                "category": "Museum",
+                "url": "http://mkwawa.com/kalenga/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Von Zelewsky Cemetery Park",
+                "category": "Park and Garden",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mr Rayton Bhujo Mwakatumbula",
+                "category": "Local history museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Jactan Maddowa State",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Sokoine Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Isimila stone Age site",
+                "category": "Tourist attraction",
+                "url": "http://www.tanzaniaparks.go.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Dar es Salaam": [
+            {
+                "title": "Kanisa Kuu la Mt. Yosefu (St.Joseph Cathedral Dar es Salaam)",
+                "category": "Catholic cathedral",
+                "url": "http://www.facebook.com/stjosephdsm2016",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Havoc Nightspot",
+                "category": "Cocktail bar",
+                "url": "https://www.havocnightspot.co.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Fun City Kigamboni",
+                "category": "Water park",
+                "url": "http://www.funcity.co.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "The Tanzanite Dream",
+                "category": "Gemologist",
+                "url": "http://www.tanzanites.net/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kihindo Tours and Safaris Ltd",
+                "category": "Tour operator",
+                "url": "http://www.kihindosafaris.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Pande Game Reserve",
+                "category": "Park and Garden",
+                "url": "http://www.instagram.com/pandegamereserve",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Makala Travels",
+                "category": "Travel Agent",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "African Pangolin Safaris",
+                "category": "Tour operator",
+                "url": "https://africanpangolinsafaris.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Duteni Tours",
+                "category": "Tour operator",
+                "url": "https://www.dutenitours.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Breakdown safaris",
+                "category": "Wildlife and safari park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "KANUTH ADVENTURE SAFARI LIMITED",
+                "category": "Tour operator",
+                "url": "https://www.kanuthadventures.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Hola Africa LTD",
+                "category": "Tour operator",
+                "url": "https://www.hola-africa.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Supreme Tanzania Safaris",
+                "category": "Tour operator",
+                "url": "https://supremetanzaniasafaris.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Azam Marine Kilimanjaro Fast Ferries",
+                "category": "Cruise line company",
+                "url": "http://www.azammarine.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Dar Es Salaam Zoo",
+                "category": "Animal park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Makumbusho/ Village Museum, Mikocheni",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Bagamoyo": [
+            {
+                "title": "The Caravan Serai",
+                "category": "Museum",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Old German Boma",
+                "category": "Museum",
+                "url": "https://www.instagram.com/bagamoyo_stone_town?igsh=eGU5ODJpNG01dDY5",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "safari 56 tours",
+                "category": "Tour operator",
+                "url": "https://safari56.co.tz/",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Kiharaka Center",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9lQWOuybGfxIrR0gLxVnYMXRXJ4P_s6slMMcZ=w74-h74-n-k-no"
+            },
+            {
+                "title": "Gombani Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Mo Simba Arena, Simba Sc Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Zanzibar Extreme Water Sports",
+                "category": "Diving Centre",
+                "url": "http://www.zanzibarextremewatersports.co.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Old Arab Fort of Bagamoyo",
+                "category": "Museum",
+                "url": "https://www.instagram.com/bagamoyo_stone_town?igsh=eGU5ODJpNG01dDY5",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Paje Scooter Rent",
+                "category": "Scooter rental service",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "House of Wonders",
+                "category": "Museum",
+                "url": "https://www.wmf.org/project/house-wonders-and-palace-museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Catholic Historic Museum",
+                "category": "Museum",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Old Boma",
+                "category": "Association or organisation",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "The Hideway Resort",
+                "category": "Resort hotel",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Kaole Ruins",
+                "category": "Historical place",
+                "url": "http://www.tanzaniatouristboard.com/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Saadani National Park",
+                "category": "National park",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ],
+        "Uyovu": [
+            {
+                "title": "Roman Catholic Church (Jimboni)",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMyFCpHf5Fv1YYO-VeExlmOIPppb-tFdWFQ7JnI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mwatulole Masjid Isqaama",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHz4G_JxJxowrWvVk1B2Nc0J7Xy_3FWlIQZhce=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kalangalala Ground",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOrzwv4gFSjGZEkNf5fZskgBfeNjuzUG0yyZ_K7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bismarck Rock",
+                "category": "Tourist attraction",
+                "url": "http://mwanza.go.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOdwwRvjUoBXp1iQFBxAz1PddjVTmk2aQhp8-Kt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Samaki Corner",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOoRs7PzlpLA41Grd8Ra5tt_l20r1aV_EHM-rM4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rock Beach Garden",
+                "category": "Recreation Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgl3PGolLCnI0jegA5Lsb5c_0v0OVYTGrZv2Ns=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rubondo Island Camp",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipONK9-3HtBm6gTBGne5SPjEngeqhVOOhdVQJJJ4=w148-h148-n-k-no"
+            },
+            {
+                "title": "CCM Kirumba Stadium",
+                "category": "Stadium",
+                "url": "http://www.ccm.or.tz/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOUEX6gyUCbolpD9Adi-8_wgYKTzdMHm_V3wc9C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Geita Gold Mine Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvfljOkt47MXvvO20UtgXSbTT2rU1-xS_acoSc=w148-h148-n-k-no"
+            }
+        ],
+        "Chake Chake": [
+            {
+                "title": "Explore Pemba and Beyond Tours and Travel",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTG5xY8slUGvcnegLFlbHTKpd8CBGXTNvvAFIu=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Museum and House of Culture",
+                "category": "National museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPs9-rIVqSiSJCiio_HcQycNiXpHv96XJwIo7n=w148-h148-n-k-no"
+            },
+            {
+                "title": "Afro Divers",
+                "category": "Diving Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOx7r9XLmGeG8Ar7uPte2GVfPMgH0YlhdWTIg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catholic Historic Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNmhUH140O8otFOyb7HQLPz9dg0RfiugBITP25-=w148-h148-n-k-no"
+            },
+            {
+                "title": "PEMBA TOURS AND Taxi Service",
+                "category": "Sport tour agency",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMxJjAatj26MdLvwIMJ9cg1tWhjqMADjFmCpnmT=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ras Mkumbuu",
+                "category": "Peninsula",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWoEk7q4XRKUKL5V_IYXHdChYwzb_mivvgFvYJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Misali Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNYbdV8tKsYzbnG_zV476H-ty7MoOzDWGuW6Lth=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ngezi Forest",
+                "category": "National forest",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOcFhFZQYr-alaOuL7qEO82LTwtXlEaaoEJjfa2=w148-h148-n-k-no"
+            },
+            {
+                "title": "Vumawimbi Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRseu2ldpN_c_uB7V3LbjmivS6uxRgfK8CnaP-=w148-h148-n-k-no"
+            }
+        ],
+        "Mtwara": [
+            {
+                "title": "Makonde Beach, Police Mess",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPl8gzys8U2dQzK8-Ij_IGDJAsSL98z16jb6LZr=w74-h74-n-k-no"
+            },
+            {
+                "title": "Mtawara Stadium",
+                "category": "Stadium",
+                "img": "data:image/jpeg;base64,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"
+            },
+            {
+                "title": "Ndanda Abbey",
+                "category": "Monastery",
+                "url": "http://ndanda.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVk2w4sCKc2K3oIHyhlGOpfYKKHwZqZCmkjuk=w74-h74-n-k-no"
+            },
+            {
+                "title": "Kilwa Kisiwani",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPE_wg3eSqJgpnclKKjwbaJasWuPMJ9dA7rcTAs=w74-h74-n-k-no"
+            }
+        ],
+        "Songea": [
+            {
+                "title": "Maji Maji War Memorial",
+                "category": "Memorial park",
+                "url": "http://www.nmt.go.tz/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Ahmadiyya Muslim Jamaat: Furqan Mosque",
+                "category": "Mosque",
+                "url": "http://www.ahmadiyyatz.org/",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Majimaji Stadium b⁴ george shop",
+                "category": "Football pitch",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Zimanimoto Stadium",
+                "category": "Stadium",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Matogoro Roman Catholic Church",
+                "category": "Catholic church",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Wino Plantation Offices",
+                "category": "National forest",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            },
+            {
+                "title": "Ruhuwiko",
+                "category": "Administrative Area4",
+                "img": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Serengeti National Park",
+            "category": "National park",
+            "url": "https://www.serengetiparktanzania.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPhDZDjom7Kl2brAaEJLeARo9sJvQHVB9yN3Udn=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tarangire National Park",
+            "category": "National park",
+            "url": "https://www.tanzaniaparks.go.tz/national_parks/tarangire-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOCbjsw2I4TCkeaXh6HDqnZuL7tftfv23iwspi7=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ngorongoro Conservation Area",
+            "category": "Nature reserve",
+            "url": "https://www.ncaa.go.tz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN0MQ1hwMoeNCAx9GoBZAx9RBIEAUYF9GBR0xdC=w148-h148-n-k-no"
+        },
+        {
+            "title": "Lake Manyara National Park",
+            "category": "National park",
+            "url": "https://www.tanzaniaparks.go.tz/national_parks/lake-manyara-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMrjoXo5XHJZfKyRhEHF5nweAHt2z_AFZzgrBWO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mikumi National Park",
+            "category": "National park",
+            "url": "https://www.tanzaniaparks.go.tz/national_parks/mikumi-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNlJSRTliSVq7ysKKRhmgGTaMittq5b9LTQwEn6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Arusha National Park",
+            "category": "National park",
+            "url": "https://www.tanzaniaparks.go.tz/national_parks/arusha-national-park-1",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNFbxuoCnbDqQdq2FqdrFqOuw3jkYjip01zNN_W=w148-h148-n-k-no"
+        },
+        {
+            "title": "Selous Mapumziko Lodge",
+            "category": "Indoor accommodation",
+            "url": "http://www.selousgamereserve.net/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMonAgvfOzihhqNj1h47b6x2itiEux188uXKHj6=w148-h148-n-k-no"
+        },
+        {
+            "title": "Katavi National Park",
+            "category": "National park",
+            "url": "http://www.tanzaniaparks.go.tz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOkPQtlhiyydUcxgJOcPA2zcauunnH3LQO23Srv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Mount Kilimanjaro",
+            "category": "Volcano",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPzCWous0t1kpu5hXsUKBv6GkooR8khqDf5m9hE=w148-h148-n-k-no"
+        },
+        {
+            "title": "Serengeti",
+            "category": "Administrative Area2",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMblK7dbSDz7bFnMolaKgEEBpL0Kn_VL8fAOA4d=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gombe National Park",
+            "category": "National park",
+            "url": "https://www.tanzaniaparks.go.tz/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOWd_-8xRhRArv2uu5AXHomQcN-lTdfqMCAuj0s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Paje Beach",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMBDGm0L1qHYwCeeRmK8M9dcOhYERUb5gsq7zkW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Cheetah's Rock",
+            "category": "Wildlife rescue service",
+            "url": "http://www.cheetahsrock.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOQLHZdRrAO6yL0l7nCDJI6vD9amH--0TNo1nFA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Dar es Salaam",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP6PuqBeVTxYeN9nbo4JH6E51OTrvddCt-mt41G=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kitulo National Park",
+            "category": "National park",
+            "url": "https://www.tanzaniaparks.go.tz/national_parks/kitulo-national-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOe2DCp701OBwgft18LQsdRrkXUHyFGIbvQvBX4=w148-h148-n-k-no"
+        },
+        {
+            "title": "Old Fort",
+            "category": "Fortress",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOYKhbwdZBceJphRqqeKDirs6m0Dn9e0oqT4Rf3=w148-h148-n-k-no"
+        }
+    ]
+}

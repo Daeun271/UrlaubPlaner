@@ -1,0 +1,547 @@
+{
+    "cities": {
+        "Curepipe": [
+            {
+                "title": "Ste Helene Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMaekN7euryjKAnGwOp4thVtf74FZ-Xj6hse9T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Domaine des Aubineaux / Les Aubineaux Restaurant",
+                "category": "Restaurant",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMWlcSuxE8YJC5quT4YrhSRrDbyQDvV9oxXVA2P=w148-h148-n-k-no"
+            },
+            {
+                "title": "Maquette de Bateaux - La Flotte ltée - Bobatoshipmodels.com",
+                "category": "Model shop",
+                "url": "https://bobatoshipmodels.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO124RGwbJ4tUAq-jQSwI83SuiGP4eP4mbPfOg_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bobato apartments",
+                "category": "Holiday apartment rental",
+                "img": "https://lh3.googleusercontent.com/proxy/NuxGBgzDsejbM1fa_GhGAEw8oLfMF4eaofIWMxGBNYLzt2vly0eQp8zhvnQAF3B6VpnmqZ2CVOs_Mqx64SVABu-hxqMz09Gg7sYmnvPltcUFMTPJdoMHKwxI4rMri7htgl84SUdFFWSd66kzossGBUIyzl49oVE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bibliothèque Carnegie",
+                "category": "Library",
+                "url": "http://www.municipal-curepipe.org/library-department",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPT7LubNVHc2hREYqPBd9mfu9bHqCwAfH7z1p_4=w148-h148-n-k-no"
+            },
+            {
+                "title": "Lari Bees (LARI HONEY)",
+                "category": "Honey Farm",
+                "url": "https://larihoney.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPbGe5hOiOSKrgTrvtz6nv7kZFGI1IUMNuEF9yr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pride of the Island - Handcrafted Ship Models",
+                "category": "Souvenir manufacturer",
+                "url": "http://www.mauritiushandmadeshipmodels.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPnpc3tkJC1f0iLIzhKCmH5LNmVPE8xupQAFoxv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Trou aux Cerfs",
+                "category": "Crater",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTnanXsLjTfbwXO8pKRSUS9PfYuOFogMW3-xHy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pont Naturel",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1LqvOsWp88P0VkKduffoDDnZp5JLz5NyH2dxe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Bay",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvBl5bVkuYekByR1E1vNqUx_kDagZ10iC8XKWF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baie du Tamarin",
+                "category": "Water",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNCulco1AnucPokvF-mtAG9zF3oDia-4h67Uu3K=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chamarel Seven Colored Earth Geopark",
+                "category": "Tourist attraction",
+                "url": "https://www.chamarel7colouredearth.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOohdG8ACfrmRM9XOew6FG-rj7EFk3UNMQC6PPO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casela Nature Parks",
+                "category": "Amusement park",
+                "url": "http://www.caselaparks.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVJh4nwWCm5ePa8FaT73mQ1EozZnhv1igeaRan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Notre-Dame Auxiliatrice de Cap Malheureux",
+                "category": "Catholic church",
+                "url": "http://www.dioceseportlouis.org/index.php?option=com_content&task=view&id=42&Itemid=29",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCcXOT00LFLa4SSP7qEYBwqNpjLBTp7O81sHZe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baie du Cap",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvcg4xZd7XkP2uLQdIQrlWNj0eTyRTYnLpEYK9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Île aux Cerfs",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWoB8nI313s3KA2e6G5-1oARQ70Vjcz1w2kLrK=w148-h148-n-k-no"
+            }
+        ],
+        "Vacoas": [
+            {
+                "title": "Trou aux Cerfs",
+                "category": "Crater",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTnanXsLjTfbwXO8pKRSUS9PfYuOFogMW3-xHy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Monvert Nature Walk",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOL3HxehsoeqIKL6Vm4VFN-YWNwTvU267DP8Etq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tamarind Falls",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTcPaWWmru9rIPx7vuPoP4M-WFgSwmD7jZkUaJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mauritius Gymkhana Club",
+                "category": "Country club",
+                "url": "http://www.mgc.mu/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3k-fsYiE3PxV5UKDxKDx22AdVVhJjlL-H40Fm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Le Port Ship Model Factory and Showroom",
+                "category": "Handicraft",
+                "url": "https://le-port-ship-model-factory-and-showroom.business.site/?utm_source=gmb&utm_medium=referral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzUXiEXpO1v5-_OXjNnQEb9uPcxgiVL8LyOgEE=w148-h148-n-k-no"
+            },
+            {
+                "title": "Takamaka Boutique Winery",
+                "category": "Winery",
+                "url": "http://www.takamakawinery.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNKZQ5RscDK26SqSRFgx7NMU1Znviqa_pqkj92g=w148-h148-n-k-no"
+            },
+            {
+                "title": "Horazis",
+                "category": "Tours",
+                "url": "https://www.venturemauritius.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOKH4b6sTXgXWmhdYarqaUXs2h_B7xkjHU-z96B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Port Louis",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRhjO7rPLl2GrYU1lcXM4eL0081MvrReuX5rbM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sophie Nature Walk",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPf9k9bqTGLjny3e9fg2KIQVX0sSn3WOjEpkbzD=w148-h148-n-k-no"
+            },
+            {
+                "title": "Domaine des 7 Vallées",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN88dXHOJVxf1ED1HJvoORLrQ_RG6frkVASG5yF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Bay",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvBl5bVkuYekByR1E1vNqUx_kDagZ10iC8XKWF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casela Nature Parks",
+                "category": "Amusement park",
+                "url": "http://www.caselaparks.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVJh4nwWCm5ePa8FaT73mQ1EozZnhv1igeaRan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pont Naturel",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1LqvOsWp88P0VkKduffoDDnZp5JLz5NyH2dxe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Notre-Dame Auxiliatrice de Cap Malheureux",
+                "category": "Catholic church",
+                "url": "http://www.dioceseportlouis.org/index.php?option=com_content&task=view&id=42&Itemid=29",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCcXOT00LFLa4SSP7qEYBwqNpjLBTp7O81sHZe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chamarel Seven Colored Earth Geopark",
+                "category": "Tourist attraction",
+                "url": "https://www.chamarel7colouredearth.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOohdG8ACfrmRM9XOew6FG-rj7EFk3UNMQC6PPO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Île aux Cerfs",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWoB8nI313s3KA2e6G5-1oARQ70Vjcz1w2kLrK=w148-h148-n-k-no"
+            }
+        ],
+        "Beau Bassin-Rose Hill": [
+            {
+                "title": "Balfour Garden",
+                "category": "Park and Garden",
+                "url": "http://www.bbrh.org/index.php?option=com_content&task=view&id=47&Itemid=93",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGqN2suDcHdfKASqN2zlEaNxwNfEwzkXyn9-Pi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corps de Garde Hike Entrance",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOENQ-ZLNq-B8Dg_GmK_z9uAc252HJXqKCuNRX=w148-h148-n-k-no"
+            },
+            {
+                "title": "LINEA Boutique Spa",
+                "category": "Spa",
+                "url": "https://www.facebook.com/lineaboutiquespa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMbdnzUtfoHyORBRSadNhWksOY64thczVWr8c4h=w148-h148-n-k-no"
+            },
+            {
+                "title": "Claude Cavalot",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPLSDTZsEAryZF350rucJW3bgdWcToe927BTLd7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ebène Recreational Park",
+                "category": "Park and Garden",
+                "url": "http://www.ebenerecreationalpark.org/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11225144142929536343",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdbie8_12yA49w5PKAtcxhzP54ucBH5aKoi3co=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Anne Catholic Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPx2yBd_7Y3qbZHtJWANgvADV2Hl9GGGUmPCKqP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taxi Mauritius Transfer",
+                "category": "Taxi service",
+                "url": "https://taximauritiustransfer.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM8wm_x5flumGyR-nwLC9-DmDsKa7eDMBP_hHjs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Black River Gorges National Park",
+                "category": "National park",
+                "url": "https://mauritiusattractions.com/black-river-gorges-national-park-p-1314.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwmzhr4GO7nZRjDy506OEtwqJ5zSy6U4Kje6mQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Alpha Car Rental",
+                "category": "Car rental company",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPaFY5-_o5dYjggvrJxyxSAXSpPKxdMTr5jvt7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coquille Bonheur",
+                "category": "Tour operator",
+                "url": "http://www.coquillebonheur.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQbV1a_50LsNX6HkJxzsC4jwKU4jdjf1QbHEcG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Ste Helene Church",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMaekN7euryjKAnGwOp4thVtf74FZ-Xj6hse9T=w148-h148-n-k-no"
+            },
+            {
+                "title": "Allo Car Rental",
+                "category": "Car rental company",
+                "url": "https://allocarrental.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-m-KX4E6VT-I1HSsnGyotgtI81jbdEEd3Jlkv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Le Morne Brabant",
+                "category": "Mountain peak",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO_CgNkoBVts7TjXQFnrp0dWR4g16wP4752whuu=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chamarel Seven Colored Earth Geopark",
+                "category": "Tourist attraction",
+                "url": "https://www.chamarel7colouredearth.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOohdG8ACfrmRM9XOew6FG-rj7EFk3UNMQC6PPO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casela Nature Parks",
+                "category": "Amusement park",
+                "url": "http://www.caselaparks.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVJh4nwWCm5ePa8FaT73mQ1EozZnhv1igeaRan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Notre-Dame Auxiliatrice de Cap Malheureux",
+                "category": "Catholic church",
+                "url": "http://www.dioceseportlouis.org/index.php?option=com_content&task=view&id=42&Itemid=29",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCcXOT00LFLa4SSP7qEYBwqNpjLBTp7O81sHZe=w148-h148-n-k-no"
+            }
+        ],
+        "Port Louis": [
+            {
+                "title": "Caudan Waterfront",
+                "category": "Shopping Centre",
+                "url": "http://www.caudan.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNVgkRxGlP_N83vatvxN7NDYgWTUTCQqND2E8PZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Penny Museum",
+                "category": "History museum",
+                "url": "http://www.bluepennymuseum.com/",
+                "img": "https://lh3.googleusercontent.com/proxy/hCuBB18rFFhKbwZjXrj9vTvq3gwbE_P3OGxVFm2XZHULXRSrdrLaBjkuNstunxILuYAl8UHfELjQR8ZFW5_ayq1vKPfXDRSU7Kk4-DHb2Dc4SJAXDOFwEEzcjY9BxtvbSVZxvhJISXLsOvLafo8ItSpD0Fg2c4c=w148-h148-n-k-no"
+            },
+            {
+                "title": "Citadelle (Fort Adelaide)",
+                "category": "Fortress",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP6pT-iu5FG8aHqf1f0i7FCYViApjEs1gN0QN2u=w148-h148-n-k-no"
+            },
+            {
+                "title": "Champ de Mars",
+                "category": "Equestrian Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2ByG2gevh6_MzEjZq8MfdmlOONtiCoG757E0B=w148-h148-n-k-no"
+            },
+            {
+                "title": "St Louis Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIwyAbkwABZ4K2IUUcpKJTZZHp91-laicypiHQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Port Louis Waterfront by Landscope Mauritius",
+                "category": "Shopping Centre",
+                "url": "http://www.portlouiswaterfront.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOOwiMiApGR4iPupOVBAqNHqlQrlL7asDWjtcgM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Central Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM6hB3HgFtjnAABGCJ-WMLpW2G2zfZdM8n7obo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mauritius Postal Museum",
+                "category": "Museum",
+                "url": "http://www.mauritiuspost.mu/postal-museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM-1fgFIJO18RqE7HxAGcZ1IlaT7onzilltPKze=w148-h148-n-k-no"
+            },
+            {
+                "title": "aapravasi ghat",
+                "category": "Historical landmark",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMrxqF2XodBDc9rpX7WqiaDFZAG7Fk0ahsYgjqg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Odysseo- oceanarium (Mauritius) LTD",
+                "category": "Tourist attraction",
+                "url": "http://www.odysseomauritius.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEzisENBzXGDo2pIj7offEFVTfpORo1Nc0Bd4j=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sockalingum Meenatchee Ammen Kovil",
+                "category": "Hindu temple",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdZhYiGYxuNSzavJ1tt0PrllCrdcnJYt6PoAM1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Natural History Museum",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOneRNhtul3mwrZE44s_ryYCLvDjVVknkgTtJjQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Photographic Museum of Mauritius/Musée de la Photographie Ile Maurice",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPHDZIygWFztI7GaZB3oJgu1yiwgowSVWjWedtP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pieter Both",
+                "category": "Natural Beauty Spot",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNMZZTUy4im5ulK-Jb_G-Gfr3waSVQKdTkZ0Qd9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Place d'Armes",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS1OuXUGnPRD3EUGPtTwklf9AHyPMjyLUfny8y=w148-h148-n-k-no"
+            },
+            {
+                "title": "Black River Gorges National Park",
+                "category": "National park",
+                "url": "https://mauritiusattractions.com/black-river-gorges-national-park-p-1314.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwmzhr4GO7nZRjDy506OEtwqJ5zSy6U4Kje6mQ=w148-h148-n-k-no"
+            }
+        ],
+        "Quatre Bornes": [
+            {
+                "title": "Essential Wellness & Spa",
+                "category": "Spa",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN61oQT3MHIfn-AI7NKT--a_AHWEnvJxlxRF_6l=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nature Trails Mauritius - Deutschsprachige Ausflüge auf Mauritius",
+                "category": "Tours",
+                "url": "http://www.naturetrails-mauritius.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN3RzhbjoKqIzVh9wbtmzif9lhYjnIzbgtnXw_N=w148-h148-n-k-no"
+            },
+            {
+                "title": "ESPACE BEAUTE",
+                "category": "Beauty Salon",
+                "url": "https://espace-beaute-mauritius.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPPd4W1zLKH6X-AY8zQ-3Y95vEYKiNeFvvuBT63=w148-h148-n-k-no"
+            },
+            {
+                "title": "Black River Gorges National Park",
+                "category": "National park",
+                "url": "https://mauritiusattractions.com/black-river-gorges-national-park-p-1314.html",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwmzhr4GO7nZRjDy506OEtwqJ5zSy6U4Kje6mQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Safari Submarines",
+                "category": "Tourist attraction",
+                "url": "https://blue-safari.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNt-i3KI2ryvifeH0VqFc1j4LfiV6wfPUBD1jVd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Aquaventure Ltd",
+                "category": "Tourist attraction",
+                "url": "http://aquaventure.io/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMA_Uy5WZvMatldUMUri3rafFNFBhsAJGKO1BGk=w148-h148-n-k-no"
+            },
+            {
+                "title": "Piton du Milieu",
+                "category": "Lake",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPWwkCx_WX1Lb2JBstRtF-SSd32e8FuA6eTJSQN=w148-h148-n-k-no"
+            },
+            {
+                "title": "Casela Nature Parks",
+                "category": "Amusement park",
+                "url": "http://www.caselaparks.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVJh4nwWCm5ePa8FaT73mQ1EozZnhv1igeaRan=w148-h148-n-k-no"
+            },
+            {
+                "title": "Port Louis",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNRhjO7rPLl2GrYU1lcXM4eL0081MvrReuX5rbM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Notre-Dame Auxiliatrice de Cap Malheureux",
+                "category": "Catholic church",
+                "url": "http://www.dioceseportlouis.org/index.php?option=com_content&task=view&id=42&Itemid=29",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMCcXOT00LFLa4SSP7qEYBwqNpjLBTp7O81sHZe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chamarel Seven Colored Earth Geopark",
+                "category": "Tourist attraction",
+                "url": "https://www.chamarel7colouredearth.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOohdG8ACfrmRM9XOew6FG-rj7EFk3UNMQC6PPO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Blue Bay",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvBl5bVkuYekByR1E1vNqUx_kDagZ10iC8XKWF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pont Naturel",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN1LqvOsWp88P0VkKduffoDDnZp5JLz5NyH2dxe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Île aux Cerfs",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWoB8nI313s3KA2e6G5-1oARQ70Vjcz1w2kLrK=w148-h148-n-k-no"
+            },
+            {
+                "title": "Grand Baie",
+                "category": "Locality",
+                "img": "https://lh4.googleusercontent.com/proxy/Oi8uASavAYU4Xl_5k_1WdF_LG4fpNndwqgpmhiaFW41nvD3o8R1SQ_qh32J8pg20-JOWtn6lVNrMDCYf-AqC9__vyEDAGto3du_qbkI2WwLPWNM3DzugO-ZkgflE0ibFLBK_8KWF4iI52oN3gMkkM-kl1Uj3_A=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baie du Cap",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvcg4xZd7XkP2uLQdIQrlWNj0eTyRTYnLpEYK9=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Chamarel Seven Colored Earth Geopark",
+            "category": "Tourist attraction",
+            "url": "https://www.chamarel7colouredearth.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOohdG8ACfrmRM9XOew6FG-rj7EFk3UNMQC6PPO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Chamarel Waterfall",
+            "category": "Tourist attraction",
+            "url": "https://www.chamarel7colouredearth.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPzbCkWLq0UEYfjKf5r-zCIrcP2mSIB_72LrTEY=w148-h148-n-k-no"
+        },
+        {
+            "title": "Sir Seewoosagur Ramgoolam Botanical Garden",
+            "category": "Botanical garden",
+            "url": "http://ssrbg.govmu.org/",
+            "img": "https://lh6.googleusercontent.com/proxy/5gE1lmhV0QBDt6UMmEbhR70miY8_D4v5AO_Tp9rmcIsSXCP3e5H4LTk71mjbaYqM3tNhUg61cIApGKW1hk2w5ketXAQzAsECnMkfp80p4A3CwKktiKSXJ2pw9dB8Dcavwrbfsm74ZZwkVUMSEeDAC5hcq2kLvg=w148-h148-n-k-no"
+        },
+        {
+            "title": "Black River Gorges National Park",
+            "category": "National park",
+            "url": "https://mauritiusattractions.com/black-river-gorges-national-park-p-1314.html",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPwmzhr4GO7nZRjDy506OEtwqJ5zSy6U4Kje6mQ=w148-h148-n-k-no"
+        },
+        {
+            "title": "La Vanille Nature Park",
+            "category": "Animal park",
+            "url": "http://www.lavanillenaturepark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOZbuulSuxf44wGyf1gVA1Vf8ArmOCI82O-uspk=w148-h148-n-k-no"
+        },
+        {
+            "title": "L'Aventure du Sucre",
+            "category": "Museum",
+            "url": "https://aventuredusucre.com/fr/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipORksPa_wJAq7jM52HecO7Uz-oEY0NlyZAjw0V1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Château de Labourdonnais",
+            "category": "Museum",
+            "url": "http://www.domainedelabourdonnais.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOi1HciKxd3AVtgqDUYuuQY5wUvkZxF_coP4Ocz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Casela Nature Parks",
+            "category": "Amusement park",
+            "url": "http://www.caselaparks.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPVJh4nwWCm5ePa8FaT73mQ1EozZnhv1igeaRan=w148-h148-n-k-no"
+        },
+        {
+            "title": "Le Morne Brabant",
+            "category": "Mountain peak",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO_CgNkoBVts7TjXQFnrp0dWR4g16wP4752whuu=w148-h148-n-k-no"
+        },
+        {
+            "title": "Flic En Flac Beach",
+            "category": "Beach",
+            "url": "https://www.facebook.com/FLICENFLAC",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPR3GQ8dt2kaHSXpkRUxGR9ic_TG3DRwREjbLPz=w148-h148-n-k-no"
+        },
+        {
+            "title": "Île aux Cerfs",
+            "category": "Island",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNWoB8nI313s3KA2e6G5-1oARQ70Vjcz1w2kLrK=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tamarind Falls",
+            "category": "Tourist attraction",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOTcPaWWmru9rIPx7vuPoP4M-WFgSwmD7jZkUaJ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Blue Bay Marine Park",
+            "category": "Nature reserve",
+            "url": "https://tantulika125.wixsite.com/blue-bay-marine-park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNsAdygdizUhBYvQQsgzDtLQoy5EubIrUZ-R1cj=w148-h148-n-k-no"
+        },
+        {
+            "title": "Rhumerie de Chamarel Restaurant & Rum Distillery",
+            "category": "Restaurant",
+            "url": "http://www.rhumeriedechamarel.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMdH74C5076SmhsUC0wfgC2txd5E-yUoPmWocaO=w148-h148-n-k-no"
+        },
+        {
+            "title": "Caudan Waterfront",
+            "category": "Shopping Centre",
+            "url": "http://www.caudan.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNVgkRxGlP_N83vatvxN7NDYgWTUTCQqND2E8PZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ebony Forest Reserve Chamarel",
+            "category": "Nature reserve",
+            "url": "http://www.ebonyforest.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMte14mGBEAHuaDM9r6g8_mH4DpMz-ENSRYLgvT=w148-h148-n-k-no"
+        }
+    ]
+}

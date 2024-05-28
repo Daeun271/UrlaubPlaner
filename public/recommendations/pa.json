@@ -1,0 +1,831 @@
+{
+    "cities": {
+        "Pedregal": [
+            {
+                "title": "Parque Omar",
+                "category": "Park and Garden",
+                "url": "http://www.parqueomar.gob.pa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMgsuTaPJQ2b8fpVfR-Hn8pYNA2aN3TfkhpH-9V=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral Basilica of Santa Maria the Ancient",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvOciJqFXVw01e1917H4HF2QBSnLqWL7ETTnU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Punta Culebra Nature Center",
+                "category": "Museum",
+                "url": "https://stri.si.edu/visit/punta-culebra",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVdC6kzPN0wPae4uKXaBbZZmgZUvm4tffGwTtr=w148-h148-n-k-no"
+            },
+            {
+                "title": "San Blas Dreams • San Blas & Panama Tours",
+                "category": "Sightseeing Tour Agency",
+                "url": "http://www.sanblasdreams.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM9AuF3J_NdaMfU6ECw2l-VSFYR8eCGbcGyeaSY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Multiplaza Panamá",
+                "category": "Shopping Centre",
+                "url": "http://www.multiplaza.com/panama",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnUail8JQQOSsDGMKijy0Jpdueu3XM-rMBUN-9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Chupitos 507",
+                "category": "Bar",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMLppYKpVYnnVZWuNFoVrO9XbgoH_Hx9B8C-bI0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panama GEM Charters",
+                "category": "Boat Hire Service",
+                "url": "http://www.panamagemcharters.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNK1DoQCLqYPE7m1-5S2Hfv387Zp--TrffVCLS=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Panama Barcrawl",
+                "category": "Tours",
+                "url": "https://www.panamabarcrawl.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7yxIQMu13Kvd-d7qAjLEtI4ZkJ3EPuEs0Kj1E=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albrook Mall",
+                "category": "Shopping Centre",
+                "url": "http://albrookmall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7vRf6MexgBKuMvUEB2YW0MKyAkd6D-qrTJcmv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Moto Tour Panama",
+                "category": "Motorbike rental agency",
+                "url": "http://www.panamamototour.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP60ek5mPQut5Av2kDDj5VONcTidQWVFOzmB9mU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Scuba Panama",
+                "category": "Outdoor sports shop",
+                "url": "http://www.scubapanama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkG0SOjemWnGoefj-wuxRkX-4sHaDiYg-dN4dM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Joe Brown Adventures",
+                "category": "Tour operator",
+                "url": "https://www.joebrownadventures.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPCyfwUMrgNrbCye6WZ1xhXSCjJyHUzcC9F7nlF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miraflores Visitor's Center",
+                "category": "Visitor centre",
+                "url": "https://visitcanaldepanama.com/en/points-of-interest/miraflores-visitor-center/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAiAKMzrIPjAPzaF0GW_J9BnukB1x_Wto81jAV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Our Panama Tour Operator & Travel Agency",
+                "category": "Travel Agent",
+                "url": "http://ourpanama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNjmm0LPiaeRQU2Etj8EE17cVPs2LvoNMa2QYM3=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Real Panama Trs",
+                "category": "Tour operator",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM4vGiciDDPKMQ9cot8H1_3QJLnsVss5BybkQA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Traslados Panamá",
+                "category": "Airport shuttle service",
+                "url": "https://www.trasladospanama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM99-HB27w0UDq9WSXZEQsQt3P1C_7Ho-CaEfT9=w148-h148-n-k-no"
+            }
+        ],
+        "David": [
+            {
+                "title": "Miguel de Cervantes Saavedra Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPZXxaPxlQBg7973Bdm9oZFEynEdItjDhIjNMCy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Burica Store",
+                "category": "Fashion accessories shop",
+                "url": "https://www.instagram.com/buricastore?igsh=MW9wZDQxbWVnazFlbA==",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOTRTLAbJDQ5rudeIEseBofZfZ_3B6nC2lh0VFX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Catedral de San José de David",
+                "category": "Catholic church",
+                "url": "https://www.instagram.com/catedralsanjosededavid/?hl=es",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNhYczfIwoRNfzAORPNsVPv0OuNckP8YFtnddAe=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pesca Panama",
+                "category": "Fishing club",
+                "url": "http://www.pescapanama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN4T-dpofoGiAHJtRKgwjM0I0lVgSktoPWdoctM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sand Spot",
+                "category": "Playground",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMK1L5NM2DKoaOOfZCLljlqCtc5dHyslDIKeFze=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bongo Outdoors Tours",
+                "category": "Sightseeing Tour Agency",
+                "url": "http://www.bongoutdoors.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNIpKXFNxL_y8UJGHLq6ew3dn0TXqr_21Bc5Pti=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa La Barqueta",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpWiUuwbcz3AZAe3uUI3rVcM4ArqrfohWYNFcg=w148-h148-n-k-no"
+            },
+            {
+                "title": "Janson Coffee Shop",
+                "category": "Espresso bar",
+                "url": "http://www.jansoncoffee.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOwbd-WO5kVJECyvKlvx_WdQ_PIOukbn0FJhv3M=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hotel and Coffee Farm Finca Lérida",
+                "category": "Hotel",
+                "url": "http://www.hotelfincalerida.com/",
+                "img": "https://lh6.googleusercontent.com/proxy/7iWw5eGbcwXc7gDbV4LrPT5n5NVfC7zGnEQkt-CAN0AGC5kj0HCcbXoOCG_NBRnrha6TzmHvKPFIrfrBszQjGhmfnoMc1l8A5V21Prn1X2uBUlD5vHXdi0E8Y8RprtBakPS8mzm0hiiuaMArY6Qp6MdqgN4N8Q=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sendero Los Quetzales",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMDJfN1hWKjBf-DXiL8-8rZjlw9obKyXB7u5rox=w148-h148-n-k-no"
+            },
+            {
+                "title": "Baru Volcano National Park",
+                "category": "National park",
+                "url": "http://miambiente.gob.pa/index.php/109-parques-nacionales/363-parque-nacional-volcan-baru",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNcQdGg-_BD5BTS4NPosKCFhdBR8mxRPLMogufI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Boquete Bees and Butterflies",
+                "category": "Tourist attraction",
+                "url": "https://www.natureboquete.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNbFvYtPvK2EErWF1iSvNsOhLWDOJu_S3EXrpm1=w148-h148-n-k-no"
+            },
+            {
+                "title": "The Lost Waterfalls / Las Tres Cascadas",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTQ8b4peYgmED-Ujh51LOR7ObqfIRjx9fOY4aI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Pipeline Trail (Waterfall)",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRwc_7HYSEVXo36BGeJmukmwPs5UmuBelM9wR3=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gariche",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNI00zkkSxXszFPBo1aP27QK4JNjmwaDZwObYWA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Biblioteca de Boquete",
+                "category": "Library",
+                "url": "http://www.biblioboquete.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMq5HdXJsntDECg86aoSnvSUwXWyNyr618Aau2T=w148-h148-n-k-no"
+            }
+        ],
+        "Tocumen": [
+            {
+                "title": "Sortis Hotel, Spa & Casino",
+                "category": "Hotel",
+                "url": "https://www.marriott.com/en-us/hotels/ptyak-sortis-hotel-spa-and-casino-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+                "img": "https://lh5.googleusercontent.com/proxy/gxFyHRZL-LxJbMAduPIBzDQi0G1EvKNHAVf8mSKqH4CL8QBco5TB-PtgoPh24tal87IXPdYSXtto6WfDJNhIelH8CzgrTK-oQzCBi_A1ZDJgZy4tMYj34UdZWMz_FFzsnsBEywEzlxRM4krPrGRq-jmK6h2GFw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metromall Panamá",
+                "category": "Shopping Centre",
+                "url": "https://www.metromallonline.com/panama",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPvJyPPl2YkjQs45UX2YiEyvgMg3cSDnKCIFqxs=w148-h148-n-k-no"
+            },
+            {
+                "title": "France Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTFYko6MMt3CC4gE8k2zYeySTi9MygTBTp4P58=w148-h148-n-k-no"
+            },
+            {
+                "title": "Multiplaza Panamá",
+                "category": "Shopping Centre",
+                "url": "http://www.multiplaza.com/panama",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnUail8JQQOSsDGMKijy0Jpdueu3XM-rMBUN-9=w148-h148-n-k-no"
+            },
+            {
+                "title": "Conjunto Monumental de Las Bóvedas",
+                "category": "Monument",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVX--SwEYzPvtvMN53PxN9Ge236s9QdvcGkOt6=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albrook Mall",
+                "category": "Shopping Centre",
+                "url": "http://albrookmall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7vRf6MexgBKuMvUEB2YW0MKyAkd6D-qrTJcmv=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theatre",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx4hXZPSWNSOwgiQe-X4UNXYksxpPbX1XXYb7B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Fascinating Adventures Travel",
+                "category": "Tours",
+                "url": "https://www.fascinatingadventurestravel.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPha5f_446OacaytxDik0rIKeexTGUMjD8S5oZI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miraflores Locks",
+                "category": "Boat ramp",
+                "url": "https://visitcanaldepanama.com/en/points-of-interest/miraflores-visitor-center/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTG6OurZMzukPFSvU-ei82QFQog9RWDlrjBqRW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panamá Viejo",
+                "category": "Historical place",
+                "url": "http://www.patronatopanamaviejo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL5Dr1_dz3xlKx0CkbEUaPW0E0-Y53-jCV7-vd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Nomé Chocolate",
+                "category": "Chocolate factory",
+                "url": "https://www.cuanto.app/nomechocolate",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOmi1M6cOr3D9xf-JZfOJ7O950EyGmbK5kAgFhI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Embera Tours • Panama Tours",
+                "category": "Travel Agent",
+                "url": "https://emberatours.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPRH5QPon5tSrF6hrRDoRb7Zf3yoGncDARKsfFp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Layover Panama",
+                "category": "Travel Agent",
+                "url": "http://www.layoverpanama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpNq8FsUngFs-HnQTU_k9HL4aH0nEVhcnBv2rd=w148-h148-n-k-no"
+            },
+            {
+                "title": "PBA Holding Group",
+                "category": "Sightseeing Tour Agency",
+                "url": "http://www.pba-panama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO9Cs_OyzflgSBeEHI3DOAJJ4pf2WgL1FB4DsQl=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bridge of the Americas",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlIhhheZff8Rqq5yYJOuna0fRG9GTvmEA30PSy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Costa del Este",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaDJ_14mm6dqujMtYceqjp_4e1oQ6QT5S3JXXm=w148-h148-n-k-no"
+            }
+        ],
+        "Las Cumbres": [
+            {
+                "title": "Buenaventura",
+                "category": "Resort hotel",
+                "url": "http://www.buenaventura.com.pa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOO-64lfeinEtcHNuyOjtkXojKcE6nKhpNcneO0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro Ancón hawkwatch",
+                "category": "Bird watching area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMq40jOsG3TTV2feTU7c2HBmUf-7HuTJSeNOB2W=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cerro La Cruz Los Andes",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWqltcEMAsOvB2q6SJv66Fl406XmQj7kDSXdMP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Club de Golf de Panamá",
+                "category": "Golf club",
+                "url": "http://www.clubdegolfdepanama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN-ky0v9r-dtHmetOuqIPR2EHfB6ZBOQewkYmkY=w148-h148-n-k-no"
+            },
+            {
+                "title": "Butterfly Haven",
+                "category": "Tourist attraction",
+                "url": "http://butterflyhavenpanama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOBVihfS5ZdoS8rrgGCtc2YFHexezwqM_L_vcln=w148-h148-n-k-no"
+            },
+            {
+                "title": "India Dormida",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMpiTwhD-RSIKmPH87h0_1RM7Tfk76yvsBQG29U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sendero Ecológico Cerro Gordo | Costa Verde La Chorrera Panamá",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOPUAWgrz-w2mcbVH44zHPAIP-1QHfLa7fG9vff=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mariposario Cerro la Vieja",
+                "category": "Tourist attraction",
+                "url": "http://www.mariposariocerrolavieja.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN7S5E_HLsMjqS-U9qLaTHtumHCpjqmyUI6s9RX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Scuba Panama",
+                "category": "Outdoor sports shop",
+                "url": "http://www.scubapanama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMkG0SOjemWnGoefj-wuxRkX-4sHaDiYg-dN4dM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Punta Chame",
+                "category": "Beach pavillion",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNB8bpq2ukK_9KbYewh_nt0NuXmedqewWXhpiFp=w148-h148-n-k-no"
+            },
+            {
+                "title": "Restinga Beach",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOXT-tFpvtMT30Khoj6gyJoh2yzsmUoIHKp2GuA=w148-h148-n-k-no"
+            },
+            {
+                "title": "La India Dormida Trailhead",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNm9e0BjCaAO86rSHbhk_ijq1gYyxSlA0KmGxCB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sendero Guardaparques",
+                "category": "Hiking area",
+                "url": "http://www.caminandopanama.org/sindex.php?option=com_content&view=article&id=83:sendero-el-guardaparque&catid=12:canal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMOqJGnGWN2ciXSEjxWPJssv_VgDm-z9-D2aeBQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cascada El Vigia",
+                "category": "Hiking area",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNS5VADd3bHcmxOqmpNreipt-lUV0ha_gkJhM82=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sendero La Cruz",
+                "category": "Hiking area",
+                "url": "http://www.caminandopanama.org/senderos-central-azuero/55-sendero-de-la-cruz",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOkLvj-hKT-tvus46si8Vc7oAV5JhDJs1_p195m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Cacique Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMi1ziwogVwh8z-NGmrJCAb4lD0gvdZXQvIJEDW=w148-h148-n-k-no"
+            }
+        ],
+        "Colón": [
+            {
+                "title": "Fort San Lorenzo",
+                "category": "Historical place",
+                "url": "http://www.ppysl.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgqBZRdapevwf8tc6dkQKzwkJ3NQnztXNdPNcF=w148-h148-n-k-no"
+            },
+            {
+                "title": "Agua Clara Locks Visitor Center",
+                "category": "Observation deck",
+                "url": "https://visitcanaldepanama.com/en/centro-de-visitantes-de-agua-clara/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOGwkgYSgXPfA3cjPZuqpRda07Lc--2oQE7pIR-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Centro de Visitantes Agua Clara",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMf7GK8dnPfUYOMz8t2wifFkjI5J1p4hsXyVmSO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puerto de Cruceros",
+                "category": "Port operating company",
+                "url": "https://www.portcolon2000.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNWgdP1bcXLBW6Rd9B4_NzJEXCbhzxJiZ1g_iFo=w148-h148-n-k-no"
+            },
+            {
+                "title": "Park of Youthfulness",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOQySX6tOrzvDK8TMgH9N6A8TtIMsyYqJecxIg1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Puente Atlántico",
+                "category": "Bridge",
+                "url": "https://pancanal.com/es/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPXM9_fDj8bcFO3ysjEfA88Tq8tAsGDz-U1k4NV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Inmaculada Concepción Cathedral",
+                "category": "Catholic cathedral",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPVlu6wHGixCLEq3VLMuC4s0GdDysIOq82KgZtv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Galeta Point Marine Laboratory",
+                "category": "Research institute",
+                "url": "https://www.facebook.com/LaboratorioMarinodePuntaGaletaSmithsonian/?ref=ts&fref=ts",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNQRACvpd2cb_AB8reV1kOQAFc51yHpK_EdhZhq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gatun Locks",
+                "category": "Land mass",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP-b1riw3YQazHig6W93yQRSqfzSMM5-buUG3Ck=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gatun Dam",
+                "category": "Dam",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMKCRYJnghEW5U6BjmbTTE8Rr_EIfE9rj5xF744=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panamá Viejo",
+                "category": "Historical place",
+                "url": "http://www.patronatopanamaviejo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL5Dr1_dz3xlKx0CkbEUaPW0E0-Y53-jCV7-vd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panama Canal",
+                "category": "Canal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFL5YneaMVFmsSgxujS652P6Lk8hEgrdFO19ic=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panama Canal Museum",
+                "category": "Museum",
+                "url": "http://www.museodelcanal.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxwUlt0Yv7b9_cbOuXi6fgyyPig6ro1ifONXEP=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Portobelo",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNZ9Wf6EXXNXl4UmtwCcHducX85no3nJoYNfy5U=w148-h148-n-k-no"
+            },
+            {
+                "title": "Playa Langosta",
+                "category": "Beach",
+                "url": "http://www.playalaangosta.net/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO6kZ1vSNj-dT4IHZHNnamvRhd89WEa8wO5GiV_=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panama Canal Railway",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMc7Owg8--cyXxHairWx6GUVj5JC3x6hC56biBX=w148-h148-n-k-no"
+            }
+        ],
+        "San Miguelito": [],
+        "Juan Díaz": [
+            {
+                "title": "Estadio Rommel Fernández Gutiérrez",
+                "category": "Stadium",
+                "url": "http://pandeportes.gob.pa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMW85iOVME32stEXahE8zY3Vyw888p5E5U3j3Gt=w148-h148-n-k-no"
+            },
+            {
+                "title": "Sport Center Costa del Este",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPJDkbfJkK6QxsT5aV1yP2PLQ9pbjZUEh4RKyfO=w148-h148-n-k-no"
+            },
+            {
+                "title": "Complejo Deportivo Roberto Kelly",
+                "category": "Sports complex",
+                "url": "http://mupa.gob.pa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOts1ifvjC-wM7PYub74YF3VndxRq0VUNjKn2qw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Luis Ernesto Cascarita Tapia Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNNnITjJnIymJlciUHn7oJwmBsOXP2Lj_nJOeUL=w148-h148-n-k-no"
+            },
+            {
+                "title": "Emilio Royo Stadium",
+                "category": "Stadium",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM5jrIzToNNF9RitB6AHa-ZsoYf35beZQFBKcA=w148-h148-n-k-no"
+            },
+            {
+                "title": "France Square",
+                "category": "Tourist attraction",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMTFYko6MMt3CC4gE8k2zYeySTi9MygTBTp4P58=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bristol Panama, a Registry Collection Hotel",
+                "category": "Hotel",
+                "url": "https://www.bristolpanama.com/",
+                "img": "https://lh5.googleusercontent.com/proxy/UX9Pbi_j945LKh2w4MhBrLX_AlUg9DzLEkZh7dKtZLU8BoUOpWQhJrXUcXlSqGT8i2QBo9R0aa-eLTp3fGUxtjxNIg9B2xAtoHDDrwoCnMQ-hTdwDklrwWTffjcEhmz3VZnfUzi8v2Edr9bJT0agUWnz0N23MQ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miraflores Visitor's Center",
+                "category": "Visitor centre",
+                "url": "https://visitcanaldepanama.com/en/points-of-interest/miraflores-visitor-center/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNAiAKMzrIPjAPzaF0GW_J9BnukB1x_Wto81jAV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Rod Carew National Stadium",
+                "category": "Stadium",
+                "url": "http://www.pandeportes.gob.pa/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOH7Qf03mZWM1x3JzW_puyIM2AHOiSbX6KNdQY-=w148-h148-n-k-no"
+            },
+            {
+                "title": "Costa del Este",
+                "category": "Neighborhood",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPaDJ_14mm6dqujMtYceqjp_4e1oQ6QT5S3JXXm=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gamboa Rainforest Resort Butterfly Garden and Frog Exibit",
+                "category": "Garden",
+                "url": "http://www.gamboaresort.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOWQJNWzpacTwUs4KsOk5Mehyhw8TammOXVWsHw=w148-h148-n-k-no"
+            },
+            {
+                "title": "Complejo Deportivo 28 de Noviembre",
+                "category": "Sports complex",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP9CfIO_njxETiVr21WIdqLRTi2piD_TL5iz38G=w148-h148-n-k-no"
+            },
+            {
+                "title": "Las lajas barriada 12 de Julio sector 1",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOEz4vccUlxZCj0e7zyFIyqScV_0w1pIUd9YGn7=w148-h148-n-k-no"
+            },
+            {
+                "title": "Church of Saint Joseph",
+                "category": "Catholic church",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMdxuAwqkqGBj_SIKijpIRMm-M1eJpXLGekZNER=w148-h148-n-k-no"
+            },
+            {
+                "title": "Viveros DAHRA",
+                "category": "Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPidxB4FsMzT0U9e2QQmzvm045epkUflthMDqbH=w148-h148-n-k-no"
+            },
+            {
+                "title": "Estadio Agustín “Muquita” Sánchez",
+                "category": "Arena",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOFSKKI3W9sV8y-Mhk7vtd_T3NwScV2oRAxMgIE=w148-h148-n-k-no"
+            }
+        ],
+        "Arraiján": [
+            {
+                "title": "Miraflores Locks",
+                "category": "Boat ramp",
+                "url": "https://visitcanaldepanama.com/en/points-of-interest/miraflores-visitor-center/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTG6OurZMzukPFSvU-ei82QFQog9RWDlrjBqRW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral Basilica of Santa Maria the Ancient",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvOciJqFXVw01e1917H4HF2QBSnLqWL7ETTnU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panamá Viejo",
+                "category": "Historical place",
+                "url": "http://www.patronatopanamaviejo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL5Dr1_dz3xlKx0CkbEUaPW0E0-Y53-jCV7-vd=w148-h148-n-k-no"
+            },
+            {
+                "title": "F&F Tower",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMIhSYRG1xZYszCKd8qo6qnWzCGZp6Bh77fj6cZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bridge of the Americas",
+                "category": "Route",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMlIhhheZff8Rqq5yYJOuna0fRG9GTvmEA30PSy=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panama Canal",
+                "category": "Canal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFL5YneaMVFmsSgxujS652P6Lk8hEgrdFO19ic=w148-h148-n-k-no"
+            },
+            {
+                "title": "Parque Nacional Soberanía",
+                "category": "National park",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO40f0-glqEukZqsgIEagEdEEsi7Y7vwx_mnjKB=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panama Canal Museum",
+                "category": "Museum",
+                "url": "http://www.museodelcanal.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxwUlt0Yv7b9_cbOuXi6fgyyPig6ro1ifONXEP=w148-h148-n-k-no"
+            }
+        ],
+        "Panamá": [
+            {
+                "title": "Starfish Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPK34FvrfQaFnJUn4lfnwMC1_Hi2hyWdOgf0jbX=w148-h148-n-k-no"
+            },
+            {
+                "title": "Punta Culebra Nature Center",
+                "category": "Museum",
+                "url": "https://stri.si.edu/visit/punta-culebra",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMVdC6kzPN0wPae4uKXaBbZZmgZUvm4tffGwTtr=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miraflores Locks",
+                "category": "Boat ramp",
+                "url": "https://visitcanaldepanama.com/en/points-of-interest/miraflores-visitor-center/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTG6OurZMzukPFSvU-ei82QFQog9RWDlrjBqRW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Metropolitan Cathedral Basilica of Santa Maria the Ancient",
+                "category": "Basilica",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvOciJqFXVw01e1917H4HF2QBSnLqWL7ETTnU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Multiplaza Panamá",
+                "category": "Shopping Centre",
+                "url": "http://www.multiplaza.com/panama",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNnUail8JQQOSsDGMKijy0Jpdueu3XM-rMBUN-9=w148-h148-n-k-no"
+            },
+            {
+                "title": "National Theatre",
+                "category": "Performing arts theatre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNx4hXZPSWNSOwgiQe-X4UNXYksxpPbX1XXYb7B=w148-h148-n-k-no"
+            },
+            {
+                "title": "Bocas del Toro",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNdXh2X6c_b1IxuGZoM8s_rDM8lUS0Cwky76D2b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Albrook Mall",
+                "category": "Shopping Centre",
+                "url": "http://albrookmall.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipO7vRf6MexgBKuMvUEB2YW0MKyAkd6D-qrTJcmv=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museum of Old Panama",
+                "category": "Museum",
+                "url": "https://www.patronatopanamaviejo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNPuMJqVOqfzJFgD5rl8_GWUlPZnttEw22TJTv6=w148-h148-n-k-no"
+            },
+            {
+                "title": "MAC Panamá | Museum of Contemporary Art",
+                "category": "Art museum",
+                "url": "https://macpanama.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOP734KGd3wn6pE8RifOA1GDUj1lnCPlu5tlFiI=w148-h148-n-k-no"
+            },
+            {
+                "title": "Darien National Park",
+                "category": "National park",
+                "url": "https://whc.unesco.org/en/list/159/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2X5_lpTswRoWuO10muVjpfEwQVTRtNQeMBIRA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Anton Valley",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOuaeq8Pw9ftcjtBgRkVgOIKj_joLd_PK1p27tl=w148-h148-n-k-no"
+            },
+            {
+                "title": "El Palmar Beach",
+                "category": "Beach",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN2xWWPnvZS9q_amjRcqJ_zRTLniwYCmjqY2GHq=w148-h148-n-k-no"
+            },
+            {
+                "title": "Coiba Island",
+                "category": "Island",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvRpE-rK_lAUX1o9HUf-PpXCj9QlPk28C_eGoM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mola Museum",
+                "category": "Museum",
+                "url": "http://www.museodelamola.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMEMyt3er67lXjITxPLq4AGwyi_szAt-sbsIX_p=w148-h148-n-k-no"
+            },
+            {
+                "title": "Museo Afroantillano de Panamá",
+                "category": "Museum",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMsTWAqXEHOIyImuWGVsdaYjW32TPWkC9d0GbHQ=w148-h148-n-k-no"
+            }
+        ],
+        "La Chorrera": [
+            {
+                "title": "Biomuseo",
+                "category": "Museum",
+                "url": "https://biomuseo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNC5MNiCECXIwXdR7zja8EjlA9Tmhfol3PYiZXA=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panamá Viejo",
+                "category": "Historical place",
+                "url": "http://www.patronatopanamaviejo.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNL5Dr1_dz3xlKx0CkbEUaPW0E0-Y53-jCV7-vd=w148-h148-n-k-no"
+            },
+            {
+                "title": "Summit Trampoline Park",
+                "category": "Amusement park",
+                "url": "https://summittrampolineparkpanama.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPR1QEtlVenj0nqIozW2ApETkp67dsgOlqcN8bi=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hou Sen Frame Shop",
+                "category": "Picture framing shop",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2Wwg6NININCaWF2gtGsfbyQdCSPdsEt76m4TJ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Miraflores Locks",
+                "category": "Boat ramp",
+                "url": "https://visitcanaldepanama.com/en/points-of-interest/miraflores-visitor-center/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPTG6OurZMzukPFSvU-ei82QFQog9RWDlrjBqRW=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panama Canal",
+                "category": "Canal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNFL5YneaMVFmsSgxujS652P6Lk8hEgrdFO19ic=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kontraste Adventure",
+                "category": "Recreation Centre",
+                "url": "https://kontrasteadventure.ola.click/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNr4B0-eADONeEjKBJIBs5pTQJBEIhMEF5mpAQC=w148-h148-n-k-no"
+            },
+            {
+                "title": "Corozal American Cemetery and Memorial",
+                "category": "Cemetery",
+                "url": "https://www.abmc.gov/Corozal",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPwhmWkKjCAp-s5PDKhGJ2VqD0FyzCaFQxyBX7m=w148-h148-n-k-no"
+            },
+            {
+                "title": "Panama Canal Museum",
+                "category": "Museum",
+                "url": "http://www.museodelcanal.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOxwUlt0Yv7b9_cbOuXi6fgyyPig6ro1ifONXEP=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Miraflores Visitor's Center",
+            "category": "Visitor centre",
+            "url": "https://visitcanaldepanama.com/en/points-of-interest/miraflores-visitor-center/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNAiAKMzrIPjAPzaF0GW_J9BnukB1x_Wto81jAV=w148-h148-n-k-no"
+        },
+        {
+            "title": "Biomuseo",
+            "category": "Museum",
+            "url": "https://biomuseo.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNC5MNiCECXIwXdR7zja8EjlA9Tmhfol3PYiZXA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Metropolitan Natural Park",
+            "category": "Ecological park",
+            "url": "https://parquemetropolitano.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMvZkQ2wEbASECY4JHcR8BBOXiYr_BvkudBzaai=w148-h148-n-k-no"
+        },
+        {
+            "title": "Miraflores Locks",
+            "category": "Boat ramp",
+            "url": "https://visitcanaldepanama.com/en/points-of-interest/miraflores-visitor-center/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPTG6OurZMzukPFSvU-ei82QFQog9RWDlrjBqRW=w148-h148-n-k-no"
+        },
+        {
+            "title": "Multiplaza Panamá",
+            "category": "Shopping Centre",
+            "url": "http://www.multiplaza.com/panama",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNnUail8JQQOSsDGMKijy0Jpdueu3XM-rMBUN-9=w148-h148-n-k-no"
+        },
+        {
+            "title": "Albrook Mall",
+            "category": "Shopping Centre",
+            "url": "http://albrookmall.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO7vRf6MexgBKuMvUEB2YW0MKyAkd6D-qrTJcmv=w148-h148-n-k-no"
+        },
+        {
+            "title": "Starfish Beach",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPK34FvrfQaFnJUn4lfnwMC1_Hi2hyWdOgf0jbX=w148-h148-n-k-no"
+        },
+        {
+            "title": "San Blas Islands",
+            "category": "Archipelago",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN1_5JrAUCG3G2r8ykrB556S8k1NEAlR_REsJDG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Punta Culebra Nature Center",
+            "category": "Museum",
+            "url": "https://stri.si.edu/visit/punta-culebra",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMVdC6kzPN0wPae4uKXaBbZZmgZUvm4tffGwTtr=w148-h148-n-k-no"
+        },
+        {
+            "title": "Panama Canal Museum",
+            "category": "Museum",
+            "url": "http://www.museodelcanal.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOxwUlt0Yv7b9_cbOuXi6fgyyPig6ro1ifONXEP=w148-h148-n-k-no"
+        },
+        {
+            "title": "Metropolitan Cathedral Basilica of Santa Maria the Ancient",
+            "category": "Basilica",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNvOciJqFXVw01e1917H4HF2QBSnLqWL7ETTnU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Darien National Park",
+            "category": "National park",
+            "url": "https://whc.unesco.org/en/list/159/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP2X5_lpTswRoWuO10muVjpfEwQVTRtNQeMBIRA=w148-h148-n-k-no"
+        },
+        {
+            "title": "Parque Nacional Soberanía",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipO40f0-glqEukZqsgIEagEdEEsi7Y7vwx_mnjKB=w148-h148-n-k-no"
+        },
+        {
+            "title": "National Theatre",
+            "category": "Performing arts theatre",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNx4hXZPSWNSOwgiQe-X4UNXYksxpPbX1XXYb7B=w148-h148-n-k-no"
+        },
+        {
+            "title": "Panama Canal",
+            "category": "Canal",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNFL5YneaMVFmsSgxujS652P6Lk8hEgrdFO19ic=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bocas del Toro",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNdXh2X6c_b1IxuGZoM8s_rDM8lUS0Cwky76D2b=w148-h148-n-k-no"
+        }
+    ]
+}

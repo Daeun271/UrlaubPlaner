@@ -1,0 +1,178 @@
+{
+    "cities": {
+        "Bandar Seri Begawan": [
+            {
+                "title": "Omar Ali Saifuddien Mosque",
+                "category": "Mosque",
+                "img": "https://lh3.googleusercontent.com/proxy/1PUdCSQJQnZ2wF9obXbKdBixB_Czj2Un3xbf_qMyaAx3KixtT7F8RYxA-fzXaJmbENGjycmH1kabzDb-QjjWc5eEJQdlBSCL5fWhWYMqPbp8TGwXL2sMtfIDd9tLUYrgO0jkDaigZuIZDnbfvDE6agRqWxqzqTs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Jame' Asr Hassanil Bolkiah Mosque",
+                "category": "Mosque",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM3blmHUPz0JRnRRCnqaJbrDu7IjFWYl-iPBd9s=w148-h148-n-k-no"
+            },
+            {
+                "title": "Royal Regalia Museum",
+                "category": "Museum",
+                "url": "http://www.museums.gov.bn/Bangunan%20dan%20Galeri/Muzium%20Alat%20Kebesaran%20Diraja.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPKvY1PhAD-Lrbaqx2AYZWKlaB7vJZFtf7nI5J0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Gadong Night Market",
+                "category": "Night market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOo4ZGujuHlJyE-hlEmhAWGo1mfb3-gK03r1hDZ=w148-h148-n-k-no"
+            },
+            {
+                "title": "Istana Nurul Iman",
+                "category": "Tourist attraction",
+                "url": "http://www.istananuruliman.org/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpV5f_Gde1l-QKEQ2uF2r_eqNli_0Rwn1xeK8b=w148-h148-n-k-no"
+            },
+            {
+                "title": "Tasek Lama Recreational Park",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOVKAga7IhJHVOi1uvKoEUomuVszpANj2q9K_rU=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kampong Ayer",
+                "category": "Locality",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMvHPZN9cDnoMfQhFeX3IpBVHF5FIfy9b8JKwm0=w148-h148-n-k-no"
+            },
+            {
+                "title": "Taman Mahkota Jubli Emas",
+                "category": "Park and Garden",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP0u-unvxPNrXpvOCRSXc0iTIu0ZTGwJTIe1XWh=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kianggeh Market",
+                "category": "Market",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2JsM-7ba2RYfLjUnWCIGJeR_a7qz4_sMvzpiG=w148-h148-n-k-no"
+            },
+            {
+                "title": "Yayasan Sultan Haji Hassanal Bolkiah Complex",
+                "category": "Building",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOy05iLN5HDsdw-PN7lUSgIvrF6J6BOCN8vLwZV=w148-h148-n-k-no"
+            },
+            {
+                "title": "Malay Technology Museum",
+                "category": "Museum",
+                "url": "http://www.museums.gov.bn/Bangunan%20dan%20Galeri/Muzium%20Teknologi%20Melayu.aspx",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPtqNjraC9Hn66jEHigrSVqnTjI623Arc9Ppw-1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Teng Yun Temple",
+                "category": "Compound grounds",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNpDSv4anXJTc0J_fk1S4sczPVJJK7AX299ld_C=w148-h148-n-k-no"
+            },
+            {
+                "title": "Kampong Ayer Cultural & Tourism Gallery",
+                "category": "Exhibit",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPzVbv5ssZ3Xspc3b_Qd-seTAAfnLML5eygOyM=w148-h148-n-k-no"
+            },
+            {
+                "title": "Hua Ho Department Store Manggis",
+                "category": "Shopping Centre",
+                "url": "https://www.facebook.com/HuaHoDepartmentStoreManggis/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPqelOH_sPSn-HwgOsWM66flXKi7hv3lhGSZLvs=w148-h148-n-k-no"
+            },
+            {
+                "title": "Times Square Shopping Centre",
+                "category": "Shopping Centre",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPgBxTIkqq8gofwxhQXKdrdKf5pitWsv7rfJaY1=w148-h148-n-k-no"
+            },
+            {
+                "title": "Mabohai Shopping Complex",
+                "category": "Shopping Centre",
+                "url": "https://www.mabohai.com/",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMPCeYbUis_N8gy5BrI3gCmoEbPFqbovtH2NpoZ=w148-h148-n-k-no"
+            }
+        ]
+    },
+    "sights": [
+        {
+            "title": "Omar Ali Saifuddien Mosque",
+            "category": "Mosque",
+            "img": "https://lh3.googleusercontent.com/proxy/1PUdCSQJQnZ2wF9obXbKdBixB_Czj2Un3xbf_qMyaAx3KixtT7F8RYxA-fzXaJmbENGjycmH1kabzDb-QjjWc5eEJQdlBSCL5fWhWYMqPbp8TGwXL2sMtfIDd9tLUYrgO0jkDaigZuIZDnbfvDE6agRqWxqzqTs=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jame' Asr Hassanil Bolkiah Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM3blmHUPz0JRnRRCnqaJbrDu7IjFWYl-iPBd9s=w148-h148-n-k-no"
+        },
+        {
+            "title": "Royal Regalia Museum",
+            "category": "Museum",
+            "url": "http://www.museums.gov.bn/Bangunan%20dan%20Galeri/Muzium%20Alat%20Kebesaran%20Diraja.aspx",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPKvY1PhAD-Lrbaqx2AYZWKlaB7vJZFtf7nI5J0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Gadong Night Market",
+            "category": "Night market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOo4ZGujuHlJyE-hlEmhAWGo1mfb3-gK03r1hDZ=w148-h148-n-k-no"
+        },
+        {
+            "title": "Jerudong Park Playground",
+            "category": "Amusement park",
+            "url": "http://www.jerudongpark.com/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMcjAfBiQX9BQ_J-EkeoU8ZApUyoxT3tw-7B3jx=w148-h148-n-k-no"
+        },
+        {
+            "title": "Istana Nurul Iman",
+            "category": "Tourist attraction",
+            "url": "http://www.istananuruliman.org/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPpV5f_Gde1l-QKEQ2uF2r_eqNli_0Rwn1xeK8b=w148-h148-n-k-no"
+        },
+        {
+            "title": "Bandar Seri Begawan",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNpgPkwuB56xqlQ5raK2ICFYjuXir80jOPBPZ5g=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tasek Lama Recreational Park",
+            "category": "Park and Garden",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOVKAga7IhJHVOi1uvKoEUomuVszpANj2q9K_rU=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ulu Temburong National Park",
+            "category": "National park",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN6GvrAqD0PTJnvNdxli0PUYu3E69V4ZWUNYSdI=w148-h148-n-k-no"
+        },
+        {
+            "title": "Billionth Barrel Monument",
+            "category": "Landmark",
+            "url": "https://bruneitourism.com/places-to-go/districts/belait/",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMaXdRyrw7pemMww4H6uPPfWshvJeAe4lrV08q0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kianggeh Market",
+            "category": "Market",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM2JsM-7ba2RYfLjUnWCIGJeR_a7qz4_sMvzpiG=w148-h148-n-k-no"
+        },
+        {
+            "title": "Malay Technology Museum",
+            "category": "Museum",
+            "url": "http://www.museums.gov.bn/Bangunan%20dan%20Galeri/Muzium%20Teknologi%20Melayu.aspx",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPtqNjraC9Hn66jEHigrSVqnTjI623Arc9Ppw-1=w148-h148-n-k-no"
+        },
+        {
+            "title": "Kampong Ayer",
+            "category": "Locality",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMvHPZN9cDnoMfQhFeX3IpBVHF5FIfy9b8JKwm0=w148-h148-n-k-no"
+        },
+        {
+            "title": "Tasek Merimbun",
+            "category": "Lake",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNIkJgecJnhF9aRMHMpm5Ma-Lx_qY5ftt_Cn8us=w148-h148-n-k-no"
+        },
+        {
+            "title": "Pantai Seri Kenangan",
+            "category": "Beach",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOyZeZUPw1n6a61Wtv7oLuQNng7IqZtajXFu9Ej=w148-h148-n-k-no"
+        },
+        {
+            "title": "Ash Shaliheen Mosque",
+            "category": "Mosque",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM8-doPolwtslPRYCkEuLZELKUQk0QKGNIrUFKD=w148-h148-n-k-no"
+        }
+    ]
+}
