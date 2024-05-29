@@ -6,14 +6,9 @@
             <img src="../assets/icons/icons8-modify-150.png" class="overlay-icon" @click="isClicked = true" />
         </div>
         <div style="width: 100%">
-            <TripContainer
-                @planClick="$router.push({ name: 'group', params: { groupId: trip.id } })"
-                v-for="trip in trips"
-                v-bind:key="trip.id"
-                :countryNameTxt="trip.country"
-                :travelDuration="trip.arrivalDate + '-' + trip.departureDate"
-                @invideClick="invide(trip.id)"
-            />
+            <TripContainer @planClick="$router.push({ name: 'group', params: { groupId: trip.id } })"
+                v-for="trip in trips" v-bind:key="trip.id" :countryNameTxt="trip.country"
+                :travelDuration="trip.departureDate + '-' + trip.arrivalDate" @invideClick="invide(trip.id)" />
             <button @click="$router.push('/create-group')" class="empty">
                 <img src="../assets/icons/icons8-plus.svg" alt="Create" />
                 <p>Create a trip plan</p>
@@ -27,13 +22,8 @@
             </div>
             <template v-slot:footer>
                 <div>
-                    <Button
-                        @click="$router.push('/setting')"
-                        @keyup.enter="$router.push('/setting')"
-                        btnText="Change my profile"
-                        class="btn-primary"
-                        style="width: 100%; height: 40px"
-                    />
+                    <Button @click="$router.push('/setting')" @keyup.enter="$router.push('/setting')"
+                        btnText="Change my profile" class="btn-primary" style="width: 100%; height: 40px" />
                 </div>
             </template>
         </Modal>
@@ -168,7 +158,7 @@ const invide = async (tripId) => {
     border-color: #616467;
 }
 
-.empty > p {
+.empty>p {
     margin-top: 17px;
     margin-bottom: 0px;
     font-size: 17px;
@@ -183,11 +173,11 @@ const invide = async (tripId) => {
     gap: 10px;
 }
 
-.user-container > h2 {
+.user-container>h2 {
     margin: 0;
 }
 
-.user-container > p {
+.user-container>p {
     margin: 0;
 }
 </style>

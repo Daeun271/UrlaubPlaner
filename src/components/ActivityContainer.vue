@@ -8,12 +8,8 @@
                 <p class="date">{{ startDate }} - {{ finishDate }}</p>
             </div>
             <div v-if="!todo">
-                <img
-                    src="../assets/logos/icons8-undo-25.png"
-                    alt="Undo"
-                    @click="$emit('undoClick')"
-                    class="image undo"
-                />
+                <img src="../assets/icons/icons8-undo-25.png" alt="Undo" @click="$emit('undoClick')"
+                    class="image undo" />
             </div>
         </div>
         <p class="description">{{ descriptionTxt }}</p>
@@ -30,18 +26,10 @@
                 <img :src="userPhoto" alt="user photo" style="width: 30px; height: 30px" />
             </div>
             <div v-if="todo" class="setting-container">
-                <img
-                    src="../assets/icons/icons8-einstellungen.svg"
-                    alt="Change"
-                    @click="$emit('editClick')"
-                    class="image"
-                />
-                <img
-                    src="../assets/icons/icons8-stornieren.svg"
-                    alt="Remove"
-                    @click="$emit('removeClick')"
-                    class="image"
-                />
+                <img src="../assets/icons/icons8-einstellungen.svg" alt="Change" @click="$emit('editClick')"
+                    class="image" />
+                <img src="../assets/icons/icons8-stornieren.svg" alt="Remove" @click="$emit('removeClick')"
+                    class="image" />
             </div>
         </div>
         <div class="message-container">
@@ -208,7 +196,7 @@ a:focus {
     column-gap: 5px;
 }
 
-.user-container > p {
+.user-container>p {
     margin: 0px;
 }
 

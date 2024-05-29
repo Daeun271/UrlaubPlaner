@@ -4,7 +4,7 @@
             <div class="description-container">
                 <h1>{{ attraction.title }}</h1>
                 <p>{{ attraction.category }}</p>
-                <a :href="attraction.url">Visit website</a>
+                <a v-if="attraction.url" :href="attraction.url">Visit website</a>
             </div>
             <img :src="attraction.img" />
         </div>
