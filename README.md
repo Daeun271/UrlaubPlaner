@@ -1,8 +1,6 @@
 # Urlaubsplaner
 
-This is an web application that allows you to plan trips with family or friends. You can share and organize everything related to your trip with friends or family.
-
-The main components are followed by
+This is an web application that allows you to plan trips with family or friends. The main components are followed by
 
 1. You can collaboratively plan your trip before or during your travel.
 2. You can set a travel budget and manage expenses together.
@@ -11,10 +9,6 @@ The main components are followed by
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
@@ -38,10 +32,7 @@ npm run build
 
 ### Environment
 
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 ### Config
 
@@ -49,8 +40,7 @@ npm run build
 
 ### Language
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ### Framework
 
@@ -63,33 +53,28 @@ npm run build
 ## Usage
 
 1. Sign up/in
-   ![signUp](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signUp.png)
+   ![signUp](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signUp.png) ![signIn](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signIn.png)
 
-![signIn](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signIn.png)
+2. Group overview
+   ![groupList](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/userPage.png) ![createGroup](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/createGroup.png)
 
-2. User data
-   ![user](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/userPage.png)
+    ![group](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/invite.png)
 
-3. User setting
-   ![setting](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/settingPage.png)
-
-![updateProfile](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/profileChange.png)
-
-4. Group setting
-   ![createGroup](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/createGroup.png)
-
-![group](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/invite.png)
-
-4. Plan
+3. Plan
    ![planOverview](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/plan.png)
 
-![addPlan](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/addActivity.png)
+    ![addPlan](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/addActivity.png)
 
-5. Chat
+4. Chat
    ![chat](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/chat.png)
 
-6. Expense
+5. Expense
    ![travelAccount](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/expensePage.png)
 
-7. Recommendation
+6. Recommendation
    ![recommendation](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/recommendationPage.png)
+
+7. User setting
+   ![setting](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/settingPage.png)
+
+    ![updateProfile](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/profileChange.png)
