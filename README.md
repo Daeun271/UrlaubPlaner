@@ -28,11 +28,11 @@ npm run dev
 npm run build
 ```
 
-## Technologies
+## Technology stacks
 
 ### Environment
 
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 ### Config
 
@@ -94,9 +94,11 @@ Users can enter all expenses incurred during the trip.
 
 ### 6. Recommendation
 
-The user will receive recommendations for things to do in the country or city they are planning to visit.
+The user will get recommendations for things to do in the country or city they are planning to visit.
 
 <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/recommendationPage.png" width="70%">
+
+When generating a recommendation list for a city, fuzzy matching with the Levenshtein algorithm will be used.
 
 ### 7. User setting
 
