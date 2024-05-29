@@ -54,7 +54,10 @@ npm run build
 
 ### 1. Sign up/in
 
-    <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signUp.png"> <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signIn.png">
+    <p align="middle">
+        <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signUp.png" width="50%">
+        <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signIn.png" width="50%">
+    </p>
 
 ### 2. Group overview
 
