@@ -55,15 +55,15 @@ npm run build
 ### 1. Sign up/in
 
 <p align="middle">
-    <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signUp.png" width="50%">
-    <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signIn.png" width="50%">
+    <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signUp.png" width="40%">
+    <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signIn.png" width="40%">
 </p>
 
 ### 2. Group overview
 
 Once the user successfully signs up or logs in, they will be automatically routed to this page. Here, the user can see all their groups.
 
-<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/userPage.png" width="50%">
+<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/userPage.png" width="70%">
 
 <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/createGroup.png" width="50%">
 
@@ -75,19 +75,19 @@ The user can view brief information about each travel group. Additionally, they 
 
 ### 3. Plan
 
-<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/plan.png" width="50%">
+<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/plan.png" width="70%">
 
-<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/addActivity.png" width="50%">
+<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/addActivity.png" width="70%">
 
 ### 4. Chat
 
-<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/chat.png" width="50%">
+<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/chat.png" width="70%">
 
 ### 5. Expense
 
 Users can enter all expenses incurred during the trip.
 
-<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/expensePage.png" width="50%">
+<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/expensePage.png" width="70%">
 
 -   In addition to travel expenses, a travel budget is created based on the costs of activities planned on the "Plan" page. As travel expenses occur, the current expenditure is updated. All these amounts are displayed in both the user's desired currency and the currency of the travel destination. Exchange rates are updated daily using the ExchangeRate API.
 -   After the trip ends, the total travel cost is divided equally among the members (1/N), allowing users to see who owes money to whom and who should receive money from whom.
@@ -96,10 +96,10 @@ Users can enter all expenses incurred during the trip.
 
 The user will receive recommendations for things to do in the country or city they are planning to visit.
 
-<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/recommendationPage.png" width="50%">
+<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/recommendationPage.png" width="70%">
 
 ### 7. User setting
 
-<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/settingPage.png" width="50%">
+<img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/settingPage.png" width="70%">
 
 <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/profileChange.png" width="50%">
