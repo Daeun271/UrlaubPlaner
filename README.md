@@ -61,3 +61,35 @@ npm run build
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 ## Usage
+
+1. Sign up/in
+   ![signUp](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signUp.png)
+
+![signIn](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signIn.png)
+
+2. User data
+   ![user](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/userPage.png)
+
+3. User setting
+   ![setting](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/settingPage.png)
+
+![updateProfile](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/profileChange.png)
+
+4. Group setting
+   ![createGroup](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/createGroup.png)
+
+![group](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/invite.png)
+
+4. Plan
+   ![planOverview](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/plan.png)
+
+![addPlan](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/addActivity.png)
+
+5. Chat
+   ![chat](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/chat.png)
+
+6. Expense
+   ![travelAccount](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/expensePage.png)
+
+7. Recommendation
+   ![recommendation](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/recommendationPage.png)
