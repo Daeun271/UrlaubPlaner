@@ -52,29 +52,51 @@ npm run build
 
 ## Usage
 
-1. Sign up/in
-   ![signUp](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signUp.png) ![signIn](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signIn.png)
+### 1. Sign up/in
 
-2. Group overview
-   ![groupList](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/userPage.png) ![createGroup](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/createGroup.png)
+    <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signUp.png"> <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/signIn.png">
 
-    ![group](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/invite.png)
+### 2. Group overview
 
-3. Plan
-   ![planOverview](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/plan.png)
+    Once the user successfully signs up or logs in, they will be automatically routed to this page. Here, the user can see all their groups.
 
-    ![addPlan](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/addActivity.png)
+   <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/userPage.png">
 
-4. Chat
-   ![chat](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/chat.png)
+   <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/createGroup.png">
 
-5. Expense
-   ![travelAccount](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/expensePage.png)
+On this page, the user can also create a group with friends to travel together.
 
-6. Recommendation
-   ![recommendation](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/recommendationPage.png)
+    <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/invite.png">
 
-7. User setting
-   ![setting](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/settingPage.png)
+    The user can view brief information about each travel group. Additionally, they can invite friends to join the group by copying a link or through social media. Invited friends will be automatically routed to this page upon successfully signing up or logging in.
 
-    ![updateProfile](https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/profileChange.png)
+### 3. Plan
+
+   <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/plan.png">
+
+    <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/addActivity.png">
+
+### 4. Chat
+
+   <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/chat.png">
+
+### 5. Expense
+
+    Here, users can enter all expenses incurred during the trip.
+
+   <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/expensePage.png">
+   
+    * In addition to travel expenses, a travel budget is created based on the costs of activities planned on the "Plan" page. As travel expenses occur, the current expenditure is updated. All these amounts are displayed in both the user's desired currency and the currency of the travel destination. Exchange rates are updated daily using the ExchangeRate API.
+    * After the trip ends, the total travel cost is divided equally among the members (1/N), allowing users to see who owes money to whom and who should receive money from whom.
+
+### 6. Recommendation
+
+    The user will receive recommendations for things to do or see in the country or city they are planning to visit.
+
+   <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/recommendationPage.png">
+
+### 7. User setting
+
+   <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/settingPage.png">
+
+    <img src="https://github.com/Daeun271/UrlaubsPlaner/blob/main/urlaub-planer-images/profileChange.png">
